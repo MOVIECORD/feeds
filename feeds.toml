@@ -1,6 +1,6 @@
 [vlive_vscreen]
 title = "V SCREEN"
-url = "https://www.vlive.tv/channel/C956BB/board/5167"
+url = "https://www.vlive.tv/channel/C956BB/board/5167?lang=ko"
 entrySelector = "li[class^='post_item']"
 titleSelector = "strong[class^='title_text']"
 linkSelector = "a[class^='post_area']"
