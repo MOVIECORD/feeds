@@ -8,9 +8,9 @@ imageSelector = "span[class^='covered_image']"
 contentSelector = "span[class^='upload_time']"
 waitUntil = "networkidle"
 
-[vlive_vscreen]
+[daummovie_news_popular]
 title = "V SCREEN"
-url = "https://movie.daum.net/contents/news?type=popular"
+url = "다음영화 뉴스 인기"
 entrySelector = "div.box_movienews > ol > li"
 titleSelector = "strong a[class='link_txt']"
 linkSelector = "strong a[class='link_txt']"
