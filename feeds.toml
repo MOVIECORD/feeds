@@ -28,7 +28,6 @@ imageSelector = "span[class='bg_img']"
 contentSelector = "p[class='desc_thumb'] a"
 waitUntil = "networkidle"
 
-
 [kakaotv_preview]
 title = "우리 영화 볼래?"
 url = "https://tv.kakao.com/channel/462787/video"
@@ -37,3 +36,12 @@ titleSelector = "strong[class='tit_item']"
 linkSelector = "li a[class='link_contents']"
 imageSelector = "img[class='thumb_img']"
 contentSelector = "span[data-raw-date]"
+
+[navertv_moviepreview]
+title = "네이버 영화 예고편 저장소"
+url = "https://tv.naver.com/navermovie/clips"
+entrySelector = "div div[class^='cds _MM_CARD']"
+titleSelector = "dt > a > tooltip"
+linkSelector = "dt a"
+imageSelector = "div[class='cds_type'] a img"
+contentSelector = "span[class='time']"
