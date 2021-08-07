@@ -9,8 +9,8 @@ contentSelector = "span[class^='upload_time']"
 waitUntil = "networkidle"
 
 [daummovie_news_popular]
-title = "V SCREEN"
-url = "다음영화 뉴스 인기"
+title = "다음영화 뉴스 인기"
+url = "https://movie.daum.net/contents/news?type=popular"
 entrySelector = "div.box_movienews > ol > li"
 titleSelector = "strong a[class='link_txt']"
 linkSelector = "strong a[class='link_txt']"
