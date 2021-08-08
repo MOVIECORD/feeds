@@ -1,8 +1,131 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-08-08T21:13:16.264Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 08 Aug 2021 23:14:29 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['이태석 신부' 뜻 전한 감독, 실제로는 불교신자..종교 초월하는 '참뜻']]></title>
+            <link>https://v.daum.net/v/20210809080555121</link>
+            <guid>https://v.daum.net/v/20210809080555121</guid>
+            <pubDate>Sun, 08 Aug 2021 23:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp;이태석 재단이 2021년 영화 '부활'과 함께 날아올랐다. 이태석 재단이 '부활'로 이태석 신부가 남긴 선한 영향력을 전하며 신드롬의 진원지로 큰 역할을 수행한 것. 먼저 이태석 신부의 뜻을 전한 구수환 감독은 영화를 제작하며 사회에 '서번트 리더십'의 중요성을 직접 외쳤다. 이는 코로나 시국, 정치계의 문제를 해결할 수 있는&nbsp; 가]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2Fpoctan%2F20210809080555268jkcv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[개봉 D-2 '싱크홀', 예매율 1위 기록..'모가디슈' 사전 예매량 돌파]]></title>
+            <link>https://v.daum.net/v/20210809075911003</link>
+            <guid>https://v.daum.net/v/20210809075911003</guid>
+            <pubDate>Sun, 08 Aug 2021 23:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 현혜선 기자] '싱크홀'이 예매율 1위에 올랐다. 9일 오전 7시 기준 영화진흥위원회 영화관입장권통합전산망에 따르면 영화 '싱크홀'은 전체 예매율 1위를 수성하며 본격 흥행 카운트다운에 돌입했다. '싱크홀'은 11년 만에 마련한 내 집이 지하 500m 초대형 싱크홀로 추락하며 벌어지는 재난 버스터다. '싱크홀'의 사전 예매량 3만7790장은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2Fsportstoday%2F20210809075912339efsy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["최악 위기→최고 결과" 흥행 기현상 '모가디슈' 200만 눈앞[공식]]]></title>
+            <link>https://v.daum.net/v/20210809075136875</link>
+            <guid>https://v.daum.net/v/20210809075136875</guid>
+            <pubDate>Sun, 08 Aug 2021 23:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[최고의 흥행 시너지가 터졌다. 영화 '모가디슈(류승완 감독)'가 누적관객수 171만2265​명을 동원하며 2주 연속 압도적 주말 박스오피스 1위에 등극했다. 영화진흥위원회 영화관입장권통합전산망 기준 '모가디슈'는 8일까지 누적관객수 171만2265​명을 동원, 신작 '더 수어사이드 스쿼드'보다 주말기간 약 2.7배 이상 관객수를 모으며 2주 연속 압도]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2Filgansports%2F20210809075136294gmmb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[개봉 D-2 '싱크홀', 예매율 1위..사전 예매량 '모가디슈' 넘었다]]></title>
+            <link>https://v.daum.net/v/20210809074904842</link>
+            <guid>https://v.daum.net/v/20210809074904842</guid>
+            <pubDate>Sun, 08 Aug 2021 23:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '싱크홀(김지훈 감독)'이 개봉을 이틀 앞둔 9일 부동의 예매율 1위를 기록했다. '싱크홀'은 11년 만에 마련한 내 집이 지하 500m 초대형 싱크홀로 추락하며 벌어지는 재난 버스터. 개봉을 이틀 앞둔 9일 오전 7시 20분 영화진흥위원회 통합전산망 기준 전체 예매율 1위를 수성하고 있다. 특히, '싱크홀'의 사전 예매량 3만 7790장은 '모]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2Filgansports%2F20210809074907002mvdk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[개봉 D-2 '싱크홀', 전체 예매율 1위..본격 흥행 카운트다운 돌입]]></title>
+            <link>https://v.daum.net/v/20210809074822835</link>
+            <guid>https://v.daum.net/v/20210809074822835</guid>
+            <pubDate>Sun, 08 Aug 2021 23:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 올여름 최고의 오락 영화 '싱크홀'이 개봉을 이틀 앞둔 9일 부동의 예매율 1위를 기록하며 본격 흥행 카운트다운에 돌입했다. 영화 '싱크홀'은 11년 만에 마련한 내 집이 지하 500m 초대형 싱크홀로 추락하며 벌어지는 재난 버스터. '싱크홀'이 개봉을 이틀 앞둔 9일 오전 7시 20분 영화진흥위원회 통합전산망 기준 전체]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2Fmydaily%2F20210809074822087zbmz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['모가디슈' 171만 돌파..4단계･올림픽 격파 '올 韓최초 200만 예고' [공식]]]></title>
+            <link>https://v.daum.net/v/20210809072835569</link>
+            <guid>https://v.daum.net/v/20210809072835569</guid>
+            <pubDate>Sun, 08 Aug 2021 23:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자] ​2021년 한국영화의 부활을 알린 영화 '모가디슈'(류승완 감독)가 누적 관객수&nbsp;171만 2,265​명을 동원하며 2주 연속 압도적 주말 박스오피스 1위에 등극했다. '모가디슈'가 영진위 통합전산망 8월 9일(월) 기준 누적 관객수&nbsp;171만 2,265​명을 동원, 신작 '더 수어사이드 스쿼드'보다 주말기간 약 2.7배 이상 관객수]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2Fpoctan%2F20210809072836652xwch.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['보스 베이비2', 83만 돌파..북미 제외 전 세계 흥행 1위]]></title>
+            <link>https://v.daum.net/v/20210809072704560</link>
+            <guid>https://v.daum.net/v/20210809072704560</guid>
+            <pubDate>Sun, 08 Aug 2021 23:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '보스 베이비 2'가 83만 관객을 돌파했다. 9일 영진위통합전산망에 따르면, '보스 베이비2'는 누적 관객수 83만 6824명을 모으며 올 여름 화제작 '랑종'의 관객수 82만 7676명을 뛰어넘는 흥행력을 보여줬다. 수도권 사회적 거리두기 4단계 및 도쿄 올림픽 기간에도 불구, 8월 첫째 주 극장가의 활력을 불어넣었다. 대한민국은 박스오]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2Filgansports%2F20210809072705368yhtm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['모가디슈' 171만 돌파..​2주 연속 주말 박스오피스 1위]]></title>
+            <link>https://v.daum.net/v/20210809072644557</link>
+            <guid>https://v.daum.net/v/20210809072644557</guid>
+            <pubDate>Sun, 08 Aug 2021 23:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '모가디슈'(감독 류승완)가 누적 관객 수 171만 명을 돌파하며 2주 연속 주말 박스오피스 1위에 등극했다. 9일 영진위 통합전산망에 따르면 7월 28일 개봉한 '모가디슈'는 6일부터 8일까지 48만495명을 모으며 누적 관객 수 171만2265명으로 박스오피스 1위 자리를 지켰다. '모가디슈'는 1991년 소말리아의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2Fxportsnews%2F20210809072645776prip.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[박스오피스IS] '모가디슈', 12일째 1위·170만 돌파..식지 않는 흥행 열기]]></title>
+            <link>https://v.daum.net/v/20210809072304521</link>
+            <guid>https://v.daum.net/v/20210809072304521</guid>
+            <pubDate>Sun, 08 Aug 2021 23:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '모가디슈(류승완 감독)'가 개봉 2주차에도 흥행 열기를 이어갔다. 영화진흥위원회 영화관입장권통합전산망에 따르면, '모가디슈'는 지난 8일 19만 6548명의 관객을 동원했다. 누적 관객수는 171만 2265명이다. 개봉 후 줄곧 박스오피스 정상을 놓치지 않아, 12일 연속 1위를 기록했다. 개봉 후 맞은 두 번째 주말에도 하루 20만 명에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2Filgansports%2F20210809072305574lbop.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['모가디슈' 12일 연속 1위..압도적 관객수 [Nbox]]]></title>
+            <link>https://v.daum.net/v/20210809072017493</link>
+            <guid>https://v.daum.net/v/20210809072017493</guid>
+            <pubDate>Sun, 08 Aug 2021 23:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 황미현 기자 = 영화 '모가디슈'가 12일 연속 1위를 차지했다. 9일 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 '모가디슈'는 지난 8일 하루 동안 19만6548명의 관객을 동원해 박스오피스 1위를 유지했다. 누적 관객수는 171만2265명이다. 지난달 28일 개봉한 '모가디슈'는 공개와 동시에 박스오피스 1위에 올랐으며]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2FNEWS1%2F20210809072017580usvw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['모가디슈', 12일째 1위..200만 카운트 다운 [★무비차트]]]></title>
+            <link>https://v.daum.net/v/20210809071625457</link>
+            <guid>https://v.daum.net/v/20210809071625457</guid>
+            <pubDate>Sun, 08 Aug 2021 23:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='모가디슈'영화 '모가디슈'가 12일 연속 박스오피스 1위를 지키며 200만 돌파를 향해 순항 중이다. 9일 영진위 영화관 입장권 통합전산망에 따르면 '모가디슈'는 지난 8일 19만 6548명의 관객을 동원했다. 누적관객수는 171만 2265명이다. '모가디슈'는 개봉일 부터 12일 연속 박스오피스 1위를 지키고 있다. 2위]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2Fstarnews%2F20210809071626192aknv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[['싱크홀' ③] 김성균의 부성애→이광수X김혜준의 코믹 케미..진정한 '연기 맛집']]></title>
+            <link>https://v.daum.net/v/20210809070010236</link>
+            <guid>https://v.daum.net/v/20210809070010236</guid>
+            <pubDate>Sun, 08 Aug 2021 23:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 배우 김성균의 절절한 부성애와 배우 이광수, 김혜준의 기대 이상 코믹 케미스트리가 만나 '연기 맛집'이란 찬사가 아깝지 않은 '원 팀'이 됐다. 영화 '싱크홀'(감독 김지훈)은 11년 만에 마련한 내 집이 지하 500m 초대형 싱크홀로 추락하며 벌어지는 이야기. 재난 현장에서 탈출하기 위해 고군분투하는 등장인물의 모습과 다]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2Fmydaily%2F20210809070010268yukc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[['싱크홀' ①] 해외 영화제 러브콜 쇄도.."훌륭한 연기 앙상블+높은 몰입도"]]></title>
+            <link>https://v.daum.net/v/20210809070007231</link>
+            <guid>https://v.daum.net/v/20210809070007231</guid>
+            <pubDate>Sun, 08 Aug 2021 23:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 올여름 최고의 오락 영화로 기대를 모으고 있는 재난 블록버스터 '싱크홀'이 해외 영화제에 잇따라 초청받으며 전 세계의 뜨거운 관심을 입증했다. 영화 '싱크홀'(감독 김지훈)은 11년 만에 마련한 내 집이 지하 500m 초대형 싱크홀로 추락하며 벌어지는 이야기. '타워'로 한국형 재난 영화의 새 지평을 연 김지훈 감독이 메가폰]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2Fmydaily%2F20210809070007170dkue.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[['싱크홀' ②] 코미디 흥행 보증수표 차승원, '지하 500m'에서도 통했다]]></title>
+            <link>https://v.daum.net/v/20210809070006227</link>
+            <guid>https://v.daum.net/v/20210809070006227</guid>
+            <pubDate>Sun, 08 Aug 2021 23:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 코미디 장르 대표 흥행 보증 수표로 통하는 배우 차승원의 열연이 지하 500m 깊숙한 땅속에서도 빛을 발했다. 차승원이 주연한 영화 '싱크홀'(감독 김지훈)은 11년 만에 마련한 내 집이 지하 500m 초대형 싱크홀로 추락하며 벌어지는 이야기. 재난 현장에서 탈출하기 위해 고군분투하는 등장인물의 모습과 이들의 다양한 감정을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2Fmydaily%2F20210809070006424qzcd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[입소문 탄 '모가디슈', 조인성 홍보요정 '열일'..흥행 견인[SS무비]]]></title>
+            <link>https://v.daum.net/v/20210809070002215</link>
+            <guid>https://v.daum.net/v/20210809070002215</guid>
+            <pubDate>Sun, 08 Aug 2021 23:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 김선우기자] 배우 조인성이 영화 ‘모가디슈(류승완 감독)’의 홍보요정으로 흥행을 이끌고 있다. ‘모가디슈’는 지난달 28일 개봉 후 박스오피스 정상을 지키며 장기 흥행세에 돌입했다. 영진위(영화진흥위원회) 통합전산망에 따르면 ‘모가디슈’는 지난 3일 올해 개봉한 영화중 최단 기간 100만 관객을 돌파하는가 하면, 4일에는 DC]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2FSPORTSSEOUL%2F20210809070009364ymqg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
