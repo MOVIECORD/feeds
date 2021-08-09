@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Aug 2021 02:27:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 04:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['바쿠라우' 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/21762667</link>
+            <guid>https://tv.naver.com/v/21762667</guid>
+            <pubDate>Mon, 09 Aug 2021 04:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210809_234/Lfuq5_1628477591139vbMHX_JPEG/b77f5f6e-f8bc-11eb-882d-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['신마영정: 야인시대' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/21761787</link>
             <guid>https://tv.naver.com/v/21761787</guid>
             <pubDate>Mon, 09 Aug 2021 02:27:14 GMT</pubDate>
-            <content:encoded><![CDATA[30분 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210809_88/yuws9_1628474208847Vw1GA_JPEG/c4c1aa4c-f8b4-11eb-882d-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/21761648</link>
             <guid>https://tv.naver.com/v/21761648</guid>
             <pubDate>Mon, 09 Aug 2021 02:27:14 GMT</pubDate>
-            <content:encoded><![CDATA[38분 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210809_14/LVtMb_1628473721183eiyHU_JPEG/a54a5abc-f8b3-11eb-86ec-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/21735909</link>
             <guid>https://tv.naver.com/v/21735909</guid>
             <pubDate>Mon, 09 Aug 2021 02:27:14 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210806_286/Up0e3_1628240341327vA3CG_JPEG/39a8fa2d-f694-11eb-8111-505dac8c381b_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 07 Aug 2021 22:35:53 GMT</pubDate>
             <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210804_128/ypgZ7_1628062805911xABR0_JPEG/f5674522-f4f6-11eb-b6bf-48df379cc9e4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['퍼피 구조대 더 무비' 스펙터클 예고편]]></title>
-            <link>https://tv.naver.com/v/21695543</link>
-            <guid>https://tv.naver.com/v/21695543</guid>
-            <pubDate>Sat, 07 Aug 2021 22:35:53 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210804_175/Vsm4c_16280626983416BBwx_JPEG/def544bd-f4f6-11eb-8e61-a0369ff94f34_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
