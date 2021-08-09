@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Aug 2021 06:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 07:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,20 +72,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F08%2Fstartoday%2F20210808080304657krby.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[마블의 놀라운 떡밥 뿌리기, MCU 곳곳에 심어둔 '텐 링즈'의 흔적]]></title>
-            <link>https://movie.v.daum.net/v/20210809085627139</link>
-            <guid>https://movie.v.daum.net/v/20210809085627139</guid>
-            <pubDate>Mon, 09 Aug 2021 02:27:14 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]MCU의 세계관을 확장하며 마블 페이즈 4의 새로운 지평을 여는 강력한 NEW 슈퍼 히어로 ‘샹치’의 이야기를 그린 ‘샹치와 텐 링즈의 전설’이 ‘아이언맨’ 시리즈부터 ‘앤트맨’까지 마블 히어로 영화 곳곳에 ‘텐 링즈’와 관련된 단서가 숨어 있다는 사실을 밝혔다. 오는 9월 개봉하는 ‘샹치와 텐 링즈의 전설’은 마블의 강력한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2Fmydaily%2F20210809085627538eaza.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[행운의 사나이 김성균, '싱크홀'로 육체적 힘듦을 이겨내다 [★FULL인터뷰]]]></title>
             <link>https://movie.v.daum.net/v/20210808095301402</link>
             <guid>https://movie.v.daum.net/v/20210808095301402</guid>
             <pubDate>Mon, 09 Aug 2021 02:27:14 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 강민경 기자] 김성균 /사진제공=쇼박스배우 김성균(41)이 자신을 '행운의 사나이'로 지칭했다. 그는 영화 '싱크홀'이 지금까지 출연했던 영화 중 육체적으로 가장 힘들었지만, 그 힘듦을 이겨낸 작품이라고 밝혔다. '싱크홀'(감독 김지훈)은 11년 만에 마련한 내 집이 지하 500m 초대형 싱크홀로 추락하며 벌어지는 재난 버스터다. 전 세계적으로]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F08%2Fstarnews%2F20210808095302726dsrr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[마블의 놀라운 떡밥 뿌리기, MCU 곳곳에 심어둔 '텐 링즈'의 흔적]]></title>
+            <link>https://movie.v.daum.net/v/20210809085627139</link>
+            <guid>https://movie.v.daum.net/v/20210809085627139</guid>
+            <pubDate>Mon, 09 Aug 2021 02:27:14 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]MCU의 세계관을 확장하며 마블 페이즈 4의 새로운 지평을 여는 강력한 NEW 슈퍼 히어로 ‘샹치’의 이야기를 그린 ‘샹치와 텐 링즈의 전설’이 ‘아이언맨’ 시리즈부터 ‘앤트맨’까지 마블 히어로 영화 곳곳에 ‘텐 링즈’와 관련된 단서가 숨어 있다는 사실을 밝혔다. 오는 9월 개봉하는 ‘샹치와 텐 링즈의 전설’은 마블의 강력한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2Fmydaily%2F20210809085627538eaza.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['습도 다소 높음' 코시국에 마스크 거부한다면?]]></title>
@@ -96,20 +96,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F08%2Fsportskhan%2F20210808104913730fnmy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[이광수, ♥이선빈과 근황 "남들과 비슷한 데이트하며 연애 중"[EN:인터뷰③]]]></title>
-            <link>https://movie.v.daum.net/v/20210809120232432</link>
-            <guid>https://movie.v.daum.net/v/20210809120232432</guid>
+            <title><![CDATA[[인터뷰④]이광수 "'아침마당' 중간에 뛰쳐나가고 싶었다..'미우새' 폭로, 김종국에게 미리 사과"]]></title>
+            <link>https://movie.v.daum.net/v/20210809115257024</link>
+            <guid>https://movie.v.daum.net/v/20210809115257024</guid>
             <pubDate>Mon, 09 Aug 2021 04:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 이광수가 9세 연하 여자친구 이선빈과 "평범한 연애 중"이라고 밝혔다. 영화 '싱크홀'(감독 김지훈)에 출연한 이광수는 8월 9일 온라인으로 진행된 화상 인터뷰를 통해 공개 열애 중인 이선빈과 여전한 애정 전선을 전했다. 1985년생인 이광수는 1994년생인 9세 연하 동료배우 이선빈과 지난 2018년부터 공개 열애 중이다. "지금]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2Fnewsen%2F20210809120235031rvbd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]한예슬, 美일정 마치고 오늘(9일) 귀국..2주 자가격리]]></title>
-            <link>https://movie.v.daum.net/v/20210809121524755</link>
-            <guid>https://movie.v.daum.net/v/20210809121524755</guid>
-            <pubDate>Mon, 09 Aug 2021 04:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 배우 한예슬이 제주도에서 진행되는 광고촬영을 위해 28일 오후 서울 강서구 김포공항 국내선을 통해 출발하고 있다. /사진=임성균 기자 tjdrbs23@배우 한예슬이 미국 일정을 마치고 한달여 만에 귀국한다. 한예슬은 미국에서 개인적인 일정을 마치고 9일 오후 인천국제공항을 통해 귀국한다. 앞서 한예슬은 지난달 개인 일정을 위해 남자]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2Fstarnews%2F20210809131314642wfvx.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자]배우 이광수가 '아침마당'과 '미운우리새끼' 촬영 소감을 전했다. 영화 '싱크홀'(김지훈 감독, ㈜더타워픽쳐스 제작)에서 현실 회사원 김대리 역을 맡은 이광수가 90일 오전 화상 인터뷰를 통해 작품에 대한 이야기를 전했다. '싱크홀'은 11년 만에 마련한 내 집이 지하 500m 초대형 싱크홀로 추락하며 벌어지는 재난]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2FSpoChosun%2F20210809115257911zxjv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[이광수, 솔직하게 밝힌 #다리 수술 #아침마당 거짓말 #미우새 [인터뷰 종합]]]></title>
@@ -120,12 +112,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2Fxportsnews%2F20210809145003485sjjy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰④]이광수 "'아침마당' 중간에 뛰쳐나가고 싶었다..'미우새' 폭로, 김종국에게 미리 사과"]]></title>
-            <link>https://movie.v.daum.net/v/20210809115257024</link>
-            <guid>https://movie.v.daum.net/v/20210809115257024</guid>
+            <title><![CDATA[[단독]한예슬, 美일정 마치고 오늘(9일) 귀국..2주 자가격리]]></title>
+            <link>https://movie.v.daum.net/v/20210809121524755</link>
+            <guid>https://movie.v.daum.net/v/20210809121524755</guid>
             <pubDate>Mon, 09 Aug 2021 04:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이승미 기자]배우 이광수가 '아침마당'과 '미운우리새끼' 촬영 소감을 전했다. 영화 '싱크홀'(김지훈 감독, ㈜더타워픽쳐스 제작)에서 현실 회사원 김대리 역을 맡은 이광수가 90일 오전 화상 인터뷰를 통해 작품에 대한 이야기를 전했다. '싱크홀'은 11년 만에 마련한 내 집이 지하 500m 초대형 싱크홀로 추락하며 벌어지는 재난]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2FSpoChosun%2F20210809115257911zxjv.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 배우 한예슬이 제주도에서 진행되는 광고촬영을 위해 28일 오후 서울 강서구 김포공항 국내선을 통해 출발하고 있다. /사진=임성균 기자 tjdrbs23@배우 한예슬이 미국 일정을 마치고 한달여 만에 귀국한다. 한예슬은 미국에서 개인적인 일정을 마치고 9일 오후 인천국제공항을 통해 귀국한다. 앞서 한예슬은 지난달 개인 일정을 위해 남자]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2Fstarnews%2F20210809131314642wfvx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이광수, ♥이선빈과 근황 "남들과 비슷한 데이트하며 연애 중"[EN:인터뷰③]]]></title>
+            <link>https://movie.v.daum.net/v/20210809120232432</link>
+            <guid>https://movie.v.daum.net/v/20210809120232432</guid>
+            <pubDate>Mon, 09 Aug 2021 04:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 이광수가 9세 연하 여자친구 이선빈과 "평범한 연애 중"이라고 밝혔다. 영화 '싱크홀'(감독 김지훈)에 출연한 이광수는 8월 9일 온라인으로 진행된 화상 인터뷰를 통해 공개 열애 중인 이선빈과 여전한 애정 전선을 전했다. 1985년생인 이광수는 1994년생인 9세 연하 동료배우 이선빈과 지난 2018년부터 공개 열애 중이다. "지금]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2Fnewsen%2F20210809120235031rvbd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[결혼 소리에  "살려달라"던 이광수, ♥이선빈 향한 변함없는 애정 [★NEWSing]]]></title>
+            <link>https://movie.v.daum.net/v/20210809160248171</link>
+            <guid>https://movie.v.daum.net/v/20210809160248171</guid>
+            <pubDate>Mon, 09 Aug 2021 07:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 이선빈 이광수 /사진=스타뉴스배우 이광수(36)가 공개 열애 중인 배우 이선빈과의 연애에 대한 질문에 조심스럽게 답하며 연인에 대한 애정을 드러냈다. 이광수는 9일 오전 온라인 화상인터뷰를 통해 영화 '싱크홀'(감독 김지훈)에 대한 다양한 이야기를 전했다. 영화 '싱크홀'은 11년 만에 마련한 내 집이 지하 500m 초대형 싱크홀로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2Fstarnews%2F20210809160635602ennv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이광수 "'아침마당' 생방송 도중 뛰쳐나가고 싶단 생각도" [MD인터뷰③]]]></title>
+            <link>https://movie.v.daum.net/v/20210809120224428</link>
+            <guid>https://movie.v.daum.net/v/20210809120224428</guid>
+            <pubDate>Mon, 09 Aug 2021 04:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 배우 이광수가 KBS 1TV '아침마당' 비하인드를 전했다. 이광수는 9일 오전 온라인 화상인터뷰를 진행하고 영화 '싱크홀'(감독 김지훈)에 관한 다양한 이야기를 나눴다. 올여름 한국 대표 텐트폴 '싱크홀'은 11년 만에 마련한 내 집이 지하 500m 초대형 싱크홀로 추락하며 벌어지는 이야기다. 108층 초고층 주상복합빌]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2Fmydaily%2F20210809120224509iczx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['좋은 사람' 김태훈, 또 다시 인생작 경신]]></title>
@@ -136,22 +152,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2Ftvdaily%2F20210809140209637ueza.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["'아침마당'에 사과" 이광수 밝힌 ♥이선빈→'런닝맨' 우정(종합)[EN:인터뷰]]]></title>
-            <link>https://movie.v.daum.net/v/20210809123012091</link>
-            <guid>https://movie.v.daum.net/v/20210809123012091</guid>
-            <pubDate>Mon, 09 Aug 2021 04:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '성실의 아이콘'으로 거듭난 이광수. 그가 쏟아지는 미담에 해명했다. 또한, 11년 몸 담은 '런닝맨'을 떠나며 느꼈던 소회도 밝혔다. 영화 '싱크홀'(감독 김지훈)에 출연한 이광수는 8월 9일 온라인으로 진행된 화상 인터뷰를 통해 영화 개봉을 앞둔 소감을 밝혔다. 오는 11일 개봉하는 영화 '싱크홀'은 11년 만에 마련한 내 집이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2Fnewsen%2F20210809123012348otcn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[이광수 "♥이선빈과 연애, 남들과 비슷..잘 지내고 있다" [인터뷰③]]]></title>
-            <link>https://movie.v.daum.net/v/20210809123135119</link>
-            <guid>https://movie.v.daum.net/v/20210809123135119</guid>
-            <pubDate>Mon, 09 Aug 2021 04:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 영화 '싱크홀'(감독 김지훈) 주연배우 이광수가 9일 오전 온라인으로 진행된 라운드 인터뷰를 위해 포즈를 취하고 있다. /사진제공=쇼박스 2021.08.09 /사진=이동훈 기자 photoguy@배우 이광수(36)가 공개 열애 중인 배우 이선빈과의 연애에 대한 질문에 쑥스럽게 답했다. 이광수는 9일 오전 온라인 화상인터뷰를 통해 영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2Fstarnews%2F20210809123137015vjiw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[이광수 "♥이선빈과 잘 지내..남들과 비슷한 연애 중" [MD인터뷰④]]]></title>
             <link>https://movie.v.daum.net/v/20210809121713803</link>
             <guid>https://movie.v.daum.net/v/20210809121713803</guid>
@@ -160,12 +160,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2Fmydaily%2F20210809121713474hilz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[이광수 "'아침마당' 생방송 도중 뛰쳐나가고 싶단 생각도" [MD인터뷰③]]]></title>
-            <link>https://movie.v.daum.net/v/20210809120224428</link>
-            <guid>https://movie.v.daum.net/v/20210809120224428</guid>
+            <title><![CDATA["'아침마당'에 사과" 이광수 밝힌 ♥이선빈→'런닝맨' 우정(종합)[EN:인터뷰]]]></title>
+            <link>https://movie.v.daum.net/v/20210809123012091</link>
+            <guid>https://movie.v.daum.net/v/20210809123012091</guid>
             <pubDate>Mon, 09 Aug 2021 04:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 배우 이광수가 KBS 1TV '아침마당' 비하인드를 전했다. 이광수는 9일 오전 온라인 화상인터뷰를 진행하고 영화 '싱크홀'(감독 김지훈)에 관한 다양한 이야기를 나눴다. 올여름 한국 대표 텐트폴 '싱크홀'은 11년 만에 마련한 내 집이 지하 500m 초대형 싱크홀로 추락하며 벌어지는 이야기다. 108층 초고층 주상복합빌]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2Fmydaily%2F20210809120224509iczx.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '성실의 아이콘'으로 거듭난 이광수. 그가 쏟아지는 미담에 해명했다. 또한, 11년 몸 담은 '런닝맨'을 떠나며 느꼈던 소회도 밝혔다. 영화 '싱크홀'(감독 김지훈)에 출연한 이광수는 8월 9일 온라인으로 진행된 화상 인터뷰를 통해 영화 개봉을 앞둔 소감을 밝혔다. 오는 11일 개봉하는 영화 '싱크홀'은 11년 만에 마련한 내 집이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2Fnewsen%2F20210809123012348otcn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
