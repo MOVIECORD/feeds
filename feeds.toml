@@ -7,7 +7,6 @@ linkSelector = "a[class^='post_area']"
 imageSelector = "span[class^='covered_image']"
 contentSelector = "span[class^='upload_time']"
 waitUntil = "networkidle"
-onFail = "stale"
 
 [daummovie_news_popular]
 title = "다음영화 뉴스 ─ 인기"
@@ -18,7 +17,6 @@ linkSelector = "strong a[class='link_txt']"
 imageSelector = "span[class='bg_img']"
 contentSelector = "p[class='desc_thumb'] a"
 waitUntil = "networkidle"
-onFail = "stale"
 
 [daummovie_news_recent]
 title = "다음영화 뉴스 ─ 최신"
