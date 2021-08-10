@@ -36,6 +36,7 @@ titleSelector = "strong[class='tit_item']"
 linkSelector = "ul[class='list_vertical'] li a[class='link_contents']"
 imageSelector = "img[class='thumb_img']"
 contentSelector = "span[data-raw-date]"
+waitUntil = "networkidle"
 
 [navertv_moviepreview]
 title = "네이버 영화 예고편 저장소"
@@ -45,3 +46,4 @@ titleSelector = "dt[class='title'] > a > tooltip"
 linkSelector = "dt[class='title'] a"
 imageSelector = "div[class='cds_type'] a img"
 contentSelector = "span[class='time']"
+waitUntil = "networkidle"
