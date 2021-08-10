@@ -4,17 +4,9 @@
         <title>V SCREEN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Aug 2021 13:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Aug 2021 14:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA['모가디슈' 앵콜 무비토크 라이브]]></title>
-            <link>https://www.vlive.tv/post/0-24566854</link>
-            <guid>https://www.vlive.tv/post/0-24566854</guid>
-            <pubDate>Tue, 10 Aug 2021 12:23:44 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210806_243/1628236798492OR6bD_JPEG/upload_44506405556429007d119c893-848b-42de-af50-a3302b3268be.jpg?type=f359x202" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[(예고) '모가디슈' 앵콜 무비토크 라이브]]></title>
             <link>https://www.vlive.tv/post/1-24570142</link>
@@ -37,6 +29,7 @@
             <guid>https://www.vlive.tv/post/0-23910007</guid>
             <pubDate>Tue, 10 Aug 2021 12:23:44 GMT</pubDate>
             <content:encoded><![CDATA[7.6.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210706_224/1625563599040Ovyke_PNG/upload_6964332036396858823de10f6-fc49-4e30-954b-d3a1f01081be.png?type=f359x202" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[(FULL) '발신제한' 무비토크 라이브]]></title>
@@ -127,6 +120,13 @@
             <link>https://www.vlive.tv/post/1-21625817</link>
             <guid>https://www.vlive.tv/post/1-21625817</guid>
             <pubDate>Tue, 10 Aug 2021 12:23:44 GMT</pubDate>
+            <content:encoded><![CDATA[3.4.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['라야와 마지막 드래곤' V라이브 하이라이트 #2 효정의 '라야' 2행시]]></title>
+            <link>https://www.vlive.tv/post/1-21625639</link>
+            <guid>https://www.vlive.tv/post/1-21625639</guid>
+            <pubDate>Tue, 10 Aug 2021 14:15:07 GMT</pubDate>
             <content:encoded><![CDATA[3.4.]]></content:encoded>
         </item>
     </channel>
