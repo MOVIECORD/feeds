@@ -33,9 +33,8 @@ title = "우리 영화 볼래?"
 url = "https://tv.kakao.com/channel/462787/video"
 entrySelector = "ul[class='list_vertical'] li"
 titleSelector = "strong[class='tit_item']"
-linkSelector = "ul[class='list_vertical'] li a[class='link_contents']"
+linkSelector = "a[class='link_contents']"
 imageSelector = "img[class='thumb_img']"
-contentSelector = "span[data-raw-date]"
 waitUntil = "networkidle"
 
 [navertv_moviepreview]
