@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Aug 2021 10:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Aug 2021 11:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F10%2Fjoongang%2F20210810000551755ggzf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[D:영화 뷰] 코로나19가 만들어낸 충무로의 새 얼굴]]></title>
+            <link>https://movie.v.daum.net/v/20210810140256400</link>
+            <guid>https://movie.v.daum.net/v/20210810140256400</guid>
+            <pubDate>Tue, 10 Aug 2021 08:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19로 인해 올해 극장가는 한 치 앞을 알 수 없는 안갯속을 걸어왔다. 많은 사람들이 극장가에 발길을 끊었고 개봉 예정이었던 신작들도 피해를 최소화하고자 개봉을 수차례 연기하며 진퇴양난의 상황에 놓였다. 그럼에도 수확이 있다면 미래가 기대되는 신인 배우들의 활약이 충무로의 미래를 다시 한번 밝혔다는 점이다.매년 충무로는 연기력과 티켓 파워가 보장된 4]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F10%2Fdailian%2F20210810140302249rwoh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독] 전종서, 할리우드 첫 주연작 베니스영화제 초청에도 불참 까닭은(종합)]]></title>
+            <link>https://movie.v.daum.net/v/20210810145423347</link>
+            <guid>https://movie.v.daum.net/v/20210810145423347</guid>
+            <pubDate>Tue, 10 Aug 2021 09:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 전종서의 할리우드 진출작 '모나 리자 앤드 블러드 문'(감독 애나 릴리 아미푸르)이 제78회 베니스 국제영화제(베니스 영화제) 경쟁 부문에 초청된 가운데, 전종서의 영화제 참석이 최종 불발됐다. 넷플릭스 드라마 '종이의 집' 촬영에 집중하기 위해서다. 10일 뉴스1 취재 결과, 전종서는 고심 끝에 베니스 영화제에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F10%2FNEWS1%2F20210810145423262mxbe.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[교사 투신 사건 뒤, 새로 부임한 선생이 목격한 충격적 풍경]]></title>
             <link>https://movie.v.daum.net/v/20210809133900518</link>
             <guid>https://movie.v.daum.net/v/20210809133900518</guid>
@@ -62,38 +78,6 @@
             <pubDate>Tue, 10 Aug 2021 00:50:11 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 해리슨 포드(79)이 부인 칼리스타 플록하트(57), 입양한 딸 리암 플록하트(20)와 크로아티아에서 휴식을 취하는 모습이 목격됐다. 연예매체 페이지식스는 9일(현지시간) 해리슨 포트가 크로아티아의 두브로브니크의 빌라 발코니에서 셔츠를 벗은 채 어깨 마사지를 받고 있는 현장을 공개했다. 플록하트와 리암은 근처]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F10%2Fmydaily%2F20210810084210696phpd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[D:영화 뷰] 코로나19가 만들어낸 충무로의 새 얼굴]]></title>
-            <link>https://movie.v.daum.net/v/20210810140256400</link>
-            <guid>https://movie.v.daum.net/v/20210810140256400</guid>
-            <pubDate>Tue, 10 Aug 2021 08:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19로 인해 올해 극장가는 한 치 앞을 알 수 없는 안갯속을 걸어왔다. 많은 사람들이 극장가에 발길을 끊었고 개봉 예정이었던 신작들도 피해를 최소화하고자 개봉을 수차례 연기하며 진퇴양난의 상황에 놓였다. 그럼에도 수확이 있다면 미래가 기대되는 신인 배우들의 활약이 충무로의 미래를 다시 한번 밝혔다는 점이다.매년 충무로는 연기력과 티켓 파워가 보장된 4]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F10%2Fdailian%2F20210810140302249rwoh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[200만 고지 다가선 '모가디슈', 손익분기점도 넘길까]]></title>
-            <link>https://movie.v.daum.net/v/20210809093900734</link>
-            <guid>https://movie.v.daum.net/v/20210809093900734</guid>
-            <pubDate>Tue, 10 Aug 2021 00:50:11 GMT</pubDate>
-            <content:encoded><![CDATA[[성하훈 기자] ▲ &nbsp;&lt;모가디슈&gt;의 한 장면    ⓒ 롯데엔터테인먼트  &nbsp;&lt;모가디슈&gt;는 손익분기점을 넘어설 수 있을까? 2주 연속 박스오피스 1위를 차지하며 모처럼 한국영화의 힘을 보여주고 있는 &lt;모가디슈&gt;가 8일까지 누적 171만을 기록하며 200만 고지에 다가섰다. 주말 이틀간 39만 관객이 찾은 데다. 2주 연속 일요일 관객이 토요일보다]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2Fohmynews%2F20210809093905679uaax.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 전종서, 할리우드 첫 주연작 베니스영화제 초청에도 불참 까닭은(종합)]]></title>
-            <link>https://movie.v.daum.net/v/20210810145423347</link>
-            <guid>https://movie.v.daum.net/v/20210810145423347</guid>
-            <pubDate>Tue, 10 Aug 2021 09:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 전종서의 할리우드 진출작 '모나 리자 앤드 블러드 문'(감독 애나 릴리 아미푸르)이 제78회 베니스 국제영화제(베니스 영화제) 경쟁 부문에 초청된 가운데, 전종서의 영화제 참석이 최종 불발됐다. 넷플릭스 드라마 '종이의 집' 촬영에 집중하기 위해서다. 10일 뉴스1 취재 결과, 전종서는 고심 끝에 베니스 영화제에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F10%2FNEWS1%2F20210810145423262mxbe.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식] 변요한X김무열 만난 '보이스', 9월 개봉 확정..韓최초 보이스피싱 범죄물 탄생]]></title>
-            <link>https://movie.v.daum.net/v/20210810083713057</link>
-            <guid>https://movie.v.daum.net/v/20210810083713057</guid>
-            <pubDate>Tue, 10 Aug 2021 00:50:11 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 국내 최초로 보이스피싱의 모든 것을 파헤치는 보이스피싱 리얼 범죄 액션 영화 '보이스'(김선·김곡 감독, 수필름 제작)가 오는 9월 개봉을 확정하고 1차 포스터 3종을 공개했다. '보이스'의 1차 포스터는 발신자와 수신자의 상반된 입장을 담아 눈길을 사로잡는다. 누구나 한번쯤 받아 봤을법한 금융 1팀에서 온 발신전화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F10%2FSpoChosun%2F20210810083714532bjhh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["'헐크' 어보미네이션→'닥스' 웡 등장"..'샹치'로 보여줄 MCU 페이즈4의 확장]]></title>
@@ -112,12 +96,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F10%2Fakn%2F20210810135200118nind.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[200만 고지 다가선 '모가디슈', 손익분기점도 넘길까]]></title>
+            <link>https://movie.v.daum.net/v/20210809093900734</link>
+            <guid>https://movie.v.daum.net/v/20210809093900734</guid>
+            <pubDate>Tue, 10 Aug 2021 00:50:11 GMT</pubDate>
+            <content:encoded><![CDATA[[성하훈 기자] ▲ &nbsp;&lt;모가디슈&gt;의 한 장면    ⓒ 롯데엔터테인먼트  &nbsp;&lt;모가디슈&gt;는 손익분기점을 넘어설 수 있을까? 2주 연속 박스오피스 1위를 차지하며 모처럼 한국영화의 힘을 보여주고 있는 &lt;모가디슈&gt;가 8일까지 누적 171만을 기록하며 200만 고지에 다가섰다. 주말 이틀간 39만 관객이 찾은 데다. 2주 연속 일요일 관객이 토요일보다]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2Fohmynews%2F20210809093905679uaax.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식] 변요한X김무열 만난 '보이스', 9월 개봉 확정..韓최초 보이스피싱 범죄물 탄생]]></title>
+            <link>https://movie.v.daum.net/v/20210810083713057</link>
+            <guid>https://movie.v.daum.net/v/20210810083713057</guid>
+            <pubDate>Tue, 10 Aug 2021 00:50:11 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 국내 최초로 보이스피싱의 모든 것을 파헤치는 보이스피싱 리얼 범죄 액션 영화 '보이스'(김선·김곡 감독, 수필름 제작)가 오는 9월 개봉을 확정하고 1차 포스터 3종을 공개했다. '보이스'의 1차 포스터는 발신자와 수신자의 상반된 입장을 담아 눈길을 사로잡는다. 누구나 한번쯤 받아 봤을법한 금융 1팀에서 온 발신전화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F10%2FSpoChosun%2F20210810083714532bjhh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[잔혹하지만 폭소 터지는 DC 슈퍼 빌런들이 돌아왔다]]></title>
             <link>https://movie.v.daum.net/v/20210809144550979</link>
             <guid>https://movie.v.daum.net/v/20210809144550979</guid>
             <pubDate>Tue, 10 Aug 2021 00:50:11 GMT</pubDate>
             <content:encoded><![CDATA[한결 더 화려해진 DC코믹스의 빌런들이 모였다. 할리 퀸(마고 로비), 블러드스포트(이드리스 엘바), 피스메이커(존 시나), 킹 샤크(실베스터 스탤론)…. 2016년 개봉한 데이비드 에이어 감독의 ‘수어사이드 스쿼드’를 생각한다면 오산이다. 혹평받았던 과거를 청산하려는 듯 재미와 액션이 배가 되어 돌아왔다. 4일 개봉한 ‘더 수어사이드 스쿼드’는 제임스 건]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2Fdonga%2F20210809144553147jead.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[SC초점]'모가디슈' 올해 韓영화 최초 200만 목전..예매율 1위 '싱크홀', 쌍끌이 흥행 예고]]></title>
+            <link>https://movie.v.daum.net/v/20210809154217389</link>
+            <guid>https://movie.v.daum.net/v/20210809154217389</guid>
+            <pubDate>Tue, 10 Aug 2021 10:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자] 영화 '모가디슈'가 올해 한국 영화 최초 200만 돌파를 목전에 두고 있다. 9일 영화진흥위원회 영화관입장권 통합전산망에 따르면 지난달 28일 개봉한 '모가디슈'는 2주 연속 박스오피스 1위를 차지하며 누적관객수 171만2265명을 기록했다. 현재의 추세라면 이번 주 200만을 가뿐히 넘어설 것으로 보인다. '모가디]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2FSpoChosun%2F20210809154218512gcan.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[다큐영화 '학교 가는 길' 상영중지 소취하]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 10 Aug 2021 00:50:11 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;올해 한국영화의 부활을 알린 최고의 화제작 ‘모가디슈’가 북미 개봉하고, 제20회 뉴욕아시안영화제에서 공개한 이후 해외 언론 및 관객들의 찬사를 받고 있다. 200만 돌파를 향해 흥행 질주 중인 영화 ‘모가디슈’(감독 류승완, 제공배급 롯데엔터테인먼트, 제작 덱스터스튜디오 외유내강)가 지난 8월 6일(금) 20회 뉴욕아시안영화제 개]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F10%2Fpoctan%2F20210810083625978ofkm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[SC초점]'모가디슈' 올해 韓영화 최초 200만 목전..예매율 1위 '싱크홀', 쌍끌이 흥행 예고]]></title>
-            <link>https://movie.v.daum.net/v/20210809154217389</link>
-            <guid>https://movie.v.daum.net/v/20210809154217389</guid>
-            <pubDate>Tue, 10 Aug 2021 10:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이승미 기자] 영화 '모가디슈'가 올해 한국 영화 최초 200만 돌파를 목전에 두고 있다. 9일 영화진흥위원회 영화관입장권 통합전산망에 따르면 지난달 28일 개봉한 '모가디슈'는 2주 연속 박스오피스 1위를 차지하며 누적관객수 171만2265명을 기록했다. 현재의 추세라면 이번 주 200만을 가뿐히 넘어설 것으로 보인다. '모가디]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F09%2FSpoChosun%2F20210809154218512gcan.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[최성은, '젠틀맨' 주연..주지훈과 호흡[공식]]]></title>
