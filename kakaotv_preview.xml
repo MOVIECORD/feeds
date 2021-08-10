@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Aug 2021 04:52:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Aug 2021 05:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<슈퍼딥> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/421399541?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/421399541?act=clip</guid>
+            <pubDate>Tue, 10 Aug 2021 05:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:13]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvaostu5euspb8ulrwvuy6g8q%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185479931%26signature%3Dd6u6fTj0RRO6bMjdj0tyVoc%252Bj7w%253D%26ts%3D1628571131" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<리버풀 FC: 엔드 오브 스톰> 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/421399161?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/421369387?act=clip</guid>
             <pubDate>Tue, 10 Aug 2021 04:06:20 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrymibz38qorh81rs652judg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185383093%26signature%3DWoiEyuZw9uwUHn5IVz8IsD97IwE%253D%26ts%3D1628474293" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrymibz38qorh81rs652judg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185383093%26signature%3DWoiEyuZw9uwUHn5IVz8IsD97IwE%253D%26ts%3D1628474293" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<여름날 우리> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 10 Aug 2021 04:32:44 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvvei2ngm8cvp6rb7qnvj5ltj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185122200%26signature%3DQ6UhMGsvwiNQxKzvw%252BKLBpH1Vns%253D%26ts%3D1628213400" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<정글 크루즈> 도전! 쇼호스트 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/421302682?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/421302682?act=clip</guid>
-            <pubDate>Tue, 10 Aug 2021 04:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:17]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv24lup2vmp9f86wbl69y9184%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185122058%26signature%3DbtIK6aXe857H%252FYybITf5KI6MEa8%253D%26ts%3D1628213258" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
