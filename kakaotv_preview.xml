@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Aug 2021 05:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Aug 2021 06:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<마이 네버 리스트> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/421400028?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/421400028?act=clip</guid>
+            <pubDate>Tue, 10 Aug 2021 06:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:56]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvr29xk1r69a93her7acn1vhi%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185481266%26signature%3DVS5y8erN3AHP12CMiXOsUNuRNUE%253D%26ts%3D1628572466" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<슈퍼딥> 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/421399541?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/421369443?act=clip</guid>
             <pubDate>Tue, 10 Aug 2021 04:06:20 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxb4whlp93cbxam6perpgxm3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185383259%26signature%3DKhtKm%252BZrDR9HvR%252BnNRje8arjO%252B4%253D%26ts%3D1628474459" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxb4whlp93cbxam6perpgxm3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185383259%26signature%3DKhtKm%252BZrDR9HvR%252BnNRje8arjO%252B4%253D%26ts%3D1628474459" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<레미니센스> 액션 추적 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 10 Aug 2021 04:32:44 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:18]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv9tk89o0560us4cqysn1xful%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185122413%26signature%3Dq7fkr9jem8XP9URHVyKsJfp%252Bteg%253D%26ts%3D1628213613" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<건담 G의 레콘기스타 2: 벨리 격진> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/421302773?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/421302773?act=clip</guid>
-            <pubDate>Tue, 10 Aug 2021 04:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvvei2ngm8cvp6rb7qnvj5ltj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185122200%26signature%3DQ6UhMGsvwiNQxKzvw%252BKLBpH1Vns%253D%26ts%3D1628213400" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
