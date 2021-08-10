@@ -34,7 +34,7 @@ url = "https://tv.kakao.com/channel/462787/video"
 entrySelector = "ul[class='list_vertical'] li"
 titleSelector = "strong[class='tit_item']"
 linkSelector = "a[class='link_contents']"
-contentSelector = "span[class='mark_play'] em[class='screen_out']"
+contentSelector = "span.mark_play"
 imageSelector = "img[class='thumb_img']"
 waitUntil = "networkidle"
 
