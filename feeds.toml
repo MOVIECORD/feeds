@@ -4,7 +4,7 @@ url = "https://entertain.naver.com/movie"
 entrySelector = "ul[class='news_lst news_lst2'] li"
 titleSelector = "div[class='tit_area'] a[class='tit']"
 linkSelector = "div[class='tit_area'] a[class='tit']"
-imageSelector = "li a img"
+imageSelector = "li a[class='thumb_area'] img"
 contentSelector = "div[class='tit_area'] p[class='summary']"
 
 [daummovie_news_popular]
