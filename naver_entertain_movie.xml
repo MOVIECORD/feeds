@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-11T21:14:08.907Z</updated>
+    <updated>2021-08-11T22:15:03.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[노컷 리뷰]'그린 나이트' 매혹적인 자아성찰 로망스]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003540909</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003540909"/>
+        <updated>2021-08-11T22:15:00.412Z</updated>
+        <content type="html"><![CDATA[※ 스포일러 주의 '가웨인 경과 녹색의 기사'라는 중세 로망스가 말하는 것은 완전무결함이 아니다. 완전무결하기 위해 흔들리고 깨지면서 자기를 성찰해나가는 한 인간의 여정이야말로 완전무결에 가까움을 말한다. 이를 매혹]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예뉴스 HOT③] 다큐 영화 ‘학교 가는 길’ 스크린 확대 상영]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000927184</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000927184"/>
+        <updated>2021-08-11T22:15:00.413Z</updated>
+        <content type="html"><![CDATA[장애학생들의 공립특수학교 설립을 위한 학부모들의 아픔을 담은 다큐멘터리 영화 ‘학교 가는 길’(감독 김정인)이 서울 CGV압구정과 CGV용산아이파크몰 등 스크린을 확대해 추가 상영한다. 배급사 진진은 11일 “더 많]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤계상 "저 결혼합니다"…다섯살 연하 사업가와 혼인신고 먼저(종합)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012594137</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000037925"/>
         <updated>2021-08-11T08:06:07.949Z</updated>
         <content type="html"><![CDATA[오는 9월 17일, &lt;오징어 게임&gt;의 공개일이 확정됐다. 456억 원의 상금이 걸린 의문의 서바이벌에 참가한 사람들이 최후의 승자가 되기 위해 목숨을 걸고 극한의 게임에 도전하는 이야기를 담은 넷플릭스 시리즈 &lt;오징]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘그린나이트’, 알고 보면 더욱 놀라운 비하인드 전격 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003526623</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003526623"/>
-        <updated>2021-08-11T08:06:07.952Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]개봉 후 관객들의 찬사 속에 N차 관람 필수 영화로 자리매김하고 있는 영화 ‘그린 나이트’의 알고 보면 더욱 놀라운 흥미진진 비하인드가 공개되었다. *일리아드와 오디세이, ‘윌로우’ 캐릭]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["AI와 사랑에 빠졌다"…'아임 유어 맨' 9월 국내 극장 개봉 [공식]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004454451</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004454451"/>
-        <updated>2021-08-11T08:06:07.958Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 제71회 베를린국제영화제 은곰상 최고 연기상 수상의 쾌거를 이룬 영화 ‘아임 유어 맨’이 내달 국내 개봉을 확정하며 메인 포스터를 공개했다. ‘아임 유어 맨’(감독 마리아 슈라더, 수입 콘텐]]></content>
     </entry>
 </feed>

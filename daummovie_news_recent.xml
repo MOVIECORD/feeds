@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-08-11T21:14:08.926Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 11 Aug 2021 22:15:03 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스한초점] 200만 임박 '모가디슈'가 해냈다..'싱크홀''인질' 기대감 '쑥']]></title>
+            <link>https://v.daum.net/v/20210812070014797</link>
+            <guid>https://v.daum.net/v/20210812070014797</guid>
+            <pubDate>Wed, 11 Aug 2021 22:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 조은애 기자] 영화 '모가디슈'(감독 류승완)가 2021년 개봉 한국영화 중 최초로 100만 관객을 돌파한 데 이어 200만 돌파를 눈앞에 두고 있다. 올해 한국영화 최고 흥행 기록이다. 수도권 사회적 거리두기 4단계, 도쿄올림픽 등의 악조건 속에서도 용기내 개봉을 밀어붙인 '모가디슈'의 뚝심이 통한 셈이다. 개봉 3주차에도 가파른 흥행 곡선]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F12%2FSpoHankook%2F20210812070015633bptf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
