@@ -1,8 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-08-10T19:12:19.787Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 11 Aug 2021 01:56:26 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["'낙원의밤'과 180도 다른 매력"..'싱크홀' 차승원 표 코미디 연기의 진가]]></title>
+            <link>https://v.daum.net/v/20210811105202313</link>
+            <guid>https://v.daum.net/v/20210811105202313</guid>
+            <pubDate>Wed, 11 Aug 2021 01:56:07 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자]배우 차승원이 특유의 맛깔나는 연기로 스크린을 꽉 채웠다. 차승원은 11일 개봉한 영화 '싱크홀'(감독 김지훈)에서 전작 영화 '독전' '낙원의 밤'과는 달리 친근하고 인간적인 캐릭터 만수 역을 맡아 관객들에게 가까이 다가섰다. 차승원은 등장부터 존재감을 뽐낸다. 아들 승태(남다름 분)와 둘이 사는 만수는 생계를 위해]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F11%2FSpoChosun%2F20210811105202852ibsc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[엄정화-조진웅, 부국제 '올해의 배우상' 심사위원 선정 [공식]]]></title>
+            <link>https://v.daum.net/v/20210811105104276</link>
+            <guid>https://v.daum.net/v/20210811105104276</guid>
+            <pubDate>Wed, 11 Aug 2021 01:56:07 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 엄정화-조진웅, 부국제 ‘올해의 배우상’ 심사위원 선정 [공식] 오는 10월 6일(수)부터 15일(금)까지 열리는 제26회 부산국제영화제가 ‘올해의 배우상’ 심사위원으로 엄정화와 조진웅을 위촉했다. ‘올해의 배우상’은 한국영화의 미래를 이끌어나갈 잠재력을 갖춘 신인 배우를 발굴하기 위한 상이다. 부산국제영화제의 뉴 커런츠와 한국영화의 오늘-비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F11%2Fsportsdonga%2F20210811105106256vnof.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[시네마 데이트] '더 수어사이드' 집 나간 팬 돌려세울 심폐소생술]]></title>
+            <link>https://v.daum.net/v/20210811104840145</link>
+            <guid>https://v.daum.net/v/20210811104840145</guid>
+            <pubDate>Wed, 11 Aug 2021 01:56:07 GMT</pubDate>
+            <content:encoded><![CDATA[아이즈 ize 글 김수정(칼럼니스트) 기대 반 우려 반의 마음으로 극장에 들어섰다. 2016년 개봉한&nbsp;‘수어사이드 스쿼드’ 1편이 선사한 충격(?)이 아직도 가시지 않았기 때문이다.&nbsp;제 아무리 제임스 건 감독이라도 다 죽어가는 시리즈를 살릴 수 있을까 싶었다.&nbsp;결론부터 말하자면&nbsp;‘수어사이드 스쿼드’의 트라우마를 완벽히 치유했으니.&nbsp;영화&nbsp;‘더 수어사이드]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F11%2FIZE%2F20210811104843027aqbz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["로튼 토마토 100%"..'모가디슈', 전세계 흥행 5위 등극[공식]]]></title>
+            <link>https://v.daum.net/v/20210811103723632</link>
+            <guid>https://v.daum.net/v/20210811103723632</guid>
+            <pubDate>Wed, 11 Aug 2021 01:56:07 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘모가디슈'가 8월 첫째 주 전세계 박스오피스 5위에 등극하는 놀라운 진기록을 세워 눈길을 끈다.&nbsp; ‘모가디슈’(감독 류승완, 제공배급 롯데엔터테인먼트, 제작 덱스터스튜디오 외유내강)는 1990년 12월~1991년 1월 소말리아의 수도 모가디슈에서 내전으로 인해 고립된 사람들의 생사를 건 탈출을 그린 이야기. 국내는 물론 전세]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F11%2Fpoctan%2F20210811103723285scrp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['퍼피 구조대 더 무비' 8월18일 개봉..어린이 관객 겨냥]]></title>
+            <link>https://v.daum.net/v/20210811103150341</link>
+            <guid>https://v.daum.net/v/20210811103150341</guid>
+            <pubDate>Wed, 11 Aug 2021 01:56:07 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘퍼피 구조대 더 무비’가 예고편을 공개했다. ‘퍼피 구조대 더 무비’(감독 캘런 브런커, 제작 파라마운트 애니메이션, 배급 롯데엔터테인먼트)는 클라우드 머신으로 지구를 위협하는 날씨 악당 험딩어에 맞선 퍼피 히어로의 스펙터클 시티 어드벤처 애니메이션.&nbsp; 11일 공개된 뉴페이스 리버티 예고편은 극장판에 처음으로 소개되는 새로운]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F11%2Fpoctan%2F20210811103151686dxuu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식] '귀문' 김강우X김소혜, 오늘(11일) 트위터 블루룸 라이브 출격]]></title>
+            <link>https://v.daum.net/v/20210811102556094</link>
+            <guid>https://v.daum.net/v/20210811102556094</guid>
+            <pubDate>Wed, 11 Aug 2021 01:56:07 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 공포 영화 '귀문'(심덕근 감독, 고스트픽처스 제작)의 배우 김강우, 김소혜, 이정형, 홍진기가 11일 오후 8시 트위터 블루룸 라이브를 통해 예비 관객들과 특별한 만남을 갖는다. 트위터 블루룸 라이브는 정치, 사회, 문화, 예술 등 다양한 분야의 유명 인사 및 스타들이 출연해 트위터 오피스 내 블루룸에서 트위터 이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F11%2FSpoChosun%2F20210811102557689kmpv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[조한선X정진운, '나는 여기에 있다'서 형사-살인마 호흡 [공식]]]></title>
+            <link>https://v.daum.net/v/20210811102115885</link>
+            <guid>https://v.daum.net/v/20210811102115885</guid>
+            <pubDate>Wed, 11 Aug 2021 01:56:07 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='나는 여기에 있다'배우 조한선 정진운이 영화 '나는 여기에 있다' 주연으로 캐스팅 됐다. 영화 '나는 여기에 있다'는 살인 용의자 규종과 강력팀 형사 선두의 쫓고 쫓기는 과정을 담은 범죄 액션 스릴러. '와일드 카드', '브라보 마이 라이프' 각색을 맡고 임창정, 엄지원 주연의 '불량남녀'를 연출한 신근호 감독이 메가폰을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F11%2Fstarnews%2F20210811102116108qbok.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[SC초점] "촬영 시작"..브리 라슨 '더 마블스' 크랭크인→박서준 출연 '함구령' 언제 풀릴까]]></title>
+            <link>https://v.daum.net/v/20210811101846777</link>
+            <guid>https://v.daum.net/v/20210811101846777</guid>
+            <pubDate>Wed, 11 Aug 2021 01:56:07 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 2019년 개봉해 전 세계 관객을 사로잡은 '캡틴 마블'(애너 보든·라이언 플렉 감독)의 후속편 '더 마블스'(니아 다코스타 감독)가 오랜 기다림 끝에 촬영에 돌입했다. 특히 국내 '대세' 배우 박서준이 첫 할리우드, 첫 마블 스튜디오 진출로 기대를 모은 가운데 그의 출연에 대한 마블의 공식 발표가 언제쯤 이뤄질지]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F11%2FSpoChosun%2F20210811101847048razo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[모든 게 적당해서 좋은 '싱크홀'  [씨네뷰]]]></title>
+            <link>https://v.daum.net/v/20210811101206501</link>
+            <guid>https://v.daum.net/v/20210811101206501</guid>
+            <pubDate>Wed, 11 Aug 2021 01:56:07 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 국내 재난 영화라면 빠지지 않던 억지 웃음 및 눈물, 흔하디 흔한 신파 코드도 없다. 모든 게 과하지가 않고 적절한 새로운 부류의 K(한국식)-재난 블록버스터, 영화 ‘싱크홀’이다. 11일 개봉하는 영화 ‘싱크홀’(감독 김지훈·제작 더타워픽쳐스)은 11년 만에 마련한 내 집이 지하 500m 초대형 싱크홀로 추락하며 벌어지는 재난]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F11%2Ftvdaily%2F20210811101207400acvv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[류승완 "소말리아 내전 탈출실화 담담히 그려..덧셈보다 뺄셈이 중요했죠"]]></title>
+            <link>https://v.daum.net/v/20210811101014430</link>
+            <guid>https://v.daum.net/v/20210811101014430</guid>
+            <pubDate>Wed, 11 Aug 2021 01:56:07 GMT</pubDate>
+            <content:encoded><![CDATA[흥행질주 ‘모가디슈’ 류승완 감독 “덧셈보다 뺄셈이 중요한 작업이었죠.” 올해 한국 영화 최고 흥행 기록을 세운 영화 ‘모가디슈’의 류승완(사진) 감독은 4개월에 걸친 모로코에서의 로케이션 촬영 소감을 이렇게 밝혔다. ‘모가디슈’는 내전이 발발한 1991년 소말리아의 수도 모가디슈에서 무사히 탈출하기 위해 남북이 공조했던 실화를 바탕으로 한 작품. 이런]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F11%2Fmunhwa%2F20210811101015536knvz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[황정민이 인정한 보석들..'인질' 김재범→이호정 인질범 5인방 최초 공개]]></title>
+            <link>https://v.daum.net/v/20210811101004415</link>
+            <guid>https://v.daum.net/v/20210811101004415</guid>
+            <pubDate>Wed, 11 Aug 2021 01:56:07 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 서지현 기자] 영화 '인질'이 그동안 베일에 가려져 있던 인질범 5인방을 최초 공개했다. '인질'은 어느 날 새벽, 증거도 목격자도 없이 납치된 배우 황정민을 그린 리얼리티 액션스릴러. '인질'은 배우 황정민이 황정민으로 출연한다는 점 외에도 모든 면에서 리얼리티를 극대화하여 관객들의 몰입도를 높이는 데 신경 썼다. 그 중에서도 극 중 황정민을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F11%2Fnewsen%2F20210811101004443fdev.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식] 오늘(11일) 개봉 '싱크홀', 전체 예매율 7만3천장 돌파..'모가디슈' 오프닝 예매율 제쳤다]]></title>
+            <link>https://v.daum.net/v/20210811100928383</link>
+            <guid>https://v.daum.net/v/20210811100928383</guid>
+            <pubDate>Wed, 11 Aug 2021 01:56:07 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 현실 재난 영화 '싱크홀'(김지훈 감독, 더타워픽쳐스 제작)이 오늘(11일) 개봉과 함께 전체 예매율 1위 행진을 이어가며 본격 흥행 질주를 시작했다. 부동의 예매율 1위를 기록하고 있는 '싱크홀'이 영화진흥위원회 통합전산망에 이어 CGV, 롯데시네마, 메가박스의 멀티플렉스 3사 극장 사이트 예매율 1위까지 싹쓸이하]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F11%2FSpoChosun%2F20210811100929770fjda.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[SC초점]韓여름 텐트폴 대전 1차전..'모가디슈' 웃고 '방법: 재차의' 울었다]]></title>
+            <link>https://v.daum.net/v/20210811095345665</link>
+            <guid>https://v.daum.net/v/20210811095345665</guid>
+            <pubDate>Wed, 11 Aug 2021 01:56:07 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자] 올 여름 텐트폴 시장의 문을 연 '모가디슈'와 '방법: 재차의', '모가디슈'는 웃었고 '방법: 재차의'는 울었다. 지난달 28일 올 여름을 겨냥해 개봉한 텐트폴 영화인 '모가디슈'(류승완 감독)와 '방법: 재차의'(김용완 감독)의 희비가 완전히 엇갈렸다. '모가디슈'는 개봉과 동시에 박스오피스 1위에 올라, 할리우]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F11%2FSpoChosun%2F20210811101532646xoyh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['싱크홀' 개봉, 전체 예매율 1위 [필름:리포트]]]></title>
+            <link>https://v.daum.net/v/20210811095330656</link>
+            <guid>https://v.daum.net/v/20210811095330656</guid>
+            <pubDate>Wed, 11 Aug 2021 01:56:07 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=김명신 기자] 올 여름 기대작 '싱크홀'이 개봉과 함께 전체 예매율 1위 행진을 이어가며 본격 흥행 질주를 시작했다.&nbsp; 영화 '싱크홀'은 11년 만에 마련한 내 집이 지하 500m 초대형 싱크홀로 추락하며 벌어지는 재난 버스터다. 부동의 예매율 1위를 기록하고 있는 영화 '싱크홀'이 영화진흥위원회 통합전산망에 이어 CGV, 롯데시네마, 메가박]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F11%2Ftvreport%2F20210811095332256udtk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식]윤계상, 5살 연하 사업가와 결혼.."코로나로 인해 혼인신고 먼저"]]></title>
+            <link>https://v.daum.net/v/20210811093458848</link>
+            <guid>https://v.daum.net/v/20210811093458848</guid>
+            <pubDate>Wed, 11 Aug 2021 01:56:07 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자] 배우 윤계상이 5살 연하 사업가와 결혼한다. 윤계상의 소속사 저스트엔터테인먼트 측은 11일 보도자료를 통해 "윤계상 배우가 사랑하는 사람과 결한다. 5살 연하의 사업가인 예비 신부를 지인의 소개로 만났고 결혼을 전제로 한 교제는 지난해 말부터 시작했. 최근 양가 부모님께 허락을 받아 부부의 연을 맺기로 정했으나 코로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F11%2FSpoChosun%2F20210811093458984fcpz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이정재 '오징어게임', 9월 17일 넷플릭스 공개..거침없는 상상력[공식]]]></title>
+            <link>https://v.daum.net/v/20210811092841563</link>
+            <guid>https://v.daum.net/v/20210811092841563</guid>
+            <pubDate>Wed, 11 Aug 2021 01:56:07 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자] 넷플릭스가 시리즈 '오징어 게임'의 공개일을 내달로 확정하고 티저 포스터 및 영상을 공개했다. '오징어 게임'(감독 황동혁, 제작 싸이런픽쳐스)은 456억 원의 상금이 걸린 의문의 서바이벌에 참가한 사람들이 최후의 승자가 되기 위해 목숨을 걸고 극한의 게임에 도전하는 이야기를 담았다. 11일 '오징어 게임' 측은 티저 포스터와 티저]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F11%2Fpoctan%2F20210811092841146tkua.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[엄정화X조진웅, 부산영화제 '올해의 배우상' 심사위원[공식]]]></title>
+            <link>https://v.daum.net/v/20210811092104284</link>
+            <guid>https://v.daum.net/v/20210811092104284</guid>
+            <pubDate>Wed, 11 Aug 2021 01:56:07 GMT</pubDate>
+            <content:encoded><![CDATA[배우 엄정화와 조진웅이 부산국제영화제는 올해의 배우상 심사워윈으로 위촉됐다. 11일 부산국제영화제 측은 "오는 10월 6부터 15일까지 열리는 올해 영화제 '올해의 배우상'의 심사위원으로 배우 엄정화와 조진웅을 위촉했다"고 알렸다. '올해의 배우상'은 한국 영화의 미래를 이끌어갈 잠재력을 갖춘 신인 배우를 발굴하기 위한 상으로, 부산국제영화제의 뉴 커런츠]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F11%2Fstartoday%2F20210811092106405zmpl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['모가디슈' 14일 연속 1위..화제의 카체이싱 명장면 공개]]></title>
+            <link>https://v.daum.net/v/20210811091953239</link>
+            <guid>https://v.daum.net/v/20210811091953239</guid>
+            <pubDate>Wed, 11 Aug 2021 01:56:07 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;14일 연속 박스오피스 1위에 빛나며 올 여름 최고의 흥행 돌풍을 보여주고 있는 영화 ‘모가디슈’ 측이 화제의 명장면 무삭제 클립 카체이싱편을 공개했다.&nbsp; ‘모가디슈’(감독 류승완, 배급 롯데엔터테인먼트, 제작 덱스터스튜디오 외유내강)의 명장면 무삭제 클립 카체이싱 편은 내전 속에 고립된 상황, 쏟아지는 총격을 피하기 위해 4대의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F11%2Fpoctan%2F20210811091954306lsxx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['모가디슈' 1위 수성, 185만 관객 돌파 [박스오피스]]]></title>
+            <link>https://v.daum.net/v/20210811091316991</link>
+            <guid>https://v.daum.net/v/20210811091316991</guid>
+            <pubDate>Wed, 11 Aug 2021 01:56:07 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 영화 '모가디슈'가 박스오피스 1위를 수성했다. 11일 영화진흥위원회 통합전산망에 따르면 '모가디슈'(감독 류승완·제작 덱스터스튜디오)가 지난 10일 7만2213명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적 관객수는 185만9953명이다. '모가디슈'는 1991년 소말리아의 수도 모가디슈에서 내전으로 인해 고립된 사람]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F11%2Ftvdaily%2F20210811091317259mauj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['나는 여기에 있다' 조한선x정진운, 형사x용의자로 만난다..9월 크랭크인[공식]]]></title>
+            <link>https://v.daum.net/v/20210811090145541</link>
+            <guid>https://v.daum.net/v/20210811090145541</guid>
+            <pubDate>Wed, 11 Aug 2021 01:56:07 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;범죄 액션 스릴러 영화 '나는 여기에 있다' 측이 조한선, 정진운, 정태우, 노수산나 등 다채로운 매력을 뽐내는 배우들의 캐스팅을 확정짓고 내달 크랭크인에 돌입한다. '나는 여기에 있다'(감독 신근호,&nbsp;제작 주식회사 미학인우주선)는 살인 용의자 규종과 강력팀 형사 선두의 쫓고 쫓기는 과정을 담은 범죄 액션 스릴러. '와일드 카드']]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F11%2Fpoctan%2F20210811090145832hpmj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
