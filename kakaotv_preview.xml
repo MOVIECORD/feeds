@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Aug 2021 05:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Aug 2021 06:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<영화의 거리> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/421427532?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/421427532?act=clip</guid>
+            <pubDate>Wed, 11 Aug 2021 06:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:50]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvk276xn52ak4h22vjnr71gmz%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185571285%26signature%3DNH%252FvuEyMT5YGU8bAhMB38vrPS%252F0%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<최선의 삶> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/421422217?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/421395899?act=clip</guid>
             <pubDate>Tue, 10 Aug 2021 04:06:20 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:07]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvaug1jnnbue5v5zmy63axth6%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185469079%26signature%3D1ov4wjckEdDXUufu2zAWsi3W2yc%253D%26ts%3D1628560279" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvaug1jnnbue5v5zmy63axth6%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185469079%26signature%3D1ov4wjckEdDXUufu2zAWsi3W2yc%253D%26ts%3D1628560279" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<원티드 킬러> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 10 Aug 2021 04:32:44 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:32]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvd2wo1lq79j9cqc86rauwddh%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185148359%26signature%3DJGY%252BD74b0YGnGypNjygAKE2PeCk%253D%26ts%3D1628239559" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<습도 다소 높음> 1차 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/421311590?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/421311590?act=clip</guid>
-            <pubDate>Tue, 10 Aug 2021 04:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:47]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwp7h2sb85pjy499imzf6jft%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185146054%26signature%3DHt8wwp0LXahmsut%252FrUZMQVN%252F2aA%253D%26ts%3D1628237254" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
