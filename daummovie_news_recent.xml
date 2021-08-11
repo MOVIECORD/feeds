@@ -4,9 +4,17 @@
         <title>다음영화 뉴스 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Aug 2021 10:17:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Aug 2021 11:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['좋은 영화는 관객이 먼저'..'모가디슈', 'N차 관람' 부르며 롱런]]></title>
+            <link>https://v.daum.net/v/20210811192758081</link>
+            <guid>https://v.daum.net/v/20210811192758081</guid>
+            <pubDate>Wed, 11 Aug 2021 11:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[‘모가디슈’[이데일리 스타in 박미애 기자] 좋은 영화는 관객이 먼저 알아본다. ‘모가디슈’가 ‘N차 관람’을 부르며 장기 흥행에 돌입했다. 최근 이데일리가 CGV리서치센터에 재관람율 조사를 의뢰한 결과 ‘모가디슈’(감독 류승완, 제작 덱스터스튜디오·외유내강, 배급 롯데엔터테인먼트)는 개봉일인 7월 28일부터 8월 5일까지 2.4%의 재관람률을 나타냈다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F11%2FEdaily%2F20210811192804110qsvg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
         <item>
             <title><![CDATA[주차장서 벌어진 언론인 살인사건, 진짜 범인은 누구인가]]></title>
             <link>https://v.daum.net/v/20210811180900354</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 11 Aug 2021 08:01:44 GMT</pubDate>
             <content:encoded><![CDATA[정진운 정태우 노수산나 등 출연…가제 '뷰티풀 어게인'으로 알려지기도 [더팩트ㅣ이한림 기자] 배우 조한선이 주연을 맡은 영화 '나는 여기에 있다'가 다음 달 크랭크인 한다. '나는 여기에 있다'는 살인 용의자 규종과 강력반 형사 선두의 쫓고 쫓기는 과정을 담은 범죄액션 스릴러 장르 영화다. 조한선을 비롯해 정진운, 정태우, 노수산나, 박순천, 정인기, 이]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F11%2FTHEFACT%2F20210811160536305nhjw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식] '블랙핑크 더 무비' 개봉 5일 만에 글로벌 누적 50만 돌파 목전]]></title>
-            <link>https://v.daum.net/v/20210811160221375</link>
-            <guid>https://v.daum.net/v/20210811160221375</guid>
-            <pubDate>Wed, 11 Aug 2021 07:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 걸그룹 블랙핑크의 데뷔 5주년 기념 영화 '블랙핑크 더 무비'(오윤동·정수이 감독, ScreenX Studio 제작)가 지난 4일 개봉 후 닷새 만에 글로벌 누적 관람객 50만명 돌파를 눈앞에 뒀다. 국내에서 CGV 단독 개봉해 스크린X, 4DX 등 특별관을 포함한 다양한 포맷으로 상영 중이며 해외에서 100여개 국]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F11%2FSpoChosun%2F20210811160221984jfci.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
