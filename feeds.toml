@@ -1,9 +1,9 @@
 [naver_entertain_movie]
 title = "네이버TV연예 ─ 영화"
 url = "https://entertain.naver.com/movie"
-entrySelector = "#newsWrp > ul > li"
-titleSelector = "li div[class='tit_area'] a"
-linkSelector = "li div[class='tit_area'] a"
+entrySelector = "ul[class='news_lst news_lst2'] li"
+titleSelector = "div[class='tit_area'] a[class='tit']"
+linkSelector = "div[class='tit_area'] a[class='tit']"
 imageSelector = "li a img"
 contentSelector = "div[class='tit_area'] p[class='summary']"
 
