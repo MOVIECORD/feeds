@@ -1,8 +1,147 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-08-12T22:14:46.845Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 12 Aug 2021 23:15:13 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[핫펠트, 서울여성국제영화제 축하무대 오른다]]></title>
+            <link>https://v.daum.net/v/20210813081038174</link>
+            <guid>https://v.daum.net/v/20210813081038174</guid>
+            <pubDate>Thu, 12 Aug 2021 23:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 핫펠트핫펠트(예은)가 제 23회 서울국제여성영화제 개막식 축하무대에 오른다. 성평등한 영화와 여성영화인의 발굴에 앞장서는 제23회 서울국제여성영화제가 오는 26일 개막식 축하 무대 주인공으로 핫펠트를 확정 지었다. 박광수 집행위원장은 "핫펠트가 그동안 걸어온 여성 및 여성창작인으로서의 행보를 관심 있게 지켜보고 있었고, 응원하고]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fstarnews%2F20210813081039481xhgz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[해외연예IS] '셜록'의 허드슨 부인 우나 스텁스, 향년 84세로 사망]]></title>
+            <link>https://v.daum.net/v/20210813080835133</link>
+            <guid>https://v.daum.net/v/20210813080835133</guid>
+            <pubDate>Thu, 12 Aug 2021 23:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[영국 BBC 드라마 '셜록'에서 허드슨 부인을 연기한 배우 우나 스텁스가 사망했다. 향년 84세. 12일(현지 시간) BBC는 "1960년대부터 2010년까지 영국 TV에서 가장 사랑받는 쇼에 출연했던 배우 우나 스텁스가 84세를 일기로 세상을 떠났다"고 보도했다. 고인은 최근 몇달간 건강 악화로 투병 중이었다. 우나 스텁스의 자녀들은 이날 발표]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Filgansports%2F20210813080837403hvww.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['싱크홀' 이틀 연속 1위·'모가디슈' 200만 눈앞..쌍끌이 흥행[박스오피스]]]></title>
+            <link>https://v.daum.net/v/20210813075945938</link>
+            <guid>https://v.daum.net/v/20210813075945938</guid>
+            <pubDate>Thu, 12 Aug 2021 23:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '싱크홀'이 이틀 연속 박스오피스 1위를 차지했다. 8월 13일 영화진흥위원회 통합전산망 집계에 따르면 12일 영화 '싱크홀'(감독 김지훈)이 12만127명을 모으면서 이틀 연속 전체 박스오피스 정상에 올랐다. 누적 관객 수는 27만4,794명이다. 11일 개봉한 '싱크홀'은 11년 만에 마련한 내 집이 지하 500m 초대형 싱크홀]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fnewsen%2F20210813075946573ovnf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[차승원→김혜준 '싱크홀', 개봉 2일 연속 1위..누적 27만[공식]]]></title>
+            <link>https://v.daum.net/v/20210813075922933</link>
+            <guid>https://v.daum.net/v/20210813075922933</guid>
+            <pubDate>Thu, 12 Aug 2021 23:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;2021년 한국 영화 최고 오프닝 신기록으로 쾌조의 스타트를 끊은 '싱크홀'이 개봉 2일차에도 약 12만 관객을 동원, 이틀 연속 전체 박스오피스 1위에 오르며 본격적인 여름 흥행 레이스를 시작했다.&nbsp; 11년 만에 마련한 내 집이 지하 500m 초대형 싱크홀로 추락하며 벌어지는 재난 버스터 '싱크홀'이 2021년 한국 영화 최고 오]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fpoctan%2F20210813075922920ouwn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['싱크홀', 2일째 압도적 박스오피스 1위..'광복절 연휴 극장가 접수 예고' [공식]]]></title>
+            <link>https://v.daum.net/v/20210813075917930</link>
+            <guid>https://v.daum.net/v/20210813075917930</guid>
+            <pubDate>Thu, 12 Aug 2021 23:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 영화 '싱크홀'이 이틀 연속 전체 박스오피스 1위를 차지했다. 13일 영진위 영화관입장권 통합전산망 집계에 따르면 12일 '싱크홀'은 12만 127명을 동원했다. 누적 관객 수는 27만 4,794명. '싱크홀'은 올해 한국영화 최고 오프닝 신기록 달성에 이어 이틀 연속 박스오피스 1위에 등극했다. 개봉 첫날 14만 관객 돌파]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fmydaily%2F20210813075918003ujbb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['습도 다소 높음', '기생충' 패러디 포스터 배포 철회]]></title>
+            <link>https://v.daum.net/v/20210813073020561</link>
+            <guid>https://v.daum.net/v/20210813073020561</guid>
+            <pubDate>Thu, 12 Aug 2021 23:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='습도 다소 높음' 포스터영화 '습도 다소 높음' 측이 '기생충' 패러디 포스터를 배포했다가 철회했다. 12일 '습도 다소 높음' 측은 지난 11일 배포한 '기생충' 패러디 포스터 관련해 안내 드린다. '기생충' 패러디 포스터와 관련해 영화 '기생충'의 저작권사인 씨제이이엔엠으로부터 패러디 포스터의 제작 및 온라인 배포에 대]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fstarnews%2F20210813073021577gaqz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[박스오피스IS] '싱크홀' 이틀 연속 1위 '27만 돌파']]></title>
+            <link>https://v.daum.net/v/20210813072034476</link>
+            <guid>https://v.daum.net/v/20210813072034476</guid>
+            <pubDate>Thu, 12 Aug 2021 23:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[초반 승률이 좋다. 영화진흥위원회 영화관입장권통합전산망에 따르면 영화 '싱크홀(김지훈 감독)'은 12일 11만9930명을 끌어모아 누적관객수 27만4597명을 기록했다. 박스오피스 순위는 전체 1위로 지난 11일 개봉한 '싱크홀'은 이틀 연속 1위 자리를 차지하는데 성공했다. 이날 2위 '모가디슈'가 5만3323명을 동원한 것과 비교하면 '싱크홀']]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Filgansports%2F20210813072035793lnjz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['싱크홀', 이틀째 박스오피스 1위..'모가디슈' 200만 눈앞 [★무비차트]]]></title>
+            <link>https://v.daum.net/v/20210813071327399</link>
+            <guid>https://v.daum.net/v/20210813071327399</guid>
+            <pubDate>Thu, 12 Aug 2021 23:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='싱크홀' 포스터영화 '싱크홀'이 이틀째 박스오피스 1위를 지켰다. 13일 영진위 영화관 입장권 통합전산망에 따르면 '싱크홀'은 지난 12일 11만 9931명의 관객을 동원하며 1위를 수성했다. 11일 개봉해 이틀 누적 관객수는 27만 4598명이다. 2위는 '모가디슈'로 5만 3323명이 봤다. 누적관객수 197만 1093]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fstarnews%2F20210813071328452sylz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['싱크홀', '모가디슈' 제치고 이틀 연속 1위..누적 27만 [Nbox]]]></title>
+            <link>https://v.daum.net/v/20210813071320397</link>
+            <guid>https://v.daum.net/v/20210813071320397</guid>
+            <pubDate>Thu, 12 Aug 2021 23:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 김민지 기자 = 영화 '싱크홀'(감독 김지훈)이 이틀 연속 박스오피스 1위 자리를 지켰다. 13일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 전날 '싱크홀'은 11만9931명의 관객을 동원, 박스오피스 1위를 차지했다. 누적 관객 수는 27만4598명이다. 지난 11일 개봉한 '싱크홀'은 개봉 첫날에만 14만명 이상의 관객을 동]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2FNEWS1%2F20210813071321171qrqj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['MCU의 새 시대 지배'..'샹치와 텐 링즈의 전설' 메인 포스터 공개]]></title>
+            <link>https://v.daum.net/v/20210813070914352</link>
+            <guid>https://v.daum.net/v/20210813070914352</guid>
+            <pubDate>Thu, 12 Aug 2021 23:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '샹치와 텐 링즈의 전설'(감독 데스틴 크리튼)이 메인 포스터를 공개했다. '샹치와 텐 링즈의 전설'은 마블의 새로운 강력한 히어로 샹치의 탄생과 베일에 싸여 있던 전설적인 조직 텐 링즈의 실체를 다룬 첫 번째 이야기다. 먼저 '열개의 힘, 단 하나의 운명'이란 문구와 함께 강력한 슈퍼 히어로의 압도적 위용을 과시하는 샹]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fxportsnews%2F20210813070915873kyli.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰②] 구교환 "♥이옥섭 감독과 항상 서로 응원"]]></title>
+            <link>https://v.daum.net/v/20210813070309279</link>
+            <guid>https://v.daum.net/v/20210813070309279</guid>
+            <pubDate>Thu, 12 Aug 2021 23:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[(인터뷰①에 이어) 구교환은 ‘모가디슈’ 출연을 제안받고 기뻤다고 털어놨다. 바로 류승완 감독 때문이다. 그는 “고민은 1도 하지 않았다. 기분이 좋았다. 평소 좋아했던 감독님의 영화에 캐스팅되는 확률은 많이 없을 것 같다는 생각이 든다. ‘성덕(성공한 덕후)’이 된 기분”이라고 말했다. 이어 “제가 일전에 단편 영화를 만들 때 류승완 감독님을 연출자로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fstartoday%2F20210813070310786iqeb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰①] '모가디슈' 구교환 "김윤석·허준호·조인성, 많은 영감줘"]]></title>
+            <link>https://v.daum.net/v/20210813070305278</link>
+            <guid>https://v.daum.net/v/20210813070305278</guid>
+            <pubDate>Thu, 12 Aug 2021 23:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 여름 연상호 감독의 영화 ‘반도’로 눈도장을 찍은 배우 구교환(39)이 이번엔 북한 대사로 변신해 강렬한 존재감을 뽐냈다. 구교환은 영화 ‘모가디슈’(감독 류승완)에서 주 소말리아 북한 대사관 참사관 태준기 역을 연기했다. 실화를 바탕으로 한 ‘모가디슈’는 1991년 소말리아의 수도 모가디슈에서 내전으로 인해 고립된 사람들의 생사를 건 탈출을 그]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fstartoday%2F20210813070306748bewr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["극장으로 얼른 드루와!"..'인질' 황정민, 1시간 '순삭'시킨 입담 폭격 [V라이브 종합]]]></title>
+            <link>https://v.daum.net/v/20210813060007417</link>
+            <guid>https://v.daum.net/v/20210813060007417</guid>
+            <pubDate>Thu, 12 Aug 2021 23:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 배우 황정민이 예비 관객을 찾아갔다. 12일 오후 네이버 'V무비' 채널을 통해 영화 '인질'(감독 필감성)의 네이버 무비토크 V라이브가 생중계됐다. '홈캉스로 즐기는 황CU 랜선 여행'을 콘셉트로 꾸며져 '황정민 시네마틱 유니버스'를 파헤쳤다. 시청자와 인사를 나눈 황정민은 신조어 '갑분싸'에 얽힌 '웃픈' 트라우마로 분위]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fmydaily%2F20210813060007128xsaq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[황정민 "실제 밧줄에 묶인 채 연기, 의자 넘어가는 바람에 부상"(V라이브)]]></title>
+            <link>https://v.daum.net/v/20210813052804138</link>
+            <guid>https://v.daum.net/v/20210813052804138</guid>
+            <pubDate>Thu, 12 Aug 2021 23:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 황정민이 ‘인질’에서 밧줄에 몸이 묶인 상태에서도 남다른 열정으로 명장면을 완성했다. 8월 12일 진행된 네이버 무비토크 라이브에서는 영화 ‘인질’에 출연한 황정민이 출연했다. 이날 황정민은 영화 속 장면과 함께 ‘남다른 열정’이라는 키워드를 살펴 봤다. 박경림은 “황정민 씨의 열정은 모두 인정한다. 스틸 사진을 보면 밧줄에 묶]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fnewsen%2F20210813052804255kutv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[황정민 "'인질'서 죽기 살기로 탈출, 배우들 나 따라오다 토해"(V라이브)[결정적장면]]]></title>
+            <link>https://v.daum.net/v/20210813052507119</link>
+            <guid>https://v.daum.net/v/20210813052507119</guid>
+            <pubDate>Thu, 12 Aug 2021 23:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 황정민이 영화 ‘인질’ 촬영 뒷이야기를 공개했다. 8월 12일 진행된 영화 ‘인질’ 네이버 무비토크 라이브에서는 황정민이 촬영 중 기억에 남는 여러 상황을 떠올렸다. 황정민은 ‘인질’ 촬영을 하면서 힘들게 한 것으로 모기를 꼽았다. 황정민은 “촬영 시기가 7~8월이었다. 촬영지가 산속에 있으니까 산모기들이 많았다. 별명이 모기향]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fnewsen%2F20210813052508064wzwq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["무비토크의 인질" 황정민, 애교→주접 댓글에 진저리+폭소(V라이브)[어제TV]]]></title>
+            <link>https://v.daum.net/v/20210813052136087</link>
+            <guid>https://v.daum.net/v/20210813052136087</guid>
+            <pubDate>Thu, 12 Aug 2021 23:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 황정민이 영화 ‘인질’ 홍보와 팬들을 위해 애교부터 주접 댓글 읽기까지 소화했다. 8월 12일 진행된 영화 ‘인질’ 네이버 무비토크 라이브에서는 ‘홈캉스로 즐기는 황CU 랜선 여행’을 콘셉트로 황정민의 다양한 필모그래피를 살펴 봤다. 황정민의 훤칠한 비주얼을 칭찬하던 박경림은 영화 ‘공작’ 개봉 당시 진행한 무비 토크에서 신조어]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fnewsen%2F20210813052138006qfgu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["남편 육아를 당연시한 좌충우돌 유학생활.. 부끄럽네요"]]></title>
+            <link>https://v.daum.net/v/20210813040712541</link>
+            <guid>https://v.daum.net/v/20210813040712541</guid>
+            <pubDate>Thu, 12 Aug 2021 23:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[자전적 다큐멘터리 영화 ‘박강아름 결혼하다’는 박강아름 감독이 ‘불어 까막눈’인 남편 성만과 함께 프랑스 유학길을 떠나면서 자신 안에 내재한 가부장성을 마주하는 이야기다. 박 감독은 “제가 남편의 경제력을 상실하게 만들고 나서, 성 역할이 엄격하게 구분되는 사회에선 남성과 여성이 모두 고통받는다는 걸 깨달았다”고 말했다. 박 감독은 12일 서울 종로구 한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fkukminilbo%2F20210813040714994smou.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
