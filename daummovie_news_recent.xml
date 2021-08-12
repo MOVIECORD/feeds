@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-08-12T18:18:25.282Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 12 Aug 2021 20:16:19 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["남편 육아를 당연시한 좌충우돌 유학생활.. 부끄럽네요"]]></title>
+            <link>https://v.daum.net/v/20210813040712541</link>
+            <guid>https://v.daum.net/v/20210813040712541</guid>
+            <pubDate>Thu, 12 Aug 2021 20:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[자전적 다큐멘터리 영화 ‘박강아름 결혼하다’는 박강아름 감독이 ‘불어 까막눈’인 남편 성만과 함께 프랑스 유학길을 떠나면서 자신 안에 내재한 가부장성을 마주하는 이야기다. 박 감독은 “제가 남편의 경제력을 상실하게 만들고 나서, 성 역할이 엄격하게 구분되는 사회에선 남성과 여성이 모두 고통받는다는 걸 깨달았다”고 말했다. 박 감독은 12일 서울 종로구 한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fkukminilbo%2F20210813040714994smou.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>

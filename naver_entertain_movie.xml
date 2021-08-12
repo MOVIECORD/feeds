@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-12T18:18:25.290Z</updated>
+    <updated>2021-08-12T20:16:19.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘싱크홀’ 개봉 첫날 관객 14만명… 올해 한국영화 1위]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001464111</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001464111"/>
+        <updated>2021-08-12T20:16:16.184Z</updated>
+        <content type="html"><![CDATA[영화 ‘싱크홀’( 사진 )이 개봉 첫날 14만여명의 관객을 끌어모으면서 올해 한국영화 최고 오프닝 성적을 기록했다. 12일 영화진흥위원회 영화관입장권 통합전산망에 따르면 ‘싱크홀’은 전날 14만7000여명(매출액 점]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“남편 육아를 당연시한 좌충우돌 유학생활… 부끄럽네요”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001464093</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001464093"/>
+        <updated>2021-08-12T20:16:16.185Z</updated>
+        <content type="html"><![CDATA[자전적 다큐멘터리 영화 ‘박강아름 결혼하다’는 박강아름 감독이 ‘불어 까막눈’인 남편 성만과 함께 프랑스 유학길을 떠나면서 자신 안에 내재한 가부장성을 마주하는 이야기다. 박 감독은 “제가 남편의 경제력을 상실하게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[새영화]땅 속으로 사라진 우리집…긴박한 상황 탈출하라]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000856166</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004455275"/>
         <updated>2021-08-12T11:12:09.910Z</updated>
         <content type="html"><![CDATA[[OSEN=제천, 이대선 기자] 12일 오후 충청북도 제천시문화회관에서 제17회 제천국제음악영화제 개막식 레드카펫 행사가 열렸다. 배창호 감독과 배우 김유미가 레드카펫을 밟고 있다. 2021.08.12 /sunday]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]문성근,'다정한 인사']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004455274</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004455274"/>
-        <updated>2021-08-12T11:12:09.910Z</updated>
-        <content type="html"><![CDATA[[OSEN=제천, 이대선 기자] 12일 오후 충청북도 제천시문화회관에서 제17회 제천국제음악영화제 개막식 레드카펫 행사가 열렸다. 배우 문성근이 레드카펫을 밟고 있다. 2021.08.12 /sunday@osen.co]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]문성근,'카메라 향해 반가운 손인사']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004455273</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004455273"/>
-        <updated>2021-08-12T11:12:09.966Z</updated>
-        <content type="html"><![CDATA[[OSEN=제천, 이대선 기자] 12일 오후 충청북도 제천시문화회관에서 제17회 제천국제음악영화제 개막식 레드카펫 행사가 열렸다. 배우 문성근이 레드카펫을 밟고 있다. 2021.08.12 /sunday@osen.co]]></content>
     </entry>
 </feed>
