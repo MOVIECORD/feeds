@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Aug 2021 07:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 08:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<언더그라운드> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/421456166?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/421456166?act=clip</guid>
+            <pubDate>Thu, 12 Aug 2021 08:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:28]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfyee9wdcx16448nyutwrohu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185664696%26signature%3D1qAKjaF52nRURA%252BvF588BoPPaWY%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<마를린> 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/421452120?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/421421022?act=clip</guid>
             <pubDate>Wed, 11 Aug 2021 01:56:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:43]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvh818kv0o5bgl8eti5ckzww9%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185553471%26signature%3D3XP%252FGWU1alUpqBd1leqyT%252FC8ORg%253D%26ts%3D1628644671" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvh818kv0o5bgl8eti5ckzww9%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185553471%26signature%3D3XP%252FGWU1alUpqBd1leqyT%252FC8ORg%253D%26ts%3D1628644671" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<싱크홀> 30초 리뷰 스팟]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 11 Aug 2021 18:18:07 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:13]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvyipfehk9igsebzg12za0guq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185393431%26signature%3D8H0S%252FSNNPPuJZL1MNC25OPW7P50%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<남색대문> 계륜미의 여름 시(時) 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/421373107?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/421373107?act=clip</guid>
-            <pubDate>Wed, 11 Aug 2021 18:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvk1l2gjdte3as9tozqhkbzo3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185393183%26signature%3DQbc2F3UQ%252Fnn1n0qyhbpW9nrD7U0%253D" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
