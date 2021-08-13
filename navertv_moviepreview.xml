@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Aug 2021 02:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Aug 2021 04:19:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['데모닉' 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/21844611</link>
+            <guid>https://tv.naver.com/v/21844611</guid>
+            <pubDate>Fri, 13 Aug 2021 04:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210813_206/QnLKf_16288217699023gNCa_JPEG/1cd16ad9-fbde-11eb-93f2-a0369ff95ec0_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['언더그라운드' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/21829891</link>
             <guid>https://tv.naver.com/v/21829891</guid>
             <pubDate>Thu, 12 Aug 2021 09:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210812_214/sE7Ko_1628757255130GTSPX_JPEG/ca1e6020-fb47-11eb-b6bf-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/21827856</link>
             <guid>https://tv.naver.com/v/21827856</guid>
             <pubDate>Thu, 12 Aug 2021 08:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210812_155/Q08Lu_1628753278242bWncd_JPEG/8d872305-fb3e-11eb-8c9c-505dac8c37f3_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/21824297</link>
             <guid>https://tv.naver.com/v/21824297</guid>
             <pubDate>Thu, 12 Aug 2021 07:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210812_85/6Vfan_1628744867877ImBNL_JPEG/f3ae3338-fb2a-11eb-bf57-246e963a4708_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/21823978</link>
             <guid>https://tv.naver.com/v/21823978</guid>
             <pubDate>Thu, 12 Aug 2021 07:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210812_255/Udx7q_1628743827634mOVK6_JPEG/819e97b0-fb28-11eb-b835-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://tv.naver.com/v/21822833</link>
             <guid>https://tv.naver.com/v/21822833</guid>
             <pubDate>Thu, 12 Aug 2021 04:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210812_176/M9WTs_1628740140502GvrXX_PNG/1628740138154.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 10 Aug 2021 06:18:44 GMT</pubDate>
             <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210810_69/mDSze_1628572761873EYuIg_JPEG/1628572759218.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['코다' 파이널 예고편]]></title>
-            <link>https://tv.naver.com/v/21779647</link>
-            <guid>https://tv.naver.com/v/21779647</guid>
-            <pubDate>Tue, 10 Aug 2021 03:01:05 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210810_32/rUOdu_1628563607790XuNRY_JPEG/52648292-f984-11eb-86ec-48df37ae3fca_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
