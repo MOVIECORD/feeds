@@ -4,7 +4,7 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Aug 2021 08:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Aug 2021 09:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 13 Aug 2021 08:17:02 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:10]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpsyjgsyrwpbe5dkwbe51w31%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185748578%26signature%3D64p9yCs902NVbrdJN9JQFYBt1f0%253D%26ts%3D1628839778" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<맨 인 더 다크 2> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/421481410?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/421481410?act=clip</guid>
+            <pubDate>Fri, 13 Aug 2021 09:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:12]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvecj2d3ivi8fdv5zrgp0otjo%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185748106%26signature%3Dghf6wbTJnEIUG60Wgb8%252BnCIIOBM%253D%26ts%3D1628839306" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<사제로부터 온 편지> 메인 예고편]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/421446899?act=clip</guid>
             <pubDate>Thu, 12 Aug 2021 01:56:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:59]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgl6fr2dya558q4jzj16xx9c%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185639707%26signature%3DI0BT9Td%252BQGVfuX1MTzQrfNWX34g%253D%26ts%3D1628730907" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgl6fr2dya558q4jzj16xx9c%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185639707%26signature%3DI0BT9Td%252BQGVfuX1MTzQrfNWX34g%253D%26ts%3D1628730907" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<영화의 거리> 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 12 Aug 2021 23:15:13 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:05]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2127401120%2Fthumb%2F20210810110444" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<코다> 파이널 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/421396072?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/421396072?act=clip</guid>
-            <pubDate>Thu, 12 Aug 2021 23:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:58]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvt2cr58fp9om7b0tqgo564ne%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185469561%26signature%3DcdqqzVUNFwKOqAI964W76GnijyI%253D%26ts%3D1628560761" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
