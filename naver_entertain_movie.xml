@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-13T12:23:52.774Z</updated>
+    <updated>2021-08-13T14:14:16.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나영석 PD, '싱크홀' 차승원→이광수 만난다…'출장 십오야']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010664278</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010664278"/>
+        <updated>2021-08-13T14:13:43.848Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 강진아 기자 = tvN '출장 십오야' 스페셜편에서 나영석 PD와 영화 '싱크홀'팀이 만난다. 13일 방송되는 '출장 십오야'에는 영화 '싱크홀' 주연 4인방 차승원, 김성균, 이광수, 김혜준이 출연]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['비상선언', 뜨거웠던 칸 현장 전한다…스토리 영상 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010664276</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010664276"/>
+        <updated>2021-08-13T14:13:43.848Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 강진아 기자 = 영화 '비상선언'이 제74회 칸 국제 영화제 현지의 모습이 담긴 스토리 영상을 최초 공개했다. 배급사 쇼박스는 13일 '비상선언'이 전 세계 영화인들의 주목을 받았던 칸 영화제 현지에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비상선언' 송강호-이병헌-임시완, 칸 영화제 현지 스토리 최초 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003466280</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003527195"/>
         <updated>2021-08-13T08:16:55.707Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]MCU의 세계관을 확장하며 마블 페이즈 4의 새로운 지평을 여는 강력한 NEW 슈퍼 히어로 ‘샹치’의 이야기를 그린 ‘샹치와 텐 링즈의 전설’이 배우들의 유쾌한 매력과 케미스트리가 담긴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘습도 다소 높음’ 디에이치엘 측 "‘기생충’ 패러디 포스터 해프닝, 저작권 불찰…정말 죄송해"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000755585</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000755585"/>
-        <updated>2021-08-13T08:16:55.707Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 영화 ‘습도 다소 높음’(감독 고봉수) 측이 ‘기생충’ 패러디 포스터를 공개했다가 저작권 문제로 삭제했다. 배급사 (주)스튜디오 디에이치엘 측은 13일 ‘스포츠경향’에 철회 배경 관련 “유명한 영화 포]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['야차' 설경구x박해수→이엘, 넷플릭스行…전세계 공개 확정[공식]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004455560</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004455560"/>
-        <updated>2021-08-13T08:16:55.734Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 첩보액션 영화 '야차'가 넷플릭스를 통한 전 세계 공개를 확정했다. '야차'(감독 나현, 제작 상상필름)는 스파이들의 최대 접전지 중국 선양에서 야차로 불리는 인물과 그곳으로 특별 감찰을 나]]></content>
     </entry>
 </feed>
