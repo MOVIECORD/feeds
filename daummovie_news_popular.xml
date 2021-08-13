@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Aug 2021 11:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Aug 2021 12:23:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,12 +16,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fstartoday%2F20210813132710628pzzy.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
+            <title><![CDATA['모가디슈', 코시국 속 200만 돌파 쾌거..김윤석→박경혜 "감동"[종합]]]></title>
+            <link>https://movie.v.daum.net/v/20210813151534492</link>
+            <guid>https://movie.v.daum.net/v/20210813151534492</guid>
+            <pubDate>Fri, 13 Aug 2021 08:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 스타in 박미애 기자] ‘모가디슈’가 200만 관객을 돌파했다. 2021년 한국영화 첫 200만 돌파다. 13일 영화관입장권통합전산망에 따르면 지난 달 28일 개봉한 ‘모가디슈’(감독 류승완, 제작 덱스터스튜디오·외유내강)는 이날 낮 12시께 200만 27명을 동원, 개봉 17일 만에 200만명을 넘어섰다. ‘모가디슈’는 수도권과 일부 지역에서]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2FEdaily%2F20210813152310858kier.jpg" length="0" type="image//thumb/S732x228/"/>
+        </item>
+        <item>
+            <title><![CDATA['습도 다소 높음', '기생충' 패러디 포스터로 홍보했다 철회.."저작권 불찰"[공식]]]></title>
+            <link>https://movie.v.daum.net/v/20210813151825595</link>
+            <guid>https://movie.v.daum.net/v/20210813151825595</guid>
+            <pubDate>Fri, 13 Aug 2021 08:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 영화 '습도 다소 높음'이 '기생충' 패러디 포스터를 공개했다가 저작권 문제로 삭제했다. 이에 "불찰이다"고 사과했다. 9월 1일 개봉을 앞둔 영화 '습도 다소 높음'(감독 고봉수) 측은 지난 8월 11일 영화 '기생충'(감독 봉준호) 패러디 포스터를 공개하며 홍보했다. 극중 'C급 영화감독'으로 출연하는 이희준이 '기생충' 포스터]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fnewsen%2F20210813151830838ghko.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['습도 다소 높음', '기생충' 패러디 포스터 배포 철회]]></title>
             <link>https://movie.v.daum.net/v/20210813073020561</link>
             <guid>https://movie.v.daum.net/v/20210813073020561</guid>
             <pubDate>Thu, 12 Aug 2021 23:15:13 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='습도 다소 높음' 포스터영화 '습도 다소 높음' 측이 '기생충' 패러디 포스터를 배포했다가 철회했다. 12일 '습도 다소 높음' 측은 지난 11일 배포한 '기생충' 패러디 포스터 관련해 안내 드린다. '기생충' 패러디 포스터와 관련해 영화 '기생충'의 저작권사인 씨제이이엔엠으로부터 패러디 포스터의 제작 및 온라인 배포에 대]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fstarnews%2F20210813073021577gaqz.jpg" length="0" type="image//thumb/S732x228/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fstarnews%2F20210813073021577gaqz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['모가디슈', 리들리 스콧·마이클 만·마크 포스터 할리우드 명감독도 극찬]]></title>
@@ -32,28 +48,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fmydaily%2F20210813081904943tsin.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['모가디슈', 코시국 속 200만 돌파 쾌거..김윤석→박경혜 "감동"[종합]]]></title>
-            <link>https://movie.v.daum.net/v/20210813151534492</link>
-            <guid>https://movie.v.daum.net/v/20210813151534492</guid>
-            <pubDate>Fri, 13 Aug 2021 08:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[[이데일리 스타in 박미애 기자] ‘모가디슈’가 200만 관객을 돌파했다. 2021년 한국영화 첫 200만 돌파다. 13일 영화관입장권통합전산망에 따르면 지난 달 28일 개봉한 ‘모가디슈’(감독 류승완, 제작 덱스터스튜디오·외유내강)는 이날 낮 12시께 200만 27명을 동원, 개봉 17일 만에 200만명을 넘어섰다. ‘모가디슈’는 수도권과 일부 지역에서]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2FEdaily%2F20210813152310858kier.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[단독]설경구·박해수 '야차', 넷플릭스行..'승리호'처럼 공개]]></title>
             <link>https://movie.v.daum.net/v/20210813083729674</link>
             <guid>https://movie.v.daum.net/v/20210813083729674</guid>
             <pubDate>Fri, 13 Aug 2021 00:49:22 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 전형화 기자] 왼쪽 상단부터 시계방향으로 설경구, 박해수, 양동근,박진영,송재림,이엘배우 설경구와 박해수 등이 호흡을 맞춘 영화 '야차'가 넷플릭스를 통해 공개된다. 13일 영화계에 따르면 쇼박스는 최근 넷플릭스와 '야차'의 판권 계약을 체결했다. 업계에 따르면 '야차'는 '승리호'처럼 넷플릭스에서 오리지널 영화로 공개될 예정이다. 때문에 '야차]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fstarnews%2F20210813084131797gaib.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['습도 다소 높음', '기생충' 패러디 포스터로 홍보했다 철회.."저작권 불찰"[공식]]]></title>
-            <link>https://movie.v.daum.net/v/20210813151825595</link>
-            <guid>https://movie.v.daum.net/v/20210813151825595</guid>
-            <pubDate>Fri, 13 Aug 2021 08:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 영화 '습도 다소 높음'이 '기생충' 패러디 포스터를 공개했다가 저작권 문제로 삭제했다. 이에 "불찰이다"고 사과했다. 9월 1일 개봉을 앞둔 영화 '습도 다소 높음'(감독 고봉수) 측은 지난 8월 11일 영화 '기생충'(감독 봉준호) 패러디 포스터를 공개하며 홍보했다. 극중 'C급 영화감독'으로 출연하는 이희준이 '기생충' 포스터]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fnewsen%2F20210813151830838ghko.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[마블 새 영웅 '샹치', 당신은 누구시길래..]]></title>
@@ -72,22 +72,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Ftvdaily%2F20210813134615146xfsv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[TEN 이슈] 박서준 '더 마블스' 촬영중?..출연자 명단 포착→크랭크인, 공식발표 언제할까]]></title>
-            <link>https://movie.v.daum.net/v/20210812112101098</link>
-            <guid>https://movie.v.daum.net/v/20210812112101098</guid>
-            <pubDate>Fri, 13 Aug 2021 01:57:20 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=노규민 기자]배우 박서준이 영화 '더 마블스'(캡틴 마블2')에 출연한다는 것이 기정사실화 된 가운데, 마블 측이 이를 언제쯤 공식발표 할 지 주목된다.'캡틴 마블'(애너 보든·라이언 플렉 감독)의 후속편 '더 마블스'(니아 다코스타 감독)가 촬영을 시작했다. 전 편에 이어 '더 마블스'의 주연으로 캐스팅 된 캡틴 마블 역의 브리 라슨은 최근 미]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F12%2F10asia%2F20210812112104574tnpq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['보이스' 김무열, 보이스피싱 설계자?..광기 서린 新 캐릭터로 돌아온다]]></title>
-            <link>https://movie.v.daum.net/v/20210813093202300</link>
-            <guid>https://movie.v.daum.net/v/20210813093202300</guid>
-            <pubDate>Fri, 13 Aug 2021 01:57:19 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=노규민 기자]배우 김무열이 리얼범죄액션 영화 '보이스'로 새로운 인생 캐릭터의 탄생을 예고한다.&nbsp;개성 강한 캐릭터를 완벽하게 소화하는 배우 김무열이 '보이스'로 스크린을 압도하는 새로운 인생 캐릭터의 탄생을 예고한다. '보이스'는 보이스피싱 조직의 덫에 걸려 모든 것을 잃게 된 '서준'(변요한)이 빼앗긴 돈을 되찾기 위해 중국에 있는 본거지에 잠]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2F10asia%2F20210813093204712htur.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['좋은 사람' 김태훈의 압도적인 아우라]]></title>
             <link>https://movie.v.daum.net/v/20210813102512613</link>
             <guid>https://movie.v.daum.net/v/20210813102512613</guid>
@@ -96,20 +80,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Ftvdaily%2F20210813102515134kvzm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[공식]"제작비 대비 16배 흥행수익"..'맨 인 더 다크2', 9월 1일 개봉 확정]]></title>
-            <link>https://movie.v.daum.net/v/20210813082941499</link>
-            <guid>https://movie.v.daum.net/v/20210813082941499</guid>
-            <pubDate>Fri, 13 Aug 2021 00:49:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이승미 기자]영화 '맨 인 더 다크 2'(로도 시야구에즈 감독)가 오는 9월 1일 개봉을 확정하고전편보다 더욱 강력해진 공포와 액션을엿보게 하는메인 포스터와 예고편을 공개했다. '맨 인 더 다크 2'는 비밀스러운 과거를 간직한 소녀 피닉스와 함께 평온한 일상을 보내던 눈 먼 노인 노먼에게 의문의 괴한들이 나타나 이들의 삶을 뒤흔들]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2FSpoChosun%2F20210813082941150rfpi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니플러스, 11월 중순 韓진출 공식화..넷플릭스와 경쟁]]></title>
-            <link>https://movie.v.daum.net/v/20210813091544771</link>
-            <guid>https://movie.v.daum.net/v/20210813091544771</guid>
-            <pubDate>Fri, 13 Aug 2021 00:49:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 디즈니의 OTT서비스 디즈니플러스가 11월 중순 한국에서 런칭한다. 콘텐츠 공룡 디즈니의 OTT서비스 디즈니플러스가 한국에서 11월 중순 런칭할 예정이다. 13일 OTT전문매체 더스트리머블 등 외신에 따르면 밥 차펙 월트디즈니컴퍼니 CEO는 12일(현지시간) 올해 2분기(디즈니 자체기준 3분기) 실적 컨퍼런스콜에서 "10월 일본 내]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fstarnews%2F20210813091545627qlcp.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[TEN 이슈] 박서준 '더 마블스' 촬영중?..출연자 명단 포착→크랭크인, 공식발표 언제할까]]></title>
+            <link>https://movie.v.daum.net/v/20210812112101098</link>
+            <guid>https://movie.v.daum.net/v/20210812112101098</guid>
+            <pubDate>Fri, 13 Aug 2021 01:57:20 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=노규민 기자]배우 박서준이 영화 '더 마블스'(캡틴 마블2')에 출연한다는 것이 기정사실화 된 가운데, 마블 측이 이를 언제쯤 공식발표 할 지 주목된다.'캡틴 마블'(애너 보든·라이언 플렉 감독)의 후속편 '더 마블스'(니아 다코스타 감독)가 촬영을 시작했다. 전 편에 이어 '더 마블스'의 주연으로 캐스팅 된 캡틴 마블 역의 브리 라슨은 최근 미]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F12%2F10asia%2F20210812112104574tnpq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[SC초점] "11월 중순 韓 론칭"..'OTT공룡' 디즈니+, 한국 진출 공식화 선언]]></title>
@@ -120,6 +96,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2FSpoChosun%2F20210813101227504kxfq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['보이스' 김무열, 보이스피싱 설계자?..광기 서린 新 캐릭터로 돌아온다]]></title>
+            <link>https://movie.v.daum.net/v/20210813093202300</link>
+            <guid>https://movie.v.daum.net/v/20210813093202300</guid>
+            <pubDate>Fri, 13 Aug 2021 01:57:19 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=노규민 기자]배우 김무열이 리얼범죄액션 영화 '보이스'로 새로운 인생 캐릭터의 탄생을 예고한다.&nbsp;개성 강한 캐릭터를 완벽하게 소화하는 배우 김무열이 '보이스'로 스크린을 압도하는 새로운 인생 캐릭터의 탄생을 예고한다. '보이스'는 보이스피싱 조직의 덫에 걸려 모든 것을 잃게 된 '서준'(변요한)이 빼앗긴 돈을 되찾기 위해 중국에 있는 본거지에 잠]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2F10asia%2F20210813093204712htur.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식]"제작비 대비 16배 흥행수익"..'맨 인 더 다크2', 9월 1일 개봉 확정]]></title>
+            <link>https://movie.v.daum.net/v/20210813082941499</link>
+            <guid>https://movie.v.daum.net/v/20210813082941499</guid>
+            <pubDate>Fri, 13 Aug 2021 00:49:22 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자]영화 '맨 인 더 다크 2'(로도 시야구에즈 감독)가 오는 9월 1일 개봉을 확정하고전편보다 더욱 강력해진 공포와 액션을엿보게 하는메인 포스터와 예고편을 공개했다. '맨 인 더 다크 2'는 비밀스러운 과거를 간직한 소녀 피닉스와 함께 평온한 일상을 보내던 눈 먼 노인 노먼에게 의문의 괴한들이 나타나 이들의 삶을 뒤흔들]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2FSpoChosun%2F20210813082941150rfpi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[한선화X이완 '영화의 거리', 쎄한 로맨스 포스터]]></title>
             <link>https://movie.v.daum.net/v/20210813094101623</link>
             <guid>https://movie.v.daum.net/v/20210813094101623</guid>
@@ -128,12 +120,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Ftvreport%2F20210813094103115zvas.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['싱크홀' 이틀째 1위..'모가디슈' 200만 목전[MK박스오피스]]]></title>
-            <link>https://movie.v.daum.net/v/20210813085101987</link>
-            <guid>https://movie.v.daum.net/v/20210813085101987</guid>
+            <title><![CDATA[디즈니플러스, 11월 중순 韓진출 공식화..넷플릭스와 경쟁]]></title>
+            <link>https://movie.v.daum.net/v/20210813091544771</link>
+            <guid>https://movie.v.daum.net/v/20210813091544771</guid>
             <pubDate>Fri, 13 Aug 2021 00:49:22 GMT</pubDate>
-            <content:encoded><![CDATA[올해 한국 영화 최고 오프닝 신기록을 기록한 영화 '싱크홀'이 이틀째 1위를 지켰다. 13일 영화진흥위원회 통합전산망에 따르면 '싱크홀'은 지난 12일 하루 동안 12만127명을 모아 1위에 올랐다. 누적관객수는 27만4794명. 영화는 11년 만에 마련한 내 집이 지하 500m 초대형 싱크홀로 추락하며 벌어지는 재난 버스터로, 차승원, 김성균, 이광수]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fstartoday%2F20210813085102279owac.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 디즈니의 OTT서비스 디즈니플러스가 11월 중순 한국에서 런칭한다. 콘텐츠 공룡 디즈니의 OTT서비스 디즈니플러스가 한국에서 11월 중순 런칭할 예정이다. 13일 OTT전문매체 더스트리머블 등 외신에 따르면 밥 차펙 월트디즈니컴퍼니 CEO는 12일(현지시간) 올해 2분기(디즈니 자체기준 3분기) 실적 컨퍼런스콜에서 "10월 일본 내]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fstarnews%2F20210813091545627qlcp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[SC줌人]'모가디슈'→'아신전'→'D.P..물 만난 구교환, 독립영화★에서 대세 배우로 급성장]]></title>
@@ -144,6 +136,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F12%2FSpoChosun%2F20210812144741377wybc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['싱크홀' 이틀째 1위..'모가디슈' 200만 목전[MK박스오피스]]]></title>
+            <link>https://movie.v.daum.net/v/20210813085101987</link>
+            <guid>https://movie.v.daum.net/v/20210813085101987</guid>
+            <pubDate>Fri, 13 Aug 2021 00:49:22 GMT</pubDate>
+            <content:encoded><![CDATA[올해 한국 영화 최고 오프닝 신기록을 기록한 영화 '싱크홀'이 이틀째 1위를 지켰다. 13일 영화진흥위원회 통합전산망에 따르면 '싱크홀'은 지난 12일 하루 동안 12만127명을 모아 1위에 올랐다. 누적관객수는 27만4794명. 영화는 11년 만에 마련한 내 집이 지하 500m 초대형 싱크홀로 추락하며 벌어지는 재난 버스터로, 차승원, 김성균, 이광수]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fstartoday%2F20210813085102279owac.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[강혜정 대표 "영화 안 찍으면 죽는단 류승완 감독, 내 혹독한 선생님"[EN:인터뷰①]]]></title>
             <link>https://movie.v.daum.net/v/20210813144712477</link>
             <guid>https://movie.v.daum.net/v/20210813144712477</guid>
@@ -152,20 +152,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fnewsen%2F20210813144713553tdur.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['야차' 설경구x박해수→이엘, 넷플릭스行..전세계 공개 확정[공식]]]></title>
+            <link>https://movie.v.daum.net/v/20210813161225240</link>
+            <guid>https://movie.v.daum.net/v/20210813161225240</guid>
+            <pubDate>Fri, 13 Aug 2021 12:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자] 첩보액션 영화 '야차'가 넷플릭스를 통한 전 세계 공개를 확정했다. '야차'(감독 나현, 제작 상상필름)는&nbsp;스파이들의 최대 접전지 중국 선양에서 야차로 불리는 인물과 그곳으로 특별 감찰을 나선 검사가 만나며 벌어지는 첩보액션 영화로, 신선한 설정과 탄탄한 액션 연출로 '프리즌'(2017)을 흥행시킨 나현 감독의 신작이다. '야차'에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fpoctan%2F20210813161225786nzud.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[전국민 관심사 '부동산' 건드렸는데.. 기대가 너무 컸나]]></title>
             <link>https://movie.v.daum.net/v/20210813135401461</link>
             <guid>https://movie.v.daum.net/v/20210813135401461</guid>
             <pubDate>Fri, 13 Aug 2021 06:19:06 GMT</pubDate>
             <content:encoded><![CDATA[[원종빈 기자] ▲ &nbsp;영화 &lt;싱크홀&gt; 관련 이미지.    ⓒ (주)쇼박스  &nbsp;*이 기사에는 영화의 스포일러가 포함돼 있습니다.&nbsp; 매일 아침마다 통근 지옥에 시달리던 '동원(김성균)'은 마침내 서울 입성과 함께 내 집 마련의 꿈을 이룬다. 그러나 얼마 지나니 않아 동원과 아내 '영이(권소현)'는 집 바닥을 굴러다니는 구슬들을 보면서 빌라 건물에]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fohmynews%2F20210813135408309dyfi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[강혜정 대표 "'모가디슈' 200만 돌파? 갈증 해소된 느낌"[EN:인터뷰②]]]></title>
-            <link>https://movie.v.daum.net/v/20210813144730488</link>
-            <guid>https://movie.v.daum.net/v/20210813144730488</guid>
-            <pubDate>Fri, 13 Aug 2021 10:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] (인터뷰①에 이어) 지난 7월 28일 개봉한 영화 '모가디슈'(감독 류승완)가 개봉한 지 17일만인 8월 13일 낮 12시 200만 관객을 넘겼다. 올해 개봉한 한국영화 중 최초다. '모가디슈'가 올해 개봉한 한국영화 중 첫 200만 돌파작에 '등극'한 것에 대해선 오히려 "착잡하다"는 제작사 외유내강 강혜정 대표는 "시장이 이렇]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fnewsen%2F20210813144730726byep.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
