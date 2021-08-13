@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Aug 2021 20:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Aug 2021 21:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['모가디슈', 천만보다 귀한 200만 [N초점] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005541721</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005541721</guid>
+            <pubDate>Fri, 13 Aug 2021 21:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 천만만큼, 혹은 천만보다 귀한 200만이다. 영화 '모가디슈'(감독 류승완)가 올해 개봉한 한국 영화 최초로 200만 관객 돌파에 성공했다. 약 300만명으로 추정되는 손익분기점까지]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA['귀문' 김강우, "데뷔 20년 첫 공포 연기, 성취감 컸죠" [인터뷰]① (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000100635</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[[OSEN=김보라 기자] 재난 버스터 '싱크홀'의 차승원, 김성균, 이광수, 김혜준이 오늘(13일) '출장 십오야'에 전격 출연한다. 2021년 한국 영화 최고 오프닝 스코어를 기록하며, 상영 2일째 박스오피스 1위]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[디즈니 OTT 디즈니플러스, 11월 한국 상륙 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012598492</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012598492</guid>
-            <pubDate>Fri, 13 Aug 2021 08:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 월트디즈니 컴퍼니가 오는 11월 한국, 홍콩, 대만에서 온라인 동영상 서비스(OTT)인 '디즈니+' 공식 서비스를 시작한다고 13일 밝혔다. 2021.8.13 [디즈니플러스 제공. 재판매 및 DB]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[추자현, 영화 '당신이 잠든 사이' 주연 캐스팅 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210813132709761</link>
             <guid>https://movie.v.daum.net/v/20210813132709761</guid>
@@ -239,6 +239,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Ftvreport%2F20210813094103115zvas.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[SC줌人]'모가디슈'→'아신전'→'D.P..물 만난 구교환, 독립영화★에서 대세 배우로 급성장 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210812104041368</link>
+            <guid>https://movie.v.daum.net/v/20210812104041368</guid>
+            <pubDate>Fri, 13 Aug 2021 08:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자] 독립영화계 스타에서, 충무로 스타로 거듭났다. 유명 감독·작가들의 러브콜을 끊임없이 받고 있는 구교환이 연이어 화제작 속에서 미친 존재감을 보여주며 대세 배우로 우뚝섰다. 구교환은 올해 개봉 한국 영화 중 최초로 200만 돌파를 카운트다운하는 것은 물론, 북미를 비롯한 해외에도 뜨거운 호평을 불러일으킨 영화 '모가디]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F12%2FSpoChosun%2F20210812144741377wybc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['모가디슈', 리들리 스콧·마이클 만·마크 포스터 할리우드 명감독도 극찬 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210813081904326</link>
             <guid>https://movie.v.daum.net/v/20210813081904326</guid>
@@ -261,14 +269,6 @@
             <pubDate>Thu, 12 Aug 2021 23:15:13 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='습도 다소 높음' 포스터영화 '습도 다소 높음' 측이 '기생충' 패러디 포스터를 배포했다가 철회했다. 12일 '습도 다소 높음' 측은 지난 11일 배포한 '기생충' 패러디 포스터 관련해 안내 드린다. '기생충' 패러디 포스터와 관련해 영화 '기생충'의 저작권사인 씨제이이엔엠으로부터 패러디 포스터의 제작 및 온라인 배포에 대]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fstarnews%2F20210813073021577gaqz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[SC줌人]'모가디슈'→'아신전'→'D.P..물 만난 구교환, 독립영화★에서 대세 배우로 급성장 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210812104041368</link>
-            <guid>https://movie.v.daum.net/v/20210812104041368</guid>
-            <pubDate>Fri, 13 Aug 2021 08:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이승미 기자] 독립영화계 스타에서, 충무로 스타로 거듭났다. 유명 감독·작가들의 러브콜을 끊임없이 받고 있는 구교환이 연이어 화제작 속에서 미친 존재감을 보여주며 대세 배우로 우뚝섰다. 구교환은 올해 개봉 한국 영화 중 최초로 200만 돌파를 카운트다운하는 것은 물론, 북미를 비롯한 해외에도 뜨거운 호평을 불러일으킨 영화 '모가디]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F12%2FSpoChosun%2F20210812144741377wybc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[마블 새 영웅 '샹치', 당신은 누구시길래.. (다음영화 뉴스 ─ 인기)]]></title>
@@ -295,20 +295,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F12%2Filgansports%2F20210812104607131abzw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[TEN 이슈] 박서준 '더 마블스' 촬영중?..출연자 명단 포착→크랭크인, 공식발표 언제할까 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210812112101098</link>
-            <guid>https://movie.v.daum.net/v/20210812112101098</guid>
-            <pubDate>Fri, 13 Aug 2021 01:57:20 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=노규민 기자]배우 박서준이 영화 '더 마블스'(캡틴 마블2')에 출연한다는 것이 기정사실화 된 가운데, 마블 측이 이를 언제쯤 공식발표 할 지 주목된다.'캡틴 마블'(애너 보든·라이언 플렉 감독)의 후속편 '더 마블스'(니아 다코스타 감독)가 촬영을 시작했다. 전 편에 이어 '더 마블스'의 주연으로 캐스팅 된 캡틴 마블 역의 브리 라슨은 최근 미]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F12%2F10asia%2F20210812112104574tnpq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['보이스' 김무열, 보이스피싱 설계자?..광기 서린 新 캐릭터로 돌아온다 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210813093202300</link>
             <guid>https://movie.v.daum.net/v/20210813093202300</guid>
             <pubDate>Fri, 13 Aug 2021 01:57:19 GMT</pubDate>
             <content:encoded><![CDATA[[텐아시아=노규민 기자]배우 김무열이 리얼범죄액션 영화 '보이스'로 새로운 인생 캐릭터의 탄생을 예고한다.&nbsp;개성 강한 캐릭터를 완벽하게 소화하는 배우 김무열이 '보이스'로 스크린을 압도하는 새로운 인생 캐릭터의 탄생을 예고한다. '보이스'는 보이스피싱 조직의 덫에 걸려 모든 것을 잃게 된 '서준'(변요한)이 빼앗긴 돈을 되찾기 위해 중국에 있는 본거지에 잠]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2F10asia%2F20210813093204712htur.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[TEN 이슈] 박서준 '더 마블스' 촬영중?..출연자 명단 포착→크랭크인, 공식발표 언제할까 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210812112101098</link>
+            <guid>https://movie.v.daum.net/v/20210812112101098</guid>
+            <pubDate>Fri, 13 Aug 2021 01:57:20 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=노규민 기자]배우 박서준이 영화 '더 마블스'(캡틴 마블2')에 출연한다는 것이 기정사실화 된 가운데, 마블 측이 이를 언제쯤 공식발표 할 지 주목된다.'캡틴 마블'(애너 보든·라이언 플렉 감독)의 후속편 '더 마블스'(니아 다코스타 감독)가 촬영을 시작했다. 전 편에 이어 '더 마블스'의 주연으로 캐스팅 된 캡틴 마블 역의 브리 라슨은 최근 미]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F12%2F10asia%2F20210812112104574tnpq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['야차' 설경구x박해수→이엘, 넷플릭스行..전세계 공개 확정[공식] (다음영화 뉴스 ─ 인기)]]></title>
@@ -341,6 +341,14 @@
             <pubDate>Fri, 13 Aug 2021 00:49:22 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 전형화 기자] 디즈니의 OTT서비스 디즈니플러스가 11월 중순 한국에서 런칭한다. 콘텐츠 공룡 디즈니의 OTT서비스 디즈니플러스가 한국에서 11월 중순 런칭할 예정이다. 13일 OTT전문매체 더스트리머블 등 외신에 따르면 밥 차펙 월트디즈니컴퍼니 CEO는 12일(현지시간) 올해 2분기(디즈니 자체기준 3분기) 실적 컨퍼런스콜에서 "10월 일본 내]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F13%2Fstarnews%2F20210813091545627qlcp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['모가디슈', 천만보다 귀한 200만 [N초점] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20210814060010980</link>
+            <guid>https://v.daum.net/v/20210814060010980</guid>
+            <pubDate>Fri, 13 Aug 2021 21:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 천만만큼, 혹은 천만보다 귀한 200만이다. 영화 '모가디슈'(감독 류승완)가 올해 개봉한 한국 영화 최초로 200만 관객 돌파에 성공했다. 약 300만명으로 추정되는 손익분기점까지 아직 갈 길은 아직 멀었지만, 올해 개봉한 한국 영화들이 100만 관객을 넘기는 것도 쉽지 않았다는 점을 기억할 때 '모가디슈'의 성취는 고]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F14%2FNEWS1%2F20210814060010730ncsn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['귀문' 김강우, "데뷔 20년 첫 공포 연기, 성취감 컸죠" [인터뷰]① (다음영화 뉴스 ─ 최신)]]></title>
@@ -675,7 +683,7 @@
             <link>https://tv.naver.com/v/21858039</link>
             <guid>https://tv.naver.com/v/21858039</guid>
             <pubDate>Fri, 13 Aug 2021 10:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210813_157/nf2SM_1628846807221asbyw_JPEG/36c35ef8-fc18-11eb-bf57-246e963a4708_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -683,7 +691,7 @@
             <link>https://tv.naver.com/v/21857421</link>
             <guid>https://tv.naver.com/v/21857421</guid>
             <pubDate>Fri, 13 Aug 2021 09:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210813_28/LP5jq_1628845630246b83SB_JPEG/aecb8ba6-fc15-11eb-9b63-505dacfba98a_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -691,7 +699,7 @@
             <link>https://tv.naver.com/v/21856246</link>
             <guid>https://tv.naver.com/v/21856246</guid>
             <pubDate>Fri, 13 Aug 2021 09:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210813_158/zaO9l_1628843280833j79Ri_JPEG/93dbcfd5-fc0e-11eb-8678-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -699,7 +707,7 @@
             <link>https://tv.naver.com/v/21855840</link>
             <guid>https://tv.naver.com/v/21855840</guid>
             <pubDate>Fri, 13 Aug 2021 08:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210813_289/7Iw8X_16288424768883rldx_JPEG/5bfbeae5-fc0e-11eb-89ce-48df379ccacc_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -707,7 +715,7 @@
             <link>https://tv.naver.com/v/21853302</link>
             <guid>https://tv.naver.com/v/21853302</guid>
             <pubDate>Fri, 13 Aug 2021 07:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210813_148/oF2iL_1628837586293HN4WP_JPEG/a15e06f4-fc02-11eb-809b-a0369ff94ed0_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -715,7 +723,7 @@
             <link>https://tv.naver.com/v/21849925</link>
             <guid>https://tv.naver.com/v/21849925</guid>
             <pubDate>Fri, 13 Aug 2021 06:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210813_29/RU2sv_1628832370534SeXl7_JPEG/2adaa1e0-fbf6-11eb-882d-48df37ae3dc4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -723,7 +731,7 @@
             <link>https://tv.naver.com/v/21849215</link>
             <guid>https://tv.naver.com/v/21849215</guid>
             <pubDate>Fri, 13 Aug 2021 05:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210813_20/rUeCp_1628830915266WXHvW_JPEG/50383f03-fbf3-11eb-82ff-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -731,7 +739,7 @@
             <link>https://tv.naver.com/v/21848577</link>
             <guid>https://tv.naver.com/v/21848577</guid>
             <pubDate>Fri, 13 Aug 2021 05:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210813_242/nQNoL_1628829832158lttbU_JPEG/bbb4e7bf-fbf0-11eb-b835-505dac8c3607_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -739,7 +747,7 @@
             <link>https://tv.naver.com/v/21848249</link>
             <guid>https://tv.naver.com/v/21848249</guid>
             <pubDate>Fri, 13 Aug 2021 05:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210813_281/tkjXP_1628829261084LAPFk_JPEG/ab559416-fbef-11eb-82ff-505dac8c385b_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -747,7 +755,7 @@
             <link>https://tv.naver.com/v/21848233</link>
             <guid>https://tv.naver.com/v/21848233</guid>
             <pubDate>Fri, 13 Aug 2021 05:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210813_86/3HYUM_16288292262063CuFv_PNG/1628829222210.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -755,7 +763,7 @@
             <link>https://tv.naver.com/v/21848194</link>
             <guid>https://tv.naver.com/v/21848194</guid>
             <pubDate>Fri, 13 Aug 2021 05:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210813_115/HfUdN_1628829149684ukPve_JPEG/602e1465-fbef-11eb-8f8d-505dac8c3721_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -763,7 +771,7 @@
             <link>https://tv.naver.com/v/21848175</link>
             <guid>https://tv.naver.com/v/21848175</guid>
             <pubDate>Fri, 13 Aug 2021 05:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210813_285/76Anf_1628829098981Al3iG_PNG/1628829091549.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -771,7 +779,7 @@
             <link>https://tv.naver.com/v/21848043</link>
             <guid>https://tv.naver.com/v/21848043</guid>
             <pubDate>Fri, 13 Aug 2021 05:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210813_75/u41NW_1628828818865ui7Ur_JPEG/966917d7-fbee-11eb-86ec-48df37ae3fca_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -779,7 +787,7 @@
             <link>https://tv.naver.com/v/21848012</link>
             <guid>https://tv.naver.com/v/21848012</guid>
             <pubDate>Fri, 13 Aug 2021 05:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210813_149/o9xAf_1628828761578NTl3V_JPEG/8011a45f-fbee-11eb-89ce-48df379ccacc_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -787,7 +795,7 @@
             <link>https://tv.naver.com/v/21844611</link>
             <guid>https://tv.naver.com/v/21844611</guid>
             <pubDate>Fri, 13 Aug 2021 04:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210813_206/QnLKf_16288217699023gNCa_JPEG/1cd16ad9-fbde-11eb-93f2-a0369ff95ec0_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
