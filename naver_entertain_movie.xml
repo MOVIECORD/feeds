@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-14T07:14:19.928Z</updated>
+    <updated>2021-08-14T08:16:26.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엠마 스톤, '크루엘라2' 복귀 확정[해외이슈]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003527364</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003527364"/>
+        <updated>2021-08-14T08:15:54.963Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘오스카 여신’ 엠마 스톤이 ‘크루엘라2’에 복귀한다. 버라이어티는 13일(현지시간) 엠마 스톤이 ‘크루엘라2’ 출연 계약을 체결했다고 보도했다. 앞서 크레이그 질레스피 감독과 토니 맥나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤계상·이하늬, 그냥 결혼할 인연이 아니었던 것 [김보라의 뒷담화]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004456098</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004456098"/>
+        <updated>2021-08-14T08:15:54.965Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 연예인 커플이 더할 나위 없이 아름답고 신비롭지만, 그만큼 대중의 착각과 오해를 많이 받는 관계도 없을 듯하다. 드라마 속 주인공처럼 예쁘게 사랑하다가 결혼까지 가길 바라는 팬들의 소망은 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[TEN리뷰] 황정민 납치해 '인질' 삼은 5인방, 겁 없는 스크린 신예들]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000494865</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002980742"/>
         <updated>2021-08-14T02:25:38.115Z</updated>
         <content type="html"><![CDATA[MCU의 세계관을 확장하며 마블 페이즈 4의 새로운 지평을 여는 새로운 슈퍼 히어로 '샹치'의 이야기를 그린 '샹치와 텐 링즈의 전설'이 '텐 링즈'의 강력한 파워와 이를 다루는 '샹치'의 초인적 면모가 담긴 스페셜]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울극장 폐관 소식, 30년 전 그 장면이 떠올랐다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002323335</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002323335"/>
-        <updated>2021-08-14T01:52:32.928Z</updated>
-        <content type="html"><![CDATA[[아듀! 서울극장] 그 시절, 내가 좋아했던 '서울극장' 얼마 전 서울극장이 코로나19 장기 확산으로 인한 경영난 악화를 이유로 2021년 8월 31일을 마지막으로 영업을 종료한다는 소식을 접했다. 솔직히 놀랍지 않]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주인공 이름까지... 스타 감독의 '류씨 형제' 사랑]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002323332</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002323332"/>
-        <updated>2021-08-14T01:52:32.929Z</updated>
-        <content type="html"><![CDATA[[그 시절, 우리가 좋아했던 영화] '복수 3부작'의 시작을 알린 &lt;복수는 나의 것&gt; 만약 영화가 올림픽 종목이었다면 한국을 대표할 영화 종목의 국가대표는 단연 봉준호 감독이었을 것이다. 봉준호 감독은 &lt;기생충&gt;을]]></content>
     </entry>
 </feed>
