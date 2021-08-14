@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-14T02:26:11.857Z</updated>
+    <updated>2021-08-14T03:17:22.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[200만 고지 넘어선 모가디슈, 이제 목표는 300만]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0003950025</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0003950025"/>
+        <updated>2021-08-14T03:16:47.237Z</updated>
+        <content type="html"><![CDATA[[서울경제] 류승완 감독의 ‘모가디슈’가 개봉 17일 만에 누적 관객 200만 명을 넘어섰다. 올해 개봉한 한국 영화 중 처음으로 200만 고지를 달성했을 뿐 아니라 지난 해 여름 ‘다만 악에서 구하소서’ 이후 최고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 '지옥', 한국 드라마 최초 토론토국제영화제 초청]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012599087</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012598938"/>
         <updated>2021-08-14T00:43:46.496Z</updated>
         <content type="html"><![CDATA[지하철 노동현장 조명…"비정규직·무인화 한 번쯤 생각해보길" (서울=연합뉴스) 강애란 기자 = 한진중공업 노동 운동을 다큐멘터리로 다룬 김정근 감독이 전작 '버스를 타라'(2012), '그림자들의 섬'(2014)에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Y터뷰②] '인질' 필감성 감독 "류승완이라는 거인...외유내강은 든든한 지원군"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=052&amp;aid=0001627244</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=052&amp;aid=0001627244"/>
-        <updated>2021-08-14T00:43:46.496Z</updated>
-        <content type="html"><![CDATA[한 남자가 납치당해 탈출을 감행한다. 평이한 줄거리에 감미료 역할을 하는 요소는 바로 대한민국 오천만 배우 '황정민'이다. 국민들이 사랑하는 배우 황정민이 괴한들에게 납치당해 자신의 능력을 총동원하여 탈출하는 이야기]]></content>
     </entry>
 </feed>

@@ -4,9 +4,17 @@
         <title>다음영화 뉴스 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Aug 2021 02:26:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Aug 2021 03:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["시장의 힘"..코로나19 격파하는 한국 영화 [무비노트]]]></title>
+            <link>https://v.daum.net/v/20210814121607763</link>
+            <guid>https://v.daum.net/v/20210814121607763</guid>
+            <pubDate>Sat, 14 Aug 2021 03:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 이기은 기자] 한국 영화가 세계를 뚫고 바이러스 시대에도 잡초처럼 생존하는 비결은 무엇일까. 애국도 옹호도 아닌, 콘텐츠 자체의 높은 수준과 오랜 시장성 확보가 매칭된 결과일 것이다. 신종 코로나바이러스 감염증(코로나19) 확진자 하루 2000여 명 돌파 시점, 국내 영화의 흥행세는 식지 않으며 충무로를 들썩였다. 14일 영화진흥위원회 영화관]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F14%2Ftvdaily%2F20210814121610636hxlv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
         <item>
             <title><![CDATA[연상호 감독 '지옥', 토론토국제영화제 초청 [공식]]]></title>
             <link>https://v.daum.net/v/20210814110333000</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 13 Aug 2021 21:14:22 GMT</pubDate>
             <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 천만만큼, 혹은 천만보다 귀한 200만이다. 영화 '모가디슈'(감독 류승완)가 올해 개봉한 한국 영화 최초로 200만 관객 돌파에 성공했다. 약 300만명으로 추정되는 손익분기점까지 아직 갈 길은 아직 멀었지만, 올해 개봉한 한국 영화들이 100만 관객을 넘기는 것도 쉽지 않았다는 점을 기억할 때 '모가디슈'의 성취는 고]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F14%2FNEWS1%2F20210814060010730ncsn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['귀문' 김강우, "데뷔 20년 첫 공포 연기, 성취감 컸죠" [인터뷰]①]]></title>
-            <link>https://v.daum.net/v/20210814000058411</link>
-            <guid>https://v.daum.net/v/20210814000058411</guid>
-            <pubDate>Fri, 13 Aug 2021 15:16:45 GMT</pubDate>
-            <content:encoded><![CDATA["김소혜 이정형 홍진기, 연기 열정 대단하고 기특해" [더팩트ㅣ이한림 기자] 데뷔 20년 차 배우가 첫 공포 연기에 도전한 소감을 전했다. 쉽지 않은 도전이었지만 성취감도 있었고, 또 제의가 들어와도 하고싶은 장르였다고 말했다. 함께 호흡을 맞춘 신예급 배우 김소혜 이정형 홍진기에 대한 칭찬도 아끼지 않았다. 국내 최초로 4DX·스크린X·2D 버전으로 공]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F14%2FTHEFACT%2F20210814000059342afjf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
