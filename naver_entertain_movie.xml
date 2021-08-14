@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-14T14:13:53.892Z</updated>
+    <updated>2021-08-14T15:16:38.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] '귀문' 김강우, "코시국 영화 3편, 묘하지만 감사한 마음" ②]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000100688</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000100688"/>
+        <updated>2021-08-14T15:16:02.522Z</updated>
+        <content type="html"><![CDATA["데뷔 20년, 책임·부담감 크지만 연기하는 순간 소중함 느껴" 영화 '귀문'에서 주연을 맡은 배우 김강우에게 올해는 특별한 해다. 자신이 주연으로 출연한 영화(2월 새해전야, 4월 내일의 기억)가 코로나19 여파로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이종석, 소년미 넘치는 비주얼..여름의 인간화[스타IN★]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002980792</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012599087"/>
         <updated>2021-08-14T02:25:38.109Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 넷플릭스 새 오리지널 시리즈 '지옥'이 한국 드라마 최초로 토론토국제영화제에 입성했다. 넷플릭스는 연상호 감독이 연출한 '지옥'이 제46회 토론토국제영화제 프라임타임 부문에 초청됐다고 14일 밝혔다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연상호 감독 ‘지옥’, 토론토국제영화제 초청 [공식]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000755701</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000755701"/>
-        <updated>2021-08-14T02:25:38.110Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 연상호 감독의 ‘지옥’이 제46회 토론토국제영화제 프라임타임 부문에 초청받았다. ‘지옥’은 예고없이 등장한 지옥의 사자들에게 사람들이 지옥행 선고를 받는 초자연적 현상이 발생하고, 이 혼란을 틈타 부흥]]></content>
     </entry>
 </feed>
