@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-14T06:18:32.280Z</updated>
+    <updated>2021-08-14T07:14:19.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[TEN리뷰] 황정민 납치해 '인질' 삼은 5인방, 겁 없는 스크린 신예들]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000494865</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000494865"/>
+        <updated>2021-08-14T07:13:45.943Z</updated>
+        <content type="html"><![CDATA[[텐아시아=김지원 기자] 포털사이트에서 두어 번은 검색해야 프로필을 찾을 수 있는 낯선 배우들이 황정민에 버금가는 연기를 보여주며 활약한다. 영화 '인질'을 통해서다. 톱배우 황정민이 인적이 드문 새벽 갑작스럽게 납]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['싱크홀', '모가디슈' 제쳤다…올해 한국영화 최단시간 50만↑]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010664658</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010664658"/>
+        <updated>2021-08-14T07:13:45.949Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 영화 '싱크홀'이 개봉 4일째 50만 관객을 넘겼다. 14일 배급사 (주)쇼박스와 영화진흥위원회 통합전산망에 따르면, 지난 11일 개봉한 '싱크홀'은 이날 오후 12시26분 기준 50123]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싱크홀, 모가디슈 제쳤다…최단시간 50만 관객 돌파]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003541739</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002323332"/>
         <updated>2021-08-14T01:52:32.929Z</updated>
         <content type="html"><![CDATA[[그 시절, 우리가 좋아했던 영화] '복수 3부작'의 시작을 알린 &lt;복수는 나의 것&gt; 만약 영화가 올림픽 종목이었다면 한국을 대표할 영화 종목의 국가대표는 단연 봉준호 감독이었을 것이다. 봉준호 감독은 &lt;기생충&gt;을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 '지옥', 한국 드라마 최초 토론토국제영화제 초청]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012599055</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012599055"/>
-        <updated>2021-08-14T01:52:32.931Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 김정진 기자 = 넷플릭스 새 오리지널 시리즈 '지옥'이 한국 드라마 최초로 토론토국제영화제에 입성했다. 넷플릭스는 연상호 감독이 연출한 오리지널 시리즈 '지옥'이 제46회 토론토국제영화제 프라임타임]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['싱크홀' vs '모가디슈' 연휴 극장가 쌍끌이 예고[주말흥행기상도]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002980738</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002980738"/>
-        <updated>2021-08-14T01:52:32.937Z</updated>
-        <content type="html"><![CDATA['싱크홀'과 '모가디슈'가 이번 주말 쌍끌이 흥행으로 박스오피스를 이끌 전망이다. 지난 11일 개봉한 '싱크홀'은 박스오피스 1위를 유지하면서 이번 주말 누적 80만명 가량을 동원한 뒤 연휴인 8월 16일 100만]]></content>
     </entry>
 </feed>
