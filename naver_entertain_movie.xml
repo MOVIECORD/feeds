@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-14T10:16:36.039Z</updated>
+    <updated>2021-08-14T11:12:33.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이종석, 소년미 넘치는 비주얼..여름의 인간화[스타IN★]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002980792</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002980792"/>
+        <updated>2021-08-14T11:11:59.269Z</updated>
+        <content type="html"><![CDATA[배우 이종석이 소년미 가득한 비주얼로 시선을 모았다. 이종석은 14일 자신의 인스타그램에 웃는 이모티콘과 함께 사진 두 장을 게재했다. 사진 속 이종석은 녹색 풀을 배경으로 포즈를 취하고 있다. 티셔츠 차림과 이마를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['퍼피 구조대 더 무비', 마룬5 아담 리바인 OST 참여]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002980777</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000755701"/>
         <updated>2021-08-14T02:25:38.110Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 연상호 감독의 ‘지옥’이 제46회 토론토국제영화제 프라임타임 부문에 초청받았다. ‘지옥’은 예고없이 등장한 지옥의 사자들에게 사람들이 지옥행 선고를 받는 초자연적 현상이 발생하고, 이 혼란을 틈타 부흥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['혼인신고' 윤계상 vs 패러디포스터 철회 '습도 다소 높음' [업앤다운]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002980744</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002980744"/>
-        <updated>2021-08-14T02:25:38.112Z</updated>
-        <content type="html"><![CDATA[최고의 한주를 보낸 UP 스타와, 최악의 한주를 보낸 DOWN ▲▲ 배우 윤계상(43)이 5세 연하 사업가와 법적으로 부부가 됐다. 윤계상은 지난 13일 5세 연하 사업가와 혼인신고를 마쳤다. 또한 윤계상 측은 비연]]></content>
     </entry>
 </feed>
