@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-15T04:19:37.102Z</updated>
+    <updated>2021-08-15T05:13:17.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['모가디슈', '귀멸의 칼날' 넘고 올해 흥행 TOP3[공식]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000783926</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000783926"/>
+        <updated>2021-08-15T05:12:44.230Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 김선우기자]영화 ‘모가디슈(류승완 감독)’가 누적 관객수 216만8168명을 돌파하며 ‘극장판 귀멸의 칼날: 무한열차편’을 뛰어넘으며 광복절 연휴 뜨거운 흥행 저력을 보여주고 있다. ‘모가디슈’가 영]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['인질', 인질범 류경수..'이태원 클라쓰' 그 배우네! [★신스틸러]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002980931</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002980931"/>
+        <updated>2021-08-15T05:12:44.232Z</updated>
+        <content type="html"><![CDATA[배우 류경수가 인질범으로 관객을 만난다. 류경수는 황정민 주연의 영화 '인질'에서 인질범 염동훈 역할을 맡았다. '인질'은 어느 날 새벽, 증거도 목격자도 없이 납치된 배우 황정민을 그린 리얼리티 액션스릴러. 황정민]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정해인X구교환 'D.P.', 매력적 2인1조..앙상블포스터 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003466629</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002980885"/>
         <updated>2021-08-15T00:47:32.520Z</updated>
         <content type="html"><![CDATA[배우 박정민이 '남매의 여름밤' 배리어프리 버전 제작에 참여했다. 배리어프리영화위원회에 따르면 박정민과 윤단비 감독은 지난 6월 서울산업진흥원(SBA) 녹음 스튜디오에서 '남매의 여름밤' 음성해설 녹음을 진행했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현실 재난 ‘싱크홀’ 4일 연속 1위, 누적 65만명 훌쩍[박스오피스]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000479299</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000479299"/>
-        <updated>2021-08-15T00:47:32.520Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '싱크홀'이 4일 연속 박스오피스 1위를 차지했다. 8월 15일 영화진흥위원회 통합전산망 집계에 따르면 14일 영화 '싱크홀'(감독 김지훈)이 25만1,736명을 모으며 전체 박스오피스 1위에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설경구X박해수 첩보액션 '야차', 넷플릭스로 전세계 공개 확정(공식)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003466595</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003466595"/>
-        <updated>2021-08-15T00:47:32.525Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] 넷플릭스가 설경구, 박해수 주연의 '야차' 전 세계 공개를 확정했다. 넷플릭스 영화 '야차'는 스파이들의 최대 접전지 중국 선양에서 ‘야차’로 불리는 인물과 그곳으로 특별 감찰을 나선 검]]></content>
     </entry>
 </feed>
