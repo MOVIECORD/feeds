@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-15T19:12:40.120Z</updated>
+    <updated>2021-08-15T20:15:39.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["가정폭력 넘어선 티나 터너의 삶, 영화 만들면서도 놀랐습니다"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000623895</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000623895"/>
+        <updated>2021-08-15T20:14:36.718Z</updated>
+        <content type="html"><![CDATA[남편과 듀오로 음악 활동을 했다. 1960~70년대 큰 인기를 누렸다. 부와 명성이 쌓였다. 아내의 재능이 돋보이자 남편은 질투와 시기를 했다. 신혼에 시작된 폭력이 일상화됐다. 돈도 마음대로 쓸 수 없었다. 지옥]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아쿠아맨' 제이슨 모모아 "갈색 피부의 슈퍼히어로..경이로운 일"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002981013</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000809093"/>
         <updated>2021-08-15T03:16:46.405Z</updated>
         <content type="html"><![CDATA[김재중이 14일 제천국제음악영화제에서 ‘온더로드’ 상영 후 열린 관객과의 대화(GV)에 참석해 관객들과 더욱 가깝게 소통하는 시간을 가졌다. 지난 7월 개봉한 ‘온 더 로드’는 데뷔 18년 차 가수 겸 배우 김재중의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김재중, 제전국제음악영화제 참석…관객과 소통]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000623780</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000623780"/>
-        <updated>2021-08-15T03:16:46.405Z</updated>
-        <content type="html"><![CDATA[가수 겸 배우 김재중이 관객들과 더욱 가깝게 소통하는 시간을 가졌다. 지난 14일 진행된 김재중은 제천국제음악영화제 관객과의 대화에 참석했다. 먼저 그는 “좋아하는 이재한 감독님과의 작업이었다. 감독님이 저를 당황스]]></content>
     </entry>
 </feed>
