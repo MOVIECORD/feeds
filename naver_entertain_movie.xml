@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-15T12:23:20.418Z</updated>
+    <updated>2021-08-15T13:19:21.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[식상한 인질범들 탓에 진짜 ‘인질’만 보여]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003091973</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003091973"/>
+        <updated>2021-08-15T13:18:40.270Z</updated>
+        <content type="html"><![CDATA[[경향신문] ‘배우 황정민’이 납치됐다는 설정 범인 5명은 덜 알려진 배우 섭외 타 작품서 본 듯한 익숙한 캐릭터 장애를 웃음 코드로 활용해 ‘눈살’ 영화는 배우 황정민의 유명한 ‘밥상 수상소감’ 장면으로 시작된다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kim Kang-woo talks third movie this year, first ever horror]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000015196</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003610080"/>
         <updated>2021-08-15T01:55:13.245Z</updated>
         <content type="html"><![CDATA[늦더위를 식혀줄 청량한 영화 두 편이 이번 달 관객들을 찾아온다. 모두 선댄스 영화제에서 주목받은 화제작이다. 19일 개봉하는 판타지 코미디 ‘팜 스프링스’는 올해 골든글로브 뮤지컬 코미디 부문 최우수 작품상을 받았]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['코다', 좋은 이야기와 좋은 음악..개봉전 입소문]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002980899</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002980899"/>
-        <updated>2021-08-15T01:55:13.247Z</updated>
-        <content type="html"><![CDATA['라라랜드' 음악 감독이 참여한 썸머 멜로디 '코다'가 8월 31일 개봉을 확정한 가운데 뭉클한 감동이 돋보이는 파이널 예고편을 공개했다. '코다'는 소리를 들을 수 없는 가족을 세상과 연결하는 코다 루비가 어느 여]]></content>
     </entry>
 </feed>
