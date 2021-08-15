@@ -45,3 +45,21 @@ titleSelector = "dt[class='title'] > a > tooltip"
 linkSelector = "dt[class='title'] a"
 imageSelector = "div[class='cds_type'] a img"
 contentSelector = "span[class='time']"
+
+[naverpost_cine21_20]
+title = "씨네21 ─ 20자평"
+url = "https://post.naver.com/my/series/detail.naver?seriesNo=520134&memberNo=15205863"
+entrySelector = "#el_list_container ul ul li"
+titleSelector = "div.spot_post_name span.ell"
+linkSelector = "a[href]"
+imageSelector = "img"
+contentSelector = "span.writer_name"
+
+[naverpost_cine21_news]
+title = "씨네21 ─ 국내뉴스"
+url = "https://post.naver.com/my/series/detail.naver?seriesNo=450865&memberNo=15205863"
+entrySelector = "#el_list_container ul ul li"
+titleSelector = "div.spot_post_name span.ell"
+linkSelector = "a[href]"
+imageSelector = "img"
+contentSelector = "span.writer_name"
