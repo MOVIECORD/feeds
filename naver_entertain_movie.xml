@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-15T08:17:15.430Z</updated>
+    <updated>2021-08-15T10:16:56.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[DA:박스] ‘모가디슈’ 2021년 박스오피스 TOP3 등극]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000927666</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000927666"/>
+        <updated>2021-08-15T10:16:05.865Z</updated>
+        <content type="html"><![CDATA[[DA:박스] ‘모가디슈’ 2021년 박스오피스 TOP3 등극 올 여름 화제의 웰메이드 영화 ‘모가디슈’가 롱런하고 있다. 누적 관객수 216만명을 돌파하며 ‘극장판 귀멸의칼날: 무한열차편’을 뛰어넘고 광복절 연휴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모가디슈', 유의미한 행보…'귀멸의 칼날' 기록 깼다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000623818</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003466607"/>
         <updated>2021-08-15T01:55:13.247Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=이미지 기자] 김재중이 제천국제음악영화제에서 ‘온더로드’ 상영 후 열린 관객과의 대화(GV)에 참석해 관객들과 더욱 가깝게 소통하는 시간을 가졌다. 지난 7월 개봉한 ‘온 더 로드’는 데뷔 18년 차]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘모가디슈’ 216만 돌파… ‘귀멸의 칼날’ 넘어 ‘분노의 질주’ 넘본다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=417&amp;aid=0000725447</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=417&amp;aid=0000725447"/>
-        <updated>2021-08-15T01:55:13.250Z</updated>
-        <content type="html"><![CDATA[영화 ‘모가디슈’가 올해 박스오피스 3위에 올랐다. 올해 개봉한 한국영화 중 가장 좋은 성적을 거두고 있다. 15일 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 ‘모가디슈’는 전날(14일) 하루 13만412]]></content>
     </entry>
 </feed>
