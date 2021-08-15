@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-15T10:16:56.339Z</updated>
+    <updated>2021-08-15T11:12:35.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Kim Kang-woo talks third movie this year, first ever horror]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000015196</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000015196"/>
+        <updated>2021-08-15T11:11:53.091Z</updated>
+        <content type="html"><![CDATA[Actor Kim Kang-woo will be making another appearance on the big screen with his first-ever horror movie later this month]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[DA:박스] ‘모가디슈’ 2021년 박스오피스 TOP3 등극]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000927666</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002980899"/>
         <updated>2021-08-15T01:55:13.247Z</updated>
         <content type="html"><![CDATA['라라랜드' 음악 감독이 참여한 썸머 멜로디 '코다'가 8월 31일 개봉을 확정한 가운데 뭉클한 감동이 돋보이는 파이널 예고편을 공개했다. '코다'는 소리를 들을 수 없는 가족을 세상과 연결하는 코다 루비가 어느 여]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김재중, '온더로드' JIMFF GV 참석 "내 솔직한 감정들 잘 담겨"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003466607</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003466607"/>
-        <updated>2021-08-15T01:55:13.247Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] 김재중이 제천국제음악영화제에서 ‘온더로드’ 상영 후 열린 관객과의 대화(GV)에 참석해 관객들과 더욱 가깝게 소통하는 시간을 가졌다. 지난 7월 개봉한 ‘온 더 로드’는 데뷔 18년 차]]></content>
     </entry>
 </feed>
