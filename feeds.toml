@@ -7,6 +7,16 @@ linkSelector = "div[class='tit_area'] a[class='tit']"
 imageSelector = "li a[class='thumb_area'] img"
 contentSelector = "div[class='tit_area'] p[class='summary']"
 
+[daummovie_theater_y]
+title = "다음영화 영화관 ─ 현재상영"
+url = "https://movie.daum.net/premovie/theater?flag=Y"
+entrySelector = "div.box_movie ol li"
+titleSelector = "a[class='link_txt']"
+linkSelector = "a.link_txt"
+imageSelector = "img.img_thumb"
+contentSelector = "div.thumb_cont > span.txt_info > span"
+waitUntil = "networkidle"
+
 [daummovie_theater_c]
 title = "다음영화 영화관 ─ 개봉예정"
 url = "https://movie.daum.net/premovie/theater?flag=C"
@@ -56,7 +66,7 @@ linkSelector = "dt[class='title'] a"
 imageSelector = "div[class='cds_type'] a img"
 contentSelector = "span[class='time']"
 
-[naverpost_cine21_20review]
+[naverpost_cine21_review]
 title = "씨네21 ─ 20자평"
 url = "https://post.naver.com/my/series/detail.naver?seriesNo=520134&memberNo=15205863"
 entrySelector = "#el_list_container ul ul li"
