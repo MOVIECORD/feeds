@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-15T01:55:47.307Z</updated>
+    <updated>2021-08-15T02:24:42.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김재중, 배우로 ‘온더로드’ 제천국제음악영화제 GV 성료]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001600416</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001600416"/>
+        <updated>2021-08-15T02:24:08.745Z</updated>
+        <content type="html"><![CDATA[김재중이 14일 제천국제음악영화제에서 ‘온더로드’ 상영 후 열린 관객과의 대화(GV)에 참석해 관객들과 더욱 가깝게 소통하는 시간을 가졌다. 지난 7월 개봉한 ‘온 더 로드’는 데뷔 18년 차 가수 겸 배우 김재중의]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공식]'모가디슈', 올해 개봉작 관객수 3위 등극…'귀칼 극팡판' 넘었다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000494919</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000494919"/>
+        <updated>2021-08-15T02:24:08.745Z</updated>
+        <content type="html"><![CDATA[[텐아시아=정태건 기자] 영화 '모가디슈'가 광복절 연휴 뜨거운 흥행 저력을 보여주고 있다. 영진위 통합전산산망에 따르면 '모가디슈'는 최근 누적 관객수 216만 8168명을 돌파하며 '극장판 귀멸의 칼날: 무한열차]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘팜 스프링스’·‘코다’ 늦더위 식혀줄 '선댄스 영화제' 화제작들]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003610080</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003541771"/>
         <updated>2021-08-14T23:14:23.381Z</updated>
         <content type="html"><![CDATA[※ 스포일러 주의 넷플릭스 오리지널 시리즈 '킹덤' 시즌2 엔딩에서 강렬한 등장을 선보이며 시즌3에 대한 기대를 높인 아신(전지현). 그러나 김은희 작가와 김성훈 감독은 시청자들의 예상을 뒤엎고 92분짜리 스페셜 에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[216만 ‘모가디슈’, ‘귀멸의 칼날’ 넘고 2021년 흥행 TOP3[박스오피스]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000479269</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000479269"/>
-        <updated>2021-08-14T23:14:23.382Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '모가디슈'가 2021년 박스오피스 TOP3에 등극했다. 8월 15일 영화진흥위원회 통합전산망 집계에 따르면 14일 기준 영화 '모가디슈'(감독 류승완)가 누적 관객 216만8,252명을 모으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[늦여름에 어울리는 선댄스 화제작 두 편]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012599607</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012599607"/>
-        <updated>2021-08-14T23:14:23.383Z</updated>
-        <content type="html"><![CDATA[판타지 코미디 '팜 스프링스'·음악 영화 '코다' 개봉 (서울=연합뉴스) 한미희 기자 = 선댄스 영화제에서 주목받은 화제작 두 편이 잇달아 개봉한다. 더위가 한풀 꺾인 늦여름에 어울리는 청량한 작품들이다. 19일 먼]]></content>
     </entry>
 </feed>
