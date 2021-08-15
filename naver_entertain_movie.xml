@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-15T05:21:08.338Z</updated>
+    <updated>2021-08-15T05:27:01.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아담', 상처를 치유하는 여성들..스틸 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002980934</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002980934"/>
+        <updated>2021-08-15T05:26:21.794Z</updated>
+        <content type="html"><![CDATA[영화 '아담'이 보도스틸 12종을 최초 공개했다. 영화 '아담'은 각자 이유로 상처를 떠안고 사는 세 여성이 카사블랑카에 있는 한 빵 가게에서 생애 잊지 못할 치유의 경험을 하는 이야기를 그려낸 센티멘탈 휴먼 드라마]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모가디슈', '귀멸의 칼날' 넘고 올해 흥행 TOP3[공식]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000783926</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002980886"/>
         <updated>2021-08-15T00:47:32.513Z</updated>
         <content type="html"><![CDATA[영화 '인질'에서 황정민을 인질로 잡은 겁 없는 신예 5인방이 공개됐다. '인질'측은 그동안 베일에 싸여있던 인질범 5인방의 정체를 공개했다. '인질'은 영화배우 황정민이 어느날 새벽, 증거와 목격자도 없이 납치된]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박정민, '남매의 여름밤' 배리어프리 버전 참여]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002980885</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002980885"/>
-        <updated>2021-08-15T00:47:32.520Z</updated>
-        <content type="html"><![CDATA[배우 박정민이 '남매의 여름밤' 배리어프리 버전 제작에 참여했다. 배리어프리영화위원회에 따르면 박정민과 윤단비 감독은 지난 6월 서울산업진흥원(SBA) 녹음 스튜디오에서 '남매의 여름밤' 음성해설 녹음을 진행했다.]]></content>
     </entry>
 </feed>
