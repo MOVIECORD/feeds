@@ -4,9 +4,17 @@
         <title>다음영화 뉴스 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Aug 2021 05:27:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Aug 2021 07:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봉준호 감독의 '보일러 김씨'와 지하실의 '기생충'[곽명동의 씨네톡]]]></title>
+            <link>https://v.daum.net/v/20210815145712685</link>
+            <guid>https://v.daum.net/v/20210815145712685</guid>
+            <pubDate>Sun, 15 Aug 2021 07:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]봉준호 감독은 80년대를 '플란다스의 개'(2000)와 '살인의 추억'(2003)에서 소환했다. '플란다스의 개'의 경비원 변씨(변희봉)는 아파트 지하실에서 관리 주임에게 보일러 김씨의 전설을 들려준다. 1988년 아파트 건축 붐과 함께 날림 공사가 유행했고, 중앙 보일러는 자꾸 고장났다. 목포에서 30년간 보일러를 수리한 김]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F15%2Fmydaily%2F20210815145712781pftd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
         <item>
             <title><![CDATA['모가디슈', '귀멸의 칼날' 넘고 올해 흥행 TOP3[공식]]]></title>
             <link>https://v.daum.net/v/20210815141010918</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 14 Aug 2021 23:14:39 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 전형화 기자] 김지훈 감독의 '싱크홀'과 류스완 감독의 '모가디슈'가 광복절 연휴 극장가를 쌍끌이로 이끌고 있다. 15일 영진위 영화관입장권통합전산망에 따르면 '싱크홀은 14일 25만 1736명이 찾아 박스오피스 1위를 기록했다. 지난 11일 개봉해 누적 65만 2208명. '모가디슈'는 13만 4126명이 찾아 2위에 올랐다. 누적 216만 8]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F15%2Fstarnews%2F20210815075231758entu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['모가디슈', 입소문 터졌다..2021년 영화 흥행 3위[공식]]]></title>
-            <link>https://v.daum.net/v/20210815075213603</link>
-            <guid>https://v.daum.net/v/20210815075213603</guid>
-            <pubDate>Sat, 14 Aug 2021 23:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=선미경 기자] 영화 '모가디슈'(감독 류승완)가 올해 박스오피스 TOP3에 올랐다. '모가디슈'는 누적관객 216만 8168명을 돌파하며 일본 애니메이션 영화 '극장판 귀멸의 칼날: 무한열차편'을 뛰어넘고 광복절 연휴 뜨거운 흥행 저력을 보여주고 있다.&nbsp; 폭발적인 입소문과 흥행 열풍을 이끌고 있는 '모가디슈'는 단숨에 2021년 박스오피스 TOP]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F15%2Fpoctan%2F20210815075213540ehgr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
