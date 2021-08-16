@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Aug 2021 09:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Aug 2021 10:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네거티브 공세도 이겨냈던 노무현의 승부수 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002323493</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002323493</guid>
+            <pubDate>Mon, 16 Aug 2021 10:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[[하성태의 사이드뷰] 영화 &lt;정직한 후보&gt;·&lt;특별시민&gt; 통해 본 정치 공세 현주소 첫째 집토끼를 잡아라. 둘째 네거티브를 적극 활용한다. 셋째 프레임을 바꾼다. 넷째 인지도를 높여라. 정치 코미디 영화 &lt;정직한 후보]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[차승원·김성균 '싱크홀' 100만 관객돌파…올해 가장 빠른 속도 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005544609</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[영화 ‘싱크홀’이 올해 개봉한 한국 영화 중 가장 빠른 속도로 100만 관객을 돌파했다. ‘싱크홀’은 16일 영화진흥위원회 통합전산망 기준, 개봉 6일째 누적 관객수 100만792명을 기록했다. 이로써 올해 개봉한]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공식] "여름은 극캉스, 황정민"…'인질', '싱크홀' '모가디슈' 꺾고 전체 예매율 1위 등극 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003767287</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003767287</guid>
-            <pubDate>Mon, 16 Aug 2021 06:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 액션 스릴러 영화 '인질'(필감성 감독, 외유내강 제작)이 개봉을 앞두고 전체 예매율 1위를 기록했다. 역대급 호평으로 올여름 최고의 스릴과 재미를 예고한 '인질'이 개봉을 앞두고 전체 예]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[싱크홀 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=134290</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=134290</guid>
@@ -239,20 +239,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ab1a372dd93ced3c357eabb8e01f3f5d6003267" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[블랙 위도우 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=123215</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=123215</guid>
-            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.07.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff39274b0acd76f7c66f0a5fb9e5b7222ed37b373" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[하이큐!! 땅 VS 하늘 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137824</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137824</guid>
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.08.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F96dd30921f935279b8fa9f5d013d0b831be01410" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙 위도우 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=123215</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=123215</guid>
+            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.07.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff39274b0acd76f7c66f0a5fb9e5b7222ed37b373" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아이스 로드 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -263,20 +263,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f98e5c0d73c95891b49493b7d62ba4480489df6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[그린 나이트 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=139183</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=139183</guid>
-            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6dd33309d1b1b3a9e3aa6e65ddf1ebe229433eb3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[더 그레이트 샤크 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150566</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150566</guid>
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.08.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa89dc80a0838884bbe5b7da0240ff9664b789c48" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[그린 나이트 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139183</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139183</guid>
+            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6dd33309d1b1b3a9e3aa6e65ddf1ebe229433eb3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[갈매기 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -510,20 +510,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2Fstartoday%2F20210816070310516peeb.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA["韓 최단기 흥행"..'싱크홀' 6일째 100만 돌파→차승원 등 '함박웃음' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210816115641478</link>
-            <guid>https://movie.v.daum.net/v/20210816115641478</guid>
-            <pubDate>Mon, 16 Aug 2021 03:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '싱크홀'이 개봉 6일째 100만 관객을 돌파했다. 올해 개봉한 한국영화 중 최단기 기록이다. 쇼박스에 따르면 8월 16일 오전 11시 19분 영화 '싱크홀'(감독 김지훈)이 100만 관객을 돌파, 올해 개봉한 한국영화 중 가장 빠르게 100만 관객 고지를 넘어서는 쾌거를 이뤘다. 지난 11일 개봉한 '싱크홀'은 개봉 6일째인 이날]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2Fnewsen%2F20210816115646880ovtu.jpg" length="0" type="image//thumb/S732x228/"/>
-        </item>
-        <item>
             <title><![CDATA["아쿠아맨 아닌 평범한 인간"..제이슨 모모아가 밝힌 '스위트 걸'[SS무비] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210816161723494</link>
             <guid>https://movie.v.daum.net/v/20210816161723494</guid>
             <pubDate>Mon, 16 Aug 2021 08:17:08 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠서울 | 김선우기자] ‘아쿠아맨’ 제이슨 모모아가 히어로를 내려놓고 ‘스위트 걸’로 돌아왔다. 20일 공개되는 넷플릭스 ‘스위트 걸’은 아내의 죽음에 책임이 있는 사람들에게 복수를 맹세하면서 정의를 실현하려는 주인공 레이 쿠퍼의 이야기를 그렸다. 아내의 복수와 동시에 그에게 남은 유일한 가족인 딸을 지키기 위해 사투를 벌인다. 아]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2FSPORTSSEOUL%2F20210816161726896gxlv.jpg" length="0" type="image//thumb/S384x240/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2FSPORTSSEOUL%2F20210816161726896gxlv.jpg" length="0" type="image//thumb/S732x228/"/>
+        </item>
+        <item>
+            <title><![CDATA[디즈니 '나홀로 집에' 신작 공개.."맥컬리 컬킨 없는데 가능?"[Oh!llywood] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210816170125152</link>
+            <guid>https://movie.v.daum.net/v/20210816170125152</guid>
+            <pubDate>Mon, 16 Aug 2021 08:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자] 영화 '나홀로 집에'의 리부트 신작이 돌아온다.&nbsp;제목은 '홈 스위트 홈 얼론' 디즈니플러스 측은 최근 공식 SNS를 통해 "홈 스위트 홈 얼론(Home Sweet Home Alone) 공개까지 3개월. 완전히 새로운 오리지널 영화는 11월 12일 디즈니 플러스(DisneyPlus)에서 상영됩니다"라고 알렸다. 배우 엘리 켐퍼, 롭]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2Fpoctan%2F20210816170126765evmb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["韓 최단기 흥행"..'싱크홀' 6일째 100만 돌파→차승원 등 '함박웃음' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210816115641478</link>
+            <guid>https://movie.v.daum.net/v/20210816115641478</guid>
+            <pubDate>Mon, 16 Aug 2021 03:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '싱크홀'이 개봉 6일째 100만 관객을 돌파했다. 올해 개봉한 한국영화 중 최단기 기록이다. 쇼박스에 따르면 8월 16일 오전 11시 19분 영화 '싱크홀'(감독 김지훈)이 100만 관객을 돌파, 올해 개봉한 한국영화 중 가장 빠르게 100만 관객 고지를 넘어서는 쾌거를 이뤘다. 지난 11일 개봉한 '싱크홀'은 개봉 6일째인 이날]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2Fnewsen%2F20210816115646880ovtu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[日인기 만화 '슬램덩크' 26년 만에 영화로 (다음영화 뉴스 ─ 인기)]]></title>
@@ -550,20 +558,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2Ftvdaily%2F20210816100210630qshl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[디즈니 '나홀로 집에' 신작 공개.."맥컬리 컬킨 없는데 가능?"[Oh!llywood] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210816170125152</link>
-            <guid>https://movie.v.daum.net/v/20210816170125152</guid>
-            <pubDate>Mon, 16 Aug 2021 08:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] 영화 '나홀로 집에'의 리부트 신작이 돌아온다.&nbsp;제목은 '홈 스위트 홈 얼론' 디즈니플러스 측은 최근 공식 SNS를 통해 "홈 스위트 홈 얼론(Home Sweet Home Alone) 공개까지 3개월. 완전히 새로운 오리지널 영화는 11월 12일 디즈니 플러스(DisneyPlus)에서 상영됩니다"라고 알렸다. 배우 엘리 켐퍼, 롭]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2Fpoctan%2F20210816170126765evmb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['스위트걸' 제이슨 모모아, 아쿠아맨→딸 지키는 아빠로 컴백 [종합] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210816111853847</link>
-            <guid>https://movie.v.daum.net/v/20210816111853847</guid>
-            <pubDate>Mon, 16 Aug 2021 03:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 제이슨 모모아 / 사진=넷플릭스할리우드 배우 제이슨 모모아가 슈퍼 히어로에서 아내와 딸을 위해 복수하는 아빠로 돌아온다. 최근 넷플릭스 오리지널 영화 '스위트 걸' 화상 기자간담회가 진행 됐다. 제이슨 모모아와 브라이언 앤드루 멘도자 감독이 참석했다. 영화 '스위트 걸'은 대형 제약사의 일방적인 결정으로 약을 구하지 못해 아내를 잃]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2Fstarnews%2F20210816111855129iiiq.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[공식] '싱크홀' 6일차 100만 돌파 성공..올해 韓영화 최단 기록 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210816141655230</link>
+            <guid>https://movie.v.daum.net/v/20210816141655230</guid>
+            <pubDate>Mon, 16 Aug 2021 06:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 현실 재난 영화 '싱크홀'(김지훈 감독, 더타워픽쳐스 제작)이 개봉 6일째 100만 관객을 돌파, 올해 개봉한 한국 영화 중 가장 빠르게 100만 관객 고지를 넘어서는 쾌거를 이뤘다. 지난 11일 개봉 직후 한국 영화 최고 오프닝 기록을 세우며 올여름 극장가를 확실하게 점령한 재난 버스터 '싱크홀'이 올해 개봉한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2FSpoChosun%2F20210816141656022jbzr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["韓 정말 가고파" '스위트 걸' 제이슨 모모아, 히어로→부성애 도전(종합) (다음영화 뉴스 ─ 인기)]]></title>
@@ -582,6 +582,30 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2FSPORTSSEOUL%2F20210816124016810zuva.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[공식] "여름은 극캉스, 황정민"..'인질', '싱크홀' '모가디슈' 꺾고 전체 예매율 1위 등극 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210816144412725</link>
+            <guid>https://movie.v.daum.net/v/20210816144412725</guid>
+            <pubDate>Mon, 16 Aug 2021 06:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 액션 스릴러 영화 '인질'(필감성 감독, 외유내강 제작)이 개봉을 앞두고 전체 예매율 1위를 기록했다. 역대급 호평으로 올여름 최고의 스릴과 재미를 예고한 '인질'이 개봉을 앞두고 전체 예매율 1위를 달성하며 8월 흥행 돌풍을 일으킬 예정이다. '인질'은 16일 오후 2시 기준으로 예매율 1위를 기록해 올여름 극장]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2FSpoChosun%2F20210816144413077roqf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['스위트걸' 제이슨 모모아, 아쿠아맨→딸 지키는 아빠로 컴백 [종합] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210816111853847</link>
+            <guid>https://movie.v.daum.net/v/20210816111853847</guid>
+            <pubDate>Mon, 16 Aug 2021 03:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 제이슨 모모아 / 사진=넷플릭스할리우드 배우 제이슨 모모아가 슈퍼 히어로에서 아내와 딸을 위해 복수하는 아빠로 돌아온다. 최근 넷플릭스 오리지널 영화 '스위트 걸' 화상 기자간담회가 진행 됐다. 제이슨 모모아와 브라이언 앤드루 멘도자 감독이 참석했다. 영화 '스위트 걸'은 대형 제약사의 일방적인 결정으로 약을 구하지 못해 아내를 잃]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2Fstarnews%2F20210816111855129iiiq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[차승원·김성균 '싱크홀' 100만 관객돌파..올해 가장 빠른 속도 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210816180812034</link>
+            <guid>https://movie.v.daum.net/v/20210816180812034</guid>
+            <pubDate>Mon, 16 Aug 2021 10:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 윤효정 기자 = 영화 '싱크홀'이 100만 관객을 넘었다. '싱크홀'(감독 김지훈)은 영화진흥위원회 통합전산망 기준 16일 오전에 누적 관객수 100만792명 관객을 동원했다. 개봉 6일만에 100만 관객을 돌파한 것으로 , 올해 개봉한 한국영화 중 가장 빠른 속도다. '싱크홀'은 11년 만에 마련한 내 집이 지하 500m 초대형 싱크]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2FNEWS1%2F20210816180814079agzy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['싱크홀', 2021 韓영화 최단..개봉 6일만 100만 돌파 [공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210816130339282</link>
             <guid>https://movie.v.daum.net/v/20210816130339282</guid>
@@ -590,28 +614,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2Fstarnews%2F20210816130342228zldg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[공식] '싱크홀' 6일차 100만 돌파 성공..올해 韓영화 최단 기록 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210816141655230</link>
-            <guid>https://movie.v.daum.net/v/20210816141655230</guid>
-            <pubDate>Mon, 16 Aug 2021 06:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 현실 재난 영화 '싱크홀'(김지훈 감독, 더타워픽쳐스 제작)이 개봉 6일째 100만 관객을 돌파, 올해 개봉한 한국 영화 중 가장 빠르게 100만 관객 고지를 넘어서는 쾌거를 이뤘다. 지난 11일 개봉 직후 한국 영화 최고 오프닝 기록을 세우며 올여름 극장가를 확실하게 점령한 재난 버스터 '싱크홀'이 올해 개봉한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2FSpoChosun%2F20210816141656022jbzr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[제이슨 모모아 "이사벨라 메르세드, 가족 같은 끈끈한 유대감 느껴" (스위트걸) [종합] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210816125001101</link>
             <guid>https://movie.v.daum.net/v/20210816125001101</guid>
             <pubDate>Mon, 16 Aug 2021 04:19:29 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) '스위트 걸' 제이슨 모모아가 함께 출연한 이사벨라 메르세드에 대해 언급했다. 지난 10일 넷플릭스 오리지널 영화 '스위트 걸'의 온라인 기자간담회가 진행됐다. 이날 간담회에는 주연을 맡은 제이슨 모모아와 브라이언 앤드루 멘도자 감독이 참석했다. '스위트 걸'은&nbsp;대형 제약사의 일방적인 결정으로 약을 구하지 못해 아내를 잃은 레]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2Fxportsnews%2F20210816125002676vjby.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식] "여름은 극캉스, 황정민"..'인질', '싱크홀' '모가디슈' 꺾고 전체 예매율 1위 등극 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210816144412725</link>
-            <guid>https://movie.v.daum.net/v/20210816144412725</guid>
-            <pubDate>Mon, 16 Aug 2021 06:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 액션 스릴러 영화 '인질'(필감성 감독, 외유내강 제작)이 개봉을 앞두고 전체 예매율 1위를 기록했다. 역대급 호평으로 올여름 최고의 스릴과 재미를 예고한 '인질'이 개봉을 앞두고 전체 예매율 1위를 달성하며 8월 흥행 돌풍을 일으킬 예정이다. '인질'은 16일 오후 2시 기준으로 예매율 1위를 기록해 올여름 극장]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2FSpoChosun%2F20210816144413077roqf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[['인질' ①] 황정민X류승완 '외유내강', 또 옳았다!..극장가 판도 바꿀 '대박 조합' (다음영화 뉴스 ─ 인기)]]></title>
@@ -646,20 +654,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2FSpoChosun%2F20210816143758324fqxz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['스위트 걸' 제이슨 모모아 "韓가고 싶어..곧 만나러 갈게요" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210816100006990</link>
-            <guid>https://movie.v.daum.net/v/20210816100006990</guid>
-            <pubDate>Mon, 16 Aug 2021 01:55:56 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 제이슨 모모아 / 사진=넷플릭스할리우드 배우 제이슨 모모아가 한국 팬들과의 만남을 기약했다. 최근 넷플릭스 오리지널 영화 '스위트 걸' 화상 기자간담회가 진행 됐다. 영화 '스위트 걸'은 대형 제약사의 일방적인 결정으로 약을 구하지 못해 아내를 잃은 레이 쿠퍼(제이슨 모모아 분)가 유일한 가족인 딸을 지키고 아내의 죽음에 대한 진실]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2Fstarnews%2F20210816100007849qhrz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[황정민의 '인질', 전체 예매율 1위 [필름:리포트] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210816162901692</link>
-            <guid>https://movie.v.daum.net/v/20210816162901692</guid>
-            <pubDate>Mon, 16 Aug 2021 09:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=이윤희 기자] 배우 황정민 주연의 영화 '인질'이 개봉을 앞두고 전체 예매율 1위를 기록했다.&nbsp;&nbsp; 역대급 호평으로 올여름 최고의 스릴과 재미를 예고한 영화 '인질'이 개봉을 앞두고 전체 예매율 1위를 달성하며 8월 흥행 돌풍을 일으킬 예정이다. '인질'은 어느 날 새벽, 증거도 목격자도 없이 납치된 배우 황정민을 그린 리얼리티 액션스릴러다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2Ftvreport%2F20210816162902277ptle.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['인질', 개봉 이틀 앞두고 전체예매율 1위..'여름엔 황정민' 통했다 [공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210816153102690</link>
+            <guid>https://movie.v.daum.net/v/20210816153102690</guid>
+            <pubDate>Mon, 16 Aug 2021 10:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=하수정 기자] 심장이 쫄깃해지는 긴장감으로 올여름 무더위를 모두 날려버릴 영화 '인질'이 개봉을 앞두고 전체 예매율 1위를 기록했다. &nbsp; 역대급 호평으로 올여름 최고의 스릴과 재미를 예고한 영화 '인질'이 개봉을 앞두고 전체 예매율 1위를 달성하며 8월 흥행 돌풍을 일으킬 예정이다. '인질'(각본감독 필감성, 제공배급 NEW, 제작 ㈜외유내강,]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2Fpoctan%2F20210816153102503syrf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[차승원·김성균 '싱크홀' 100만 관객돌파..올해 가장 빠른 속도 (다음영화 뉴스 ─ 최신)]]></title>
@@ -1146,7 +1146,7 @@
             <link>https://tv.naver.com/v/21858039</link>
             <guid>https://tv.naver.com/v/21858039</guid>
             <pubDate>Fri, 13 Aug 2021 10:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210813_157/nf2SM_1628846807221asbyw_JPEG/36c35ef8-fc18-11eb-bf57-246e963a4708_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>

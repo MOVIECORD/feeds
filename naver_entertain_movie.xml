@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-16T09:16:30.645Z</updated>
+    <updated>2021-08-16T10:17:35.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네거티브 공세도 이겨냈던 노무현의 승부수]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002323493</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002323493"/>
+        <updated>2021-08-16T10:16:39.979Z</updated>
+        <content type="html"><![CDATA[[하성태의 사이드뷰] 영화 &lt;정직한 후보&gt;·&lt;특별시민&gt; 통해 본 정치 공세 현주소 첫째 집토끼를 잡아라. 둘째 네거티브를 적극 활용한다. 셋째 프레임을 바꾼다. 넷째 인지도를 높여라. 정치 코미디 영화 &lt;정직한 후보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차승원·김성균 '싱크홀' 100만 관객돌파…올해 가장 빠른 속도]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005544609</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000589556"/>
         <updated>2021-08-16T06:18:42.395Z</updated>
         <content type="html"><![CDATA[영화 ‘싱크홀’이 올해 개봉한 한국 영화 중 가장 빠른 속도로 100만 관객을 돌파했다. ‘싱크홀’은 16일 영화진흥위원회 통합전산망 기준, 개봉 6일째 누적 관객수 100만792명을 기록했다. 이로써 올해 개봉한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공식] "여름은 극캉스, 황정민"…'인질', '싱크홀' '모가디슈' 꺾고 전체 예매율 1위 등극]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003767287</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003767287"/>
-        <updated>2021-08-16T06:18:42.396Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 액션 스릴러 영화 '인질'(필감성 감독, 외유내강 제작)이 개봉을 앞두고 전체 예매율 1위를 기록했다. 역대급 호평으로 올여름 최고의 스릴과 재미를 예고한 '인질'이 개봉을 앞두고 전체 예]]></content>
     </entry>
 </feed>
