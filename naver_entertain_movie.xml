@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-16T10:17:35.854Z</updated>
+    <updated>2021-08-16T11:17:37.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미군 아프간철수 조롱?…中, 美영화 '개의 귀갓길' 방영]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012602117</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012602117"/>
+        <updated>2021-08-16T11:16:36.921Z</updated>
+        <content type="html"><![CDATA[중국 네티즌 "아프간 상황 연상된다" 등 글 올려 (베이징=연합뉴스) 조준형 특파원 = 중국 관영방송사인 중앙TV(CCTV) 영화채널이 16일 방영한 미국 영화 한 편이 미군 철수를 앞둔 아프가니스탄 상황과 맞물려]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한승연 주연 ‘쇼미더고스트’ 메인 예고편 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000927853</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000927853"/>
+        <updated>2021-08-16T11:16:36.922Z</updated>
+        <content type="html"><![CDATA[한승연 주연 ‘쇼미더고스트’ 메인 예고편 공개 제25회 부천국제판타스틱영화제 코리안 판타스틱: 장편배우상과 NH농협 배급지원상 2관왕을 휩쓴 산뜻하고 유쾌한 올해의 독립영화 기대작 ‘쇼미더고스트’가 메인 예고편을 최]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네거티브 공세도 이겨냈던 노무현의 승부수]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002323493</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012601862"/>
         <updated>2021-08-16T06:18:42.394Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 강애란 기자 = 재난 코미디 '싱크홀'이 개봉 6일째 100만 관객을 돌파하며 올해 한국 영화 최단 기록을 세웠다. 16일 배급사 쇼박스에 따르면 '싱크홀'은 개봉 6일째인 이날 오전 11시 기준]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공식] '인질' 예매율 1위…'여름엔 황정민' 흥행 공식 通했다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000495019</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000495019"/>
-        <updated>2021-08-16T06:18:42.394Z</updated>
-        <content type="html"><![CDATA[[텐아시아=김지원 기자] 황정민 주연의 영화 '인질'이 개봉을 앞두고 전체 예매율 1위를 기록했다. '인질'은 어느 날 새벽, 증거도 목격자도 없이 납치된 배우 황정민을 그린 리얼리티 액션 스릴러. 영화진흥위원회 통]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100만 돌파…‘싱크홀’, 올 국산 개봉작 가운데 가장 빨라]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000589556</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000589556"/>
-        <updated>2021-08-16T06:18:42.395Z</updated>
-        <content type="html"><![CDATA[영화 ‘싱크홀’이 올해 개봉한 한국 영화 중 가장 빠른 속도로 100만 관객을 돌파했다. ‘싱크홀’은 16일 영화진흥위원회 통합전산망 기준, 개봉 6일째 누적 관객수 100만792명을 기록했다. 이로써 올해 개봉한]]></content>
     </entry>
 </feed>

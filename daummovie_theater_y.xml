@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Aug 2021 10:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Aug 2021 11:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,14 +120,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb977b780889f7deacdb55996768edf5f4bb28cfe" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[이스케이프 룸 2: 노 웨이 아웃]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145805</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145805</guid>
-            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.07.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ec63ea20869c6a243ebbf2756706a022a11dc7d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[암살자들]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137980</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137980</guid>
@@ -158,6 +150,14 @@
             <pubDate>Mon, 16 Aug 2021 03:16:37 GMT</pubDate>
             <content:encoded><![CDATA[21.07.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F076d1c40be99ec226f0b1a8eec8351034d7072f3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[이스케이프 룸 2: 노 웨이 아웃]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145805</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145805</guid>
+            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ec63ea20869c6a243ebbf2756706a022a11dc7d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[피닉스]]></title>
