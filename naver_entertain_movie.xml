@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-16T08:17:43.338Z</updated>
+    <updated>2021-08-16T09:16:30.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차승원·김성균 '싱크홀' 100만 관객돌파…올해 가장 빠른 속도]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005544609</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005544609"/>
+        <updated>2021-08-16T09:15:28.957Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 윤효정 기자 = 영화 '싱크홀'이 100만 관객을 넘었다. '싱크홀'(감독 김지훈)은 영화진흥위원회 통합전산망 기준 16일 오전에 누적 관객수 100만792명 관객을 동원했다. 개봉 6일만에 100만]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방민아X심달기X한성민 주연 '최선의 삶', '벌새' 잇는 화제의 독립영화 등극]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003767322</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003767322"/>
+        <updated>2021-08-16T09:15:28.958Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 휴먼 영화 '최선의 삶'(이우정 감독, 마일스톤컴퍼니 제작)이 지난 2019년 개봉해 14만 관객을 돌파하며 큰 사랑을 받은 김보라 감독의 장편 데뷔작 '벌새'를 잇는 2021년, 올해의]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대본 없이 24시간 안에 촬영 '언노운 아이덴티티', 8월 개봉]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003542041</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003542041"/>
+        <updated>2021-08-16T09:15:28.958Z</updated>
+        <content type="html"><![CDATA[24시간 안에 대본도 없이 획기적인 방식으로 제작된 영화 '언노운 아이덴티티'가 8월 개봉을 확정했다. '언노운 아이덴티티'(감독 로버트 파쉘 주니어)는 모든 기억을 잃은 채 깨어난 한 여자가 의문의 전화를 받고 도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["여름엔 황정민"...'인질', 압도적 수치로 예매율 1위]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000274098</id>
@@ -158,26 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003767287"/>
         <updated>2021-08-16T06:18:42.396Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조지영 기자] 액션 스릴러 영화 '인질'(필감성 감독, 외유내강 제작)이 개봉을 앞두고 전체 예매율 1위를 기록했다. 역대급 호평으로 올여름 최고의 스릴과 재미를 예고한 '인질'이 개봉을 앞두고 전체 예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[종합] "코시국 속 韓영화 저력"…231만 '모가디슈'X100만 '싱크홀', 광복절 연휴 흥행 터졌다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003767284</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003767284"/>
-        <updated>2021-08-16T06:18:42.397Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 액션 영화 '모가디슈'(류승완 감독, 덱스터스튜디오·외유내강 제작)가 밀고 현실 재난 영화 '싱크홀'(김지훈 감독, 더타워픽쳐스 제작)이 당기는 여름 극장이다. 최악의 코시국, 그럼에도 한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름엔 황정민…‘인질’, 개봉 앞두고 전체 예매율 1위 등극]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001600606</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001600606"/>
-        <updated>2021-08-16T06:18:42.397Z</updated>
-        <content type="html"><![CDATA[영화 ‘인질’(감독 필감성)이 개봉을 앞두고 전체 예매율 1위를 기록했다. 8월 18일 개봉하는 ‘인질’이 전체 예매율 1위를 달성하며 8월 흥행 돌풍을 일으킬 예정이다. ‘인질’은 어느 날 새벽, 증거도 목격자도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름엔 황정민…'인질', 전체 예매율 1위 등극]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001335683</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001335683"/>
-        <updated>2021-08-16T06:18:42.398Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예은 기자) 영화 '인질'이 개봉을 앞두고 전체 예매율 1위를 기록했다. 올여름 최고의 스릴과 재미를 예고한 '인질' 개봉을 앞두고 전체 예매율 1위를 달성하며 8월 흥행 돌풍을 일으킬 예정이다. ']]></content>
     </entry>
 </feed>
