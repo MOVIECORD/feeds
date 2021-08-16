@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-16T12:30:22.093Z</updated>
+    <updated>2021-08-16T13:45:59.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“코로나·올림픽 겹친 상황 속 성원 감사, 흥행 상관없이 남북관계 개선됐으면”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003092160</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003092160"/>
+        <updated>2021-08-16T13:45:00.773Z</updated>
+        <content type="html"><![CDATA[[경향신문] &lt;모가디슈&gt;를 만들고 개봉하는 과정에서 류승완 감독에게는 몇 가지 용기가 필요했다. 예측할 수 없는 남북관계를 소재로 영화를 만든다는 것, 코로나19 확산 시국에 거액의 제작비가 투입된 영화를 개봉한다는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미군 아프간철수 조롱?…中, 美영화 '개의 귀갓길' 방영]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012602117</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000755922"/>
         <updated>2021-08-16T06:18:42.394Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 영화 ‘인질’(감독 필감성)이 개봉을 앞두고 전체예매율 1위를 기록했다. ‘인질’은 16일 오후 2시 기준으로 예매율 1위를 기록해 올여름 극장가 최대 기대작으로서의 기세를 보여주고 있다. 또한, ‘인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['싱크홀' 개봉 6일째 100만 돌파…올해 한국영화 최단기록]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012601862</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012601862"/>
-        <updated>2021-08-16T06:18:42.394Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 강애란 기자 = 재난 코미디 '싱크홀'이 개봉 6일째 100만 관객을 돌파하며 올해 한국 영화 최단 기록을 세웠다. 16일 배급사 쇼박스에 따르면 '싱크홀'은 개봉 6일째인 이날 오전 11시 기준]]></content>
     </entry>
 </feed>
