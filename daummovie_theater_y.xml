@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Aug 2021 02:26:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Aug 2021 03:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,20 +80,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F96dd30921f935279b8fa9f5d013d0b831be01410" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 도라에몽: 진구의 신공룡]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=137663</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=137663</guid>
-            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb977b780889f7deacdb55996768edf5f4bb28cfe" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[그린 나이트]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=139183</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=139183</guid>
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.08.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6dd33309d1b1b3a9e3aa6e65ddf1ebe229433eb3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 도라에몽: 진구의 신공룡]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137663</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137663</guid>
+            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb977b780889f7deacdb55996768edf5f4bb28cfe" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아이스 로드]]></title>
@@ -112,14 +112,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa89dc80a0838884bbe5b7da0240ff9664b789c48" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[정글 크루즈]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=129157</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=129157</guid>
-            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.07.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff489812c2c10a97480b43ce96d2a83626c279282" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[암살자들]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137980</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137980</guid>
@@ -136,12 +128,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e4a6d6f2257710d32cc80a3badf784fa2bd2170" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[정글 크루즈]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=129157</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=129157</guid>
+            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.07.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff489812c2c10a97480b43ce96d2a83626c279282" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[랑종]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=144859</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=144859</guid>
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.07.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F88c733527983cbd6ab27e4f5f0673358ecfdf9eb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[방법: 재차의]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139670</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139670</guid>
+            <pubDate>Mon, 16 Aug 2021 03:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[21.07.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F076d1c40be99ec226f0b1a8eec8351034d7072f3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[이스케이프 룸 2: 노 웨이 아웃]]></title>
@@ -152,20 +160,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ec63ea20869c6a243ebbf2756706a022a11dc7d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[은혼 더 파이널]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=147274</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=147274</guid>
-            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
+            <title><![CDATA[피닉스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=88389</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=88389</guid>
+            <pubDate>Mon, 16 Aug 2021 03:16:37 GMT</pubDate>
             <content:encoded><![CDATA[21.07.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0fc5c7898752fe64f4bb608ab1cac6c747e942ac" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[꽃다발 같은 사랑을 했다]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=147787</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=147787</guid>
-            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.07.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcc13e3cb1e3437a5bba140f8920babf86038a31d" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F21ff86e22d9f6510c7a186419f99c0d48ce844ff" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
