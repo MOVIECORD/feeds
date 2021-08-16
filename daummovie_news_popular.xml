@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Aug 2021 01:56:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Aug 2021 02:26:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,28 +72,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2Fhankooki%2F20210816043107675tlsj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['아쿠아맨' 제이슨 모모아 "갈색 피부의 슈퍼히어로..경이로운 일"]]></title>
-            <link>https://movie.v.daum.net/v/20210816001001372</link>
-            <guid>https://movie.v.daum.net/v/20210816001001372</guid>
-            <pubDate>Sun, 15 Aug 2021 15:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진=넷플릭스할리우드 배우 제이슨 모모아가슈퍼 히어로에서 평범한 가장으로 돌아온다. 최근 넷플릭스 오리지널 영화 '스위트 걸' 화상 기자간담회가 진행 됐다. 영화 '스위트 걸'은 대형 제약사의 일방적인 결정으로 약을 구하지 못해 아내를 잃은 레이 쿠퍼(제이슨 모모아 분)가 유일한 가족인 딸을 지키고 아내의 죽음에 대한 진실을 파헤]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2Fstarnews%2F20210816001003133txxo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[이슈현장] '42년 만에 31일 폐관' 서울극장은 지금(영상)]]></title>
-            <link>https://movie.v.daum.net/v/20210816060009197</link>
-            <guid>https://movie.v.daum.net/v/20210816060009197</guid>
-            <pubDate>Sun, 15 Aug 2021 21:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[단성사, 피카디리극장과 함께 종로3가 극장가 호령도 '옛말' [더팩트ㅣ종로=이한림 기자] '아듀! 서울극장' '서울극장과 이별의 시간을 갖다' '고마웠어요 서울극장'. 1980년대~1990년대 한국 영화의 부흥기를 이끌었던 '종로3가 극장가의 상징'이 이달 말 서울극장 폐관을 끝으로 모두 역사의 뒤안길로 사라진다는 소식이 알려지면서 온오프라인에는 아쉬움과]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2FTHEFACT%2F20210816060010138jujv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA["韓 시청자도 공감할 것"..제이슨 모모아 '스위트 걸', 복수극 그 이상 [종합]]]></title>
             <link>https://movie.v.daum.net/v/20210816105002062</link>
             <guid>https://movie.v.daum.net/v/20210816105002062</guid>
             <pubDate>Mon, 16 Aug 2021 01:55:56 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) '스위트 걸' 제이슨 모모아와 브라이언 앤드루 멘도자 감독이 작품에 대한 다양한 이야기로 기대감을 높였다. 지난 10일 넷플릭스 오리지널 영화 '스위트 걸'의 온라인 기자간담회가 진행됐다. 이날 간담회에는 주연을 맡은 제이슨 모모아와 브라이언 앤드루 멘도자 감독이 참석했다. '스위트 걸'은&nbsp;대형 제약사의 일방적인 결정으로 약을]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2Fxportsnews%2F20210816105003638zbfj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['아쿠아맨' 제이슨 모모아 "갈색 피부의 슈퍼히어로..경이로운 일"]]></title>
+            <link>https://movie.v.daum.net/v/20210816001001372</link>
+            <guid>https://movie.v.daum.net/v/20210816001001372</guid>
+            <pubDate>Sun, 15 Aug 2021 15:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진=넷플릭스할리우드 배우 제이슨 모모아가슈퍼 히어로에서 평범한 가장으로 돌아온다. 최근 넷플릭스 오리지널 영화 '스위트 걸' 화상 기자간담회가 진행 됐다. 영화 '스위트 걸'은 대형 제약사의 일방적인 결정으로 약을 구하지 못해 아내를 잃은 레이 쿠퍼(제이슨 모모아 분)가 유일한 가족인 딸을 지키고 아내의 죽음에 대한 진실을 파헤]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2Fstarnews%2F20210816001003133txxo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['스위트 걸' 제이슨 모모아 "슈퍼 히어로 연기 끝나면..저도 평범한 사람"]]></title>
@@ -104,12 +96,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2Fstarnews%2F20210816083145739mbfh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[이슈현장] '42년 만에 31일 폐관' 서울극장은 지금(영상)]]></title>
+            <link>https://movie.v.daum.net/v/20210816060009197</link>
+            <guid>https://movie.v.daum.net/v/20210816060009197</guid>
+            <pubDate>Sun, 15 Aug 2021 21:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[단성사, 피카디리극장과 함께 종로3가 극장가 호령도 '옛말' [더팩트ㅣ종로=이한림 기자] '아듀! 서울극장' '서울극장과 이별의 시간을 갖다' '고마웠어요 서울극장'. 1980년대~1990년대 한국 영화의 부흥기를 이끌었던 '종로3가 극장가의 상징'이 이달 말 서울극장 폐관을 끝으로 모두 역사의 뒤안길로 사라진다는 소식이 알려지면서 온오프라인에는 아쉬움과]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2FTHEFACT%2F20210816060010138jujv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[제이슨 모모아 "'스위트 걸' 제작 참여, 꿈만 같았다"]]></title>
             <link>https://movie.v.daum.net/v/20210816070207845</link>
             <guid>https://movie.v.daum.net/v/20210816070207845</guid>
             <pubDate>Sun, 15 Aug 2021 22:15:03 GMT</pubDate>
             <content:encoded><![CDATA[[티브이데일리 김종은 기자] 할리우드 배우 제이슨 모모아가 '스위트 걸' 출연뿐만 아니라 제작에도 참여하게 된 소감을 전했다. 넷플릭스 새 오리지널 영화 '스위트 걸'(감독 브라이언 앤드루 멘도자)의 기자간담회가 최근 화상 인터뷰로 진행됐다. 현장에는 배우 제이슨 모모아, 브라이언 앤드루 멘도자 감독이 참석해 작품에 대한 이야기를 나눴다. 이날 브라이언 앤]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2Ftvdaily%2F20210816070209658bfgh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식] '모가디슈', 흥행킹 '분노의질주9' 꺾고 231만 돌파..올해 전체 흥행 2위 등극]]></title>
+            <link>https://movie.v.daum.net/v/20210816094833784</link>
+            <guid>https://movie.v.daum.net/v/20210816094833784</guid>
+            <pubDate>Mon, 16 Aug 2021 01:55:56 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 액션 영화 '모가디슈'(류승완 감독, 덱스터스튜디오·외유내강 제작)가 폭발적인 입소문 열풍에 힘입어 '분노의 질주: 더 얼티메이트'의 기록을 뛰어넘었다. 폭발적인 입소문과 흥행 열풍을 이끌고 있는 '모가디슈'가 영진위 통합전산망 기준 누적 관객수 231만8967명 관객을 동원, 개봉 3주차 주말 박스오피스에서도 뜨거]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2FSpoChosun%2F20210816094833239ltoj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['싱크홀', 개봉 첫주 흥행 1위..2021년 韓영화 일일 최다 관객 돌파 [공식]]]></title>
@@ -128,12 +136,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2Fpoctan%2F20210816074708661xokr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[공식] '모가디슈', 흥행킹 '분노의질주9' 꺾고 231만 돌파..올해 전체 흥행 2위 등극]]></title>
-            <link>https://movie.v.daum.net/v/20210816094833784</link>
-            <guid>https://movie.v.daum.net/v/20210816094833784</guid>
-            <pubDate>Mon, 16 Aug 2021 01:55:56 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 액션 영화 '모가디슈'(류승완 감독, 덱스터스튜디오·외유내강 제작)가 폭발적인 입소문 열풍에 힘입어 '분노의 질주: 더 얼티메이트'의 기록을 뛰어넘었다. 폭발적인 입소문과 흥행 열풍을 이끌고 있는 '모가디슈'가 영진위 통합전산망 기준 누적 관객수 231만8967명 관객을 동원, 개봉 3주차 주말 박스오피스에서도 뜨거]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2FSpoChosun%2F20210816094833239ltoj.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[광복절 1위 '싱크홀' 100만 고지 눈앞[박스오피스]]]></title>
+            <link>https://movie.v.daum.net/v/20210816080303333</link>
+            <guid>https://movie.v.daum.net/v/20210816080303333</guid>
+            <pubDate>Sun, 15 Aug 2021 23:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '싱크홀'이 광복절 및 개봉 첫 주말 박스오피스 1위를 차지했다. 8월 16일 영화진흥위원회 통합전산망 집계에 따르면 영화 '싱크홀'(감독 김지훈)이 개봉 첫 주 주말 박스오피스 1위를 차지했다. 14일 토요일 25만1,733명, 15일 일요일 26만9,841명을 동원하면서 이틀 연속 올해 개봉한 한국영화들 일일 최다 관객수를 차례]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2Fnewsen%2F20210816080309000kwhz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[['인질' ③] "황정민 상대, 안 쫄아"..김재범·류경수→이호정, '괴물 신예']]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 16 Aug 2021 01:55:56 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠경향] “슈퍼히어로 연기를 마치고 집에 돌아오면 저도 평범한 사람이니까요. 부성애를 연기하는 평범한 가장 역으로 변신하는 건 쉬운 일이었습니다. 평범하게 자랐고, 현실 감각을 일깨워주는 좋은 가족과 친구들이 있거든요.제가 빗나가려고 해도 언제나 정신 차리고 현실을 의식할 수 있게 해줍니다. 그래서 그렇게 어려운 작업이 아니었어요. 제가 그렇게 자랐]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2Fsportskhan%2F20210816100421799xgob.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[광복절 1위 '싱크홀' 100만 고지 눈앞[박스오피스]]]></title>
-            <link>https://movie.v.daum.net/v/20210816080303333</link>
-            <guid>https://movie.v.daum.net/v/20210816080303333</guid>
-            <pubDate>Sun, 15 Aug 2021 23:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '싱크홀'이 광복절 및 개봉 첫 주말 박스오피스 1위를 차지했다. 8월 16일 영화진흥위원회 통합전산망 집계에 따르면 영화 '싱크홀'(감독 김지훈)이 개봉 첫 주 주말 박스오피스 1위를 차지했다. 14일 토요일 25만1,733명, 15일 일요일 26만9,841명을 동원하면서 이틀 연속 올해 개봉한 한국영화들 일일 최다 관객수를 차례]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F16%2Fnewsen%2F20210816080309000kwhz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>

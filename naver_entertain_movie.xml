@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-16T01:56:31.708Z</updated>
+    <updated>2021-08-16T02:26:28.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스위트걸' 제이슨 모모아, 아쿠아맨→딸 지키는 아빠로 컴백 [종합]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002981081</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002981081"/>
+        <updated>2021-08-16T02:25:30.748Z</updated>
+        <content type="html"><![CDATA[할리우드 배우 제이슨 모모아가 슈퍼 히어로에서 아내와 딸을 위해 복수하는 아빠로 돌아온다. 최근 넷플릭스 오리지널 영화 '스위트 걸' 화상 기자간담회가 진행 됐다. 제이슨 모모아와 브라이언 앤드루 멘도자 감독이 참석]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘싱크홀’도 100만 눈 앞…‘모가디슈’와 쌍끌이 흥행?]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000755899</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000755899"/>
+        <updated>2021-08-16T02:25:30.749Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 영화 ‘싱크홀’(감독 김지훈)도 100만 고지를 눈앞에 두고 있다. 230만 관객을 돌파한 ‘모가디슈’와 함께 한국 영화 쌍끌이 흥행이 시동을 걸까. 16일 영화진흥위원회 영화관입장권 통합전산망 집계결]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["韓 시청자도 공감할 것"…제이슨 모모아 '스위트 걸', 복수극 그 이상 [종합]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001335640</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000809281"/>
         <updated>2021-08-16T00:46:40.474Z</updated>
         <content type="html"><![CDATA[영화 ‘모가디슈’(감독 류승완)가 폭발적인 입소문 열풍에 힘입어 ‘분노의 질주: 더 얼티메이트’를 뛰어넘었다. 영화진흥위원회 통합전산망에 따르면 ‘모가디슈’는 누적 관객수 2,318,967명 관객을 동원, 개봉 3주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['싱크홀' 박스오피스 1위…100만 돌파 눈앞 [Nbox]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005543755</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005543755"/>
-        <updated>2021-08-16T00:46:40.475Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 윤효정 기자 = 영화 '싱크홀'이 박스오피스 1위를 이어가고 있다. 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 '싱크홀'은 일요일인 지난 15일 하루 27만163명을 동원하며 박스오피스 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김강우 "20년 만에 첫 공포물 도전, 새로운 시도에 끌렸죠"[인터뷰]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005011871</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005011871"/>
-        <updated>2021-08-16T00:46:40.480Z</updated>
-        <content type="html"><![CDATA[오는 25일 개봉하는 공포영화 ‘귀문’에서 심령연구소 소장 도진 역을 연기한 김강우(사진=CJ CGV) [이데일리 스타in 박미애 기자] “공포물이 주는 긴장감을 못 견뎌서 공포물을 보지도 못 하는데 하고 나니 성취]]></content>
     </entry>
 </feed>
