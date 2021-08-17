@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-17T14:14:58.804Z</updated>
+    <updated>2021-08-17T15:17:32.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강원도내서 촬영 영화 ‘싱크홀·인질' 주목]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000856517</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000856517"/>
+        <updated>2021-08-17T15:16:37.030Z</updated>
+        <content type="html"><![CDATA[강원도에서 촬영된 화제작들이 속속 개봉하면서 관객들을 만나고 있어 관심을 모은다. 춘천에서 촬영된 재난 코미디 영화 ‘싱크홀'은 개봉 6일째 100만 관객을 돌파하며 올해 한국 영화 최단 기록을 세웠다. 강원도에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 속 성평등 가늠하는 벡델 테스트…이번엔 어떤 영화들이 통과했나]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003092425</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002981355"/>
         <updated>2021-08-17T07:14:25.714Z</updated>
         <content type="html"><![CDATA[일본 만화 '슬램덩크'가 영화로 만들어 진다. 내년 가을 개봉을 목표로 영화화가 시작됐다. 지난 13일 밤 슬램덩크 측은 공식 계정을 통해 영화화 소식을 알렸다. '슬램덩크' 원작 작가인 이노우에 다케히코가 영화의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꿈의 구장' 속편은 내년 8월에…신시내티 vs 컵스 대결]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012604115</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012604115"/>
-        <updated>2021-08-17T07:14:25.714Z</updated>
-        <content type="html"><![CDATA[옥수수 줄기를 헤치고 등장하는 화이트삭스와 양키스 선수들[USA 투데이 스포츠=연합뉴스 자료사진](서울=연합뉴스) 신창용 기자 = 미국프로야구 메이저리그(MLB) 사무국이 영화를 현실로 만든 '꿈의 구장' 이벤트가 내년에도 전 세계 야구팬들을 찾아간다. 'NBC 스포츠 시카고'는 17일(한국시간) 내년 '꿈의 구장'에서...]]></content>
     </entry>
 </feed>
