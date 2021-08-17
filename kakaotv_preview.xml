@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Aug 2021 05:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 06:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<더 테러 라이브: 스쿨 어택> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/421575077?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/421575077?act=clip</guid>
+            <pubDate>Tue, 17 Aug 2021 06:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:32]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvno98lo4v4agsfw29l9ugy1v%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33186087132%26signature%3D6LNF5abmTLW%252B%252B%252F5AqEZxxxx1ixY%253D%26ts%3D1629178332" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<블룸 업: 스와핑> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/421573456?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/421452120?act=clip</guid>
             <pubDate>Thu, 12 Aug 2021 07:13:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:55]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrgttc1trlhhkpuup2j2b7ux%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185655571%26signature%3DxwzgrxBuukXqHtmgLUnjmHVdTGA%253D%26ts%3D1628746771" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrgttc1trlhhkpuup2j2b7ux%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185655571%26signature%3DxwzgrxBuukXqHtmgLUnjmHVdTGA%253D%26ts%3D1628746771" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<리벤지 오브 인사이트> 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 12 Aug 2021 23:15:13 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:43]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvh818kv0o5bgl8eti5ckzww9%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185553471%26signature%3D3XP%252FGWU1alUpqBd1leqyT%252FC8ORg%253D%26ts%3D1628644671" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<인질> 15초 리뷰 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/421420821?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/421420821?act=clip</guid>
-            <pubDate>Thu, 12 Aug 2021 23:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:15]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv6b0fmblbozhqyrh3rtnl46u%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185553030%26signature%3D2u1vAJ%252BixvA0T2e1TrmeeKw8950%253D%26ts%3D1628644230" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
