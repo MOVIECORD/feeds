@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Aug 2021 15:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 16:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,14 +72,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ab1a372dd93ced3c357eabb8e01f3f5d6003267" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아이스 로드]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150693</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150693</guid>
-            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.07.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f98e5c0d73c95891b49493b7d62ba4480489df6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[블랙 위도우]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=123215</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=123215</guid>
@@ -94,6 +86,14 @@
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.08.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa89dc80a0838884bbe5b7da0240ff9664b789c48" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아이스 로드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150693</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150693</guid>
+            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.07.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f98e5c0d73c95891b49493b7d62ba4480489df6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[그린 나이트]]></title>
@@ -136,22 +136,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F88b3e53689b8e60f9a3ee9f00692963a0cbfbb39" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[은혼 더 파이널]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=147274</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=147274</guid>
-            <pubDate>Tue, 17 Aug 2021 12:23:28 GMT</pubDate>
-            <content:encoded><![CDATA[21.07.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0fc5c7898752fe64f4bb608ab1cac6c747e942ac" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[우리는 매일매일]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=134126</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=134126</guid>
-            <pubDate>Tue, 17 Aug 2021 07:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[21.06.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff0ff87caf5658b5f7fc8d3f9b7891908300d9786" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 도라에몽: 진구의 신공룡]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137663</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137663</guid>
@@ -166,6 +150,22 @@
             <pubDate>Tue, 17 Aug 2021 09:15:33 GMT</pubDate>
             <content:encoded><![CDATA[21.07.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff489812c2c10a97480b43ce96d2a83626c279282" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[이스케이프 룸 2: 노 웨이 아웃]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145805</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145805</guid>
+            <pubDate>Tue, 17 Aug 2021 16:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[21.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ec63ea20869c6a243ebbf2756706a022a11dc7d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[이번엔 잘 되겠지]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149340</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149340</guid>
+            <pubDate>Tue, 17 Aug 2021 16:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[21.07.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1b81193aa7887e67b8955543fb57892408db5f3f" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
