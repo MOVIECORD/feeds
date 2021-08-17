@@ -4,15 +4,55 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Aug 2021 06:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 07:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['팜 스프링스' 다이나믹 듀오 영상]]></title>
+            <link>https://tv.naver.com/v/21911922</link>
+            <guid>https://tv.naver.com/v/21911922</guid>
+            <pubDate>Tue, 17 Aug 2021 07:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[5분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210817_219/FmFjc_1629184189692VrLNg_PNG/1629184185957.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['켈리 갱' 30초 예고편]]></title>
+            <link>https://tv.naver.com/v/21911906</link>
+            <guid>https://tv.naver.com/v/21911906</guid>
+            <pubDate>Tue, 17 Aug 2021 07:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[6분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210817_193/oiF4l_1629184149355q0QFh_JPEG/f72fa99f-ff29-11eb-8e61-a0369ff94f34_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['서유기: 재세요왕' 런칭 예고편]]></title>
+            <link>https://tv.naver.com/v/21911890</link>
+            <guid>https://tv.naver.com/v/21911890</guid>
+            <pubDate>Tue, 17 Aug 2021 07:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[6분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210817_294/XcvPP_1629184115883GqNqE_PNG/1629184112461.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['슬리핑 위드 마이 스튜던트' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/21911860</link>
+            <guid>https://tv.naver.com/v/21911860</guid>
+            <pubDate>Tue, 17 Aug 2021 07:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[7분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210817_269/7vBGv_1629184051731qxRAe_JPEG/a95405dc-ff29-11eb-809b-a0369ff94ed0_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['언노운 아이덴티티' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/21910774</link>
+            <guid>https://tv.naver.com/v/21910774</guid>
+            <pubDate>Tue, 17 Aug 2021 07:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[44분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210817_179/9cXzl_1629181869508X4OV2_JPEG/48e8e551-ff24-11eb-8c9c-505dac8c37f3_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['킹 오브 스네이크' 예고편]]></title>
             <link>https://tv.naver.com/v/21909628</link>
             <guid>https://tv.naver.com/v/21909628</guid>
             <pubDate>Tue, 17 Aug 2021 06:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[18분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210817_164/odWWG_1629180042816jbjLv_JPEG/347b6347-ff20-11eb-8678-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +60,7 @@
             <link>https://tv.naver.com/v/21909451</link>
             <guid>https://tv.naver.com/v/21909451</guid>
             <pubDate>Tue, 17 Aug 2021 06:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[24분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210817_166/6KgL8_1629179677002p51zY_JPEG/7e5439c7-ff1f-11eb-89ce-48df379ccacc_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +68,7 @@
             <link>https://tv.naver.com/v/21905255</link>
             <guid>https://tv.naver.com/v/21905255</guid>
             <pubDate>Tue, 17 Aug 2021 03:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210817_262/ignIr_1629168483930OjRSk_JPEG/36e63cf5-ff05-11eb-89ce-48df379ccacc_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +76,7 @@
             <link>https://tv.naver.com/v/21904117</link>
             <guid>https://tv.naver.com/v/21904117</guid>
             <pubDate>Tue, 17 Aug 2021 02:25:47 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210817_286/7xbkk_1629165707620lBDkz_JPEG/d8a45a3b-fefe-11eb-89ce-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +116,7 @@
             <link>https://tv.naver.com/v/21853302</link>
             <guid>https://tv.naver.com/v/21853302</guid>
             <pubDate>Fri, 13 Aug 2021 07:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210813_148/oF2iL_1628837586293HN4WP_JPEG/a15e06f4-fc02-11eb-809b-a0369ff94ed0_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -206,46 +246,6 @@
             <pubDate>Thu, 12 Aug 2021 01:56:42 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210812_200/8034f_1628732766995z55la_PNG/1628732760834.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['코코순이' 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/21808666</link>
-            <guid>https://tv.naver.com/v/21808666</guid>
-            <pubDate>Wed, 11 Aug 2021 08:01:38 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210811_267/H87ST_1628667586231YaI6r_PNG/1628667582409.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['사제로부터 온 편지' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/21808611</link>
-            <guid>https://tv.naver.com/v/21808611</guid>
-            <pubDate>Wed, 11 Aug 2021 08:01:38 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210811_193/c6Kny_1628667500245tERTx_PNG/1628667495897.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['적인걸 2021: 분천이화' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/21808565</link>
-            <guid>https://tv.naver.com/v/21808565</guid>
-            <pubDate>Wed, 11 Aug 2021 08:01:38 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210811_167/efNU5_162866741761850SEB_PNG/1628667351886.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['모가디슈' 앵콜 무비토크 라이브]]></title>
-            <link>https://tv.naver.com/v/21808301</link>
-            <guid>https://tv.naver.com/v/21808301</guid>
-            <pubDate>Wed, 11 Aug 2021 08:01:38 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210811_16/Ze1mb_1628666937464owKoN_JPEG/f7b078e0-fa74-11eb-b835-505dac8c3607_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['최선의 삶' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/21807466</link>
-            <guid>https://tv.naver.com/v/21807466</guid>
-            <pubDate>Wed, 11 Aug 2021 07:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210811_285/fGUiL_1628665490852YSAe6_JPEG/0d8c8288-fa72-11eb-9845-505dacfbaa5c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
