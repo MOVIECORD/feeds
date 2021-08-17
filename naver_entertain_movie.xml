@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-17T12:24:16.891Z</updated>
+    <updated>2021-08-17T13:21:47.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 속 성평등 가늠하는 벡델 테스트…이번엔 어떤 영화들이 통과했나]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003092425</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003092425"/>
+        <updated>2021-08-17T13:20:46.138Z</updated>
+        <content type="html"><![CDATA[[경향신문] 한국영화감독조합, 임선애 감독 ‘69세’ 등 올해 ‘벡델초이스 10’ 발표 영화 속 성평등 수준을 보여주는 ‘벡델 테스트’를 통과한 10편의 한국영화가 공개됐다. 한국영화감독조합은 ‘벡델데이 2021]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김혜수, '인질' 황정민 응원…"완전 홍보 요정"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010668984</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012604115"/>
         <updated>2021-08-17T07:14:25.714Z</updated>
         <content type="html"><![CDATA[옥수수 줄기를 헤치고 등장하는 화이트삭스와 양키스 선수들[USA 투데이 스포츠=연합뉴스 자료사진](서울=연합뉴스) 신창용 기자 = 미국프로야구 메이저리그(MLB) 사무국이 영화를 현실로 만든 '꿈의 구장' 이벤트가 내년에도 전 세계 야구팬들을 찾아간다. 'NBC 스포츠 시카고'는 17일(한국시간) 내년 '꿈의 구장'에서...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마블 신작 '샹치', 9월 1일 전 세계 최초 IMAX 개봉 확정]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000100972</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000100972"/>
-        <updated>2021-08-17T07:14:25.718Z</updated>
-        <content type="html"><![CDATA[샹치·데스 딜러 등 캐릭터 포스터 6종 공개도 마블 신작 영화 '샹치'가 국내에서 전 세계 최초로 개봉된다. 17일 월트디즈니컴퍼니코리아에 따르면 영화 '샹치와 텐 링즈의 전설'(이하 '샹치')이 오는 9월 1일 전]]></content>
     </entry>
 </feed>
