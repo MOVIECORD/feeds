@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Aug 2021 00:47:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 01:56:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,20 +40,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8c183d3a3ac7d926c9aac443a650211a7e5494f4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[보스 베이비 2]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=143722</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=143722</guid>
-            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.07.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ab1a372dd93ced3c357eabb8e01f3f5d6003267" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[하이큐!! 땅 VS 하늘]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137824</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137824</guid>
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.08.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F96dd30921f935279b8fa9f5d013d0b831be01410" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[보스 베이비 2]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143722</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143722</guid>
+            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.07.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ab1a372dd93ced3c357eabb8e01f3f5d6003267" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[블랙 위도우]]></title>
@@ -104,20 +104,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa89dc80a0838884bbe5b7da0240ff9664b789c48" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 도라에몽: 진구의 신공룡]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=137663</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=137663</guid>
-            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb977b780889f7deacdb55996768edf5f4bb28cfe" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[갈매기]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=141709</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=141709</guid>
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.07.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e4a6d6f2257710d32cc80a3badf784fa2bd2170" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 도라에몽: 진구의 신공룡]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137663</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137663</guid>
+            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb977b780889f7deacdb55996768edf5f4bb28cfe" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[암살자들]]></title>
