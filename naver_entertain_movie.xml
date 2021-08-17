@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-17T11:13:19.198Z</updated>
+    <updated>2021-08-17T12:24:16.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김혜수, '인질' 황정민 응원…"완전 홍보 요정"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010668984</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010668984"/>
+        <updated>2021-08-17T12:23:20.393Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]전재경 인턴 기자 = 배우 김혜수가 근황을 전했다. 김혜수는 17일 자신의 인스타그램에 "#황정민 #인질 #방역지침준수"라는 글과 함께 사진을 올렸다. 사진 속 김혜수는 황정민이 출연한 영화 '인질']]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["톰 하디의 컴백"…'베놈2' 10월 13일 국내 개봉[공식]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004457920</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004457920"/>
+        <updated>2021-08-17T12:23:20.395Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 액션 블록버스터 ‘베놈 2’가 10월 국내 극장 개봉을 확정하고 강렬한 메인 포스터를 공개했다. 전세계의 폭발적인 관심을 받고 있는 영화 ‘베놈 2: 렛 데어 비 카니지’(감독 앤디 서키스,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강렬 비주얼…‘베놈 2: 렛 데어 비 카니지’ 메인 포스터 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000928083</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000100972"/>
         <updated>2021-08-17T07:14:25.718Z</updated>
         <content type="html"><![CDATA[샹치·데스 딜러 등 캐릭터 포스터 6종 공개도 마블 신작 영화 '샹치'가 국내에서 전 세계 최초로 개봉된다. 17일 월트디즈니컴퍼니코리아에 따르면 영화 '샹치와 텐 링즈의 전설'(이하 '샹치')이 오는 9월 1일 전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공식]'보스베이비2' 90만 관객 돌파, 장기 흥행…여름 극장가 복병 등극]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003767582</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003767582"/>
-        <updated>2021-08-17T07:14:25.718Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 이승미 기자]애니메이션 영화 '보스 베이비2'가 여름 극장가 복병이 됐다. 영화진흥위원회 영화관입장권 통합전산망에 따르면 영화 '보스 베이비2'는 17일(화) 기준 누적 관객수 90만7883명을 동원하며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보이스' 김희원X박명훈, 극과 극 캐릭터..강렬 열연 시너지]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003467222</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003467222"/>
-        <updated>2021-08-17T07:14:25.718Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] 김희원, 박명훈이 '보이스'로 만나 강렬한 열연 시너지를 예고한다. 영화 '보이스'는 보이스피싱 조직의 덫에 걸려 모든 것을 잃게 된 '서준'(변요한)이 빼앗긴 돈을 되찾기 위해 중국에]]></content>
     </entry>
 </feed>
