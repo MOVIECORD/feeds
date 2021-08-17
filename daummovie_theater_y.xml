@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Aug 2021 01:56:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 02:25:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,14 +128,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F61ecbdccc2715770dc648753a620f507f3228841" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[정글 크루즈]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=129157</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=129157</guid>
-            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.07.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff489812c2c10a97480b43ce96d2a83626c279282" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[랑종]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=144859</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=144859</guid>
@@ -166,6 +158,14 @@
             <pubDate>Mon, 16 Aug 2021 03:16:37 GMT</pubDate>
             <content:encoded><![CDATA[21.07.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F21ff86e22d9f6510c7a186419f99c0d48ce844ff" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[생각의 여름]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=141716</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=141716</guid>
+            <pubDate>Tue, 17 Aug 2021 02:25:05 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F88b3e53689b8e60f9a3ee9f00692963a0cbfbb39" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
