@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-18T11:13:24.571Z</updated>
+    <updated>2021-08-18T12:24:48.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['기적' 9월 개봉 확정…박정민·이성민·임윤아·이수경, 기분 좋은 에너지]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001336617</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001336617"/>
+        <updated>2021-08-18T12:23:48.038Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '기적'(감독 이장훈)이 9월 개봉을 확정 짓고, 밝은 시너지를 담은 메인 포스터를 공개했다. '기적'은 오갈 수 있는 길은 기찻길밖에 없지만 정작 기차역은 없는 마을에 간이역 하나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박정민·이성민·임윤아 '기적', 추석에 찾아온다…9월 개봉]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010671064</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012606788"/>
         <updated>2021-08-18T09:15:03.748Z</updated>
         <content type="html"><![CDATA[한국 장편부문 수상…시민참여 마임 모티브 영화 (춘천=연합뉴스) 이상학 기자 = 강원도 춘천을 무대로 만든 영화 '요선'이 제17회 제천국제음악영화제에서 한국영화 장편 경쟁부문 작품상을 받았다. 이 영화는 모두 춘천]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['프리 가이' 조 키어리·우카시 암부카·숀 레비 감독…“협업이 주는 초월적인 힘”]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000045144</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000045144"/>
-        <updated>2021-08-18T08:17:07.650Z</updated>
-        <content type="html"><![CDATA[배우 조 키어리, “&lt;프리 가이&gt;는 AI의 가능성을 보여주는 영화다” -코미디영화는 처음이다. =라이언 레이놀즈, 타이카 와이티티처럼 코미디에 능한 배우들과 함께하면서 배운 게 정말 많다. 어려운 상황에 처해도 부끄]]></content>
     </entry>
 </feed>
