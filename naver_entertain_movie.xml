@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-18T20:16:28.024Z</updated>
+    <updated>2021-08-18T21:14:46.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[생생확대경]극장 고사 현실화…실질적 지원 필요]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005014212</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005014212"/>
+        <updated>2021-08-18T21:13:45.346Z</updated>
+        <content type="html"><![CDATA[오는 31일 영업 종료하는 서울극장 [이데일리 스타in 박미애 기자] 1990년대 한국 영화의 부흥을 이끈 서울 종로의 서울극장이 오는 31일로 42년 만에 문을 닫는다. 한국 영화 역사의 한 페이지가 사라지는 것이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘싱크홀’ 김지훈 감독 “이광수 욕설, 신의 한 수”(V라이브)[어제TV]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000480539</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000480539"/>
+        <updated>2021-08-18T21:13:45.349Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 송오정 기자] 영화 '싱크홀' 배우들이 재치 있는 입담은 물론, 프로페셔널한 연기자 면모를 뽐냈다. 8월 18일 네이버 V MOVIE 채널에서는 영화 '싱크홀' 무비토크 라이브가 진행됐다. 이날 배우 차승원]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘만 반복되는 절망적인 삶… 두 남녀에게 내일은 올까]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001465175</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000480464"/>
         <updated>2021-08-18T09:15:03.743Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 박정민, 이성민, 임윤아, 이수경 주연 '기적'이 9월 개봉한다. 영화 '기적'(감독 이장훈)은 오갈 수 있는 길은 기찻길밖에 없지만 정작 기차역은 없는 마을에 간이역 하나 생기는 게 유일한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박정민X이성민X임윤아 출연 '기적' 올 추석 개봉 확정]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000131145</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000131145"/>
-        <updated>2021-08-18T09:15:03.743Z</updated>
-        <content type="html"><![CDATA[박정민, 이성민, 임윤아, 이수경의 첫 만남으로 기대를 모으는 영화 '기적'이 9월 개봉을 확정 짓고, 밝은 시너지를 담은 메인 포스터를 공개했다. [감독 이장훈 | 제작 블러썸픽쳐스 | 제공/배급 롯데엔터테인먼트]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박정민 임윤아 '기적', 9월 개봉 확정]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004840088</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004840088"/>
-        <updated>2021-08-18T09:15:03.743Z</updated>
-        <content type="html"><![CDATA[영화 ‘기적’이 9월 개봉을 확정 짓고, 밝은 시너지를 담은 메인 포스터를 공개했다. ‘기적’은 오갈 수 있는 길은 기찻길밖에 없지만 정작 기차역은 없는 마을에 간이역 하나 생기는 게 유일한 인생 목표인 ‘준경’(박]]></content>
     </entry>
 </feed>

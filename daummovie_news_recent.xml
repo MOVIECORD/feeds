@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-08-18T20:16:28.059Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 18 Aug 2021 21:14:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['인질' 필감성 감독 "처음부터 황정민 배우가 1순위" [쿠키인터뷰]]]></title>
+            <link>https://v.daum.net/v/20210819060802510</link>
+            <guid>https://v.daum.net/v/20210819060802510</guid>
+            <pubDate>Wed, 18 Aug 2021 21:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[[쿠키뉴스] 이준범 기자 = 언제 누가 납치될지 모른다. 영화 ‘인질’은 현실에서 겪을 수 있는 범죄의 무서움을 체험시켜주는 영화다. 배우 황정민이 자신을 모델로 한 황정민 역할을 맡아 현실감을 더했다. 갑자기 납치된 황정민은 자신이 왜 인질이 됐는지 모른다. 이유를 모른다는 사실에서 오는 공포와 쉽게 빠져나가기 어렵다는 무력함이 관객들을 찾아올 때, 영]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Fkukinews%2F20210819060803599rcfd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[생생확대경]극장 고사 현실화..실질적 지원 필요]]></title>
+            <link>https://v.daum.net/v/20210819060010243</link>
+            <guid>https://v.daum.net/v/20210819060010243</guid>
+            <pubDate>Wed, 18 Aug 2021 21:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[오는 31일 영업 종료하는 서울극장[이데일리 스타in 박미애 기자] 1990년대 한국 영화의 부흥을 이끈 서울 종로의 서울극장이 오는 31일로 42년 만에 문을 닫는다. 한국 영화 역사의 한 페이지가 사라지는 것이다. 대형 극장에 밀려 쇠퇴하고 있던 상황에서 지난해부터 이어진 코로나19가 결정타를 입혔다. 서울극장의 영업종료는 영화산업의 지각변동, 다시]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2FEdaily%2F20210819060014943cvwz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['싱크홀' 김지훈 감독 "이광수 욕설, 신의 한 수"(V라이브)[어제TV]]]></title>
+            <link>https://v.daum.net/v/20210819054835167</link>
+            <guid>https://v.daum.net/v/20210819054835167</guid>
+            <pubDate>Wed, 18 Aug 2021 21:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 송오정 기자] 영화 '싱크홀' 배우들이 재치 있는 입담은 물론, 프로페셔널한 연기자 면모를 뽐냈다. 8월 18일 네이버 V MOVIE 채널에서는 영화 '싱크홀' 무비토크 라이브가 진행됐다. 이날 배우 차승원·김성균·이광수·김혜준·권소현과 김지훈 감독이 자리에 참석했다. 이날 '찐웃음&amp;찐공감 명장면 베스트5' 코너를 통해 영화 속 명장면을 살펴보는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Fnewsen%2F20210819054835398rfth.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
