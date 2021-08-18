@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Aug 2021 05:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 06:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<아-하: 테이크 온 미> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/421603383?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/421603383?act=clip</guid>
+            <pubDate>Wed, 18 Aug 2021 06:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:56]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv46fa7bsf11zkxmeajro8ynd%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33186173050%26signature%3DcuorbuN91K3zruLNU8N2DEAzthg%253D%26ts%3D1629264250" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<신용문객잔2 : 대막강호> 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/421601187?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/421481615?act=clip</guid>
             <pubDate>Fri, 13 Aug 2021 08:17:02 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:10]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpsyjgsyrwpbe5dkwbe51w31%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185748578%26signature%3D64p9yCs902NVbrdJN9JQFYBt1f0%253D%26ts%3D1628839778" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpsyjgsyrwpbe5dkwbe51w31%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185748578%26signature%3D64p9yCs902NVbrdJN9JQFYBt1f0%253D%26ts%3D1628839778" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<맨 인 더 다크 2> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 12 Aug 2021 01:56:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvvqcd8zfrv6frc6s9kn7arzo%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185639882%26signature%3DbuxtA6muz1s7TBP5HNAQ7R7U6vY%253D%26ts%3D1628731082" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<모가디슈> 무삭제 클립 1탄]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/421446899?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/421446899?act=clip</guid>
-            <pubDate>Thu, 12 Aug 2021 01:56:45 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:59]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgl6fr2dya558q4jzj16xx9c%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33185639707%26signature%3DI0BT9Td%252BQGVfuX1MTzQrfNWX34g%253D%26ts%3D1628730907" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
