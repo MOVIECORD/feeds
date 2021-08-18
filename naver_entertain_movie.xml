@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-18T10:17:42.952Z</updated>
+    <updated>2021-08-18T11:13:24.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박정민·이성민·임윤아 '기적', 추석에 찾아온다…9월 개봉]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010671064</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010671064"/>
+        <updated>2021-08-18T11:12:26.179Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 강진아 기자 = 배우 박정민, 이성민, 임윤아, 이수경이 출연하는 영화 '기적'이 추석 극장가를 찾아온다. 18일 배급사 롯데엔터테인먼트에 따르면 '기적'은 오는 9월 개봉을 확정하고 이날 메인 포스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박정민X이성민X임윤아 ‘기적’, 9월 개봉확정 [공식]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000928318</id>
@@ -24,7 +31,7 @@
         <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000495517</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000495517"/>
         <updated>2021-08-18T10:16:42.569Z</updated>
-        <content type="html"><![CDATA[[텐아시아=김지원 기자] 배우 황정민이 영화판을 위해 통큰 결단을 했다. 실력있는 신인들의 길을 터주기 위해 몸값을 스스로 낮춘 것. 18일 텐아시아의 취재에 따르면 황정민은 영화 인질을 제작하는 과정에서 스스로 몸]]></content>
+        <content type="html"><![CDATA[[텐아시아=김지원 기자] 배우 황정민이 영화판을 위해 통큰 결단을 했다. 실력있는 신인들의 길을 터주기 위해 몸값을 스스로 낮춘 것. 황정민은 영화 '인질'에 제작지분 투자 형식으로 개런티를 조정하는 과감한 행보에]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["동거녀에 명품가방"…박유천, 역시 사람은 쉽게 안 변해(종합)[Oh!쎈 초점]]]></title>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000045144"/>
         <updated>2021-08-18T08:17:07.650Z</updated>
         <content type="html"><![CDATA[배우 조 키어리, “&lt;프리 가이&gt;는 AI의 가능성을 보여주는 영화다” -코미디영화는 처음이다. =라이언 레이놀즈, 타이카 와이티티처럼 코미디에 능한 배우들과 함께하면서 배운 게 정말 많다. 어려운 상황에 처해도 부끄]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['프리 가이' 라이언 레이놀즈·조디 코머…훌륭한 앙상블]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000045143</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000045143"/>
-        <updated>2021-08-18T08:17:07.656Z</updated>
-        <content type="html"><![CDATA[배우 라이언 레이놀즈, “코미디는 어렵지만 아름다운 소통 방법이다” -게임 캐릭터인 가이의 언캐니한 움직임을 어떻게 표현하려 했나. =가이를 4살쯤 된 어린아이라고 생각했다. 가이는 아이처럼 순수하고, 모든 걸 순진]]></content>
     </entry>
 </feed>
