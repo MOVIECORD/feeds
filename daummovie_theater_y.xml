@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Aug 2021 03:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 04:20:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,6 +144,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e4a6d6f2257710d32cc80a3badf784fa2bd2170" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[이번엔 잘 되겠지]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149340</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149340</guid>
+            <pubDate>Wed, 18 Aug 2021 04:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[21.07.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1b81193aa7887e67b8955543fb57892408db5f3f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[암살자들]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137980</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137980</guid>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 17 Aug 2021 03:16:38 GMT</pubDate>
             <content:encoded><![CDATA[21.07.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcc13e3cb1e3437a5bba140f8920babf86038a31d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[생각의 여름]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=141716</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=141716</guid>
-            <pubDate>Tue, 17 Aug 2021 15:16:44 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F88b3e53689b8e60f9a3ee9f00692963a0cbfbb39" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
