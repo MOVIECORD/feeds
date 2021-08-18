@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-18T18:19:09.381Z</updated>
+    <updated>2021-08-18T19:13:37.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘만 반복되는 절망적인 삶… 두 남녀에게 내일은 올까]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001465175</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001465175"/>
+        <updated>2021-08-18T19:12:35.962Z</updated>
+        <content type="html"><![CDATA[타임 루프 설정은 종종 철학적 질문을 던지는 데 유용한 도구가 된다. 영화 ‘어바웃 타임’은 과거로 돌아가서 내가 했던 선택을 바꿀 수 있다면 더 행복해질 수 있느냐고 묻는다. 영화 ‘팜 스프링스’( 사진 )는 선택]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[굿모닝]춘천영화 ‘요선'에 세계가 반하다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000856783</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004840088"/>
         <updated>2021-08-18T09:15:03.743Z</updated>
         <content type="html"><![CDATA[영화 ‘기적’이 9월 개봉을 확정 짓고, 밝은 시너지를 담은 메인 포스터를 공개했다. ‘기적’은 오갈 수 있는 길은 기찻길밖에 없지만 정작 기차역은 없는 마을에 간이역 하나 생기는 게 유일한 인생 목표인 ‘준경’(박]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오중 바르뎀, 극장 떴다…'마음백신 한국영화 접종 캠페인']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005549234</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005549234"/>
-        <updated>2021-08-18T09:15:03.743Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 영화진흥위원회(위원장 김영진)가 코로나19로 인해 위축된 한국영화산업에 활기를 더하고 있는 '마음백신 한국영화 접종 캠페인'을 이어가며 배우 권오중이 참여한 '오중 바르뎀의 한국영화]]></content>
     </entry>
 </feed>
