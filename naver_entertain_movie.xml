@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-19T18:19:24.001Z</updated>
+    <updated>2021-08-19T19:12:39.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“재난 상황에 코미디 접목… 빵빵 터집니다”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001465431</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001465431"/>
+        <updated>2021-08-19T19:11:45.790Z</updated>
+        <content type="html"><![CDATA[차승원의 코미디 연기 이력에서 영화 ‘싱크홀’은 색다른 경험이었다. 그는 “재난과 코미디를 접목한 게 좋았다”면서 “서로 다른 두 장르가 부딪히면서 의외의 웃음을 줄 수 있는 게 재미있었다”고 했다. 지난 11일 개]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["보이스피싱 백신 영화 되기를"…변요한 김무열의 '보이스']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000101463</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003468140"/>
         <updated>2021-08-19T09:15:27.148Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=천윤혜기자]차승원이 재난과 코믹의 결합이라는 '싱크홀'의 새로운 장르 속에서 빛을 발했다. '싱크홀'은 11년 만에 마련한 내 집이 지하 500m 초대형 싱크홀로 추락하며 벌어지는 재난 버스터. '싱크]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crossing the line]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000015367</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000015367"/>
-        <updated>2021-08-19T09:15:27.149Z</updated>
-        <content type="html"><![CDATA[The cast of upcoming crime action film “On the Line” — from left, actors Byun Yo-han, Kim Moo-yeol, Kim Hee-won an]]></content>
     </entry>
 </feed>
