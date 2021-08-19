@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-19T13:22:48.624Z</updated>
+    <updated>2021-08-19T14:15:31.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[제작보고회] 전직 형사 변요한-보이스피싱 사기꾼 김무열의 대결! '보이스']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000038145</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000038145"/>
+        <updated>2021-08-19T14:14:31.938Z</updated>
+        <content type="html"><![CDATA[전직 형사 변요한과 보이스피싱 사기꾼 김무열의 대결이 펼쳐지는 '보이스'가 극장가를 찾아온다. 19일 오전 11시 영화 '보이스'의 제작보고회가 온라인 생중계를 통해 열렸다. 이날 행사에는 배우 변요한, 김무열, 김]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지독한 타임루프 속에서 만난 사랑, 맥주 한잔 같은 청량함…영화 ‘팜 스프링스’ [리뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003092961</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004459120"/>
         <updated>2021-08-19T09:15:27.149Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 로맨스 영화 '영화의 거리'가 내달 16일 개봉을 확정하며 3차 포스터를 공개했다. '영화의 거리'(감독 김민근, 제작 제작사 눈(NOON), 배급 씨네소파)는 영화 로케이션 매니저와 감독으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제13회 DMZ국제다큐멘터리영화제, 개막작은 ‘수프와 이데올로기’]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004840570</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004840570"/>
-        <updated>2021-08-19T08:17:44.276Z</updated>
-        <content type="html"><![CDATA[제13회 DMZ국제다큐멘터리영화제(조직위원장 이재명, 집행위원장 정상진)(이하 DMZ Docs)가 개막작을 포함한 올해 영화제 상영작을 공개했다. 올해 DMZ Docs 개막작으로 선정된 작품은 ‘수프와 이데올로기’다]]></content>
     </entry>
 </feed>
