@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-19T09:16:32.031Z</updated>
+    <updated>2021-08-19T10:17:52.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이만희 감독 영화 검열자료 등 '한국영화사 X파일' 온라인 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012609445</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012609445"/>
+        <updated>2021-08-19T10:16:56.123Z</updated>
+        <content type="html"><![CDATA[한국영상자료원, 온라인 사료관에 검열자료 컬렉션 순차 업로드 (서울=연합뉴스) 강애란 기자 = '만추'. '삼포 가는 길' 등을 연출한 고(故) 이만희 감독의 영화 검열자료 등 국가가 문화예술에 가해온 검열의 증거물]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['조지아' 이채경, 쇼트쇼츠국제단편영화제 아시아 女주연상]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005015409</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005015409"/>
+        <updated>2021-08-19T10:16:56.125Z</updated>
+        <content type="html"><![CDATA[(사진=소속사 제공) [이데일리 스타in 김보영 기자] 배우 이채경이 자신이 주연인 단편영화 ‘조지아(감독 제이 박)’를 통해 제23회 쇼트쇼츠국제단편영화제((Short Shorts Film Festival, SSF]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["마동석=길가메시" '이터널스' 압도적 존재감…첫 포스터 공개 [Oh!쎈 예고]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004459170</id>
@@ -60,13 +74,6 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000038144"/>
         <updated>2021-08-19T09:15:27.145Z</updated>
         <content type="html"><![CDATA[2002년 대만에서 개봉된 영화 [남색대문]이 20년만에 한국 극장가에 정식 개봉되었다. 개봉에 맞춰 &lt;남색대문&gt;의 주연 배우 계륜미가 한국관객에게 깜작 인사의 동영상을 보내왔다. 공개된 ‘계륜미 한국 관객 인사 영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['싱크홀' 차승원, 33년 연륜 담긴 부성애…"나도 자식 사랑하는 부모"[인터뷰 종합]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004459144</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004459144"/>
-        <updated>2021-08-19T09:15:27.145Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] “예전엔 인위적으로 (캐릭터를) 만들기도 했었는데 이제는 저 스스로를 설득하고자 한다. 재난 상황에서도 인물의 감정에 집중했다. 저를 설득하려는 마음으로 연기했다.” 배우 차승원(52)이 영]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['세계적 베스트셀러 작가'가 시한부 판정 받고 남긴 것]]></title>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002981923"/>
         <updated>2021-08-19T08:17:44.305Z</updated>
         <content type="html"><![CDATA[배우 김선영과 이윤지가 주연을 맡은 영화 '드림팰리스'가 8월16일 촬영에 돌입했다. 19일 인디스토리는 이 같은 소식을 전하며 대본 리딩 및 고사현장 사진을 공개했다. '드림팰리스'(감독 가성문)는 새로운 삶을 꿈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['상영시간 4시간 이상' 광주극장 원데이 시네마 시즌2]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010673093</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010673093"/>
-        <updated>2021-08-19T08:17:44.310Z</updated>
-        <content type="html"><![CDATA[기사내용 요약 22일부터 11월까지 매월 4편 상영 [광주=뉴시스] 류형근 기자 = 4시간 이상의 상영 시간으로 인해 영화제를 통해서만 볼 수 있었던 작품을 광주극장이 연속 상영한다. 광주극장은 '2021년 시네마테]]></content>
     </entry>
 </feed>
