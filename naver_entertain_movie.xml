@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-19T14:15:31.203Z</updated>
+    <updated>2021-08-19T15:18:24.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["보이스피싱 백신 영화 되기를"…변요한 김무열의 '보이스']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000101463</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000101463"/>
+        <updated>2021-08-19T15:17:30.058Z</updated>
+        <content type="html"><![CDATA['쌍둥이 감독' 김선 김곡 감독 연출…9월 개봉 변요한 김무열 김희원 박명훈이 보이스피싱 범죄를 소재로 한 영화 '보이스'로 가을 극장가를 조준한다. 출연 배우들은 영화 '보이스'가 보이스피싱 범죄의 백신 같은 영화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[제작보고회] 전직 형사 변요한-보이스피싱 사기꾼 김무열의 대결! '보이스']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000038145</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000015367"/>
         <updated>2021-08-19T09:15:27.149Z</updated>
         <content type="html"><![CDATA[The cast of upcoming crime action film “On the Line” — from left, actors Byun Yo-han, Kim Moo-yeol, Kim Hee-won an]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한선화x이완 '영화의 거리', 9월 16일 개봉…3차 포스터 공개 [Oh!쎈 컷]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004459120</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004459120"/>
-        <updated>2021-08-19T09:15:27.149Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 로맨스 영화 '영화의 거리'가 내달 16일 개봉을 확정하며 3차 포스터를 공개했다. '영화의 거리'(감독 김민근, 제작 제작사 눈(NOON), 배급 씨네소파)는 영화 로케이션 매니저와 감독으]]></content>
     </entry>
 </feed>
