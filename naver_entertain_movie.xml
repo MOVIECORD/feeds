@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-19T20:16:23.008Z</updated>
+    <updated>2021-08-19T21:13:23.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마동석, SNS에 ‘이터널스’ 홍보…여친 예정화 흔적도 ‘눈길’]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=023&amp;aid=0003634935</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=023&amp;aid=0003634935"/>
+        <updated>2021-08-19T21:12:26.427Z</updated>
+        <content type="html"><![CDATA[올해 최대 기대작인 영화 ‘이터널스’(감독 클로이 자오)가 베일을 벗었다. 미국 영화 매거진 엔터테인먼트 위클리(EW)는 18일(현지 시각) ‘이터널스’ 캐릭터 포스터를 공개했다. ‘이터널스’는 수천년에 걸쳐 그 모]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“재난 상황에 코미디 접목… 빵빵 터집니다”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001465431</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002323894"/>
         <updated>2021-08-19T09:15:27.148Z</updated>
         <content type="html"><![CDATA[[미리 보는 영화] &lt;올리버 색스: 그의 생애&gt; 의학계의 시인, 베스트셀러 작가, 의식의 탐험가 등 수많은 수식어들로 불리는 신경학자 올리버 색스의 일생을 담은 다큐멘터리 영화 &lt;올리버 색스: 그의 생애&gt;가 오는 2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팝인터뷰]"배우 활동도 아이들 위해"..차승원, '싱크홀'→현실서도 부성애 가득한 아빠(종합)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003468140</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003468140"/>
-        <updated>2021-08-19T09:15:27.148Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=천윤혜기자]차승원이 재난과 코믹의 결합이라는 '싱크홀'의 새로운 장르 속에서 빛을 발했다. '싱크홀'은 11년 만에 마련한 내 집이 지하 500m 초대형 싱크홀로 추락하며 벌어지는 재난 버스터. '싱크]]></content>
     </entry>
 </feed>
