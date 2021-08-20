@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Aug 2021 14:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 15:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 단체들 “영화발전기금에 국고 지원해달라” (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000756861</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000756861</guid>
+            <pubDate>Fri, 20 Aug 2021 15:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 코로나19 장기화에 따른 타격으로 돌파구를 찾지 못하는 영화 업계가 정부를 향해 국고 지원을 호소했다. 한국영화프로듀서조합, 영화마케팅사협회, 한국영화감독조합 이사회 등 영화계 10개 단체는 20일 영]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[애프터스크리닝] 친구가 세상 전부였던 10대 시절의 자화상 '최선의 삶' ★★★ (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000131356</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 그룹 걸스데이 출신 겸 연기자 방민아가 '최선의 삶'을 소화한 소회를 밝혔다. 20일 오후 서울 용산구 CGV 용산아이파크몰에선 영화 '최선의 삶' 언론배급 시사회가 열렸다. 상영 종료]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[SE★현장] '최선의 삶' 방민아X심달기X한성민, 상처받은 열여덟 소녀들이 선택한 최선(종합) (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0003952469</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0003952469</guid>
-            <pubDate>Fri, 20 Aug 2021 09:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] 모든 것이 불안하고 예민하게만 느껴지는 열여덟 소녀들이 각자의 상황 속에서 더 나아지기 위해 탈출구를 찾아 나선다. 옳은 길이 아닐지라도, 그때 그 순간에 할 수 있는 최선의 선택이라고 믿으며 자신을 내]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[인질 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=127738</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=127738</guid>
@@ -255,20 +255,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4c82a5639003742ab571a36d61b6a7092229d9d4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[블랙 위도우 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=123215</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=123215</guid>
-            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.07.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff39274b0acd76f7c66f0a5fb9e5b7222ed37b373" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[보스 베이비 2 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143722</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143722</guid>
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.07.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ab1a372dd93ced3c357eabb8e01f3f5d6003267" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙 위도우 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=123215</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=123215</guid>
+            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.07.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff39274b0acd76f7c66f0a5fb9e5b7222ed37b373" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[하이큐!! 땅 VS 하늘 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -287,12 +287,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6dd33309d1b1b3a9e3aa6e65ddf1ebe229433eb3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[박강아름 결혼하다 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=134236</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=134236</guid>
+            <pubDate>Thu, 19 Aug 2021 00:41:16 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4da58d95b4b5b018e3a9726e9bb1b9b9e1970983" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[아이스 로드 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150693</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150693</guid>
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.07.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f98e5c0d73c95891b49493b7d62ba4480489df6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 그레이트 샤크 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150566</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150566</guid>
+            <pubDate>Fri, 20 Aug 2021 00:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa89dc80a0838884bbe5b7da0240ff9664b789c48" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[킬러의 보디가드 2: 킬러의 와이프 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -311,36 +327,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44cff9be3a13f0cf1746357f7d4dd58f248f5f2c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[박강아름 결혼하다 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=134236</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=134236</guid>
-            <pubDate>Thu, 19 Aug 2021 00:41:16 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4da58d95b4b5b018e3a9726e9bb1b9b9e1970983" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[더 그레이트 샤크 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150566</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150566</guid>
-            <pubDate>Fri, 20 Aug 2021 00:46:15 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa89dc80a0838884bbe5b7da0240ff9664b789c48" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[암살자들 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=137980</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=137980</guid>
-            <pubDate>Fri, 20 Aug 2021 12:24:27 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F61ecbdccc2715770dc648753a620f507f3228841" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 도라에몽: 진구의 신공룡 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137663</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137663</guid>
             <pubDate>Thu, 19 Aug 2021 08:17:52 GMT</pubDate>
             <content:encoded><![CDATA[21.08.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb977b780889f7deacdb55996768edf5f4bb28cfe" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[갈매기 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=141709</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=141709</guid>
+            <pubDate>Fri, 20 Aug 2021 15:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[21.07.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e4a6d6f2257710d32cc80a3badf784fa2bd2170" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[위쳐: 늑대의 악몽 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -511,20 +511,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fmydaily%2F20210820102248060nyhv.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA[집에서 몰래 마약 팔아서 50억 번 10대.. 그의 충격적 근황 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210819175400922</link>
-            <guid>https://movie.v.daum.net/v/20210819175400922</guid>
-            <pubDate>Thu, 19 Aug 2021 10:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[[김형욱 기자] ▲ &nbsp;넷플릭스 오리지널 다큐멘터리 &lt;샤이니_플레이크스&gt; 포스터.？    ⓒ 넷플릭스  &nbsp;얼마 전 넷플릭스 오리지널 드라마 시리즈 &lt;인터넷으로 마약을 파는 법&gt; 시즌3이 공개되었다. 수없이 많은 드라마 시리즈가 명멸하는 넷플릭스에서 당당하게 시즌3까지 만들어져 공개되었다면, 자타공인 성공했다고 말할 수 있을 테다. &lt;다크&gt; &lt;바]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Fohmynews%2F20210819175401915esdk.jpg" length="0" type="image//thumb/S732x228/"/>
-        </item>
-        <item>
             <title><![CDATA[[인터뷰 종합]"출연료 자진 삭감→가장 먼저 현장 출근"..'인질' 이유미, 황정민 향한 무한 존경심 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210819131155523</link>
             <guid>https://movie.v.daum.net/v/20210819131155523</guid>
             <pubDate>Fri, 20 Aug 2021 08:17:20 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠조선 이승미 기자] "황정민 선배님과 신예 배우들의 조화, 우리 영화의 매력이죠." 어느 날 새벽, 증거도 목격자도 없이 납치된 배우 황정민의 고군분투 탈출기를 그린 리얼리티 액션스릴러 영화 '인질'(필감성 감독, ㈜외유내강 제작). 극중 반소연 역을 맡은 이유미(27)가 19일 오전 화상 인터뷰를 통해 영화에 대한 이야기를 전했다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2FSpoChosun%2F20210819160049305wbwp.jpg" length="0" type="image//thumb/S384x240/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2FSpoChosun%2F20210819160049305wbwp.jpg" length="0" type="image//thumb/S732x228/"/>
+        </item>
+        <item>
+            <title><![CDATA[집에서 몰래 마약 팔아서 50억 번 10대.. 그의 충격적 근황 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210819175400922</link>
+            <guid>https://movie.v.daum.net/v/20210819175400922</guid>
+            <pubDate>Thu, 19 Aug 2021 10:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[[김형욱 기자] ▲ &nbsp;넷플릭스 오리지널 다큐멘터리 &lt;샤이니_플레이크스&gt; 포스터.？    ⓒ 넷플릭스  &nbsp;얼마 전 넷플릭스 오리지널 드라마 시리즈 &lt;인터넷으로 마약을 파는 법&gt; 시즌3이 공개되었다. 수없이 많은 드라마 시리즈가 명멸하는 넷플릭스에서 당당하게 시즌3까지 만들어져 공개되었다면, 자타공인 성공했다고 말할 수 있을 테다. &lt;다크&gt; &lt;바]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Fohmynews%2F20210819175401915esdk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[마약·폭력, 톰 크루즈와 라이벌이었던 배우의 몰락 (다음영화 뉴스 ─ 인기)]]></title>
@@ -551,20 +551,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fxportsnews%2F20210820110008631fzhy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[성녀가 되고자 했던 간병인, 그녀가 구원받지 못한 이유는.. (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210820092400399</link>
-            <guid>https://movie.v.daum.net/v/20210820092400399</guid>
-            <pubDate>Fri, 20 Aug 2021 01:54:21 GMT</pubDate>
-            <content:encoded><![CDATA[[김준모 기자] ▲ &nbsp;&lt;세인트 모드&gt; 포스터    ⓒ A24  &nbsp; &nbsp;영화 &lt;밀양&gt;에서 피아노 강사 신애는 자신의 아들을 유괴 살해한 도섭을 주님의 이름으로 용서하기 위해 교도소를 찾아간다. 그곳에서 신애는 자신이 용서하지 않았음에도 이미 주님에게 용서를 받았다 말하는 도섭에게 분노를 느낀다. 구원받지 못한 이가 구원을 말하는 아이러니에 염증이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fohmynews%2F20210820092401447eige.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['블랙 위도우' '모가디슈' 개봉..7월 극장 관객수 전년 대비 24.2%↑ (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210820153624813</link>
             <guid>https://movie.v.daum.net/v/20210820153624813</guid>
             <pubDate>Fri, 20 Aug 2021 09:15:36 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 전형화 기자] '블랙 위도우' '모가디슈' 등 대작 영화들이 개봉한 덕분에 사회적 거리두기 격상에도 불구하고 7월 극장 전체 매출액과 관객수는 전년에 비해 증가했다. 20일 영진위 한국영화산업결산 자료에 따르면 7월 극장 전체 매출액은 683억 원으로 전년 동월 대비 44.7%(211억 원 ↑) 증가했고, 7월 전체 관객 수는 698만 명으로 전]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fstarnews%2F20210820153627248mmrt.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[성녀가 되고자 했던 간병인, 그녀가 구원받지 못한 이유는.. (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210820092400399</link>
+            <guid>https://movie.v.daum.net/v/20210820092400399</guid>
+            <pubDate>Fri, 20 Aug 2021 01:54:21 GMT</pubDate>
+            <content:encoded><![CDATA[[김준모 기자] ▲ &nbsp;&lt;세인트 모드&gt; 포스터    ⓒ A24  &nbsp; &nbsp;영화 &lt;밀양&gt;에서 피아노 강사 신애는 자신의 아들을 유괴 살해한 도섭을 주님의 이름으로 용서하기 위해 교도소를 찾아간다. 그곳에서 신애는 자신이 용서하지 않았음에도 이미 주님에게 용서를 받았다 말하는 도섭에게 분노를 느낀다. 구원받지 못한 이가 구원을 말하는 아이러니에 염증이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fohmynews%2F20210820092401447eige.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[베일 벗은 마동석 '이터널스', 전 세계가 기다리는 마블 히어로들 (다음영화 뉴스 ─ 인기)]]></title>
@@ -591,20 +591,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Filgansports%2F20210819101404886lehb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['마블민국'..아시아 히어로물 통할까? (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210820065719457</link>
-            <guid>https://movie.v.daum.net/v/20210820065719457</guid>
-            <pubDate>Fri, 20 Aug 2021 00:46:31 GMT</pubDate>
-            <content:encoded><![CDATA[할리우드 첫 아시안 슈퍼 히어로 ‘샹치’. 9월1일 개봉하는 ‘샹치와 텐 링즈의 전설’의 주인공이다. 아시아적 정서까지 온전히 담아냈는지 여부는 아직 알려지지 않았다. 사진제공｜월츠디즈니컴퍼니코리아‘마블민국’. 미국 배급사 월드디즈니컴퍼니는 영화 ‘샹치와 텐 링즈의 전설’(샹치)을 9월1일 공개한다며 최근 한국을 이렇게 가리켰다. ‘샹치’는 할리우드 마블]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fsportsdonga%2F20210820065720605hret.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['맨 인 더 다크 2' 스티븐 랭, 숨 막히는 공포 예고 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210819170542235</link>
             <guid>https://movie.v.daum.net/v/20210819170542235</guid>
             <pubDate>Fri, 20 Aug 2021 09:15:36 GMT</pubDate>
             <content:encoded><![CDATA[[동아닷컴] ‘맨 인 더 다크 2’ 스티븐 랭, 숨 막히는 공포 예고 영화 ‘맨 인 더 다크 2’가 오는 9월 1일 개봉을 확정한 가운데, 전편에 이어 눈 먼 노인 '노먼' 역을 맡은 스티븐 랭이 다시 한 번 숨 막히는 공포를 안길 것으로 기대를 모으고 있다. 영화 ‘맨 인 더 다크 2’는 비밀스러운 과거를 간직한 소녀 '피닉스'와 함께 평온한 일상을 보]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Fsportsdonga%2F20210819170545084mfmz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['마블민국'..아시아 히어로물 통할까? (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210820065719457</link>
+            <guid>https://movie.v.daum.net/v/20210820065719457</guid>
+            <pubDate>Fri, 20 Aug 2021 00:46:31 GMT</pubDate>
+            <content:encoded><![CDATA[할리우드 첫 아시안 슈퍼 히어로 ‘샹치’. 9월1일 개봉하는 ‘샹치와 텐 링즈의 전설’의 주인공이다. 아시아적 정서까지 온전히 담아냈는지 여부는 아직 알려지지 않았다. 사진제공｜월츠디즈니컴퍼니코리아‘마블민국’. 미국 배급사 월드디즈니컴퍼니는 영화 ‘샹치와 텐 링즈의 전설’(샹치)을 9월1일 공개한다며 최근 한국을 이렇게 가리켰다. ‘샹치’는 할리우드 마블]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fsportsdonga%2F20210820065720605hret.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[지하세계에서 펼쳐지는 소외된 노동의 풍경화 (다음영화 뉴스 ─ 인기)]]></title>
@@ -631,6 +631,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fpoctan%2F20210820091427388iwkp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA["가족 관객의 압도적 선택"..'싱크홀', 세대별 관전 포인트 공개 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210820090848916</link>
+            <guid>https://movie.v.daum.net/v/20210820090848916</guid>
+            <pubDate>Fri, 20 Aug 2021 13:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 영화 '싱크홀'이 10대부터 50대까지 전 세대를 사로잡은 연령대별 관전 포인트를 공개했다. '싱크홀'(감독 김지훈)은 개봉 2주 차에도 폭발적인 입소문 흥행을 이어가고 있다. 특히 지난 주말 이틀 연속으로 2021년 한국 영화 일일 최다 관객수 기록을 세우며 확실한 주말 강자임을 입증한 바. 이번 주말에도 전 세대 관객들의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fmydaily%2F20210820090848278rkyv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['모가디슈'→'싱크홀'→'인질'..극장가 구원 나선 韓영화 3대장[이슈S] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210819152346250</link>
             <guid>https://movie.v.daum.net/v/20210819152346250</guid>
@@ -647,180 +655,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fnewsen%2F20210820164729752zxsz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["가족 관객의 압도적 선택"..'싱크홀', 세대별 관전 포인트 공개 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210820090848916</link>
-            <guid>https://movie.v.daum.net/v/20210820090848916</guid>
-            <pubDate>Fri, 20 Aug 2021 13:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 영화 '싱크홀'이 10대부터 50대까지 전 세대를 사로잡은 연령대별 관전 포인트를 공개했다. '싱크홀'(감독 김지훈)은 개봉 2주 차에도 폭발적인 입소문 흥행을 이어가고 있다. 특히 지난 주말 이틀 연속으로 2021년 한국 영화 일일 최다 관객수 기록을 세우며 확실한 주말 강자임을 입증한 바. 이번 주말에도 전 세대 관객들의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fmydaily%2F20210820090848278rkyv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['펜트하우스3' 온주완, 눈웃음으로 母벤져스 무장해제..숨은 반전 매력 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210820103327025</link>
             <guid>https://movie.v.daum.net/v/20210820103327025</guid>
             <pubDate>Fri, 20 Aug 2021 14:14:16 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=박판석 기자]&nbsp;SBS ‘미운 우리 새끼’에서는 ‘펜트하우스3’에서 압도적인 존재감으로 안방극장을 장악한 온주완이 의외의 반전 매력을 뽐내며 맘심을 저격한다. 이날 ‘찐단태’ 로 대활약 중인 배우 온주완이 등장하자 “전에 왔던 주단태(엄기준 분)는 짝퉁(?) 주단태, 이분이 진짜”라며 MC는 물론 母벤져스 모두 반갑게 맞이했다. 온주완은 ‘펜트하우]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fpoctan%2F20210820103328933fstx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[애프터스크리닝] 친구가 세상 전부였던 10대 시절의 자화상 '최선의 삶' ★★★ (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210820210400793</link>
-            <guid>https://v.daum.net/v/20210820210400793</guid>
-            <pubDate>Fri, 20 Aug 2021 12:24:51 GMT</pubDate>
-            <content:encoded><![CDATA[▶ 줄거리 18살 고등학생 ‘강이’, ‘아람’, ‘소영’. 소영은 공부도 잘하고 키도 크고 눈에 띄게 예뻐 뭘 해도 용서가 되는 친구였다. 그에 비해 늘 학교에서 자는게 일상인 '아람'과 '강이'. 이 둘이 뭘 하면 문제였지만 여기에 '소영'이 끼면 문제는 조금 쉽게 해결되었다. 선생님들은 '소영' 옆에 '아람'과 '강이'가 뭉쳐 다니는걸 못마땅하게 생]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2FiMBC%2F20210820210406803xuar.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['서울대작전' 측 "코로나19 확진자 발생→촬영 취소" [공식입장] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210820191004123</link>
-            <guid>https://v.daum.net/v/20210820191004123</guid>
-            <pubDate>Fri, 20 Aug 2021 10:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 최희재 기자) 넷플릭스 '서울대작전'이 코로나19 확진자로 인해 촬영을 중단했다. 넷플릭스 카체이싱 액션 블록버스터 영화 '서울대작전' 측 관계자는 20일 엑스포츠뉴스에 "촬영 스태프 중 확진자가 발생했다는 소식을 접한 직후 모두의 안전을 위해 예정된 촬영 일정을 즉각 취소했으며 전원 코로나 검사를 마쳤다"고 밝혔다. 이어 "이후 일정은 방]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fxportsnews%2F20210820191005453alcx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['최선의 삶' 방민아 "사람에게 받은 트라우마 떠올려"[종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210820180600019</link>
-            <guid>https://v.daum.net/v/20210820180600019</guid>
-            <pubDate>Fri, 20 Aug 2021 09:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[배우 방민아 심달기 한성민이 십대 소녀를 주인공으로 한 ‘최선의 삶’으로 뭉쳤다. 20일 오후 서울 CGV용산아이파크폴에서 영화 ‘최선의 삶’ 시사회 및 기자간담회가 열렸다. 코로나19 여파로 사전 촬영된 영상이 공개됐다. 이우정 감독과 배우 방민아 심달기 한성민이 참석했다. 동명 소설을 원작으로 한 '최선의 삶'은 열여덟 강이 아람 소영 더 나아지기]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fstartoday%2F20210820180606061fsxb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[빅픽처] '인질', 시작도 끝도 황정민..진짜와 가짜의 미묘한 줄타기 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210820180307928</link>
-            <guid>https://v.daum.net/v/20210820180307928</guid>
-            <pubDate>Fri, 20 Aug 2021 09:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS연예뉴스 | 김지혜 기자] '인질'(감독 필감성)은 황정민으로 시작해 황정민으로 끝나는 영화다. 대부분의 배우가 작품에서 가상의 인물을 연기하는데 반해 이 영화는 황정민에게 '배우 황정민'의 롤을 부여했다. 이 영화는 "톱배우가 납치됐다"는 설정에 실제 배우를 집어넣어 강력한 리얼리티를 확보한다. 단순히 황정민의 이름을 쓰는 데 그치지 않고 우리가]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2FSBSfunE%2F20210820180309420jqlf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[황정민이 세팅한 '인질' 9첩 반상 "흥행 실리 명분 다 잡았다"[무비와치] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210820175017632</link>
-            <guid>https://v.daum.net/v/20210820175017632</guid>
-            <pubDate>Fri, 20 Aug 2021 09:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] 황정민이 차린 밥상, 상다리가 부러진다. 본인 포함 정확히 9명, 비단 ‘9첩 반상’을 연상케 하는 화제작 ‘인질’ 출연진이 개봉과 동시에 화제다. ‘믿보배’ 타이틀을 자동 갱신 중인 황정민은 당연지사고, 메인 요리 맛을 더욱 돋우는 조연진 8명을 두고 관객들은 될 성 싶은 떡잎이었음을 입증하려는 듯 ‘여기 나왔던 누구’란 식의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fnewsen%2F20210820175018382uqkj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[18세 소녀의 삶 연기한 이 배우들.. "트라우마 떠올리며 쏟아냈다" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210820174206434</link>
-            <guid>https://v.daum.net/v/20210820174206434</guid>
-            <pubDate>Fri, 20 Aug 2021 09:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[[이선필 기자] ▲ '최선의 삶' 방민아-심달기-한성민&nbsp;방민아, 심달기, 한성민 배우가 20일 오후 비대면으로 열린 영화 &lt;최선의 삶&gt; 시사회에서 포즈를 취하고 있다. 임솔아 작가의 동명소설을 원작으로 한 &lt;최선의 삶&gt;은 더 나아지기 위해서 기꺼이 더 나빠졌던, 열여덟살 세 친구의 이상했고 무서웠고 좋아했던 그 시절 이야기를 그린 작품이다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fohmynews%2F20210820174207779tjav.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['모가디슈' 3주 연속 보고싶은 영화 1위..새로 개봉한 '인질' 3위 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210820173639296</link>
-            <guid>https://v.daum.net/v/20210820173639296</guid>
-            <pubDate>Fri, 20 Aug 2021 09:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박판석 기자]&nbsp;온라인 조사 회사 피앰아이(PMI)가 ‘궁금해결리워드앱, 무엇이든 물어볼! 헤이폴!’을 통해 20-50대 남녀 5,000명을 대상으로 질문한 결과, ‘모가디슈(16.4%)’가 3주 연속 ‘이번 주 가장 보고 싶은 영화’ 1위를 차지했다. ‘모가디슈’는 대한민국 외교 공관 철수를 주제로 한 영화로 1991년 소말리아의 수도 모가디슈에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fpoctan%2F20210820173639881mapc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[SE★현장] '최선의 삶' 방민아X심달기X한성민, 상처받은 열여덟 소녀들이 선택한 최선(종합) (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210820173313210</link>
-            <guid>https://v.daum.net/v/20210820173313210</guid>
-            <pubDate>Fri, 20 Aug 2021 09:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] 모든 것이 불안하고 예민하게만 느껴지는 열여덟 소녀들이 각자의 상황 속에서 더 나아지기 위해 탈출구를 찾아 나선다. 옳은 길이 아닐지라도, 그때 그 순간에 할 수 있는 최선의 선택이라고 믿으며 자신을 내던진다. 더 아픈 방식으로 상처를 치유해 나가려는 이 소녀들의 이야기는 먹먹하면서도 깊은 여운이 남는다. 20일 오후 서울 CGV용산아이파크몰]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fseouleconomy%2F20210820173314186piqm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['최선의 삶' 방민아 "타인에 상처받은 트라우마, 최대치로 떠올려.." [MD현장](종합) (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210820173245193</link>
-            <guid>https://v.daum.net/v/20210820173245193</guid>
-            <pubDate>Fri, 20 Aug 2021 09:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 그룹 걸스데이 출신 겸 연기자 방민아가 '최선의 삶'을 소화한 소회를 밝혔다. 20일 오후 서울 용산구 CGV 용산아이파크몰에선 영화 '최선의 삶' 언론배급 시사회가 열렸다. 상영 종료 후엔 연출자 이우정 감독과 주연 방민아·심달기·한성민이 참석, 무대인사를 진행했다. 기자간담회는 코로나19 확산세 및 극장 방역 지침에 따라]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fmydaily%2F20210820173245649iiam.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['최선의 삶', 두려움 딛은 방민아의 도전 "한 챕터 지나갈 듯" [종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210820173108165</link>
-            <guid>https://v.daum.net/v/20210820173108165</guid>
-            <pubDate>Fri, 20 Aug 2021 09:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 용산=강민경 기자] 방민아, 심달기, 한성민(왼쪽부터) /사진제공=(주)엣나인필름배우 방민아가 타인에게 상처 받은 트라우마를 안고 영화 '최선의 삶'에 도전했다. 20일 오후 서울 용산구 CGV용산아이파크몰에서 영화 '최선의 삶'(감독 이우정) 언론배급시사회가 열렸다. 시사 후에는 이우정 감독, 방민아, 심달기, 한성민이 짧게 무대 인사를 진행]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fstarnews%2F20210820173109322arva.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["반말 쓰며 친해져"..방민아·심달기·한성민, 원작 찢고 나온 '최선의 삶' [N현장](종합) (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210820173002110</link>
-            <guid>https://v.daum.net/v/20210820173002110</guid>
-            <pubDate>Fri, 20 Aug 2021 09:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 원작의 캐릭터들이 배우들의 몸을 입고 스크린에서 부활했다. 소설을 원작으로 한 '최선의 삶'은 방황하는 고등학생 주인공들의 섬세한 연기가 빛나는 작품이었다. 20일 오후 영화 '최선의 삶'(감독 이우정)의 언론배급시사회 후 이우정 감독과 주연 배우 방민아, 심달기, 한성민이 찍은 Q&amp;A 영상이 공개됐다. 기자간담회 대신]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2FNEWS1%2F20210820173004066jxnv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['최선의 삶' 방민아 "타인에게 상처받은 트라우마 有..많이 공감돼" [종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210820171410724</link>
-            <guid>https://v.daum.net/v/20210820171410724</guid>
-            <pubDate>Fri, 20 Aug 2021 08:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 방민아가 주인공으로 나선 '최선의 삶'이 관객들을 찾는다.&nbsp; 20일 오후 서울 용산구 CGV용산아이파크몰에서 영화 '최선의 삶'(감독 이우정) 언론시사회가 진행됐다. 이날 이우정 감독, 방민아, 심달기, 한성민이 참석했다.&nbsp; '최선의 삶'은 열여덟 강이(방민아 분), 아람(심달기), 소영(한성민). 더 나아지기 위해 기꺼이 더]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fxportsnews%2F20210820171412423gpic.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["마블의 힘"..'블랙 위도우', 2021년 7월 극장가 흥행 견인 [무비노트] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210820170206369</link>
-            <guid>https://v.daum.net/v/20210820170206369</guid>
-            <pubDate>Fri, 20 Aug 2021 08:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 마블의 '블랙 위도우'가 7월 극장가의 흥행을 견인했다. 영화진흥위원회는 2021년 7월 한국 영화산업 결산을 20일 발표했다. 발표에 따르면 사회적 거리두기 단계가 격상된 7월, '블랙 위도우'의 개봉으로 극장가 전체 매출액과 관객수가 증가했다. 7월 전체 매출액은 683억 원으로 전년 동월 대비 44.7%(211억 원)]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Ftvdaily%2F20210820170207603vlut.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["'최선의 삶', 도전"..걸데 출신 방민아, 최선의 감정 열연 [종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210820170107337</link>
-            <guid>https://v.daum.net/v/20210820170107337</guid>
-            <pubDate>Fri, 20 Aug 2021 08:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 그룹 걸스데이 출신 연기자 방민아가 '최선의 삶'으로 최선의 감정 연기를 펼쳤다. 20일 오후 서울 용산구 CGV 용산아이파크몰에선 영화 '최선의 삶' 언론배급 시사회가 열렸다. 상영 종료 후엔 연출자 이우정 감독과 주연 방민아·심달기·한성민이 참석, 무대인사를 진행했다. 기자간담회는 코로나19 확산세 및 극장 방역 지침에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fmydaily%2F20210820170108087onbn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['최선의 삶' 방민아 "뉴욕아시안영화제 라이징 스타상, 계속 라이징 할래" [N현장] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210820170005304</link>
-            <guid>https://v.daum.net/v/20210820170005304</guid>
-            <pubDate>Fri, 20 Aug 2021 08:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 방민아가 뉴욕아시안영화제에서 라이징 스타상을 받은 소감을 밝혔다. 방민아는 20일 오후 진행된 영화 '최선의 삶'(감독 이우정)의 언론배급시사회 후 공개된 Q&amp;A 영상에서 "친구들이 데뷔한지 꽤 됐는데 라이징 스타상 소감이 어떠냐고 묻더라"며 "나는 개인적으로 정말 좋다, 계속 라이징 하고 싶다"고 말했다. 이어]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2FNEWS1%2F20210820170007084wube.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['블랙위도우'·'모가디슈' 개봉한 7월 극장 관객 전년보다 증가 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210820165731240</link>
-            <guid>https://v.daum.net/v/20210820165731240</guid>
-            <pubDate>Fri, 20 Aug 2021 08:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 강애란 기자 = 스칼릿 조핸슨 주연의 '블랙 위도우', 류승완 감독의 '모가디슈' 등 여름 기대작들이 개봉하면서 올해 7월 극장 관객 수가 지난해보다 늘었다. 영화진흥위원회는 지난달 관객 수가 698만명으로 전년 동월 대비 24.2%(136만명) 늘었고, 매출액도 683억원으로 44.7%(211억원) 증가했다고 20일 밝혔다. 신종 코로나]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fyonhap%2F20210820165731635wxys.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['최선의 삶' 심달기 "친구 관계 위계질서 밖에 있는 아람, 나와 닮았다" [N현장] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210820165438144</link>
-            <guid>https://v.daum.net/v/20210820165438144</guid>
-            <pubDate>Fri, 20 Aug 2021 08:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 심달기가 '최선의 삶' 속 캐릭터 아람이 실제 자신의 어린 시절과 닮았다고 말했다. 심달기는 20일 오후 진행된 영화 '최선의 삶'(감독 이우정)의 언론배급시사회 후 공개된 Q&amp;A 영상에서 "아람이 실제 내 어린시절과 닮아 있어서 많이 놀랐다. 버려진 물건을 계속 주어 온다든가, 고양이에게 집착한다든가 하는 행동이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2FNEWS1%2F20210820165440071qulm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["계속 라이징 하고파" 방민아 '최선의 삶'으로 주연 우뚝→수상까지[종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210820165426135</link>
-            <guid>https://v.daum.net/v/20210820165426135</guid>
-            <pubDate>Fri, 20 Aug 2021 08:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] "계속 라이징 스타이고 싶다"는 방민아. 그가 '최선의 삶'을 통해 어엿한 주연으로 성장한 모습을 보여준다. 영화 '최선의 삶'(감독 이우정) 언론 시사회가 8월 20일 서울 용산구 CGV용산아이파크몰에서 열렸다. 영화 상영 후 이우정 감독, 방민아, 심달기, 한성민이 직접 답한 Q&amp;A 영상이 공개됐다. 코로나19 확산 방지를 위]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fnewsen%2F20210820165427497pdcs.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['최선의 삶' 방민아 "고등학생 역할, 어느새 거슬러 가야하더라" [N현장] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210820165003979</link>
-            <guid>https://v.daum.net/v/20210820165003979</guid>
-            <pubDate>Fri, 20 Aug 2021 08:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 방민아가 고등학생 역할을 위해 10년을 거슬러올라가야 했다며 소감을 밝혔다. 방민아는 20일 오후 진행된 영화 '최선의 삶'(감독 이우정)의 언론배급시사회 후 공개된 Q&amp;A 영상에서 "사람으로 인해서 나도 상처를 받았었으니까 그때의 기억을 최대치로 끌어올리는 수밖에 없었다"며 "어느덧 강이 연기를 하려면 10년을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2FNEWS1%2F20210820165004141kiry.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['서울대작전' 스태프 코로나19 확진 "촬영 즉각 취소, 전원 검사 마쳤다"[공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210820164728923</link>
-            <guid>https://v.daum.net/v/20210820164728923</guid>
-            <pubDate>Fri, 20 Aug 2021 08:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 김노을 기자] 넷플릭스 영화 '서울대작전'(감독 문현성)이 코로나19 확진자 발생으로 촬영을 중단했다. '서울대작전' 측 관계자는 8월 20일 뉴스엔에 "촬영 스태프 중 확진자가 발생했다는 소식을 접한 직후 모두의 안전을 위해 예정된 촬영 일정을 즉각 취소하고 전원 코로나 검사를 마쳤다"고 밝혔다. 관계자에 따르면 이후 촬영 일정은 방역당국의 지]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fnewsen%2F20210820164729752zxsz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<언더그라운드> 추천 영상 (우리 영화 볼래?)]]></title>
@@ -1147,7 +987,7 @@
             <link>https://tv.naver.com/v/21976826</link>
             <guid>https://tv.naver.com/v/21976826</guid>
             <pubDate>Fri, 20 Aug 2021 10:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210820_143/MnUWG_1629453719951EUpzy_JPEG/5e835056-019d-11ec-89ce-48df379ccacc_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1155,7 +995,7 @@
             <link>https://tv.naver.com/v/21975486</link>
             <guid>https://tv.naver.com/v/21975486</guid>
             <pubDate>Fri, 20 Aug 2021 09:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210820_85/n1qjd_1629449741568zhFDW_JPEG/310bfec1-0194-11ec-b6bf-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1163,7 +1003,7 @@
             <link>https://tv.naver.com/v/21975263</link>
             <guid>https://tv.naver.com/v/21975263</guid>
             <pubDate>Fri, 20 Aug 2021 09:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210820_39/ZOefA_1629449143573DAI0q_JPEG/c6896a29-0192-11ec-86ec-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1171,7 +1011,7 @@
             <link>https://tv.naver.com/v/21970997</link>
             <guid>https://tv.naver.com/v/21970997</guid>
             <pubDate>Fri, 20 Aug 2021 06:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210820_37/nSmmj_1629439636779yYBuV_JPEG/808735e5-017c-11ec-89ce-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1179,7 +1019,7 @@
             <link>https://tv.naver.com/v/21970804</link>
             <guid>https://tv.naver.com/v/21970804</guid>
             <pubDate>Fri, 20 Aug 2021 06:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210820_240/jK8Mo_1629439108653KhYQe_JPEG/7ed5aaee-017b-11ec-882d-48df37ae3dc4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1187,7 +1027,7 @@
             <link>https://tv.naver.com/v/21970108</link>
             <guid>https://tv.naver.com/v/21970108</guid>
             <pubDate>Fri, 20 Aug 2021 06:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210820_217/v4OA1_1629437304107AYrSK_JPEG/48541a41-0177-11ec-8e61-a0369ff94f34_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1195,7 +1035,7 @@
             <link>https://tv.naver.com/v/21969950</link>
             <guid>https://tv.naver.com/v/21969950</guid>
             <pubDate>Fri, 20 Aug 2021 06:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210820_6/Xm8AR_1629436887875yjpaX_JPEG/3fb94e21-0176-11ec-a509-a0369ff968b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1203,7 +1043,7 @@
             <link>https://tv.naver.com/v/21969817</link>
             <guid>https://tv.naver.com/v/21969817</guid>
             <pubDate>Fri, 20 Aug 2021 06:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210820_169/K4Mvn_1629436516766WVxF7_JPEG/1629436227651.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1211,7 +1051,7 @@
             <link>https://tv.naver.com/v/21969697</link>
             <guid>https://tv.naver.com/v/21969697</guid>
             <pubDate>Fri, 20 Aug 2021 05:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210820_16/FHCw5_1629436178412GuGea_JPEG/c2b81229-0174-11ec-b6bf-48df379cc9e4_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1219,7 +1059,7 @@
             <link>https://tv.naver.com/v/21969680</link>
             <guid>https://tv.naver.com/v/21969680</guid>
             <pubDate>Fri, 20 Aug 2021 05:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210820_234/gq1nQ_16294361315202vq4W_PNG/1629436127479.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -1227,7 +1067,7 @@
             <link>https://tv.naver.com/v/21966858</link>
             <guid>https://tv.naver.com/v/21966858</guid>
             <pubDate>Fri, 20 Aug 2021 03:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210820_74/4k1Be_1629426661423klliX_JPEG/6c1c733c-015e-11ec-9845-505dacfbaa5c_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1235,7 +1075,7 @@
             <link>https://tv.naver.com/v/21966310</link>
             <guid>https://tv.naver.com/v/21966310</guid>
             <pubDate>Fri, 20 Aug 2021 02:25:32 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210820_135/vKPDh_1629425039822iH5Jk_JPEG/b2981bde-015a-11ec-a9f1-505dac8c3639_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1243,7 +1083,7 @@
             <link>https://tv.naver.com/v/21966179</link>
             <guid>https://tv.naver.com/v/21966179</guid>
             <pubDate>Fri, 20 Aug 2021 02:25:32 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210820_173/q0uyR_1629424649029rFJTP_JPEG/7d20a0f2-0159-11ec-9845-505dacfbaa5c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1251,7 +1091,7 @@
             <link>https://tv.naver.com/v/21965943</link>
             <guid>https://tv.naver.com/v/21965943</guid>
             <pubDate>Fri, 20 Aug 2021 01:54:44 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210820_94/ipEbS_1629423941165l2WBR_JPEG/21a0aa48-0158-11ec-9d7e-a0369ff952f4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
