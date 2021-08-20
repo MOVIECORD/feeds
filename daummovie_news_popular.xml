@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Aug 2021 18:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 19:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fmydaily%2F20210820090848278rkyv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[지독한 타임루프 속에서 만난 사랑, 맥주 한잔 같은 청량함..영화 '팜 스프링스' [리뷰]]]></title>
+            <link>https://movie.v.daum.net/v/20210819215735447</link>
+            <guid>https://movie.v.daum.net/v/20210819215735447</guid>
+            <pubDate>Fri, 20 Aug 2021 16:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[[경향신문] 살면서 가장 행복했던 날이라고 해도 “100만번씩” 되풀이하고 싶지는 않을 것이다. 영화 &lt;팜 스프링스&gt;의 주인공 나일스(앤디 샘버그)는 유쾌할 것 하나 없는 어느 11월9일에 갇혀버렸다. 미국의 아름다운 휴양지 ‘팜 스프링스’에서 열리는 한 결혼식 날이다. 화창한 날씨에 신랑·신부는 충분히 행복해 보이지만 나일스에게는 뜯어볼수록 별로인 하루]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Fkhan%2F20210819215736894wmoo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['블랙핑크 더 무비' 관객 50만 육박..올해 이벤트 시네마 개봉작 중 최고]]></title>
             <link>https://movie.v.daum.net/v/20210820091426085</link>
             <guid>https://movie.v.daum.net/v/20210820091426085</guid>
@@ -150,14 +158,6 @@
             <pubDate>Fri, 20 Aug 2021 12:24:42 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스엔 김노을 기자] 넷플릭스 영화 '서울대작전'(감독 문현성)이 코로나19 확진자 발생으로 촬영을 중단했다. '서울대작전' 측 관계자는 8월 20일 뉴스엔에 "촬영 스태프 중 확진자가 발생했다는 소식을 접한 직후 모두의 안전을 위해 예정된 촬영 일정을 즉각 취소하고 전원 코로나 검사를 마쳤다"고 밝혔다. 관계자에 따르면 이후 촬영 일정은 방역당국의 지]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fnewsen%2F20210820164729752zxsz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[지독한 타임루프 속에서 만난 사랑, 맥주 한잔 같은 청량함..영화 '팜 스프링스' [리뷰]]]></title>
-            <link>https://movie.v.daum.net/v/20210819215735447</link>
-            <guid>https://movie.v.daum.net/v/20210819215735447</guid>
-            <pubDate>Fri, 20 Aug 2021 16:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[[경향신문] 살면서 가장 행복했던 날이라고 해도 “100만번씩” 되풀이하고 싶지는 않을 것이다. 영화 &lt;팜 스프링스&gt;의 주인공 나일스(앤디 샘버그)는 유쾌할 것 하나 없는 어느 11월9일에 갇혀버렸다. 미국의 아름다운 휴양지 ‘팜 스프링스’에서 열리는 한 결혼식 날이다. 화창한 날씨에 신랑·신부는 충분히 행복해 보이지만 나일스에게는 뜯어볼수록 별로인 하루]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Fkhan%2F20210819215736894wmoo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['펜트하우스3' 온주완, 눈웃음으로 母벤져스 무장해제..숨은 반전 매력]]></title>
