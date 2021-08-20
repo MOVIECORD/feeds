@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-20T19:13:08.222Z</updated>
+    <updated>2021-08-20T20:16:24.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['최선의 삶' 방민아, "라이징스타상? 계속 라이징하고 싶어"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000101649</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000101649"/>
+        <updated>2021-08-20T20:15:24.589Z</updated>
+        <content type="html"><![CDATA[각 자 방식으로 최선 다한 열여덟 소녀들의 이야기…9월 1일 개봉 가수 겸 배우 방민아가 영화 '최선의 삶'을 통해 상처 입은 열여덟 소녀를 연기한 소감과 해외 영화제에서 국제 라이징스타상을 받은 소회를 밝혔다. 방]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 단체들 “영화발전기금에 국고 지원해달라”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000756861</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004459941"/>
         <updated>2021-08-20T09:15:11.837Z</updated>
         <content type="html"><![CDATA[[OSEN=박판석 기자] 온라인 조사 회사 피앰아이(PMI)가 ‘궁금해결리워드앱, 무엇이든 물어볼! 헤이폴!’을 통해 20-50대 남녀 5,000명을 대상으로 질문한 결과, ‘모가디슈(16.4%)’가 3주 연속 ‘이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최선의 삶' 방민아 "타인에 상처받은 트라우마, 최대치로 떠올려…" [MD현장](종합)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003529106</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003529106"/>
-        <updated>2021-08-20T09:15:11.839Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 김나라 기자] 그룹 걸스데이 출신 겸 연기자 방민아가 '최선의 삶'을 소화한 소회를 밝혔다. 20일 오후 서울 용산구 CGV 용산아이파크몰에선 영화 '최선의 삶' 언론배급 시사회가 열렸다. 상영 종료]]></content>
     </entry>
 </feed>

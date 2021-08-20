@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-08-20T19:13:08.275Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 20 Aug 2021 20:16:24 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['최선의 삶' 방민아, "라이징스타상? 계속 라이징하고 싶어"]]></title>
+            <link>https://v.daum.net/v/20210821050004407</link>
+            <guid>https://v.daum.net/v/20210821050004407</guid>
+            <pubDate>Fri, 20 Aug 2021 20:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[각 자 방식으로 최선 다한 열여덟 소녀들의 이야기…9월 1일 개봉 [더팩트ㅣ이한림 기자] 가수 겸 배우 방민아가 영화 '최선의 삶'을 통해 상처 입은 열여덟 소녀를 연기한 소감과 해외 영화제에서 국제 라이징스타상을 받은 소회를 밝혔다. 방민아는 20일 오후 서울 용산구 CGV용산아이파크몰에서 열린 '최선의 삶'(감독 이우정) 언론배급 시사회 이후 열린 기]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F21%2FTHEFACT%2F20210821050008342ohgz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
