@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Aug 2021 12:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 13:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Fohmynews%2F20210819175401915esdk.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
+            <title><![CDATA[[인터뷰 종합]"출연료 자진 삭감→가장 먼저 현장 출근"..'인질' 이유미, 황정민 향한 무한 존경심]]></title>
+            <link>https://movie.v.daum.net/v/20210819131155523</link>
+            <guid>https://movie.v.daum.net/v/20210819131155523</guid>
+            <pubDate>Fri, 20 Aug 2021 08:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자] "황정민 선배님과 신예 배우들의 조화, 우리 영화의 매력이죠." 어느 날 새벽, 증거도 목격자도 없이 납치된 배우 황정민의 고군분투 탈출기를 그린 리얼리티 액션스릴러 영화 '인질'(필감성 감독, ㈜외유내강 제작). 극중 반소연 역을 맡은 이유미(27)가 19일 오전 화상 인터뷰를 통해 영화에 대한 이야기를 전했다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2FSpoChosun%2F20210819160049305wbwp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[마약·폭력, 톰 크루즈와 라이벌이었던 배우의 몰락]]></title>
             <link>https://movie.v.daum.net/v/20210820100900126</link>
             <guid>https://movie.v.daum.net/v/20210820100900126</guid>
@@ -32,12 +40,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fohmynews%2F20210820100901487uzsz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰 종합]"출연료 자진 삭감→가장 먼저 현장 출근"..'인질' 이유미, 황정민 향한 무한 존경심]]></title>
-            <link>https://movie.v.daum.net/v/20210819131155523</link>
-            <guid>https://movie.v.daum.net/v/20210819131155523</guid>
+            <title><![CDATA[벼랑 끝 영화계 "韓 영화 산업 붕괴 중..국고 직접 지원을" 호소]]></title>
+            <link>https://movie.v.daum.net/v/20210820162013117</link>
+            <guid>https://movie.v.daum.net/v/20210820162013117</guid>
             <pubDate>Fri, 20 Aug 2021 08:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이승미 기자] "황정민 선배님과 신예 배우들의 조화, 우리 영화의 매력이죠." 어느 날 새벽, 증거도 목격자도 없이 납치된 배우 황정민의 고군분투 탈출기를 그린 리얼리티 액션스릴러 영화 '인질'(필감성 감독, ㈜외유내강 제작). 극중 반소연 역을 맡은 이유미(27)가 19일 오전 화상 인터뷰를 통해 영화에 대한 이야기를 전했다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2FSpoChosun%2F20210819160049305wbwp.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[서울경제] 영화계가 20일 코로나 19로 인한 영화 산업 피해의 심각성을 강조하면서 정부에 직접적인 국고 지원을 호소하고 나섰다. 현재 극장 관객 수는 코로나 19 이전 대비 70% 이상 줄어들었고, 당장 크게 회복될 기미도 보이지 않고 있다. 이에 한국영화프로듀서조합, 영화마케팅사협회, 한국영화감독조합 이사회, 한국영화미술감독조합, 한국영화녹음감독협]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fseouleconomy%2F20210820162016684jdqf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[성녀가 되고자 했던 간병인, 그녀가 구원받지 못한 이유는..]]></title>
@@ -64,12 +72,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Filgansports%2F20210820082336628dosq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[벼랑 끝 영화계 "韓 영화 산업 붕괴 중..국고 직접 지원을" 호소]]></title>
-            <link>https://movie.v.daum.net/v/20210820162013117</link>
-            <guid>https://movie.v.daum.net/v/20210820162013117</guid>
-            <pubDate>Fri, 20 Aug 2021 08:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] 영화계가 20일 코로나 19로 인한 영화 산업 피해의 심각성을 강조하면서 정부에 직접적인 국고 지원을 호소하고 나섰다. 현재 극장 관객 수는 코로나 19 이전 대비 70% 이상 줄어들었고, 당장 크게 회복될 기미도 보이지 않고 있다. 이에 한국영화프로듀서조합, 영화마케팅사협회, 한국영화감독조합 이사회, 한국영화미술감독조합, 한국영화녹음감독협]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fseouleconomy%2F20210820162016684jdqf.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['블랙 위도우' '모가디슈' 개봉..7월 극장 관객수 전년 대비 24.2%↑]]></title>
+            <link>https://movie.v.daum.net/v/20210820153624813</link>
+            <guid>https://movie.v.daum.net/v/20210820153624813</guid>
+            <pubDate>Fri, 20 Aug 2021 09:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] '블랙 위도우' '모가디슈' 등 대작 영화들이 개봉한 덕분에 사회적 거리두기 격상에도 불구하고 7월 극장 전체 매출액과 관객수는 전년에 비해 증가했다. 20일 영진위 한국영화산업결산 자료에 따르면 7월 극장 전체 매출액은 683억 원으로 전년 동월 대비 44.7%(211억 원 ↑) 증가했고, 7월 전체 관객 수는 698만 명으로 전]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fstarnews%2F20210820153627248mmrt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['모가디슈', 소말리아인줄 알았던 모로코 촬영의 비하인드]]></title>
@@ -88,28 +96,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Filgansports%2F20210819101404886lehb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['블랙 위도우' '모가디슈' 개봉..7월 극장 관객수 전년 대비 24.2%↑]]></title>
-            <link>https://movie.v.daum.net/v/20210820153624813</link>
-            <guid>https://movie.v.daum.net/v/20210820153624813</guid>
-            <pubDate>Fri, 20 Aug 2021 09:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] '블랙 위도우' '모가디슈' 등 대작 영화들이 개봉한 덕분에 사회적 거리두기 격상에도 불구하고 7월 극장 전체 매출액과 관객수는 전년에 비해 증가했다. 20일 영진위 한국영화산업결산 자료에 따르면 7월 극장 전체 매출액은 683억 원으로 전년 동월 대비 44.7%(211억 원 ↑) 증가했고, 7월 전체 관객 수는 698만 명으로 전]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fstarnews%2F20210820153627248mmrt.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['마블민국'..아시아 히어로물 통할까?]]></title>
             <link>https://movie.v.daum.net/v/20210820065719457</link>
             <guid>https://movie.v.daum.net/v/20210820065719457</guid>
             <pubDate>Fri, 20 Aug 2021 00:46:31 GMT</pubDate>
             <content:encoded><![CDATA[할리우드 첫 아시안 슈퍼 히어로 ‘샹치’. 9월1일 개봉하는 ‘샹치와 텐 링즈의 전설’의 주인공이다. 아시아적 정서까지 온전히 담아냈는지 여부는 아직 알려지지 않았다. 사진제공｜월츠디즈니컴퍼니코리아‘마블민국’. 미국 배급사 월드디즈니컴퍼니는 영화 ‘샹치와 텐 링즈의 전설’(샹치)을 9월1일 공개한다며 최근 한국을 이렇게 가리켰다. ‘샹치’는 할리우드 마블]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fsportsdonga%2F20210820065720605hret.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['블랙핑크 더 무비' 관객 50만 육박..올해 이벤트 시네마 개봉작 중 최고]]></title>
-            <link>https://movie.v.daum.net/v/20210820091426085</link>
-            <guid>https://movie.v.daum.net/v/20210820091426085</guid>
-            <pubDate>Fri, 20 Aug 2021 00:46:31 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자]&nbsp;블랙핑크가 무대뿐 아닌 스크린에서도 맹활약 중이다. 시간과 공간의 제약을 넘어선 이들의 특별한 행보에 글로벌 K팝 팬들의 반응이 뜨겁다. 배급사 CJ 4DPLEX와 트라팔가 릴리징(Trafalgar Releasing)에 따르면 영화 '블랙핑크 더 무비'는 지금까지 총 500만 달러(8월 19일 기준) 가까운 수익을 올렸다. 이는 올]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fpoctan%2F20210820091427388iwkp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['맨 인 더 다크 2' 스티븐 랭, 숨 막히는 공포 예고]]></title>
@@ -120,20 +112,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Fsportsdonga%2F20210819170545084mfmz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[휴 잭맨 '레미니센스', 신화와 고전 누아르 영화의 결합]]></title>
-            <link>https://movie.v.daum.net/v/20210820091957277</link>
-            <guid>https://movie.v.daum.net/v/20210820091957277</guid>
-            <pubDate>Fri, 20 Aug 2021 08:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]8월 25일 개봉하는 영화 '레미니센스'의 리사 조이 감독이 이번 영화에 신화와 고전 누아르 영화를 조화시켰다고 밝혀 눈길을 끈다. '레미니센스'는 가까운 미래, 사라진 사랑을 찾아나선 한 남자가 기억을 통한 과거로의 여행에 얽힌 음모와 진실을 마주하며 벌어지는 위험한 추적을 그린다. 영화의 제목인 레미니센스(reminisce]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fmydaily%2F20210820091957173zwcd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[지하세계에서 펼쳐지는 소외된 노동의 풍경화]]></title>
             <link>https://movie.v.daum.net/v/20210820143900966</link>
             <guid>https://movie.v.daum.net/v/20210820143900966</guid>
             <pubDate>Fri, 20 Aug 2021 08:17:20 GMT</pubDate>
             <content:encoded><![CDATA[[김상목 기자] 지하철은 한국의 대도시 권역에서는 버스와 함께 시민의 발로 기능하는 대표적 교통수단이다. 특히 버스에 비해 일정 규모 이상, 소위 메트로폴리스 급 이상의 광역도시권에서 볼 수 있는 특성 때문에 단순한 교통수단을 넘어 도시정책의 핵심적인 요소로 인정받는 영역이기도 하다. 지하철 관련 공약은 광역지자체 선거에서 늘 최우선 과제로 자리매김하고 있]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fohmynews%2F20210820143901656shlm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['블랙핑크 더 무비' 관객 50만 육박..올해 이벤트 시네마 개봉작 중 최고]]></title>
+            <link>https://movie.v.daum.net/v/20210820091426085</link>
+            <guid>https://movie.v.daum.net/v/20210820091426085</guid>
+            <pubDate>Fri, 20 Aug 2021 00:46:31 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자]&nbsp;블랙핑크가 무대뿐 아닌 스크린에서도 맹활약 중이다. 시간과 공간의 제약을 넘어선 이들의 특별한 행보에 글로벌 K팝 팬들의 반응이 뜨겁다. 배급사 CJ 4DPLEX와 트라팔가 릴리징(Trafalgar Releasing)에 따르면 영화 '블랙핑크 더 무비'는 지금까지 총 500만 달러(8월 19일 기준) 가까운 수익을 올렸다. 이는 올]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fpoctan%2F20210820091427388iwkp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[휴 잭맨 '레미니센스', 신화와 고전 누아르 영화의 결합]]></title>
+            <link>https://movie.v.daum.net/v/20210820091957277</link>
+            <guid>https://movie.v.daum.net/v/20210820091957277</guid>
+            <pubDate>Fri, 20 Aug 2021 08:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]8월 25일 개봉하는 영화 '레미니센스'의 리사 조이 감독이 이번 영화에 신화와 고전 누아르 영화를 조화시켰다고 밝혀 눈길을 끈다. '레미니센스'는 가까운 미래, 사라진 사랑을 찾아나선 한 남자가 기억을 통한 과거로의 여행에 얽힌 음모와 진실을 마주하며 벌어지는 위험한 추적을 그린다. 영화의 제목인 레미니센스(reminisce]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fmydaily%2F20210820091957173zwcd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['모가디슈'→'싱크홀'→'인질'..극장가 구원 나선 韓영화 3대장[이슈S]]]></title>
@@ -160,12 +160,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Fsportsdonga%2F20210819145034047czjf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['펜트하우스3' 온주완, 눈웃음으로 母벤져스 무장해제..숨은 반전 매력]]></title>
-            <link>https://movie.v.daum.net/v/20210820103327025</link>
-            <guid>https://movie.v.daum.net/v/20210820103327025</guid>
-            <pubDate>Fri, 20 Aug 2021 01:54:21 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박판석 기자]&nbsp;SBS ‘미운 우리 새끼’에서는 ‘펜트하우스3’에서 압도적인 존재감으로 안방극장을 장악한 온주완이 의외의 반전 매력을 뽐내며 맘심을 저격한다. 이날 ‘찐단태’ 로 대활약 중인 배우 온주완이 등장하자 “전에 왔던 주단태(엄기준 분)는 짝퉁(?) 주단태, 이분이 진짜”라며 MC는 물론 母벤져스 모두 반갑게 맞이했다. 온주완은 ‘펜트하우]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fpoctan%2F20210820103328933fstx.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA["가족 관객의 압도적 선택"..'싱크홀', 세대별 관전 포인트 공개]]></title>
+            <link>https://movie.v.daum.net/v/20210820090848916</link>
+            <guid>https://movie.v.daum.net/v/20210820090848916</guid>
+            <pubDate>Fri, 20 Aug 2021 13:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 영화 '싱크홀'이 10대부터 50대까지 전 세대를 사로잡은 연령대별 관전 포인트를 공개했다. '싱크홀'(감독 김지훈)은 개봉 2주 차에도 폭발적인 입소문 흥행을 이어가고 있다. 특히 지난 주말 이틀 연속으로 2021년 한국 영화 일일 최다 관객수 기록을 세우며 확실한 주말 강자임을 입증한 바. 이번 주말에도 전 세대 관객들의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fmydaily%2F20210820090848278rkyv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
