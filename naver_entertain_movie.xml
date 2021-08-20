@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-20T11:13:37.260Z</updated>
+    <updated>2021-08-20T12:25:17.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[애프터스크리닝] 친구가 세상 전부였던 10대 시절의 자화상 '최선의 삶' ★★★]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000131356</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000131356"/>
+        <updated>2021-08-20T12:24:19.249Z</updated>
+        <content type="html"><![CDATA[▶ 줄거리 18살 고등학생 ‘강이’, ‘아람’, ‘소영’. 소영은 공부도 잘하고 키도 크고 눈에 띄게 예뻐 뭘 해도 용서가 되는 친구였다. 그에 비해 늘 학교에서 자는게 일상인 '아람'과 '강이'. 이 둘이 뭘 하면]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[리뷰] '코드 카림' 이탈리아 최대 범죄 조직에 잠입한 첩보 요원 카림]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000045177</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0003952469"/>
         <updated>2021-08-20T09:15:11.841Z</updated>
         <content type="html"><![CDATA[[서울경제] 모든 것이 불안하고 예민하게만 느껴지는 열여덟 소녀들이 각자의 상황 속에서 더 나아지기 위해 탈출구를 찾아 나선다. 옳은 길이 아닐지라도, 그때 그 순간에 할 수 있는 최선의 선택이라고 믿으며 자신을 내]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최선의 삶', 두려움 딛은 방민아의 도전 "한 챕터 지나갈 듯" [종합]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002982171</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002982171"/>
-        <updated>2021-08-20T09:15:11.843Z</updated>
-        <content type="html"><![CDATA[배우 방민아가 타인에게 상처 받은 트라우마를 안고 영화 '최선의 삶'에 도전했다. 20일 오후 서울 용산구 CGV용산아이파크몰에서 영화 '최선의 삶'(감독 이우정) 언론배급시사회가 열렸다. 시사 후에는 이우정 감독,]]></content>
     </entry>
 </feed>
