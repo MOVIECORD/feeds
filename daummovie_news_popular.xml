@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Aug 2021 01:54:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 02:25:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Filgansports%2F20210820082336628dosq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['모가디슈', 소말리아인줄 알았던 모로코 촬영의 비하인드]]></title>
+            <link>https://movie.v.daum.net/v/20210819152406273</link>
+            <guid>https://movie.v.daum.net/v/20210819152406273</guid>
+            <pubDate>Fri, 20 Aug 2021 00:46:31 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS연예뉴스 | 김지혜 기자] 영화 '모가디슈'가 해외 촬영의 생생함이 담긴 비하인드 스틸을 공개했다. '모가디슈'는 지난 18일 2021년 개봉한 한국 영화 최초로 누적 관객 250만 명을 돌파했다. 이를 기념해 투자배급사는 모로코 촬영장의 생생함과 박진감을 엿볼 수 있는 사진을 공개했다. 영화의 배경은 소말리아 수도인 모가디슈지만 실제 촬영은 모로코]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2FSBSfunE%2F20210819152408919tmtj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['인질' 이유미, 1000:1 뚫은 존재감 [필름:리포트]]]></title>
             <link>https://movie.v.daum.net/v/20210819132630804</link>
             <guid>https://movie.v.daum.net/v/20210819132630804</guid>
@@ -56,12 +64,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2FSBSfunE%2F20210819125102580kupv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['모가디슈', 소말리아인줄 알았던 모로코 촬영의 비하인드]]></title>
-            <link>https://movie.v.daum.net/v/20210819152406273</link>
-            <guid>https://movie.v.daum.net/v/20210819152406273</guid>
-            <pubDate>Fri, 20 Aug 2021 00:46:31 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS연예뉴스 | 김지혜 기자] 영화 '모가디슈'가 해외 촬영의 생생함이 담긴 비하인드 스틸을 공개했다. '모가디슈'는 지난 18일 2021년 개봉한 한국 영화 최초로 누적 관객 250만 명을 돌파했다. 이를 기념해 투자배급사는 모로코 촬영장의 생생함과 박진감을 엿볼 수 있는 사진을 공개했다. 영화의 배경은 소말리아 수도인 모가디슈지만 실제 촬영은 모로코]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2FSBSfunE%2F20210819152408919tmtj.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[귀신 없는 '귀신', 독특하고 신선한 공포 '눈길']]></title>
+            <link>https://movie.v.daum.net/v/20210819101403492</link>
+            <guid>https://movie.v.daum.net/v/20210819101403492</guid>
+            <pubDate>Fri, 20 Aug 2021 01:54:21 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘귀신’이 독특하고 신선한 전개로 색다른 재미를 선사한다. ‘귀신’은 귀신이 출몰한다는 강원도 폐교회를 배경으로 귀신 찍는 PD, 귀신 쫓는 무속인, 귀신 찾는 미스터리 동호회원 등 개성 넘치는 캐릭터들이 벌이는 이색적인 상황을 담는다. 산골 폐교회라는 공포의 공간에서 정체불명의 사람들이 나타나 예측할 수 없는 난감한 상황들이 연출돼 이제껏 본 적]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Filgansports%2F20210819101404886lehb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[마블 사상 최고, 진짜일까?..해외발 '샹치' 호평]]></title>
@@ -72,30 +80,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2FSBSfunE%2F20210819165706493tbhr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[김지원의 인서트] 아내는 만들고 남편은 찍고..'모가디슈·인질' 두 쌍 부부의 활약]]></title>
-            <link>https://movie.v.daum.net/v/20210819155901609</link>
-            <guid>https://movie.v.daum.net/v/20210819155901609</guid>
-            <pubDate>Thu, 19 Aug 2021 07:14:38 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자]≪김지원의 인서트≫영화 속 중요 포인트를 확대하는 인서트 장면처럼 김지원 텐아시아 기자가 매주 목요일 오후 영화계 이슈를 집중 조명합니다. 입체적 시각으로 화젯거리의 앞과 뒤를 세밀하게 살펴보겠습니다.&nbsp;두 쌍의 부부가 침체된 극장가에 훈풍을 불어넣고 있다. 영화 '모가디슈'와 '인질'에 참여한 이들의 얘기다. '모가디슈'의 제작사 대]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2F10asia%2F20210819155904552hspf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[귀신 없는 '귀신', 독특하고 신선한 공포 '눈길']]></title>
-            <link>https://movie.v.daum.net/v/20210819101403492</link>
-            <guid>https://movie.v.daum.net/v/20210819101403492</guid>
-            <pubDate>Fri, 20 Aug 2021 01:54:21 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘귀신’이 독특하고 신선한 전개로 색다른 재미를 선사한다. ‘귀신’은 귀신이 출몰한다는 강원도 폐교회를 배경으로 귀신 찍는 PD, 귀신 쫓는 무속인, 귀신 찾는 미스터리 동호회원 등 개성 넘치는 캐릭터들이 벌이는 이색적인 상황을 담는다. 산골 폐교회라는 공포의 공간에서 정체불명의 사람들이 나타나 예측할 수 없는 난감한 상황들이 연출돼 이제껏 본 적]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Filgansports%2F20210819101404886lehb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[이렇게 컸어? '리틀 소지섭' 이효제 '좋은사람' 스크린 컴백 '폭풍성장']]></title>
-            <link>https://movie.v.daum.net/v/20210818173232812</link>
-            <guid>https://movie.v.daum.net/v/20210818173232812</guid>
-            <pubDate>Thu, 19 Aug 2021 09:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[이효제가 한층 성장한 모습을 보인다. 제25회 부산국제영화제 2관왕에 빛나는 영화 '좋은 사람(정욱 감독)'에서 강렬한 존재감을 발휘한 이효제가 시선을 끈다. '좋은 사람'은 교실 도난 사건과 딸의 교통사고와 관련해 의심받고 있는 한 명의 학생 세익 그리고 좋은 사람이 되고 싶은 교사 경석이 의심과 믿음 속에 갇혀 딜레마에 빠지고 진실과 마주하게 되는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F18%2Filgansports%2F20210818173235984nbys.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['마블민국'..아시아 히어로물 통할까?]]></title>
             <link>https://movie.v.daum.net/v/20210820065719457</link>
             <guid>https://movie.v.daum.net/v/20210820065719457</guid>
@@ -104,12 +88,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fsportsdonga%2F20210820065720605hret.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[코로나 시국이라고 에어컨 끈 극장, 진상 관객의 최후]]></title>
-            <link>https://movie.v.daum.net/v/20210819150901628</link>
-            <guid>https://movie.v.daum.net/v/20210819150901628</guid>
-            <pubDate>Thu, 19 Aug 2021 10:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[[이선필 기자] &nbsp;        ▲ &nbsp;영화 &lt;습도 다소 높음&gt; 관련 이미지.    ⓒ 백지수표(주)  &nbsp;시종일관 사람들 이마에 땀이 송글송글 맺혀 있다. 푹푹 찌는 무더위에 코로나19 팬데믹으로 마스크를 벗을 수조차 없다. 극장에서 숨 좀 돌리려 하니 코로나 시국이라 감염을 예방한답시고 냉방기를 꺼버렸다. 누구는 소개팅을 위해 극장을 찾았고, 누구는 자신의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Fohmynews%2F20210819150905923svkg.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[김지원의 인서트] 아내는 만들고 남편은 찍고..'모가디슈·인질' 두 쌍 부부의 활약]]></title>
+            <link>https://movie.v.daum.net/v/20210819155901609</link>
+            <guid>https://movie.v.daum.net/v/20210819155901609</guid>
+            <pubDate>Thu, 19 Aug 2021 07:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자]≪김지원의 인서트≫영화 속 중요 포인트를 확대하는 인서트 장면처럼 김지원 텐아시아 기자가 매주 목요일 오후 영화계 이슈를 집중 조명합니다. 입체적 시각으로 화젯거리의 앞과 뒤를 세밀하게 살펴보겠습니다.&nbsp;두 쌍의 부부가 침체된 극장가에 훈풍을 불어넣고 있다. 영화 '모가디슈'와 '인질'에 참여한 이들의 얘기다. '모가디슈'의 제작사 대]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2F10asia%2F20210819155904552hspf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['블랙핑크 더 무비' 관객 50만 육박..올해 이벤트 시네마 개봉작 중 최고]]></title>
@@ -120,36 +104,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fpoctan%2F20210820091427388iwkp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['펜트하우스3' 온주완, 눈웃음으로 母벤져스 무장해제..숨은 반전 매력]]></title>
-            <link>https://movie.v.daum.net/v/20210820103327025</link>
-            <guid>https://movie.v.daum.net/v/20210820103327025</guid>
-            <pubDate>Fri, 20 Aug 2021 01:54:21 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박판석 기자]&nbsp;SBS ‘미운 우리 새끼’에서는 ‘펜트하우스3’에서 압도적인 존재감으로 안방극장을 장악한 온주완이 의외의 반전 매력을 뽐내며 맘심을 저격한다. 이날 ‘찐단태’ 로 대활약 중인 배우 온주완이 등장하자 “전에 왔던 주단태(엄기준 분)는 짝퉁(?) 주단태, 이분이 진짜”라며 MC는 물론 母벤져스 모두 반갑게 맞이했다. 온주완은 ‘펜트하우]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fpoctan%2F20210820103328933fstx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['싱크홀' 관객들 지하 500m 밑으로 같이 빠져든 모먼트들]]></title>
-            <link>https://movie.v.daum.net/v/20210819090432475</link>
-            <guid>https://movie.v.daum.net/v/20210819090432475</guid>
+            <title><![CDATA[이렇게 컸어? '리틀 소지섭' 이효제 '좋은사람' 스크린 컴백 '폭풍성장']]></title>
+            <link>https://movie.v.daum.net/v/20210818173232812</link>
+            <guid>https://movie.v.daum.net/v/20210818173232812</guid>
             <pubDate>Thu, 19 Aug 2021 09:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 개봉 2주 차 입소문 흥행 중인 '싱크홀'이 더위와 스트레스에 지친 관객들을 사로잡은 순간들을 담은 ‘싱쿵’ 모멘트 스틸을 공개했다. 영화 '싱크홀'(감독 김지훈)은 11년 만에 마련한 내 집이 지하 500m 초대형 싱크홀로 추락하며 벌어지는 재난 버스터로, 2021년 한국영화 최단 기간 100만 돌파와 개봉 첫 주 최다 관객 동]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Fnewsen%2F20210819090432278uhkr.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[이효제가 한층 성장한 모습을 보인다. 제25회 부산국제영화제 2관왕에 빛나는 영화 '좋은 사람(정욱 감독)'에서 강렬한 존재감을 발휘한 이효제가 시선을 끈다. '좋은 사람'은 교실 도난 사건과 딸의 교통사고와 관련해 의심받고 있는 한 명의 학생 세익 그리고 좋은 사람이 되고 싶은 교사 경석이 의심과 믿음 속에 갇혀 딜레마에 빠지고 진실과 마주하게 되는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F18%2Filgansports%2F20210818173235984nbys.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["남편 집에서 밥만 해, 내가 이렇게 가부장적인 줄 몰랐다"]]></title>
-            <link>https://movie.v.daum.net/v/20210819163300912</link>
-            <guid>https://movie.v.daum.net/v/20210819163300912</guid>
-            <pubDate>Thu, 19 Aug 2021 08:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[[이선필 기자] 한국사회의 결혼 제도를 비판하며 호기롭게 자신은 그렇게 살지 않을 자신이 있다던 감독이 직접 카메라를 들었다. 1982년생 박강아름 감독은 비혼주의자였던 남편 정성만씨를 설득해 연애했고, 결혼에 골인했다. 그리고 돌연 프랑스 유학길에 올랐는데 그 곁엔 성만씨도 함께 있었다. 자유와 평등의 나라 프랑스에서 이 부부는 무탈하게 생활할 수 있을까]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Fohmynews%2F20210819163302107aszn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[SC초점]"MCU 첫 韓히어로, 젊은세대에 영감 줄 것"..'이터널스' 마동석이 직접 밝힌 길가메시]]></title>
-            <link>https://movie.v.daum.net/v/20210819093431589</link>
-            <guid>https://movie.v.daum.net/v/20210819093431589</guid>
-            <pubDate>Thu, 19 Aug 2021 12:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이승미 기자]첫 할리우드 진출작이자 MCU(마블 시네마틱 유니버스)의 올해 최대 기대작 '이터널스'의 개봉을 앞두고 마동석이 캐릭터에 대해 직접 언급해 눈길을 끌고 있다. 미국 연예 매거진 엔터테인먼트 위클리(EW)는 클로이 자오 감독이 '이터널스'를 통해 공개할 새로운 히어로 10명에 대해 소개하는 기사를 독점 공개했다. 클로이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2FSpoChosun%2F20210819093431456ltzf.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[코로나 시국이라고 에어컨 끈 극장, 진상 관객의 최후]]></title>
+            <link>https://movie.v.daum.net/v/20210819150901628</link>
+            <guid>https://movie.v.daum.net/v/20210819150901628</guid>
+            <pubDate>Thu, 19 Aug 2021 10:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[[이선필 기자] &nbsp;        ▲ &nbsp;영화 &lt;습도 다소 높음&gt; 관련 이미지.    ⓒ 백지수표(주)  &nbsp;시종일관 사람들 이마에 땀이 송글송글 맺혀 있다. 푹푹 찌는 무더위에 코로나19 팬데믹으로 마스크를 벗을 수조차 없다. 극장에서 숨 좀 돌리려 하니 코로나 시국이라 감염을 예방한답시고 냉방기를 꺼버렸다. 누구는 소개팅을 위해 극장을 찾았고, 누구는 자신의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Fohmynews%2F20210819150905923svkg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['모가디슈'→'싱크홀'→'인질'..극장가 구원 나선 韓영화 3대장[이슈S]]]></title>
@@ -160,12 +128,44 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Fspotvnews%2F20210819152350353xtle.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['맨 인 더 다크2', 눈 먼 노인 스티븐 랭 돌아왔다..잔혹 광기]]></title>
-            <link>https://movie.v.daum.net/v/20210819134830386</link>
-            <guid>https://movie.v.daum.net/v/20210819134830386</guid>
+            <title><![CDATA['펜트하우스3' 온주완, 눈웃음으로 母벤져스 무장해제..숨은 반전 매력]]></title>
+            <link>https://movie.v.daum.net/v/20210820103327025</link>
+            <guid>https://movie.v.daum.net/v/20210820103327025</guid>
+            <pubDate>Fri, 20 Aug 2021 01:54:21 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박판석 기자]&nbsp;SBS ‘미운 우리 새끼’에서는 ‘펜트하우스3’에서 압도적인 존재감으로 안방극장을 장악한 온주완이 의외의 반전 매력을 뽐내며 맘심을 저격한다. 이날 ‘찐단태’ 로 대활약 중인 배우 온주완이 등장하자 “전에 왔던 주단태(엄기준 분)는 짝퉁(?) 주단태, 이분이 진짜”라며 MC는 물론 母벤져스 모두 반갑게 맞이했다. 온주완은 ‘펜트하우]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fpoctan%2F20210820103328933fstx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["남편 집에서 밥만 해, 내가 이렇게 가부장적인 줄 몰랐다"]]></title>
+            <link>https://movie.v.daum.net/v/20210819163300912</link>
+            <guid>https://movie.v.daum.net/v/20210819163300912</guid>
+            <pubDate>Thu, 19 Aug 2021 08:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[[이선필 기자] 한국사회의 결혼 제도를 비판하며 호기롭게 자신은 그렇게 살지 않을 자신이 있다던 감독이 직접 카메라를 들었다. 1982년생 박강아름 감독은 비혼주의자였던 남편 정성만씨를 설득해 연애했고, 결혼에 골인했다. 그리고 돌연 프랑스 유학길에 올랐는데 그 곁엔 성만씨도 함께 있었다. 자유와 평등의 나라 프랑스에서 이 부부는 무탈하게 생활할 수 있을까]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Fohmynews%2F20210819163302107aszn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['싱크홀' 관객들 지하 500m 밑으로 같이 빠져든 모먼트들]]></title>
+            <link>https://movie.v.daum.net/v/20210819090432475</link>
+            <guid>https://movie.v.daum.net/v/20210819090432475</guid>
+            <pubDate>Thu, 19 Aug 2021 09:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 개봉 2주 차 입소문 흥행 중인 '싱크홀'이 더위와 스트레스에 지친 관객들을 사로잡은 순간들을 담은 ‘싱쿵’ 모멘트 스틸을 공개했다. 영화 '싱크홀'(감독 김지훈)은 11년 만에 마련한 내 집이 지하 500m 초대형 싱크홀로 추락하며 벌어지는 재난 버스터로, 2021년 한국영화 최단 기간 100만 돌파와 개봉 첫 주 최다 관객 동]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Fnewsen%2F20210819090432278uhkr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[SC초점]"MCU 첫 韓히어로, 젊은세대에 영감 줄 것"..'이터널스' 마동석이 직접 밝힌 길가메시]]></title>
+            <link>https://movie.v.daum.net/v/20210819093431589</link>
+            <guid>https://movie.v.daum.net/v/20210819093431589</guid>
             <pubDate>Thu, 19 Aug 2021 12:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '맨 인 더 다크 2'(감독 로도 사야구에즈)가 오는 9월 1일 개봉을 확정한 가운데, 전편에 이어 눈 먼 노인 노먼 역을 맡은 스티븐 랭이 다시 한 번 숨 막히는 공포를 선사할 예정이다. '맨 인 더 다크 2'는 비밀스러운 과거를 간직한 소녀 피닉스와 함께 평온한 일상을 보내던 눈 먼 노인 노먼에게 의문의 괴한들]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2FNEWS1%2F20210819134832185hvls.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자]첫 할리우드 진출작이자 MCU(마블 시네마틱 유니버스)의 올해 최대 기대작 '이터널스'의 개봉을 앞두고 마동석이 캐릭터에 대해 직접 언급해 눈길을 끌고 있다. 미국 연예 매거진 엔터테인먼트 위클리(EW)는 클로이 자오 감독이 '이터널스'를 통해 공개할 새로운 히어로 10명에 대해 소개하는 기사를 독점 공개했다. 클로이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2FSpoChosun%2F20210819093431456ltzf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['세계적 베스트셀러 작가'가 시한부 판정 받고 남긴 것]]></title>
+            <link>https://movie.v.daum.net/v/20210819173302120</link>
+            <guid>https://movie.v.daum.net/v/20210819173302120</guid>
+            <pubDate>Fri, 20 Aug 2021 02:25:08 GMT</pubDate>
+            <content:encoded><![CDATA[[손화신 기자] 의학계의 시인, 베스트셀러 작가, 의식의 탐험가 등 수많은 수식어들로 불리는 신경학자 올리버 색스의 일생을 담은 다큐멘터리 영화 &lt;올리버 색스: 그의 생애&gt;가 오는 26일 국내에 개봉한다. &nbsp;&nbsp; 개봉에 앞서 19일 오전 영화 &lt;올리버 색스: 그의 생애&gt;의 언론시사회가 온라인으로 열렸다. 올리버 색스의 경이로운 삶의 여정&nbsp;        ▲ &nbsp;]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Fohmynews%2F20210819173304211ampl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
