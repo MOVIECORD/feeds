@@ -4,9 +4,25 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Aug 2021 08:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 09:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<언더그라운드> 추천 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/421665602?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/421665602?act=clip</guid>
+            <pubDate>Fri, 20 Aug 2021 09:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:56]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvhwapbzz8srczutd7326os85%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33186358550%26signature%3DLH%252BRpnbzwkSix897f4ymBP%252FAZkU%253D" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<시스터즈 워: 레드스네이크> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/421664993?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/421664993?act=clip</guid>
+            <pubDate>Fri, 20 Aug 2021 09:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frviibh0wrfos0qa8iukw8zpgm%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33186357474%26signature%3DSwPOtsfQekq72EqPxe%252F%252BovY79JQ%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<기적> 제작기 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/421660621?act=clip</link>
@@ -157,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/421632609?act=clip</guid>
             <pubDate>Thu, 19 Aug 2021 06:19:09 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F602782498%2Fthumb%2F20210819144015" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F602782498%2Fthumb%2F20210819144015" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<모가디슈> 무삭제 클립 2탄]]></title>
@@ -165,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/421630462?act=clip</guid>
             <pubDate>Thu, 19 Aug 2021 05:13:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:32]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvbvumv7t06k7wprvmkylrkp4%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33186255923%26signature%3DYpYdS6x7Ee%252BCNSbFYnn739BBzpk%253D%26ts%3D1629347123" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvbvumv7t06k7wprvmkylrkp4%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33186255923%26signature%3DYpYdS6x7Ee%252BCNSbFYnn739BBzpk%253D%26ts%3D1629347123" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<야쿠자 어쌔신> 예고편]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 17 Aug 2021 09:16:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:42]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvg4eg067bhf5mzlm9sdr3ta1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33186098137%26signature%3DnzDkGWT2lcv%252ByAEgzpiZRokA6DA%253D%26ts%3D1629189337" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<더 테러 라이브: 스쿨 어택> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/421575077?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/421575077?act=clip</guid>
-            <pubDate>Tue, 17 Aug 2021 06:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:32]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvno98lo4v4agsfw29l9ugy1v%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33186087132%26signature%3D6LNF5abmTLW%252B%252B%252F5AqEZxxxx1ixY%253D%26ts%3D1629178332" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<블룸 업: 스와핑> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/421573456?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/421573456?act=clip</guid>
-            <pubDate>Tue, 17 Aug 2021 05:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:50]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmlbq28e71or2xmpy3b3ova9%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33186083634%26signature%3Dm3qpg%252FnK2k1xFxfRoYvmjIFptAI%253D%26ts%3D1629174834" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
