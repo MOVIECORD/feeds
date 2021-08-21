@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Aug 2021 13:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 14:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -279,12 +279,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6dd33309d1b1b3a9e3aa6e65ddf1ebe229433eb3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[하이큐!! 땅 VS 하늘 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137824</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137824</guid>
+            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F96dd30921f935279b8fa9f5d013d0b831be01410" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[아이스 로드 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150693</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150693</guid>
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.07.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f98e5c0d73c95891b49493b7d62ba4480489df6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 그레이트 샤크 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150566</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150566</guid>
+            <pubDate>Fri, 20 Aug 2021 00:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa89dc80a0838884bbe5b7da0240ff9664b789c48" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[킬러의 보디가드 2: 킬러의 와이프 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -301,22 +317,6 @@
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.06.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44cff9be3a13f0cf1746357f7d4dd58f248f5f2c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[하이큐!! 땅 VS 하늘 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=137824</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=137824</guid>
-            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F96dd30921f935279b8fa9f5d013d0b831be01410" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[더 그레이트 샤크 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150566</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150566</guid>
-            <pubDate>Fri, 20 Aug 2021 00:46:15 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa89dc80a0838884bbe5b7da0240ff9664b789c48" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[박강아름 결혼하다 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -591,28 +591,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fseouleconomy%2F20210820091936462ojde.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['보이스' 보이스피싱의 A to Z (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210820100522914</link>
-            <guid>https://movie.v.daum.net/v/20210820100522914</guid>
-            <pubDate>Sat, 21 Aug 2021 00:45:52 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 수많은 실제 사례와 다양한 전문가의 자문 등 철저한 사전조사를 바탕으로 탄생한 영화 '보이스'의 프로덕션 비하인드를 공개한다. 영화 '보이스'(감독 김선 김곡·제작 수필름)는 보이스피싱 조직의 덫에 걸려 모든 것을 잃게 된 서준(변요한)이 빼앗긴 돈을 되찾기 위해 중국에 있는 본거지에 잠입, 보이스피싱 설계자 곽프로(김무열)를]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Ftvdaily%2F20210820100523260xwku.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[SC현장] "아픈 트라우마 떠올라"..'최선의 삶' 방민아→한성민, 최선의 날것이 만든 문제작 (종합) (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210820162538288</link>
-            <guid>https://movie.v.daum.net/v/20210820162538288</guid>
-            <pubDate>Sat, 21 Aug 2021 03:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 올해 가장 솔직하고 과감한, 최선의 날것이 담긴 문제작이 가을 극장을 찾았다. 더 나아지기 위해서 기꺼이 더 나빠졌던 소녀들의 이상했고 무서웠고 좋아했던 그 시절의 드라마를 담은 휴먼 영화 '최선의 삶'(이우정 감독, 마일스톤컴퍼니 제작). 20일 오후 서울 용산구 이촌동 CGV 용산아이파크몰에서 진행된 '최선의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2FSpoChosun%2F20210820162539019qldl.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[SC초점] "秋극장 살리는 마블"..9월 '샹치'X11월 '이터널스' 출격에 '마블민국' 들썩 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210820112749232</link>
             <guid>https://movie.v.daum.net/v/20210820112749232</guid>
             <pubDate>Sat, 21 Aug 2021 13:19:53 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠조선 조지영 기자] 올해 가을 극장은 마블로 시작해 마블로 끝난다. 가을 극장의 포문은 9월 액션 영화 '샹치와 텐 링즈의 전설'(데스틴 다니엘 크리튼 감독)이, 가을의 마지막에는 배우 마동석의 첫 마블 진출작인 액션 영화 '이터널스'(클로이 자오 감독)가 연달아 가을 극장에 출사표를 던졌다. 먼저 내달 1일 전 세계 최초 국내 개봉하]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2FSpoChosun%2F20210820112750087lcvz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['보이스' 보이스피싱의 A to Z (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210820100522914</link>
+            <guid>https://movie.v.daum.net/v/20210820100522914</guid>
+            <pubDate>Sat, 21 Aug 2021 00:45:52 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 수많은 실제 사례와 다양한 전문가의 자문 등 철저한 사전조사를 바탕으로 탄생한 영화 '보이스'의 프로덕션 비하인드를 공개한다. 영화 '보이스'(감독 김선 김곡·제작 수필름)는 보이스피싱 조직의 덫에 걸려 모든 것을 잃게 된 서준(변요한)이 빼앗긴 돈을 되찾기 위해 중국에 있는 본거지에 잠입, 보이스피싱 설계자 곽프로(김무열)를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Ftvdaily%2F20210820100523260xwku.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[가족의 탄생이 이렇게 어렵습니다 (다음영화 뉴스 ─ 인기)]]></title>
@@ -623,12 +615,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fohmynews%2F20210820101206741tlst.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[차승원의 부성애 "특별하게 하는 것보다 남들 하는 만큼" [★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210821112501249</link>
-            <guid>https://movie.v.daum.net/v/20210821112501249</guid>
+            <title><![CDATA[[SC현장] "아픈 트라우마 떠올라"..'최선의 삶' 방민아→한성민, 최선의 날것이 만든 문제작 (종합) (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210820162538288</link>
+            <guid>https://movie.v.daum.net/v/20210820162538288</guid>
             <pubDate>Sat, 21 Aug 2021 03:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 차승원 /사진제공=YG엔터테인먼트두 자녀의 아버지인 배우 차승원(51)도 여느 아빠와 다를 바가 없다. 자신도 남들 하는 만큼 한다고 밝혔다. 차승원은 지난 4월 넷플릭스를 통해 공개된 영화 '낙원의 밤'에서는짙은 카리스마를 발산하는 조직의 핵심 인물로 분해 호평을 받았다. 그랬던 그가 영화 '싱크홀' 속 만수로 컴백, 긍정적이고]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F21%2Fstarnews%2F20210821112503940qthx.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 올해 가장 솔직하고 과감한, 최선의 날것이 담긴 문제작이 가을 극장을 찾았다. 더 나아지기 위해서 기꺼이 더 나빠졌던 소녀들의 이상했고 무서웠고 좋아했던 그 시절의 드라마를 담은 휴먼 영화 '최선의 삶'(이우정 감독, 마일스톤컴퍼니 제작). 20일 오후 서울 용산구 이촌동 CGV 용산아이파크몰에서 진행된 '최선의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2FSpoChosun%2F20210820162539019qldl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['실: 인연의 시작' 10월 개봉..스다 마사키·고마츠 나나 세 번째 호흡 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210820095618476</link>
+            <guid>https://movie.v.daum.net/v/20210820095618476</guid>
+            <pubDate>Sat, 21 Aug 2021 14:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[스다 마사키와 고마츠 나나가 주연을 맡은 영화 '실: 인연의 시작'이 10월 개봉을 확정했다.㈜디스테이션는 20일 '실: 인연의 시작' 개봉 소식과 함께 포스터를 공개했다. 이 영화는 일본 가수 나카지마 미유키의 대표곡 ‘糸’(실)을 모티브로 제작됐다.'실: 인연의 시작'은 열두 살에 만나 서로의 첫사랑이 된 렌과 아오이가 18년의 세월 동안 만남과 헤어짐]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fdailian%2F20210820095624996rlig.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[류경수 "'인질'서 날아다닌 황정민, 나도 저렇게 될 수 있을까" [인터뷰 종합] (다음영화 뉴스 ─ 인기)]]></title>
@@ -637,14 +637,6 @@
             <pubDate>Sat, 21 Aug 2021 13:19:53 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 류경수가 '인질'로 함께 호흡을 맞춘 선배 배우 황정민을 향한 남다른 마음을 전하며 앞으로도 꾸준히 연기에 매진하겠다는 의지를 전했다. 류경수는 20일 오전 온라인으로 진행된 영화 '인질'(감독 필감성) 인터뷰에서 영화와 함께 다양한 이야기를 전했다. '인질'은 어느 날 새벽, 증거도 목격자도 없이 납치된 배우 황정민을]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fxportsnews%2F20210820145006224mmit.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스초점] 한국 영화 흥행 '3파전'..4차 유행 속 극장가 활기 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210821145448292</link>
-            <guid>https://movie.v.daum.net/v/20210821145448292</guid>
-            <pubDate>Sat, 21 Aug 2021 09:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;출연 : 김효정 영화평론가&gt; 이번 주말 극장가는 한국 영화 세 편이 관객을 끌어들이면서 코로나19 여파에도 활기를 띠고 있습니다. 어떤 영화들이 박스오피스에 올랐는지 주요 기대작들은 뭔지 김효정 영화평론가와 더 자세히 짚어보겠습니다. &lt;질문 1&gt; 올여름 기대작 '인질'까지 합류하면서, 일 년 만에 한국영화들이 박스오피스를 점령했습니다. 촬영하는 동안]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F21%2Fnewsy%2F20210821145448539wlsx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[아센디오, 블록버스터 영화 '하이브'에 자이언트스텝 전격 합류 (다음영화 뉴스 ─ 인기)]]></title>
@@ -661,6 +653,14 @@
             <pubDate>Sat, 21 Aug 2021 10:16:33 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자)&nbsp;더 이상의 판타지는 없다. 관찰 예능이 많은 이들을 즐겁게 했듯 영화와 드라마도 현실 고증이 대세다. 먼저 장기 흥행으로 의미있는 스코어를 기록한 '찬실이는 복도 많지'는 영화 프로듀서였지만 지금은 일이 똑 끊겨 먹고 살길이 막막한 ‘찬실’이에게 닥쳐오는 일들을 유쾌하게 그려낸 작품이다. 많은 영화인들은 물론, 팍팍했던 삶에]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fxportsnews%2F20210820094513365cfqa.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스초점] 한국 영화 흥행 '3파전'..4차 유행 속 극장가 활기 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210821145448292</link>
+            <guid>https://movie.v.daum.net/v/20210821145448292</guid>
+            <pubDate>Sat, 21 Aug 2021 09:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;출연 : 김효정 영화평론가&gt; 이번 주말 극장가는 한국 영화 세 편이 관객을 끌어들이면서 코로나19 여파에도 활기를 띠고 있습니다. 어떤 영화들이 박스오피스에 올랐는지 주요 기대작들은 뭔지 김효정 영화평론가와 더 자세히 짚어보겠습니다. &lt;질문 1&gt; 올여름 기대작 '인질'까지 합류하면서, 일 년 만에 한국영화들이 박스오피스를 점령했습니다. 촬영하는 동안]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F21%2Fnewsy%2F20210821145448539wlsx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[뉴스초점] 한국 영화 흥행 '3파전'..4차 유행 속 극장가 활기 (다음영화 뉴스 ─ 최신)]]></title>
