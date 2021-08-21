@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-21T04:20:03.296Z</updated>
+    <updated>2021-08-21T05:13:44.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여름 극장가 끌고 가는 외유내강 [★날선무비]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002982340</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002982340"/>
+        <updated>2021-08-21T05:12:52.043Z</updated>
+        <content type="html"><![CDATA[영화 제작사 외유내강이 여름 극장가를 이끌고 있다. 코로나 19로 인한 사회적 거리두기 4단계 조치가 지속되고 힘든 시기임에도, 극장가 최고 성수기인 여름 시장에 용기 있게 두 편의 영화를 선보였다. 영화 '모가디슈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[계속 성장하는 류경수 "'인질', 우러러 본 황정민과 함께" [★FULL인터뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002982337</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010675188"/>
         <updated>2021-08-20T22:14:50.644Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스] 박진희 기자 = 시민들이 18일 오전 서울 종로구 서울극장 매표소 앞에 줄을 서 있다. 극장은 지난 11일부터 영업 마지막 날인 오는 31일까지 3주 동안 무료로 영화를 볼 수 있는 '고맙습니다 상영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영업 종료 앞둔 서울극장]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010675187</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010675187"/>
-        <updated>2021-08-20T22:14:50.645Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스] 박진희 기자 = 서울 종로구 서울극장은 오는 31일 영업을 종료한다. 2021.08.21. pak7130@newsis.com [사진 영상 제보받습니다] 공감언론 뉴시스가 독자 여러분의 소중한 제보를]]></content>
     </entry>
 </feed>

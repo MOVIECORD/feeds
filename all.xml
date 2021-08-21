@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Aug 2021 04:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 05:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름 극장가 끌고 가는 외유내강 [★날선무비] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002982340</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002982340</guid>
+            <pubDate>Sat, 21 Aug 2021 05:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[영화 제작사 외유내강이 여름 극장가를 이끌고 있다. 코로나 19로 인한 사회적 거리두기 4단계 조치가 지속되고 힘든 시기임에도, 극장가 최고 성수기인 여름 시장에 용기 있게 두 편의 영화를 선보였다. 영화 '모가디슈]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[계속 성장하는 류경수 "'인질', 우러러 본 황정민과 함께" [★FULL인터뷰] (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002982337</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[[서울=뉴시스] 박진희 기자 = 시민들이 18일 오전 서울 종로구 서울극장 매표소 앞에 줄을 서 있다. 극장은 지난 11일부터 영업 마지막 날인 오는 31일까지 3주 동안 무료로 영화를 볼 수 있는 '고맙습니다 상영]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[영업 종료 앞둔 서울극장 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010675187</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010675187</guid>
-            <pubDate>Fri, 20 Aug 2021 22:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스] 박진희 기자 = 서울 종로구 서울극장은 오는 31일 영업을 종료한다. 2021.08.21. pak7130@newsis.com [사진 영상 제보받습니다] 공감언론 뉴시스가 독자 여러분의 소중한 제보를]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[인질 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=127738</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=127738</guid>
@@ -247,20 +247,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8c183d3a3ac7d926c9aac443a650211a7e5494f4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[팜 스프링스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=137848</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=137848</guid>
-            <pubDate>Thu, 19 Aug 2021 00:41:16 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4c82a5639003742ab571a36d61b6a7092229d9d4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[블랙 위도우 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=123215</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=123215</guid>
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.07.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff39274b0acd76f7c66f0a5fb9e5b7222ed37b373" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[팜 스프링스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137848</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137848</guid>
+            <pubDate>Thu, 19 Aug 2021 00:41:16 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4c82a5639003742ab571a36d61b6a7092229d9d4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[보스 베이비 2 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -277,6 +277,14 @@
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.08.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6dd33309d1b1b3a9e3aa6e65ddf1ebe229433eb3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[하이큐!! 땅 VS 하늘 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137824</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137824</guid>
+            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F96dd30921f935279b8fa9f5d013d0b831be01410" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아이스 로드 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -301,14 +309,6 @@
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.06.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44cff9be3a13f0cf1746357f7d4dd58f248f5f2c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[하이큐!! 땅 VS 하늘 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=137824</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=137824</guid>
-            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F96dd30921f935279b8fa9f5d013d0b831be01410" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[박강아름 결혼하다 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -359,20 +359,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F159c36be955bf23df2dab2b17953595b2f8e5f15" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[여름날 우리 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151333</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151333</guid>
-            <pubDate>Tue, 17 Aug 2021 22:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1ad067800d4d9fa50c4626c017a0f831e31e27a3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[레미니센스 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151315</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151315</guid>
             <pubDate>Wed, 18 Aug 2021 00:48:09 GMT</pubDate>
             <content:encoded><![CDATA[21.08.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3b72c91d5a32de281ff8224830482a733df9cd68" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[여름날 우리 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151333</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151333</guid>
+            <pubDate>Tue, 17 Aug 2021 22:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1ad067800d4d9fa50c4626c017a0f831e31e27a3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[귀신 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -527,20 +527,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fxportsnews%2F20210820110008631fzhy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[마약·폭력, 톰 크루즈와 라이벌이었던 배우의 몰락 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210820100900126</link>
-            <guid>https://movie.v.daum.net/v/20210820100900126</guid>
-            <pubDate>Fri, 20 Aug 2021 01:54:21 GMT</pubDate>
-            <content:encoded><![CDATA[[양형석 기자] 메이저리그 최고의 강타자 중 한 명인 마이크 트라웃(LA 에인절스)은 현재 오른쪽 종아리 부상으로 개점 휴업 중이다. 하지만 트라웃은 마이너리그로 내려가거나 다음 시즌 팀에서 쫓겨날 걱정은 전혀 하지 않는다. 지난 2019년 3월 에인절스와 12년4억2650만 달러 계약을 맺은 트라웃은 만38세가 되는 오는 2030년까지 연 3700만 달러]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fohmynews%2F20210820100901487uzsz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['블랙 위도우' '모가디슈' 개봉..7월 극장 관객수 전년 대비 24.2%↑ (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210820153624813</link>
             <guid>https://movie.v.daum.net/v/20210820153624813</guid>
             <pubDate>Fri, 20 Aug 2021 09:15:36 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 전형화 기자] '블랙 위도우' '모가디슈' 등 대작 영화들이 개봉한 덕분에 사회적 거리두기 격상에도 불구하고 7월 극장 전체 매출액과 관객수는 전년에 비해 증가했다. 20일 영진위 한국영화산업결산 자료에 따르면 7월 극장 전체 매출액은 683억 원으로 전년 동월 대비 44.7%(211억 원 ↑) 증가했고, 7월 전체 관객 수는 698만 명으로 전]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fstarnews%2F20210820153627248mmrt.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[마약·폭력, 톰 크루즈와 라이벌이었던 배우의 몰락 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210820100900126</link>
+            <guid>https://movie.v.daum.net/v/20210820100900126</guid>
+            <pubDate>Fri, 20 Aug 2021 01:54:21 GMT</pubDate>
+            <content:encoded><![CDATA[[양형석 기자] 메이저리그 최고의 강타자 중 한 명인 마이크 트라웃(LA 에인절스)은 현재 오른쪽 종아리 부상으로 개점 휴업 중이다. 하지만 트라웃은 마이너리그로 내려가거나 다음 시즌 팀에서 쫓겨날 걱정은 전혀 하지 않는다. 지난 2019년 3월 에인절스와 12년4억2650만 달러 계약을 맺은 트라웃은 만38세가 되는 오는 2030년까지 연 3700만 달러]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fohmynews%2F20210820100901487uzsz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[휴 잭맨 '레미니센스', 신화와 고전 누아르 영화의 결합 (다음영화 뉴스 ─ 인기)]]></title>
@@ -559,14 +559,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fohmynews%2F20210820143901656shlm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[지독한 타임루프 속에서 만난 사랑, 맥주 한잔 같은 청량함..영화 '팜 스프링스' [리뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210819215735447</link>
-            <guid>https://movie.v.daum.net/v/20210819215735447</guid>
-            <pubDate>Fri, 20 Aug 2021 16:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[[경향신문] 살면서 가장 행복했던 날이라고 해도 “100만번씩” 되풀이하고 싶지는 않을 것이다. 영화 &lt;팜 스프링스&gt;의 주인공 나일스(앤디 샘버그)는 유쾌할 것 하나 없는 어느 11월9일에 갇혀버렸다. 미국의 아름다운 휴양지 ‘팜 스프링스’에서 열리는 한 결혼식 날이다. 화창한 날씨에 신랑·신부는 충분히 행복해 보이지만 나일스에게는 뜯어볼수록 별로인 하루]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Fkhan%2F20210819215736894wmoo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['맨 인 더 다크 2' 스티븐 랭, 숨 막히는 공포 예고 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210819170542235</link>
             <guid>https://movie.v.daum.net/v/20210819170542235</guid>
@@ -575,12 +567,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Fsportsdonga%2F20210819170545084mfmz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["가족 관객의 압도적 선택"..'싱크홀', 세대별 관전 포인트 공개 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210820090848916</link>
-            <guid>https://movie.v.daum.net/v/20210820090848916</guid>
-            <pubDate>Fri, 20 Aug 2021 13:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 영화 '싱크홀'이 10대부터 50대까지 전 세대를 사로잡은 연령대별 관전 포인트를 공개했다. '싱크홀'(감독 김지훈)은 개봉 2주 차에도 폭발적인 입소문 흥행을 이어가고 있다. 특히 지난 주말 이틀 연속으로 2021년 한국 영화 일일 최다 관객수 기록을 세우며 확실한 주말 강자임을 입증한 바. 이번 주말에도 전 세대 관객들의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fmydaily%2F20210820090848278rkyv.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[지독한 타임루프 속에서 만난 사랑, 맥주 한잔 같은 청량함..영화 '팜 스프링스' [리뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210819215735447</link>
+            <guid>https://movie.v.daum.net/v/20210819215735447</guid>
+            <pubDate>Fri, 20 Aug 2021 16:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[[경향신문] 살면서 가장 행복했던 날이라고 해도 “100만번씩” 되풀이하고 싶지는 않을 것이다. 영화 &lt;팜 스프링스&gt;의 주인공 나일스(앤디 샘버그)는 유쾌할 것 하나 없는 어느 11월9일에 갇혀버렸다. 미국의 아름다운 휴양지 ‘팜 스프링스’에서 열리는 한 결혼식 날이다. 화창한 날씨에 신랑·신부는 충분히 행복해 보이지만 나일스에게는 뜯어볼수록 별로인 하루]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Fkhan%2F20210819215736894wmoo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['동성애는 틀렸다'는 믿음에서 시작된 비극 (다음영화 뉴스 ─ 인기)]]></title>
@@ -591,12 +583,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F21%2Fohmynews%2F20210821125402200bigh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[차승원의 부성애 "특별하게 하는 것보다 남들 하는 만큼" [★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210821112501249</link>
-            <guid>https://movie.v.daum.net/v/20210821112501249</guid>
-            <pubDate>Sat, 21 Aug 2021 03:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 차승원 /사진제공=YG엔터테인먼트두 자녀의 아버지인 배우 차승원(51)도 여느 아빠와 다를 바가 없다. 자신도 남들 하는 만큼 한다고 밝혔다. 차승원은 지난 4월 넷플릭스를 통해 공개된 영화 '낙원의 밤'에서는짙은 카리스마를 발산하는 조직의 핵심 인물로 분해 호평을 받았다. 그랬던 그가 영화 '싱크홀' 속 만수로 컴백, 긍정적이고]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F21%2Fstarnews%2F20210821112503940qthx.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA["가족 관객의 압도적 선택"..'싱크홀', 세대별 관전 포인트 공개 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210820090848916</link>
+            <guid>https://movie.v.daum.net/v/20210820090848916</guid>
+            <pubDate>Fri, 20 Aug 2021 13:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 영화 '싱크홀'이 10대부터 50대까지 전 세대를 사로잡은 연령대별 관전 포인트를 공개했다. '싱크홀'(감독 김지훈)은 개봉 2주 차에도 폭발적인 입소문 흥행을 이어가고 있다. 특히 지난 주말 이틀 연속으로 2021년 한국 영화 일일 최다 관객수 기록을 세우며 확실한 주말 강자임을 입증한 바. 이번 주말에도 전 세대 관객들의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fmydaily%2F20210820090848278rkyv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[신난다, 그러나 마음 편히 즐기기는 어렵다 (다음영화 뉴스 ─ 인기)]]></title>
@@ -607,12 +599,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F21%2Fhani%2F20210821073612400jptm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[차승원의 부성애 "특별하게 하는 것보다 남들 하는 만큼" [★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210821112501249</link>
+            <guid>https://movie.v.daum.net/v/20210821112501249</guid>
+            <pubDate>Sat, 21 Aug 2021 03:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 차승원 /사진제공=YG엔터테인먼트두 자녀의 아버지인 배우 차승원(51)도 여느 아빠와 다를 바가 없다. 자신도 남들 하는 만큼 한다고 밝혔다. 차승원은 지난 4월 넷플릭스를 통해 공개된 영화 '낙원의 밤'에서는짙은 카리스마를 발산하는 조직의 핵심 인물로 분해 호평을 받았다. 그랬던 그가 영화 '싱크홀' 속 만수로 컴백, 긍정적이고]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F21%2Fstarnews%2F20210821112503940qthx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[전설의 공포게임을 영화로 '화이트데이: 부서진 결계' 론칭 예고편 공개 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210820091930263</link>
             <guid>https://movie.v.daum.net/v/20210820091930263</guid>
             <pubDate>Fri, 20 Aug 2021 23:15:12 GMT</pubDate>
             <content:encoded><![CDATA[[서울경제] ‘화이트데이: 부서진 결계’가 9월 개봉을 앞두고 론칭 예고편을 공개했다. ‘화이트데이: 부서진 결계’는 늦은 밤 학교에서 일어나는 기이한 현상을 일으키는 악령으로부터 친구들을 구하기 위한 사투를 그린 공포 판타지 영화. 올해로 발매 20주년을 맞은 국산 PC 패키지 공포 게임의 전설 ‘화이트데이: 학교라는 이름의 미궁’을 바탕으로 퇴마를]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fseouleconomy%2F20210820091936462ojde.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[김선영x이윤지 투톱 영화 '드림팰리스' 크랭크인 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210819165339778</link>
+            <guid>https://movie.v.daum.net/v/20210819165339778</guid>
+            <pubDate>Fri, 20 Aug 2021 22:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 배우 김선영과 이윤지가 주연을 맡은 영화 '드림팰리스'가 8월16일 촬영에 돌입했다. 19일 인디스토리는 이 같은 소식을 전하며 대본 리딩 및 고사현장 사진을 공개했다. '드림팰리스'(감독 가성문)는 새로운 삶을 꿈꾸며 신도시 신축아파트에 입주한 혜정이 할인분양을 둘러싸고 입주민들과 벌어지는 갈등을 그린 영화. 2019년 영화진흥위]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Fstarnews%2F20210819165340618alcf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[황정민 보러 갔다가 ○○○도 보고 나온다 [N초점] (다음영화 뉴스 ─ 인기)]]></title>
@@ -623,12 +631,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F21%2FNEWS1%2F20210821080112344iexh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[김선영x이윤지 투톱 영화 '드림팰리스' 크랭크인 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210819165339778</link>
-            <guid>https://movie.v.daum.net/v/20210819165339778</guid>
-            <pubDate>Fri, 20 Aug 2021 22:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 배우 김선영과 이윤지가 주연을 맡은 영화 '드림팰리스'가 8월16일 촬영에 돌입했다. 19일 인디스토리는 이 같은 소식을 전하며 대본 리딩 및 고사현장 사진을 공개했다. '드림팰리스'(감독 가성문)는 새로운 삶을 꿈꾸며 신도시 신축아파트에 입주한 혜정이 할인분양을 둘러싸고 입주민들과 벌어지는 갈등을 그린 영화. 2019년 영화진흥위]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Fstarnews%2F20210819165340618alcf.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[가족의 탄생이 이렇게 어렵습니다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210820101203255</link>
+            <guid>https://movie.v.daum.net/v/20210820101203255</guid>
+            <pubDate>Sat, 21 Aug 2021 05:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[[김상목 기자] ▲ &nbsp;&lt;박강아름 결혼하다&gt; 포스터    ⓒ 영화사 진진  &nbsp;1_&lt;가장 무도회&gt;에서 &lt;결혼하다&gt;로의 전환&nbsp;전작 &lt;박강아름의 가장 무도회&gt;(2015)에서 지독한 외모 콤플렉스에 시달리던 박강아름 감독은 자신과 자신의 신체를 직접 실험대상으로 활용해 한국 사회가 여성에게 요구하는 '여성성'에 대해 관찰하는 작업을 시도했다. '모태솔]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fohmynews%2F20210820101206741tlst.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[SC현장] "아픈 트라우마 떠올라"..'최선의 삶' 방민아→한성민, 최선의 날것이 만든 문제작 (종합) (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210820162538288</link>
+            <guid>https://movie.v.daum.net/v/20210820162538288</guid>
+            <pubDate>Sat, 21 Aug 2021 03:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 올해 가장 솔직하고 과감한, 최선의 날것이 담긴 문제작이 가을 극장을 찾았다. 더 나아지기 위해서 기꺼이 더 나빠졌던 소녀들의 이상했고 무서웠고 좋아했던 그 시절의 드라마를 담은 휴먼 영화 '최선의 삶'(이우정 감독, 마일스톤컴퍼니 제작). 20일 오후 서울 용산구 이촌동 CGV 용산아이파크몰에서 진행된 '최선의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2FSpoChosun%2F20210820162539019qldl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[진기주, '행복의 나라' 출연..조정석과 호흡 外 [위클리 무비] (다음영화 뉴스 ─ 인기)]]></title>
@@ -647,20 +663,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Ftvdaily%2F20210820100523260xwku.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[무비가이드] 김강우 '귀문', 피 튀기는 공포감이 '리얼'..중국판 '너의 결혼식' 개봉[TEN리뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210821090002463</link>
-            <guid>https://movie.v.daum.net/v/20210821090002463</guid>
-            <pubDate>Sat, 21 Aug 2021 04:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자]스크린X, 4DX 등 특별 상영 포맷에 특화된 체혐형 공포 영화 '귀문'이 찾아온다. 김영광, 박보영의 주연의 영화 '너의 결혼식'을 리메이크한 중국영화 '여름날 우리'도 국내 극장에서 개봉한다.&nbsp;'귀문'-보는 상영관마다 결말이 다른 영화?감독 심덕근출연 김강우, 김소혜, 이정형, 홍진기개봉 8월 25일배우 김강우가 데뷔 후 처음으로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F21%2F10asia%2F20210821090007325mrls.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[SC현장] "아픈 트라우마 떠올라"..'최선의 삶' 방민아→한성민, 최선의 날것이 만든 문제작 (종합) (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210820162538288</link>
-            <guid>https://movie.v.daum.net/v/20210820162538288</guid>
-            <pubDate>Sat, 21 Aug 2021 03:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 올해 가장 솔직하고 과감한, 최선의 날것이 담긴 문제작이 가을 극장을 찾았다. 더 나아지기 위해서 기꺼이 더 나빠졌던 소녀들의 이상했고 무서웠고 좋아했던 그 시절의 드라마를 담은 휴먼 영화 '최선의 삶'(이우정 감독, 마일스톤컴퍼니 제작). 20일 오후 서울 용산구 이촌동 CGV 용산아이파크몰에서 진행된 '최선의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2FSpoChosun%2F20210820162539019qldl.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[여름 극장가 끌고 가는 외유내강 [★날선무비] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20210821133001301</link>
+            <guid>https://v.daum.net/v/20210821133001301</guid>
+            <pubDate>Sat, 21 Aug 2021 05:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='모가디슈', '인질' 포스터영화 제작사 외유내강이 여름 극장가를 이끌고 있다. 코로나 19로 인한 사회적 거리두기 4단계 조치가 지속되고 힘든 시기임에도, 극장가 최고 성수기인 여름 시장에 용기 있게 두 편의 영화를 선보였다. 영화 '모가디슈'가 앞서서 끌었고, '인질'이 뒤에서 밀고 있다. 지난달 개봉한 영화 '모가디슈']]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F21%2Fstarnews%2F20210821133002668badi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[계속 성장하는 류경수 "'인질', 우러러 본 황정민과 함께" [★FULL인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
@@ -1123,7 +1131,7 @@
             <link>https://tv.naver.com/v/21976826</link>
             <guid>https://tv.naver.com/v/21976826</guid>
             <pubDate>Fri, 20 Aug 2021 10:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210820_143/MnUWG_1629453719951EUpzy_JPEG/5e835056-019d-11ec-89ce-48df379ccacc_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1131,7 +1139,7 @@
             <link>https://tv.naver.com/v/21975486</link>
             <guid>https://tv.naver.com/v/21975486</guid>
             <pubDate>Fri, 20 Aug 2021 09:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210820_85/n1qjd_1629449741568zhFDW_JPEG/310bfec1-0194-11ec-b6bf-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1139,7 +1147,7 @@
             <link>https://tv.naver.com/v/21975263</link>
             <guid>https://tv.naver.com/v/21975263</guid>
             <pubDate>Fri, 20 Aug 2021 09:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210820_39/ZOefA_1629449143573DAI0q_JPEG/c6896a29-0192-11ec-86ec-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1147,7 +1155,7 @@
             <link>https://tv.naver.com/v/21970997</link>
             <guid>https://tv.naver.com/v/21970997</guid>
             <pubDate>Fri, 20 Aug 2021 06:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210820_37/nSmmj_1629439636779yYBuV_JPEG/808735e5-017c-11ec-89ce-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1155,7 +1163,7 @@
             <link>https://tv.naver.com/v/21970804</link>
             <guid>https://tv.naver.com/v/21970804</guid>
             <pubDate>Fri, 20 Aug 2021 06:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210820_240/jK8Mo_1629439108653KhYQe_JPEG/7ed5aaee-017b-11ec-882d-48df37ae3dc4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1163,7 +1171,7 @@
             <link>https://tv.naver.com/v/21970108</link>
             <guid>https://tv.naver.com/v/21970108</guid>
             <pubDate>Fri, 20 Aug 2021 06:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210820_217/v4OA1_1629437304107AYrSK_JPEG/48541a41-0177-11ec-8e61-a0369ff94f34_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1171,7 +1179,7 @@
             <link>https://tv.naver.com/v/21969950</link>
             <guid>https://tv.naver.com/v/21969950</guid>
             <pubDate>Fri, 20 Aug 2021 06:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210820_6/Xm8AR_1629436887875yjpaX_JPEG/3fb94e21-0176-11ec-a509-a0369ff968b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1187,7 +1195,7 @@
             <link>https://tv.naver.com/v/21969697</link>
             <guid>https://tv.naver.com/v/21969697</guid>
             <pubDate>Fri, 20 Aug 2021 05:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210820_16/FHCw5_1629436178412GuGea_JPEG/c2b81229-0174-11ec-b6bf-48df379cc9e4_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1195,7 +1203,7 @@
             <link>https://tv.naver.com/v/21969680</link>
             <guid>https://tv.naver.com/v/21969680</guid>
             <pubDate>Fri, 20 Aug 2021 05:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210820_234/gq1nQ_16294361315202vq4W_PNG/1629436127479.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
