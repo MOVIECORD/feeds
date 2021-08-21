@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Aug 2021 09:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 10:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -287,14 +287,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f98e5c0d73c95891b49493b7d62ba4480489df6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[더 그레이트 샤크 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150566</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150566</guid>
-            <pubDate>Fri, 20 Aug 2021 00:46:15 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa89dc80a0838884bbe5b7da0240ff9664b789c48" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[킬러의 보디가드 2: 킬러의 와이프 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=130061</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=130061</guid>
@@ -317,6 +309,14 @@
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.08.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F96dd30921f935279b8fa9f5d013d0b831be01410" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 그레이트 샤크 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150566</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150566</guid>
+            <pubDate>Fri, 20 Aug 2021 00:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa89dc80a0838884bbe5b7da0240ff9664b789c48" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[박강아름 결혼하다 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -551,14 +551,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fmydaily%2F20210820091957173zwcd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[지하세계에서 펼쳐지는 소외된 노동의 풍경화 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210820143900966</link>
-            <guid>https://movie.v.daum.net/v/20210820143900966</guid>
-            <pubDate>Fri, 20 Aug 2021 08:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[[김상목 기자] 지하철은 한국의 대도시 권역에서는 버스와 함께 시민의 발로 기능하는 대표적 교통수단이다. 특히 버스에 비해 일정 규모 이상, 소위 메트로폴리스 급 이상의 광역도시권에서 볼 수 있는 특성 때문에 단순한 교통수단을 넘어 도시정책의 핵심적인 요소로 인정받는 영역이기도 하다. 지하철 관련 공약은 광역지자체 선거에서 늘 최우선 과제로 자리매김하고 있]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fohmynews%2F20210820143901656shlm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['경쟁률 1000:1' 뚫은 김재범 "악역인데 경사였죠"[인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210821142708955</link>
             <guid>https://movie.v.daum.net/v/20210821142708955</guid>
@@ -567,12 +559,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F21%2FEdaily%2F20210821142710849psln.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[지독한 타임루프 속에서 만난 사랑, 맥주 한잔 같은 청량함..영화 '팜 스프링스' [리뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210819215735447</link>
-            <guid>https://movie.v.daum.net/v/20210819215735447</guid>
-            <pubDate>Fri, 20 Aug 2021 16:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[[경향신문] 살면서 가장 행복했던 날이라고 해도 “100만번씩” 되풀이하고 싶지는 않을 것이다. 영화 &lt;팜 스프링스&gt;의 주인공 나일스(앤디 샘버그)는 유쾌할 것 하나 없는 어느 11월9일에 갇혀버렸다. 미국의 아름다운 휴양지 ‘팜 스프링스’에서 열리는 한 결혼식 날이다. 화창한 날씨에 신랑·신부는 충분히 행복해 보이지만 나일스에게는 뜯어볼수록 별로인 하루]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Fkhan%2F20210819215736894wmoo.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[지하세계에서 펼쳐지는 소외된 노동의 풍경화 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210820143900966</link>
+            <guid>https://movie.v.daum.net/v/20210820143900966</guid>
+            <pubDate>Fri, 20 Aug 2021 08:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[[김상목 기자] 지하철은 한국의 대도시 권역에서는 버스와 함께 시민의 발로 기능하는 대표적 교통수단이다. 특히 버스에 비해 일정 규모 이상, 소위 메트로폴리스 급 이상의 광역도시권에서 볼 수 있는 특성 때문에 단순한 교통수단을 넘어 도시정책의 핵심적인 요소로 인정받는 영역이기도 하다. 지하철 관련 공약은 광역지자체 선거에서 늘 최우선 과제로 자리매김하고 있]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fohmynews%2F20210820143901656shlm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['동성애는 틀렸다'는 믿음에서 시작된 비극 (다음영화 뉴스 ─ 인기)]]></title>
@@ -581,6 +573,14 @@
             <pubDate>Sat, 21 Aug 2021 04:19:26 GMT</pubDate>
             <content:encoded><![CDATA[[김형욱 기자] &nbsp;        ▲ &nbsp;넷플릭스 오리지널 다큐멘터리 &lt;프레이 어웨이&gt; 포스터.    ⓒ 넷플릭스  &nbsp;지난 2013년 6월, 미국을 넘어 전 세계 최대 전환 치료 단체 '엑소더스 인터내셔널'(이하, '엑소더스')이 문을 닫았다. 이 단체는 녹록지 않은 역사와 전통 그리고 힘을 자랑했는데, 1976년에 시작되어 미국과 캐나다 등 북미에 250개]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F21%2Fohmynews%2F20210821125402200bigh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[지독한 타임루프 속에서 만난 사랑, 맥주 한잔 같은 청량함..영화 '팜 스프링스' [리뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210819215735447</link>
+            <guid>https://movie.v.daum.net/v/20210819215735447</guid>
+            <pubDate>Fri, 20 Aug 2021 16:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[[경향신문] 살면서 가장 행복했던 날이라고 해도 “100만번씩” 되풀이하고 싶지는 않을 것이다. 영화 &lt;팜 스프링스&gt;의 주인공 나일스(앤디 샘버그)는 유쾌할 것 하나 없는 어느 11월9일에 갇혀버렸다. 미국의 아름다운 휴양지 ‘팜 스프링스’에서 열리는 한 결혼식 날이다. 화창한 날씨에 신랑·신부는 충분히 행복해 보이지만 나일스에게는 뜯어볼수록 별로인 하루]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Fkhan%2F20210819215736894wmoo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["가족 관객의 압도적 선택"..'싱크홀', 세대별 관전 포인트 공개 (다음영화 뉴스 ─ 인기)]]></title>
@@ -631,14 +631,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2FSpoChosun%2F20210820162539019qldl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[뉴스초점] 한국 영화 흥행 '3파전'..4차 유행 속 극장가 활기 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210821145448292</link>
-            <guid>https://movie.v.daum.net/v/20210821145448292</guid>
-            <pubDate>Sat, 21 Aug 2021 09:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;출연 : 김효정 영화평론가&gt; 이번 주말 극장가는 한국 영화 세 편이 관객을 끌어들이면서 코로나19 여파에도 활기를 띠고 있습니다. 어떤 영화들이 박스오피스에 올랐는지 주요 기대작들은 뭔지 김효정 영화평론가와 더 자세히 짚어보겠습니다. &lt;질문 1&gt; 올여름 기대작 '인질'까지 합류하면서, 일 년 만에 한국영화들이 박스오피스를 점령했습니다. 촬영하는 동안]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F21%2Fnewsy%2F20210821145448539wlsx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[가족의 탄생이 이렇게 어렵습니다 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210820101203255</link>
             <guid>https://movie.v.daum.net/v/20210820101203255</guid>
@@ -647,20 +639,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fohmynews%2F20210820101206741tlst.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[신난다, 그러나 마음 편히 즐기기는 어렵다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210821073611859</link>
-            <guid>https://movie.v.daum.net/v/20210821073611859</guid>
-            <pubDate>Fri, 20 Aug 2021 23:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[‘아만다 월러’가 다시 자살특공대, 수어사이드 스쿼드를 모집한다. 악명 높은 감옥 벨 레브에 수감되어 있는 죄수들 중 임무에 적합한 슈퍼파워를 가진 메타휴먼 빌런들이 정예요원으로 뽑힌다. 조건은 언제나와 마찬가지로 감형 10년. 서번트, 캡틴 부메랑, 티디케이(TDK), 위즐 등 존재감이 남다른 빌런들이 남아메리카의 섬 코르토 몰티즈에 잠입한다. 그리고 영]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F21%2Fhani%2F20210821073612400jptm.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[SC초점] "秋극장 살리는 마블"..9월 '샹치'X11월 '이터널스' 출격에 '마블민국' 들썩 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210820112749232</link>
+            <guid>https://movie.v.daum.net/v/20210820112749232</guid>
+            <pubDate>Sat, 21 Aug 2021 10:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 올해 가을 극장은 마블로 시작해 마블로 끝난다. 가을 극장의 포문은 9월 액션 영화 '샹치와 텐 링즈의 전설'(데스틴 다니엘 크리튼 감독)이, 가을의 마지막에는 배우 마동석의 첫 마블 진출작인 액션 영화 '이터널스'(클로이 자오 감독)가 연달아 가을 극장에 출사표를 던졌다. 먼저 내달 1일 전 세계 최초 국내 개봉하]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2FSpoChosun%2F20210820112750087lcvz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[류경수 "'인질'서 날아다닌 황정민, 나도 저렇게 될 수 있을까" [인터뷰 종합] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210820145003300</link>
-            <guid>https://movie.v.daum.net/v/20210820145003300</guid>
+            <title><![CDATA[[뉴스초점] 한국 영화 흥행 '3파전'..4차 유행 속 극장가 활기 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210821145448292</link>
+            <guid>https://movie.v.daum.net/v/20210821145448292</guid>
             <pubDate>Sat, 21 Aug 2021 09:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 류경수가 '인질'로 함께 호흡을 맞춘 선배 배우 황정민을 향한 남다른 마음을 전하며 앞으로도 꾸준히 연기에 매진하겠다는 의지를 전했다. 류경수는 20일 오전 온라인으로 진행된 영화 '인질'(감독 필감성) 인터뷰에서 영화와 함께 다양한 이야기를 전했다. '인질'은 어느 날 새벽, 증거도 목격자도 없이 납치된 배우 황정민을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fxportsnews%2F20210820145006224mmit.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[&lt;출연 : 김효정 영화평론가&gt; 이번 주말 극장가는 한국 영화 세 편이 관객을 끌어들이면서 코로나19 여파에도 활기를 띠고 있습니다. 어떤 영화들이 박스오피스에 올랐는지 주요 기대작들은 뭔지 김효정 영화평론가와 더 자세히 짚어보겠습니다. &lt;질문 1&gt; 올여름 기대작 '인질'까지 합류하면서, 일 년 만에 한국영화들이 박스오피스를 점령했습니다. 촬영하는 동안]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F21%2Fnewsy%2F20210821145448539wlsx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 '습도 다소 높음', '찬실이는 복도많지'→'좋좋소' 잇는 하이퍼리얼리즘 코미디 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210820094512120</link>
+            <guid>https://movie.v.daum.net/v/20210820094512120</guid>
+            <pubDate>Sat, 21 Aug 2021 10:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자)&nbsp;더 이상의 판타지는 없다. 관찰 예능이 많은 이들을 즐겁게 했듯 영화와 드라마도 현실 고증이 대세다. 먼저 장기 흥행으로 의미있는 스코어를 기록한 '찬실이는 복도 많지'는 영화 프로듀서였지만 지금은 일이 똑 끊겨 먹고 살길이 막막한 ‘찬실’이에게 닥쳐오는 일들을 유쾌하게 그려낸 작품이다. 많은 영화인들은 물론, 팍팍했던 삶에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fxportsnews%2F20210820094513365cfqa.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[뉴스초점] 한국 영화 흥행 '3파전'..4차 유행 속 극장가 활기 (다음영화 뉴스 ─ 최신)]]></title>
@@ -1147,7 +1147,7 @@
             <link>https://tv.naver.com/v/21976826</link>
             <guid>https://tv.naver.com/v/21976826</guid>
             <pubDate>Fri, 20 Aug 2021 10:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210820_143/MnUWG_1629453719951EUpzy_JPEG/5e835056-019d-11ec-89ce-48df379ccacc_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1355,7 +1355,7 @@
             <link>https://tv.naver.com/v/21933952</link>
             <guid>https://tv.naver.com/v/21933952</guid>
             <pubDate>Wed, 18 Aug 2021 10:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210818_288/Msdxw_1629278368541Mx5uo_JPEG/525b8a32-0005-11ec-89ce-48df379ccacc_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1363,7 +1363,7 @@
             <link>https://tv.naver.com/v/21933873</link>
             <guid>https://tv.naver.com/v/21933873</guid>
             <pubDate>Wed, 18 Aug 2021 10:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210818_206/UzkfZ_1629278197326qUA1F_JPEG/92e234f4-0004-11ec-a72a-246e963a464c_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
