@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Aug 2021 16:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 17:19:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -295,14 +295,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f98e5c0d73c95891b49493b7d62ba4480489df6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[더 그레이트 샤크 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150566</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150566</guid>
-            <pubDate>Fri, 20 Aug 2021 00:46:15 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa89dc80a0838884bbe5b7da0240ff9664b789c48" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[킬러의 보디가드 2: 킬러의 와이프 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=130061</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=130061</guid>
@@ -317,6 +309,14 @@
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.06.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44cff9be3a13f0cf1746357f7d4dd58f248f5f2c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 그레이트 샤크 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150566</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150566</guid>
+            <pubDate>Fri, 20 Aug 2021 00:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa89dc80a0838884bbe5b7da0240ff9664b789c48" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[박강아름 결혼하다 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -615,20 +615,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2FSpoHankook%2F20210820112906216hqhk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[가족의 탄생이 이렇게 어렵습니다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210820101203255</link>
-            <guid>https://movie.v.daum.net/v/20210820101203255</guid>
-            <pubDate>Sat, 21 Aug 2021 05:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[[김상목 기자] ▲ &nbsp;&lt;박강아름 결혼하다&gt; 포스터    ⓒ 영화사 진진  &nbsp;1_&lt;가장 무도회&gt;에서 &lt;결혼하다&gt;로의 전환&nbsp;전작 &lt;박강아름의 가장 무도회&gt;(2015)에서 지독한 외모 콤플렉스에 시달리던 박강아름 감독은 자신과 자신의 신체를 직접 실험대상으로 활용해 한국 사회가 여성에게 요구하는 '여성성'에 대해 관찰하는 작업을 시도했다. '모태솔]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fohmynews%2F20210820101206741tlst.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[SC현장] "아픈 트라우마 떠올라"..'최선의 삶' 방민아→한성민, 최선의 날것이 만든 문제작 (종합) (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210820162538288</link>
             <guid>https://movie.v.daum.net/v/20210820162538288</guid>
             <pubDate>Sat, 21 Aug 2021 03:16:42 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠조선 조지영 기자] 올해 가장 솔직하고 과감한, 최선의 날것이 담긴 문제작이 가을 극장을 찾았다. 더 나아지기 위해서 기꺼이 더 나빠졌던 소녀들의 이상했고 무서웠고 좋아했던 그 시절의 드라마를 담은 휴먼 영화 '최선의 삶'(이우정 감독, 마일스톤컴퍼니 제작). 20일 오후 서울 용산구 이촌동 CGV 용산아이파크몰에서 진행된 '최선의]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2FSpoChosun%2F20210820162539019qldl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[가족의 탄생이 이렇게 어렵습니다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210820101203255</link>
+            <guid>https://movie.v.daum.net/v/20210820101203255</guid>
+            <pubDate>Sat, 21 Aug 2021 05:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[[김상목 기자] ▲ &nbsp;&lt;박강아름 결혼하다&gt; 포스터    ⓒ 영화사 진진  &nbsp;1_&lt;가장 무도회&gt;에서 &lt;결혼하다&gt;로의 전환&nbsp;전작 &lt;박강아름의 가장 무도회&gt;(2015)에서 지독한 외모 콤플렉스에 시달리던 박강아름 감독은 자신과 자신의 신체를 직접 실험대상으로 활용해 한국 사회가 여성에게 요구하는 '여성성'에 대해 관찰하는 작업을 시도했다. '모태솔]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fohmynews%2F20210820101206741tlst.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['실: 인연의 시작' 10월 개봉..스다 마사키·고마츠 나나 세 번째 호흡 (다음영화 뉴스 ─ 인기)]]></title>
