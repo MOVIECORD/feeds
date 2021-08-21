@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-21T10:17:09.692Z</updated>
+    <updated>2021-08-21T12:23:34.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['귀문' 김강우X김소혜X이정형X홍진기, 공포의 정체..미공개 열연 스틸]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003468786</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003468786"/>
+        <updated>2021-08-21T12:22:35.551Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] '귀문'이 김강우, 김소혜, 이정형, 홍진기의 열연이 담긴 미공개 스틸 4종을 공개했다. 영화 '귀문'은 1990년 집단 살인 사건이 발생한 이후 폐쇄된 귀사리 수련원에 무당의 피가 흐르]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김윤석X조인성 '모가디슈', 폭발적 입소문 흥행세..스페셜포스터 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003468754</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002557454"/>
         <updated>2021-08-20T23:14:50.829Z</updated>
         <content type="html"><![CDATA[‘아만다 월러’가 다시 자살특공대, 수어사이드 스쿼드를 모집한다. 악명 높은 감옥 벨 레브에 수감되어 있는 죄수들 중 임무에 적합한 슈퍼파워를 가진 메타휴먼 빌런들이 정예요원으로 뽑힌다. 조건은 언제나와 마찬가지로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황정민 '인질' 3일째 박스오피스 1위…주말 관객수 기대 [종합]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004460196</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004460196"/>
-        <updated>2021-08-20T22:14:50.641Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 ‘인질’이 3일 연속 박스오피스 1위 자리를 지켰다. 21일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 ‘인질’은 전날(20일) 8만 3765명이 관람해 일별 박스오피스 1위를]]></content>
     </entry>
 </feed>
