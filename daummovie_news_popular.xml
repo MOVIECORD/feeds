@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Aug 2021 07:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 08:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fmydaily%2F20210820091957173zwcd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['맨 인 더 다크 2' 스티븐 랭, 숨 막히는 공포 예고]]></title>
-            <link>https://movie.v.daum.net/v/20210819170542235</link>
-            <guid>https://movie.v.daum.net/v/20210819170542235</guid>
-            <pubDate>Fri, 20 Aug 2021 09:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] ‘맨 인 더 다크 2’ 스티븐 랭, 숨 막히는 공포 예고 영화 ‘맨 인 더 다크 2’가 오는 9월 1일 개봉을 확정한 가운데, 전편에 이어 눈 먼 노인 '노먼' 역을 맡은 스티븐 랭이 다시 한 번 숨 막히는 공포를 안길 것으로 기대를 모으고 있다. 영화 ‘맨 인 더 다크 2’는 비밀스러운 과거를 간직한 소녀 '피닉스'와 함께 평온한 일상을 보]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Fsportsdonga%2F20210819170545084mfmz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[지하세계에서 펼쳐지는 소외된 노동의 풍경화]]></title>
             <link>https://movie.v.daum.net/v/20210820143900966</link>
             <guid>https://movie.v.daum.net/v/20210820143900966</guid>
@@ -80,20 +72,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Fkhan%2F20210819215736894wmoo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['동성애는 틀렸다'는 믿음에서 시작된 비극]]></title>
-            <link>https://movie.v.daum.net/v/20210821125401949</link>
-            <guid>https://movie.v.daum.net/v/20210821125401949</guid>
-            <pubDate>Sat, 21 Aug 2021 04:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[[김형욱 기자] &nbsp;        ▲ &nbsp;넷플릭스 오리지널 다큐멘터리 &lt;프레이 어웨이&gt; 포스터.    ⓒ 넷플릭스  &nbsp;지난 2013년 6월, 미국을 넘어 전 세계 최대 전환 치료 단체 '엑소더스 인터내셔널'(이하, '엑소더스')이 문을 닫았다. 이 단체는 녹록지 않은 역사와 전통 그리고 힘을 자랑했는데, 1976년에 시작되어 미국과 캐나다 등 북미에 250개]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F21%2Fohmynews%2F20210821125402200bigh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['경쟁률 1000:1' 뚫은 김재범 "악역인데 경사였죠"[인터뷰]]]></title>
             <link>https://movie.v.daum.net/v/20210821142708955</link>
             <guid>https://movie.v.daum.net/v/20210821142708955</guid>
             <pubDate>Sat, 21 Aug 2021 06:18:39 GMT</pubDate>
             <content:encoded><![CDATA[‘인질’에서 납치범 리더 최기완 역을 연기한 김재범(사진=NEW)[이데일리 스타in 박미애 기자] 충무로가 주목해야 할 ‘뉴페이스’가 탄생했다. 박스오피스 1위를 달리는 영화 ‘인질’의 김재범이다. 연기도 좋지만, 1000대 1의 경쟁률을 뚫고 캐스팅된 사실로도 주목받고 있다. 김재범은 최근 ‘인질’로 진행한 인터뷰에서 “경쟁률이 그렇게 높은 줄은 나중에]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F21%2FEdaily%2F20210821142710849psln.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['동성애는 틀렸다'는 믿음에서 시작된 비극]]></title>
+            <link>https://movie.v.daum.net/v/20210821125401949</link>
+            <guid>https://movie.v.daum.net/v/20210821125401949</guid>
+            <pubDate>Sat, 21 Aug 2021 04:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[[김형욱 기자] &nbsp;        ▲ &nbsp;넷플릭스 오리지널 다큐멘터리 &lt;프레이 어웨이&gt; 포스터.    ⓒ 넷플릭스  &nbsp;지난 2013년 6월, 미국을 넘어 전 세계 최대 전환 치료 단체 '엑소더스 인터내셔널'(이하, '엑소더스')이 문을 닫았다. 이 단체는 녹록지 않은 역사와 전통 그리고 힘을 자랑했는데, 1976년에 시작되어 미국과 캐나다 등 북미에 250개]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F21%2Fohmynews%2F20210821125402200bigh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["가족 관객의 압도적 선택"..'싱크홀', 세대별 관전 포인트 공개]]></title>
@@ -104,36 +96,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fmydaily%2F20210820090848278rkyv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[김선영x이윤지 투톱 영화 '드림팰리스' 크랭크인]]></title>
-            <link>https://movie.v.daum.net/v/20210819165339778</link>
-            <guid>https://movie.v.daum.net/v/20210819165339778</guid>
-            <pubDate>Fri, 20 Aug 2021 22:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 배우 김선영과 이윤지가 주연을 맡은 영화 '드림팰리스'가 8월16일 촬영에 돌입했다. 19일 인디스토리는 이 같은 소식을 전하며 대본 리딩 및 고사현장 사진을 공개했다. '드림팰리스'(감독 가성문)는 새로운 삶을 꿈꾸며 신도시 신축아파트에 입주한 혜정이 할인분양을 둘러싸고 입주민들과 벌어지는 갈등을 그린 영화. 2019년 영화진흥위]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Fstarnews%2F20210819165340618alcf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[전설의 공포게임을 영화로 '화이트데이: 부서진 결계' 론칭 예고편 공개]]></title>
             <link>https://movie.v.daum.net/v/20210820091930263</link>
             <guid>https://movie.v.daum.net/v/20210820091930263</guid>
             <pubDate>Fri, 20 Aug 2021 23:15:12 GMT</pubDate>
             <content:encoded><![CDATA[[서울경제] ‘화이트데이: 부서진 결계’가 9월 개봉을 앞두고 론칭 예고편을 공개했다. ‘화이트데이: 부서진 결계’는 늦은 밤 학교에서 일어나는 기이한 현상을 일으키는 악령으로부터 친구들을 구하기 위한 사투를 그린 공포 판타지 영화. 올해로 발매 20주년을 맞은 국산 PC 패키지 공포 게임의 전설 ‘화이트데이: 학교라는 이름의 미궁’을 바탕으로 퇴마를]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fseouleconomy%2F20210820091936462ojde.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[신난다, 그러나 마음 편히 즐기기는 어렵다]]></title>
-            <link>https://movie.v.daum.net/v/20210821073611859</link>
-            <guid>https://movie.v.daum.net/v/20210821073611859</guid>
-            <pubDate>Fri, 20 Aug 2021 23:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[‘아만다 월러’가 다시 자살특공대, 수어사이드 스쿼드를 모집한다. 악명 높은 감옥 벨 레브에 수감되어 있는 죄수들 중 임무에 적합한 슈퍼파워를 가진 메타휴먼 빌런들이 정예요원으로 뽑힌다. 조건은 언제나와 마찬가지로 감형 10년. 서번트, 캡틴 부메랑, 티디케이(TDK), 위즐 등 존재감이 남다른 빌런들이 남아메리카의 섬 코르토 몰티즈에 잠입한다. 그리고 영]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F21%2Fhani%2F20210821073612400jptm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['보이스' 보이스피싱의 A to Z]]></title>
-            <link>https://movie.v.daum.net/v/20210820100522914</link>
-            <guid>https://movie.v.daum.net/v/20210820100522914</guid>
-            <pubDate>Sat, 21 Aug 2021 00:45:52 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 수많은 실제 사례와 다양한 전문가의 자문 등 철저한 사전조사를 바탕으로 탄생한 영화 '보이스'의 프로덕션 비하인드를 공개한다. 영화 '보이스'(감독 김선 김곡·제작 수필름)는 보이스피싱 조직의 덫에 걸려 모든 것을 잃게 된 서준(변요한)이 빼앗긴 돈을 되찾기 위해 중국에 있는 본거지에 잠입, 보이스피싱 설계자 곽프로(김무열)를]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Ftvdaily%2F20210820100523260xwku.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[차승원의 부성애 "특별하게 하는 것보다 남들 하는 만큼" [★FULL인터뷰]]]></title>
@@ -152,6 +120,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2FSpoChosun%2F20210820162539019qldl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['보이스' 보이스피싱의 A to Z]]></title>
+            <link>https://movie.v.daum.net/v/20210820100522914</link>
+            <guid>https://movie.v.daum.net/v/20210820100522914</guid>
+            <pubDate>Sat, 21 Aug 2021 00:45:52 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 수많은 실제 사례와 다양한 전문가의 자문 등 철저한 사전조사를 바탕으로 탄생한 영화 '보이스'의 프로덕션 비하인드를 공개한다. 영화 '보이스'(감독 김선 김곡·제작 수필름)는 보이스피싱 조직의 덫에 걸려 모든 것을 잃게 된 서준(변요한)이 빼앗긴 돈을 되찾기 위해 중국에 있는 본거지에 잠입, 보이스피싱 설계자 곽프로(김무열)를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Ftvdaily%2F20210820100523260xwku.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[신난다, 그러나 마음 편히 즐기기는 어렵다]]></title>
+            <link>https://movie.v.daum.net/v/20210821073611859</link>
+            <guid>https://movie.v.daum.net/v/20210821073611859</guid>
+            <pubDate>Fri, 20 Aug 2021 23:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[‘아만다 월러’가 다시 자살특공대, 수어사이드 스쿼드를 모집한다. 악명 높은 감옥 벨 레브에 수감되어 있는 죄수들 중 임무에 적합한 슈퍼파워를 가진 메타휴먼 빌런들이 정예요원으로 뽑힌다. 조건은 언제나와 마찬가지로 감형 10년. 서번트, 캡틴 부메랑, 티디케이(TDK), 위즐 등 존재감이 남다른 빌런들이 남아메리카의 섬 코르토 몰티즈에 잠입한다. 그리고 영]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F21%2Fhani%2F20210821073612400jptm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[가족의 탄생이 이렇게 어렵습니다]]></title>
             <link>https://movie.v.daum.net/v/20210820101203255</link>
             <guid>https://movie.v.daum.net/v/20210820101203255</guid>
@@ -166,6 +150,22 @@
             <pubDate>Sat, 21 Aug 2021 07:14:24 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 전형화 기자] 한 주간 생생한 영화 소식을 전해드립니다.진기주가 추창민 감독의 '행복의 나라'에 출연, 조정석 등과 호흡을 맞춘다. ○…진기주가 '광해' 추창민 감독의 신작 '행복의 나라'에 합류했다. '행복의 나라'는 현대사를 뒤흔든 사건 속에 휘말린 한 인물을 살리기 위해 전력투구하는 변호사 이야기. '광해: 왕이 된 남자'를 연출한 추창민]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F21%2Fstarnews%2F20210821103006084pxgj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 '습도 다소 높음', '찬실이는 복도많지'→'좋좋소' 잇는 하이퍼리얼리즘 코미디]]></title>
+            <link>https://movie.v.daum.net/v/20210820094512120</link>
+            <guid>https://movie.v.daum.net/v/20210820094512120</guid>
+            <pubDate>Sat, 21 Aug 2021 08:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자)&nbsp;더 이상의 판타지는 없다. 관찰 예능이 많은 이들을 즐겁게 했듯 영화와 드라마도 현실 고증이 대세다. 먼저 장기 흥행으로 의미있는 스코어를 기록한 '찬실이는 복도 많지'는 영화 프로듀서였지만 지금은 일이 똑 끊겨 먹고 살길이 막막한 ‘찬실’이에게 닥쳐오는 일들을 유쾌하게 그려낸 작품이다. 많은 영화인들은 물론, 팍팍했던 삶에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F20%2Fxportsnews%2F20210820094513365cfqa.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["음악보다 티나의 삶에 초점.. 남자 둘이서 벅차 포기할 뻔"]]></title>
+            <link>https://movie.v.daum.net/v/20210819195757655</link>
+            <guid>https://movie.v.daum.net/v/20210819195757655</guid>
+            <pubDate>Sat, 21 Aug 2021 08:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[TJ 마틴, (왼쪽), 딘 린제이  제17회 제천국제음악영화제 개막작 ‘티나’를 연출한 두 감독, 딘 린제이와 TJ 마틴을 14일 충북 제천시 메가박스 7관에서 만났다. 두 감독은 관객들과 함께 영화를 본 뒤 질문에 답했다. -연출 제안을 받기 전에 티나 터너에 대해 잘 몰랐다던데. “1980년대 성장했던 우리는 티나가 유명한 가수였다는 것은 알았지만]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F19%2Fsegye%2F20210819195758470rdlx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
