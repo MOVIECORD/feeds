@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-22T06:18:34.621Z</updated>
+    <updated>2021-08-22T07:15:12.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SF9 찬희 주연 '화이트데이: 부서진 결', 예고편 공개…늦은 밤 학교에서 [Oh!쎈 예고]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004460808</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004460808"/>
+        <updated>2021-08-22T07:14:14.706Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 공포 판타지 영화 '화이트데이: 부서진 결계' 측이 론칭 예고편을 공개했다. '화이트데이: 부서진 결계'(감독 송운, 제공 조이앤시네마, 제작 슬기로운늑대 라라미디어, 배급 제이앤씨미디어그룹]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도심 재난물 '싱크홀', 개봉 11일 만에 152만 돌파]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003544120</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003544120"/>
+        <updated>2021-08-22T07:14:14.715Z</updated>
+        <content type="html"><![CDATA[지난 11일 개봉한 영화 '싱크홀'(감독 김지훈)이 150만 관객을 돌파했다. 영화진흥위원회 영화관입장권 통합전산망에 따르면, '싱크홀'은 21일 기준 13만 3686명의 관객을 모아 누적 관객수 152만 1567명]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이유미 "황정민 선배님과 함께한 '인질', 큰 배움을 줬죠" [★FULL인터뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002982503</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002982442"/>
         <updated>2021-08-21T23:15:13.239Z</updated>
         <content type="html"><![CDATA[배우 김재범(42)은 스크린에서는 낯선 얼굴이다. '저 배우 누구지?' 했는데, 이미 대학로에서는 잔뼈가 굵은 배우다. 김재범은 황정민의 추천으로 '인질' 오디션에 응모했고 1000대1의 경쟁률을 뚫고 영화에 합류했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인질' 4일 연속 박스오피스 1위…누적관객수 45만 ↑]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004460597</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004460597"/>
-        <updated>2021-08-21T23:15:13.242Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 ‘인질’이 박스오피스 1위를 유지하고 있다. 22일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면, ‘인질’(감독 필감성, 배급 NEW, 제작 외유내강 샘컴퍼니)은 어제(21일) 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['싱크홀' 개봉 11일째 150만 관객 돌파…200만 향해 질주 [공식]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004460595</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004460595"/>
-        <updated>2021-08-21T23:15:13.243Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 올 여름 최고의 오락 영화로 입소문 흥행 열풍을 일으키고 있는 '싱크홀'이 150만 관객을 돌파하며 개봉 2주 차 주말 극장가를 사로잡고 있다. 2021년 한국 영화 흥행 기록을 새롭게 써]]></content>
     </entry>
 </feed>
