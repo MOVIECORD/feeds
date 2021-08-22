@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-22T18:17:58.744Z</updated>
+    <updated>2021-08-22T20:15:59.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[황정민 4번째 여름 흥행 ‘인질’ 주말 압도적 1위‥63만 돌파[박스오피스]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000481605</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000481605"/>
+        <updated>2021-08-22T20:14:58.586Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '베테랑', '공작', '다만 악에서 구하소서'까지 여름 극장가를 책임져온 황정민이 2021년 영화 '인질'로 4번째 흥행 여름을 맞이하고 있다. 8월 23일 영화진흥위원회 통합전산망 집계에]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[천재음악가 소녀와 ‘들을 수 없는’ 가족들, 그들의 선택은]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001465805</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001465805"/>
+        <updated>2021-08-22T20:14:58.591Z</updated>
+        <content type="html"><![CDATA[“신이 방귀 냄새를 만드신 이유를 아니? 못 듣는 사람도 즐길 수 있으라고.” 프랭크(트로이 코처)의 한 마디에 얼굴을 찌푸린 채 코를 막고 있던 딸 루비(에밀리아 존스)의 웃음이 터진다. 이 집에서 소리를 듣는 사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11년 만에 장만한 집이 500m 추락…‘싱크홀’ 150만 돌파]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=025&amp;aid=0003128595</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002982459"/>
         <updated>2021-08-22T00:45:49.124Z</updated>
         <content type="html"><![CDATA[배우 김호영(38)이 자신이 무대에 오르는 뮤지컬 '광화문연가'를 선택하면 후회 없을 것이라고 밝혔다. 뮤지컬 '광화문연가'는 곡 '옛사랑', '소녀', '깊은 밤을 날아서', '붉은 노을', '광화문 연가', '기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['여름날 우리' 허광한 "사랑 이야기 속 용기와 끈기도 봐주세요"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012612326</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012612326"/>
-        <updated>2021-08-22T00:45:49.127Z</updated>
-        <content type="html"><![CDATA["원작 한국영화 '너의 결혼식' 인상 깊게 봐…캐릭터 현지화에 노력" (서울=연합뉴스) 강애란 기자 = 대만에서 4명 중 1명이 봤다는 인기 드라마 '상견니'에서 누구나 꿈꾸는 첫사랑의 모습으로 일약 스타덤에 오른]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마지막을 준비하는 육성 회고록…다큐 '올리버 색스:그의 생애']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012612313</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012612313"/>
-        <updated>2021-08-22T00:45:49.129Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 한미희 기자 = 저명한 신경의학자이자 베스트셀러 작가 올리버 색스는 2015년 1월 시한부 선고를 받았다. 회고록 초고를 출판사에 넘긴 게 불과 2주 전이었다. 죽기 전에 무엇을 해야 할지 고민한]]></content>
     </entry>
 </feed>
