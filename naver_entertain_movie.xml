@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-22T15:17:03.082Z</updated>
+    <updated>2021-08-22T16:22:34.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[11년 만에 장만한 집이 500m 추락…‘싱크홀’ 150만 돌파]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=025&amp;aid=0003128595</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=025&amp;aid=0003128595"/>
+        <updated>2021-08-22T16:21:37.915Z</updated>
+        <content type="html"><![CDATA[11년 만에 마련한 우리 집이 하루아침에 싱크홀로 추락한 ‘웃픈’ 상황이 150만 관객과 통했다. 차승원표 코믹 재난 영화 ‘싱크홀’(감독 김지훈)이 올해 한국영화 두 번째로 150만 관객을 돌파했다. 영화진흥위원회]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cha Seung-won from 'Sinkhole' tells of humor despite disaster]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000015424</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012612313"/>
         <updated>2021-08-22T00:45:49.129Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 한미희 기자 = 저명한 신경의학자이자 베스트셀러 작가 올리버 색스는 2015년 1월 시한부 선고를 받았다. 회고록 초고를 출판사에 넘긴 게 불과 2주 전이었다. 죽기 전에 무엇을 해야 할지 고민한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[DA:박스] ‘싱크홀’ 개봉 2주차 150만 돌파]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000928870</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000928870"/>
-        <updated>2021-08-21T23:15:13.236Z</updated>
-        <content type="html"><![CDATA[영화 '싱크홀'이 150만 관객을 돌파하며 개봉 2주 차 주말 극장가를 사로잡고 있다. 2021년 한국 영화 흥행 기록을 새롭게 써 내려 가고 있는 '싱크홀'이 개봉 11일째인 지난 21일(토), 150만 관객을 돌]]></content>
     </entry>
 </feed>
