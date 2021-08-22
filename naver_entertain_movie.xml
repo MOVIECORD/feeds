@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-22T01:55:51.884Z</updated>
+    <updated>2021-08-22T02:26:05.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['특별 출연' 박성웅, 신예 가득한 '인질' 속 반가운 존재 [★신스틸러]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002982484</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002982484"/>
+        <updated>2021-08-22T02:25:07.128Z</updated>
+        <content type="html"><![CDATA[배우 박성웅이 영화 '인질'(감독 필감성)에 특별 출연해 존재감을 자랑했다. '인질'은 어느 날 새벽, 증거도 목격자도 없이 납치된 배우 황정민을 그린 리얼리티 액션스릴러다. '인질'은 배우 황정민이 인질로 사로잡혔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['싱크홀' 개봉 11일째 150만 관객 돌파 '흥행돌풍 이어가']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001193021</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004841344"/>
         <updated>2021-08-21T22:14:14.175Z</updated>
         <content type="html"><![CDATA[배우 이광수(36)가 재난 영화 ‘싱크홀’의 주인공이 되어 올여름 극장가에 돌아왔다. 이광수는 영화 ‘싱크홀’(감독 김지훈)에서 위에서 치이고, 아래에서도 치이는 짠내 폭발 김대리를 연기했다. ‘싱크홀’은 11년 만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황정민 ‘인질’ 주말 장악 오프닝 대비 2배↑ 핫한 입소문 입증[박스오피스]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000481474</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000481474"/>
-        <updated>2021-08-21T22:14:14.175Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 허민녕 기자] 황정민의 흥행 질주는 올 여름도 유효하다. 화제작 ‘인질’이 오프닝 대비 ‘더블 스코어’를 기록하며 개봉 첫 주말 포문을 화려하게 열었다. 영화관입장권통합전산망에 따르면 ‘인질’은 8월21일]]></content>
     </entry>
 </feed>
