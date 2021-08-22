@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-22T08:16:54.598Z</updated>
+    <updated>2021-08-22T09:16:27.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Cha Seung-won from 'Sinkhole' tells of humor despite disaster]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000015424</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000015424"/>
+        <updated>2021-08-22T09:15:22.387Z</updated>
+        <content type="html"><![CDATA[“Sinkhole” broke Korea's record for gathering one million audience members to its big screen showing in the shortest amo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아파트 가진자 운좋게 살고…차승원표 코믹재난 '싱크홀'150만 돌파]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=025&amp;aid=0003128526</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000928870"/>
         <updated>2021-08-21T23:15:13.236Z</updated>
         <content type="html"><![CDATA[영화 '싱크홀'이 150만 관객을 돌파하며 개봉 2주 차 주말 극장가를 사로잡고 있다. 2021년 한국 영화 흥행 기록을 새롭게 써 내려 가고 있는 '싱크홀'이 개봉 11일째인 지난 21일(토), 150만 관객을 돌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘인질’ 1위…'싱크홀' 150만 돌파[MK박스오피스]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004841350</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004841350"/>
-        <updated>2021-08-21T23:15:13.238Z</updated>
-        <content type="html"><![CDATA[황정민의 ‘인질’이 박스오피스 1위를 굳건히 했다. '싱크홀'은 150만 관객을 돌파했다. 22일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면, ‘인질’(감독 필감성)은 지난 21일 18만 5952명을 동원해]]></content>
     </entry>
 </feed>

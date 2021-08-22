@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Aug 2021 08:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Aug 2021 09:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Cha Seung-won from 'Sinkhole' tells of humor despite disaster (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000015424</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000015424</guid>
+            <pubDate>Sun, 22 Aug 2021 09:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[“Sinkhole” broke Korea's record for gathering one million audience members to its big screen showing in the shortest amo]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[아파트 가진자 운좋게 살고…차승원표 코믹재난 '싱크홀'150만 돌파 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=025&amp;aid=0003128526</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[영화 '싱크홀'이 150만 관객을 돌파하며 개봉 2주 차 주말 극장가를 사로잡고 있다. 2021년 한국 영화 흥행 기록을 새롭게 써 내려 가고 있는 '싱크홀'이 개봉 11일째인 지난 21일(토), 150만 관객을 돌]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘인질’ 1위…'싱크홀' 150만 돌파[MK박스오피스] (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004841350</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004841350</guid>
-            <pubDate>Sat, 21 Aug 2021 23:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[황정민의 ‘인질’이 박스오피스 1위를 굳건히 했다. '싱크홀'은 150만 관객을 돌파했다. 22일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면, ‘인질’(감독 필감성)은 지난 21일 18만 5952명을 동원해]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[인질 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=127738</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=127738</guid>
@@ -231,36 +231,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F17149b5f9a248e4e6e0fe88b5cd2fe99ecc8e2a1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[더 수어사이드 스쿼드 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=122276</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=122276</guid>
-            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8c183d3a3ac7d926c9aac443a650211a7e5494f4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[아이스 로드 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150693</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150693</guid>
-            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.07.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f98e5c0d73c95891b49493b7d62ba4480489df6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[퍼피 구조대 더 무비 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151320</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151320</guid>
             <pubDate>Sun, 15 Aug 2021 15:54:19 GMT</pubDate>
             <content:encoded><![CDATA[21.08.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcddfc4c347466a3f1960fb480cdfa1a57d1835ff" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[팜 스프링스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=137848</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=137848</guid>
-            <pubDate>Thu, 19 Aug 2021 00:41:16 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4c82a5639003742ab571a36d61b6a7092229d9d4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[킬러의 보디가드 2: 킬러의 와이프 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -279,12 +255,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44cff9be3a13f0cf1746357f7d4dd58f248f5f2c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[아이스 로드 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150693</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150693</guid>
+            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.07.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f98e5c0d73c95891b49493b7d62ba4480489df6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 수어사이드 스쿼드 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=122276</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=122276</guid>
+            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8c183d3a3ac7d926c9aac443a650211a7e5494f4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[더 그레이트 샤크 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150566</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150566</guid>
             <pubDate>Fri, 20 Aug 2021 00:46:15 GMT</pubDate>
             <content:encoded><![CDATA[21.08.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa89dc80a0838884bbe5b7da0240ff9664b789c48" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[팜 스프링스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137848</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137848</guid>
+            <pubDate>Thu, 19 Aug 2021 00:41:16 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4c82a5639003742ab571a36d61b6a7092229d9d4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[블랙 위도우 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -301,6 +301,14 @@
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.08.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6dd33309d1b1b3a9e3aa6e65ddf1ebe229433eb3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[갈매기 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=141709</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=141709</guid>
+            <pubDate>Sun, 22 Aug 2021 03:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[21.07.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e4a6d6f2257710d32cc80a3badf784fa2bd2170" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[보스 베이비 2 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -325,14 +333,6 @@
             <pubDate>Thu, 19 Aug 2021 00:41:16 GMT</pubDate>
             <content:encoded><![CDATA[21.08.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4da58d95b4b5b018e3a9726e9bb1b9b9e1970983" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[갈매기 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=141709</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=141709</guid>
-            <pubDate>Sun, 22 Aug 2021 03:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[21.07.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e4a6d6f2257710d32cc80a3badf784fa2bd2170" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[꽃다발 같은 사랑을 했다 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -527,12 +527,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F22%2Fstarnews%2F20210822100002458vnbq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['경쟁률 1000:1' 뚫은 김재범 "악역인데 경사였죠"[인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210821142708955</link>
-            <guid>https://movie.v.daum.net/v/20210821142708955</guid>
-            <pubDate>Sat, 21 Aug 2021 06:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[‘인질’에서 납치범 리더 최기완 역을 연기한 김재범(사진=NEW)[이데일리 스타in 박미애 기자] 충무로가 주목해야 할 ‘뉴페이스’가 탄생했다. 박스오피스 1위를 달리는 영화 ‘인질’의 김재범이다. 연기도 좋지만, 1000대 1의 경쟁률을 뚫고 캐스팅된 사실로도 주목받고 있다. 김재범은 최근 ‘인질’로 진행한 인터뷰에서 “경쟁률이 그렇게 높은 줄은 나중에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F21%2FEdaily%2F20210821142710849psln.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['특별 출연' 박성웅, 신예 가득한 '인질' 속 반가운 존재 [★신스틸러] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210822110002007</link>
+            <guid>https://movie.v.daum.net/v/20210822110002007</guid>
+            <pubDate>Sun, 22 Aug 2021 02:25:30 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 박성웅 /사진 /사진=김창현 기자 chmt@배우 박성웅이 영화 '인질'(감독 필감성)에 특별 출연해 존재감을 자랑했다. '인질'은 어느 날 새벽, 증거도 목격자도 없이 납치된 배우 황정민을 그린 리얼리티 액션스릴러다. '인질'은 배우 황정민이 인질로 사로잡혔다'라는 영화적 상상력에서 시작한다. 영화 '베테랑', '엑시트' 등 제작진]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F22%2Fstarnews%2F20210822110004017kowl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[아파트 가진자 운좋게 살고..차승원표 코믹재난 '싱크홀'150만 돌파 (다음영화 뉴스 ─ 인기)]]></title>
@@ -543,12 +543,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F22%2Fjoongang%2F20210822163139516hhig.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['특별 출연' 박성웅, 신예 가득한 '인질' 속 반가운 존재 [★신스틸러] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210822110002007</link>
-            <guid>https://movie.v.daum.net/v/20210822110002007</guid>
-            <pubDate>Sun, 22 Aug 2021 02:25:30 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 박성웅 /사진 /사진=김창현 기자 chmt@배우 박성웅이 영화 '인질'(감독 필감성)에 특별 출연해 존재감을 자랑했다. '인질'은 어느 날 새벽, 증거도 목격자도 없이 납치된 배우 황정민을 그린 리얼리티 액션스릴러다. '인질'은 배우 황정민이 인질로 사로잡혔다'라는 영화적 상상력에서 시작한다. 영화 '베테랑', '엑시트' 등 제작진]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F22%2Fstarnews%2F20210822110004017kowl.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['경쟁률 1000:1' 뚫은 김재범 "악역인데 경사였죠"[인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210821142708955</link>
+            <guid>https://movie.v.daum.net/v/20210821142708955</guid>
+            <pubDate>Sat, 21 Aug 2021 06:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[‘인질’에서 납치범 리더 최기완 역을 연기한 김재범(사진=NEW)[이데일리 스타in 박미애 기자] 충무로가 주목해야 할 ‘뉴페이스’가 탄생했다. 박스오피스 1위를 달리는 영화 ‘인질’의 김재범이다. 연기도 좋지만, 1000대 1의 경쟁률을 뚫고 캐스팅된 사실로도 주목받고 있다. 김재범은 최근 ‘인질’로 진행한 인터뷰에서 “경쟁률이 그렇게 높은 줄은 나중에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F21%2FEdaily%2F20210821142710849psln.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이유미 "황정민 선배님과 함께한 '인질', 큰 배움을 줬죠" [★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210822150001560</link>
+            <guid>https://movie.v.daum.net/v/20210822150001560</guid>
+            <pubDate>Sun, 22 Aug 2021 06:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 이유미 /사진제공=바로엔터테인먼트배우 이유미(27)가 '인질'은 자신에게 큰 배움을 준 영화라고 밝혔다. '인질'(감독 필감성)은 어느 날 새벽, 증거도 목격자도 없이 납치된 배우 황정민을 그린 리얼리티 액션스릴러다.  '인질'은 배우 황정민이 인질로 사로잡혔다'라는 영화적 상상력에서 시작한다. 영화 '베테랑', '엑시트' 등 제작]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F22%2Fstarnews%2F20210822150002626yqfq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['인질' 김재범, 돌아가신 아버지 향한 절절한 마음 [★비하인드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -575,12 +583,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F22%2Fstarnews%2F20210822080006162enzh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[이유미 "황정민 선배님과 함께한 '인질', 큰 배움을 줬죠" [★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210822150001560</link>
-            <guid>https://movie.v.daum.net/v/20210822150001560</guid>
-            <pubDate>Sun, 22 Aug 2021 06:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 이유미 /사진제공=바로엔터테인먼트배우 이유미(27)가 '인질'은 자신에게 큰 배움을 준 영화라고 밝혔다. '인질'(감독 필감성)은 어느 날 새벽, 증거도 목격자도 없이 납치된 배우 황정민을 그린 리얼리티 액션스릴러다.  '인질'은 배우 황정민이 인질로 사로잡혔다'라는 영화적 상상력에서 시작한다. 영화 '베테랑', '엑시트' 등 제작]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F22%2Fstarnews%2F20210822150002626yqfq.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[황정민 '인질' 4일째 1위..'싱크홀'·'모가디슈' 삼파전 [Nbox] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210822103829675</link>
+            <guid>https://movie.v.daum.net/v/20210822103829675</guid>
+            <pubDate>Sun, 22 Aug 2021 01:55:15 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 윤효정 기자 = 배우 황정민 주연 영화 '인질'(감독 필감성)이 개봉 4일째 1위를 지키고 있다. 영화진흥위원회 영화관 입장권 통합 전산망예 따르면 '인질'은 지난 21일 하루 1275개 스크린에서 18만6167명을 동원하며 박스오피스 1위를 유지했다. 누적관객수는 45만4447명이다. '인질'은 서울 한복판에서 증거도, 목격자도 없]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F22%2FNEWS1%2F20210822103829255ageq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[SF9 찬희 주연 '화이트데이: 부서진 결', 예고편 공개..늦은 밤 학교에서 [Oh!쎈 예고] (다음영화 뉴스 ─ 인기)]]></title>
@@ -597,14 +605,6 @@
             <pubDate>Sun, 22 Aug 2021 00:46:14 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 강민경 기자] 김호영 /사진제공=CJ ENM배우 김호영(38)이 자신이 무대에 오르는 뮤지컬 '광화문연가'를 선택하면 후회 없을 것이라고 밝혔다. 뮤지컬 '광화문연가'는 곡 '옛사랑', '소녀', '깊은 밤을 날아서', '붉은 노을', '광화문 연가', '기억이란 사랑보다', '사랑이 지나가면', '빗속에서', '애수', '가로수 그늘 아래서면']]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F22%2Fstarnews%2F20210822090005762bsgr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[황정민 '인질' 4일째 1위..'싱크홀'·'모가디슈' 삼파전 [Nbox] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210822103829675</link>
-            <guid>https://movie.v.daum.net/v/20210822103829675</guid>
-            <pubDate>Sun, 22 Aug 2021 01:55:15 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 윤효정 기자 = 배우 황정민 주연 영화 '인질'(감독 필감성)이 개봉 4일째 1위를 지키고 있다. 영화진흥위원회 영화관 입장권 통합 전산망예 따르면 '인질'은 지난 21일 하루 1275개 스크린에서 18만6167명을 동원하며 박스오피스 1위를 유지했다. 누적관객수는 45만4447명이다. '인질'은 서울 한복판에서 증거도, 목격자도 없]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F22%2FNEWS1%2F20210822103829255ageq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['싱크홀' 개봉 11일째 150만 관객 돌파..200만 향해 질주 [공식] (다음영화 뉴스 ─ 인기)]]></title>
@@ -647,20 +647,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F22%2Fyonhap%2F20210822084612194omys.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['인질', 4일 연속 1위..흥행 순항 중 [★무비차트] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210822071244328</link>
-            <guid>https://movie.v.daum.net/v/20210822071244328</guid>
-            <pubDate>Sun, 22 Aug 2021 06:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='인질' 포스터영화 '인질'이 4일 연속 박스오피스 1위에 올랐다. 22일 영진위 영화관 입장권 통합전산망에 따르면 '인질'은 지난 21일 18만 5952명의 관객을 모았다. 누적관객수는 45만 4232명으로 이날 중 50만 명을 넘을 것으로 보인다. 2위는 '싱크홀'로 13만 3518명이 봤다. 누적관객수는 152만 139]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F22%2Fstarnews%2F20210822100206160qhvs.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[황정민 '인질' 주말 장악 오프닝 대비 2배↑ 핫한 입소문 입증[박스오피스] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210822070005197</link>
             <guid>https://movie.v.daum.net/v/20210822070005197</guid>
             <pubDate>Sun, 22 Aug 2021 08:16:23 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스엔 허민녕 기자] 황정민의 흥행 질주는 올 여름도 유효하다. 화제작 ‘인질’이 오프닝 대비 ‘더블 스코어’를 기록하며 개봉 첫 주말 포문을 화려하게 열었다. 영화관입장권통합전산망에 따르면 ‘인질’은 8월21일 18만5,944명을 극장으로 끌어 모으며 박스오피스 왕좌를 ‘수성’했다. 8월18일 첫 선을 보인 이후 나흘 연속 1위. 무엇보다 영화는 오]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F22%2Fnewsen%2F20210822070006678psog.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['인질', 4일 연속 1위..흥행 순항 중 [★무비차트] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210822071244328</link>
+            <guid>https://movie.v.daum.net/v/20210822071244328</guid>
+            <pubDate>Sun, 22 Aug 2021 06:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='인질' 포스터영화 '인질'이 4일 연속 박스오피스 1위에 올랐다. 22일 영진위 영화관 입장권 통합전산망에 따르면 '인질'은 지난 21일 18만 5952명의 관객을 모았다. 누적관객수는 45만 4232명으로 이날 중 50만 명을 넘을 것으로 보인다. 2위는 '싱크홀'로 13만 3518명이 봤다. 누적관객수는 152만 139]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F22%2Fstarnews%2F20210822100206160qhvs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[아파트 가진자 운좋게 살고..차승원표 코믹재난 '싱크홀'150만 돌파 (다음영화 뉴스 ─ 최신)]]></title>
@@ -1155,7 +1155,7 @@
             <link>https://tv.naver.com/v/21975486</link>
             <guid>https://tv.naver.com/v/21975486</guid>
             <pubDate>Fri, 20 Aug 2021 09:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210820_85/n1qjd_1629449741568zhFDW_JPEG/310bfec1-0194-11ec-b6bf-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1163,7 +1163,7 @@
             <link>https://tv.naver.com/v/21975263</link>
             <guid>https://tv.naver.com/v/21975263</guid>
             <pubDate>Fri, 20 Aug 2021 09:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210820_39/ZOefA_1629449143573DAI0q_JPEG/c6896a29-0192-11ec-86ec-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1371,7 +1371,7 @@
             <link>https://tv.naver.com/v/21932630</link>
             <guid>https://tv.naver.com/v/21932630</guid>
             <pubDate>Wed, 18 Aug 2021 09:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210818_27/so8Ay_1629275228635oo5xQ_JPEG/ace01f4e-fffd-11eb-bf57-246e963a4708_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
