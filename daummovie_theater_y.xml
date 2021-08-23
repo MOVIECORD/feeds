@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Aug 2021 05:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 06:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f98e5c0d73c95891b49493b7d62ba4480489df6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[더 그레이트 샤크]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150566</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150566</guid>
+            <pubDate>Fri, 20 Aug 2021 00:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa89dc80a0838884bbe5b7da0240ff9664b789c48" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[킬러의 보디가드 2: 킬러의 와이프]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=130061</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=130061</guid>
@@ -96,22 +104,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44cff9be3a13f0cf1746357f7d4dd58f248f5f2c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[팜 스프링스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=137848</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=137848</guid>
-            <pubDate>Thu, 19 Aug 2021 00:41:16 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4c82a5639003742ab571a36d61b6a7092229d9d4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[더 그레이트 샤크]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150566</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150566</guid>
-            <pubDate>Fri, 20 Aug 2021 00:46:15 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa89dc80a0838884bbe5b7da0240ff9664b789c48" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[블랙 위도우]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=123215</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=123215</guid>
@@ -120,20 +112,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff39274b0acd76f7c66f0a5fb9e5b7222ed37b373" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[팜 스프링스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137848</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137848</guid>
+            <pubDate>Thu, 19 Aug 2021 00:41:16 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4c82a5639003742ab571a36d61b6a7092229d9d4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[그린 나이트]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=139183</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=139183</guid>
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.08.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6dd33309d1b1b3a9e3aa6e65ddf1ebe229433eb3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[갈매기]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=141709</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=141709</guid>
-            <pubDate>Mon, 23 Aug 2021 05:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[21.07.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e4a6d6f2257710d32cc80a3badf784fa2bd2170" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[보스 베이비 2]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Mon, 23 Aug 2021 04:19:31 GMT</pubDate>
             <content:encoded><![CDATA[21.07.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F21ff86e22d9f6510c7a186419f99c0d48ce844ff" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[생각의 여름]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=141716</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=141716</guid>
+            <pubDate>Mon, 23 Aug 2021 06:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F88b3e53689b8e60f9a3ee9f00692963a0cbfbb39" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
