@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Aug 2021 02:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 03:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<박강아름 결혼하다> 개봉 축하 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/421732234?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/421732234?act=clip</guid>
+            <pubDate>Mon, 23 Aug 2021 03:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:10]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1317003729%2Fthumb%2F20210823112929" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<여름날 우리> 허광한 스페셜 인터뷰]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/421732091?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/421632717?act=clip</guid>
             <pubDate>Thu, 19 Aug 2021 06:19:09 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:21]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdqin1e68c72oj6vwsrne13e%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33186260698%26signature%3DVloHqD73yHOteI349PDaYGcAOkQ%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdqin1e68c72oj6vwsrne13e%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33186260698%26signature%3DVloHqD73yHOteI349PDaYGcAOkQ%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<슬리핑 위드 마이 스튜던트> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 18 Aug 2021 01:56:09 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:31]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmnn4vzuoyz9dhyxlc4th6zb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33186158757%26signature%3DlV9f5wgeK4ZPLZUvWphSt25sI%252BE%253D%26ts%3D1629249957" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<최선의 삶> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/421580462?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/421580462?act=clip</guid>
-            <pubDate>Tue, 17 Aug 2021 09:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:42]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvg4eg067bhf5mzlm9sdr3ta1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33186098137%26signature%3DnzDkGWT2lcv%252ByAEgzpiZRokA6DA%253D%26ts%3D1629189337" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
