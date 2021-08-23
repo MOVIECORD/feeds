@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-23T20:16:29.224Z</updated>
+    <updated>2021-08-23T21:14:25.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방민아 "데뷔 11년차에 라이징 스타상…계속 라이징하고파" [MD동영상]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003529808</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003529808"/>
+        <updated>2021-08-23T21:13:26.907Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 김정수 기자] 지난 20일 오후 서울 용산구 CGV 용산아이파크몰에선 영화 '최선의 삶' 언론배급 시사회에 참석한 걸스데이 출신 배우 방민아가 제20회 뉴욕 아시안 영화제(2021 New York A]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황정민 ‘인질’ 6일 연속 1위‥70만 넘고 100만 질주 예고[박스오피스]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000482062</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000131542"/>
         <updated>2021-08-23T08:17:15.224Z</updated>
         <content type="html"><![CDATA[마블 ‘이터널스’ 예고편 공개 후 마동석의 ‘길가메시’가 더 궁금해진다. 지난 20일 공개된 ’이터널스’의 메인 예고편이 해외 매체 ‘데드라인’에 따르면 24시간 만에 7,700만 글로벌 뷰를 기록하며 국내 팬뿐 만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['습도 다소 높음' 고봉수 감독 "이병헌 덕분에 이희준 캐스팅…감사"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000274334</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000274334"/>
-        <updated>2021-08-23T07:15:05.307Z</updated>
-        <content type="html"><![CDATA[[SBS연예뉴스 | 김지혜 기자] 영화 '습도 다소 높음'을 연출한 고봉수 감독이 배우 이병헌에게 감사의 마음을 전했다. 23일 오후 영화 '습도 다소 높음' 개봉 기념 인터뷰를 가진 고봉수 감독은 이희준의 캐스팅에]]></content>
     </entry>
 </feed>
