@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Aug 2021 15:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 16:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -247,12 +247,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8c183d3a3ac7d926c9aac443a650211a7e5494f4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아이스 로드 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150693</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150693</guid>
+            <title><![CDATA[블랙 위도우 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=123215</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=123215</guid>
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.07.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f98e5c0d73c95891b49493b7d62ba4480489df6" length="0" type="image//thumb/C408x596/"/>
+            <content:encoded><![CDATA[21.07.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff39274b0acd76f7c66f0a5fb9e5b7222ed37b373" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[팜 스프링스 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -271,6 +271,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa89dc80a0838884bbe5b7da0240ff9664b789c48" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[아이스 로드 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150693</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150693</guid>
+            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.07.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f98e5c0d73c95891b49493b7d62ba4480489df6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[킬러의 보디가드 2: 킬러의 와이프 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=130061</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=130061</guid>
@@ -285,14 +293,6 @@
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.06.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44cff9be3a13f0cf1746357f7d4dd58f248f5f2c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙 위도우 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=123215</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=123215</guid>
-            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.07.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff39274b0acd76f7c66f0a5fb9e5b7222ed37b373" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[그린 나이트 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -543,20 +543,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F23%2Filgansports%2F20210823164218788xtai.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[차승원이 차승원했다..영화 '싱크홀' 웃음+감동 다 잡은 비결 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210823100423499</link>
-            <guid>https://movie.v.daum.net/v/20210823100423499</guid>
-            <pubDate>Mon, 23 Aug 2021 08:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박소영 기자] 배우 차승원의 180도 달라진 캐릭터 변신이 통했다. 차승원은 올해 한국 영화 최단기 100만 관객 돌파와 함께 흥행을 이어가고 있는 영화 '싱크홀'을 통해 '쓰리잡 아빠'와 '프로참견러' 만수의 면모를 뽐내며 대중의 사랑을 받고 있다. 불쑥불쑥 등장한 첫 장면부터 웃음을 자아낸 차승원은 영화 전반에 걸쳐 그만이 할 수 있는 유쾌한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F23%2Fpoctan%2F20210823100423914stux.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[한국영화 리메이크한 중국 로맨틱 코미디, 매력있다 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210823112101352</link>
             <guid>https://movie.v.daum.net/v/20210823112101352</guid>
             <pubDate>Mon, 23 Aug 2021 08:17:39 GMT</pubDate>
             <content:encoded><![CDATA[[김준모 기자] ▲ &nbsp;&lt;여름날 우리&gt; 포스터    ⓒ 찬란  &nbsp;최근 중화권에서 한국영화 리메이크가 연달아 일어나고 있다. &lt;수상한 그녀&gt; &lt;블라인드&gt; &lt;베테랑&gt;에 이어 &lt;써니&gt;와 &lt;그녀를 믿지 마세요&gt; &lt;나의 특별한 형제&gt; 역시 리메이크 후 개봉을 앞두고 있다. 이런 한국영화 리메이크 열풍의 이유는 흥행에 있다. 검증된 콘텐츠를 바탕으로 한]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F23%2Fohmynews%2F20210823112102774pyrb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[차승원이 차승원했다..영화 '싱크홀' 웃음+감동 다 잡은 비결 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210823100423499</link>
+            <guid>https://movie.v.daum.net/v/20210823100423499</guid>
+            <pubDate>Mon, 23 Aug 2021 08:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박소영 기자] 배우 차승원의 180도 달라진 캐릭터 변신이 통했다. 차승원은 올해 한국 영화 최단기 100만 관객 돌파와 함께 흥행을 이어가고 있는 영화 '싱크홀'을 통해 '쓰리잡 아빠'와 '프로참견러' 만수의 면모를 뽐내며 대중의 사랑을 받고 있다. 불쑥불쑥 등장한 첫 장면부터 웃음을 자아낸 차승원은 영화 전반에 걸쳐 그만이 할 수 있는 유쾌한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F23%2Fpoctan%2F20210823100423914stux.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[이소룡 모티브 마블 영화..反中정서 넘을까 (다음영화 뉴스 ─ 인기)]]></title>
@@ -987,7 +987,7 @@
             <link>https://tv.naver.com/v/22015493</link>
             <guid>https://tv.naver.com/v/22015493</guid>
             <pubDate>Mon, 23 Aug 2021 09:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210823_116/s04Wt_1629709834339WpzO9_JPEG/a6e57607-03f1-11ec-b6bf-48df379cc9e4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -995,7 +995,7 @@
             <link>https://tv.naver.com/v/22014639</link>
             <guid>https://tv.naver.com/v/22014639</guid>
             <pubDate>Mon, 23 Aug 2021 09:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210823_151/0tpli_1629707537574KOd8s_JPEG/4a56f27a-03ec-11ec-9b63-505dacfba98a_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1003,7 +1003,7 @@
             <link>https://tv.naver.com/v/22014334</link>
             <guid>https://tv.naver.com/v/22014334</guid>
             <pubDate>Mon, 23 Aug 2021 09:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210823_287/faHFx_1629706832446i8MHm_JPEG/d4b51300-03ea-11ec-8678-48df379cca40_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1011,7 +1011,7 @@
             <link>https://tv.naver.com/v/22013877</link>
             <guid>https://tv.naver.com/v/22013877</guid>
             <pubDate>Mon, 23 Aug 2021 08:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210823_58/WQJyc_1629706028454SJVbs_JPEG/06ff9847-03e9-11ec-a72a-246e963a464c_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1019,7 +1019,7 @@
             <link>https://tv.naver.com/v/22013533</link>
             <guid>https://tv.naver.com/v/22013533</guid>
             <pubDate>Mon, 23 Aug 2021 08:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210823_29/b8heW_1629705300374bsGUC_JPEG/5688fe39-03e7-11ec-82ff-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1027,7 +1027,7 @@
             <link>https://tv.naver.com/v/22013236</link>
             <guid>https://tv.naver.com/v/22013236</guid>
             <pubDate>Mon, 23 Aug 2021 08:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210823_144/l6YNm_1629704661105sg5el_JPEG/dc6abedc-03e5-11ec-a509-a0369ff968b0_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1035,7 +1035,7 @@
             <link>https://tv.naver.com/v/22013036</link>
             <guid>https://tv.naver.com/v/22013036</guid>
             <pubDate>Mon, 23 Aug 2021 08:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210823_83/y44za_1629704218720RtOp1_JPEG/b55dc199-03e4-11ec-a8ac-505dac8c35ff_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1043,7 +1043,7 @@
             <link>https://tv.naver.com/v/22012772</link>
             <guid>https://tv.naver.com/v/22012772</guid>
             <pubDate>Mon, 23 Aug 2021 08:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210823_63/5GkkY_1629703410536EFTB3_JPEG/b97d6e81-03e2-11ec-86ec-48df37ae3fca_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1051,7 +1051,7 @@
             <link>https://tv.naver.com/v/22006685</link>
             <guid>https://tv.naver.com/v/22006685</guid>
             <pubDate>Mon, 23 Aug 2021 02:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210823_126/Whdrb_1629685269931rIRGv_JPEG/98beeb5a-03b7-11ec-8c9c-505dac8c37f3_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
