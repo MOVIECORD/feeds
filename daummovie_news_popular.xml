@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Aug 2021 10:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 11:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,28 +40,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F23%2Fpoctan%2F20210823100423914stux.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[라이터 때문에 이런 일이.. 예비군의 전투력 보여준 영화]]></title>
-            <link>https://movie.v.daum.net/v/20210822115101851</link>
-            <guid>https://movie.v.daum.net/v/20210822115101851</guid>
-            <pubDate>Sun, 22 Aug 2021 03:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[[양형석 기자] 현재 병역제도에서 신체검사 1~3급을 받은 대한민국 국적의 남성은 현역병으로 입대해야 한다. 그리고 군복무를 마친 사람은 자동으로 예비군에 편성된다. 전역 후 1년 차부터 4년 차까지는 지정된 부대에 모여 합숙을 하며 훈련일정을 소화하는 '동원훈련'을 받고 5~6년 차들은 1년에 한 차례씩 8시간의 기본 훈련과 당/후반기 각 6시간의 작계훈]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F22%2Fohmynews%2F20210822115102340nlvo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['프리가이' 라이언 레이놀즈, "더이상 데드풀 슈트 못 입어" 폭소]]></title>
             <link>https://movie.v.daum.net/v/20210823151837144</link>
             <guid>https://movie.v.daum.net/v/20210823151837144</guid>
             <pubDate>Mon, 23 Aug 2021 08:17:39 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]역대급 호평과 함께 입소문 흥행 열풍을 이어가고 있는 영화 ‘프리 가이’가 라이언 레이놀즈의 파격 1인 2역을 확인할 수 있는 ‘듀드 인터뷰 영상’을 전격 공개했다. 이번 작품의 인기 캐릭터로 꼽히는 ‘듀드’는 ‘프리시티’의 유니크한 NEW 히어로 ‘가이’를 위협하는 캐릭터로 근육질에 걸맞은 엄청난 파워를 지녔다. 거기에 아직]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F23%2Fmydaily%2F20210823151837502zhto.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['귀문' '귀신'..한국판 공포물이 뜬다]]></title>
-            <link>https://movie.v.daum.net/v/20210823065723717</link>
-            <guid>https://movie.v.daum.net/v/20210823065723717</guid>
-            <pubDate>Sun, 22 Aug 2021 22:14:49 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘귀문’. 사진제공｜CJ CGV 25일 두 편의 한국 공포영화가 나란히 개봉한다. 올해 감염병의 거센 확산세 속에서도 공포영화가 기대작들의 틈새 사이에서 관객의 간담을 서늘케 하며 유난히 관심을 얻어 늦여름까지 분위기를 이어갈지 주목된다. 공포영화 ‘귀문’(감독 심덕근·제작 고스트픽처스, 주피터필름)과 ‘귀신’(감독 정하용·제작 시네마천국)이 25일]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F23%2Fsportsdonga%2F20210823065725159jmpb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[예고편 24시간만에 7700만뷰..벌써 뜨거운 마동석의 '이터널스']]></title>
@@ -88,6 +72,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F22%2Fmk%2F20210822163604012zopx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[라이터 때문에 이런 일이.. 예비군의 전투력 보여준 영화]]></title>
+            <link>https://movie.v.daum.net/v/20210822115101851</link>
+            <guid>https://movie.v.daum.net/v/20210822115101851</guid>
+            <pubDate>Sun, 22 Aug 2021 03:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[[양형석 기자] 현재 병역제도에서 신체검사 1~3급을 받은 대한민국 국적의 남성은 현역병으로 입대해야 한다. 그리고 군복무를 마친 사람은 자동으로 예비군에 편성된다. 전역 후 1년 차부터 4년 차까지는 지정된 부대에 모여 합숙을 하며 훈련일정을 소화하는 '동원훈련'을 받고 5~6년 차들은 1년에 한 차례씩 8시간의 기본 훈련과 당/후반기 각 6시간의 작계훈]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F22%2Fohmynews%2F20210822115102340nlvo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[한선화♥이완 밀당 로맨스 '영화의 거리' 메인 포스터 공개]]></title>
             <link>https://movie.v.daum.net/v/20210823081054758</link>
             <guid>https://movie.v.daum.net/v/20210823081054758</guid>
@@ -104,12 +96,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F23%2Ftvdaily%2F20210823151207895dzuy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['특별 출연' 박성웅, 신예 가득한 '인질' 속 반가운 존재 [★신스틸러]]]></title>
-            <link>https://movie.v.daum.net/v/20210822110002007</link>
-            <guid>https://movie.v.daum.net/v/20210822110002007</guid>
-            <pubDate>Sun, 22 Aug 2021 02:25:30 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 박성웅 /사진 /사진=김창현 기자 chmt@배우 박성웅이 영화 '인질'(감독 필감성)에 특별 출연해 존재감을 자랑했다. '인질'은 어느 날 새벽, 증거도 목격자도 없이 납치된 배우 황정민을 그린 리얼리티 액션스릴러다. '인질'은 배우 황정민이 인질로 사로잡혔다'라는 영화적 상상력에서 시작한다. 영화 '베테랑', '엑시트' 등 제작진]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F22%2Fstarnews%2F20210822110004017kowl.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['귀문' '귀신'..한국판 공포물이 뜬다]]></title>
+            <link>https://movie.v.daum.net/v/20210823065723717</link>
+            <guid>https://movie.v.daum.net/v/20210823065723717</guid>
+            <pubDate>Sun, 22 Aug 2021 22:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘귀문’. 사진제공｜CJ CGV 25일 두 편의 한국 공포영화가 나란히 개봉한다. 올해 감염병의 거센 확산세 속에서도 공포영화가 기대작들의 틈새 사이에서 관객의 간담을 서늘케 하며 유난히 관심을 얻어 늦여름까지 분위기를 이어갈지 주목된다. 공포영화 ‘귀문’(감독 심덕근·제작 고스트픽처스, 주피터필름)과 ‘귀신’(감독 정하용·제작 시네마천국)이 25일]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F23%2Fsportsdonga%2F20210823065725159jmpb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[300만 가까워진 '모가디슈', 손익분기점 보인다]]></title>
@@ -118,6 +110,14 @@
             <pubDate>Mon, 23 Aug 2021 08:17:39 GMT</pubDate>
             <content:encoded><![CDATA[[성하훈 기자] ▲ &nbsp;&lt;인질&gt;의 한 장면    ⓒ NEW  &nbsp;여름 성수기인 8월 한국영화의 강세가 이어지고 있다. &lt;인질&gt;, &lt;싱크홀&gt;, &lt;모가디슈&gt;가 1위~3위까지를 차지하면서 대부분 관객을 흡수했다. 주말 한국영화 세 편의 점유율은 87%에 달했다. 지난해 8월 코로나19 확산으로 급격하게 얼어붙었던 것과 비교하면 올해 8월 시장은 위기]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F23%2Fohmynews%2F20210823101803959ppkz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['특별 출연' 박성웅, 신예 가득한 '인질' 속 반가운 존재 [★신스틸러]]]></title>
+            <link>https://movie.v.daum.net/v/20210822110002007</link>
+            <guid>https://movie.v.daum.net/v/20210822110002007</guid>
+            <pubDate>Sun, 22 Aug 2021 02:25:30 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 박성웅 /사진 /사진=김창현 기자 chmt@배우 박성웅이 영화 '인질'(감독 필감성)에 특별 출연해 존재감을 자랑했다. '인질'은 어느 날 새벽, 증거도 목격자도 없이 납치된 배우 황정민을 그린 리얼리티 액션스릴러다. '인질'은 배우 황정민이 인질로 사로잡혔다'라는 영화적 상상력에서 시작한다. 영화 '베테랑', '엑시트' 등 제작진]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F22%2Fstarnews%2F20210822110004017kowl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[황정민 '인질' 5일 연속 박스오피스 정상..한국영화 세 편 나란히 1~3위 [종합]]]></title>
