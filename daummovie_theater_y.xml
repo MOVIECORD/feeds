@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Aug 2021 09:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 10:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcddfc4c347466a3f1960fb480cdfa1a57d1835ff" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[더 수어사이드 스쿼드]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=122276</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=122276</guid>
-            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8c183d3a3ac7d926c9aac443a650211a7e5494f4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[아이스 로드]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150693</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150693</guid>
@@ -94,6 +86,14 @@
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.06.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44cff9be3a13f0cf1746357f7d4dd58f248f5f2c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 수어사이드 스쿼드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=122276</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=122276</guid>
+            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8c183d3a3ac7d926c9aac443a650211a7e5494f4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[더 그레이트 샤크]]></title>
@@ -152,20 +152,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4da58d95b4b5b018e3a9726e9bb1b9b9e1970983" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[피닉스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=88389</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=88389</guid>
-            <pubDate>Mon, 23 Aug 2021 04:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[21.07.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F21ff86e22d9f6510c7a186419f99c0d48ce844ff" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[생각의 여름]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=141716</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=141716</guid>
             <pubDate>Mon, 23 Aug 2021 08:17:24 GMT</pubDate>
             <content:encoded><![CDATA[21.08.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F88b3e53689b8e60f9a3ee9f00692963a0cbfbb39" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 도라에몽: 진구의 신공룡]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137663</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137663</guid>
+            <pubDate>Mon, 23 Aug 2021 10:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb977b780889f7deacdb55996768edf5f4bb28cfe" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
