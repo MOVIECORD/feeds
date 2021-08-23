@@ -4,9 +4,17 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Aug 2021 01:50:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 02:24:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['싱크홀' THANK YOU ALL 무비토크 FULL 영상]]></title>
+            <link>https://tv.naver.com/v/22006685</link>
+            <guid>https://tv.naver.com/v/22006685</guid>
+            <pubDate>Mon, 23 Aug 2021 02:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[3분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210823_126/Whdrb_1629685269931rIRGv_JPEG/98beeb5a-03b7-11ec-8c9c-505dac8c37f3_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['상견니' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/21976826</link>
@@ -100,7 +108,7 @@
             <link>https://tv.naver.com/v/21966310</link>
             <guid>https://tv.naver.com/v/21966310</guid>
             <pubDate>Fri, 20 Aug 2021 02:25:32 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210820_135/vKPDh_1629425039822iH5Jk_JPEG/b2981bde-015a-11ec-a9f1-505dac8c3639_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -108,7 +116,7 @@
             <link>https://tv.naver.com/v/21966179</link>
             <guid>https://tv.naver.com/v/21966179</guid>
             <pubDate>Fri, 20 Aug 2021 02:25:32 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210820_173/q0uyR_1629424649029rFJTP_JPEG/7d20a0f2-0159-11ec-9845-505dacfbaa5c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 18 Aug 2021 09:15:49 GMT</pubDate>
             <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210818_27/so8Ay_1629275228635oo5xQ_JPEG/ace01f4e-fffd-11eb-bf57-246e963a4708_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['맨 인 더 다크: 룸 이스케이프' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/21932331</link>
-            <guid>https://tv.naver.com/v/21932331</guid>
-            <pubDate>Wed, 18 Aug 2021 08:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210818_75/wFZgi_16292745675012OPdi_JPEG/3c3faf7a-fffc-11eb-a613-505dac8c38f5_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
