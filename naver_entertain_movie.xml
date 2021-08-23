@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-23T11:13:21.547Z</updated>
+    <updated>2021-08-23T12:24:36.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주인공인 나를 감독도 동정하지 않네…영화 ‘자마’ [리뷰]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003093602</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003093602"/>
+        <updated>2021-08-23T12:23:38.110Z</updated>
+        <content type="html"><![CDATA[[경향신문] 식민지 벽지서 일하는 치안판사 연애도 하고 싶고 떠나고도 싶다 그러나 전개는 늘 바람과 반대 “카메라가 쫓는 이 관료의 한심함 식민주의의 불합리에 대한 조롱” 18세기 말, 스페인의 치안판사 자마(대니얼]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EBS국제다큐영화제, 올해도 관객이 심사합니다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003093601</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003093601"/>
+        <updated>2021-08-23T12:23:38.110Z</updated>
+        <content type="html"><![CDATA[[경향신문] 선발 거쳐 시청자·관객상 선정 개막작은 캐나다 ‘최초의 만찬’ EBS국제다큐영화제(EIDF)가 23일 개막했다. 코로나19로 인해 지난해에 이어 올해도 극장 상영을 최소화하고 TV와 온라인을 위주로]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[TEN 인터뷰] '싱크홀' 차승원 "삶, 나름의 혼란, 철학을 연기에 반영할 수 있는 나이죠"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000496277</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000496277"/>
+        <updated>2021-08-23T12:23:38.114Z</updated>
+        <content type="html"><![CDATA[[텐아시아=노규민 기자] "코미디 연기가 뭐 따로 있나요? 코미디 연기를 하려고 하는 것 자체가 에러라고 생각합니다. 코미디 연기나 누아르 연기, 모두 근본은 똑같습니다." 재난영화 '싱크홀'로 돌아온 차승원이 홀가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모가디슈,누적 관객 278만명 돌파…“ 관람객 호평”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=016&amp;aid=0001877860</id>
@@ -158,26 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003529685"/>
         <updated>2021-08-23T07:15:05.319Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 9월 개봉을 앞둔 '보이스'의 변요한이 목소리로 범인을 쫓는 절실한 추격자로 열연하며 '테이큰' 리암 니슨의 뒤를 이을 장르 대표주자의 탄생을 예고한다. 9월 개봉을 확정하며 새로운 리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['습도 다소 높음' 백승환 "향후 목표? 유명 배우 되는 것" [엑's 인터뷰]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001338420</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001338420"/>
-        <updated>2021-08-23T07:15:05.321Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '고봉수 사단' 백승환이 '습도 다소 높음'에 대한 다양한 이야기를 전했다. 20일 오전 엑스포츠뉴스는 영화 '습도 다소 높음'의 배우 백승환과의 화상 인터뷰를 진행했다. '습도 다소 높]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['습도 다소 높음' 고봉수 감독 "사명감 갖고 만든 작품, 웃고 즐기시길" [엑's 인터뷰]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001338419</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001338419"/>
-        <updated>2021-08-23T07:15:05.323Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 고봉수 감독이 '고봉수 사단'과 함께 신작 '습도 다소 높음'으로 돌아왔다. 20일 오전 엑스포츠뉴스는 영화 '습도 다소 높음'의 고봉수 감독과의 화상 인터뷰를 진행했다. '습도 다소 높]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보이스' 변요한, 목소리로 쫓는 범인…'테이큰' 리암 니슨과 평행 이론]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001338403</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001338403"/>
-        <updated>2021-08-23T07:15:05.324Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '보이스'(감독 김곡, 김선)의 변요한이 목소리로 범인을 쫓는 절실한 추격자로 열연하며 '테이큰' 리암 니슨의 뒤를 이을 장르 대표주자의 탄생을 예고한다. '보이스'는 보이스피싱 조]]></content>
     </entry>
 </feed>
