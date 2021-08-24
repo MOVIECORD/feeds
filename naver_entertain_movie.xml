@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-24T20:16:26.347Z</updated>
+    <updated>2021-08-24T21:13:53.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['모가디슈' 300만 돌파 시점 맞혀라…순금 증정 이벤트]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010681298</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010681298"/>
+        <updated>2021-08-24T21:12:58.457Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]전재경 인턴 기자 = 영화 '모가디슈'(감독 류승완)가 순금 증정 이벤트를 개최한다. 25일 롯데엔터테인먼트에 따르면 '모가디슈'의 300만 관객 돌파 시점을 맞히면 추첨을 통해 180만원 상당의 순금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[숀 펜 "백신 맞은 사람만 극장에서 내 영화 봐라"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012618639</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003469753"/>
         <updated>2021-08-24T09:15:25.888Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=이미지 기자] 방민아가 걸스데이로서도, 배우로도 최선을 다하고 있다. 방민아는 영화 '최선의 삶'을 통해 배우로서 한층 더 성장했다. 제20회 뉴욕 아시안 영화제(2021 New York Asian F]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보이스' 이주영, '독전'·'삼진그룹 영어토익반' 이을 新 팔색조 매력]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001338999</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001338999"/>
-        <updated>2021-08-24T09:15:25.888Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 이주영이 영화 '보이스'(감독 김곡, 김선)의 깡칠 역으로 새로운 매력을 보여줄 예정이다. '보이스'는 보이스피싱 조직의 덫에 걸려 모든 것을 잃게 된 서준(변요한 분)이 빼앗긴 돈]]></content>
     </entry>
 </feed>
