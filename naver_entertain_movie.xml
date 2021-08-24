@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-24T12:29:08.456Z</updated>
+    <updated>2021-08-24T13:21:23.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[금지된 관계를 탐하다…재개봉 '데미지' 메인 포스터 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000811407</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000811407"/>
+        <updated>2021-08-24T13:20:23.646Z</updated>
+        <content type="html"><![CDATA[금기를 사랑한 거장 루이 말 감독의 역작 '데미지'가 오는 26일 재개봉을 확정했다. 영화 '데미지'는 사랑에 빠지면 안 되는 두 남녀의 금지된 로맨스를 그린 충격과 논란의 화제작으로, 줄리엣 비노쉬와 제레미 아이언]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제26회 부산국제영화제, 지석상-비프메세나상-선재상 심사위원 확정]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000811401</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000811401"/>
+        <updated>2021-08-24T13:20:23.647Z</updated>
+        <content type="html"><![CDATA[제26회 부산국제영화제가 지석상과 비프메세나상, 그리고 선재상 심사위원을 확정했다. 지석상은 아시아영화의 성장과 새로운 신인 감독의 발굴과 지원에 헌신해온 故 김지석 수석 프로그래머의 정신과 뜻을 기억하기 위해 20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아동권리영화제 포스터·브이로그·단편영화 등 공모]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000757607</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005560311"/>
         <updated>2021-08-24T09:15:25.906Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 제26회 부산국제영화제가 24일 지석상과 비프메세나상, 그리고 선재상 심사위원을 확정, 발표했다. 지석상은 아시아영화의 성장과 새로운 신인 감독의 발굴과 지원에 헌신해온 故 김지석 수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최선의 삶' 방민아 "영화제 수상, 또 다른 도전을 할 용기가 생겼다" [인터뷰M]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000131636</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000131636"/>
-        <updated>2021-08-24T08:17:40.388Z</updated>
-        <content type="html"><![CDATA[영화 '최선의 삶'으로 18살 여고생 '강이'를 연기, 제20회 뉴욕 아시안 영화제(2021 New York Asian Film Festival)에서 국제 라이징 스타상(Rising Star Asia Award)을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베일 벗은 ‘샹치와 텐 링즈의 전설’, 첫 해외 시사 반응은…]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004842570</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004842570"/>
-        <updated>2021-08-24T08:17:40.391Z</updated>
-        <content type="html"><![CDATA[MCU의 세계관을 확장하며 마블 페이즈 4의 새로운 시대를 이끌어갈 NEW 슈퍼 히어로 ‘샹치’의 이야기를 그린 '샹치와 텐 링즈의 전설'이 해외 첫 시사 후 언론과 평단의 호평을 받고 있다. 9월1일 전 세계 최초]]></content>
     </entry>
 </feed>
