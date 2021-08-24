@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-24T13:21:23.088Z</updated>
+    <updated>2021-08-24T14:15:34.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“한국 덕후들 덕분 ‘스웨덴영화제’ 10돌 잔칫상 차려요”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002557868</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002557868"/>
+        <updated>2021-08-24T14:14:28.418Z</updated>
+        <content type="html"><![CDATA[[짬] 주한 스웨덴 대사 야콥 할그렌 “외교관으로나 개인적으로나 한국은 영원한 친구의 나라로 남을 겁니다. 대사로서 첫 부임지에서, 스웨덴 외교부에서 주는 ‘베스트 프로모션상’까지 받았으니까요.” 지난 16일 오후]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[금지된 관계를 탐하다…재개봉 '데미지' 메인 포스터 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000811407</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005018778"/>
         <updated>2021-08-24T09:15:25.906Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 박미애 기자] 황정민 매직이 또 다시 증명된 여름이다. ‘믿고 보는 배우’ ‘8월의 사나이’란 수식어가 따라붙는 배우답게 이번 영화에서도 티켓 파워를 증명하고 있다. 24일 영화관입장권통합전산망에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혜리 평론가·윤단비 감독 등…BIFF 지석상·비프메세나상·선재상 심사위원]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005560311</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005560311"/>
-        <updated>2021-08-24T09:15:25.906Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 제26회 부산국제영화제가 24일 지석상과 비프메세나상, 그리고 선재상 심사위원을 확정, 발표했다. 지석상은 아시아영화의 성장과 새로운 신인 감독의 발굴과 지원에 헌신해온 故 김지석 수]]></content>
     </entry>
 </feed>
