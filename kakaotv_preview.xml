@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Aug 2021 06:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Aug 2021 07:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<용과 주근깨 공주> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/421768431?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/421768431?act=clip</guid>
+            <pubDate>Tue, 24 Aug 2021 07:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:48]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvee2oh76vkotg77tx8vnp20o%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33186697212%26signature%3Dsn0QzgFIzLuLJfqMGlj2b2CfNJA%253D%26ts%3D1629788412" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<극장판 포켓몬스터: 정글의 아이, 코코> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/421765043?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/421733596?act=clip</guid>
             <pubDate>Mon, 23 Aug 2021 04:20:07 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:10]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F835554265%2Fthumb%2F20210823123402" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F835554265%2Fthumb%2F20210823123402" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<영화의 거리> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 20 Aug 2021 01:54:38 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:47]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvkwj3sjvsc2lz0uf0pqkr3dn%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33186331137%26signature%3DEjErWQV7sz%252BNt40L6W%252BhsokrXO4%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<낯선 가족 : 인 이어두> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/421637468?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/421637468?act=clip</guid>
-            <pubDate>Thu, 19 Aug 2021 09:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:05]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmhxqy78edsygit35eumfelg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33186271172%26signature%3Dj%252BRpHSfK7EOWhe6%252B0Al%252BxxoT6d0%253D" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Aug 2021 06:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Aug 2021 07:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F23%2Ftvdaily%2F20210823174008225fejx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[메뚜기 떼로 형상화한, 극한 상황의 심리 공포]]></title>
+            <link>https://movie.v.daum.net/v/20210823172701176</link>
+            <guid>https://movie.v.daum.net/v/20210823172701176</guid>
+            <pubDate>Tue, 24 Aug 2021 00:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[[김형욱 기자] ▲ &nbsp;넷플릭스 오리지널 영화 &lt;더 스웜&gt; 포스터.    ⓒ 넷플릭스  &nbsp;남편을 잃고 홀로 큰딸 로라와 작은 아들 가스통을 부양해야 하는 비르지니, 미래의 식량이라 불리는 식용 메뚜기로 활로를 뚫어 보고자 한다. 하지만 생각만큼 쉽지가 않다. 식용 메뚜기에 대한 이해도 부족했을 뿐더러, 메뚜기들이 짝짓기를 하지 않으며 충분한 물]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F23%2Fohmynews%2F20210823172704553rkcz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['보이스' 변요한, 목소리로 쫓는 범인..'테이큰' 리암 니슨과 평행 이론]]></title>
             <link>https://movie.v.daum.net/v/20210823152823526</link>
             <guid>https://movie.v.daum.net/v/20210823152823526</guid>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 24 Aug 2021 00:45:00 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 강민경 기자] 박성웅 /사진제공=NEW영화 '인질'(감독 필감성) 속 신스틸러 박성웅 스틸이 공개됐다. 24일 NEW는 '인질' 속 신스틸러로 등장한 박성웅의 스틸을 공개했다. 영화 '인질'은 어느 날 새벽, 증거도 목격자도 없이 납치된 배우 황정민을 그린 리얼리티 액션스릴러. '인질'에 황정민 외에도 실명으로 출연하는 특급 카메오가 있다. 바로]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F24%2Fstarnews%2F20210824091106840eqsq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[메뚜기 떼로 형상화한, 극한 상황의 심리 공포]]></title>
-            <link>https://movie.v.daum.net/v/20210823172701176</link>
-            <guid>https://movie.v.daum.net/v/20210823172701176</guid>
-            <pubDate>Tue, 24 Aug 2021 00:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[[김형욱 기자] ▲ &nbsp;넷플릭스 오리지널 영화 &lt;더 스웜&gt; 포스터.    ⓒ 넷플릭스  &nbsp;남편을 잃고 홀로 큰딸 로라와 작은 아들 가스통을 부양해야 하는 비르지니, 미래의 식량이라 불리는 식용 메뚜기로 활로를 뚫어 보고자 한다. 하지만 생각만큼 쉽지가 않다. 식용 메뚜기에 대한 이해도 부족했을 뿐더러, 메뚜기들이 짝짓기를 하지 않으며 충분한 물]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F23%2Fohmynews%2F20210823172704553rkcz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['습도다소높음' 진상 이희준, 마동석·류준열 잇는 단발 비주얼 '압도']]></title>
@@ -88,20 +88,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F24%2Fnewsis%2F20210824050024205zvgd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[SC초점]"회당 23억"..로다주, 박찬욱 연출 美드라마 '동조자' 출연료, 2021년 최고액 등극]]></title>
-            <link>https://movie.v.daum.net/v/20210823110839683</link>
-            <guid>https://movie.v.daum.net/v/20210823110839683</guid>
-            <pubDate>Mon, 23 Aug 2021 02:24:25 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이승미 기자] '충무로 거장' 박찬욱 감독이 메가폰을 잡는 미국 드라마 시리즈에 출연을 확정한 할리우드 최고 스타 로버트 다우니 주니어가 2021년 전 세계 드라마 출연 배우 가운데 최고액을 받는다. 미국 유력 연예 매체 버라이어티에 따르면 박찬욱 감독이 연출하고 HBO와 A24에서 제작하는 드라마 시리즈 '동조자'에 출연하는 로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F23%2FSpoChosun%2F20210823143235066gjfh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[공식]"'겟아웃' 조던필X'캡틴마블2' 감독"..'캔디맨' 9월 22일 국내 개봉]]></title>
             <link>https://movie.v.daum.net/v/20210824091130127</link>
             <guid>https://movie.v.daum.net/v/20210824091130127</guid>
             <pubDate>Tue, 24 Aug 2021 01:52:42 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠조선 이승미 기자]'겟 아웃' '어스' 조던 필 감독이 공동각본과 제작을 맡은 영화 '캔디맨'(수입·배급 유니버설 픽쳐스)이 9월 22일(수) 대한민국 개봉을 확정하고 메인 포스터를 공개했다. '캔디맨'은 조던 필 감독 공동각본 제작 작품으로, 거울을 보고 이름을 다섯 번 부르면 나타나는 미지의 존재 캔디맨을 둘러싼 미스터리 공포 영화]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F24%2FSpoChosun%2F20210824091130823yqho.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[방민아 "20대 후반에 고등학생役 좋아..지금도 화장 잘 안 해"[인터뷰③]]]></title>
+            <link>https://movie.v.daum.net/v/20210824150521292</link>
+            <guid>https://movie.v.daum.net/v/20210824150521292</guid>
+            <pubDate>Tue, 24 Aug 2021 06:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;(인터뷰②에 이어) 방민아(29)가 이십대 후반에 고등학생을 연기한 것에 대해 “오랜만에 다시 교복을 입어 좋았다”는 심경을 전했다. 방민아는 24일 오후 진행된 화상인터뷰에서 캐릭터에 관한 질문을 받고 “20대 후반에 고등학생 역할을 해서 좋았다”라며 이같이 답했다. 올해 29살인 방민아는 지난 2019년 이 영화의 촬영을 진행했]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F24%2Fpoctan%2F20210824150522901kgah.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[SC초점]"회당 23억"..로다주, 박찬욱 연출 美드라마 '동조자' 출연료, 2021년 최고액 등극]]></title>
+            <link>https://movie.v.daum.net/v/20210823110839683</link>
+            <guid>https://movie.v.daum.net/v/20210823110839683</guid>
+            <pubDate>Mon, 23 Aug 2021 02:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자] '충무로 거장' 박찬욱 감독이 메가폰을 잡는 미국 드라마 시리즈에 출연을 확정한 할리우드 최고 스타 로버트 다우니 주니어가 2021년 전 세계 드라마 출연 배우 가운데 최고액을 받는다. 미국 유력 연예 매체 버라이어티에 따르면 박찬욱 감독이 연출하고 HBO와 A24에서 제작하는 드라마 시리즈 '동조자'에 출연하는 로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F23%2FSpoChosun%2F20210823143235066gjfh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[단독]최은주, '복면가왕' 시동→영화 '킹덤스쿨' 출연]]></title>
@@ -112,12 +120,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F24%2Fstarnews%2F20210824114000470jofs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[방민아 "20대 후반에 고등학생役 좋아..지금도 화장 잘 안해"[인터뷰③]]]></title>
-            <link>https://movie.v.daum.net/v/20210824150521292</link>
-            <guid>https://movie.v.daum.net/v/20210824150521292</guid>
-            <pubDate>Tue, 24 Aug 2021 06:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;(인터뷰②에 이어) 방민아(29)가 이십대 후반에 고등학생을 연기한 것에 대해 “오랜만에 다시 교복을 입어 좋았다”는 심경을 전했다. 방민아는 24일 오후 진행된 화상인터뷰에서 캐릭터에 관한 질문을 받고 “20대 후반에 고등학생 역할을 해서 좋았다”라며 이같이 답했다. 올해 29살인 방민아는 지난 2019년 이 영화의 촬영을 진행했]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F24%2Fpoctan%2F20210824150522901kgah.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['귀문' 김강우x김소혜, 온앤오프 반전 매력 [Oh!쎈 컷]]]></title>
+            <link>https://movie.v.daum.net/v/20210824085424494</link>
+            <guid>https://movie.v.daum.net/v/20210824085424494</guid>
+            <pubDate>Tue, 24 Aug 2021 04:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 '귀문'이 내일(25일) 개봉을 앞두고 현장 비하인드가 담긴 ‘온앤오프 스틸’을 공개했다. '귀문'(감독 심덕근, 제공배급 CJ CGV, 제작 고스트픽처스)은 1990년 집단 살인 사건이 발생한 이후 폐쇄된 귀사리 수련원에 무당의 피가 흐르는 심령연구소 소장과 호기심 많은 대학생들이 발을 들이며 벌어지는 극강의 공포를 그린 작]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F24%2Fpoctan%2F20210824085424302xvms.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["마블이 제대로 해냈다"..'샹치' 로튼토마토 92%, 첫 시사 반응 폭발적]]></title>
+            <link>https://movie.v.daum.net/v/20210824153507610</link>
+            <guid>https://movie.v.daum.net/v/20210824153507610</guid>
+            <pubDate>Tue, 24 Aug 2021 07:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자]마블의 새 영화 '샹치와 텐 링즈의 전설'이 해외 첫 시사 후 언론과 평단의 뜨거운 호평 세례를 받고 있어 화제다. 영화 '샹치와 텐 링즈의 전설'이 해외 첫 시사와 동시에 전 세계 유수 언론과 평단의 극찬 세례를 받고 있다. 이와 함께 영화비평사이트 로튼 토마토에서 신선도 지수 92%를 기록해 눈길을 사로잡는다. 외]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F24%2FSpoChosun%2F20210824153507583diir.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[방민아 "걸스데이 재결합, 아직까진 힘들어..솔로 앨범은 늘 생각만" [인터뷰③]]]></title>
@@ -128,22 +144,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F24%2Fstarnews%2F20210824144133667ptnl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['프리가이' 라이언 레이놀즈, "더이상 데드풀 슈트 못 입어" 폭소]]></title>
-            <link>https://movie.v.daum.net/v/20210823151837144</link>
-            <guid>https://movie.v.daum.net/v/20210823151837144</guid>
-            <pubDate>Mon, 23 Aug 2021 08:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]역대급 호평과 함께 입소문 흥행 열풍을 이어가고 있는 영화 ‘프리 가이’가 라이언 레이놀즈의 파격 1인 2역을 확인할 수 있는 ‘듀드 인터뷰 영상’을 전격 공개했다. 이번 작품의 인기 캐릭터로 꼽히는 ‘듀드’는 ‘프리시티’의 유니크한 NEW 히어로 ‘가이’를 위협하는 캐릭터로 근육질에 걸맞은 엄청난 파워를 지녔다. 거기에 아직]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F23%2Fmydaily%2F20210823151837502zhto.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['귀문' 김강우x김소혜, 온앤오프 반전 매력 [Oh!쎈 컷]]]></title>
-            <link>https://movie.v.daum.net/v/20210824085424494</link>
-            <guid>https://movie.v.daum.net/v/20210824085424494</guid>
-            <pubDate>Tue, 24 Aug 2021 04:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 '귀문'이 내일(25일) 개봉을 앞두고 현장 비하인드가 담긴 ‘온앤오프 스틸’을 공개했다. '귀문'(감독 심덕근, 제공배급 CJ CGV, 제작 고스트픽처스)은 1990년 집단 살인 사건이 발생한 이후 폐쇄된 귀사리 수련원에 무당의 피가 흐르는 심령연구소 소장과 호기심 많은 대학생들이 발을 들이며 벌어지는 극강의 공포를 그린 작]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F24%2Fpoctan%2F20210824085424302xvms.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[이주영, '보이스' 통해 팔색조 매력 예고..180도 변신 [Oh!쎈 컷]]]></title>
             <link>https://movie.v.daum.net/v/20210824083334823</link>
             <guid>https://movie.v.daum.net/v/20210824083334823</guid>
@@ -152,20 +152,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F24%2Fpoctan%2F20210824083334196lqpq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[얼굴 천재에 연기 천재까지.. '여심 방화범'의 원조]]></title>
-            <link>https://movie.v.daum.net/v/20210824101202808</link>
-            <guid>https://movie.v.daum.net/v/20210824101202808</guid>
-            <pubDate>Tue, 24 Aug 2021 05:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[[양형석 기자] 방한할 때마다 팬서비스가 워낙 좋아 한국팬들에게 '친절한 톰 아저씨'로 불리는 배우 톰 크루즈는 &lt;7월 4일생&gt;과 &lt;제리 맥과이어&gt;로 두 번이나 아카데미 시상식 남우주연상 후보에 오른 배우다. 만약 톰 크루즈가 젊은 시절처럼 아카데미 수상을 노리는 영화를 위주로 활동을 이어갔다면 커리어에서 한두 번 정도는 아카데미 남우주연상이라는 타이틀을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F24%2Fohmynews%2F20210824101203363gcza.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['프리가이' 라이언 레이놀즈, "더이상 데드풀 슈트 못 입어" 폭소]]></title>
+            <link>https://movie.v.daum.net/v/20210823151837144</link>
+            <guid>https://movie.v.daum.net/v/20210823151837144</guid>
+            <pubDate>Mon, 23 Aug 2021 08:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]역대급 호평과 함께 입소문 흥행 열풍을 이어가고 있는 영화 ‘프리 가이’가 라이언 레이놀즈의 파격 1인 2역을 확인할 수 있는 ‘듀드 인터뷰 영상’을 전격 공개했다. 이번 작품의 인기 캐릭터로 꼽히는 ‘듀드’는 ‘프리시티’의 유니크한 NEW 히어로 ‘가이’를 위협하는 캐릭터로 근육질에 걸맞은 엄청난 파워를 지녔다. 거기에 아직]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F23%2Fmydaily%2F20210823151837502zhto.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[세상에서 제일 작은 기차역, 모두의 '기적'이 시작된다]]></title>
-            <link>https://movie.v.daum.net/v/20210823134608381</link>
-            <guid>https://movie.v.daum.net/v/20210823134608381</guid>
-            <pubDate>Mon, 23 Aug 2021 08:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '기적'이 온기 가득한 에너지를 담은 메인 예고편을 최초 공개했다. 영화 '기적'(감독 이장훈·제작 블러썸픽쳐스)은 오갈 수 있는 길은 기찻길밖에 없지만 정작 기차역은 없는 마을에 간이역 하나 생기는 게 유일한 인생 목표인 준경(박정민)과 동네 사람들의 이야기를 그린 영화다. 이번에 최초 공개된 메인 예고편은 레트로 감성이 느]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F23%2Ftvdaily%2F20210823134612570nqlh.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[인터뷰 종합] 방민아 "최고 보다는 최선 다하는 배우..걸스데이 재결합은 아직 힘들어"('최선의 삶')]]></title>
+            <link>https://movie.v.daum.net/v/20210824152048944</link>
+            <guid>https://movie.v.daum.net/v/20210824152048944</guid>
+            <pubDate>Tue, 24 Aug 2021 07:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 걸스데이에 이어 배우로 제2의 전성기를 맞은 방민아(28). 한때 최고를 바랐지만 지금은 최선을 바란다는 방민아의 도전은 쉼 없이 계속되고 있었다. 더 나아지기 위해서 기꺼이 더 나빠졌던 소녀들의 이상했고 무서웠고 좋아했던 그 시절의 드라마를 담은 휴먼 영화 '최선의 삶'(이우정 감독, 마일스톤컴퍼니 제작). 극 중]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F24%2FSpoChosun%2F20210824152049061cbtk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
