@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Aug 2021 13:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 14:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,28 +48,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F24%2Fnewsen%2F20210824115303537nxqq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[송중기 '승리호'→전여빈 '낙원의 밤' 등 넷플릭스 7편, 극장서 상영한다 [공식]]]></title>
-            <link>https://movie.v.daum.net/v/20210825085240974</link>
-            <guid>https://movie.v.daum.net/v/20210825085240974</guid>
-            <pubDate>Wed, 25 Aug 2021 00:47:05 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 송중기 '승리호', 전여빈 '낙원의 밤' 등 넷플릭스 작품들이 CGV에서 상영된다. 세계적인 엔터테인먼트 스트리밍 서비스 넷플릭스는 25일 오전, "CGV와 함께 'NETFLIX IN CGV(넷픽)'를 개최한다"라며 "이는 한국 창작자들이 만들고 전 세계가 사랑한 넷플릭스 영화를 위한 특별전"이라고 밝혔다. 오는 9월 1일부]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F25%2Fmydaily%2F20210825085240874oult.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[티아라 지연 '화녀' 주인공 발탁..스릴러물 도전]]></title>
-            <link>https://movie.v.daum.net/v/20210825083438536</link>
-            <guid>https://movie.v.daum.net/v/20210825083438536</guid>
-            <pubDate>Wed, 25 Aug 2021 00:47:05 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 그룹 티아라 겸 배우 박지연이 영화 '화녀' 주인공으로 발탁되며 오랜만에 스크린으로 복귀한다. 영화 '화녀'는 스릴러물의 장편 상업영화로, 박지연은 극중 유명 배우의 삶을 살다 한 순간의 실수로 위기를 겪고 난 후 다시 배우로서의 재기를 꿈꾸는 주인공 '이수연' 역을 맡았다. '화녀'는 촉망받던 배우와 그녀의 팬, 그리]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F25%2FNEWS1%2F20210825083439662cjgt.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['샹치'가 20년에 걸쳐 완성된 이유 "경이롭다"]]></title>
             <link>https://movie.v.daum.net/v/20210825141402165</link>
             <guid>https://movie.v.daum.net/v/20210825141402165</guid>
             <pubDate>Wed, 25 Aug 2021 08:17:50 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]로튼 토마토 신선도 92% 기록 및 “마블이 제대로 해냈다!”, “아이언맨, 토르, 캡틴 아메리카, 블랙 팬서 같은 훌륭한 솔로 무비”, “정형화된 할리우드 공식을 뒤집은 영화!” 등 폭발적 호평과 함께 9월 1일 대한민국에서 전 세계 최초 개봉하는 영화 ‘샹치와 텐 링즈의 전설’에서 활약한 시무 리우, 아콰피나, 장멍이 이번]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F25%2Fmydaily%2F20210825141402124eiic.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[송중기 '승리호'→전여빈 '낙원의 밤' 등 넷플릭스 7편, 극장서 상영한다 [공식]]]></title>
+            <link>https://movie.v.daum.net/v/20210825085240974</link>
+            <guid>https://movie.v.daum.net/v/20210825085240974</guid>
+            <pubDate>Wed, 25 Aug 2021 00:47:05 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 송중기 '승리호', 전여빈 '낙원의 밤' 등 넷플릭스 작품들이 CGV에서 상영된다. 세계적인 엔터테인먼트 스트리밍 서비스 넷플릭스는 25일 오전, "CGV와 함께 'NETFLIX IN CGV(넷픽)'를 개최한다"라며 "이는 한국 창작자들이 만들고 전 세계가 사랑한 넷플릭스 영화를 위한 특별전"이라고 밝혔다. 오는 9월 1일부]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F25%2Fmydaily%2F20210825085240874oult.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[박지연, '화녀' 주연 발탁..송지은X김누리와 호흡 [공식]]]></title>
@@ -80,6 +72,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F25%2Fsportstoday%2F20210825142505308nvre.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[티아라 지연 '화녀' 주인공 발탁..스릴러물 도전]]></title>
+            <link>https://movie.v.daum.net/v/20210825083438536</link>
+            <guid>https://movie.v.daum.net/v/20210825083438536</guid>
+            <pubDate>Wed, 25 Aug 2021 00:47:05 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 그룹 티아라 겸 배우 박지연이 영화 '화녀' 주인공으로 발탁되며 오랜만에 스크린으로 복귀한다. 영화 '화녀'는 스릴러물의 장편 상업영화로, 박지연은 극중 유명 배우의 삶을 살다 한 순간의 실수로 위기를 겪고 난 후 다시 배우로서의 재기를 꿈꾸는 주인공 '이수연' 역을 맡았다. '화녀'는 촉망받던 배우와 그녀의 팬, 그리]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F25%2FNEWS1%2F20210825083439662cjgt.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[노규민의 영화인싸] "MCU 얘기 좀 합시다"..마블 첫 아시안 히어로 '샹치' 따낸 시무 리우]]></title>
             <link>https://movie.v.daum.net/v/20210825070101897</link>
             <guid>https://movie.v.daum.net/v/20210825070101897</guid>
@@ -88,12 +88,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F25%2F10asia%2F20210825070105371dztk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['듄' 영화 '아바타' 이후 가장 혁명적 프로젝트, 초호화 캐스팅으로 기대작으로 등극!]]></title>
-            <link>https://movie.v.daum.net/v/20210825084208715</link>
-            <guid>https://movie.v.daum.net/v/20210825084208715</guid>
-            <pubDate>Wed, 25 Aug 2021 00:47:05 GMT</pubDate>
-            <content:encoded><![CDATA[화제작 ‘듄’이 10월 개봉을 확정했다. ‘아바타’ 이후 가장 혁명적인 프로젝트이자 경이로움과 아름다움을 선사하는 역사적인 블록버스터의 탄생을 예고한다. 영화 ‘듄’은 생명 유지 자원인 스파이스를 두고 아라키스 모래 행성 ‘듄’에서 악의 세력과 전쟁을 앞둔, 전 우주의 왕좌에 오를 운명으로 태어난 전설의 메시아 폴의 위대한 여정을 그린 작품이다. 프랭크]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F25%2FiMBC%2F20210825084214472bhka.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['인질'로 입증한 이유미, 내일이 기대되는 이유]]></title>
+            <link>https://movie.v.daum.net/v/20210825074918520</link>
+            <guid>https://movie.v.daum.net/v/20210825074918520</guid>
+            <pubDate>Wed, 25 Aug 2021 09:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 박상후 기자] '인질' 배우 이유미가 다시 한번 믿고 보는 배우의 진가를 입증했다. 소속사 바로엔터테인먼트 측은 25일 "이유미가 지난 18일 개봉한 영화 '인질'을 통해 고밀도의 현실감 넘치는 연기로 호평을 자아내고 있다"라고 밝혔다. 이유미는 영화 '박화영', '어른들은 몰라요', 드라마 '20세기 소년소녀', '365: 운명을 거스르는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F25%2Ftvdaily%2F20210825074919193rhzr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[나이 듦의 공포와 혐오감이 만연한 해변의 시간들]]></title>
@@ -104,12 +104,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F25%2Fohmynews%2F20210825133308717gxiy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['인질'로 입증한 이유미, 내일이 기대되는 이유]]></title>
-            <link>https://movie.v.daum.net/v/20210825074918520</link>
-            <guid>https://movie.v.daum.net/v/20210825074918520</guid>
-            <pubDate>Wed, 25 Aug 2021 09:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 박상후 기자] '인질' 배우 이유미가 다시 한번 믿고 보는 배우의 진가를 입증했다. 소속사 바로엔터테인먼트 측은 25일 "이유미가 지난 18일 개봉한 영화 '인질'을 통해 고밀도의 현실감 넘치는 연기로 호평을 자아내고 있다"라고 밝혔다. 이유미는 영화 '박화영', '어른들은 몰라요', 드라마 '20세기 소년소녀', '365: 운명을 거스르는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F25%2Ftvdaily%2F20210825074919193rhzr.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['듄' 영화 '아바타' 이후 가장 혁명적 프로젝트, 초호화 캐스팅으로 기대작으로 등극!]]></title>
+            <link>https://movie.v.daum.net/v/20210825084208715</link>
+            <guid>https://movie.v.daum.net/v/20210825084208715</guid>
+            <pubDate>Wed, 25 Aug 2021 00:47:05 GMT</pubDate>
+            <content:encoded><![CDATA[화제작 ‘듄’이 10월 개봉을 확정했다. ‘아바타’ 이후 가장 혁명적인 프로젝트이자 경이로움과 아름다움을 선사하는 역사적인 블록버스터의 탄생을 예고한다. 영화 ‘듄’은 생명 유지 자원인 스파이스를 두고 아라키스 모래 행성 ‘듄’에서 악의 세력과 전쟁을 앞둔, 전 우주의 왕좌에 오를 운명으로 태어난 전설의 메시아 폴의 위대한 여정을 그린 작품이다. 프랭크]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F25%2FiMBC%2F20210825084214472bhka.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[디즈니 코로나 굴욕? 고질라에게도 밀린 '블랙 위도우' 어쩌다[무비와치]]]></title>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-25T13:22:09.517Z</updated>
+    <updated>2021-08-25T14:15:11.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[레전드 예약 ‘듄’, 10월 개봉[공식]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004843297</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004843297"/>
+        <updated>2021-08-25T14:14:03.873Z</updated>
+        <content type="html"><![CDATA[혁명적 시도가 인상적인 할리우드 블록버스터 ‘듄’이 10월 개봉을 확정했다. ‘듄’은 생명 유지 자원인 스파이스를 두고 아라키스 모래 행성 ‘듄’에서 악의 세력과 전쟁을 앞둔, 전 우주의 왕좌에 오를 운명으로 태어난]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부산영화제, OTT 콘텐츠 상영 섹션 만들었다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000757860</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000482821"/>
         <updated>2021-08-25T08:17:22.691Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김노을 기자] 할리우드 배우 톰 크루즈가 영국의 한 개인 정원에 나타났다. 현재 영국에서 영화 '미션 임파서블' 시리즈를 촬영 중인 톰 크루즈의 헬기가 영국 외곽에 사는 앨리슨 웹이 소유하고 있는 정원에 착]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인질' 끌고 '모가디슈' 밀고 [필름:리포트]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001193278</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001193278"/>
-        <updated>2021-08-25T08:17:22.691Z</updated>
-        <content type="html"><![CDATA[한국영화 삼파전이 극장가를 달구고 있는 가운데 영화 ‘인질’과 ‘모가디슈’가 또 다른 관심을 모으고 있다. 두 작품은 영화제작사 ‘외유내강’이 만든 영화로, 올여름 흥행작 리스트에 나란히 이름을 올리면서 주목을 받고]]></content>
     </entry>
 </feed>
