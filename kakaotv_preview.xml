@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Aug 2021 03:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 04:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<듄> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/421791147?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/421791147?act=clip</guid>
+            <pubDate>Wed, 25 Aug 2021 04:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:27]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvuqlyg74iw5808ibhcj0vc1q%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33186771062%26signature%3DLj%252BnoZ5LUYeE7YkUPIofmO%252FlA%252BQ%253D%26ts%3D1629862262" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<이터널스> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/421788141?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/421734531?act=clip</guid>
             <pubDate>Mon, 23 Aug 2021 04:20:07 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:39]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvp583np7b0w6sl3alu7xckfs%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33186601031%26signature%3DvL3mqSy58XoaOL%252Bbzt4rjt%252FSNTc%253D%26ts%3D1629692231" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvp583np7b0w6sl3alu7xckfs%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33186601031%26signature%3DvL3mqSy58XoaOL%252Bbzt4rjt%252FSNTc%253D%26ts%3D1629692231" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<첫눈이 사라졌다> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 20 Aug 2021 02:25:27 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:39]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F869590127%2Fthumb%2F20210820105413" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<레전드 스트라이커> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/421654839?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/421654839?act=clip</guid>
-            <pubDate>Fri, 20 Aug 2021 01:54:38 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:04]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5clj4wwq0c5cc758cvkqedq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33186332659%26signature%3DZdAaDXvxNH4xeSihi8zKBmDl5iw%253D" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
