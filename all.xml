@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Aug 2021 17:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 18:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -439,6 +439,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F047da9511aa35e5892f2ad983473b03710c24516" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[고스트 스나이퍼 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153072</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153072</guid>
+            <pubDate>Wed, 25 Aug 2021 18:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5fd03a66a4e3d06738926b3de30376cb8ce1e623" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[코다 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=147452</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=147452</guid>
@@ -493,14 +501,6 @@
             <pubDate>Tue, 24 Aug 2021 23:15:14 GMT</pubDate>
             <content:encoded><![CDATA[21.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb06f7722510ddaec82eff5f556e9889f92946c2e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[스네이크 아이즈: 지.아이.조 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=137243</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=137243</guid>
-            <pubDate>Tue, 24 Aug 2021 23:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[21.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7e3c07f14911dd107fa48930131b0eb3b7696b60" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA['매트릭스4' 부제는 '레저렉션(부활)'..키아누 리브스 "내가 미쳤나?" [Oh!llywood] (다음영화 뉴스 ─ 인기)]]></title>
@@ -575,20 +575,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F25%2Ftvdaily%2F20210825074919193rhzr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[티아라 지연 '화녀' 주인공 발탁..스릴러물 도전 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210825083438536</link>
-            <guid>https://movie.v.daum.net/v/20210825083438536</guid>
-            <pubDate>Wed, 25 Aug 2021 00:47:05 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 그룹 티아라 겸 배우 박지연이 영화 '화녀' 주인공으로 발탁되며 오랜만에 스크린으로 복귀한다. 영화 '화녀'는 스릴러물의 장편 상업영화로, 박지연은 극중 유명 배우의 삶을 살다 한 순간의 실수로 위기를 겪고 난 후 다시 배우로서의 재기를 꿈꾸는 주인공 '이수연' 역을 맡았다. '화녀'는 촉망받던 배우와 그녀의 팬, 그리]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F25%2FNEWS1%2F20210825083439662cjgt.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[나이 듦의 공포와 혐오감이 만연한 해변의 시간들 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210825133307745</link>
             <guid>https://movie.v.daum.net/v/20210825133307745</guid>
             <pubDate>Wed, 25 Aug 2021 09:15:27 GMT</pubDate>
             <content:encoded><![CDATA[[장혜령 기자] ▲ &nbsp;영화 &lt;올드&gt; 포스터    ⓒ 유니버설 픽쳐스  &nbsp;시간이 기이하게 흐르는 해변이 있었다. 아무도 그곳을 알아차리지 못했다. 그곳은 30분이 1년이라는 빠른 속도의 공간이었다. 탁 트여 있지만 꽉 막혀 있는 숨 막히는 공간. 누군가가 축복인지 불행인지 묘한 해변을 발견했고, 여기에 사람들이 몰리기 시작했다. 도시의 사람들은]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F25%2Fohmynews%2F20210825133308717gxiy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[티아라 지연 '화녀' 주인공 발탁..스릴러물 도전 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210825083438536</link>
+            <guid>https://movie.v.daum.net/v/20210825083438536</guid>
+            <pubDate>Wed, 25 Aug 2021 00:47:05 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 그룹 티아라 겸 배우 박지연이 영화 '화녀' 주인공으로 발탁되며 오랜만에 스크린으로 복귀한다. 영화 '화녀'는 스릴러물의 장편 상업영화로, 박지연은 극중 유명 배우의 삶을 살다 한 순간의 실수로 위기를 겪고 난 후 다시 배우로서의 재기를 꿈꾸는 주인공 '이수연' 역을 맡았다. '화녀'는 촉망받던 배우와 그녀의 팬, 그리]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F25%2FNEWS1%2F20210825083439662cjgt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[노규민의 영화인싸] "MCU 얘기 좀 합시다"..마블 첫 아시안 히어로 '샹치' 따낸 시무 리우 (다음영화 뉴스 ─ 인기)]]></title>
@@ -639,20 +639,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F25%2Fstarnews%2F20210825080432023xtmz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["제작비 50% 먼저 지급"..극장가 아름다운 '통 큰 양보' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210825065720811</link>
-            <guid>https://movie.v.daum.net/v/20210825065720811</guid>
-            <pubDate>Wed, 25 Aug 2021 00:47:05 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘모가디슈’ 한 장면. 사진제공｜롯데엔터테인먼트“백신의 빠른 보급과 맞물려 한국영화 개봉이 늘어나고 있는 만큼 관객의 더 큰 성원과 사랑을 기대한다.” 올해 6월 CJ CGV·롯데시네마·메가박스 등이 소속된 한국상영관협회가 내놓은 바람이다. 당시 한국상영관협회는 투자배급사와 극장 티켓 매출의 절반씩 나눠온 종전의 ‘부율’과 상관없이 ‘모가디슈’와 ‘]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F25%2Fsportsdonga%2F20210825065723051qnhu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[18년만 돌아온 '매트릭스4' 예고편 공개 "부제는 '레저렉션'"[할리우드비하인드] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210825172427590</link>
             <guid>https://movie.v.daum.net/v/20210825172427590</guid>
             <pubDate>Wed, 25 Aug 2021 17:20:59 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스엔 김노을 기자] '매트릭스4'가 '부활'한다. 워너 브라더스는 8월 24일(현지시간) 진행한 시네마 컨퍼런스에서 영화 '매트릭스4' 예고편을 공개했다. 부제는 부활을 뜻하는 '레저렉션(Resurrection)'이다. 공개된 '매트릭스4' 예고편 첫 장면은 키아누 리브스와 닐 패트릭 해리스가 대화하는 모습으로 시작, 앞선 시리즈처럼 키아누 리브스는]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F25%2Fnewsen%2F20210825172428900jjan.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["제작비 50% 먼저 지급"..극장가 아름다운 '통 큰 양보' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210825065720811</link>
+            <guid>https://movie.v.daum.net/v/20210825065720811</guid>
+            <pubDate>Wed, 25 Aug 2021 00:47:05 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘모가디슈’ 한 장면. 사진제공｜롯데엔터테인먼트“백신의 빠른 보급과 맞물려 한국영화 개봉이 늘어나고 있는 만큼 관객의 더 큰 성원과 사랑을 기대한다.” 올해 6월 CJ CGV·롯데시네마·메가박스 등이 소속된 한국상영관협회가 내놓은 바람이다. 당시 한국상영관협회는 투자배급사와 극장 티켓 매출의 절반씩 나눠온 종전의 ‘부율’과 상관없이 ‘모가디슈’와 ‘]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F25%2Fsportsdonga%2F20210825065723051qnhu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['보이스' 이주영, '독전'·'삼진그룹 영어토익반' 이을 新 팔색조 매력 (다음영화 뉴스 ─ 인기)]]></title>
@@ -995,7 +995,7 @@
             <link>https://tv.naver.com/v/22059212</link>
             <guid>https://tv.naver.com/v/22059212</guid>
             <pubDate>Wed, 25 Aug 2021 09:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210825_62/LYnNZ_1629882179783PXFeJ_JPEG/2e367c20-0583-11ec-8678-48df379cca40_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1003,7 +1003,7 @@
             <link>https://tv.naver.com/v/22058409</link>
             <guid>https://tv.naver.com/v/22058409</guid>
             <pubDate>Wed, 25 Aug 2021 09:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210825_115/N0F0b_1629880142172PxdaA_JPEG/42a28cef-057e-11ec-8e61-a0369ff94f34_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1011,7 +1011,7 @@
             <link>https://tv.naver.com/v/22058025</link>
             <guid>https://tv.naver.com/v/22058025</guid>
             <pubDate>Wed, 25 Aug 2021 08:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210825_210/zPplR_1629879300360K98o3_JPEG/5ebde6b2-057c-11ec-9b63-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1019,7 +1019,7 @@
             <link>https://tv.naver.com/v/22057917</link>
             <guid>https://tv.naver.com/v/22057917</guid>
             <pubDate>Wed, 25 Aug 2021 08:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210825_79/ZX6z7_1629879044391eFLoc_JPEG/bd01c9d7-057b-11ec-89ce-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1027,7 +1027,7 @@
             <link>https://tv.naver.com/v/22056851</link>
             <guid>https://tv.naver.com/v/22056851</guid>
             <pubDate>Wed, 25 Aug 2021 08:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210825_174/mzbZX_16298766888747l84v_JPEG/293a02c9-0576-11ec-9845-505dacfbaa5c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1035,7 +1035,7 @@
             <link>https://tv.naver.com/v/22055749</link>
             <guid>https://tv.naver.com/v/22055749</guid>
             <pubDate>Wed, 25 Aug 2021 07:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210825_231/lXC0t_1629874277053czgh7_JPEG/3d84c477-0570-11ec-86ec-48df37ae3fca_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1043,7 +1043,7 @@
             <link>https://tv.naver.com/v/22055352</link>
             <guid>https://tv.naver.com/v/22055352</guid>
             <pubDate>Wed, 25 Aug 2021 07:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210825_165/ZOgLt_16298733312004Hwji_JPEG/91775191-056e-11ec-8678-48df379cca40_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1051,7 +1051,7 @@
             <link>https://tv.naver.com/v/22055179</link>
             <guid>https://tv.naver.com/v/22055179</guid>
             <pubDate>Wed, 25 Aug 2021 07:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210825_123/x3Nyl_1629872928589m3990_JPEG/7b160f5a-056d-11ec-9d7e-a0369ff952f4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1059,7 +1059,7 @@
             <link>https://tv.naver.com/v/22055020</link>
             <guid>https://tv.naver.com/v/22055020</guid>
             <pubDate>Wed, 25 Aug 2021 07:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210825_108/kKTIu_1629872548183mKbwt_JPEG/b748f020-056c-11ec-82ff-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1067,7 +1067,7 @@
             <link>https://tv.naver.com/v/22054897</link>
             <guid>https://tv.naver.com/v/22054897</guid>
             <pubDate>Wed, 25 Aug 2021 06:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210825_65/kjmew_1629872260159FPPtG_JPEG/f7a79f8d-056b-11ec-8f8d-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1075,7 +1075,7 @@
             <link>https://tv.naver.com/v/22053084</link>
             <guid>https://tv.naver.com/v/22053084</guid>
             <pubDate>Wed, 25 Aug 2021 05:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210825_206/sRhC4_1629867907045cIBVk_JPEG/9e9675fd-0561-11ec-9845-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1083,7 +1083,7 @@
             <link>https://tv.naver.com/v/22049884</link>
             <guid>https://tv.naver.com/v/22049884</guid>
             <pubDate>Wed, 25 Aug 2021 03:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210825_111/cnHuE_1629859351152paUP8_JPEG/b9daaf51-054d-11ec-80a9-a0369ff95678_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1091,7 +1091,7 @@
             <link>https://tv.naver.com/v/22049311</link>
             <guid>https://tv.naver.com/v/22049311</guid>
             <pubDate>Wed, 25 Aug 2021 02:25:40 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210825_10/bx8JM_1629857593558fFSdO_JPEG/bf70929f-0549-11ec-8111-505dac8c381b_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1099,7 +1099,7 @@
             <link>https://tv.naver.com/v/22049151</link>
             <guid>https://tv.naver.com/v/22049151</guid>
             <pubDate>Wed, 25 Aug 2021 02:25:40 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210825_233/IkoHR_1629857120794oeQNe_JPEG/a559c304-0548-11ec-9d7e-a0369ff952f4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
