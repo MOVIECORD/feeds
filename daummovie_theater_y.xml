@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Aug 2021 16:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 17:21:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=151333</guid>
             <pubDate>Wed, 25 Aug 2021 00:46:51 GMT</pubDate>
             <content:encoded><![CDATA[21.08.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1ad067800d4d9fa50c4626c017a0f831e31e27a3" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e883bbf9717d6e78b84c03dceadc2f748bbaf5b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[레미니센스]]></title>
