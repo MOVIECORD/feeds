@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-25T20:16:36.812Z</updated>
+    <updated>2021-08-25T21:14:09.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[클로즈업 필름]슈퍼스타 오사카 나오미는 우울하다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010683803</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010683803"/>
+        <updated>2021-08-25T21:13:10.049Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 넷플릭스 다큐 '오사카 나오미:정상에 서서' [서울=뉴시스] 손정빈 기자 = 2018년 US오픈 테니스 대회 여자 단식 결승. 21살의 오사카 나오미가 세리나 윌리엄스를 이기고 우승한다. 10여년 간]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황정민 ‘인질’ 80만 돌파‥8일째 1위 ‘굳건’[박스오피스]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000482928</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001339463"/>
         <updated>2021-08-25T09:14:59.682Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 배우 박정민과 임윤아가 뭉친 영화 '기적'이 9월 15일 개봉을 확정지었다. '기적'(감독 이장훈)은 오갈 수 있는 길은 기찻길밖에 없지만 정작 기차역은 없는 마을에 간이역 하나 생기는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박정민·임윤아, 준경과 라희의 '기적'처럼 싱그러운 '케미' [N화보]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005562915</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005562915"/>
-        <updated>2021-08-25T09:14:59.683Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '기적'(감독 이장훈)의 주인공 박정민, 임윤아의 싱그러운 호흡이 담긴 마리끌레르 화보가 공개됐다. 25일 공개된 박정민, 임윤아의 마리끌레르 화보에서는 두 배우의 빛나는 '케미]]></content>
     </entry>
 </feed>
