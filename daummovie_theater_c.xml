@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Aug 2021 08:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 09:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,20 +32,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4f98bccfb72790b319d30d2fa4303cd49eda578" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[자마]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=114771</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=114771</guid>
-            <pubDate>Wed, 18 Aug 2021 23:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F59dc5878cbd995a1b68d2e175baae4c02ed24f47" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[다이노 마이 프렌드]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151976</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151976</guid>
             <pubDate>Wed, 18 Aug 2021 23:15:30 GMT</pubDate>
             <content:encoded><![CDATA[21.08.26]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F93349a89d113d410c0d3a697da856283e5cbea78" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[자마]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=114771</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=114771</guid>
+            <pubDate>Wed, 18 Aug 2021 23:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F59dc5878cbd995a1b68d2e175baae4c02ed24f47" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[마더스 인스팅트]]></title>
