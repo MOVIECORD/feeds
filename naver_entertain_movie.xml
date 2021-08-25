@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-25T19:13:01.673Z</updated>
+    <updated>2021-08-25T20:16:36.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[황정민 ‘인질’ 80만 돌파‥8일째 1위 ‘굳건’[박스오피스]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000482928</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000482928"/>
+        <updated>2021-08-25T20:15:39.919Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '인질'이 80만 관객을 돌파했다. 8월 26일 영화진흥위원회 통합전산망 집계에 따르면 25일 영화 '인질'(감독 필감성)이 6만6,251명을 모으며 전체 박스오피스 1위를 차지했다. 지난 1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['인질' 악당 김재범 "황정민 형이 눈이 묘하다며 오디션 제안"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000625864</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000625864"/>
+        <updated>2021-08-25T20:15:39.932Z</updated>
+        <content type="html"><![CDATA[낯설다. 주요 배역인데, 영화나 드라마로 만났던 얼굴은 아니다. 영화 ‘인질’의 관객 대부분은 악당 최기완(김재범)을 향한 물음표를 품으며 극장 문을 나설 듯하다. 최기완은 유명 배우 황정민(황정민)을 납치한 후 몸]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["당신은 좋은 사람인가요?"…묵직한 질문 던진 '좋은 사람']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000102532</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005562915"/>
         <updated>2021-08-25T09:14:59.683Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '기적'(감독 이장훈)의 주인공 박정민, 임윤아의 싱그러운 호흡이 담긴 마리끌레르 화보가 공개됐다. 25일 공개된 박정민, 임윤아의 마리끌레르 화보에서는 두 배우의 빛나는 '케미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[POP이슈]방민아·한선화·한승연, 걸그룹 출신 연기돌의 가을 극장가 접수]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003470129</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003470129"/>
-        <updated>2021-08-25T09:14:59.686Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] 방민아, 한선화, 한승연이 9월 극장가를 수놓는다. 그룹 걸스데이 출신 방민아, 시크릿 출신 한선화, 카라 출신 한승연이 나란히 스크린에 출격한다. 방민아는 영화 '최선의 삶'을 통해 배]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[18년만 돌아온 ‘매트릭스4’ 예고편 공개 “부제는 ‘레저렉션’”[할리우드비하인드]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000482837</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000482837"/>
-        <updated>2021-08-25T09:14:59.689Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김노을 기자] '매트릭스4'가 '부활'한다. 워너 브라더스는 8월 24일(현지시간) 진행한 시네마 컨퍼런스에서 영화 '매트릭스4' 예고편을 공개했다. 부제는 부활을 뜻하는 '레저렉션(Resurrection)]]></content>
     </entry>
 </feed>
