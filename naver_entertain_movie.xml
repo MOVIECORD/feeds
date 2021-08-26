@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-26T09:15:56.093Z</updated>
+    <updated>2021-08-26T10:17:29.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[POP초점]키아누 리브스 '매트릭스', 18년만 돌아온다..부제는 '부활']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003470549</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003470549"/>
+        <updated>2021-08-26T10:16:33.393Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] 18년 만에 돌아오는 '매트릭스' 새로운 시리즈의 부제가 정해졌다. 워너 브라더스가 지난 24일(현지시간) 진행된 시네마 콘퍼런스에서 영화 '매트릭스4' 예고편을 공개했다. 앞서 '매트릭]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘스파이더맨:노 웨이 홈’ 예고편, 하룻새 3억5000만뷰 [공식]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000758108</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000758108"/>
+        <updated>2021-08-26T10:16:33.393Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 미국 히어로 영화의 대명사 마블이 제작하고 소니픽처스가 배급하는 ‘스파이더맨: 노 웨이 홈’의 첫 예고편이 전 세계 영화 팬들 관심을 불러일으키고 있다. ‘노 웨이 홈’ 예고편은 공개 이후 24시간 만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[POP초점]"녹록치 않은 세상"..'쇼미더고스트' 한승연이 청춘들에 전하는 위로(종합)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003470540</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002983813"/>
         <updated>2021-08-26T08:16:59.757Z</updated>
         <content type="html"><![CDATA[장준환 감독과 정재은 감독 등이 제26회 부산국제영화제 뉴커런츠 심사위원으로 위촉됐다. 26일 부산국제영화제(BIFF)는 아시아영화 경쟁부문인 뉴 커런츠 심사위원 4인을 확정했다고 밝혔다. 뉴커런츠상 심사위원장으로는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["나도 할 수 있다"…'쇼미더고스트', 취준생 한승연의 호러 코미디(종합) [N현장]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005565506</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005565506"/>
-        <updated>2021-08-26T08:16:59.757Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 한승연이 호러 코미디 영화로 관객들에게 위로를 건넨다. 26일 오후 서울 건대입구 롯데시네마에서 영화 '쇼미더고스트'(감독 김은경)의 언론배급시사회 후 무대인사가 열렸다. 이 자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연상호 감독X유아인 '지옥', 독보적 세계가 펼쳐진다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003530704</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003530704"/>
-        <updated>2021-08-26T08:16:59.758Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 김나라 기자] 넷플릭스 영화 '지옥'이 제46회 토론토국제영화제에 이어 제26회 부산국제영화제에 공식 초청된 가운데, 1차 티저 예고편을 전격 공개했다. 세계적인 엔터테인먼트 스트리밍 서비스 넷플릭스]]></content>
     </entry>
 </feed>

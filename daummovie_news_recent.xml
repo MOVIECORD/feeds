@@ -4,9 +4,17 @@
         <title>다음영화 뉴스 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Aug 2021 09:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Aug 2021 10:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['스파이더맨:노 웨이 홈' 예고편, 하룻새 3억5000만뷰 [공식]]]></title>
+            <link>https://v.daum.net/v/20210826182915065</link>
+            <guid>https://v.daum.net/v/20210826182915065</guid>
+            <pubDate>Thu, 26 Aug 2021 10:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 미국 히어로 영화의 대명사 마블이 제작하고 소니픽처스가 배급하는 ‘스파이더맨: 노 웨이 홈’의 첫 예고편이 전 세계 영화 팬들 관심을 불러일으키고 있다.‘노 웨이 홈’ 예고편은 공개 이후 24시간 만에 3억5550만 뷰를 기록하며 역대 영화 예고편 중 가장 많은 조회 수를 달성했다고 25일(현지시간) 미국 연예 매체 버라이어티 등이 전했다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2Fsportskhan%2F20210826184729800fcdg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
         <item>
             <title><![CDATA['오징어 게임' 목숨 내건 서바이벌에 참가한 사람들 [Oh!쎈 예고]]]></title>
             <link>https://v.daum.net/v/20210826180842475</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 26 Aug 2021 08:17:31 GMT</pubDate>
             <content:encoded><![CDATA["어느 방향이든 좋으니 너의 길을 가라" 올해 4월 개봉 당시 2,300만 관객을 동원하며 중화권을 뒤흔든 영화 '내가 날 부를 때'가 내달 국내 개봉을 확정했다. 영화 '82년생 김지영'의 김도영 감독부터 '우리들'의 윤가은 감독, '애비규환' 최하나 감독 등 국내 젊은 여성 감독들이 이 작품에 뜨거운 응원을 쏟아내 눈길을 끈다. '내가 날 부를 때'는]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2Fhankooki%2F20210826154913408ygml.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['쇼미더고스트' 한승연 "오지랖 넓은 캐릭터, 실제 나와 닮아"]]></title>
-            <link>https://v.daum.net/v/20210826154832793</link>
-            <guid>https://v.daum.net/v/20210826154832793</guid>
-            <pubDate>Thu, 26 Aug 2021 07:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이승미 기자]한승연이 영화 '쇼미더고스터' 속 캐릭터에 대해 말했다. 26일 오후 서울 광진구 롯데시네마 건대입구에서 영화 '쇼미더고스트'(김은경 감독, ㈜인디스토리 제작) 언론·배급시사회가 진행됐다. 이날 시사회에는 한승연, 김현목, 홍승범, 김은경 감독이 참석했다. '쇼미더고스트'로 본격적으로 스크린 주연으로 나서게 된 한승연]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2FSpoChosun%2F20210826154832249ugwn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
