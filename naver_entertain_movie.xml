@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-26T14:15:02.613Z</updated>
+    <updated>2021-08-26T15:16:52.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[새영화]강원도의 한 폐교회 초자연 미스터리 현상을 쫓다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000858000</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000858000"/>
+        <updated>2021-08-26T15:15:54.639Z</updated>
+        <content type="html"><![CDATA[귀문 끊임없는 사고에 문 닫은 수련원 저승-이승 경계 ‘귀문' 존재 괴담 주인공 과거 어머니 죽음 비밀 캐 귀신 귀신 출몰로 유명한 도내 폐교회 방송국·무당·체험단 찾아와 귀신보다 더 무서운 현실 경험 ■귀문 199]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최선의 삶', 소녀 강이의 현실적이고 충격적인 위로 [TF씨네리뷰]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000102770</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000102770"/>
+        <updated>2021-08-26T15:15:54.641Z</updated>
+        <content type="html"><![CDATA[방민아 심달기 한성민 주연…기억될 만한 독립예술영화 올해 극장가 분위기는 흥미롭다. 개봉 후 100만 관객을 가뿐히 넘기는 대형사의 블록버스터 작품들이 극장가를 점령하고 있지만, 대중에까지 존재감을 어필하는 독립예술]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화관에서 넷플릭스 작품을 …OTT와의 경계 허문다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003094477</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012623684"/>
         <updated>2021-08-26T08:16:59.743Z</updated>
         <content type="html"><![CDATA[(부산=연합뉴스) 제26회 부산국제영화제(BIFF)는 26일 아시아영화 경쟁 부문인 뉴 커런츠 심사위원 4인을 확정했다. 사진은 부산국제영화제 뉴 커런츠상 심사위원. 왼쪽부터 디파 메타 감독, 크리스티나 노르트 베를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TEN 포토] 한승연 '호러퀸이 왔다']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000496903</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000496903"/>
-        <updated>2021-08-26T08:16:59.743Z</updated>
-        <content type="html"><![CDATA[[텐아시아=조준원 기자]배우 한승연이 26일 오후 서울 자양동 롯데시네마 건대입구점에서 열린 영화 '쇼미더고스트' 언론시사회에 참석해 포즈를 취하고 있다. ‘쇼미더고스트’는 집에 귀신이 들린 것을 알게 된 20년 절]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TEN 포토] 한승연 '오늘은 영화배우']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000496902</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000496902"/>
-        <updated>2021-08-26T08:16:59.743Z</updated>
-        <content type="html"><![CDATA[[텐아시아=조준원 기자]배우 한승연이 26일 오후 서울 자양동 롯데시네마 건대입구점에서 열린 영화 '쇼미더고스트' 언론시사회에 참석해 포즈를 취하고 있다. ‘쇼미더고스트’는 집에 귀신이 들린 것을 알게 된 20년 절]]></content>
     </entry>
 </feed>
