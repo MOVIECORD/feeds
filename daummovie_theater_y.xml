@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Aug 2021 13:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Aug 2021 14:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,20 +80,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcddfc4c347466a3f1960fb480cdfa1a57d1835ff" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[귀신]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=142522</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=142522</guid>
-            <pubDate>Wed, 25 Aug 2021 00:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ea87dc38b521afffb78d3ede90c8f080e413108" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[올드]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145174</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145174</guid>
             <pubDate>Tue, 17 Aug 2021 23:15:33 GMT</pubDate>
             <content:encoded><![CDATA[21.08.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2771975974a5ea16126c86bd0bb19fb57f8cc0c2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[귀신]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=142522</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=142522</guid>
+            <pubDate>Wed, 25 Aug 2021 00:46:51 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ea87dc38b521afffb78d3ede90c8f080e413108" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[하이큐!! 땅 VS 하늘]]></title>
