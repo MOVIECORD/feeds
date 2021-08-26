@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-26T15:16:52.497Z</updated>
+    <updated>2021-08-26T16:24:37.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크리스틴 스튜어트, 다이애나비 환생한 줄...'스펜서']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010686259</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010686259"/>
+        <updated>2021-08-26T16:23:40.144Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]황혜정 인턴 기자 = 할리우드 스타 크리스틴 스튜어트가 주연을 맡은 영국 왕세자비 故다이애나 스펜서의 영화 '스펜서(Spencer)'의 포스터가 공개됐다. 영화 제작사 '네온' 측은 25일(현지시간)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[새영화]강원도의 한 폐교회 초자연 미스터리 현상을 쫓다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000858000</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002983820"/>
         <updated>2021-08-26T08:16:59.743Z</updated>
         <content type="html"><![CDATA[영화 '쇼 미 더 고스트'를 연출한 김은경 감독이 "젊은 세대가 우정과 연대로 성취하는 모습을 보여주고 싶었다"라며 연출 의도를 전했다. 26일 서울 광진구 롯데시네마 건대입구에서 영화 '쇼 미 더 고스트'(감독 김]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산영화제 뉴 커런츠 심사위원 4인 확정]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012623684</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012623684"/>
-        <updated>2021-08-26T08:16:59.743Z</updated>
-        <content type="html"><![CDATA[(부산=연합뉴스) 제26회 부산국제영화제(BIFF)는 26일 아시아영화 경쟁 부문인 뉴 커런츠 심사위원 4인을 확정했다. 사진은 부산국제영화제 뉴 커런츠상 심사위원. 왼쪽부터 디파 메타 감독, 크리스티나 노르트 베를]]></content>
     </entry>
 </feed>
