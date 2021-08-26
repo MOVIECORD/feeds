@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Aug 2021 04:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Aug 2021 06:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,20 +112,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F96dd30921f935279b8fa9f5d013d0b831be01410" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[드림걸즈]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=42728</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=42728</guid>
-            <pubDate>Thu, 26 Aug 2021 00:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4f98bccfb72790b319d30d2fa4303cd49eda578" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[남색대문]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=44893</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=44893</guid>
             <pubDate>Tue, 17 Aug 2021 23:15:33 GMT</pubDate>
             <content:encoded><![CDATA[21.08.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F17149b5f9a248e4e6e0fe88b5cd2fe99ecc8e2a1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[그린 나이트]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139183</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139183</guid>
+            <pubDate>Thu, 26 Aug 2021 06:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6dd33309d1b1b3a9e3aa6e65ddf1ebe229433eb3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[킬러의 보디가드 2: 킬러의 와이프]]></title>
@@ -144,20 +144,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44cff9be3a13f0cf1746357f7d4dd58f248f5f2c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[자마]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=114771</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=114771</guid>
+            <title><![CDATA[드림걸즈]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=42728</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=42728</guid>
             <pubDate>Thu, 26 Aug 2021 00:44:24 GMT</pubDate>
             <content:encoded><![CDATA[21.08.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F59dc5878cbd995a1b68d2e175baae4c02ed24f47" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[더 그레이트 샤크]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150566</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150566</guid>
-            <pubDate>Fri, 20 Aug 2021 00:46:15 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa89dc80a0838884bbe5b7da0240ff9664b789c48" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4f98bccfb72790b319d30d2fa4303cd49eda578" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[더 수어사이드 스쿼드]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.08.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8c183d3a3ac7d926c9aac443a650211a7e5494f4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[자마]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=114771</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=114771</guid>
+            <pubDate>Thu, 26 Aug 2021 00:44:24 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F59dc5878cbd995a1b68d2e175baae4c02ed24f47" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
