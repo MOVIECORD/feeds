@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Aug 2021 16:24:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Aug 2021 17:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2Fstarnews%2F20210826095121006tfpn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[중국판 '82년생 김지영'이 온다..'내가 날 부를 때' 다음달 개봉]]></title>
-            <link>https://movie.v.daum.net/v/20210826154907815</link>
-            <guid>https://movie.v.daum.net/v/20210826154907815</guid>
-            <pubDate>Thu, 26 Aug 2021 09:15:23 GMT</pubDate>
-            <content:encoded><![CDATA["어느 방향이든 좋으니 너의 길을 가라" 올해 4월 개봉 당시 2,300만 관객을 동원하며 중화권을 뒤흔든 영화 '내가 날 부를 때'가 내달 국내 개봉을 확정했다. 영화 '82년생 김지영'의 김도영 감독부터 '우리들'의 윤가은 감독, '애비규환' 최하나 감독 등 국내 젊은 여성 감독들이 이 작품에 뜨거운 응원을 쏟아내 눈길을 끈다. '내가 날 부를 때'는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2Fhankooki%2F20210826154913408ygml.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[SC초점] 단숨에 100만 목전 '인질', 코시국도 못꺾은 황정민의 저력]]></title>
             <link>https://movie.v.daum.net/v/20210826131349587</link>
             <guid>https://movie.v.daum.net/v/20210826131349587</guid>
@@ -80,12 +72,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2FSpoChosun%2F20210826144007900aczi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[18년 만에 돌아온 '매트릭스4', 부제는 '부활']]></title>
-            <link>https://movie.v.daum.net/v/20210825192404952</link>
-            <guid>https://movie.v.daum.net/v/20210825192404952</guid>
-            <pubDate>Thu, 26 Aug 2021 00:44:39 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS연예뉴스 | 김지혜 기자] 18년 만에 돌아오는 '매트릭스4'가 베일을 벗었다. 워너 브라더스가 24일(현지시간) 진행된 시네마 콘퍼런스에서 '매트릭스' 4의 예고편을 공개했다. 부제는 부활을 뜻하는 '레저렉션(Resurrection)'이다. 예고편은 예고편의 배경은 가까운 미래의 미국 샌프란시스코. 닐 패트릭 해리스가 키아누 리브스와 대화를 나누는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F25%2FSBSfunE%2F20210825192406805opgg.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[중국판 '82년생 김지영'이 온다..'내가 날 부를 때' 다음달 개봉]]></title>
+            <link>https://movie.v.daum.net/v/20210826154907815</link>
+            <guid>https://movie.v.daum.net/v/20210826154907815</guid>
+            <pubDate>Thu, 26 Aug 2021 09:15:23 GMT</pubDate>
+            <content:encoded><![CDATA["어느 방향이든 좋으니 너의 길을 가라" 올해 4월 개봉 당시 2,300만 관객을 동원하며 중화권을 뒤흔든 영화 '내가 날 부를 때'가 내달 국내 개봉을 확정했다. 영화 '82년생 김지영'의 김도영 감독부터 '우리들'의 윤가은 감독, '애비규환' 최하나 감독 등 국내 젊은 여성 감독들이 이 작품에 뜨거운 응원을 쏟아내 눈길을 끈다. '내가 날 부를 때'는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2Fhankooki%2F20210826154913408ygml.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[D:영화 뷰] '블랙위도우'가 흔든 할리우드 극장·OTT 동시 상영 ..판도 바뀔까]]></title>
@@ -94,6 +86,14 @@
             <pubDate>Thu, 26 Aug 2021 09:15:23 GMT</pubDate>
             <content:encoded><![CDATA[코로나19 장기화로 전 세계 영화 산업이 어려움을 겪고 있다. 세계 영화 산업의 중심인 할리우드 역시 블록버스터 대부분 제작이 중단되고 개봉이 연기되면서 예상치 못한 변수를 맞닥뜨렸다. 이에 배급·제작사들은 돌파구를 찾기 시작했다. 월트디즈니는 자체 동영상 플랫폼인 디즈니 플러스를 출시하고 공격적인 시장 공략에 나섰고, 이를 통해 영화 구독 서비스 외에도]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2Fdailian%2F20210826130642639qavd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[18년 만에 돌아온 '매트릭스4', 부제는 '부활']]></title>
+            <link>https://movie.v.daum.net/v/20210825192404952</link>
+            <guid>https://movie.v.daum.net/v/20210825192404952</guid>
+            <pubDate>Thu, 26 Aug 2021 00:44:39 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS연예뉴스 | 김지혜 기자] 18년 만에 돌아오는 '매트릭스4'가 베일을 벗었다. 워너 브라더스가 24일(현지시간) 진행된 시네마 콘퍼런스에서 '매트릭스' 4의 예고편을 공개했다. 부제는 부활을 뜻하는 '레저렉션(Resurrection)'이다. 예고편은 예고편의 배경은 가까운 미래의 미국 샌프란시스코. 닐 패트릭 해리스가 키아누 리브스와 대화를 나누는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F25%2FSBSfunE%2F20210825192406805opgg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[마술적 리얼리즘에 더해진 식민지의 고통, 이 영화가 극찬받은 이유]]></title>
@@ -120,14 +120,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2F10asia%2F20210826104704337cyqa.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['인질' 이호정, 빌런 '파격 변신'.."황정민과 촬영 꿈만 같은 순간"]]></title>
-            <link>https://movie.v.daum.net/v/20210826083010869</link>
-            <guid>https://movie.v.daum.net/v/20210826083010869</guid>
-            <pubDate>Thu, 26 Aug 2021 00:44:39 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=노규민 기자]개봉 이후 8일 연속 박스오피스 1위를 수성하며 장기 흥행을 이어가고 있는 영화 '인질'이 '빌런' 이호정의 캐릭터 스틸을 공개했다.'인질'은 어느 날 새벽, 증거도 목격자도 없이 납치된 배우 황정민을 그린 리얼리티 액션스릴러.26일 '인질' 측은 극 중 '샛별' 캐릭터로 열연한 이호정의 스틸을 최초로 공개했따. 이호정은 2012년]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2F10asia%2F20210826083017637lafp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['기적', 사투리→레트로, 취향저격 캐릭터 탄생]]></title>
             <link>https://movie.v.daum.net/v/20210826114029267</link>
             <guid>https://movie.v.daum.net/v/20210826114029267</guid>
@@ -142,6 +134,14 @@
             <pubDate>Thu, 26 Aug 2021 11:12:52 GMT</pubDate>
             <content:encoded><![CDATA[올해로 18번째를 맞은 EBS 국제다큐영화제(EIDF). 23일부터 29일까지 “일상의 특별함을 담다”라는 주제로 전 세계 29개국의 64편의 다큐멘터리를 상영합니다. &lt;편집자말&gt; [김민준 기자] 한국 사회에서 집은 그야말로 핵심적인 화두다. '사는(buy)것이 아니라 사는(live) 것이다'라는 말은 역설적으로 누군가에게는 집이 사고파는 하나의 상품이라고]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2Fohmynews%2F20210826155118196uoiz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['인질' 이호정, 빌런 '파격 변신'.."황정민과 촬영 꿈만 같은 순간"]]></title>
+            <link>https://movie.v.daum.net/v/20210826083010869</link>
+            <guid>https://movie.v.daum.net/v/20210826083010869</guid>
+            <pubDate>Thu, 26 Aug 2021 00:44:39 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=노규민 기자]개봉 이후 8일 연속 박스오피스 1위를 수성하며 장기 흥행을 이어가고 있는 영화 '인질'이 '빌런' 이호정의 캐릭터 스틸을 공개했다.'인질'은 어느 날 새벽, 증거도 목격자도 없이 납치된 배우 황정민을 그린 리얼리티 액션스릴러.26일 '인질' 측은 극 중 '샛별' 캐릭터로 열연한 이호정의 스틸을 최초로 공개했따. 이호정은 2012년]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2F10asia%2F20210826083017637lafp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['인질'→'모가디슈' 여름 극장가 韓 영화 약진, 흥행 비결은]]></title>
