@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-26T18:18:21.787Z</updated>
+    <updated>2021-08-26T19:12:55.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브라질 빈민촌 소외된 사람들의 폭력에 대한 저항]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001466858</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001466858"/>
+        <updated>2021-08-26T19:11:57.309Z</updated>
+        <content type="html"><![CDATA[남미 브라질에 가상의 마을 ‘바쿠라우’가 있다. 마을의 정신적 지주나 마찬가지였던 94세 할머니 카르멜리타의 장례식에 참석하기 위해 마을을 떠났던 사람들이 하나둘 모여든다. 그 중엔 살인 혐의로 수배 중인 마을 출신]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화평론가 이동진→배우 권해효, ‘기주봉 배우전’ GV 행사 참여]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001340161</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002983822"/>
         <updated>2021-08-26T08:16:59.743Z</updated>
         <content type="html"><![CDATA[영화 '쇼 미 더 고스트'가 유쾌한 퇴마 코미디로 청춘에 위로를 전하기 위해 출사표를 던졌다. 26일 서울 광진구 롯데시네마 건대입구에서 영화 '쇼 미 더 고스트'(감독 김은경) 언론배급 시사회가 열렸다. 이날 시사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디파 메타 감독, 부산국제영화제 '뉴 커런츠' 경쟁부문 심사위원장]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005020674</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005020674"/>
-        <updated>2021-08-26T08:16:59.743Z</updated>
-        <content type="html"><![CDATA[(왼쪽부터)제26회 부산국제영화제 ‘뉴 커런츠’ 경쟁부문 심사위원으로 위촉된 디파 메타 감독, 크리스티나 노르트 베를린국제영화제 포럼 위원장, 장준환 감독, 정재은 감독. (사진=제26회 부산국제영화제 조직위원회)]]></content>
     </entry>
 </feed>
