@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Aug 2021 17:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 18:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2Fsportskhan%2F20210826111309306qcfn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[크리스틴 스튜어트, 다이애나비 환생한 줄..'스펜서']]></title>
-            <link>https://movie.v.daum.net/v/20210827010207235</link>
-            <guid>https://movie.v.daum.net/v/20210827010207235</guid>
-            <pubDate>Fri, 27 Aug 2021 01:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]황혜정 인턴 기자 = 할리우드 스타 크리스틴 스튜어트가 주연을 맡은 영국 왕세자비 故다이애나 스펜서의 영화 '스펜서(Spencer)'의 포스터가 공개됐다. 영화 제작사 '네온' 측은 25일(현지시간) 공식 SNS에 영화의 주제를 함축하는 강렬한 포스터를 공개했다. 포스터 속 크리스틴 스튜어트가 분한 다이애나비는 웨딩드레스를 입고 등을 돌려]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fnewsis%2F20210827010207117onut.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['보이스' 변요한 놀란 리얼함..보이스피싱 본거지 콜센터 공개]]></title>
             <link>https://movie.v.daum.net/v/20210827102347902</link>
             <guid>https://movie.v.daum.net/v/20210827102347902</guid>
@@ -104,6 +96,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2FSpoChosun%2F20210826104432881vzmr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[크리스틴 스튜어트, 다이애나비 환생한 줄..'스펜서']]></title>
+            <link>https://movie.v.daum.net/v/20210827010207235</link>
+            <guid>https://movie.v.daum.net/v/20210827010207235</guid>
+            <pubDate>Fri, 27 Aug 2021 01:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]황혜정 인턴 기자 = 할리우드 스타 크리스틴 스튜어트가 주연을 맡은 영국 왕세자비 故다이애나 스펜서의 영화 '스펜서(Spencer)'의 포스터가 공개됐다. 영화 제작사 '네온' 측은 25일(현지시간) 공식 SNS에 영화의 주제를 함축하는 강렬한 포스터를 공개했다. 포스터 속 크리스틴 스튜어트가 분한 다이애나비는 웨딩드레스를 입고 등을 돌려]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fnewsis%2F20210827010207117onut.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['모가디슈', 트리비아 전격 공개..CG 없이 탄생한 명장면]]></title>
             <link>https://movie.v.daum.net/v/20210827085052418</link>
             <guid>https://movie.v.daum.net/v/20210827085052418</guid>
@@ -112,20 +112,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fpoctan%2F20210827085053134xrcg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[단독]안은진·김성철, '올빼미' 합류..첫 사극 도전]]></title>
-            <link>https://movie.v.daum.net/v/20210827083528049</link>
-            <guid>https://movie.v.daum.net/v/20210827083528049</guid>
-            <pubDate>Fri, 27 Aug 2021 00:51:58 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 배우 안은진과 김성철이 영화 '올빼미'에 출연한다. 배우 안은진과 김성철이 영화 '올빼미'에 합류, 첫 사극에 도전한다. 27일 영화계에 따르면 안은진과 김성철은 최근 '올빼미' 출연을 결정하고 세부사항을 조율 중이다. '올빼미'는 조선 인조시대를 배경으로 청나라에서 돌아온 소현세자의 죽음을 둘러싼 일을 그린 이야기. '왕의 남자']]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fstarnews%2F20210827083529576htqx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[D:영화 뷰] '백인 히어로'에서 흑인·여성·아시아인으로, 다양성 품는 마블]]></title>
             <link>https://movie.v.daum.net/v/20210827111246073</link>
             <guid>https://movie.v.daum.net/v/20210827111246073</guid>
             <pubDate>Fri, 27 Aug 2021 14:14:19 GMT</pubDate>
             <content:encoded><![CDATA[최근 수년간 할리우드는 다양성을 포용하려는 움직임을 보였다. 미투(#MeToo)로 촉발된 성 평등 강조, 여성과 유색인종, 성적 소수자, 장애인 등을 영화 제작 과정에서 배제하지 말아야 한다는 '인클루전 라이더' 계약 조항, '흑인 생명도 소중하다'(Black Lives Matter·BLM) 시위 등은 누구나 똑같은 권리를 누려야 한다는 인식을 확산시켰다.]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fdailian%2F20210827111252891nsng.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독]안은진·김성철, '올빼미' 합류..첫 사극 도전]]></title>
+            <link>https://movie.v.daum.net/v/20210827083528049</link>
+            <guid>https://movie.v.daum.net/v/20210827083528049</guid>
+            <pubDate>Fri, 27 Aug 2021 00:51:58 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 배우 안은진과 김성철이 영화 '올빼미'에 출연한다. 배우 안은진과 김성철이 영화 '올빼미'에 합류, 첫 사극에 도전한다. 27일 영화계에 따르면 안은진과 김성철은 최근 '올빼미' 출연을 결정하고 세부사항을 조율 중이다. '올빼미'는 조선 인조시대를 배경으로 청나라에서 돌아온 소현세자의 죽음을 둘러싼 일을 그린 이야기. '왕의 남자']]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fstarnews%2F20210827083529576htqx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["차원 다른, 마블 최초 아시안 히어로"..'샹치와 텐 링즈의 전설', 레전드 썼다 [마데핫리뷰]]]></title>
