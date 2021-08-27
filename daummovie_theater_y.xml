@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Aug 2021 07:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 08:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,14 +128,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F93349a89d113d410c0d3a697da856283e5cbea78" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[더 수어사이드 스쿼드]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=122276</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=122276</guid>
-            <pubDate>Fri, 27 Aug 2021 05:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8c183d3a3ac7d926c9aac443a650211a7e5494f4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[하이큐!! 땅 VS 하늘]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137824</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137824</guid>
@@ -158,6 +150,14 @@
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.06.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44cff9be3a13f0cf1746357f7d4dd58f248f5f2c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 수어사이드 스쿼드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=122276</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=122276</guid>
+            <pubDate>Fri, 27 Aug 2021 05:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8c183d3a3ac7d926c9aac443a650211a7e5494f4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[블랙 위도우]]></title>

@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Aug 2021 07:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 08:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<모가디슈> 미공개 본편 삭제 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/421854076?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/421854076?act=clip</guid>
+            <pubDate>Fri, 27 Aug 2021 08:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:53]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzeldcngfqvqb5xse9irapff%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33186960406%26signature%3DYzfkOms5JdUdxjr9WJg%252F8Fy%252FjUM%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<여름날 우리> 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/421850724?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/421796187?act=clip</guid>
             <pubDate>Wed, 25 Aug 2021 07:15:27 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv1200w8xldywuy9j8uyxa19g%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33186783608%26signature%3D2ddryqHTifpFRMtLYrRuS%252BJe9PU%253D%26ts%3D1629874808" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv1200w8xldywuy9j8uyxa19g%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33186783608%26signature%3D2ddryqHTifpFRMtLYrRuS%252BJe9PU%253D%26ts%3D1629874808" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<샹치와 텐 링즈의 전설> 스페셜 BTS 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 23 Aug 2021 05:13:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:42]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvovmdkpyewwwg0cvmk1jjkal%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33186602464%26signature%3DA3huRMsJZEPc1jaVrrslMld0IMQ%253D%26ts%3D1629693664" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<더 트랩> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/421734925?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/421734925?act=clip</guid>
-            <pubDate>Mon, 23 Aug 2021 05:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:08]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvszn0ham6z61aoqf0nu60bew%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33186602019%26signature%3DxnwoZ%252FkFwDbbjEbTZEAXk70js2E%253D%26ts%3D1629693219" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>

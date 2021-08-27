@@ -4,15 +4,39 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Aug 2021 07:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 08:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['영화의 거리' 30초 예고편]]></title>
+            <link>https://tv.naver.com/v/22102571</link>
+            <guid>https://tv.naver.com/v/22102571</guid>
+            <pubDate>Fri, 27 Aug 2021 08:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[29분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210827_194/z212x_1630050484540kfBSP_JPEG/10bd9f81-070b-11ec-bf57-246e963a4708_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['악인은 너무 많다 2: 제주 실종사건의 전말' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/22102557</link>
+            <guid>https://tv.naver.com/v/22102557</guid>
+            <pubDate>Fri, 27 Aug 2021 08:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[30분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210827_124/vGjkR_1630050457906hwYRI_JPEG/fa81a349-070a-11ec-9d74-a0369ff9545c_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['아임 유어 맨' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/22102533</link>
+            <guid>https://tv.naver.com/v/22102533</guid>
+            <pubDate>Fri, 27 Aug 2021 08:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[30분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210827_134/8UKSa_1630050418198TgKAD_JPEG/e10a5280-070a-11ec-a77c-a0369ff94ec8_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['해변의 에트랑제' 메인 예고편 (더빙)]]></title>
             <link>https://tv.naver.com/v/22097839</link>
             <guid>https://tv.naver.com/v/22097839</guid>
             <pubDate>Fri, 27 Aug 2021 05:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210827_28/UwCRr_1630041162040vBX9B_JPEG/ff498d99-06f4-11ec-9845-505dacfbaa5c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +44,7 @@
             <link>https://tv.naver.com/v/22093705</link>
             <guid>https://tv.naver.com/v/22093705</guid>
             <pubDate>Fri, 27 Aug 2021 01:59:23 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210827_121/v2Nz7_1630028193035BmqNV_JPEG/0a3407dd-06d7-11ec-86ec-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +52,7 @@
             <link>https://tv.naver.com/v/22093473</link>
             <guid>https://tv.naver.com/v/22093473</guid>
             <pubDate>Fri, 27 Aug 2021 01:59:23 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210827_183/fJgGD_16300276061238txBn_JPEG/95ecd6fb-06d5-11ec-80a9-a0369ff95678_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +60,7 @@
             <link>https://tv.naver.com/v/22082486</link>
             <guid>https://tv.naver.com/v/22082486</guid>
             <pubDate>Thu, 26 Aug 2021 09:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210826_244/rX5hx_1629966939328wKtqE_JPEG/53e151cb-0648-11ec-a9f1-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +68,7 @@
             <link>https://tv.naver.com/v/22082035</link>
             <guid>https://tv.naver.com/v/22082035</guid>
             <pubDate>Thu, 26 Aug 2021 09:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210826_57/8H59d_1629966182873ij5Le_JPEG/9b8625c6-0646-11ec-89ce-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +76,7 @@
             <link>https://tv.naver.com/v/22080810</link>
             <guid>https://tv.naver.com/v/22080810</guid>
             <pubDate>Thu, 26 Aug 2021 08:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210826_257/rhHOt_1629964008839V0puG_JPEG/b381c61f-0641-11ec-86ec-48df37ae3fca_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +84,7 @@
             <link>https://tv.naver.com/v/22080784</link>
             <guid>https://tv.naver.com/v/22080784</guid>
             <pubDate>Thu, 26 Aug 2021 08:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210826_282/3EPay_1629963957218GmtmY_JPEG/805cf81c-0641-11ec-882d-48df37ae3dc4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +92,7 @@
             <link>https://tv.naver.com/v/22080742</link>
             <guid>https://tv.naver.com/v/22080742</guid>
             <pubDate>Thu, 26 Aug 2021 08:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210826_269/kzowp_162996388144222pCv_PNG/1629963876422.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -76,7 +100,7 @@
             <link>https://tv.naver.com/v/22080710</link>
             <guid>https://tv.naver.com/v/22080710</guid>
             <pubDate>Thu, 26 Aug 2021 08:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210826_122/YOlPA_1629963803888k2CRA_PNG/1629963798912.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -84,7 +108,7 @@
             <link>https://tv.naver.com/v/22080046</link>
             <guid>https://tv.naver.com/v/22080046</guid>
             <pubDate>Thu, 26 Aug 2021 08:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210826_69/TwQHv_1629962516227KoCJ7_JPEG/eb99f593-063d-11ec-bf57-246e963a4708_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -140,7 +164,7 @@
             <link>https://tv.naver.com/v/22058025</link>
             <guid>https://tv.naver.com/v/22058025</guid>
             <pubDate>Wed, 25 Aug 2021 08:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210825_210/zPplR_1629879300360K98o3_JPEG/5ebde6b2-057c-11ec-9b63-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -148,7 +172,7 @@
             <link>https://tv.naver.com/v/22057917</link>
             <guid>https://tv.naver.com/v/22057917</guid>
             <pubDate>Wed, 25 Aug 2021 08:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210825_79/ZX6z7_1629879044391eFLoc_JPEG/bd01c9d7-057b-11ec-89ce-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -156,7 +180,7 @@
             <link>https://tv.naver.com/v/22056851</link>
             <guid>https://tv.naver.com/v/22056851</guid>
             <pubDate>Wed, 25 Aug 2021 08:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210825_174/mzbZX_16298766888747l84v_JPEG/293a02c9-0576-11ec-9845-505dacfbaa5c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 25 Aug 2021 02:25:40 GMT</pubDate>
             <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210825_10/bx8JM_1629857593558fFSdO_JPEG/bf70929f-0549-11ec-8111-505dac8c381b_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['캔디맨' 소환영상 1탄]]></title>
-            <link>https://tv.naver.com/v/22049151</link>
-            <guid>https://tv.naver.com/v/22049151</guid>
-            <pubDate>Wed, 25 Aug 2021 02:25:40 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210825_233/IkoHR_1629857120794oeQNe_JPEG/a559c304-0548-11ec-9d7e-a0369ff952f4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['퇴마사' 예고편]]></title>
-            <link>https://tv.naver.com/v/22036588</link>
-            <guid>https://tv.naver.com/v/22036588</guid>
-            <pubDate>Tue, 24 Aug 2021 09:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210824_82/VPu6m_1629793777862TfuSW_JPEG/025b91f1-04b5-11ec-a9f1-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['더 드라이버' 예고편]]></title>
-            <link>https://tv.naver.com/v/22036133</link>
-            <guid>https://tv.naver.com/v/22036133</guid>
-            <pubDate>Tue, 24 Aug 2021 09:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210824_124/d8z9K_1629793265329iSoil_JPEG/ff07c896-04b3-11ec-8678-48df379cca40_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
