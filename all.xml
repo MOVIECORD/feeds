@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Aug 2021 01:59:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 02:32:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -270,22 +270,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ea87dc38b521afffb78d3ede90c8f080e413108" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[하이큐!! 땅 VS 하늘 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=137824</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=137824</guid>
-            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F96dd30921f935279b8fa9f5d013d0b831be01410" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[극장판 페이트/그랜드 오더 신성원탁영역 카멜롯 팔라딘; 아가트람 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150453</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150453</guid>
-            <pubDate>Thu, 26 Aug 2021 00:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb466e8c626f9f77e033ed7a6023d82568d327ef6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[그린 나이트 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=139183</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=139183</guid>
@@ -294,12 +278,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6dd33309d1b1b3a9e3aa6e65ddf1ebe229433eb3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[하이큐!! 땅 VS 하늘 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137824</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137824</guid>
+            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F96dd30921f935279b8fa9f5d013d0b831be01410" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[드림걸즈 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=42728</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=42728</guid>
             <pubDate>Thu, 26 Aug 2021 00:44:24 GMT</pubDate>
             <content:encoded><![CDATA[21.08.26]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4f98bccfb72790b319d30d2fa4303cd49eda578" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 페이트/그랜드 오더 신성원탁영역 카멜롯 팔라딘; 아가트람 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150453</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150453</guid>
+            <pubDate>Thu, 26 Aug 2021 00:44:24 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb466e8c626f9f77e033ed7a6023d82568d327ef6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[남색대문 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -509,12 +509,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fpoctan%2F20210827080822920dnhb.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
+            <title><![CDATA[크리스틴 스튜어트, 다이애나비 환생한 줄..'스펜서' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210827010207235</link>
+            <guid>https://movie.v.daum.net/v/20210827010207235</guid>
+            <pubDate>Fri, 27 Aug 2021 01:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]황혜정 인턴 기자 = 할리우드 스타 크리스틴 스튜어트가 주연을 맡은 영국 왕세자비 故다이애나 스펜서의 영화 '스펜서(Spencer)'의 포스터가 공개됐다. 영화 제작사 '네온' 측은 25일(현지시간) 공식 SNS에 영화의 주제를 함축하는 강렬한 포스터를 공개했다. 포스터 속 크리스틴 스튜어트가 분한 다이애나비는 웨딩드레스를 입고 등을 돌려]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fnewsis%2F20210827010207117onut.jpg" length="0" type="image//thumb/S732x228/"/>
+        </item>
+        <item>
             <title><![CDATA['모가디슈', 트리비아 전격 공개..CG 없이 탄생한 명장면 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210827085052418</link>
             <guid>https://movie.v.daum.net/v/20210827085052418</guid>
             <pubDate>Fri, 27 Aug 2021 00:51:58 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;식지 않는 장기 흥행을 이어가고 있는 올해 최고의 화제작 ‘모가디슈'가 영화 만큼 재미있는 ‘모가디슈' 트리비아(Trivia)를 전격 공개한다. #여기가 바로 90년대 소말리아…관계자도 인정한 소말리아 건축 양식 ‘모가디슈’(감독 류승완, 제공배급 롯데엔터테인먼트, 제작 덱스터스튜디오 외유내강)를 보는 관객들을 가장 먼저 사로잡는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fpoctan%2F20210827085053134xrcg.jpg" length="0" type="image//thumb/S732x228/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fpoctan%2F20210827085053134xrcg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[단독]안은진·김성철, '올빼미' 합류..첫 사극 도전 (다음영화 뉴스 ─ 인기)]]></title>
@@ -525,22 +533,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fstarnews%2F20210827083529576htqx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[크리스틴 스튜어트, 故다이애나비 싱크 200%..숨 막히는 포스터[Oh!llywood] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210826163329993</link>
-            <guid>https://movie.v.daum.net/v/20210826163329993</guid>
-            <pubDate>Thu, 26 Aug 2021 08:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] 할리우드 배우 크리스틴 스튜어트가&nbsp;영국 왕세자비인 故다이애나 스펜서로 분한 영화 '스펜서(Spencer)'의 포스터가 공개돼 시선을 모은다. 영화 제작사 '네온' 측은 25일(현지시간) 공식 SNS에 다이애나 왕세자비를 완벽하게 형상화한 강렬한 포스터를 공개했다. 영화 '트와일라잇'으로 세계적인 톱스타가 된 크리스틴 스튜어트는 포스]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2Fpoctan%2F20210826163329853udru.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스틴 스튜어트, 다이애나비 환생한 줄..'스펜서' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210827010207235</link>
-            <guid>https://movie.v.daum.net/v/20210827010207235</guid>
-            <pubDate>Fri, 27 Aug 2021 01:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]황혜정 인턴 기자 = 할리우드 스타 크리스틴 스튜어트가 주연을 맡은 영국 왕세자비 故다이애나 스펜서의 영화 '스펜서(Spencer)'의 포스터가 공개됐다. 영화 제작사 '네온' 측은 25일(현지시간) 공식 SNS에 영화의 주제를 함축하는 강렬한 포스터를 공개했다. 포스터 속 크리스틴 스튜어트가 분한 다이애나비는 웨딩드레스를 입고 등을 돌려]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fnewsis%2F20210827010207117onut.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[임윤아 VS 한선화, 스크린 맞대결 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210827080008286</link>
             <guid>https://movie.v.daum.net/v/20210827080008286</guid>
@@ -549,12 +541,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fsportsdonga%2F20210827080011000toaw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[압권이었던 최민식의 오열 연기, 멜로 정석을 깨다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210826105701112</link>
-            <guid>https://movie.v.daum.net/v/20210826105701112</guid>
+            <title><![CDATA[크리스틴 스튜어트, 故다이애나비 싱크 200%..숨 막히는 포스터[Oh!llywood] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210826163329993</link>
+            <guid>https://movie.v.daum.net/v/20210826163329993</guid>
             <pubDate>Thu, 26 Aug 2021 08:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[[양형석 기자] 사람과 사람이 사랑을 할 때는 일련의 과정이 필요하다. 그리고 그 과정의 첫 번째 단계는 바로 만남이다. 누군가의 소개로 만날 수도 있고 학교나 직장, 취미생활 속에서 만남이 이뤄지기도 한다. 때로는 어느 영화의 한 장면처럼 비 오는 날 운명의 상대가 우산 속으로 뛰어 드는 경우도 있을 수 있다(물론 실제로 일어날 확률은 매우 드무니 애초에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2Fohmynews%2F20210826105705225fpzp.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[OSEN=최나영 기자] 할리우드 배우 크리스틴 스튜어트가&nbsp;영국 왕세자비인 故다이애나 스펜서로 분한 영화 '스펜서(Spencer)'의 포스터가 공개돼 시선을 모은다. 영화 제작사 '네온' 측은 25일(현지시간) 공식 SNS에 다이애나 왕세자비를 완벽하게 형상화한 강렬한 포스터를 공개했다. 영화 '트와일라잇'으로 세계적인 톱스타가 된 크리스틴 스튜어트는 포스]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2Fpoctan%2F20210826163329853udru.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['스파이더맨:노 웨이 홈' 예고편, 하룻새 3억5000만뷰 [공식] (다음영화 뉴스 ─ 인기)]]></title>
@@ -563,6 +555,14 @@
             <pubDate>Fri, 27 Aug 2021 00:51:58 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠경향] 미국 히어로 영화의 대명사 마블이 제작하고 소니픽처스가 배급하는 ‘스파이더맨: 노 웨이 홈’의 첫 예고편이 전 세계 영화 팬들 관심을 불러일으키고 있다.‘노 웨이 홈’ 예고편은 공개 이후 24시간 만에 3억5550만 뷰를 기록하며 역대 영화 예고편 중 가장 많은 조회 수를 달성했다고 25일(현지시간) 미국 연예 매체 버라이어티 등이 전했다.]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2Fsportskhan%2F20210826184729800fcdg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[압권이었던 최민식의 오열 연기, 멜로 정석을 깨다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210826105701112</link>
+            <guid>https://movie.v.daum.net/v/20210826105701112</guid>
+            <pubDate>Thu, 26 Aug 2021 08:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[[양형석 기자] 사람과 사람이 사랑을 할 때는 일련의 과정이 필요하다. 그리고 그 과정의 첫 번째 단계는 바로 만남이다. 누군가의 소개로 만날 수도 있고 학교나 직장, 취미생활 속에서 만남이 이뤄지기도 한다. 때로는 어느 영화의 한 장면처럼 비 오는 날 운명의 상대가 우산 속으로 뛰어 드는 경우도 있을 수 있다(물론 실제로 일어날 확률은 매우 드무니 애초에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2Fohmynews%2F20210826105705225fpzp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[강동원, 홍콩 영화 리메이크 '엑시던트' 주연 "긍정 검토" (다음영화 뉴스 ─ 인기)]]></title>
@@ -581,14 +581,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2Fdailian%2F20210826093217349otcc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[진짜, 혼자서도 잘 살고 있나요? (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210826120459233</link>
-            <guid>https://movie.v.daum.net/v/20210826120459233</guid>
-            <pubDate>Thu, 26 Aug 2021 08:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[[이은지 기자] ▲ 영화 &lt;혼자 사는 사람들&gt; 스틸컷 1&nbsp;편의점 도시락으로 혼자 끼니를 때우고 있는 무표정한 진아    ⓒ 영화 &lt;혼자 사는 사람들&gt;  &nbsp;나는 혼자서도 잘 산다. 혼자 사는 집에서 혼자 밥을 챙겨 먹고 혼자 잠을 자는 게 편하고 익숙하다. 이젠 가족들이 있는 본가보다, 7평짜리 자취집이 편해졌다. 엄마가 해주는 따뜻한 밥도 좋]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2Fohmynews%2F20210826120500863cqjz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[이유미 "황정민과 '인질' 연습, 좋은 습관 생겼어요" [인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210827094219164</link>
             <guid>https://movie.v.daum.net/v/20210827094219164</guid>
@@ -597,20 +589,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fsportskhan%2F20210827094221230hvki.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[졸리→마동석 '이터널스' 예고편만 3분..TV서도 본다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210826112106439</link>
-            <guid>https://movie.v.daum.net/v/20210826112106439</guid>
+            <title><![CDATA[진짜, 혼자서도 잘 살고 있나요? (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210826120459233</link>
+            <guid>https://movie.v.daum.net/v/20210826120459233</guid>
             <pubDate>Thu, 26 Aug 2021 08:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '이터널스' 메인 예고편이 누적 조회수 약 1,900만을 기록한 가운데, 풀버전을 극장 광고 및 TV 특별 편성을 통해 만날 수 있다. 마블 스튜디오 '이터널스'(감독 클로이 자오)는 수 천년에 걸쳐 그 모습을 드러내지 않고 살아온 불멸의 히어로들이 '어벤져스: 엔드게임' 이후 인류의 가장 오래된 적 '데비안츠'에 맞서기 위해 다시]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2Fnewsen%2F20210826112106504vcdi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[강동원, 한국판 '엑시던트' 주인공?.."긍정 검토중" [공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210826134647646</link>
-            <guid>https://movie.v.daum.net/v/20210826134647646</guid>
-            <pubDate>Thu, 26 Aug 2021 08:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[강동원. (사진=연합뉴스)[이데일리 스타in 김보영 기자] 배우 강동원이 영화 ‘엑시던트’(가제) 출연을 제안 받고 검토 중이다. 26일 소속사 YG엔터테인먼트 관계자는 이데일리에 “강동원이 ‘엑시던트’ 출연을 긍정적으로 검토하고 있다”고 전했다. ‘엑시던트’는 2009년 개봉한 동명의 홍콩 영화의 리메이크작이다. 영화는 청부살인업자 브레인이 사고로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2FEdaily%2F20210826134651020jipg.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[이은지 기자] ▲ 영화 &lt;혼자 사는 사람들&gt; 스틸컷 1&nbsp;편의점 도시락으로 혼자 끼니를 때우고 있는 무표정한 진아    ⓒ 영화 &lt;혼자 사는 사람들&gt;  &nbsp;나는 혼자서도 잘 산다. 혼자 사는 집에서 혼자 밥을 챙겨 먹고 혼자 잠을 자는 게 편하고 익숙하다. 이젠 가족들이 있는 본가보다, 7평짜리 자취집이 편해졌다. 엄마가 해주는 따뜻한 밥도 좋]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2Fohmynews%2F20210826120500863cqjz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['보이스', 변요한 떨게 한..보이스피싱 본거지 공개 (다음영화 뉴스 ─ 인기)]]></title>
@@ -621,12 +605,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fstarnews%2F20210827083159448kmcb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[졸리→마동석 '이터널스' 예고편만 3분..TV서도 본다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210826112106439</link>
+            <guid>https://movie.v.daum.net/v/20210826112106439</guid>
+            <pubDate>Thu, 26 Aug 2021 08:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '이터널스' 메인 예고편이 누적 조회수 약 1,900만을 기록한 가운데, 풀버전을 극장 광고 및 TV 특별 편성을 통해 만날 수 있다. 마블 스튜디오 '이터널스'(감독 클로이 자오)는 수 천년에 걸쳐 그 모습을 드러내지 않고 살아온 불멸의 히어로들이 '어벤져스: 엔드게임' 이후 인류의 가장 오래된 적 '데비안츠'에 맞서기 위해 다시]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2Fnewsen%2F20210826112106504vcdi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['인질' 황정민 발굴한 보석함..류경수→이유미, 빌런 깬 반전매력 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210827091536258</link>
             <guid>https://movie.v.daum.net/v/20210827091536258</guid>
             <pubDate>Fri, 27 Aug 2021 01:59:00 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;개봉 2주 차에도 박스오피스 정상 자리를 지키며 흥행 가도를 달리고 있는 영화 '인질'이 황정민과 그가 직접 발굴한 보석 같은 배우들이 함께한 ‘황정민의 보석함 오픈 영상’을 전격 공개했다. 개봉 2주 차에도 불구하고 여전히 흥행을 이어가고 있는 영화 '인질'(감독 필감성, 배급 NEW, 제작 외유내강 샘컴퍼니)이 ‘황정민의 보석함]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fpoctan%2F20210827091536517wsbw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[강동원, 한국판 '엑시던트' 주인공?.."긍정 검토중" [공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210826134647646</link>
+            <guid>https://movie.v.daum.net/v/20210826134647646</guid>
+            <pubDate>Thu, 26 Aug 2021 08:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[강동원. (사진=연합뉴스)[이데일리 스타in 김보영 기자] 배우 강동원이 영화 ‘엑시던트’(가제) 출연을 제안 받고 검토 중이다. 26일 소속사 YG엔터테인먼트 관계자는 이데일리에 “강동원이 ‘엑시던트’ 출연을 긍정적으로 검토하고 있다”고 전했다. ‘엑시던트’는 2009년 개봉한 동명의 홍콩 영화의 리메이크작이다. 영화는 청부살인업자 브레인이 사고로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2FEdaily%2F20210826134651020jipg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['인질' 개봉 후 9일 연속 1위, 누적 85만↑..韓 영화 삼파전ing [Nbox] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210827075411192</link>
+            <guid>https://movie.v.daum.net/v/20210827075411192</guid>
+            <pubDate>Fri, 27 Aug 2021 00:51:58 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '인질'(감독 필감성)이 9일째 1위를 지킨 가운데, '인질'보다 앞서 개봉한 '싱크홀' '모가디슈' 등 한국 영화들 역시 함께 박스오피스 상위권을 차지했다. 27일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '인질'은 지난 26일 하루 4만6551명의 관객을 동원해 박스오피스 1위를 기록했다. 지난 18일]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2FNEWS1%2F20210827075412528ocbu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[맷 데이먼 '스틸워터', 9월 국내 개봉..'스포트라이트' 감독 연출[공식] (다음영화 뉴스 ─ 인기)]]></title>
@@ -645,20 +653,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2Fohmynews%2F20210826142701963qsoq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['인질' 개봉 후 9일 연속 1위, 누적 85만↑..韓 영화 삼파전ing [Nbox] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210827075411192</link>
-            <guid>https://movie.v.daum.net/v/20210827075411192</guid>
-            <pubDate>Fri, 27 Aug 2021 00:51:58 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '인질'(감독 필감성)이 9일째 1위를 지킨 가운데, '인질'보다 앞서 개봉한 '싱크홀' '모가디슈' 등 한국 영화들 역시 함께 박스오피스 상위권을 차지했다. 27일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '인질'은 지난 26일 하루 4만6551명의 관객을 동원해 박스오피스 1위를 기록했다. 지난 18일]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2FNEWS1%2F20210827075412528ocbu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[SC초점] 단숨에 100만 목전 '인질', 코시국도 못꺾은 황정민의 저력 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210826131349587</link>
-            <guid>https://movie.v.daum.net/v/20210826131349587</guid>
-            <pubDate>Thu, 26 Aug 2021 09:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 배우 황정민의 원맨쇼라 불리는 액션 스릴러 영화 '인질'(필감성 감독, 외유내강 제작)이 개봉 8일 만에 80만 관객을 동원, 단숨에 100만 카운트다운에 돌입했다. 코로나19 4차 대유행으로 영화계가 다시 한번 위기를 겪고 있는 가운데 올여름 액션 영화 '모가디슈'(류승완 감독, 덱스터스튜디오·외유내강 제작), 현]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2FSpoChosun%2F20210826144007900aczi.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[주지훈·박성웅·최성은 '젠틀맨', 20일 크랭크인 [공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210827084812364</link>
+            <guid>https://movie.v.daum.net/v/20210827084812364</guid>
+            <pubDate>Fri, 27 Aug 2021 02:32:10 GMT</pubDate>
+            <content:encoded><![CDATA[(사진=콘텐츠 웨이브)[이데일리 스타in 김보영 기자] 주지훈, 박성웅, 최성은 주연으로 화제를 모은 웨이브 오리지널 영화 ‘젠틀맨’이 대본 리딩을 마치고 지난 20일(금) 전격 크랭크인했다. ‘젠틀맨’은 흥신소 사장 ‘지현수’(주지훈 분)가 살인 누명을 벗으려다 거대한 사건에 휘말리며 벌어지는 스타일리시 추적 액션으로, 국내 OTT 서비스 ‘웨이브’가]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2FEdaily%2F20210827084815265tqzb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['샹치', 한 차원 진화된 마블의 스펙터클 액션 (다음영화 뉴스 ─ 최신)]]></title>
@@ -701,7 +701,7 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fbestbaby%2F20210827101706517vlzm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[주말에 몰아보기] 8년간의 연애, 그리고 다시 '블랙리스트' (다음영화 뉴스 ─ 최신)]]></title>
+            <title><![CDATA[[주말에 몰아보기] 8년간 애정한 '블랙리스트', 이제 드디어 이별하나? (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20210827101504540</link>
             <guid>https://v.daum.net/v/20210827101504540</guid>
             <pubDate>Fri, 27 Aug 2021 01:59:07 GMT</pubDate>
@@ -1145,7 +1145,7 @@
             <link>https://tv.naver.com/v/22093705</link>
             <guid>https://tv.naver.com/v/22093705</guid>
             <pubDate>Fri, 27 Aug 2021 01:59:23 GMT</pubDate>
-            <content:encoded><![CDATA[22분 전]]></content:encoded>
+            <content:encoded><![CDATA[55분 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210827_121/v2Nz7_1630028193035BmqNV_JPEG/0a3407dd-06d7-11ec-86ec-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1153,7 +1153,7 @@
             <link>https://tv.naver.com/v/22093473</link>
             <guid>https://tv.naver.com/v/22093473</guid>
             <pubDate>Fri, 27 Aug 2021 01:59:23 GMT</pubDate>
-            <content:encoded><![CDATA[32분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210827_183/fJgGD_16300276061238txBn_JPEG/95ecd6fb-06d5-11ec-80a9-a0369ff95678_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1169,7 +1169,7 @@
             <link>https://tv.naver.com/v/22082035</link>
             <guid>https://tv.naver.com/v/22082035</guid>
             <pubDate>Thu, 26 Aug 2021 09:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210826_57/8H59d_1629966182873ij5Le_JPEG/9b8625c6-0646-11ec-89ce-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1209,7 +1209,7 @@
             <link>https://tv.naver.com/v/22080046</link>
             <guid>https://tv.naver.com/v/22080046</guid>
             <pubDate>Thu, 26 Aug 2021 08:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210826_69/TwQHv_1629962516227KoCJ7_JPEG/eb99f593-063d-11ec-bf57-246e963a4708_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1217,7 +1217,7 @@
             <link>https://tv.naver.com/v/22077891</link>
             <guid>https://tv.naver.com/v/22077891</guid>
             <pubDate>Thu, 26 Aug 2021 06:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210826_273/kbLM6_1629958358875FYSOc_JPEG/74ed2fc9-0634-11ec-b6bf-48df379cc9e4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1225,7 +1225,7 @@
             <link>https://tv.naver.com/v/22076514</link>
             <guid>https://tv.naver.com/v/22076514</guid>
             <pubDate>Thu, 26 Aug 2021 06:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210826_189/usO4K_16299554893402SDp5_JPEG/20e3d5d9-062d-11ec-89ce-48df379ccacc_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1233,7 +1233,7 @@
             <link>https://tv.naver.com/v/22072161</link>
             <guid>https://tv.naver.com/v/22072161</guid>
             <pubDate>Thu, 26 Aug 2021 02:24:36 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210826_48/DAyij_1629943658423cUQXu_JPEG/f13e8627-0611-11ec-b6bf-48df379cc9e4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1345,7 +1345,7 @@
             <link>https://tv.naver.com/v/22049311</link>
             <guid>https://tv.naver.com/v/22049311</guid>
             <pubDate>Wed, 25 Aug 2021 02:25:40 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210825_10/bx8JM_1629857593558fFSdO_JPEG/bf70929f-0549-11ec-8111-505dac8c381b_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1353,7 +1353,7 @@
             <link>https://tv.naver.com/v/22049151</link>
             <guid>https://tv.naver.com/v/22049151</guid>
             <pubDate>Wed, 25 Aug 2021 02:25:40 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210825_233/IkoHR_1629857120794oeQNe_JPEG/a559c304-0548-11ec-9d7e-a0369ff952f4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
