@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Aug 2021 08:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 09:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<캔디맨> 캔디맨 소환영상 2탄]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/421855231?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/421855231?act=clip</guid>
+            <pubDate>Fri, 27 Aug 2021 09:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:25]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjw4v76v9xlbe1ic6nd1pjh2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33186962368%26signature%3DiQGdfE5N7rCKs6D%252BdqK7gzUIsmY%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<모가디슈> 미공개 본편 삭제 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/421854076?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/421796232?act=clip</guid>
             <pubDate>Wed, 25 Aug 2021 07:15:27 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:03]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5e8oqdway3kcijsf00vwqlb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33186783730%26signature%3DuqUsQGikb31W3AqTH5IJ6KUZ%252FOA%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5e8oqdway3kcijsf00vwqlb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33186783730%26signature%3DuqUsQGikb31W3AqTH5IJ6KUZ%252FOA%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<샹치와 텐 링즈의 전설> 아이콘 30초 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 23 Aug 2021 05:13:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:41]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvp0x0s4kvzreppjno13wcefm%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33186603117%26signature%3D33kRcVQcEB52U8slT8vgIqcJwhE%253D%26ts%3D1629694317" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<그대 너머에> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/421735105?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/421735105?act=clip</guid>
-            <pubDate>Mon, 23 Aug 2021 05:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:42]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvovmdkpyewwwg0cvmk1jjkal%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33186602464%26signature%3DA3huRMsJZEPc1jaVrrslMld0IMQ%253D%26ts%3D1629693664" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
