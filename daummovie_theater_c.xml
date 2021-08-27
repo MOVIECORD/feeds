@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Aug 2021 15:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 16:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Tue, 24 Aug 2021 23:15:14 GMT</pubDate>
             <content:encoded><![CDATA[21.08.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F66c754624aca8e6f9ae303ffe4216bbf59ac31a0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[무신 : 용의 귀환]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153236</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153236</guid>
+            <pubDate>Fri, 27 Aug 2021 16:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdcdc9dfb10f25062d595815728c17e37d17dc942" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[데이 앤 나잇]]></title>
@@ -157,14 +165,6 @@
             <pubDate>Wed, 25 Aug 2021 23:15:21 GMT</pubDate>
             <content:encoded><![CDATA[21.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F23ebd59c18acfed7fe55ecbcc56915b0fcb786db" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[슬리핑 위드 마이 스튜던트]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152911</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152911</guid>
-            <pubDate>Wed, 25 Aug 2021 23:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[21.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44ddd9b29bc15f7ab8a63103aced8fc2500b5ae2" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
