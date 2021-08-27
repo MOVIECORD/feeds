@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Aug 2021 13:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 14:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,22 +72,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2Fstarnews%2F20210826103343362mckz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['모가디슈', 트리비아 전격 공개..CG 없이 탄생한 명장면]]></title>
-            <link>https://movie.v.daum.net/v/20210827085052418</link>
-            <guid>https://movie.v.daum.net/v/20210827085052418</guid>
-            <pubDate>Fri, 27 Aug 2021 00:51:58 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;식지 않는 장기 흥행을 이어가고 있는 올해 최고의 화제작 ‘모가디슈'가 영화 만큼 재미있는 ‘모가디슈' 트리비아(Trivia)를 전격 공개한다. #여기가 바로 90년대 소말리아…관계자도 인정한 소말리아 건축 양식 ‘모가디슈’(감독 류승완, 제공배급 롯데엔터테인먼트, 제작 덱스터스튜디오 외유내강)를 보는 관객들을 가장 먼저 사로잡는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fpoctan%2F20210827085053134xrcg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]안은진·김성철, '올빼미' 합류..첫 사극 도전]]></title>
-            <link>https://movie.v.daum.net/v/20210827083528049</link>
-            <guid>https://movie.v.daum.net/v/20210827083528049</guid>
-            <pubDate>Fri, 27 Aug 2021 00:51:58 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 배우 안은진과 김성철이 영화 '올빼미'에 출연한다. 배우 안은진과 김성철이 영화 '올빼미'에 합류, 첫 사극에 도전한다. 27일 영화계에 따르면 안은진과 김성철은 최근 '올빼미' 출연을 결정하고 세부사항을 조율 중이다. '올빼미'는 조선 인조시대를 배경으로 청나라에서 돌아온 소현세자의 죽음을 둘러싼 일을 그린 이야기. '왕의 남자']]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fstarnews%2F20210827083529576htqx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['소리도 없이', 美 판타지아 국제영화제 2관왕.. 유아인 극찬]]></title>
             <link>https://movie.v.daum.net/v/20210827155201027</link>
             <guid>https://movie.v.daum.net/v/20210827155201027</guid>
@@ -96,12 +80,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fkukinews%2F20210827155203120lrdk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['모가디슈', 트리비아 전격 공개..CG 없이 탄생한 명장면]]></title>
+            <link>https://movie.v.daum.net/v/20210827085052418</link>
+            <guid>https://movie.v.daum.net/v/20210827085052418</guid>
+            <pubDate>Fri, 27 Aug 2021 00:51:58 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;식지 않는 장기 흥행을 이어가고 있는 올해 최고의 화제작 ‘모가디슈'가 영화 만큼 재미있는 ‘모가디슈' 트리비아(Trivia)를 전격 공개한다. #여기가 바로 90년대 소말리아…관계자도 인정한 소말리아 건축 양식 ‘모가디슈’(감독 류승완, 제공배급 롯데엔터테인먼트, 제작 덱스터스튜디오 외유내강)를 보는 관객들을 가장 먼저 사로잡는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fpoctan%2F20210827085053134xrcg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[강동원, 영화 '엑시던트' 출연 긍정 검토 [공식]]]></title>
             <link>https://movie.v.daum.net/v/20210826111308050</link>
             <guid>https://movie.v.daum.net/v/20210826111308050</guid>
             <pubDate>Fri, 27 Aug 2021 10:16:49 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠경향] 배우 강동원이 영화 ‘엑시던트’(가제) 출연을 검토 중이다.소속사 YG엔터테인먼트 측은 26일 스포츠경향에 “강동원이 ‘엑시던트’ 출연을 제안 받고 긍정적으로 검토 중”이라고 전했다. ‘엑시던트’는 2009년 동명의 홍콩 영화를 원작으로 한 작품이다. 청부살인업자 ‘브레인’이 조작 살인 도중 돌발 사고를 겪고, 겨우 목숨을 건진 이후 사고의]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2Fsportskhan%2F20210826111309306qcfn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독]안은진·김성철, '올빼미' 합류..첫 사극 도전]]></title>
+            <link>https://movie.v.daum.net/v/20210827083528049</link>
+            <guid>https://movie.v.daum.net/v/20210827083528049</guid>
+            <pubDate>Fri, 27 Aug 2021 00:51:58 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 배우 안은진과 김성철이 영화 '올빼미'에 출연한다. 배우 안은진과 김성철이 영화 '올빼미'에 합류, 첫 사극에 도전한다. 27일 영화계에 따르면 안은진과 김성철은 최근 '올빼미' 출연을 결정하고 세부사항을 조율 중이다. '올빼미'는 조선 인조시대를 배경으로 청나라에서 돌아온 소현세자의 죽음을 둘러싼 일을 그린 이야기. '왕의 남자']]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fstarnews%2F20210827083529576htqx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['보이스' 변요한 놀란 리얼함..보이스피싱 본거지 콜센터 공개]]></title>
@@ -152,20 +152,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fsportskhan%2F20210827094221230hvki.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[강동원, 홍콩 영화 리메이크 '엑시던트' 주연 "긍정 검토"]]></title>
-            <link>https://movie.v.daum.net/v/20210826114925605</link>
-            <guid>https://movie.v.daum.net/v/20210826114925605</guid>
-            <pubDate>Fri, 27 Aug 2021 00:51:58 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 강동원이 리메이크 영화 '엑시던트'의 주인공으로 나선다. 강동원의 소속사 YG엔터테인먼트 관계자는 "강동원이 '엑시던트' 출연을 긍정적으로 검토하고 있다"고 밝혔다. '엑시던트'는 2009년 개봉한 홍콩 영화 '엑시던트'의 리메이크 영화다. 청부살인집단에 속한 주인공이 사고로 동료를 잃은 후, 그 배후를 파헤치며]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2FNEWS1%2F20210826114926859xfeo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[공식] '슬의생 추추' 안은진, UAA와 전속계약 체결..송혜교X유아인과 한솥밥]]></title>
             <link>https://movie.v.daum.net/v/20210827143248474</link>
             <guid>https://movie.v.daum.net/v/20210827143248474</guid>
             <pubDate>Fri, 27 Aug 2021 06:18:17 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠조선 조지영 기자] 배우 안은진이 UAA(United Artist Agency)와 전속계약을 맺었다. 27일 UAA는 "안은진이 UAA의 새 식구가 됐다. 안은진의 가장 큰 매력은 무한한 가능성, 자신만의 뚜렷한 색깔이다. 안은진이 배우로서 진가를 발휘할 수 있도록 최선을 다해 돕겠다"라고 밝혔다. 안은진은 탄탄한 연기력과 대체 불가]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2FSpoChosun%2F20210827143249004pthq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[D:영화 뷰] '백인 히어로'에서 흑인·여성·아시아인으로, 다양성 품는 마블]]></title>
+            <link>https://movie.v.daum.net/v/20210827111246073</link>
+            <guid>https://movie.v.daum.net/v/20210827111246073</guid>
+            <pubDate>Fri, 27 Aug 2021 14:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[최근 수년간 할리우드는 다양성을 포용하려는 움직임을 보였다. 미투(#MeToo)로 촉발된 성 평등 강조, 여성과 유색인종, 성적 소수자, 장애인 등을 영화 제작 과정에서 배제하지 말아야 한다는 '인클루전 라이더' 계약 조항, '흑인 생명도 소중하다'(Black Lives Matter·BLM) 시위 등은 누구나 똑같은 권리를 누려야 한다는 인식을 확산시켰다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fdailian%2F20210827111252891nsng.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
