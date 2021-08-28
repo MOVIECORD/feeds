@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Aug 2021 14:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 15:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -295,14 +295,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb466e8c626f9f77e033ed7a6023d82568d327ef6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[더 그레이트 샤크 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150566</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150566</guid>
-            <pubDate>Sat, 28 Aug 2021 06:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa89dc80a0838884bbe5b7da0240ff9664b789c48" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[킬러의 보디가드 2: 킬러의 와이프 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=130061</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=130061</guid>
@@ -341,6 +333,14 @@
             <pubDate>Fri, 27 Aug 2021 07:14:47 GMT</pubDate>
             <content:encoded><![CDATA[21.07.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff39274b0acd76f7c66f0a5fb9e5b7222ed37b373" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[그린 나이트 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139183</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139183</guid>
+            <pubDate>Sat, 28 Aug 2021 15:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6dd33309d1b1b3a9e3aa6e65ddf1ebe229433eb3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[고스트 스나이퍼 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -566,20 +566,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fstarnews%2F20210828182216029bzon.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[아프가니스탄 카불에 사는 나와 같은 수천명의 여자들에게 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210828151602134</link>
-            <guid>https://movie.v.daum.net/v/20210828151602134</guid>
-            <pubDate>Sat, 28 Aug 2021 07:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[2014년, 아프가니스탄 카불에 사는 카테라는 긴 싸움을 진행 중이었다. 카테라는 자신의 친부에게 성폭력을 당해왔다. 카테라의 어머니 역시 같은 피해자로 지속적인 폭력에 시달린다. 친부는 폭력과 학대 속에서 카테라를 네번이나 임신시키고, 태어나는 아이들은 사막에 유기한다. 결국 다섯번째로 태어난 딸을 키우게 된 상황에서 카테라는 또 다시 임신한다. 폭탄이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fhani%2F20210828151604531lpho.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA["차원 다른, 마블 최초 아시안 히어로"..'샹치와 텐 링즈의 전설', 레전드 썼다 [마데핫리뷰] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210827154902953</link>
             <guid>https://movie.v.daum.net/v/20210827154902953</guid>
             <pubDate>Fri, 27 Aug 2021 15:16:26 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 김나라 기자] '샹치와 텐 링즈의 전설'이 그야말로 '레전드'를 썼다. 27일 오전 서울 용산구 CGV용산아이파크몰에선 '샹치와 텐 링즈의 전설'(감독 데스틴 크리튼) 언론배급 시사회가 열렸다. '샹치와 텐 링즈의 전설'은 마블의 강력한 전설 '텐 링즈'의 힘으로 어둠의 세계를 지배해 온 아버지 웬우(양조위)와 암살자의 길을 거부하고 자신]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fmydaily%2F20210827154902493jdzv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[아프가니스탄 카불에 사는 나와 같은 수천명의 여자들에게 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210828151602134</link>
+            <guid>https://movie.v.daum.net/v/20210828151602134</guid>
+            <pubDate>Sat, 28 Aug 2021 07:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[2014년, 아프가니스탄 카불에 사는 카테라는 긴 싸움을 진행 중이었다. 카테라는 자신의 친부에게 성폭력을 당해왔다. 카테라의 어머니 역시 같은 피해자로 지속적인 폭력에 시달린다. 친부는 폭력과 학대 속에서 카테라를 네번이나 임신시키고, 태어나는 아이들은 사막에 유기한다. 결국 다섯번째로 태어난 딸을 키우게 된 상황에서 카테라는 또 다시 임신한다. 폭탄이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fhani%2F20210828151604531lpho.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["걸스데이 없으면 나도 없어"..방민아가 선택한 '최선의 삶'[★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
@@ -598,6 +598,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fpoctan%2F20210828201704529htne.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[노래하는 딸, 들을 수 없는 부모.. 이 가족이 전한 감동 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210827142709244</link>
+            <guid>https://movie.v.daum.net/v/20210827142709244</guid>
+            <pubDate>Fri, 27 Aug 2021 22:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[[김준모 기자] ▲ &nbsp;&lt;코다&gt; 포스터    ⓒ 엠엔엠인터내셔널(주)   베로니크 풀랭의 자전적 소설을 바탕으로 한 프랑스 영화 &lt;미라클 벨리에&gt;는 프랑스는 물론 전 세계적으로 큰 인기를 끈 바 있다. 이 작품은 가족 중 유일하게 말을 들을 줄 아는 소녀가 세상과 가족의 다리 역할을 하다 스스로의 삶을 개척해 나가는 과정에서 겪는 갈등과 성장을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fohmynews%2F20210827142710184qici.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[SC초점] "편견 뛰어넘어"..방민아X한승연X임윤아X한선화, 걸그룹 출신 장악한 가을 충무로★ (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210827103724465</link>
             <guid>https://movie.v.daum.net/v/20210827103724465</guid>
@@ -606,12 +614,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2FSpoChosun%2F20210827103724820hldc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[노래하는 딸, 들을 수 없는 부모.. 이 가족이 전한 감동 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210827142709244</link>
-            <guid>https://movie.v.daum.net/v/20210827142709244</guid>
-            <pubDate>Fri, 27 Aug 2021 22:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[[김준모 기자] ▲ &nbsp;&lt;코다&gt; 포스터    ⓒ 엠엔엠인터내셔널(주)   베로니크 풀랭의 자전적 소설을 바탕으로 한 프랑스 영화 &lt;미라클 벨리에&gt;는 프랑스는 물론 전 세계적으로 큰 인기를 끈 바 있다. 이 작품은 가족 중 유일하게 말을 들을 줄 아는 소녀가 세상과 가족의 다리 역할을 하다 스스로의 삶을 개척해 나가는 과정에서 겪는 갈등과 성장을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fohmynews%2F20210827142710184qici.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[추적 액션 '젠틀맨', 크랭크인..주지훈 "박성웅·최성은과 호흡 기뻐" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210827113639965</link>
+            <guid>https://movie.v.daum.net/v/20210827113639965</guid>
+            <pubDate>Sat, 28 Aug 2021 03:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '젠틀맨'이 크랭크인했다. 주지훈 박성웅 최성은이 출연하는 웨이브 오리지널 영화 '젠틀맨'이 대본 리딩을 마치고 지난 20일 전격 크랭크인했다. '젠틀맨'은 흥신소 사장 지현수(주지훈)가 살인 누명을 벗으려다 거대한 사건에 휘말리게 되는 이야기를 담은 스타일리시 추적 액션이다. '아티스트: 다시 태어나다'로 평단의 주목을 받은 신예 감독 김경원이 연출]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fhankooki%2F20210827113642575gbuu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['샹치와 텐 링즈의 전설', 전체 예매율 1위..국내 역대급 호평 '흥행 신드롬 예고' [공식] (다음영화 뉴스 ─ 인기)]]></title>
@@ -630,12 +638,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fnewsen%2F20210828180943594jejm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[추적 액션 '젠틀맨', 크랭크인..주지훈 "박성웅·최성은과 호흡 기뻐" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210827113639965</link>
-            <guid>https://movie.v.daum.net/v/20210827113639965</guid>
-            <pubDate>Sat, 28 Aug 2021 03:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '젠틀맨'이 크랭크인했다. 주지훈 박성웅 최성은이 출연하는 웨이브 오리지널 영화 '젠틀맨'이 대본 리딩을 마치고 지난 20일 전격 크랭크인했다. '젠틀맨'은 흥신소 사장 지현수(주지훈)가 살인 누명을 벗으려다 거대한 사건에 휘말리게 되는 이야기를 담은 스타일리시 추적 액션이다. '아티스트: 다시 태어나다'로 평단의 주목을 받은 신예 감독 김경원이 연출]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fhankooki%2F20210827113642575gbuu.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['인질', 100만 관객 돌파..황정민 "저희 영화 아껴주셔서 감사"[공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210828181751069</link>
+            <guid>https://movie.v.daum.net/v/20210828181751069</guid>
+            <pubDate>Sat, 28 Aug 2021 10:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 황정민 /사진제공=NEW영화 '인질'(감독 필감성)이 100만 관객을 돌파했다. 28일 NEW에 따르면 개봉 첫날부터 지금까지 10일 동안 박스오피스 1위를 이어오며 황정민의 흥행 파워를 보여주고 있는 영화 '인질'이 100만 관객을 돌파했다. 이날 오후 5시 25분 기준 영화진흥위원회 통합전산망에 따르면 '인질'은 누적 관객수 1]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fstarnews%2F20210828181752390igsq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[20년만에 디지털로 돌아온 영화 '고양이를 부탁해' (다음영화 뉴스 ─ 인기)]]></title>
@@ -646,180 +654,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fyonhap%2F20210828211955905uqcj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['인질', 100만 관객 돌파..황정민 "저희 영화 아껴주셔서 감사"[공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210828181751069</link>
-            <guid>https://movie.v.daum.net/v/20210828181751069</guid>
-            <pubDate>Sat, 28 Aug 2021 10:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 황정민 /사진제공=NEW영화 '인질'(감독 필감성)이 100만 관객을 돌파했다. 28일 NEW에 따르면 개봉 첫날부터 지금까지 10일 동안 박스오피스 1위를 이어오며 황정민의 흥행 파워를 보여주고 있는 영화 '인질'이 100만 관객을 돌파했다. 이날 오후 5시 25분 기준 영화진흥위원회 통합전산망에 따르면 '인질'은 누적 관객수 1]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fstarnews%2F20210828181752390igsq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[졸리도 반한 마동석, '월드 마블리' 되나[MK무비] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210828075101307</link>
-            <guid>https://movie.v.daum.net/v/20210828075101307</guid>
-            <pubDate>Fri, 27 Aug 2021 23:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[마동석이 국내를 넘어 세계적인 ‘마블리’로 거듭날 전망이다. 강력한 마블의 전사 ‘길가메시’로 분한, 영화 '이터널스'를 통해서다. 오는 11월 개봉하는 '이터널스'는 ‘샹치와 텐 링즈의 전설’과 함께 전 세계 영화 팬들의 관심을 한 몸에 받고 있는 마블의 신작. 수 천년에 걸쳐 그 모습을 드러내지 않고 살아온 불멸의 히어로들이 ‘어벤져스: 엔드게임’]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fstartoday%2F20210828075102528swbr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[20년만에 디지털로 돌아온 영화 '고양이를 부탁해' (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210828211955054</link>
-            <guid>https://v.daum.net/v/20210828211955054</guid>
-            <pubDate>Sat, 28 Aug 2021 12:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 한미희 기자 = 정재은 감독의 데뷔작 '고양이를 부탁해'가 20년 만에 디지털 리마스터링으로 다시 관객을 만났다. 2001년 개봉한 영화는 국제통화기금(IMF)으로부터 구제 금융을 받아야 했던 위기의 시대를 배경으로 갓 스무 살이 된 다섯 명의 고등학교 친구들을 통해 젊은 여성들이 처한 현실을 세밀하게 그린다. 28일 오후 서울국제여성영]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fyonhap%2F20210828211955905uqcj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[정해인x구교환 'DP', 군 가혹행위 현실적 묘사..정주행 이끈 앙상블 [Oh!늘 뭐 볼까] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210828201704297</link>
-            <guid>https://v.daum.net/v/20210828201704297</guid>
-            <pubDate>Sat, 28 Aug 2021 12:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;줄거리: 치킨집에서 아르바이트를 하던 준호(정해인 분)는 월급도 제대로 받지 못하고, 급기야 거짓말쟁이로 낙인찍힌다. 돌아갈 곳이 없어 홧김에 군 입대한 그는 황장수(신승호 분) 병장에게 가학적으로 갈굼 당하고, 조석봉(조현철 분) 이병 등 동기들이 맞는 모습을 지켜보면서 정신적·신체적 고통을 받는다. 철저한 서열 사회라 후임들이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fpoctan%2F20210828201704529htne.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[황정민 '인질', 100만 관객 돌파..친필 감사 인사 [공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210828184034315</link>
-            <guid>https://v.daum.net/v/20210828184034315</guid>
-            <pubDate>Sat, 28 Aug 2021 10:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 황정민 신작 '인질'이 오늘(28일) 100만 관객을 돌파했다. 28일 영진위 영화관입장권 통합전산망 집계에 따르면 이날 오후 5시 35분 기준 '인질'은 누적 관객 수 100만 280명을 기록했다. '인질'은 어느 날 새벽, 증거도 목격자도 없이 납치된 배우 황정민(황정민)을 그린 리얼리티 액션스릴러. 특히 '인질'은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fmydaily%2F20210828184034123ojro.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['용감한 시민' 이준영, 음주운전 차량 1시간 추격..경찰에 인계 [종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210828182214136</link>
-            <guid>https://v.daum.net/v/20210828182214136</guid>
-            <pubDate>Sat, 28 Aug 2021 10:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 이준영 /사진=김창현 기자 chmt@그룹 유키스 멤버 겸 배우 이준영의 선행이 화제를 모으고 있다. 28일 소속사 NH EMG에 따르면 이준영은 지난 25일 스케줄을 끝내고 직접 차를 운전하며 귀가하던 중 음주운전 의심 차량을 발견했다. 이준영은 해당 차량의 뒤를 약 1시간 가량 추격했고, 경찰에 신고했다. 경찰은 이준영의 협조로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fstarnews%2F20210828182216029bzon.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['인질', 100만 관객 돌파..황정민 "저희 영화 아껴주셔서 감사"[공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210828181751069</link>
-            <guid>https://v.daum.net/v/20210828181751069</guid>
-            <pubDate>Sat, 28 Aug 2021 10:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 황정민 /사진제공=NEW영화 '인질'(감독 필감성)이 100만 관객을 돌파했다. 28일 NEW에 따르면 개봉 첫날부터 지금까지 10일 동안 박스오피스 1위를 이어오며 황정민의 흥행 파워를 보여주고 있는 영화 '인질'이 100만 관객을 돌파했다. 이날 오후 5시 25분 기준 영화진흥위원회 통합전산망에 따르면 '인질'은 누적 관객수 1]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fstarnews%2F20210828181752390igsq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['인질' 오늘(28일) 100만 관객 돌파, 황정민→류경수 감사 인사 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210828180942007</link>
-            <guid>https://v.daum.net/v/20210828180942007</guid>
-            <pubDate>Sat, 28 Aug 2021 09:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박수인 기자] '인질'이 100만 관객을 돌파했다. 8월 28일 오후 5시 35분 기준 영화진흥위원회 통합전산망에 따르면 영화 '인질'(감독 필감성)은 누적 관객수 1,000,280명을 기록하며 100만 관객을 돌파했다. 2021년 올해 개봉한 스릴러 영화 중에서는 처음으로 100만 관객을 돌파한 것. '인질'의 100만 관객 돌파 소식과 함께]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fnewsen%2F20210828180943594jejm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['샹치와 텐 링즈의 전설' 예매율 1위..관객 기대감 최고조[공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210828174821705</link>
-            <guid>https://v.daum.net/v/20210828174821705</guid>
-            <pubDate>Sat, 28 Aug 2021 09:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;로튼 토마토 신선도 92%와 함께 국내외 언론과 평단의 쏟아지는 호평 세례를 받고 있는 영화 '샹치와 텐 링즈의 전설'이 개봉 4일 전인 오늘(28일) 전체 예매율 1위에 등극했다. 차세대 NEW 히어로의 성공적인 데뷔와 함께 전례 없는 액션신의 탄생, 마블다운 거대한 스케일에 대한 극찬이 이어지며 예비 관객들의 기대감을 최고조로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fpoctan%2F20210828175154270vjpa.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['샹치와 텐 링즈의 전설', 전체 예매율 1위..국내 역대급 호평 '흥행 신드롬 예고' [공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210828173846562</link>
-            <guid>https://v.daum.net/v/20210828173846562</guid>
-            <pubDate>Sat, 28 Aug 2021 09:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 마블 신작 '샹치와 텐 링즈의 전설'이 오늘(28일) 전체 예매율 1위에 등극했다. 28일 영진위 영화관입장권 통합전산망 집계에 따르면 이날 오후 기준 '샹치와 텐 링즈의 전설'은 25.1%의 수치를 나타내며 실시간 예매율 1위에 올랐다. 이로써 '샹치와 텐 링즈의 전설'은 극장가에 새 바람을 몰고 올 예정. 27일 국내 언]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fmydaily%2F20210828173846423leic.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['샹치와 텐 링즈의 전설' 개봉 D-4 예매율 1위 등극[공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210828170705202</link>
-            <guid>https://v.daum.net/v/20210828170705202</guid>
-            <pubDate>Sat, 28 Aug 2021 09:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[다시 마블 천하다. 영화 '샹치와 텐 링즈의 전설'이 개봉 4일 전인 28일 전체 예매율 1위에 등극했다. 지난 27일 언론시사 후 호평을 한 몸에 받고 있는 '샹치와 텐 링즈의 전설'은 작품에 대한 예비 관객들의 기대와 신뢰도를 높이며 예매율 상승으로 이어졌다. 영화진흥위원회 영화관입장권통합전산망에 따르면 '샹치와 텐 링즈의 전설'은 24.6%의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Filgansports%2F20210828170706772ejjn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[아프가니스탄 카불에 사는 나와 같은 수천명의 여자들에게 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210828151602134</link>
-            <guid>https://v.daum.net/v/20210828151602134</guid>
-            <pubDate>Sat, 28 Aug 2021 06:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[2014년, 아프가니스탄 카불에 사는 카테라는 긴 싸움을 진행 중이었다. 카테라는 자신의 친부에게 성폭력을 당해왔다. 카테라의 어머니 역시 같은 피해자로 지속적인 폭력에 시달린다. 친부는 폭력과 학대 속에서 카테라를 네번이나 임신시키고, 태어나는 아이들은 사막에 유기한다. 결국 다섯번째로 태어난 딸을 키우게 된 상황에서 카테라는 또 다시 임신한다. 폭탄이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fhani%2F20210828151604531lpho.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[송영애의 영화이야기] 영화와 나이의 관계 '영유아의 영화 관람생활' (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210828140128559</link>
-            <guid>https://v.daum.net/v/20210828140128559</guid>
-            <pubDate>Sat, 28 Aug 2021 05:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[‘쇼팽 이미지 에튀드’(감독 오재형, 2008) 스틸컷.  &nbsp; 얼마 전 코로나19 상황에서도 개막을 준비하고 있는 여름 영화제를 소개했었다. 그중 제천국제음악영화제와 서울국제대안영상예술페스티벌(이후 네마프)은 폐막했고, 서울국제여성영화제는 8월26일 개막해 진행 중이다. 뒤이어 여러 가을 겨울 영화제도 개막을 준비하고 있다.&nbsp; 작년부터 국내외 영화제에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fsegye%2F20210828140129019dlrs.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["걸스데이 없으면 나도 없어"..방민아가 선택한 '최선의 삶'[★FULL인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210828130001037</link>
-            <guid>https://v.daum.net/v/20210828130001037</guid>
-            <pubDate>Sat, 28 Aug 2021 04:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 방민아 /사진제공=(주)엣나인필름"아이돌 걸스데이 출신 편견이요? 깰 수도 없고 가져 갈게요." 최고이고 싶었던 배우 방민아(28)가 지금은 '최선'을 선택했다. 앞으로도 '최선'을 중점적으로 활동할 것이라고 밝혔다. '최선의 삶'(감독 이우정)은 열여덟 강이(방민아 분), 아람(심달기 분), 소영(한성민 분). 더 나아지기 위해서]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fstarnews%2F20210828130003056znoc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[톱 황정민에 의한, 황정민의 '인질' [박스오피스] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210828121126787</link>
-            <guid>https://v.daum.net/v/20210828121126787</guid>
-            <pubDate>Sat, 28 Aug 2021 03:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 이기은 기자] 영화 '인질'이 10일 연속 박스오피스 1위 자리를 수성하며 황정민 파워를 입증하고 있다. 28일 영화진흥위원회 영화관 입장권 통합전산망에 따르면 '인질'은 지난 27일 5만 3727명을 불러모았다. 누적 관객수는 90만 8332명으로 집계됐다. 2위는 '싱크홀'로 3만 747명을 불러 모았으며 누적관객수는 183만 2967명이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Ftvdaily%2F20210828121128125jgrl.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['샹치와 텐 링즈의 전설', 中 무협물과 융합한 MCU..양조위 존재감 [N리뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210828120006688</link>
-            <guid>https://v.daum.net/v/20210828120006688</guid>
-            <pubDate>Sat, 28 Aug 2021 03:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = *영화의 주요 내용을 포함한 스포일러가 있을 수 있습니다. MCU(마블 시네마틱 유니버스)가 중국 무협물의 세계에까지 손을 뻗었다. '어벤져스: 엔드 게임'으로 막을 내린 페이즈3의 뒤를 이어 페이즈4를 여는 '샹치와 텐 링즈의 전설'(감독 데스틴 다니엘 크리튼)은 이국적인 배경 속에서 중국식 무협물과 마블 히어로 서사]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2FNEWS1%2F20210828120007365rgcq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['50대' 황정민, 류경수X이유미가 놀란 '인질'의 체력王 [★비하인드] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210828113005476</link>
-            <guid>https://v.daum.net/v/20210828113005476</guid>
-            <pubDate>Sat, 28 Aug 2021 03:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 류경수, 황정민, 이유미(왼쪽부터) /사진제공=NEW, 바로엔터테인먼트배우 류경수와 이유미가 영화 '인질'(감독 필감성)에서 호흡을 맞춘 황정민의 체력에 혀를 내둘렀다. 그 이유는 무엇일까. '인질'은 어느 날 새벽, 증거도 목격자도 없이 납치된 배우 황정민을 그린 리얼리티 액션스릴러. '인질'은 배우 황정민이 인질로 사로잡혔다'라]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fstarnews%2F20210828113007897obbq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[돌아온 윤도현 "'광화문연가', 제 인생과 닮아 더 의미있죠" [★FULL인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210828110001119</link>
-            <guid>https://v.daum.net/v/20210828110001119</guid>
-            <pubDate>Sat, 28 Aug 2021 03:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 윤도현 /사진제공=CJ ENM가수 윤도현이 뮤지컬 '광화문연가'는 자신의 인생과 닮았기에 더 의미가 있다고 밝혔다. 뮤지컬 '광화문연가'는 곡 '옛사랑', '소녀', '깊은 밤을 날아서', '붉은 노을', '광화문 연가', '기억이란 사랑보다', '사랑이 지나가면', '빗속에서', '애수', '가로수 그늘 아래서면' 등 대한민국 ']]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fstarnews%2F20210828110002560zaqz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[그 탈옥수는 전설이 됐다.. 베테랑들 다 모였던 사연 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210828105701092</link>
-            <guid>https://v.daum.net/v/20210828105701092</guid>
-            <pubDate>Sat, 28 Aug 2021 03:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[[양형석 기자] 대한민국 사법부는 3심제도를 원칙으로 한다. 지방법원에서 담당하는 1심 판결에 대해 인정을 하지 못하는 사람들은 고등법원에 항소를 할 수 있다. 항소에 의해 내려진 판결도 불공정하다고 생각하는 사람들은 다시 상고 제도를 통해 대법원에 최종적으로 이의를 제기할 수 있다. 법은 인간이 만든 것이기 때문에 언제나 완벽할 수 없고 항소와 상고 제도]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fohmynews%2F20210828105705741psta.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[류승완X김윤석X조인성X구교환이 'PICK'한 '모가디슈' 명장면은? (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210828103005796</link>
-            <guid>https://v.daum.net/v/20210828103005796</guid>
-            <pubDate>Sat, 28 Aug 2021 01:51:29 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] /사진=영화 '모가디슈' 스틸영화 '모가디슈'(감독 류승완) 주역들이 직접 명장면을 꼽았다. 최근 롯데엔터테인먼트 측은 김윤석, 조인성, 구교환, 류승완 감독이 직접 뽑은 영화 '모가디슈' 명장면을 공개했다. '모가디슈'는 1991년 소말리아의 수도 모가디슈에서 내전으로 인해 고립된 사람들의 생사를 건 탈출을 그린 이야기다. 김윤석]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fstarnews%2F20210828103006297kunm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['인질' 100만 vs '싱크홀' 200만 vs '모가디슈' 300만 예고 [주말흥행기상도] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210828101502669</link>
-            <guid>https://v.daum.net/v/20210828101502669</guid>
-            <pubDate>Sat, 28 Aug 2021 01:51:29 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 황정민 주연 영화 '인질'과 차승원 주연 영화 '싱크홀'이 8월 마지막 주말 극장가를 쌍끌이로 이끌 전망이다. '인질'은 이번 주말 100만명을 돌파하며 올해 한국영화 중 세 번째로 100만 고지에 오를 예정이다. '싱크홀'은 이번 주말 200만 고지를 눈앞에 두게 되며, '모가디슈'도 300만 돌파를 맛 볼 전망이다. 이번 주말에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fstarnews%2F20210828101503344zdbb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['인질' 황정민 보석함 오픈, 빌런들의 납치사건 비하인드 공개 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210828101422658</link>
-            <guid>https://v.daum.net/v/20210828101422658</guid>
-            <pubDate>Sat, 28 Aug 2021 01:51:29 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 김노을 기자] 영화 ‘인질’의 ‘황정민 납치사건’ 비하인드가 전격 공개됐다. 개봉 2주 차에도 박스오피스 정상 자리를 지키며 흥행 가도를 달리고 있는 영화 ‘인질’(감독 필감성)이 황정민과 그가 직접 발굴한 보석 같은 배우들이 함께한 ‘황정민의 보석함 오픈 영상’을 전격 공개했다. ‘인질’은 어느 날 새벽, 증거도 목격자도 없이 납치된 배우 황정]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fnewsen%2F20210828101423150zvwi.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['싱크홀' 김성균 "난 행운의 사나이" [인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210827103206270</link>
+            <guid>https://movie.v.daum.net/v/20210827103206270</guid>
+            <pubDate>Sat, 28 Aug 2021 15:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 반지하에서 배우의 꿈을 키우던 청년은 10년의 시간과 노력을 자양분 삼아 이제 어엿한 주연 배우로 성장해 있었다. 자신의 성취에 조금 으쓱할 법도 한데, 스스로를 '행운의 사나이'라고 부르며 겸손이다. 배우 김성균의 이야기다. 영화 '싱크홀'(감독 김지훈·제작 더타워픽쳐스)은 11년 만에 마련한 내 집이 지하 500m 초대형 싱]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Ftvdaily%2F20210827103209044xayk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<캔디맨> 캔디맨 소환영상 2탄 (우리 영화 볼래?)]]></title>
