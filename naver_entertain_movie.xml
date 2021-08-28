@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-28T10:17:05.709Z</updated>
+    <updated>2021-08-28T11:12:58.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['인질' 100만 돌파…황정민 등 감사 인사]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004844447</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004844447"/>
+        <updated>2021-08-28T11:11:59.215Z</updated>
+        <content type="html"><![CDATA[영화 '인질'(감독 필감성)이 28일 100만 관객을 돌파했다. 영화진흥위원회 통합전산망에 따르면 '인질'은 28일 오후 5시 35분 기준 누적 관객수 1,000,280명을 기록하며 100만 관객을 돌파했다. 올해]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['인질' 100만 관객 돌파, 황정민 친필 감사 인사]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000497232</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000497232"/>
+        <updated>2021-08-28T11:11:59.221Z</updated>
+        <content type="html"><![CDATA[[텐아시아=신소원 기자] 영화 '인질'(감독 필감성 배급 NEW)이 100만 관객을 돌파했다. 개봉 첫날부터 지금까지 10일 동안 박스오피스 1위를 이어오며 황정민의 흥행 파워를 보여주고 있는 '인질'이 100만 관]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TV·모바일 아닌 극장에서 ·'승리호' 볼 수 있다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0003955530</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002984213"/>
         <updated>2021-08-28T01:50:56.136Z</updated>
         <content type="html"><![CDATA[황정민 주연 영화 '인질'과 차승원 주연 영화 '싱크홀'이 8월 마지막 주말 극장가를 쌍끌이로 이끌 전망이다. '인질'은 이번 주말 100만명을 돌파하며 올해 한국영화 중 세 번째로 100만 고지에 오를 예정이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘인질’ 황정민 보석함 오픈, 빌런들의 납치사건 비하인드 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000483865</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000483865"/>
-        <updated>2021-08-28T01:50:56.169Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김노을 기자] 영화 ‘인질’의 ‘황정민 납치사건’ 비하인드가 전격 공개됐다. 개봉 2주 차에도 박스오피스 정상 자리를 지키며 흥행 가도를 달리고 있는 영화 ‘인질’(감독 필감성)이 황정민과 그가 직접 발굴한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김준수의 '엑스칼리버', 더 위대해진 찬란한 햇살 [강민경의 전지적 덕후시점]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002984211</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002984211"/>
-        <updated>2021-08-28T01:50:56.169Z</updated>
-        <content type="html"><![CDATA[가수 겸 뮤지컬 배우 김준수가 더욱 위대해진 '엑스칼리버' 찬란한 햇살 아더로 돌아왔다. 뮤지컬 '엑스칼리버'는 고대 영국을 배경으로 왕의 숙명을 지닌 아더가 고뇌와 혼돈을 극복하고 성장해나가는 모습을 그린 작품이다]]></content>
     </entry>
 </feed>
