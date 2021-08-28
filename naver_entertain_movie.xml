@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-28T21:13:21.384Z</updated>
+    <updated>2021-08-28T22:15:26.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['굿바이 서울극장'…20대 청년도, 70대 노인도 '마지막 인사' 발길]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005568796</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005568796"/>
+        <updated>2021-08-28T22:14:27.261Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 김진 기자,김민수 기자 = "사실은 여기가 부모님의 첫 데이트 장소였대요. 그래서 저도 초등학교 때 부모님 손 잡고 자주 왔었던 기억이 나는데, 이제 문을 닫는다고 해서 친구랑 영화 보러 왔어요."]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[영화-최선의 삶] “그때는 몰랐다 최선의 우리를”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=417&amp;aid=0000729630</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=417&amp;aid=0000729630"/>
+        <updated>2021-08-28T22:14:27.265Z</updated>
+        <content type="html"><![CDATA[‘최선의 삶’은 제4회 문학동네 대학소설상 수상작인 임솔아 작가의 동명 장편소설 ‘최선의 삶’을 원작으로 이우정 감독이 각색, 감독을 맡은 영화로 18세 ‘강이’, ‘아람’, ‘소영’ 세 친구가 더 나아지기 위해서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MCU 페이즈4의 시작…'샹치'·'이터널스' 亞히어로 향한 기대 [N초점]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005568729</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003614270"/>
         <updated>2021-08-28T05:13:09.413Z</updated>
         <content type="html"><![CDATA[‘쇼팽 이미지 에튀드’(감독 오재형, 2008) 스틸컷. 얼마 전 코로나19 상황에서도 개막을 준비하고 있는 여름 영화제를 소개했었다. 그중 제천국제음악영화제와 서울국제대안영상예술페스티벌(이후 네마프)은 폐막했고,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["걸스데이 없으면 나도 없어"..방민아가 선택한 '최선의 삶'[★FULL인터뷰]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002984232</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002984232"/>
-        <updated>2021-08-28T04:19:27.047Z</updated>
-        <content type="html"><![CDATA["아이돌 걸스데이 출신 편견이요? 깰 수도 없고 가져 갈게요." 최고이고 싶었던 배우 방민아(28)가 지금은 '최선'을 선택했다. 앞으로도 '최선'을 중점적으로 활동할 것이라고 밝혔다. '최선의 삶'(감독 이우정)은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['샹치와 텐 링즈의 전설', 中 무협물과 융합한 MCU…양조위 존재감 [N리뷰]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005568410</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005568410"/>
-        <updated>2021-08-28T03:15:23.275Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = *영화의 주요 내용을 포함한 스포일러가 있을 수 있습니다. MCU(마블 시네마틱 유니버스)가 중국 무협물의 세계에까지 손을 뻗었다. '어벤져스: 엔드 게임'으로 막을 내린 페이즈3의]]></content>
     </entry>
 </feed>
