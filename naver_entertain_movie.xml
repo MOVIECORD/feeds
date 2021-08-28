@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-28T03:16:22.711Z</updated>
+    <updated>2021-08-28T04:20:34.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["걸스데이 없으면 나도 없어"..방민아가 선택한 '최선의 삶'[★FULL인터뷰]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002984232</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002984232"/>
+        <updated>2021-08-28T04:19:27.047Z</updated>
+        <content type="html"><![CDATA["아이돌 걸스데이 출신 편견이요? 깰 수도 없고 가져 갈게요." 최고이고 싶었던 배우 방민아(28)가 지금은 '최선'을 선택했다. 앞으로도 '최선'을 중점적으로 활동할 것이라고 밝혔다. '최선의 삶'(감독 이우정)은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['샹치와 텐 링즈의 전설', 中 무협물과 융합한 MCU…양조위 존재감 [N리뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005568410</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005568225"/>
         <updated>2021-08-27T22:15:00.767Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 인터뷰에서 '아이돌 출신 배우'라는 수식을 하는 것도 이젠 식상한 일이 돼버렸다. 그만큼 아이돌 출신 배우와 신인 배우의 경계가 모호해졌기 때문이다. OTT 서비스와 유튜브 등의 발달]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["울랄라세션, 영화화" 2억 사기 친 제작사 운영자…징역1년6월]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005568222</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005568222"/>
-        <updated>2021-08-27T22:15:00.768Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 이장호 기자 = 슈퍼스타K3 우승을 한 그룹 울랄라세션의 이야기를 영화로 만들겠다고 속여 투자금 명목으로 2억원을 챙긴 영화 제작사 운영자가 1심에서 실형을 선고받았다. 서울중앙지법 형사3단독 양환승]]></content>
     </entry>
 </feed>
