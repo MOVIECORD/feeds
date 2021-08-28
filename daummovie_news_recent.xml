@@ -4,9 +4,17 @@
         <title>다음영화 뉴스 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Aug 2021 05:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 06:18:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나와 같은 수천명의 여자들에게]]></title>
+            <link>https://v.daum.net/v/20210828151602134</link>
+            <guid>https://v.daum.net/v/20210828151602134</guid>
+            <pubDate>Sat, 28 Aug 2021 06:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[2014년, 아프가니스탄 카불에 사는 카테라는 긴 싸움을 진행 중이었다. 카테라는 자신의 친부에게 성폭력을 당해왔다. 카테라의 어머니 역시 같은 피해자로 지속적인 폭력에 시달린다. 친부는 폭력과 학대 속에서 카테라를 네번이나 임신시키고, 태어나는 아이들은 사막에 유기한다. 결국 다섯번째로 태어난 딸을 키우게 된 상황에서 카테라는 또 다시 임신한다. 폭탄이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fhani%2F20210828151604531lpho.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
         <item>
             <title><![CDATA[[송영애의 영화이야기] 영화와 나이의 관계 '영유아의 영화 관람생활']]></title>
             <link>https://v.daum.net/v/20210828140128559</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 27 Aug 2021 23:15:56 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘인질’이 개봉 2주차에도 박스오피스 정상 자리를 지키며 흥행 가도를 달리고 있다. 28일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날(27일) ‘인질’에 5만 3727명이 들어 일별 박스오피스 1위를 유지했다. 이달 18일 개봉한 ‘인질’(감독 필감성, 배급 NEW, 제작 외유내강)은 어느 날 새벽 증거도 목격자도]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fpoctan%2F20210828073902937eqfk.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화계에서 아이돌들이 살아남는 법 [N초점]]]></title>
-            <link>https://v.daum.net/v/20210828070036003</link>
-            <guid>https://v.daum.net/v/20210828070036003</guid>
-            <pubDate>Fri, 27 Aug 2021 22:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 인터뷰에서 '아이돌 출신 배우'라는 수식을 하는 것도 이젠 식상한 일이 돼버렸다. 그만큼 아이돌 출신 배우와 신인 배우의 경계가 모호해졌기 때문이다. OTT 서비스와 유튜브 등의 발달로 인해 채널이 무한하게 확장된 점도 아이돌 출신 배우들에는 유리하게 작용했다. 배우를 지망하는 멤버들은 큰 작품에서 위험 부담을 안는 대신]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2FNEWS1%2F20210828070037895fnrr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
