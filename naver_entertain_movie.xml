@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-28T04:20:34.177Z</updated>
+    <updated>2021-08-28T05:14:08.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[송영애의 영화이야기] 영화와 나이의 관계 ‘영유아의 영화 관람생활’]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003614270</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003614270"/>
+        <updated>2021-08-28T05:13:09.413Z</updated>
+        <content type="html"><![CDATA[‘쇼팽 이미지 에튀드’(감독 오재형, 2008) 스틸컷. 얼마 전 코로나19 상황에서도 개막을 준비하고 있는 여름 영화제를 소개했었다. 그중 제천국제음악영화제와 서울국제대안영상예술페스티벌(이후 네마프)은 폐막했고,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["걸스데이 없으면 나도 없어"..방민아가 선택한 '최선의 삶'[★FULL인터뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002984232</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010688390"/>
         <updated>2021-08-27T22:15:00.746Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]백승훈 인턴 기자 = 넷플릭스가 떠나간 이용자들을 다시 불러들일 수 있을까. 27일 'D.P.'공개를 기점으로 올 하반기 넷플릭스에는 '오징어 게임', '지옥'이 차례로 공개 예정이다. 세 편 모두 넷]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화계에서 아이돌들이 살아남는 법 [N초점]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005568225</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005568225"/>
-        <updated>2021-08-27T22:15:00.767Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 인터뷰에서 '아이돌 출신 배우'라는 수식을 하는 것도 이젠 식상한 일이 돼버렸다. 그만큼 아이돌 출신 배우와 신인 배우의 경계가 모호해졌기 때문이다. OTT 서비스와 유튜브 등의 발달]]></content>
     </entry>
 </feed>

@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Aug 2021 04:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 05:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[송영애의 영화이야기] 영화와 나이의 관계 ‘영유아의 영화 관람생활’ (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003614270</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003614270</guid>
+            <pubDate>Sat, 28 Aug 2021 05:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[‘쇼팽 이미지 에튀드’(감독 오재형, 2008) 스틸컷. 얼마 전 코로나19 상황에서도 개막을 준비하고 있는 여름 영화제를 소개했었다. 그중 제천국제음악영화제와 서울국제대안영상예술페스티벌(이후 네마프)은 폐막했고,]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA["걸스데이 없으면 나도 없어"..방민아가 선택한 '최선의 삶'[★FULL인터뷰] (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002984232</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[[서울=뉴시스]백승훈 인턴 기자 = 넷플릭스가 떠나간 이용자들을 다시 불러들일 수 있을까. 27일 'D.P.'공개를 기점으로 올 하반기 넷플릭스에는 '오징어 게임', '지옥'이 차례로 공개 예정이다. 세 편 모두 넷]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[영화계에서 아이돌들이 살아남는 법 [N초점] (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005568225</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005568225</guid>
-            <pubDate>Fri, 27 Aug 2021 22:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 인터뷰에서 '아이돌 출신 배우'라는 수식을 하는 것도 이젠 식상한 일이 돼버렸다. 그만큼 아이돌 출신 배우와 신인 배우의 경계가 모호해졌기 때문이다. OTT 서비스와 유튜브 등의 발달]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[인질 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=127738</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=127738</guid>
@@ -279,20 +279,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4f98bccfb72790b319d30d2fa4303cd49eda578" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[더 수어사이드 스쿼드 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=122276</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=122276</guid>
-            <pubDate>Fri, 27 Aug 2021 05:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8c183d3a3ac7d926c9aac443a650211a7e5494f4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 페이트/그랜드 오더 신성원탁영역 카멜롯 팔라딘; 아가트람 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150453</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150453</guid>
             <pubDate>Thu, 26 Aug 2021 00:44:24 GMT</pubDate>
             <content:encoded><![CDATA[21.08.26]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb466e8c626f9f77e033ed7a6023d82568d327ef6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙 위도우 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=123215</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=123215</guid>
+            <pubDate>Fri, 27 Aug 2021 07:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[21.07.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff39274b0acd76f7c66f0a5fb9e5b7222ed37b373" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[킬러의 보디가드 2: 킬러의 와이프 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -311,12 +311,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44cff9be3a13f0cf1746357f7d4dd58f248f5f2c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[블랙 위도우 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=123215</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=123215</guid>
-            <pubDate>Fri, 27 Aug 2021 07:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[21.07.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff39274b0acd76f7c66f0a5fb9e5b7222ed37b373" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[더 수어사이드 스쿼드 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=122276</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=122276</guid>
+            <pubDate>Fri, 27 Aug 2021 05:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8c183d3a3ac7d926c9aac443a650211a7e5494f4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[다이노 마이 프렌드 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -526,20 +526,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fohmynews%2F20210827160305888pcea.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["라떼들 다 모여★"..박정민→윤아 '기적', 응답하라 1988 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210827093110749</link>
-            <guid>https://movie.v.daum.net/v/20210827093110749</guid>
-            <pubDate>Fri, 27 Aug 2021 08:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 영화 '기적'이 1988년 그 시절 추억 소환 포인트를 공개했다. '기적'(감독 이장훈)은 오갈 수 있는 길은 기찻길밖에 없지만 정작 기차역은 없는 마을에 간이역 하나 생기는 게 유일한 인생 목표인 준경(박정민)과 동네 사람들의 이야기를 그린 영화다. 오늘(27일) 공개된 '기적'의 추억 소환 포인트는 1988년 그 시절]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fmydaily%2F20210827093110237hwxv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['소리도 없이', 美 판타지아 국제영화제 2관왕.. 유아인 극찬 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210827155201027</link>
             <guid>https://movie.v.daum.net/v/20210827155201027</guid>
             <pubDate>Fri, 27 Aug 2021 08:17:18 GMT</pubDate>
             <content:encoded><![CDATA[[쿠키뉴스] 이준범 기자 = 영화 ‘소리도 없이’(감독 홍의정)가 제25회 판타지아 국제 영화제 슈발 누아르(Cheval Noir) 경쟁 섹션에서 최우수작품상(Best Film)과 남우주연상(Best Actor)을 수상했다. 올해로 25회를 맞은 판타지아 국제 영화제는 다양하고 신선한 작품을 선보이는 북미 최대 규모의 장르 영화제다. ‘소리도 없이’는 지]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fkukinews%2F20210827155203120lrdk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["라떼들 다 모여★"..박정민→윤아 '기적', 응답하라 1988 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210827093110749</link>
+            <guid>https://movie.v.daum.net/v/20210827093110749</guid>
+            <pubDate>Fri, 27 Aug 2021 08:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 영화 '기적'이 1988년 그 시절 추억 소환 포인트를 공개했다. '기적'(감독 이장훈)은 오갈 수 있는 길은 기찻길밖에 없지만 정작 기차역은 없는 마을에 간이역 하나 생기는 게 유일한 인생 목표인 준경(박정민)과 동네 사람들의 이야기를 그린 영화다. 오늘(27일) 공개된 '기적'의 추억 소환 포인트는 1988년 그 시절]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fmydaily%2F20210827093110237hwxv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['보이스' 변요한 놀란 리얼함..보이스피싱 본거지 콜센터 공개 (다음영화 뉴스 ─ 인기)]]></title>
@@ -582,6 +582,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F26%2Fkukminilbo%2F20210826170350760ipzp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA["걸스데이 없으면 나도 없어"..방민아가 선택한 '최선의 삶'[★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210828130001037</link>
+            <guid>https://movie.v.daum.net/v/20210828130001037</guid>
+            <pubDate>Sat, 28 Aug 2021 04:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 방민아 /사진제공=(주)엣나인필름"아이돌 걸스데이 출신 편견이요? 깰 수도 없고 가져 갈게요." 최고이고 싶었던 배우 방민아(28)가 지금은 '최선'을 선택했다. 앞으로도 '최선'을 중점적으로 활동할 것이라고 밝혔다. '최선의 삶'(감독 이우정)은 열여덟 강이(방민아 분), 아람(심달기 분), 소영(한성민 분). 더 나아지기 위해서]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fstarnews%2F20210828130003056znoc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[그 탈옥수는 전설이 됐다.. 베테랑들 다 모였던 사연 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210828105701092</link>
             <guid>https://movie.v.daum.net/v/20210828105701092</guid>
@@ -606,14 +614,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fohmynews%2F20210827142710184qici.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["걸스데이 없으면 나도 없어"..방민아가 선택한 '최선의 삶'[★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210828130001037</link>
-            <guid>https://movie.v.daum.net/v/20210828130001037</guid>
-            <pubDate>Sat, 28 Aug 2021 04:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 방민아 /사진제공=(주)엣나인필름"아이돌 걸스데이 출신 편견이요? 깰 수도 없고 가져 갈게요." 최고이고 싶었던 배우 방민아(28)가 지금은 '최선'을 선택했다. 앞으로도 '최선'을 중점적으로 활동할 것이라고 밝혔다. '최선의 삶'(감독 이우정)은 열여덟 강이(방민아 분), 아람(심달기 분), 소영(한성민 분). 더 나아지기 위해서]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fstarnews%2F20210828130003056znoc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[돌아온 윤도현 "'광화문연가', 제 인생과 닮아 더 의미있죠" [★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210828110001119</link>
             <guid>https://movie.v.daum.net/v/20210828110001119</guid>
@@ -630,12 +630,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2FNEWS1%2F20210828120007365rgcq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[추적 액션 '젠틀맨', 크랭크인..주지훈 "박성웅·최성은과 호흡 기뻐" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210827113639965</link>
+            <guid>https://movie.v.daum.net/v/20210827113639965</guid>
+            <pubDate>Sat, 28 Aug 2021 03:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '젠틀맨'이 크랭크인했다. 주지훈 박성웅 최성은이 출연하는 웨이브 오리지널 영화 '젠틀맨'이 대본 리딩을 마치고 지난 20일 전격 크랭크인했다. '젠틀맨'은 흥신소 사장 지현수(주지훈)가 살인 누명을 벗으려다 거대한 사건에 휘말리게 되는 이야기를 담은 스타일리시 추적 액션이다. '아티스트: 다시 태어나다'로 평단의 주목을 받은 신예 감독 김경원이 연출]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fhankooki%2F20210827113642575gbuu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[유해진·류준열·박명훈·안은진·김성철, '올빼미' 합류 外 [위클리 무비] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210828093005117</link>
             <guid>https://movie.v.daum.net/v/20210828093005117</guid>
             <pubDate>Sat, 28 Aug 2021 01:51:21 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 전형화 기자] 한 주간 생생한 영화 소식을 전해드립니다.유해진과 류준열, 박명훈, 안은진, 김성철 등이 영화 '올빼미'에서 호흡을 맞춘다. ○…유해진과 류준열, 박명훈, 안은진, 김성철 등이 영화 '올빼미'에서 호흡을 맞춘다. '올빼미'는 조선 인조시대를 배경으로 청나라에서 돌아온 소현세자의 죽음을 둘러싼 일을 그린 이야기. '왕의 남자' 조감독]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fstarnews%2F20210828093006355tafl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['인질' 한규원, 고군분투 스틸 공개..하반기 활약 '기대' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210827135010072</link>
+            <guid>https://movie.v.daum.net/v/20210827135010072</guid>
+            <pubDate>Sat, 28 Aug 2021 05:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김나연 기자]&nbsp;영화 '인질'이 개봉 이후 9일 연속 박스오피스 1위를 차지하며 흥행 돌풍을 일으키고 있는 가운데&nbsp;극 중 광역수사대 형사 장준혁으로 분해 긴장감을 더한 배우 한규원의 '고군분투' 스틸이 공개됐다. '인질'(감독 필감성)은 어느 날 새벽, 증거도 목격자도 없이 납치된 배우 황정민(황정민)을 그린 리얼리티 액션스릴러. 한규원은 선배 오]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fpoctan%2F20210827135011456qzak.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['인질' 100만 vs '싱크홀' 200만 vs '모가디슈' 300만 예고 [주말흥행기상도] (다음영화 뉴스 ─ 인기)]]></title>
@@ -646,20 +662,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fstarnews%2F20210828101503344zdbb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[추적 액션 '젠틀맨', 크랭크인..주지훈 "박성웅·최성은과 호흡 기뻐" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210827113639965</link>
-            <guid>https://movie.v.daum.net/v/20210827113639965</guid>
-            <pubDate>Sat, 28 Aug 2021 03:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '젠틀맨'이 크랭크인했다. 주지훈 박성웅 최성은이 출연하는 웨이브 오리지널 영화 '젠틀맨'이 대본 리딩을 마치고 지난 20일 전격 크랭크인했다. '젠틀맨'은 흥신소 사장 지현수(주지훈)가 살인 누명을 벗으려다 거대한 사건에 휘말리게 되는 이야기를 담은 스타일리시 추적 액션이다. '아티스트: 다시 태어나다'로 평단의 주목을 받은 신예 감독 김경원이 연출]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Fhankooki%2F20210827113642575gbuu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['싱크홀' 김성균 "난 행운의 사나이" [인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210827103206270</link>
-            <guid>https://movie.v.daum.net/v/20210827103206270</guid>
-            <pubDate>Sat, 28 Aug 2021 03:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 반지하에서 배우의 꿈을 키우던 청년은 10년의 시간과 노력을 자양분 삼아 이제 어엿한 주연 배우로 성장해 있었다. 자신의 성취에 조금 으쓱할 법도 한데, 스스로를 '행운의 사나이'라고 부르며 겸손이다. 배우 김성균의 이야기다. 영화 '싱크홀'(감독 김지훈·제작 더타워픽쳐스)은 11년 만에 마련한 내 집이 지하 500m 초대형 싱]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F27%2Ftvdaily%2F20210827103209044xayk.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[송영애의 영화이야기] 영화와 나이의 관계 '영유아의 영화 관람생활' (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20210828140128559</link>
+            <guid>https://v.daum.net/v/20210828140128559</guid>
+            <pubDate>Sat, 28 Aug 2021 05:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[‘쇼팽 이미지 에튀드’(감독 오재형, 2008) 스틸컷.  &nbsp; 얼마 전 코로나19 상황에서도 개막을 준비하고 있는 여름 영화제를 소개했었다. 그중 제천국제음악영화제와 서울국제대안영상예술페스티벌(이후 네마프)은 폐막했고, 서울국제여성영화제는 8월26일 개막해 진행 중이다. 뒤이어 여러 가을 겨울 영화제도 개막을 준비하고 있다.&nbsp; 작년부터 국내외 영화제에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fsegye%2F20210828140129019dlrs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["걸스데이 없으면 나도 없어"..방민아가 선택한 '최선의 삶'[★FULL인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
@@ -812,14 +820,6 @@
             <pubDate>Fri, 27 Aug 2021 22:15:32 GMT</pubDate>
             <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 인터뷰에서 '아이돌 출신 배우'라는 수식을 하는 것도 이젠 식상한 일이 돼버렸다. 그만큼 아이돌 출신 배우와 신인 배우의 경계가 모호해졌기 때문이다. OTT 서비스와 유튜브 등의 발달로 인해 채널이 무한하게 확장된 점도 아이돌 출신 배우들에는 유리하게 작용했다. 배우를 지망하는 멤버들은 큰 작품에서 위험 부담을 안는 대신]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2FNEWS1%2F20210828070037895fnrr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] '샹치와 텐 링즈의 전설' MCU 성공적 안착..차원 다른 익스트림 액션 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210828070019987</link>
-            <guid>https://v.daum.net/v/20210828070019987</guid>
-            <pubDate>Fri, 27 Aug 2021 22:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠한국 조은애 기자] 역대 이보다 강렬한 데뷔전이 또 있을까. 배우 시무 리우가 영화 '샹치 텐 링즈의 전설'(감독 데스틴 크리튼, 이하 '샹치')로 마블에 성공적으로 안착했다. MCU(마블 시네마틱 유니버스) 새로운 스타 캐릭터의 탄생이다. 영화는 초인적인 능력을 가진 '텐 링즈'의 힘으로 수세기 동안 어둠의 세상을 지배해온 웬우(양조위)의 이야기]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2FSpoHankook%2F20210828070020735doxf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<캔디맨> 캔디맨 소환영상 2탄 (우리 영화 볼래?)]]></title>
@@ -1154,7 +1154,7 @@
             <link>https://tv.naver.com/v/22104330</link>
             <guid>https://tv.naver.com/v/22104330</guid>
             <pubDate>Fri, 27 Aug 2021 09:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210827_37/TcfIm_1630053338353eTdu9_JPEG/9e88da56-0711-11ec-a509-a0369ff968b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1162,7 +1162,7 @@
             <link>https://tv.naver.com/v/22104222</link>
             <guid>https://tv.naver.com/v/22104222</guid>
             <pubDate>Fri, 27 Aug 2021 09:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210827_204/FVHFe_1630053113713rULlW_JPEG/0f2c69e3-0711-11ec-b835-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1170,7 +1170,7 @@
             <link>https://tv.naver.com/v/22102571</link>
             <guid>https://tv.naver.com/v/22102571</guid>
             <pubDate>Fri, 27 Aug 2021 08:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210827_194/z212x_1630050484540kfBSP_JPEG/10bd9f81-070b-11ec-bf57-246e963a4708_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1178,7 +1178,7 @@
             <link>https://tv.naver.com/v/22102557</link>
             <guid>https://tv.naver.com/v/22102557</guid>
             <pubDate>Fri, 27 Aug 2021 08:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210827_124/vGjkR_1630050457906hwYRI_JPEG/fa81a349-070a-11ec-9d74-a0369ff9545c_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1186,7 +1186,7 @@
             <link>https://tv.naver.com/v/22102533</link>
             <guid>https://tv.naver.com/v/22102533</guid>
             <pubDate>Fri, 27 Aug 2021 08:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210827_134/8UKSa_1630050418198TgKAD_JPEG/e10a5280-070a-11ec-a77c-a0369ff94ec8_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1194,7 +1194,7 @@
             <link>https://tv.naver.com/v/22097839</link>
             <guid>https://tv.naver.com/v/22097839</guid>
             <pubDate>Fri, 27 Aug 2021 05:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210827_28/UwCRr_1630041162040vBX9B_JPEG/ff498d99-06f4-11ec-9845-505dacfbaa5c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
