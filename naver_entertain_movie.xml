@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-28T20:16:01.922Z</updated>
+    <updated>2021-08-28T21:13:21.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MCU 페이즈4의 시작…'샹치'·'이터널스' 亞히어로 향한 기대 [N초점]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005568729</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005568729"/>
+        <updated>2021-08-28T21:12:27.240Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 마블 시네마틱 유니버스(MCU)가 페이즈4(Phase4)를 본격적으로 시작한다. 최근 개봉한 '블랙 위도우'의 솔로 무비로 페이즈4가 포문을 연 가운데 새로운 히어로들이 출격을 기다리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["영남회장이 왜 거기서 나와?"...'출발 비디오 여행' 출격]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010688941</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010688941"/>
+        <updated>2021-08-28T21:12:27.240Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]백승훈 인턴 기자 = 대세 유튜브 채널 '피식대학'의 인기코너 '한사랑 산악회'의 영남회장이 MBC '출발! 비디오 여행'에 출연한다. 오는 29일 낮 12시 10분부터 방송되는 '출발! 비디오 여행']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['방구석 1열', 방송국 배경 영화 특집…'네트워크']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010688917</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005568410"/>
         <updated>2021-08-28T03:15:23.275Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = *영화의 주요 내용을 포함한 스포일러가 있을 수 있습니다. MCU(마블 시네마틱 유니버스)가 중국 무협물의 세계에까지 손을 뻗었다. '어벤져스: 엔드 게임'으로 막을 내린 페이즈3의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['50대' 황정민, 류경수X이유미가 놀란 '인질'의 체력王 [★비하인드]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002984226</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002984226"/>
-        <updated>2021-08-28T03:15:23.275Z</updated>
-        <content type="html"><![CDATA[배우 류경수와 이유미가 영화 '인질'(감독 필감성)에서 호흡을 맞춘 황정민의 체력에 혀를 내둘렀다. 그 이유는 무엇일까. '인질'은 어느 날 새벽, 증거도 목격자도 없이 납치된 배우 황정민을 그린 리얼리티 액션스릴러]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돌아온 윤도현 "'광화문연가', 제 인생과 닮아 더 의미있죠" [★FULL인터뷰]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002984221</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002984221"/>
-        <updated>2021-08-28T03:15:23.301Z</updated>
-        <content type="html"><![CDATA[가수 윤도현이 뮤지컬 '광화문연가'는 자신의 인생과 닮았기에 더 의미가 있다고 밝혔다. 뮤지컬 '광화문연가'는 곡 '옛사랑', '소녀', '깊은 밤을 날아서', '붉은 노을', '광화문 연가', '기억이란 사랑보다']]></content>
     </entry>
 </feed>
