@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Aug 2021 14:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Aug 2021 15:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,30 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F29%2Fstarnews%2F20210829130815038zdju.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['모가디슈' 300만 관객 돌파.. 2021년 최고 흥행작]]></title>
+            <link>https://movie.v.daum.net/v/20210829164946746</link>
+            <guid>https://movie.v.daum.net/v/20210829164946746</guid>
+            <pubDate>Sun, 29 Aug 2021 13:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘모가디슈’가 올해 개봉한 영화 중 처음으로 300만 관객을 동원하며 최고 흥행작에 올랐다. 29일 배급사 롯데엔터테인먼트에 따르면 영화 ‘모가디슈’는&nbsp;개봉 33일째인 28일 300만 관객을 돌파하며, 2021년 개봉 영화 가운데 최고 성적을 거뒀다. 기존 최고 흥행 성적을 거둔 영화는 마블의 블록버스터&nbsp;‘블랙 위도우’(295만8000여명)였다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F29%2Fsegye%2F20210829164946373hvbx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[유해진·류준열·박명훈·안은진·김성철, '올빼미' 합류 外 [위클리 무비]]]></title>
+            <link>https://movie.v.daum.net/v/20210828093005117</link>
+            <guid>https://movie.v.daum.net/v/20210828093005117</guid>
+            <pubDate>Sun, 29 Aug 2021 14:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 한 주간 생생한 영화 소식을 전해드립니다.유해진과 류준열, 박명훈, 안은진, 김성철 등이 영화 '올빼미'에서 호흡을 맞춘다. ○…유해진과 류준열, 박명훈, 안은진, 김성철 등이 영화 '올빼미'에서 호흡을 맞춘다. '올빼미'는 조선 인조시대를 배경으로 청나라에서 돌아온 소현세자의 죽음을 둘러싼 일을 그린 이야기. '왕의 남자' 조감독]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fstarnews%2F20210828093006355tafl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['모가디슈', 2021년 개봉 영화 최초 300만 돌파 '기염']]></title>
+            <link>https://movie.v.daum.net/v/20210829160808975</link>
+            <guid>https://movie.v.daum.net/v/20210829160808975</guid>
+            <pubDate>Sun, 29 Aug 2021 10:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 현혜선 기자] 2021년 최고의 화제작 '모가디슈'가 300만 관객을 돌파하는 기염을 토했다. 올여름 대한민국 관객들이 열광 중인 영화 '모가디슈'가 28일 오전 개봉 33일째 300만 관객을 돌파하며, 2021년 개봉 영화 최초 300만 돌파작이 됐다. '블랙 위도우'의 최종 스코어를 경신하자마자 다시 한번 세운 흥행 신기록이다. 이로써 ']]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F29%2Fsportstoday%2F20210829160809434bsif.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[공식] '모가디슈' 28일 300만 관객 돌파..올해 최고 흥행작 됐다]]></title>
             <link>https://movie.v.daum.net/v/20210829103637086</link>
             <guid>https://movie.v.daum.net/v/20210829103637086</guid>
@@ -120,28 +144,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F29%2Fpoctan%2F20210829075314284pzkl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['모가디슈', 2021년 개봉 영화 최초 300만 돌파 '기염']]></title>
-            <link>https://movie.v.daum.net/v/20210829160808975</link>
-            <guid>https://movie.v.daum.net/v/20210829160808975</guid>
-            <pubDate>Sun, 29 Aug 2021 10:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 현혜선 기자] 2021년 최고의 화제작 '모가디슈'가 300만 관객을 돌파하는 기염을 토했다. 올여름 대한민국 관객들이 열광 중인 영화 '모가디슈'가 28일 오전 개봉 33일째 300만 관객을 돌파하며, 2021년 개봉 영화 최초 300만 돌파작이 됐다. '블랙 위도우'의 최종 스코어를 경신하자마자 다시 한번 세운 흥행 신기록이다. 이로써 ']]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F29%2Fsportstoday%2F20210829160809434bsif.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['모가디슈' 33일째 300만 돌파..김윤석·조인성 감사 인사]]></title>
             <link>https://movie.v.daum.net/v/20210829141312705</link>
             <guid>https://movie.v.daum.net/v/20210829141312705</guid>
             <pubDate>Sun, 29 Aug 2021 08:16:48 GMT</pubDate>
             <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = '모가디슈'가 개봉 33일 만에 300만 관객을 돌파했다. 29일 영화진흥위원회 통합전산망 집계에 따르면 '모가디슈'는 이날 오전 개봉 33일째 300만 관객을 돌파하며, 2021년 개봉 영화 최초 300만 돌파작이 됐다. 이는 '블랙 위도우'의 최종 스코어를 경신하자마자 다시 한번 세운 흥행 신기록으로, '모가디슈'는]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F29%2FNEWS1%2F20210829141313300wcse.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['모가디슈' 300만 관객 돌파.. 2021년 최고 흥행작]]></title>
-            <link>https://movie.v.daum.net/v/20210829164946746</link>
-            <guid>https://movie.v.daum.net/v/20210829164946746</guid>
-            <pubDate>Sun, 29 Aug 2021 13:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘모가디슈’가 올해 개봉한 영화 중 처음으로 300만 관객을 동원하며 최고 흥행작에 올랐다. 29일 배급사 롯데엔터테인먼트에 따르면 영화 ‘모가디슈’는&nbsp;개봉 33일째인 28일 300만 관객을 돌파하며, 2021년 개봉 영화 가운데 최고 성적을 거뒀다. 기존 최고 흥행 성적을 거둔 영화는 마블의 블록버스터&nbsp;‘블랙 위도우’(295만8000여명)였다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F29%2Fsegye%2F20210829164946373hvbx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['보이스' 실체를 쫓는 변요한 vs 실체를 움직이는 김무열]]></title>
@@ -152,20 +160,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fstarnews%2F20210828084357714jxqq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[리뷰] '좋은 사람', 의심스런 진실에 던지는 질문]]></title>
-            <link>https://movie.v.daum.net/v/20210829110012502</link>
-            <guid>https://movie.v.daum.net/v/20210829110012502</guid>
-            <pubDate>Sun, 29 Aug 2021 09:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] /사진=영화 '좋은 사람' 포스터영화 '좋은 사람'(감독 정욱)을 한 마디로 정의하면 '질문'이다. 러닝 타임 내내 끊임없이 자신이 생각하는 '좋은 사람'은 무엇인지, 올바름이란 무엇인지라는 질문을 던지기 때문이다. '좋은 사람'은 교실 도난 사건과 딸의 교통사고, 의심받고 있는 한 명의 학생 세익(이효제 분) 그리고 좋은 사람이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F29%2Fstarnews%2F20210829110013357myev.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[유해진·류준열·박명훈·안은진·김성철, '올빼미' 합류 外 [위클리 무비]]]></title>
-            <link>https://movie.v.daum.net/v/20210828093005117</link>
-            <guid>https://movie.v.daum.net/v/20210828093005117</guid>
-            <pubDate>Sun, 29 Aug 2021 14:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 한 주간 생생한 영화 소식을 전해드립니다.유해진과 류준열, 박명훈, 안은진, 김성철 등이 영화 '올빼미'에서 호흡을 맞춘다. ○…유해진과 류준열, 박명훈, 안은진, 김성철 등이 영화 '올빼미'에서 호흡을 맞춘다. '올빼미'는 조선 인조시대를 배경으로 청나라에서 돌아온 소현세자의 죽음을 둘러싼 일을 그린 이야기. '왕의 남자' 조감독]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fstarnews%2F20210828093006355tafl.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[마블의 첫 중국계 히어로..국수주의 기우였네]]></title>
+            <link>https://movie.v.daum.net/v/20210829170606150</link>
+            <guid>https://movie.v.daum.net/v/20210829170606150</guid>
+            <pubDate>Sun, 29 Aug 2021 15:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[마블은 마블이다. 중국의 무술 영웅이라는 진부한 소재를 마블시네마틱유니버스 세계관에 제대로 녹여냈다. 개봉을 앞둔 '샹치와 텐 링즈의 전설' 얘기다. 마블이 처음으로 아시아인을 주인공 영웅으로 다룬 작품이다. 27일 시사회를 통해 공개된 '샹치와 텐 링즈의 전설'은 반지 '텐 링즈'의 힘으로 어둠의 세계를 지배해 온 웬우(량차오웨이·양조위)와 초인적 히]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F29%2Fmk%2F20210829170608030pcrn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
