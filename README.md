@@ -18,4 +18,5 @@ https://moviecord.github.io/feeds/naverpost_cine21_review.xml
 https://moviecord.github.io/feeds/naverpost_cine21_news.xml  
 
 ## 이벤트
-https://moviecord.github.io/feeds/cgv_event.xml  
+https://moviecord.github.io/feeds/cgv_event_special.xml  
+https://moviecord.github.io/feeds/cgv_event_reservation.xml
