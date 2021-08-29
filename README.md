@@ -1,31 +1,20 @@
-# CI setup for Feed me up, Scotty!
+# 영화
 
-You can fork this repository and edit `feeds.toml` to start generating your own
-RSS feeds.
+## 네이버 영화
+https://moviecord.github.io/feeds/naver_entertain_movie.xml  
 
-# Automatically generate feeds
+## 다음 영화
+https://moviecord.github.io/feeds/daummovie_theater_y.xml  
+https://moviecord.github.io/feeds/daummovie_news_popular.xml  
+https://moviecord.github.io/feeds/daummovie_news_recent.xml  
 
-## On GitHub
+## 예고편
+https://moviecord.github.io/feeds/kakaotv_preview.xml  
+https://moviecord.github.io/feeds/navertv_moviepreview.xml  
 
-To automatically generate feeds twice a day on GitHub:
+## 씨네21
+https://moviecord.github.io/feeds/naverpost_cine21_review.xml  
+https://moviecord.github.io/feeds/naverpost_cine21_news.xml  
 
-1. Fork this repository and edit `feeds.toml`.
-2. Create a branch called `gh-pages`.
-3. Visit the _Actions_ tab for your fork, then enable workflows for your fork.
-
-GitHub Actions will then automatically run twice a day to check for updates,
-and publish your feeds at `https://<username>.github.io/feeds/`.
-
-## On GitLab
-
-To automatically generate feeds on GitLab:
-
-1. Fork this repository and edit `feeds.toml`.
-2. [Create a new pipeline schedule](./-/pipeline_schedules/new) (CI/CD ˃
-   Schedules).
-3. Set it to your desired interval (e.g. `30 5,17 * * *` to run at 5:30 and
-   17:30).
-4. Hit "Save pipeline schedule".
-
-GitLab CI/CD will then automatically run at your selected interval to check for
-updates, and publish your feeds at `https://<username>.gitlab.io/feeds/`.
+## 이벤트
+https://moviecord.github.io/feeds/cgv_event.xml  
