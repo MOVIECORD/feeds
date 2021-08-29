@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-29T19:12:40.836Z</updated>
+    <updated>2021-08-29T20:16:04.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제주 최초의 여성·청년·이주민 후보 고은영의 '청춘 선거'가 남긴 것 [인터뷰]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000626531</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000626531"/>
+        <updated>2021-08-29T20:15:03.362Z</updated>
+        <content type="html"><![CDATA[제주엔 '괸당' 문화라는 게 있다. 혈연과 지연을 중심으로 똘똘 뭉치는 섬 특유의 정서다. 그런 제주에서, '뭍에서 온 젊은 여자'가 도지사를 하겠다고 출사표를 던졌다. 2018년 6·13 지방선거에서 제주도지사 후]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘모가디슈’ 300만 돌파… ‘블랙 위도우’ 넘어 올 최고 흥행작]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001467290</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000497289"/>
         <updated>2021-08-29T03:15:22.506Z</updated>
         <content type="html"><![CDATA[[텐아시아=김지원 기자] ≪김지원의 인서트≫ 영화 속 중요 포인트를 확대하는 인서트 장면처럼 김지원 텐아시아 기자가 매주 목요일 오후 영화계 이슈를 집중 조명합니다. 입체적 시각으로 화젯거리의 앞과 뒤를 세밀하게 살]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['귀문' 엄채영, 차승원 딸이 이렇게 컸다고? [★신스틸러]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002984397</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002984397"/>
-        <updated>2021-08-29T03:15:22.506Z</updated>
-        <content type="html"><![CDATA[영화 '귀문'(감독 심덕근) 속에 등장하는 엄채영이 차승원의 딸이었다는 사실을 알고 있는가. '귀문'은 1990년 집단 살인 사건이 발생한 이후 폐쇄된 귀사리 수련원에 무당의 피가 흐르는 심령연구소 소장과 호기심 많]]></content>
     </entry>
 </feed>
