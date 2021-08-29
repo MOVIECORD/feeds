@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Aug 2021 21:46:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Aug 2021 21:53:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fstarnews%2F20210828182216029bzon.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['블랙팬서' 채드윅 보스만 사망 1주기 "보고싶어요, 우리의 왕" 추모 물결[해외이슈]]]></title>
-            <link>https://movie.v.daum.net/v/20210829123757296</link>
-            <guid>https://movie.v.daum.net/v/20210829123757296</guid>
-            <pubDate>Sun, 29 Aug 2021 04:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘블랙팬서’ 채드윅 보스만이 사망한지 1주기를 맞은 가운데 수많은 할리우드 동료들이 그를 추모하고 있다. 채드윅 보스만은 4년간 대장암 투병 끝에 지난해 8월 28일(현지시간) 세상을 떠났다. ‘블랙팬서’에서 나키아 역을 맡은 루피타 뇽은 채드윅 보스만과 웃음꽃을 피우는 사진을 게재하며 “죽은지 1년이 지난 지금도 그에 대]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F29%2Fmydaily%2F20210829123757403yegd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['모가디슈' 올해 최초 300만 돌파, 김윤석·조인성·류승완 "감사 손편지 공개"[공식]]]></title>
             <link>https://movie.v.daum.net/v/20210829124539386</link>
             <guid>https://movie.v.daum.net/v/20210829124539386</guid>
             <pubDate>Sun, 29 Aug 2021 04:19:36 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]2021년 최고의 화제작 ‘모가디슈’가 8월 28일(일) 오전 300만 관객을 돌파하는 기염을 토했다. 올여름 대한민국 관객들이 열광 중인 영화 ‘모가디슈’가 8월 28일(일) 오전, 개봉 33일째 300만 관객을 돌파하며, 2021년 개봉 영화 최초 300만 돌파작이 됐다. ‘블랙 위도우’의 최종 스코어를 경신하자마자 다시]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F29%2Fmydaily%2F20210829124540003nbzl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['블랙팬서' 채드윅 보스만 사망 1주기 "보고싶어요, 우리의 왕" 추모 물결[해외이슈]]]></title>
+            <link>https://movie.v.daum.net/v/20210829123757296</link>
+            <guid>https://movie.v.daum.net/v/20210829123757296</guid>
+            <pubDate>Sun, 29 Aug 2021 04:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘블랙팬서’ 채드윅 보스만이 사망한지 1주기를 맞은 가운데 수많은 할리우드 동료들이 그를 추모하고 있다. 채드윅 보스만은 4년간 대장암 투병 끝에 지난해 8월 28일(현지시간) 세상을 떠났다. ‘블랙팬서’에서 나키아 역을 맡은 루피타 뇽은 채드윅 보스만과 웃음꽃을 피우는 사진을 게재하며 “죽은지 1년이 지난 지금도 그에 대]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F29%2Fmydaily%2F20210829123757403yegd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['모가디슈' 김윤석→조인성, 300만 돌파 인증샷 '개성 강한 손글씨' [공식입장]]]></title>
@@ -104,14 +104,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F29%2Fsportskhan%2F20210829115746770jukd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['모가디슈', 올해 개봉 韓영화 최초 300만 돌파..감사의 손편지[공식]]]></title>
-            <link>https://movie.v.daum.net/v/20210829110402617</link>
-            <guid>https://movie.v.daum.net/v/20210829110402617</guid>
-            <pubDate>Sun, 29 Aug 2021 02:27:26 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=선미경 기자] 영화 '모가디슈'(감독 류승완)가 누적관객 300만 명을 돌파했다.&nbsp; '모가디슈'가 28일&nbsp;오전, 개봉 33일째 누적관객 300만 명을&nbsp;돌파하며, 2021년 개봉 영화 최초 300만 돌파작이 됐다. 마블의 '블랙 위도우'의 최종 스코어를 경신하자마자 다시 한번 세운 흥행 신기록이다. '모가디슈'는 2021년 최고 흥행작이자 최초 3]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F29%2Fpoctan%2F20210829110402394hwxg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['샹치와 텐 링즈의 전설', 中 무협물과 융합한 MCU..양조위 존재감 [N리뷰]]]></title>
             <link>https://movie.v.daum.net/v/20210828120006688</link>
             <guid>https://movie.v.daum.net/v/20210828120006688</guid>
@@ -126,6 +118,14 @@
             <pubDate>Sun, 29 Aug 2021 17:18:42 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 강민경 기자] 윤도현 /사진제공=CJ ENM가수 윤도현이 뮤지컬 '광화문연가'는 자신의 인생과 닮았기에 더 의미가 있다고 밝혔다. 뮤지컬 '광화문연가'는 곡 '옛사랑', '소녀', '깊은 밤을 날아서', '붉은 노을', '광화문 연가', '기억이란 사랑보다', '사랑이 지나가면', '빗속에서', '애수', '가로수 그늘 아래서면' 등 대한민국 ']]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fstarnews%2F20210828110002560zaqz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['모가디슈', 올해 개봉 韓영화 최초 300만 돌파..감사의 손편지[공식]]]></title>
+            <link>https://movie.v.daum.net/v/20210829110402617</link>
+            <guid>https://movie.v.daum.net/v/20210829110402617</guid>
+            <pubDate>Sun, 29 Aug 2021 02:27:26 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=선미경 기자] 영화 '모가디슈'(감독 류승완)가 누적관객 300만 명을 돌파했다.&nbsp; '모가디슈'가 28일&nbsp;오전, 개봉 33일째 누적관객 300만 명을&nbsp;돌파하며, 2021년 개봉 영화 최초 300만 돌파작이 됐다. 마블의 '블랙 위도우'의 최종 스코어를 경신하자마자 다시 한번 세운 흥행 신기록이다. '모가디슈'는 2021년 최고 흥행작이자 최초 3]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F29%2Fpoctan%2F20210829110402394hwxg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[유해진·류준열·박명훈·안은진·김성철, '올빼미' 합류 外 [위클리 무비]]]></title>
