@@ -84,4 +84,12 @@ linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
 
-
+[cgv_event]
+title = "CGV ─ 이벤트"
+url = "http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001"
+entrySelector = "ul.cf li"
+titleSelector = "p.txt1"
+linkSelector = "a[id='tile_3']"
+contentSelector = "p.txt2"
+imageSelector = "div.evt-thumb img"
+waitUntil = "networkidle"
