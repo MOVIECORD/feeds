@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-29T05:13:55.545Z</updated>
+    <updated>2021-08-29T06:18:18.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울국제여성영화제 4일차…순항 중]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000590564</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000590564"/>
+        <updated>2021-08-29T06:17:18.107Z</updated>
+        <content type="html"><![CDATA[4일차에 접어든 제23회 서울국제여성영화제(8월 26일~9월 1일/집행위원장 박광수)가 관객들의 열띤 참여로 순항 중이다. 서울국제여성영화제는 철저한 방역 수칙을 준수하며 안전한 영화제를 만드는데 만전을 기하고 있다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['모가디슈' 33일째 300만 돌파…김윤석·조인성 감사 인사]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005569294</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005569294"/>
+        <updated>2021-08-29T06:17:18.107Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = '모가디슈'가 개봉 33일 만에 300만 관객을 돌파했다. 29일 영화진흥위원회 통합전산망 집계에 따르면 '모가디슈'는 이날 오전 개봉 33일째 300만 관객을 돌파하며, 2021년]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘모가디슈’ 300만 돌파! 조인성·김윤석 감사 인증 사진 대공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000590556</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003546732"/>
         <updated>2021-08-29T02:26:58.372Z</updated>
         <content type="html"><![CDATA[영화 '모가디슈'가 올해 개봉 영화 최초로 300만 관객을 돌파했다. '모가디슈'(감독 류승완)가 개봉 33일째인 28일 오전, 누적 관객 수 301만 3728명을 기록하며 2021년 개봉 영화 최초 300만 돌파작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모가디슈', NO CG→이색 이력..알고 보면 더 재밌는 트리비아 셋]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002984379</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002984379"/>
-        <updated>2021-08-29T02:26:58.372Z</updated>
-        <content type="html"><![CDATA[영화 '모가디슈'(감독 류승완) 트리비아가 공개됐다. 최근 롯데엔터테인먼트는 영화만큼이나 재미있는 '모가디슈' 트리비아를 공개했다. 영화 '모가디슈'는 1991년 소말리아의 수도 모가디슈에서 내전으로 인해 고립된 사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모가디슈' 300만 관객 돌파…올해 개봉 영화 최초]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010689135</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010689135"/>
-        <updated>2021-08-29T02:26:58.377Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스] 이현주 기자 = 영화 '모가디슈'가 29일 오전 300만 관객을 돌파했다. 29일 영화진흥위원회 통합전산망에 따르면 '모가디슈'는 이날 기준 누적 관객수 301만3728명을 기록, 올해 개봉 영화 중]]></content>
     </entry>
 </feed>
