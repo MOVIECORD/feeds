@@ -103,3 +103,33 @@ linkSelector = "a[id='tile_3']"
 contentSelector = "p.txt2"
 imageSelector = "div.evt-thumb img"
 waitUntil = "networkidle"
+
+[cgv_event_membership]
+title = "CGV ─ 이벤트 ─ 멤버십/CLUB"
+url = "http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=008"
+entrySelector = "ul.cf li"
+titleSelector = "p.txt1"
+linkSelector = "a[id='tile_3']"
+contentSelector = "p.txt2"
+imageSelector = "div.evt-thumb img"
+waitUntil = "networkidle"
+
+[cgv_event_theather]
+title = "CGV ─ 이벤트 ─ CGV 극장별"
+url = "http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005"
+entrySelector = "ul.cf li"
+titleSelector = "p.txt1"
+linkSelector = "a[id='tile_3']"
+contentSelector = "p.txt2"
+imageSelector = "div.evt-thumb img"
+waitUntil = "networkidle"
+
+[cgv_event_partnership]
+title = "CGV ─ 이벤트 ─ 제휴/할인"
+url = "http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=006"
+entrySelector = "ul.cf li"
+titleSelector = "p.txt1"
+linkSelector = "a[id='tile_3']"
+contentSelector = "p.txt2"
+imageSelector = "div.evt-thumb img"
+waitUntil = "networkidle"
