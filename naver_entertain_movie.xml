@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-29T20:16:04.532Z</updated>
+    <updated>2021-08-29T21:13:42.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[TEN 리뷰] 마블X쿵후 크로스 '샹치'...첫 아시안 히어로의 아쉬운 존재감]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000497353</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000497353"/>
+        <updated>2021-08-29T21:12:44.531Z</updated>
+        <content type="html"><![CDATA[[텐아시아=노규민 기자] 분명한 건 지금껏 이런 히어로는 없었다. 그보다 더 분명한 건 마블 영화에서 이런 액션은 처음이다. '웬우'(양조위)는 신비로운 힘을 가진 10개의 링을 갖게 된 이후 1000년 넘게 생명을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제주 최초의 여성·청년·이주민 후보 고은영의 '청춘 선거'가 남긴 것 [인터뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000626531</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000274515"/>
         <updated>2021-08-29T04:19:13.753Z</updated>
         <content type="html"><![CDATA[[SBS연예뉴스 | 김지혜 기자] 영화 '모가디슈'가 2021년 개봉한 영화 중 처음으로 누적 관객 300만명을 돌파했다. 29일 영화진흥위원회 통합전산망에 따르면 '모가디슈'(감독 류승완)는 지난 28일 오전 누적]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김지원의 인서트] 강혜정 대표 "'인질' 100만 돌파, 가슴 뛴다…깨어 있는 영화인 될 것" [TEN인터뷰]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000497289</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000497289"/>
-        <updated>2021-08-29T03:15:22.506Z</updated>
-        <content type="html"><![CDATA[[텐아시아=김지원 기자] ≪김지원의 인서트≫ 영화 속 중요 포인트를 확대하는 인서트 장면처럼 김지원 텐아시아 기자가 매주 목요일 오후 영화계 이슈를 집중 조명합니다. 입체적 시각으로 화젯거리의 앞과 뒤를 세밀하게 살]]></content>
     </entry>
 </feed>
