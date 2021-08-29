@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-29T06:18:18.284Z</updated>
+    <updated>2021-08-29T07:15:10.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새로운 마블의 시작 '샹치와 텐 링즈의 전설' 예매율 1위]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003546817</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003546817"/>
+        <updated>2021-08-29T07:14:07.712Z</updated>
+        <content type="html"><![CDATA[마블의 새로운 시대를 열 영화 '샹치와 텐 링즈의 전설'이 개봉 4일 전부터 전체 예매율 1위에 오르며 높은 관심을 입증했다. 29일 영화진흥위원회 영화관 입장권 통합전산망에 따르면 오는 9월 1일 국내에서 전 세계]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울국제여성영화제 4일차…순항 중]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000590564</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002984381"/>
         <updated>2021-08-29T02:26:58.372Z</updated>
         <content type="html"><![CDATA[영화 '모가디슈'가 올해 개봉작 중 최초로 누적 관객 300만명을 돌파했다. 29일 영화진흥위원회 통합전산망에 따르면 '모가디슈'(감독 류승완)는 지난 28일 오전 누적 관객 300만 명을 넘어섰다. 지난 7월 28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모가디슈', 2021년 개봉 영화 최초 300만 돌파]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003546732</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003546732"/>
-        <updated>2021-08-29T02:26:58.372Z</updated>
-        <content type="html"><![CDATA[영화 '모가디슈'가 올해 개봉 영화 최초로 300만 관객을 돌파했다. '모가디슈'(감독 류승완)가 개봉 33일째인 28일 오전, 누적 관객 수 301만 3728명을 기록하며 2021년 개봉 영화 최초 300만 돌파작]]></content>
     </entry>
 </feed>
