@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-29T21:56:50.168Z</updated>
+    <updated>2021-08-29T22:10:01.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국영화 흥행 3편, 마블 히어로물 안 무섭다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000930471</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000930471"/>
+        <updated>2021-08-29T22:07:53.450Z</updated>
+        <content type="html"><![CDATA[극장가 ‘삼두마차 체제’가 이어지고 있다. 세 편의 한국영화가 극장 관객을 이끄는 가운데 ‘모가디슈’가 올해 최고 흥행작에 등극했고, ‘인질’도 100만 관객을 넘어섰다. 신규 개봉작이 크게 눈에 띄지 않는 상황이어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[TEN 리뷰] 마블X쿵후 크로스 '샹치'...첫 아시안 히어로의 아쉬운 존재감]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000497353</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003531364"/>
         <updated>2021-08-29T04:19:13.752Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘블랙팬서’ 채드윅 보스만이 사망한지 1주기를 맞은 가운데 수많은 할리우드 동료들이 그를 추모하고 있다. 채드윅 보스만은 4년간 대장암 투병 끝에 지난해 8월 28일(현지시간) 세상을 떠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모가디슈', 드디어 찍은 300만…주역들 감사 편지]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000274515</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000274515"/>
-        <updated>2021-08-29T04:19:13.753Z</updated>
-        <content type="html"><![CDATA[[SBS연예뉴스 | 김지혜 기자] 영화 '모가디슈'가 2021년 개봉한 영화 중 처음으로 누적 관객 300만명을 돌파했다. 29일 영화진흥위원회 통합전산망에 따르면 '모가디슈'(감독 류승완)는 지난 28일 오전 누적]]></content>
     </entry>
 </feed>
