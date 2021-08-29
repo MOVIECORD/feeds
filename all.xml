@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Aug 2021 21:36:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Aug 2021 21:44:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -622,20 +622,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fstarnews%2F20210828110002560zaqz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['모가디슈', 2021년 개봉 영화 최초 300만 돌파 '기염' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210829160808975</link>
-            <guid>https://movie.v.daum.net/v/20210829160808975</guid>
-            <pubDate>Sun, 29 Aug 2021 21:35:30 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 현혜선 기자] 2021년 최고의 화제작 '모가디슈'가 300만 관객을 돌파하는 기염을 토했다. 올여름 대한민국 관객들이 열광 중인 영화 '모가디슈'가 28일 오전 개봉 33일째 300만 관객을 돌파하며, 2021년 개봉 영화 최초 300만 돌파작이 됐다. '블랙 위도우'의 최종 스코어를 경신하자마자 다시 한번 세운 흥행 신기록이다. 이로써 ']]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F29%2Fsportstoday%2F20210829160809434bsif.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[유해진·류준열·박명훈·안은진·김성철, '올빼미' 합류 外 [위클리 무비] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210828093005117</link>
             <guid>https://movie.v.daum.net/v/20210828093005117</guid>
             <pubDate>Sun, 29 Aug 2021 18:17:26 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 전형화 기자] 한 주간 생생한 영화 소식을 전해드립니다.유해진과 류준열, 박명훈, 안은진, 김성철 등이 영화 '올빼미'에서 호흡을 맞춘다. ○…유해진과 류준열, 박명훈, 안은진, 김성철 등이 영화 '올빼미'에서 호흡을 맞춘다. '올빼미'는 조선 인조시대를 배경으로 청나라에서 돌아온 소현세자의 죽음을 둘러싼 일을 그린 이야기. '왕의 남자' 조감독]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F28%2Fstarnews%2F20210828093006355tafl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['모가디슈', 2021년 개봉 영화 최초 300만 돌파 '기염' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210829160808975</link>
+            <guid>https://movie.v.daum.net/v/20210829160808975</guid>
+            <pubDate>Sun, 29 Aug 2021 21:35:30 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 현혜선 기자] 2021년 최고의 화제작 '모가디슈'가 300만 관객을 돌파하는 기염을 토했다. 올여름 대한민국 관객들이 열광 중인 영화 '모가디슈'가 28일 오전 개봉 33일째 300만 관객을 돌파하며, 2021년 개봉 영화 최초 300만 돌파작이 됐다. '블랙 위도우'의 최종 스코어를 경신하자마자 다시 한번 세운 흥행 신기록이다. 이로써 ']]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F29%2Fsportstoday%2F20210829160809434bsif.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[공식] '모가디슈' 28일 300만 관객 돌파..올해 최고 흥행작 됐다 (다음영화 뉴스 ─ 인기)]]></title>
@@ -1554,7 +1554,7 @@
 CGV 필름마크 (CGV ─ 이벤트)]]></title>
             <link>https://MOVIECORD.github.io/feeds/all.xml</link>
             <guid>https://MOVIECORD.github.io/feeds/all.xml</guid>
-            <pubDate>Sun, 29 Aug 2021 21:36:11 GMT</pubDate>
+            <pubDate>Sun, 29 Aug 2021 21:44:26 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.25~2021.09.19]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32951/16298730482160.jpg" length="0" type="image/jpg"/>
         </item>
@@ -1563,7 +1563,7 @@ CGV 필름마크 (CGV ─ 이벤트)]]></title>
 IMAX 포스터 증정 (CGV ─ 이벤트)]]></title>
             <link>https://MOVIECORD.github.io/feeds/all.xml</link>
             <guid>https://MOVIECORD.github.io/feeds/all.xml</guid>
-            <pubDate>Sun, 29 Aug 2021 21:36:11 GMT</pubDate>
+            <pubDate>Sun, 29 Aug 2021 21:44:26 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.27~2021.09.07]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32974/16300578403250.jpg" length="0" type="image/jpg"/>
         </item>
@@ -1572,7 +1572,7 @@ IMAX 포스터 증정 (CGV ─ 이벤트)]]></title>
 4DX 리미티드 포스터 팩 (CGV ─ 이벤트)]]></title>
             <link>https://MOVIECORD.github.io/feeds/all.xml</link>
             <guid>https://MOVIECORD.github.io/feeds/all.xml</guid>
-            <pubDate>Sun, 29 Aug 2021 21:36:11 GMT</pubDate>
+            <pubDate>Sun, 29 Aug 2021 21:44:26 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.27~2021.09.19]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32971/16300513128770.jpg" length="0" type="image/jpg"/>
         </item>
@@ -1589,7 +1589,7 @@ IMAX 포스터 증정 (CGV ─ 이벤트)]]></title>
             <title><![CDATA[[귀문] 3면필름 이벤트 (CGV ─ 이벤트)]]></title>
             <link>https://MOVIECORD.github.io/feeds/all.xml</link>
             <guid>https://MOVIECORD.github.io/feeds/all.xml</guid>
-            <pubDate>Sun, 29 Aug 2021 21:36:11 GMT</pubDate>
+            <pubDate>Sun, 29 Aug 2021 21:44:26 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.19~2021.09.08]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32915/16293600140390.jpg" length="0" type="image/jpg"/>
         </item>
@@ -1598,7 +1598,7 @@ IMAX 포스터 증정 (CGV ─ 이벤트)]]></title>
 CGV 필름마크 (CGV ─ 이벤트)]]></title>
             <link>https://MOVIECORD.github.io/feeds/all.xml</link>
             <guid>https://MOVIECORD.github.io/feeds/all.xml</guid>
-            <pubDate>Sun, 29 Aug 2021 21:36:11 GMT</pubDate>
+            <pubDate>Sun, 29 Aug 2021 21:44:26 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.18~2021.09.12]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32905/16292467317320.jpg" length="0" type="image/jpg"/>
         </item>
@@ -1607,7 +1607,7 @@ CGV 필름마크 (CGV ─ 이벤트)]]></title>
 CGV필름마크 (CGV ─ 이벤트)]]></title>
             <link>https://MOVIECORD.github.io/feeds/all.xml</link>
             <guid>https://MOVIECORD.github.io/feeds/all.xml</guid>
-            <pubDate>Sun, 29 Aug 2021 21:36:11 GMT</pubDate>
+            <pubDate>Sun, 29 Aug 2021 21:44:26 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.11~2021.09.05<span> . </span><em>D-6</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32868/16286463541370.jpg" length="0" type="image/jpg"/>
         </item>
@@ -1616,7 +1616,7 @@ CGV필름마크 (CGV ─ 이벤트)]]></title>
 포토플레이 시크릿 컷 (CGV ─ 이벤트)]]></title>
             <link>https://MOVIECORD.github.io/feeds/all.xml</link>
             <guid>https://MOVIECORD.github.io/feeds/all.xml</guid>
-            <pubDate>Sun, 29 Aug 2021 21:36:11 GMT</pubDate>
+            <pubDate>Sun, 29 Aug 2021 21:44:26 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.12~2021.09.05<span> . </span><em>D-6</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32872/16287312183740.jpg" length="0" type="image/jpg"/>
         </item>
@@ -1625,7 +1625,7 @@ CGV필름마크 (CGV ─ 이벤트)]]></title>
 포토플레이 시크릿 컷 (CGV ─ 이벤트)]]></title>
             <link>https://MOVIECORD.github.io/feeds/all.xml</link>
             <guid>https://MOVIECORD.github.io/feeds/all.xml</guid>
-            <pubDate>Sun, 29 Aug 2021 21:36:11 GMT</pubDate>
+            <pubDate>Sun, 29 Aug 2021 21:44:26 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.02~2021.08.31<span> . </span><em>D-1</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32809/16278658713470.jpg" length="0" type="image/jpg"/>
         </item>
