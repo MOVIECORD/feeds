@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-30T19:16:14.544Z</updated>
+    <updated>2021-08-30T20:12:27.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[무협까지 흡수한 마블... 퓨전 정수 보여주는 '샹치']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000626774</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000626774"/>
+        <updated>2021-08-30T20:08:15.060Z</updated>
+        <content type="html"><![CDATA[쿵푸가 나온다. 차량 액션을 볼 수도 있다. 괴수가 등장하기도 한다. 영화 ‘프로젝트 A’(1983)와 ‘스피드’(1994), ‘와호장룡’(2000), ‘퍼시픽 림’ ‘일대종사’(2013) 등을 뒤섞어 놓은 듯하다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[탈영병 잡는 체포조, 그들의 눈에 비친 軍의 민낯]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001467534</id>
@@ -170,13 +177,6 @@
         <title type="html"><![CDATA[영화관 가득 메운 BTS 정국 생일 축하 광고판]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005572044</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005572044"/>
-        <updated>2021-08-30T09:14:43.107Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 권현진 기자 = 30일 오후 서울 용산구 CGV 영화관 티켓박스에 오는 9월 1일 생일을 맞는 방탄소년단(BTS) 정국의 생일 축하 광고가 나오고 있다. 팬계정 '메이드 인 1997(MADE IN 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 정국 생일 축하해]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005572042</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005572042"/>
         <updated>2021-08-30T09:14:43.107Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 권현진 기자 = 30일 오후 서울 용산구 CGV 영화관 티켓박스에 오는 9월 1일 생일을 맞는 방탄소년단(BTS) 정국의 생일 축하 광고가 나오고 있다. 팬계정 '메이드 인 1997(MADE IN 1]]></content>
     </entry>
