@@ -223,11 +223,3 @@ linkSelector = "a"
 contentSelector = "div.itm_date"
 imageSelector = "img"
 waitUntil = "networkidle"
-
-[lottecinema_event_nearcinema]
-title = "롯데시네마 ─ 이벤트 ─ 우리동네 영화관"
-url = "https://event.lottecinema.co.kr/NLCHS/Event/NearCinemaList"
-entrySelector = "ul.ev_bn_wrap li"
-titleSelector = "a.bn_tit "
-contentSelector = "span.bn_tit_date"
-waitUntil = "networkidle"
