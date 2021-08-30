@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Aug 2021 18:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Aug 2021 18:34:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F30%2Fstarnews%2F20210830112733168rnjx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['모가디슈', NO CG→이색 이력..알고 보면 더 재밌는 트리비아 셋]]></title>
-            <link>https://movie.v.daum.net/v/20210829104501244</link>
-            <guid>https://movie.v.daum.net/v/20210829104501244</guid>
-            <pubDate>Mon, 30 Aug 2021 09:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] /사진=영화 '모가디슈' 스틸영화 '모가디슈'(감독 류승완) 트리비아가 공개됐다. 최근 롯데엔터테인먼트는 영화만큼이나 재미있는 '모가디슈' 트리비아를 공개했다. 영화 '모가디슈'는 1991년 소말리아의 수도 모가디슈에서 내전으로 인해 고립된 사람들의 생사를 건 탈출을 그린 이야기다. /사진=영화 '모가디슈' 스틸'모가디슈'를 보는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F29%2Fstarnews%2F20210829104502802nszx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['모가디슈' 300만 고지 넘어섰다..올해 최고 흥행작 등극 [무비노트]]]></title>
             <link>https://movie.v.daum.net/v/20210830115807975</link>
             <guid>https://movie.v.daum.net/v/20210830115807975</guid>
@@ -78,6 +70,14 @@
             <pubDate>Mon, 30 Aug 2021 09:15:07 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 영화 '기적'이 '건축학개론', '리틀 포레스트'에 이어 특별한 기차역으로 영화의 감성을 배가시킬 예정이다. '기적'(감독 이장훈)은 오갈 수 있는 길은 기찻길밖에 없지만 정작 기차역은 없는 마을에 간이역 하나 생기는 게 유일한 인생 목표인 준경(박정민 분)과 동네 사람들의 이야기를 그린 영화다. 과거의 첫사랑을 15년 후 다]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F30%2Fxportsnews%2F20210830095415198kfkr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['모가디슈', NO CG→이색 이력..알고 보면 더 재밌는 트리비아 셋]]></title>
+            <link>https://movie.v.daum.net/v/20210829104501244</link>
+            <guid>https://movie.v.daum.net/v/20210829104501244</guid>
+            <pubDate>Mon, 30 Aug 2021 09:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 강민경 기자] /사진=영화 '모가디슈' 스틸영화 '모가디슈'(감독 류승완) 트리비아가 공개됐다. 최근 롯데엔터테인먼트는 영화만큼이나 재미있는 '모가디슈' 트리비아를 공개했다. 영화 '모가디슈'는 1991년 소말리아의 수도 모가디슈에서 내전으로 인해 고립된 사람들의 생사를 건 탈출을 그린 이야기다. /사진=영화 '모가디슈' 스틸'모가디슈'를 보는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F29%2Fstarnews%2F20210829104502802nszx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['겟 아웃' 감독 신작 '캔디맨'.. 코로나 속 기대 이상 성적]]></title>
