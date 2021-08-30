@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Aug 2021 03:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Aug 2021 05:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['박강아름 결혼하다' 비하인드 영상]]></title>
+            <link>https://tv.naver.com/v/22141452</link>
+            <guid>https://tv.naver.com/v/22141452</guid>
+            <pubDate>Mon, 30 Aug 2021 05:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[13분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210830_280/Tyh1z_1630300152084clghl_JPEG/dd6315b9-094e-11ec-9d74-a0369ff9545c_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['모가디슈' 미공개 본편 삭제 영상]]></title>
             <link>https://tv.naver.com/v/22136001</link>
             <guid>https://tv.naver.com/v/22136001</guid>
             <pubDate>Mon, 30 Aug 2021 01:56:03 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210830_28/W6KHp_1630285328197Psx8l_JPEG/ad3df5aa-092d-11ec-9d74-a0369ff9545c_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://tv.naver.com/v/22097839</link>
             <guid>https://tv.naver.com/v/22097839</guid>
             <pubDate>Fri, 27 Aug 2021 05:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210827_28/UwCRr_1630041162040vBX9B_JPEG/ff498d99-06f4-11ec-9845-505dacfbaa5c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 25 Aug 2021 07:15:33 GMT</pubDate>
             <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210825_123/x3Nyl_1629872928589m3990_JPEG/7b160f5a-056d-11ec-9d7e-a0369ff952f4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['애욕의 사정공간' 예고편]]></title>
-            <link>https://tv.naver.com/v/22055020</link>
-            <guid>https://tv.naver.com/v/22055020</guid>
-            <pubDate>Wed, 25 Aug 2021 07:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210825_108/kKTIu_1629872548183mKbwt_JPEG/b748f020-056c-11ec-82ff-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
