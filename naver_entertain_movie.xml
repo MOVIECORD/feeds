@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-30T12:25:23.160Z</updated>
+    <updated>2021-08-30T13:23:00.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여름 극장가 한국영화 선전…8월 마지막 주말 모가디슈 등 나란히 1~4위]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003095143</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003095143"/>
+        <updated>2021-08-30T13:21:00.538Z</updated>
+        <content type="html"><![CDATA[[경향신문] 여름 극장가에서 한국영화가 잇따라 선전하고 있다. &lt;모가디슈&gt; &lt;싱크홀&gt; &lt;인질&gt;이 흥행을 견인하고 있다. 8월 마지막 주말 박스오피스 1~4위는 나란히 한국영화가 차지했다. 영화진흥위원회 영화관입장권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“객실을 영화관처럼” 인터컨티넨탈, CGV와 함께 가을맞이 시네마패키지 선보여]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000758826</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005571992"/>
         <updated>2021-08-30T09:14:43.107Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 권현진 기자 = 30일 오후 서울 용산구에 위치한 영화관을 찾은 한 시민이 '모가디슈' 티켓을 끊고 있다. 영화진흥위원회 통합전산망 집계에 따르면 '모가디슈'는 이날 오전 개봉 33일째 300만 관객]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모가디슈' 올해 최고의 화제작]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005571988</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005571988"/>
-        <updated>2021-08-30T09:14:43.107Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 권현진 기자 = 30일 오후 서울 용산구에 위치한 영화관을 찾은 시민들이 '모가디슈' 광고 옆에서 티켓팅을 하고 있다. 영화진흥위원회 통합전산망 집계에 따르면 '모가디슈'는 이날 오전 개봉 33일째]]></content>
     </entry>
 </feed>
