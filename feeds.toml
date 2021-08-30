@@ -143,3 +143,13 @@ linkSelector = "a"
 contentSelector = "p.date"
 imageSelector = "p.img img"
 waitUntil = "networkidle"
+
+[megabox_event_movie]
+title = "메가박스 ─ 이벤트 ─ 영화"
+url = "https://www.megabox.co.kr/event/movie"
+entrySelector = "div.event-list ul li"
+titleSelector = "p.tit"
+linkSelector = "a[data-no]"
+contentSelector = "p.date"
+imageSelector = "p.img img"
+waitUntil = "networkidle"
