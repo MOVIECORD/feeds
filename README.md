@@ -31,3 +31,9 @@ https://moviecord.github.io/feeds/megabox_event_movie.xml
 https://moviecord.github.io/feeds/megabox_event_theater.xml  
 https://moviecord.github.io/feeds/megabox_event_promotion.xml  
 https://moviecord.github.io/feeds/megabox_event_curtaincall.xml  
+
+**LOTTE CINEMA**  
+https://moviecord.github.io/feeds/lottecinema_event_movie.xml  
+https://moviecord.github.io/feeds/lottecinema_event_curtaincall.xml  
+https://moviecord.github.io/feeds/lottecinema_event_hot.xml  
+https://moviecord.github.io/feeds/lottecinema_event_promotion.xml  
