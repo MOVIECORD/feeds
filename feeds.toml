@@ -192,3 +192,30 @@ titleSelector = "div.itm_date"
 linkSelector = "a"
 imageSelector = "img"
 waitUntil = "networkidle"
+
+[lottecinema_event_curtaincall]
+title = "롯데시네마 ─ 이벤트 ─ 시사회/무대인사"
+url = "https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=40"
+entrySelector = "ul.img_lst_wrap li"
+titleSelector = "div.itm_date"
+linkSelector = "a"
+imageSelector = "img"
+waitUntil = "networkidle"
+
+[lottecinema_event_hot]
+title = "롯데시네마 ─ 이벤트 ─ HOT"
+url = "https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=10"
+entrySelector = "ul.img_lst_wrap li"
+titleSelector = "div.itm_date"
+linkSelector = "a"
+imageSelector = "img"
+waitUntil = "networkidle"
+
+[lottecinema_event_promotion]
+title = "롯데시네마 ─ 이벤트 ─ 제휴할인"
+url = "https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=50"
+entrySelector = "ul.img_lst_wrap li"
+titleSelector = "div.itm_date"
+linkSelector = "a"
+imageSelector = "img"
+waitUntil = "networkidle"
