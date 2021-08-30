@@ -153,3 +153,33 @@ linkSelector = "a[data-no]"
 contentSelector = "p.date"
 imageSelector = "p.img img"
 waitUntil = "networkidle"
+
+[megabox_event_theater]
+title = "메가박스 ─ 이벤트 ─ 극장"
+url = "https://www.megabox.co.kr/event/theater"
+entrySelector = "div.event-list ul li"
+titleSelector = "p.tit"
+linkSelector = "a[data-no]"
+contentSelector = "p.date"
+imageSelector = "p.img img"
+waitUntil = "networkidle"
+
+[megabox_event_promotion]
+title = "메가박스 ─ 이벤트 ─ 제휴/할인"
+url = "https://www.megabox.co.kr/event/promotion"
+entrySelector = "div.event-list ul li"
+titleSelector = "p.tit"
+linkSelector = "a[data-no]"
+contentSelector = "p.date"
+imageSelector = "p.img img"
+waitUntil = "networkidle"
+
+[megabox_event_curtaincall]
+title = "메가박스 ─ 이벤트 ─ 시사회/무대인사"
+url = "https://www.megabox.co.kr/event/curtaincall"
+entrySelector = "div.event-list ul li"
+titleSelector = "p.tit"
+linkSelector = "a[data-no]"
+contentSelector = "p.date"
+imageSelector = "p.img img"
+waitUntil = "networkidle"
