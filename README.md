@@ -18,14 +18,14 @@ https://moviecord.github.io/feeds/naverpost_cine21_review.xml
 https://moviecord.github.io/feeds/naverpost_cine21_news.xml  
 
 ## 이벤트
-**CGV**
+**CGV**  
 https://moviecord.github.io/feeds/cgv_event_special.xml  
 https://moviecord.github.io/feeds/cgv_event_reservation.xml  
 https://moviecord.github.io/feeds/cgv_event_membership.xml  
 https://moviecord.github.io/feeds/cgv_event_theather.xml  
 https://moviecord.github.io/feeds/cgv_event_partnership.xml  
 
-**MEGABOX**
+**MEGABOX**  
 https://moviecord.github.io/feeds/megabox_event_pick.xml  
 https://moviecord.github.io/feeds/megabox_event_movie.xml  
 https://moviecord.github.io/feeds/megabox_event_theater.xml  
