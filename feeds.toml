@@ -183,3 +183,13 @@ linkSelector = "a[data-no]"
 contentSelector = "p.date"
 imageSelector = "p.img img"
 waitUntil = "networkidle"
+
+[lottecinema_event_movie]
+title = "롯데시네마 ─ 이벤트 ─ 영화"
+url = "https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=20"
+entrySelector = "ul.img_lst_wrap li"
+titleSelector = "ul.img_lst_wrap li a img[alt]"
+linkSelector = "a"
+contentSelector = "div.itm_date"
+imageSelector = "img"
+waitUntil = "networkidle"
