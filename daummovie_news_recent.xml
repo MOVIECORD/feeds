@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-08-30T18:34:02.797Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 30 Aug 2021 19:10:55 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[탈영병 잡는 체포조, 그들의 눈에 비친 軍의 민낯]]></title>
+            <link>https://v.daum.net/v/20210831040311140</link>
+            <guid>https://v.daum.net/v/20210831040311140</guid>
+            <pubDate>Mon, 30 Aug 2021 19:07:23 GMT</pubDate>
+            <content:encoded><![CDATA[군이 ‘군기’라는 명분으로 방관하던 고름은 곪고 곪다 2014년 윤승주 일병 폭행 사망 사건으로 터져 나왔다. 윤 일병이 한 달여간 선임병들에게 폭행과 가혹행위를 당해 숨진 사건이다. 넷플릭스가 지난 27일 공개한 드라마 ‘D.P.’는 이 시기를 배경으로 헌병대 군무 이탈 체포조(DP, Deserter Pursuit)의 탈영병 추격기를 다룬다. 작품은 DP]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Fkukminilbo%2F20210831040313256tfsf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-30T18:34:02.787Z</updated>
+    <updated>2021-08-30T19:10:55.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[탈영병 잡는 체포조, 그들의 눈에 비친 軍의 민낯]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001467534</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001467534"/>
+        <updated>2021-08-30T19:06:50.593Z</updated>
+        <content type="html"><![CDATA[군이 ‘군기’라는 명분으로 방관하던 고름은 곪고 곪다 2014년 윤승주 일병 폭행 사망 사건으로 터져 나왔다. 윤 일병이 한 달여간 선임병들에게 폭행과 가혹행위를 당해 숨진 사건이다. 넷플릭스가 지난 27일 공개한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[변요한X김무열 ‘보이스’, 메인 예고편 공개…치밀함 그 자체 “목표 금액 180억”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001603951</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005572042"/>
         <updated>2021-08-30T09:14:43.107Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 권현진 기자 = 30일 오후 서울 용산구 CGV 영화관 티켓박스에 오는 9월 1일 생일을 맞는 방탄소년단(BTS) 정국의 생일 축하 광고가 나오고 있다. 팬계정 '메이드 인 1997(MADE IN 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[초점]'모가디슈' 300만·'싱크홀' 200만명 돌파 배경엔 '50% 제작비 보전']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010691707</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010691707"/>
-        <updated>2021-08-30T09:14:43.107Z</updated>
-        <content type="html"><![CDATA[기사내용 요약 거리두기 4단계 속 韓 텐트폴 유의미한 성과 극장, 배급·제작사 상생 위해 수익 배분 크게 줄여 "새로운 수익 분배 모델 개발 위한 계기로 삼아야" [서울=뉴시스] 김지은 기자 = 류승완 감독의 200]]></content>
     </entry>
 </feed>
