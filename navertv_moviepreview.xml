@@ -4,9 +4,17 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Aug 2021 00:48:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Aug 2021 01:57:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['모가디슈' 미공개 본편 삭제 영상]]></title>
+            <link>https://tv.naver.com/v/22136001</link>
+            <guid>https://tv.naver.com/v/22136001</guid>
+            <pubDate>Mon, 30 Aug 2021 01:56:03 GMT</pubDate>
+            <content:encoded><![CDATA[53분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210830_28/W6KHp_1630285328197Psx8l_JPEG/ad3df5aa-092d-11ec-9d74-a0369ff9545c_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['캔디맨' 캔디맨 소환영상 2탄]]></title>
             <link>https://tv.naver.com/v/22105567</link>
@@ -68,7 +76,7 @@
             <link>https://tv.naver.com/v/22093705</link>
             <guid>https://tv.naver.com/v/22093705</guid>
             <pubDate>Fri, 27 Aug 2021 01:59:23 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210827_121/v2Nz7_1630028193035BmqNV_JPEG/0a3407dd-06d7-11ec-86ec-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +84,7 @@
             <link>https://tv.naver.com/v/22093473</link>
             <guid>https://tv.naver.com/v/22093473</guid>
             <pubDate>Fri, 27 Aug 2021 01:59:23 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210827_183/fJgGD_16300276061238txBn_JPEG/95ecd6fb-06d5-11ec-80a9-a0369ff95678_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 25 Aug 2021 07:15:33 GMT</pubDate>
             <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210825_108/kKTIu_1629872548183mKbwt_JPEG/b748f020-056c-11ec-82ff-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['자매 돌려먹기' 예고편]]></title>
-            <link>https://tv.naver.com/v/22054897</link>
-            <guid>https://tv.naver.com/v/22054897</guid>
-            <pubDate>Wed, 25 Aug 2021 06:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210825_65/kjmew_1629872260159FPPtG_JPEG/f7a79f8d-056b-11ec-8f8d-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
