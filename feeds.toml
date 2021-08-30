@@ -219,3 +219,13 @@ titleSelector = "div.itm_date"
 linkSelector = "a"
 imageSelector = "img"
 waitUntil = "networkidle"
+
+[extmovie_event]
+title = "익스트림무비 ─ 시사회 ─ 시사회진행"
+url = "https://extmovie.com/sisaing"
+entrySelector = "ul li.list_unit"
+titleSelector = "a.title_link"
+linkSelector = "a.list_thumb"
+imageSelector = "a.list_thumb img"
+contentSelector = "a.list_summary"
+waitUntil = "networkidle"
