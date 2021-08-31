@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Aug 2021 22:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 23:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,20 +32,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Fyonhap%2F20210831121139276ajlz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[김윤석·조인성 '모가디슈', 흥행 감사 포스터..'2021년 최초 300만' [N컷]]]></title>
-            <link>https://movie.v.daum.net/v/20210831092041181</link>
-            <guid>https://movie.v.daum.net/v/20210831092041181</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:08 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '모가디슈'(감독 류승완)가 흥행을 기념해 관객들을 향한 감사의 의미로 흥행 감사 포스터를 공개했다. 배급사 롯데엔터테인먼트는 '모가디슈'가 2021년 개봉영화 최고 흥행작에 등극한 것을 기념해 감사의 의미를 담아 흥행 감사 포스터를 31일 공개했다. 이번에 공개된 흥행 감사 포스터는 '목표는 생존, 필사의 탈출'이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2FNEWS1%2F20210831092042551ppfe.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[공식] 장영남 주연 'F20', 10월 개봉 확정..올해 가장 날카롭고 충격적인 문제작 탄생 예고]]></title>
             <link>https://movie.v.daum.net/v/20210830134215485</link>
             <guid>https://movie.v.daum.net/v/20210830134215485</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:08 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠조선 조지영 기자] 한국 사회의 차가운 단면을 밀도 있게 그려내며 신선한 충격을 전할 서스펜스 스릴러 영화 'F20'(홍은미 감독, KBS 한국방송·몬스터유니온 제작)이 10월 개봉을 확정하고, 1차 포스터를 전격 공개했다. 'F20'이 보는 것만으로도 압도적인 스릴과 궁금증을 불러일으키는 1차 포스터를 공개하고, 10월 개봉을 확정]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F30%2FSpoChosun%2F20210830134215452vzmn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[김윤석·조인성 '모가디슈', 흥행 감사 포스터..'2021년 최초 300만' [N컷]]]></title>
+            <link>https://movie.v.daum.net/v/20210831092041181</link>
+            <guid>https://movie.v.daum.net/v/20210831092041181</guid>
+            <pubDate>Tue, 31 Aug 2021 09:55:08 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '모가디슈'(감독 류승완)가 흥행을 기념해 관객들을 향한 감사의 의미로 흥행 감사 포스터를 공개했다. 배급사 롯데엔터테인먼트는 '모가디슈'가 2021년 개봉영화 최고 흥행작에 등극한 것을 기념해 감사의 의미를 담아 흥행 감사 포스터를 31일 공개했다. 이번에 공개된 흥행 감사 포스터는 '목표는 생존, 필사의 탈출'이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2FNEWS1%2F20210831092042551ppfe.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["사투리 편해"..'영화의 거리' 한선화·이완, 前연인의 두번째 부산 로맨스(종합)[Oh!쎈 현장]]]></title>
@@ -56,14 +56,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Fpoctan%2F20210831170723523ozbb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[숨 쉴 수 없는 88분, 꼭 봐야 할 공포 영화]]></title>
-            <link>https://movie.v.daum.net/v/20210831115243642</link>
-            <guid>https://movie.v.daum.net/v/20210831115243642</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:08 GMT</pubDate>
-            <content:encoded><![CDATA['안방극장'에선 처음 또는 다시 볼 만한 영화, 드라마, 애니메이션을 소개하고자 합니다. 세월의 흔적이 묻은 작품부터 아직 국내에 정식으로 소개되지 않은 작품까지 다양하게 다루려고 합니다. &lt;기자말&gt; [이학후 기자] ▲ &lt;맨 인 더 다크&gt;&nbsp;영화 포스터    ⓒ UPI  &nbsp;디트로이트를 무대로 빈집털이를 하는 록키(제인 레비 분), 알렉스(딜런]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Fohmynews%2F20210831115244680nbvu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['싱크홀' 손익 분기점 돌파, 코로나 시국 속 다크호스 역할 톡톡 [무비노트]]]></title>
             <link>https://movie.v.daum.net/v/20210831114608381</link>
             <guid>https://movie.v.daum.net/v/20210831114608381</guid>
@@ -72,28 +64,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Ftvdaily%2F20210831114609789obia.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[김지원의 인서트] '김태희 동생·이보미 남편' 말고 배우 이완, 미완 넘어 완벽을 엿보다[TEN리뷰]]]></title>
-            <link>https://movie.v.daum.net/v/20210831214702531</link>
-            <guid>https://movie.v.daum.net/v/20210831214702531</guid>
-            <pubDate>Tue, 31 Aug 2021 13:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자]≪김지원의 인서트≫영화 속 중요 포인트를 확대하는 인서트 장면처럼 김지원 텐아시아 기자가 매주 수요일 영화계 이슈를 집중 조명합니다. 입체적 시각으로 화젯거리의 앞과 뒤를 세밀하게 살펴보겠습니다.데뷔 시절엔 김태희 동생으로 화제가 됐다. 김태희가 비(정지훈)와 결혼한 뒤엔 비의 처남으로 또 다시 주목받았다. 본인이 결혼하곤 프로골퍼]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2F10asia%2F20210831214704451xsux.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['보이스' 변요한, 스턴트 없이 온몸 내던진 액션 스틸 공개]]></title>
-            <link>https://movie.v.daum.net/v/20210831091627008</link>
-            <guid>https://movie.v.daum.net/v/20210831091627008</guid>
+            <title><![CDATA[숨 쉴 수 없는 88분, 꼭 봐야 할 공포 영화]]></title>
+            <link>https://movie.v.daum.net/v/20210831115243642</link>
+            <guid>https://movie.v.daum.net/v/20210831115243642</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:08 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 김노을 기자] 거대하고 치밀한 보이스피싱을 낱낱이 파헤칠 영화 '보이스'가 리얼 액션을 완벽하게 소화한 변요한의 액션 비하인드와 스틸을 공개했다. 오는 9월 15일 개봉하는 '보이스'(감독 김선, 김곡)는 보이스피싱 조직의 덫에 걸려 모든 것을 잃게 된 ‘서준’(변요한)이 빼앗긴 돈을 되찾기 위해 중국에 있는 본거지에 잠입, 보이스피싱 설계자 ‘]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Fnewsen%2F20210831091628553apfd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['건파우더 밀크셰이크', '킬빌'·'존윅'·'킹스맨'의 삼위일체 핏빛 액션]]></title>
-            <link>https://movie.v.daum.net/v/20210831152358513</link>
-            <guid>https://movie.v.daum.net/v/20210831152358513</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:08 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 영화 '건파우더 밀크셰이크'(감독 나봇 파푸샤도)가 지금껏 단 한 번도 본 적 없는 독특한 액션 시퀀스로 참신함을 더하며 관객들의 기대를 극대화시키고 있다. “데드풀과 존 윅의 장점만 모아 끝까지 달리는 으른들의 액션 영화(황석희 번역가)”라는 평을 얻고 있는 스파클링 액션 '건파우더 밀크셰이크'가 지금껏 본 적 없는 개성 넘]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Fxportsnews%2F20210831152359632nbsr.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA['안방극장'에선 처음 또는 다시 볼 만한 영화, 드라마, 애니메이션을 소개하고자 합니다. 세월의 흔적이 묻은 작품부터 아직 국내에 정식으로 소개되지 않은 작품까지 다양하게 다루려고 합니다. &lt;기자말&gt; [이학후 기자] ▲ &lt;맨 인 더 다크&gt;&nbsp;영화 포스터    ⓒ UPI  &nbsp;디트로이트를 무대로 빈집털이를 하는 록키(제인 레비 분), 알렉스(딜런]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Fohmynews%2F20210831115244680nbvu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[황정민 찐팬vs빌런..'인질' 정재원, 대체 불가 존재감]]></title>
@@ -104,6 +80,38 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Fxportsnews%2F20210831141116892wkrf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['건파우더 밀크셰이크', '킬빌'·'존윅'·'킹스맨'의 삼위일체 핏빛 액션]]></title>
+            <link>https://movie.v.daum.net/v/20210831152358513</link>
+            <guid>https://movie.v.daum.net/v/20210831152358513</guid>
+            <pubDate>Tue, 31 Aug 2021 09:55:08 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 영화 '건파우더 밀크셰이크'(감독 나봇 파푸샤도)가 지금껏 단 한 번도 본 적 없는 독특한 액션 시퀀스로 참신함을 더하며 관객들의 기대를 극대화시키고 있다. “데드풀과 존 윅의 장점만 모아 끝까지 달리는 으른들의 액션 영화(황석희 번역가)”라는 평을 얻고 있는 스파클링 액션 '건파우더 밀크셰이크'가 지금껏 본 적 없는 개성 넘]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Fxportsnews%2F20210831152359632nbsr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['보이스' 변요한, 스턴트 없이 온몸 내던진 액션 스틸 공개]]></title>
+            <link>https://movie.v.daum.net/v/20210831091627008</link>
+            <guid>https://movie.v.daum.net/v/20210831091627008</guid>
+            <pubDate>Tue, 31 Aug 2021 09:55:08 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 김노을 기자] 거대하고 치밀한 보이스피싱을 낱낱이 파헤칠 영화 '보이스'가 리얼 액션을 완벽하게 소화한 변요한의 액션 비하인드와 스틸을 공개했다. 오는 9월 15일 개봉하는 '보이스'(감독 김선, 김곡)는 보이스피싱 조직의 덫에 걸려 모든 것을 잃게 된 ‘서준’(변요한)이 빼앗긴 돈을 되찾기 위해 중국에 있는 본거지에 잠입, 보이스피싱 설계자 ‘]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Fnewsen%2F20210831091628553apfd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['D.P.' 이연, 정해인과 찐남매 케미..현실보다 더 현실]]></title>
+            <link>https://movie.v.daum.net/v/20210901072802292</link>
+            <guid>https://movie.v.daum.net/v/20210901072802292</guid>
+            <pubDate>Tue, 31 Aug 2021 23:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 이연 /사진제공=에코글로벌그룹넷플릭스 시리즈 'D.P.' 속 정해인의 여동생을 연기한 배우 이연에 대해 관심이 집중되고 있다. 지난달 27일 넷플릭스를 통해 공개된 'D.P.'는 탈영병들을 잡는 군무 이탈 체포조(D.P.) 안준호(정해인 분)와 한호열(구교환 분)이 다양한 사연을 가진 이들을 쫓으며 미처 알지 못했던 현실을 마주하는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F01%2Fstarnews%2F20210901072804031bgso.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[김지원의 인서트] '김태희 동생·이보미 남편' 말고 배우 이완, 미완 넘어 완벽을 엿보다[TEN리뷰]]]></title>
+            <link>https://movie.v.daum.net/v/20210831214702531</link>
+            <guid>https://movie.v.daum.net/v/20210831214702531</guid>
+            <pubDate>Tue, 31 Aug 2021 13:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자]≪김지원의 인서트≫영화 속 중요 포인트를 확대하는 인서트 장면처럼 김지원 텐아시아 기자가 매주 수요일 영화계 이슈를 집중 조명합니다. 입체적 시각으로 화젯거리의 앞과 뒤를 세밀하게 살펴보겠습니다.데뷔 시절엔 김태희 동생으로 화제가 됐다. 김태희가 비(정지훈)와 결혼한 뒤엔 비의 처남으로 또 다시 주목받았다. 본인이 결혼하곤 프로골퍼]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2F10asia%2F20210831214704451xsux.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['300만 돌파' 모가디슈, 낭비없는 대작이 되다]]></title>
             <link>https://movie.v.daum.net/v/20210831134204301</link>
             <guid>https://movie.v.daum.net/v/20210831134204301</guid>
@@ -112,20 +120,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Fohmynews%2F20210831134205602wruo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[황정민 '인질' 13일 연속 1위..차승원 '싱크홀' 200만·손익분기점 돌파 [종합]]]></title>
-            <link>https://movie.v.daum.net/v/20210831083508739</link>
-            <guid>https://movie.v.daum.net/v/20210831083508739</guid>
-            <pubDate>Tue, 31 Aug 2021 02:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자]배우 황정민 주연의 영화 '인질'이 13일 연속 박스오피스 1위에 등극했다. 차승원 주연의 영화 '싱크홀'은 200만을 돌파하며 손익분기점을 달성했다.영화진흥위원회 통합전산망에 따르면 '인질'은 지난 30일 하루 동안 3만4445명의 관객을 동원해 1위에 올랐다. 이날까지 누적 117만4256명의 관객을 모았다. '인질'은 인적이 드]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2F10asia%2F20210831083510824occj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[벌써 무서운 '디스트릭트666', 10월 개봉 확정[공식]]]></title>
-            <link>https://movie.v.daum.net/v/20210830102102356</link>
-            <guid>https://movie.v.daum.net/v/20210830102102356</guid>
-            <pubDate>Tue, 31 Aug 2021 02:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[‘디스트릭트 9' 닐 블롬캠프 감독위 신작 '디스트릭트 666: 영혼의 구역'이 10월 개봉한다. 영화는 연락이 두절되었던 엄마가 코마 상태로 발견되고, 최신 치료 기술을 통해 뇌에 직접 접속하면서 벌어지는 기이한 이야기를 다룬다. '디스트릭트 9'으로 혜성같이 등장한 후 이후 선보인 '엘리시움' '채피' 모두 전미 박스오피스 1위에 이름을 올리며 작품성]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F30%2Fstartoday%2F20210830102105109iyll.png" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['007 노 타임 투 다이', 29일 韓 최초 개봉]]></title>
+            <link>https://movie.v.daum.net/v/20210901074015457</link>
+            <guid>https://movie.v.daum.net/v/20210901074015457</guid>
+            <pubDate>Tue, 31 Aug 2021 23:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[007 시리즈의 신작인 ‘007 노 타임 투 다이’(수입배급 유니버설 픽쳐스)가 29일 오후 5시 전 세계 최초 개봉된다. 홍보사 측은 1일 “‘007 노 타임 투 다이’는 가장 강력한 운명의 적의 등장으로 죽음과 맞닿은 작전을 수행하게 된 제임스 본드의 마지막 미션을 그린 액션 블록버스터다. 영국(30일), 북미(10월 8일)에 앞서 29일 국내 개봉을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F01%2Fmunhwa%2F20210901074016990jupb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['샹치' 아시아인을 바라보는 디즈니의 참으로 '불쾌한 관점'[개봉작 리뷰]]]></title>
@@ -136,36 +136,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F01%2Fnewsen%2F20210901070012228cuke.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["소름끼치고 충격적"..'캔디맨' 북미 박스 1위[공식]]]></title>
-            <link>https://movie.v.daum.net/v/20210830174211259</link>
-            <guid>https://movie.v.daum.net/v/20210830174211259</guid>
-            <pubDate>Mon, 30 Aug 2021 12:23:41 GMT</pubDate>
-            <content:encoded><![CDATA[공포 영화 '캔디맨' 북미 개봉과 함께 박스오피스 1위에 오르며 조던 필 유니버스 흥행 신화의 출발을 알렸다. 흥미로운 도시괴담 소재와 서늘하고 세련된 미스터리 공포로 주목 받고 있는 영화 '캔디맨'이 개봉과 동시에 북미 박스오피스 1위에 올랐다. 조던 필 감독 공동각본 제작 작품으로, 거울을 보고 이름을 다섯 번 부르면 나타나는 미지의 존재 ‘캔디맨’을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F30%2Fstartoday%2F20210830174214123egvy.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[SC초점] "블록버스터 사라진 秋"..추석 극장 '기적'VS'보이스', 중형급 韓영화 생존 2파전]]></title>
+            <link>https://movie.v.daum.net/v/20210831102132901</link>
+            <guid>https://movie.v.daum.net/v/20210831102132901</guid>
+            <pubDate>Tue, 31 Aug 2021 23:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 코로나19로 인한 영화계 위기가 계속된다. 올해 추석 극장도 한국판 블록버스터가 사라진 중형급 영화의 생존 2파전으로 가까스로 버틸 전망. 7말 8초(7월 말~8월 초) 여름 성수기 시즌에 이어 극장가 두 번째 대형 시장인 추석 극장은 매년 추석 연휴를 겨냥한 100억~200억을 웃도는 국내 대형 신작이 포진하는 시]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2FSpoChosun%2F20210831102133034cwxn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['007 노 타임 투 다이', 9월29일 전 세계 최초 개봉]]></title>
-            <link>https://movie.v.daum.net/v/20210831085758298</link>
-            <guid>https://movie.v.daum.net/v/20210831085758298</guid>
+            <title><![CDATA["신선한 스토리→매력만점 캐릭터"..'기적' 미리 보는 관람 포인트 공개]]></title>
+            <link>https://movie.v.daum.net/v/20210831133540119</link>
+            <guid>https://movie.v.daum.net/v/20210831133540119</guid>
+            <pubDate>Tue, 31 Aug 2021 23:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 휴먼 영화 '기적'(이장훈 감독, 블러썸픽쳐스 제작)이 스토리, 캐릭터, 볼거리까지 하나도 포기할 수 없는 관람 포인트를 공개했다. 첫 번째 관람 포인트는 대한민국 최초의 민자역 양원역을 모티브로 따뜻한 상상력이 더해진 스토리이다. '기적'은 경상북도 봉화군 소천면분천리 주민들이 직접 만들어낸 대한민국에서 제일 작은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2FSpoChosun%2F20210831133540966asob.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[라제기의 '배우'다] 순정하고도 나쁜 남자.. 실제로는 수줍음 많던 양조위]]></title>
+            <link>https://movie.v.daum.net/v/20210901073002318</link>
+            <guid>https://movie.v.daum.net/v/20210901073002318</guid>
+            <pubDate>Tue, 31 Aug 2021 23:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[편집자주※ 여러분들이 잘 아는 배우의 덜 알려진 면모와 연기 세계를 주관적인 시선으로 전합니다. “양조위(량차오웨이)가 출연하지 않았다면 설득력 있는 이야기였을까.” ‘샹치와 텐 링즈의 전설’(1일 개봉)을 보며 든 생각이다. 양조위가 연기한 웬우는 정체를 알 수 없는 물건 ‘텐 링즈’에 기대 1,000년을 자기 마음대로 살아온 인물이다. 탐욕에 젖었던 악]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F01%2Fhankooki%2F20210901073005836mzip.gif" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[황정민 '인질' 13일 연속 1위..차승원 '싱크홀' 200만·손익분기점 돌파 [종합]]]></title>
+            <link>https://movie.v.daum.net/v/20210831083508739</link>
+            <guid>https://movie.v.daum.net/v/20210831083508739</guid>
             <pubDate>Tue, 31 Aug 2021 02:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[[이데일리 스타in 박미애 기자] 액션 블록버스터 영화 ‘007 노 타임 투 다이’가 마침내 개봉일을 확정했다. 유니버설픽쳐스는 31일 “‘007 노 타임 투 다이’(감독 캐리 후쿠나가)가 9월 29일(수) 오후 5시 전 세계 최초 개봉한다”고 밝혔다. 이는 9월 30일(목) 개봉하는 영국과 10월 8일(금) 개봉하는 북미보다 한 발 앞선 일정이다. ‘0]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2FEdaily%2F20210831085802677jmhv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['기적', 진심으로 빚은 웰메이드 휴먼 드라마 [마데핫리뷰]]]></title>
-            <link>https://movie.v.daum.net/v/20210901063035550</link>
-            <guid>https://movie.v.daum.net/v/20210901063035550</guid>
-            <pubDate>Tue, 31 Aug 2021 22:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 1988년 대한민국 최초 민자역사 양원역을 모티브로 상상력을 가미해 새롭게 창조한 영화 '기적'(감독 이장훈)이 드디어 관객을 마주할 채비를 마쳤다. 산뜻한 웃음과 가슴 찡한 감동에 위로를 더했다. 올 추석 온가족이 즐길 힐링 영화를 찾는다면 더없이 좋은 선택이 될 그야말로 '종합선물세트'다. 2시간. 준경(박정민)이 집에서]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F01%2Fmydaily%2F20210901063035129vzlc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[김윤석 조인성 '모가디슈' 300만 돌파 감사 포스터 공개 "2021년 최고 흥행작"]]></title>
-            <link>https://movie.v.daum.net/v/20210831093307649</link>
-            <guid>https://movie.v.daum.net/v/20210831093307649</guid>
-            <pubDate>Tue, 31 Aug 2021 02:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 김노을 기자] 올해 개봉 영화 최초 300만 관객을 돌파한 액션 영화 '모가디슈'가 흥행을 기념해 관객들을 향한 감사를 담은 포스터를 공개했다. '모가디슈'(류승완 감독)가 이번에 공개한 흥행 감사 포스터는 '목표는 생존, 필사의 탈출'이라는 문구와 함께한국 및 북한 대사관 사람들이 모두 한데 모여 탈출을 위해 라디오에 귀기울이고 있는 모습을 담]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Fnewsen%2F20210831093307815harr.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자]배우 황정민 주연의 영화 '인질'이 13일 연속 박스오피스 1위에 등극했다. 차승원 주연의 영화 '싱크홀'은 200만을 돌파하며 손익분기점을 달성했다.영화진흥위원회 통합전산망에 따르면 '인질'은 지난 30일 하루 동안 3만4445명의 관객을 동원해 1위에 올랐다. 이날까지 누적 117만4256명의 관객을 모았다. '인질'은 인적이 드]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2F10asia%2F20210831083510824occj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
