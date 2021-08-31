@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-31T13:23:42.271Z</updated>
+    <updated>2021-08-31T14:15:25.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['기적' 박정민x이성민x이수경 이끈 가족애…첫사랑을 닮은 윤아 [Oh!쎈 리뷰]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004466575</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004466575"/>
+        <updated>2021-08-31T14:14:01.124Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 전국수학경시대회에서 1등을 차지한 초등학생 준경(박정민 분)은 누나 보경(이수경 분)의 자랑거리다. 일찍이 세상을 떠난 어머니를 대신해 그 빈자리를 채워주는 보경을 준경은 믿고 의지한다. 하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김지원의 인서트] '김태희 동생·이보미 남편' 말고 배우 이완, 미완 넘어 완벽을 엿보다[TEN리뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000497780</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000930716</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000930716"/>
         <updated>2021-08-31T09:54:43.579Z</updated>
-        <content type="html"><![CDATA[배우 이완과 한선화가 31일 서울 광진구 자양동 롯데시네마 건대입구점에서 열린 영화 ‘영화의 거리’ 언론시사회 무대인사에서 포즈를 취하고 있다. 주현희 기자 teth1147@donga.com]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 이완-한선화 ‘‘영화의 거리’ 많이 봐주세요’]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000930715</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000930715"/>
-        <updated>2021-08-31T09:54:43.580Z</updated>
         <content type="html"><![CDATA[배우 이완과 한선화가 31일 서울 광진구 자양동 롯데시네마 건대입구점에서 열린 영화 ‘영화의 거리’ 언론시사회 무대인사에서 포즈를 취하고 있다. 주현희 기자 teth1147@donga.com]]></content>
     </entry>
 </feed>
