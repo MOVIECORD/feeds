@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-31T18:18:41.759Z</updated>
+    <updated>2021-08-31T19:13:23.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[007 ‘노 타임 투 다이’ SF ‘듄’… 할리우드 초대작 몰려온다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001467844</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001467844"/>
+        <updated>2021-08-31T19:11:56.640Z</updated>
+        <content type="html"><![CDATA[코로나19로 개봉을 미뤄온 할리우드 기대작들이 극장가에 몰려온다. 배급사 유니버설픽쳐스는 ‘007 노 타임 투 다이’( 포스터 )를 오는 29일 전 세계 최초로 한국에서 개봉한다고 31일 밝혔다. 영국은 30일, 북]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['샹치', 마블 히어로의 화려한 신고식 (feat.양조위) [TF씨네리뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000103574</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000930719"/>
         <updated>2021-08-31T09:54:43.574Z</updated>
         <content type="html"><![CDATA[배우 이완, 한선화, 김민근 감독이 31일 서울 광진구 자양동 롯데시네마 건대입구점에서 열린 영화 ‘영화의 거리’ 언론시사회 무대인사에서 포즈를 취하고 있다. 주현희 기자 teth1147@donga.com]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[POP초점]"사투리 편하게 연기"..'영화의 거리' 이완X한선화, 헤어진 연인의 밀당 로맨스(종합)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003472079</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003472079"/>
-        <updated>2021-08-31T09:54:43.575Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=천윤혜기자]이완과 한선화가 사투리로 달달한 로맨스를 그린다. 31일 오후 서울 광진구 자양동 롯데시네마 건대입구에서 영화 '영화의 거리' 언론배급 시사회가 열려 이완, 한선화와 김민근 감독이 출연했다.]]></content>
     </entry>
 </feed>
