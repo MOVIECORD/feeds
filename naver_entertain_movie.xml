@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-31T11:13:43.257Z</updated>
+    <updated>2021-08-31T12:25:00.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['영화의 거리' 이완·한선화, 사투리 연기 호평 받은 비결]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000626987</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000626987"/>
+        <updated>2021-08-31T12:23:33.356Z</updated>
+        <content type="html"><![CDATA[배우 이완과 한선화가 '영화의 거리'를 통해 관객들을 만난다. 각각 부산과 울산이 고향인 만큼 사투리 연기를 자연스레 펼쳐 캐릭터의 맛을 살렸다는 평을 얻고 있다. 31일 오후 서울 광진구 롯데시네마 건대입구에서 열]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동료들이 말하는 인간 기주봉, 예술가 기주봉]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000045244</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000274604"/>
         <updated>2021-08-31T09:54:43.584Z</updated>
         <content type="html"><![CDATA[[SBS연예뉴스 | 김지혜 기자] "대한민국 국민인 남성은 헌법과 이 법에서 정하는 바에 따라 병역의무를 성실히 수행하여야 한다." 넷플릭스 오리지널 드라마 'D.P'(연출 한준희)는 매회 대한민국 병역법 제3조를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 영화 ‘영화의 거리’ 이완, 여러분 반가워요]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000930713</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000930713"/>
-        <updated>2021-08-31T09:54:43.588Z</updated>
-        <content type="html"><![CDATA[배우 이완이 31일 서울 광진구 자양동 롯데시네마 건대입구점에서 열린 영화 ‘영화의 거리’ 언론시사회 무대인사에서 포즈를 취하고 있다. 주현희 기자 teth1147@donga.com]]></content>
     </entry>
 </feed>

@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Aug 2021 11:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 12:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['영화의 거리' 이완·한선화, 사투리 연기 호평 받은 비결 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000626987</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000626987</guid>
+            <pubDate>Tue, 31 Aug 2021 12:23:33 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이완과 한선화가 '영화의 거리'를 통해 관객들을 만난다. 각각 부산과 울산이 고향인 만큼 사투리 연기를 자연스레 펼쳐 캐릭터의 맛을 살렸다는 평을 얻고 있다. 31일 오후 서울 광진구 롯데시네마 건대입구에서 열]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[동료들이 말하는 인간 기주봉, 예술가 기주봉 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000045244</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[[SBS연예뉴스 | 김지혜 기자] "대한민국 국민인 남성은 헌법과 이 법에서 정하는 바에 따라 병역의무를 성실히 수행하여야 한다." 넷플릭스 오리지널 드라마 'D.P'(연출 한준희)는 매회 대한민국 병역법 제3조를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 영화 ‘영화의 거리’ 이완, 여러분 반가워요 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000930713</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000930713</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:43 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이완이 31일 서울 광진구 자양동 롯데시네마 건대입구점에서 열린 영화 ‘영화의 거리’ 언론시사회 무대인사에서 포즈를 취하고 있다. 주현희 기자 teth1147@donga.com]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[인질 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=127738</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=127738</guid>
@@ -207,20 +207,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F232a8d6e902c63036bbe2ae327d57e82585a639f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[여름날 우리 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151333</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151333</guid>
-            <pubDate>Wed, 25 Aug 2021 00:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e883bbf9717d6e78b84c03dceadc2f748bbaf5b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[싱크홀 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=134290</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=134290</guid>
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.08.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F446090579974d44551356ce961743e57eaa41bd6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[여름날 우리 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151333</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151333</guid>
+            <pubDate>Wed, 25 Aug 2021 00:46:51 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e883bbf9717d6e78b84c03dceadc2f748bbaf5b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[귀문 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -255,6 +255,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8a606dffef05b88ca750c32a8f8afc307d0ba29d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[프리 가이 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=131277</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=131277</guid>
+            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb83ce3cb29a492a800a4c18c0c168987ecc21e43" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[킬러의 보디가드 2: 킬러의 와이프 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=130061</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=130061</guid>
@@ -269,14 +277,6 @@
             <pubDate>Sat, 28 Aug 2021 03:15:31 GMT</pubDate>
             <content:encoded><![CDATA[21.06.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44cff9be3a13f0cf1746357f7d4dd58f248f5f2c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[프리 가이 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=131277</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=131277</guid>
-            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb83ce3cb29a492a800a4c18c0c168987ecc21e43" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[퍼피 구조대 더 무비 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -519,14 +519,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2FSpoChosun%2F20210831091228523rxjn.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA[황정민 '인질' 13일 연속 1위..차승원 '싱크홀' 200만·손익분기점 돌파 [종합] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210831083508739</link>
-            <guid>https://movie.v.daum.net/v/20210831083508739</guid>
-            <pubDate>Tue, 31 Aug 2021 02:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자]배우 황정민 주연의 영화 '인질'이 13일 연속 박스오피스 1위에 등극했다. 차승원 주연의 영화 '싱크홀'은 200만을 돌파하며 손익분기점을 달성했다.영화진흥위원회 통합전산망에 따르면 '인질'은 지난 30일 하루 동안 3만4445명의 관객을 동원해 1위에 올랐다. 이날까지 누적 117만4256명의 관객을 모았다. '인질'은 인적이 드]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2F10asia%2F20210831083510824occj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['007 노 타임 투 다이', 9월 29일 오후 5시 전 세계 최초 개봉[공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210831134759519</link>
             <guid>https://movie.v.daum.net/v/20210831134759519</guid>
@@ -535,12 +527,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Fmydaily%2F20210831134759504jazs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[황정민 '인질' 13일 연속 1위..차승원 '싱크홀' 200만·손익분기점 돌파 [종합] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210831083508739</link>
+            <guid>https://movie.v.daum.net/v/20210831083508739</guid>
+            <pubDate>Tue, 31 Aug 2021 02:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자]배우 황정민 주연의 영화 '인질'이 13일 연속 박스오피스 1위에 등극했다. 차승원 주연의 영화 '싱크홀'은 200만을 돌파하며 손익분기점을 달성했다.영화진흥위원회 통합전산망에 따르면 '인질'은 지난 30일 하루 동안 3만4445명의 관객을 동원해 1위에 올랐다. 이날까지 누적 117만4256명의 관객을 모았다. '인질'은 인적이 드]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2F10asia%2F20210831083510824occj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[벌써 무서운 '디스트릭트666', 10월 개봉 확정[공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210830102102356</link>
             <guid>https://movie.v.daum.net/v/20210830102102356</guid>
             <pubDate>Tue, 31 Aug 2021 02:25:22 GMT</pubDate>
             <content:encoded><![CDATA[‘디스트릭트 9' 닐 블롬캠프 감독위 신작 '디스트릭트 666: 영혼의 구역'이 10월 개봉한다. 영화는 연락이 두절되었던 엄마가 코마 상태로 발견되고, 최신 치료 기술을 통해 뇌에 직접 접속하면서 벌어지는 기이한 이야기를 다룬다. '디스트릭트 9'으로 혜성같이 등장한 후 이후 선보인 '엘리시움' '채피' 모두 전미 박스오피스 1위에 이름을 올리며 작품성]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F30%2Fstartoday%2F20210830102105109iyll.png" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[김윤석·조인성 '모가디슈', 흥행 감사 포스터..'2021년 최초 300만' [N컷] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210831092041181</link>
+            <guid>https://movie.v.daum.net/v/20210831092041181</guid>
+            <pubDate>Tue, 31 Aug 2021 09:55:08 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '모가디슈'(감독 류승완)가 흥행을 기념해 관객들을 향한 감사의 의미로 흥행 감사 포스터를 공개했다. 배급사 롯데엔터테인먼트는 '모가디슈'가 2021년 개봉영화 최고 흥행작에 등극한 것을 기념해 감사의 의미를 담아 흥행 감사 포스터를 31일 공개했다. 이번에 공개된 흥행 감사 포스터는 '목표는 생존, 필사의 탈출'이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2FNEWS1%2F20210831092042551ppfe.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['007 노 타임 투 다이', 9월29일 전 세계 최초 개봉 (다음영화 뉴스 ─ 인기)]]></title>
@@ -559,22 +567,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F30%2Fstartoday%2F20210830174214123egvy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[김윤석·조인성 '모가디슈', 흥행 감사 포스터..'2021년 최초 300만' [N컷] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210831092041181</link>
-            <guid>https://movie.v.daum.net/v/20210831092041181</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:08 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '모가디슈'(감독 류승완)가 흥행을 기념해 관객들을 향한 감사의 의미로 흥행 감사 포스터를 공개했다. 배급사 롯데엔터테인먼트는 '모가디슈'가 2021년 개봉영화 최고 흥행작에 등극한 것을 기념해 감사의 의미를 담아 흥행 감사 포스터를 31일 공개했다. 이번에 공개된 흥행 감사 포스터는 '목표는 생존, 필사의 탈출'이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2FNEWS1%2F20210831092042551ppfe.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[김윤석 조인성 '모가디슈' 300만 돌파 감사 포스터 공개 "2021년 최고 흥행작" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210831093307649</link>
-            <guid>https://movie.v.daum.net/v/20210831093307649</guid>
-            <pubDate>Tue, 31 Aug 2021 02:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 김노을 기자] 올해 개봉 영화 최초 300만 관객을 돌파한 액션 영화 '모가디슈'가 흥행을 기념해 관객들을 향한 감사를 담은 포스터를 공개했다. '모가디슈'(류승완 감독)가 이번에 공개한 흥행 감사 포스터는 '목표는 생존, 필사의 탈출'이라는 문구와 함께한국 및 북한 대사관 사람들이 모두 한데 모여 탈출을 위해 라디오에 귀기울이고 있는 모습을 담]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Fnewsen%2F20210831093307815harr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[숨 쉴 수 없는 88분, 꼭 봐야 할 공포 영화 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210831115243642</link>
             <guid>https://movie.v.daum.net/v/20210831115243642</guid>
@@ -591,14 +583,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Fpoctan%2F20210831170723523ozbb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['듄' IMAX 1.43:1 풀화면 1시간 이상 등장..역대급 시각적 경험 예고 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210831083024643</link>
-            <guid>https://movie.v.daum.net/v/20210831083024643</guid>
-            <pubDate>Tue, 31 Aug 2021 02:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이승미 기자]전세계가 기다린 최고의 화제작 '듄'이 IMAX에 최적화된 작품으로서의 면모를 과시할 예정이다. 세계 최고 품질의 카메라로 완성된 비교할 수 없을 만큼 선명한 색상과 화질이 돋보이는 거대한 화면은 물론 IMAX사에서 직접 사운드 작업을 한 소리까지, 완벽하게 즐길 수 있다. '듄'은 IMAX 인증 디지털 Arri LF]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2FSpoChosun%2F20210831083340921bcyi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[공식] 장영남 주연 'F20', 10월 개봉 확정..올해 가장 날카롭고 충격적인 문제작 탄생 예고 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210830134215485</link>
             <guid>https://movie.v.daum.net/v/20210830134215485</guid>
@@ -607,12 +591,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F30%2FSpoChosun%2F20210830134215452vzmn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[김규나의 시네마 에세이 <53> 터미네이터] 1984년에 돌아온 종결자, 터미네이터 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210830184016673</link>
-            <guid>https://movie.v.daum.net/v/20210830184016673</guid>
+            <title><![CDATA[김윤석 조인성 '모가디슈' 300만 돌파 감사 포스터 공개 "2021년 최고 흥행작" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210831093307649</link>
+            <guid>https://movie.v.daum.net/v/20210831093307649</guid>
             <pubDate>Tue, 31 Aug 2021 02:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[종결자라는 뜻의 ‘터미네이터’는 1984년 겨울에 개봉했다. 영화 속 시간도 1984년이다. 1984년은 문학적으로 상징성이 큰 해다. 조지 오웰이 소설 ‘1984’에서 빅 브러더가 지배하는 전체주의 세상을 예고했기 때문이다. 깊은 밤, 벌거벗은 두 남자가 하늘에서 떨어진 듯 화면에 등장한다. 타임머신에서 막 빠져나온 그들은 2029년의 미래에서]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F30%2Feconomychosun%2F20210830184017419mkvn.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[뉴스엔 김노을 기자] 올해 개봉 영화 최초 300만 관객을 돌파한 액션 영화 '모가디슈'가 흥행을 기념해 관객들을 향한 감사를 담은 포스터를 공개했다. '모가디슈'(류승완 감독)가 이번에 공개한 흥행 감사 포스터는 '목표는 생존, 필사의 탈출'이라는 문구와 함께한국 및 북한 대사관 사람들이 모두 한데 모여 탈출을 위해 라디오에 귀기울이고 있는 모습을 담]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Fnewsen%2F20210831093307815harr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['보이스' 변요한, 스턴트 없이 온몸 내던진 액션 스틸 공개 (다음영화 뉴스 ─ 인기)]]></title>
@@ -631,12 +615,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Ftvdaily%2F20210831114609789obia.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['인질' 류경수, 황정민과 기싸움에도 밀리지 않은 빌런 활약 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210830104748718</link>
-            <guid>https://movie.v.daum.net/v/20210830104748718</guid>
+            <title><![CDATA['듄' IMAX 1.43:1 풀화면 1시간 이상 등장..역대급 시각적 경험 예고 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210831083024643</link>
+            <guid>https://movie.v.daum.net/v/20210831083024643</guid>
             <pubDate>Tue, 31 Aug 2021 02:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 영화 '인질'이 류경수 캐릭터 스틸을 최초로 공개했다. '인질'(감독 필감성)은 어느 날 새벽, 증거도 목격자도 없이 납치된 배우 황정민을 그린 리얼리티 액션스릴러다. 바로 지난해, 안방극장을 휩쓸었던 드라마 '이태원 클라쓰'에 출연하여 대중들에게 얼굴을 알린 류경수. 이후 카카오TV '도시남녀의 사랑법'에서는 전작과 정반]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F30%2Fmydaily%2F20210830104748200bxve.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자]전세계가 기다린 최고의 화제작 '듄'이 IMAX에 최적화된 작품으로서의 면모를 과시할 예정이다. 세계 최고 품질의 카메라로 완성된 비교할 수 없을 만큼 선명한 색상과 화질이 돋보이는 거대한 화면은 물론 IMAX사에서 직접 사운드 작업을 한 소리까지, 완벽하게 즐길 수 있다. '듄'은 IMAX 인증 디지털 Arri LF]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2FSpoChosun%2F20210831083340921bcyi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[김규나의 시네마 에세이 <53> 터미네이터] 1984년에 돌아온 종결자, 터미네이터 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210830184016673</link>
+            <guid>https://movie.v.daum.net/v/20210830184016673</guid>
+            <pubDate>Tue, 31 Aug 2021 02:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[종결자라는 뜻의 ‘터미네이터’는 1984년 겨울에 개봉했다. 영화 속 시간도 1984년이다. 1984년은 문학적으로 상징성이 큰 해다. 조지 오웰이 소설 ‘1984’에서 빅 브러더가 지배하는 전체주의 세상을 예고했기 때문이다. 깊은 밤, 벌거벗은 두 남자가 하늘에서 떨어진 듯 화면에 등장한다. 타임머신에서 막 빠져나온 그들은 2029년의 미래에서]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F30%2Feconomychosun%2F20210830184017419mkvn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[황정민 찐팬vs빌런..'인질' 정재원, 대체 불가 존재감 (다음영화 뉴스 ─ 인기)]]></title>
@@ -655,12 +647,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Fxportsnews%2F20210831152359632nbsr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[조진웅·김희애·류혜영, 웨이브 오리지널 '데드맨' 캐스팅 확정[공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210831085408206</link>
-            <guid>https://movie.v.daum.net/v/20210831085408206</guid>
+            <title><![CDATA['인질' 류경수, 황정민과 기싸움에도 밀리지 않은 빌런 활약 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210830104748718</link>
+            <guid>https://movie.v.daum.net/v/20210830104748718</guid>
             <pubDate>Tue, 31 Aug 2021 02:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 김선우기자]웨이브(wavve)가 투자한 두 번째 영화가 베일을 벗었다. 웨이브는 내년 상반기 기대작 ‘젠틀맨’에 이어 하반기에는 ‘데드맨’을 오리지널 영화로 선보일 예정이다. ‘데드맨’은 연기파 배우로 명성을 쌓아 온 조진웅, 김희애, 류혜영이 주연으로 확정되면서 기대를 모으고 있다. ‘데드맨’은 어두운 세계의 덫에 걸려]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2FSPORTSSEOUL%2F20210831085410897edqo.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 영화 '인질'이 류경수 캐릭터 스틸을 최초로 공개했다. '인질'(감독 필감성)은 어느 날 새벽, 증거도 목격자도 없이 납치된 배우 황정민을 그린 리얼리티 액션스릴러다. 바로 지난해, 안방극장을 휩쓸었던 드라마 '이태원 클라쓰'에 출연하여 대중들에게 얼굴을 알린 류경수. 이후 카카오TV '도시남녀의 사랑법'에서는 전작과 정반]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F30%2Fmydaily%2F20210830104748200bxve.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['300만 돌파' 모가디슈, 낭비없는 대작이 되다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210831134204301</link>
+            <guid>https://movie.v.daum.net/v/20210831134204301</guid>
+            <pubDate>Tue, 31 Aug 2021 12:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이현파 기자] ▲ &nbsp;&lt; 모가디슈 &gt; 중    ⓒ 롯데엔터테인먼트  &nbsp;한국 영화 애호가들의 '주적'이 있다면 무엇일까? 첫 번째로는 '국뽕(국수주의)'을 뽑겠다. 더 이상 관객들은 영화를 통해 애국심을 충전하고 싶어 하지 않는다. 도쿄 올림픽에서도 시청자들이 열광했던 것은 '국위선양'이 아니라 서사였다. 오히려 자신의 한계를 시험하고, 최선을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Fohmynews%2F20210831134205602wruo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['영화의 거리' 이완·한선화, 사투리 연기 호평 받은 비결 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20210831211934237</link>
+            <guid>https://v.daum.net/v/20210831211934237</guid>
+            <pubDate>Tue, 31 Aug 2021 12:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이완과 한선화가  '영화의 거리'를 통해 관객들을 만난다. 각각 부산과 울산이 고향인 만큼 사투리 연기를 자연스레 펼쳐 캐릭터의 맛을 살렸다는 평을 얻고 있다. 31일 오후 서울 광진구  롯데시네마 건대입구에서 열린 영화 '영화의 거리' 언론시사회에는 김민근 감독과 이완 한선화가 참석했다. 이날 기자간담회는 진행되지 않았고 간단한 무대인사로 대체됐다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Fhankooki%2F20210831211937201lvij.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[현장IS] 박정민이 웃기고 이성민이 울리고..착한 영화의 '기적' (다음영화 뉴스 ─ 최신)]]></title>
@@ -813,14 +821,6 @@
             <pubDate>Tue, 31 Aug 2021 09:55:15 GMT</pubDate>
             <content:encoded><![CDATA[영화 '영화의 거리'의 배우 이완이 6년 만의 영화에서 첫 사투리 연기를 보여준 소감을 전했다. 이완은 31일 오후 서울 광진구 롯데시네마 건대입구에서 진행된 '영화의 거리' 언론배급시사회에서 "사투리 연기는 처음이다. 저도 고향이 울산이다. 사투리로 연기하는 새로운 모습을 보여드리고 싶었다"고 말했다. 이어 "고등학교 때까지 울산에 살았다"며 "]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Filgansports%2F20210831155106136erru.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[이완 "고향이 울산, 사투리 연기는 처음"('영화의 거리') [Oh!쎈 현장] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210831153648109</link>
-            <guid>https://v.daum.net/v/20210831153648109</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:15 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;배우 이완(본명 김형수)이 “고향이 울산이라 사투리로 연기하는 모습을 보여드리고 싶었다”라고 말했다. 이완은 31일 오후 서울 자양동 건대입구 롯데시네마에서 열린 영화 ‘영화의 거리’ 언론배급시사회에서 “사투리 연기는 처음이다”라며 이같이 밝혔다. ‘영화의 거리’(감독 김민근, 제작 제작사 눈, 배급 씨네소파)는 영화 로케이션 매니]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Fpoctan%2F20210831153648431xktc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<뱅드림! 로젤리아 에피소드Ⅱ: 송 아이 엠> 스페셜 예고편 (우리 영화 볼래?)]]></title>
@@ -1147,7 +1147,7 @@
             <link>https://tv.naver.com/v/22170220</link>
             <guid>https://tv.naver.com/v/22170220</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:33 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_76/gI2ye_1630397087718V4Nf6_JPEG/dfdc88ab-0a31-11ec-82ff-505dac8c385b_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1155,7 +1155,7 @@
             <link>https://tv.naver.com/v/22170004</link>
             <guid>https://tv.naver.com/v/22170004</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:33 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_82/ExFd7_1630396562150XSNhD_JPEG/84beb00b-0a30-11ec-9b63-505dacfba98a_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1163,7 +1163,7 @@
             <link>https://tv.naver.com/v/22169951</link>
             <guid>https://tv.naver.com/v/22169951</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:33 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_25/mP15q_1630396438483VTmdw_PNG/1630396425901.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -1171,7 +1171,7 @@
             <link>https://tv.naver.com/v/22168855</link>
             <guid>https://tv.naver.com/v/22168855</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:33 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_20/R1pRf_1630394449119HN85g_JPEG/9852d76d-0a2b-11ec-8c9c-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1179,7 +1179,7 @@
             <link>https://tv.naver.com/v/22168401</link>
             <guid>https://tv.naver.com/v/22168401</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:33 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_290/qyjbN_1630393424270VAftq_JPEG/6aff3604-0a29-11ec-8e61-a0369ff94f34_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1187,7 +1187,7 @@
             <link>https://tv.naver.com/v/22167252</link>
             <guid>https://tv.naver.com/v/22167252</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:33 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_139/3qya9_1630390956993AzoFr_JPEG/c45105f1-0a23-11ec-a8ac-505dac8c35ff_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1195,7 +1195,7 @@
             <link>https://tv.naver.com/v/22167239</link>
             <guid>https://tv.naver.com/v/22167239</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:33 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_39/TU1oC_1630390920152R5Ei9_JPEG/ac6c3b04-0a23-11ec-b835-505dac8c3607_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1203,7 +1203,7 @@
             <link>https://tv.naver.com/v/22167214</link>
             <guid>https://tv.naver.com/v/22167214</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:33 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_160/JfsDS_1630390878634VgCzN_PNG/1630390874005.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -1211,7 +1211,7 @@
             <link>https://tv.naver.com/v/22167158</link>
             <guid>https://tv.naver.com/v/22167158</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:33 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_36/C9koW_1630390770042XIERT_JPEG/3c73ae2a-0a23-11ec-9b63-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1219,7 +1219,7 @@
             <link>https://tv.naver.com/v/22165111</link>
             <guid>https://tv.naver.com/v/22165111</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:33 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_153/DXUOj_1630386704166rr3cz_JPEG/a0469050-0a16-11ec-93f2-a0369ff95ec0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1227,7 +1227,7 @@
             <link>https://tv.naver.com/v/22161516</link>
             <guid>https://tv.naver.com/v/22161516</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:33 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_81/DLNHq_1630378424819gpKcV_JPEG/43a3c357-0a06-11ec-8678-48df379cca40_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1235,7 +1235,7 @@
             <link>https://tv.naver.com/v/22160758</link>
             <guid>https://tv.naver.com/v/22160758</guid>
             <pubDate>Tue, 31 Aug 2021 02:25:46 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_15/nzNuK_1630376578136cIdfG_JPEG/18666a1d-0a02-11ec-882d-48df37ae3dc4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1243,7 +1243,7 @@
             <link>https://tv.naver.com/v/22159399</link>
             <guid>https://tv.naver.com/v/22159399</guid>
             <pubDate>Tue, 31 Aug 2021 02:25:46 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_190/ONgUf_1630372197469cRyRy_JPEG/c03f78ed-09f7-11ec-9845-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
