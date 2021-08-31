@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-08-31T20:16:59.271Z</updated>
+    <updated>2021-08-31T21:14:25.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유재석 춤추게 한 그 노래…'아-하: 테이크 온~미' 영화로]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010694739</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010694739"/>
+        <updated>2021-08-31T21:13:09.207Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]백승훈 인턴 기자 = 노르웨이 밴드 'a-ha(아하)'의 뮤직 콘서트 '아-하: 테이크 온 미'(a-ha: Take On Me)의 개봉과 함께 세기의 메가 히트송 'Take On Me'가 다시 화제가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미션 임파서블' 제작사, 1천100억원 코로나 보험금 소송]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012633777</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012633777"/>
+        <updated>2021-08-31T21:13:09.207Z</updated>
+        <content type="html"><![CDATA["코로나 사태로 촬영 중단…전액 손실 보상해달라" 요구 (로스앤젤레스=연합뉴스) 정윤섭 특파원 = 영화 '미션 임파서블 7'을 제작 중인 미국 파라마운트가 보험사를 상대로 1천100억원 규모의 보험금 청구 소송을 제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[007 ‘노 타임 투 다이’ SF ‘듄’… 할리우드 초대작 몰려온다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001467844</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004466480"/>
         <updated>2021-08-31T09:54:43.571Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] “사투리 쓰며 연기하기 편했다(웃음).” 걸그룹 시크릿 출신 배우 한선화와 배우 이완이 “지금껏 고향 사투리를 쓰며 연기한 적이 없었는데 이번 작품을 통해 해보게 됐다”라고 영화에 출연해 느]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] ‘영화의 거리’ 기자간담회 없이 무대인사로]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000930720</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000930720"/>
-        <updated>2021-08-31T09:54:43.573Z</updated>
-        <content type="html"><![CDATA[김민근 감독, 배우 한선화, 이완이 31일 서울 광진구 자양동 롯데시네마 건대입구점에서 열린 영화 ‘영화의 거리’ 언론시사회 무대인사에서 개봉 소감을 말하고 있다. 주현희 기자 teth1147@donga.com]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] ‘영화의 거리’ 파이팅!]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000930719</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000930719"/>
-        <updated>2021-08-31T09:54:43.574Z</updated>
-        <content type="html"><![CDATA[배우 이완, 한선화, 김민근 감독이 31일 서울 광진구 자양동 롯데시네마 건대입구점에서 열린 영화 ‘영화의 거리’ 언론시사회 무대인사에서 포즈를 취하고 있다. 주현희 기자 teth1147@donga.com]]></content>
     </entry>
 </feed>
