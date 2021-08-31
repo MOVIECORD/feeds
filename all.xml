@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Aug 2021 09:58:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 10:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -207,6 +207,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F232a8d6e902c63036bbe2ae327d57e82585a639f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[여름날 우리 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151333</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151333</guid>
+            <pubDate>Wed, 25 Aug 2021 00:46:51 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e883bbf9717d6e78b84c03dceadc2f748bbaf5b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[싱크홀 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=134290</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=134290</guid>
@@ -223,14 +231,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1ea7826f4d66e1f7013c4581d73981e06a496d01" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[여름날 우리 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151333</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151333</guid>
-            <pubDate>Wed, 25 Aug 2021 00:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e883bbf9717d6e78b84c03dceadc2f748bbaf5b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[코드 카림 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151147</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151147</guid>
@@ -245,14 +245,6 @@
             <pubDate>Tue, 24 Aug 2021 23:15:14 GMT</pubDate>
             <content:encoded><![CDATA[21.08.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F66c754624aca8e6f9ae303ffe4216bbf59ac31a0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[프리 가이 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=131277</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=131277</guid>
-            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb83ce3cb29a492a800a4c18c0c168987ecc21e43" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아이스 로드 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -279,20 +271,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44cff9be3a13f0cf1746357f7d4dd58f248f5f2c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[레미니센스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151315</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151315</guid>
-            <pubDate>Wed, 25 Aug 2021 00:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3b72c91d5a32de281ff8224830482a733df9cd68" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[올드 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145174</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145174</guid>
-            <pubDate>Sun, 15 Aug 2021 15:54:19 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2771975974a5ea16126c86bd0bb19fb57f8cc0c2" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[프리 가이 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=131277</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=131277</guid>
+            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb83ce3cb29a492a800a4c18c0c168987ecc21e43" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[퍼피 구조대 더 무비 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -311,6 +295,38 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4f98bccfb72790b319d30d2fa4303cd49eda578" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[극장판 페이트/그랜드 오더 신성원탁영역 카멜롯 팔라딘; 아가트람 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150453</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150453</guid>
+            <pubDate>Tue, 31 Aug 2021 10:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb466e8c626f9f77e033ed7a6023d82568d327ef6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[자마 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=114771</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=114771</guid>
+            <pubDate>Mon, 30 Aug 2021 15:45:02 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F59dc5878cbd995a1b68d2e175baae4c02ed24f47" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[레미니센스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151315</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151315</guid>
+            <pubDate>Wed, 25 Aug 2021 00:46:51 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3b72c91d5a32de281ff8224830482a733df9cd68" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[올드 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145174</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145174</guid>
+            <pubDate>Sun, 15 Aug 2021 15:54:19 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2771975974a5ea16126c86bd0bb19fb57f8cc0c2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[더 수어사이드 스쿼드 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=122276</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=122276</guid>
@@ -325,22 +341,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:52 GMT</pubDate>
             <content:encoded><![CDATA[21.07.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff39274b0acd76f7c66f0a5fb9e5b7222ed37b373" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[자마 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=114771</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=114771</guid>
-            <pubDate>Mon, 30 Aug 2021 15:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F59dc5878cbd995a1b68d2e175baae4c02ed24f47" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[귀신 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=142522</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=142522</guid>
-            <pubDate>Tue, 31 Aug 2021 09:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ea87dc38b521afffb78d3ede90c8f080e413108" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[샹치와 텐 링즈의 전설 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -535,20 +535,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F30%2Fstartoday%2F20210830102105109iyll.png" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['007 노 타임 투 다이', 9월29일 전 세계 최초 개봉 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210831085758298</link>
-            <guid>https://movie.v.daum.net/v/20210831085758298</guid>
-            <pubDate>Tue, 31 Aug 2021 02:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[[이데일리 스타in 박미애 기자] 액션 블록버스터 영화 ‘007 노 타임 투 다이’가 마침내 개봉일을 확정했다. 유니버설픽쳐스는 31일 “‘007 노 타임 투 다이’(감독 캐리 후쿠나가)가 9월 29일(수) 오후 5시 전 세계 최초 개봉한다”고 밝혔다. 이는 9월 30일(목) 개봉하는 영국과 10월 8일(금) 개봉하는 북미보다 한 발 앞선 일정이다. ‘0]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2FEdaily%2F20210831085802677jmhv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['007 노 타임 투 다이', 9월 29일 오후 5시 전 세계 최초 개봉[공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210831134759519</link>
             <guid>https://movie.v.daum.net/v/20210831134759519</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:08 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]전 세계가 기다려온 가장 압도적인 액션 블록버스터 ‘007 노 타임 투 다이’(수입·배급: 유니버설 픽쳐스)가 9월 29일(수) 오후 5시 전 세계 최초개봉을 확정하고 타임테이블 포스터를 공개했다. 영화 ‘007 노 타임 투 다이’는 가장 강력한 운명의 적의 등장으로 죽음과 맞닿은 작전을 수행하게 된 제임스 본드의 마지막 미션]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Fmydaily%2F20210831134759504jazs.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['007 노 타임 투 다이', 9월29일 전 세계 최초 개봉 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210831085758298</link>
+            <guid>https://movie.v.daum.net/v/20210831085758298</guid>
+            <pubDate>Tue, 31 Aug 2021 02:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 스타in 박미애 기자] 액션 블록버스터 영화 ‘007 노 타임 투 다이’가 마침내 개봉일을 확정했다. 유니버설픽쳐스는 31일 “‘007 노 타임 투 다이’(감독 캐리 후쿠나가)가 9월 29일(수) 오후 5시 전 세계 최초 개봉한다”고 밝혔다. 이는 9월 30일(목) 개봉하는 영국과 10월 8일(금) 개봉하는 북미보다 한 발 앞선 일정이다. ‘0]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2FEdaily%2F20210831085802677jmhv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["소름끼치고 충격적"..'캔디맨' 북미 박스 1위[공식] (다음영화 뉴스 ─ 인기)]]></title>
@@ -607,6 +607,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Fpoctan%2F20210831170723523ozbb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[공식] 장영남 주연 'F20', 10월 개봉 확정..올해 가장 날카롭고 충격적인 문제작 탄생 예고 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210830134215485</link>
+            <guid>https://movie.v.daum.net/v/20210830134215485</guid>
+            <pubDate>Tue, 31 Aug 2021 09:55:08 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 한국 사회의 차가운 단면을 밀도 있게 그려내며 신선한 충격을 전할 서스펜스 스릴러 영화 'F20'(홍은미 감독, KBS 한국방송·몬스터유니온 제작)이 10월 개봉을 확정하고, 1차 포스터를 전격 공개했다. 'F20'이 보는 것만으로도 압도적인 스릴과 궁금증을 불러일으키는 1차 포스터를 공개하고, 10월 개봉을 확정]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F30%2FSpoChosun%2F20210830134215452vzmn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['인질' 류경수, 황정민과 기싸움에도 밀리지 않은 빌런 활약 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210830104748718</link>
             <guid>https://movie.v.daum.net/v/20210830104748718</guid>
@@ -621,14 +629,6 @@
             <pubDate>Tue, 31 Aug 2021 09:55:08 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스엔 김노을 기자] 거대하고 치밀한 보이스피싱을 낱낱이 파헤칠 영화 '보이스'가 리얼 액션을 완벽하게 소화한 변요한의 액션 비하인드와 스틸을 공개했다. 오는 9월 15일 개봉하는 '보이스'(감독 김선, 김곡)는 보이스피싱 조직의 덫에 걸려 모든 것을 잃게 된 ‘서준’(변요한)이 빼앗긴 돈을 되찾기 위해 중국에 있는 본거지에 잠입, 보이스피싱 설계자 ‘]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Fnewsen%2F20210831091628553apfd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식] 장영남 주연 'F20', 10월 개봉 확정..올해 가장 날카롭고 충격적인 문제작 탄생 예고 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210830134215485</link>
-            <guid>https://movie.v.daum.net/v/20210830134215485</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:08 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 한국 사회의 차가운 단면을 밀도 있게 그려내며 신선한 충격을 전할 서스펜스 스릴러 영화 'F20'(홍은미 감독, KBS 한국방송·몬스터유니온 제작)이 10월 개봉을 확정하고, 1차 포스터를 전격 공개했다. 'F20'이 보는 것만으로도 압도적인 스릴과 궁금증을 불러일으키는 1차 포스터를 공개하고, 10월 개봉을 확정]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F30%2FSpoChosun%2F20210830134215452vzmn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['싱크홀' 손익 분기점 돌파, 코로나 시국 속 다크호스 역할 톡톡 [무비노트] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1147,7 +1147,7 @@
             <link>https://tv.naver.com/v/22170220</link>
             <guid>https://tv.naver.com/v/22170220</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:33 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_76/gI2ye_1630397087718V4Nf6_JPEG/dfdc88ab-0a31-11ec-82ff-505dac8c385b_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1179,7 +1179,7 @@
             <link>https://tv.naver.com/v/22168401</link>
             <guid>https://tv.naver.com/v/22168401</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:33 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_290/qyjbN_1630393424270VAftq_JPEG/6aff3604-0a29-11ec-8e61-a0369ff94f34_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1219,7 +1219,7 @@
             <link>https://tv.naver.com/v/22165111</link>
             <guid>https://tv.naver.com/v/22165111</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:33 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_153/DXUOj_1630386704166rr3cz_JPEG/a0469050-0a16-11ec-93f2-a0369ff95ec0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1243,7 +1243,7 @@
             <link>https://tv.naver.com/v/22159399</link>
             <guid>https://tv.naver.com/v/22159399</guid>
             <pubDate>Tue, 31 Aug 2021 02:25:46 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_190/ONgUf_1630372197469cRyRy_JPEG/c03f78ed-09f7-11ec-9845-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
