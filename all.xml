@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Aug 2021 10:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 10:31:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -207,12 +207,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F232a8d6e902c63036bbe2ae327d57e82585a639f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[여름날 우리 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151333</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151333</guid>
+            <title><![CDATA[귀문 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151323</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151323</guid>
             <pubDate>Wed, 25 Aug 2021 00:46:51 GMT</pubDate>
             <content:encoded><![CDATA[21.08.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e883bbf9717d6e78b84c03dceadc2f748bbaf5b" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1ea7826f4d66e1f7013c4581d73981e06a496d01" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[싱크홀 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -223,12 +223,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F446090579974d44551356ce961743e57eaa41bd6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[귀문 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151323</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151323</guid>
+            <title><![CDATA[여름날 우리 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151333</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151333</guid>
             <pubDate>Wed, 25 Aug 2021 00:46:51 GMT</pubDate>
             <content:encoded><![CDATA[21.08.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1ea7826f4d66e1f7013c4581d73981e06a496d01" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e883bbf9717d6e78b84c03dceadc2f748bbaf5b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[코드 카림 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -295,14 +295,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4f98bccfb72790b319d30d2fa4303cd49eda578" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 페이트/그랜드 오더 신성원탁영역 카멜롯 팔라딘; 아가트람 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150453</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150453</guid>
-            <pubDate>Tue, 31 Aug 2021 10:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb466e8c626f9f77e033ed7a6023d82568d327ef6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[자마 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=114771</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=114771</guid>
@@ -341,6 +333,14 @@
             <pubDate>Tue, 31 Aug 2021 09:54:52 GMT</pubDate>
             <content:encoded><![CDATA[21.07.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff39274b0acd76f7c66f0a5fb9e5b7222ed37b373" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[다이노 마이 프렌드 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151976</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151976</guid>
+            <pubDate>Tue, 31 Aug 2021 10:30:18 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F93349a89d113d410c0d3a697da856283e5cbea78" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[샹치와 텐 링즈의 전설 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -511,20 +511,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Fyonhap%2F20210831121139276ajlz.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA[황정민 '인질' 13일 연속 1위..차승원 '싱크홀' 200만·손익분기점 돌파 [종합] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210831083508739</link>
-            <guid>https://movie.v.daum.net/v/20210831083508739</guid>
-            <pubDate>Tue, 31 Aug 2021 02:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자]배우 황정민 주연의 영화 '인질'이 13일 연속 박스오피스 1위에 등극했다. 차승원 주연의 영화 '싱크홀'은 200만을 돌파하며 손익분기점을 달성했다.영화진흥위원회 통합전산망에 따르면 '인질'은 지난 30일 하루 동안 3만4445명의 관객을 동원해 1위에 올랐다. 이날까지 누적 117만4256명의 관객을 모았다. '인질'은 인적이 드]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2F10asia%2F20210831083510824occj.jpg" length="0" type="image//thumb/S732x228/"/>
-        </item>
-        <item>
             <title><![CDATA[[SC초점]'007·듄·이터널스·스파이더맨'..'보릿고개 끝?' 하반기 극장, 할리우드 대작 쏟아진다 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210831091228878</link>
             <guid>https://movie.v.daum.net/v/20210831091228878</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:08 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠조선 이승미 기자] 하반기 극장가, 모두가 기다렸던 할리우드 대작들이 쏟아진다. 코로나19로 인한 펜데믹으로 전 세계적으로 유례없는 기근을 맞이한 극장가. 개봉일을 잡지 못해 우왕좌왕하던 할리우드 대작들이 올해 하반기, 드디어 속속 개봉일을 확정하고 있다. 마블의 블록버스터 '블랙위도우', 디즈니 어드벤쳐블록버스터 '정글크루즈', DC]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2FSpoChosun%2F20210831091228523rxjn.jpg" length="0" type="image//thumb/S384x240/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2FSpoChosun%2F20210831091228523rxjn.jpg" length="0" type="image//thumb/S732x228/"/>
+        </item>
+        <item>
+            <title><![CDATA[황정민 '인질' 13일 연속 1위..차승원 '싱크홀' 200만·손익분기점 돌파 [종합] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210831083508739</link>
+            <guid>https://movie.v.daum.net/v/20210831083508739</guid>
+            <pubDate>Tue, 31 Aug 2021 02:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자]배우 황정민 주연의 영화 '인질'이 13일 연속 박스오피스 1위에 등극했다. 차승원 주연의 영화 '싱크홀'은 200만을 돌파하며 손익분기점을 달성했다.영화진흥위원회 통합전산망에 따르면 '인질'은 지난 30일 하루 동안 3만4445명의 관객을 동원해 1위에 올랐다. 이날까지 누적 117만4256명의 관객을 모았다. '인질'은 인적이 드]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2F10asia%2F20210831083510824occj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[벌써 무서운 '디스트릭트666', 10월 개봉 확정[공식] (다음영화 뉴스 ─ 인기)]]></title>
@@ -615,20 +615,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F30%2FSpoChosun%2F20210830134215452vzmn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['인질' 류경수, 황정민과 기싸움에도 밀리지 않은 빌런 활약 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210830104748718</link>
-            <guid>https://movie.v.daum.net/v/20210830104748718</guid>
-            <pubDate>Tue, 31 Aug 2021 02:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 영화 '인질'이 류경수 캐릭터 스틸을 최초로 공개했다. '인질'(감독 필감성)은 어느 날 새벽, 증거도 목격자도 없이 납치된 배우 황정민을 그린 리얼리티 액션스릴러다. 바로 지난해, 안방극장을 휩쓸었던 드라마 '이태원 클라쓰'에 출연하여 대중들에게 얼굴을 알린 류경수. 이후 카카오TV '도시남녀의 사랑법'에서는 전작과 정반]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F30%2Fmydaily%2F20210830104748200bxve.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['보이스' 변요한, 스턴트 없이 온몸 내던진 액션 스틸 공개 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210831091627008</link>
             <guid>https://movie.v.daum.net/v/20210831091627008</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:08 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스엔 김노을 기자] 거대하고 치밀한 보이스피싱을 낱낱이 파헤칠 영화 '보이스'가 리얼 액션을 완벽하게 소화한 변요한의 액션 비하인드와 스틸을 공개했다. 오는 9월 15일 개봉하는 '보이스'(감독 김선, 김곡)는 보이스피싱 조직의 덫에 걸려 모든 것을 잃게 된 ‘서준’(변요한)이 빼앗긴 돈을 되찾기 위해 중국에 있는 본거지에 잠입, 보이스피싱 설계자 ‘]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Fnewsen%2F20210831091628553apfd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['인질' 류경수, 황정민과 기싸움에도 밀리지 않은 빌런 활약 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210830104748718</link>
+            <guid>https://movie.v.daum.net/v/20210830104748718</guid>
+            <pubDate>Tue, 31 Aug 2021 02:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 영화 '인질'이 류경수 캐릭터 스틸을 최초로 공개했다. '인질'(감독 필감성)은 어느 날 새벽, 증거도 목격자도 없이 납치된 배우 황정민을 그린 리얼리티 액션스릴러다. 바로 지난해, 안방극장을 휩쓸었던 드라마 '이태원 클라쓰'에 출연하여 대중들에게 얼굴을 알린 류경수. 이후 카카오TV '도시남녀의 사랑법'에서는 전작과 정반]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F30%2Fmydaily%2F20210830104748200bxve.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['싱크홀' 손익 분기점 돌파, 코로나 시국 속 다크호스 역할 톡톡 [무비노트] (다음영화 뉴스 ─ 인기)]]></title>
@@ -639,14 +639,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Ftvdaily%2F20210831114609789obia.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[조진웅·김희애·류혜영, 웨이브 오리지널 '데드맨' 캐스팅 확정[공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210831085408206</link>
-            <guid>https://movie.v.daum.net/v/20210831085408206</guid>
-            <pubDate>Tue, 31 Aug 2021 02:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 김선우기자]웨이브(wavve)가 투자한 두 번째 영화가 베일을 벗었다. 웨이브는 내년 상반기 기대작 ‘젠틀맨’에 이어 하반기에는 ‘데드맨’을 오리지널 영화로 선보일 예정이다. ‘데드맨’은 연기파 배우로 명성을 쌓아 온 조진웅, 김희애, 류혜영이 주연으로 확정되면서 기대를 모으고 있다. ‘데드맨’은 어두운 세계의 덫에 걸려]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2FSPORTSSEOUL%2F20210831085410897edqo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[황정민 찐팬vs빌런..'인질' 정재원, 대체 불가 존재감 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210831141114448</link>
             <guid>https://movie.v.daum.net/v/20210831141114448</guid>
@@ -655,12 +647,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Fxportsnews%2F20210831141116892wkrf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[조진웅·김희애·류혜영, 웨이브 오리지널 '데드맨' 캐스팅 확정[공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210831085408206</link>
+            <guid>https://movie.v.daum.net/v/20210831085408206</guid>
+            <pubDate>Tue, 31 Aug 2021 02:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 김선우기자]웨이브(wavve)가 투자한 두 번째 영화가 베일을 벗었다. 웨이브는 내년 상반기 기대작 ‘젠틀맨’에 이어 하반기에는 ‘데드맨’을 오리지널 영화로 선보일 예정이다. ‘데드맨’은 연기파 배우로 명성을 쌓아 온 조진웅, 김희애, 류혜영이 주연으로 확정되면서 기대를 모으고 있다. ‘데드맨’은 어두운 세계의 덫에 걸려]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2FSPORTSSEOUL%2F20210831085410897edqo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['건파우더 밀크셰이크', '킬빌'·'존윅'·'킹스맨'의 삼위일체 핏빛 액션 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210831152358513</link>
             <guid>https://movie.v.daum.net/v/20210831152358513</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:08 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 영화 '건파우더 밀크셰이크'(감독 나봇 파푸샤도)가 지금껏 단 한 번도 본 적 없는 독특한 액션 시퀀스로 참신함을 더하며 관객들의 기대를 극대화시키고 있다. “데드풀과 존 윅의 장점만 모아 끝까지 달리는 으른들의 액션 영화(황석희 번역가)”라는 평을 얻고 있는 스파클링 액션 '건파우더 밀크셰이크'가 지금껏 본 적 없는 개성 넘]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Fxportsnews%2F20210831152359632nbsr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장IS] 박정민이 웃기고 이성민이 울리고..착한 영화의 '기적' (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20210831192206549</link>
+            <guid>https://v.daum.net/v/20210831192206549</guid>
+            <pubDate>Tue, 31 Aug 2021 10:30:42 GMT</pubDate>
+            <content:encoded><![CDATA[착한 영화의 '기적'이 일어날 준비를 마쳤다. 박정민, 이성민, 임윤아, 이수경 주연의 영화 '기적(이장훈 감독)'이다. 31일 서울 광진구 롯데시네마 건대입구에서 진행된 언론배급시사를 통해 '기적'이 첫 공개됐다. '기적'은 오갈 수 있는 길은 기찻길밖에 없지만 정작 기차역은 없는 마을에 간이역 하나 생기는 게 유일한 인생 목표인 준경(박정민)과]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Filgansports%2F20210831192208755mmzw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[박정민X손석구X최희서X이제훈 연출 맡은 왓챠 '언프레임드' 배우 라인업 공개 (다음영화 뉴스 ─ 최신)]]></title>
@@ -813,14 +821,6 @@
             <pubDate>Tue, 31 Aug 2021 09:55:15 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;배우 이완(본명 김형수)이 “고향이 울산이라 사투리로 연기하는 모습을 보여드리고 싶었다”라고 말했다. 이완은 31일 오후 서울 자양동 건대입구 롯데시네마에서 열린 영화 ‘영화의 거리’ 언론배급시사회에서 “사투리 연기는 처음이다”라며 이같이 밝혔다. ‘영화의 거리’(감독 김민근, 제작 제작사 눈, 배급 씨네소파)는 영화 로케이션 매니]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Fpoctan%2F20210831153648431xktc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['영화의 거리' 한선화 "첫 장편 영화..설레고 긴장된다" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210831153505005</link>
-            <guid>https://v.daum.net/v/20210831153505005</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:15 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '영화의 거리'의 배우 한선화가 첫 장편 영화를 선보이는 소감을 전했다. 한선화는 31일 오후 서울 광진구 롯데시네마 건대입구에서 진행된 '영화의 거리' 언론배급시사회에서 "첫 장편 영화다. 여러분은 저의 첫 관객이다. 설레기도 하고, 긴장도 된다. 기억에 남을 것 같다"고 말했다. 이어 이 영화의 매력을 묻자 "사투리가 주는 경쾌함이 있다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2Filgansports%2F20210831153505251fmxr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<뱅드림! 로젤리아 에피소드Ⅱ: 송 아이 엠> 스페셜 예고편 (우리 영화 볼래?)]]></title>
@@ -1171,7 +1171,7 @@
             <link>https://tv.naver.com/v/22168855</link>
             <guid>https://tv.naver.com/v/22168855</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:33 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_20/R1pRf_1630394449119HN85g_JPEG/9852d76d-0a2b-11ec-8c9c-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1187,7 +1187,7 @@
             <link>https://tv.naver.com/v/22167252</link>
             <guid>https://tv.naver.com/v/22167252</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:33 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_139/3qya9_1630390956993AzoFr_JPEG/c45105f1-0a23-11ec-a8ac-505dac8c35ff_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1195,7 +1195,7 @@
             <link>https://tv.naver.com/v/22167239</link>
             <guid>https://tv.naver.com/v/22167239</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:33 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_39/TU1oC_1630390920152R5Ei9_JPEG/ac6c3b04-0a23-11ec-b835-505dac8c3607_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1203,7 +1203,7 @@
             <link>https://tv.naver.com/v/22167214</link>
             <guid>https://tv.naver.com/v/22167214</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:33 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_160/JfsDS_1630390878634VgCzN_PNG/1630390874005.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -1211,7 +1211,7 @@
             <link>https://tv.naver.com/v/22167158</link>
             <guid>https://tv.naver.com/v/22167158</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:33 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_36/C9koW_1630390770042XIERT_JPEG/3c73ae2a-0a23-11ec-9b63-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1235,7 +1235,7 @@
             <link>https://tv.naver.com/v/22160758</link>
             <guid>https://tv.naver.com/v/22160758</guid>
             <pubDate>Tue, 31 Aug 2021 02:25:46 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_15/nzNuK_1630376578136cIdfG_JPEG/18666a1d-0a02-11ec-882d-48df37ae3dc4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1701,6 +1701,414 @@
             <pubDate>Sun, 15 Aug 2021 05:21:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTA4MDFfNzYg/MDAxNTY0NjI3NzEyNzQw.i86rUyd_mBFYJhg2LuGNlvvhUEW_x2QfmggmVOImH0Yg.AwFx6oGglz4qT5lmOfRfJNtx1GBHoF0wjnHCAigYrjIg.JPEG/Ib9BvFS2jYtol1CTXbQf4eGZKZhs.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LG 올레드 evo 체험기] 영화 볼 때도, 게임할 때도 궁극의 화질을 보여준다 (씨네21 ─ 알고봅시다)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31026467&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31026467&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMjRfMTQ0/MDAxNjE2NTU4NDExMDEw.hffrWM745w2J0tZ8MhisZUgM9SjlzQpoSRFqYkWZMJ8g.jkMs7LA3j5zz-X7WjrGMBzV0p3ainvJthh92GgPQagog.JPEG/IWmwmOoP3TVVM4aqKrlPQV4fazs0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데뷔작 <블러드 심플>로 살펴보는 코언 형제 영화의 특징 (씨네21 ─ 알고봅시다)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=26307204&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=26307204&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxOTEwMTBfMjkz/MDAxNTcwNjc0NTA4NTE0._nVvbnJUx9_31wncPNpPv07Be4S13yN9CTLSi99PLe0g.an7zukQ8QEuWvWGXaj3CWqG2lJPdDze9xDd1fIcJbE0g.JPEG/IuldjAuxYXxoyslBd-zRX5yI5wi0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제임스 볼드윈 “나는 블랙팬서가 될 수 없었다” (씨네21 ─ 알고봅시다)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=13055680&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=13055680&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxODAyMTRfMTIw/MDAxNTE4NTk3Mzk3NTg0.S3oPliWL5ZxFcIohhGNr9Uy5Mha_g8aaDgf60IkVPSgg.iquOpOS7p2VPCP4DoNCtWkxAzu8OfJ7drQcfZqiocuYg.JPEG/IkOVts0egg9EteUC6D2ITHDTs3S4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<인시디어스4: 라스트 키>를 보러 가기 전에 읽을 것 (씨네21 ─ 알고봅시다)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=12780446&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=12780446&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxODAyMDVfMTYx/MDAxNTE3ODE4MzYxMDc3.YhNxDeVSWwNQfklXdZTffa9kL2c2IBm0HtNvSEtaxFkg.H0rajrSra_DDWB63dRedV661FfofSnwHw32AucVX84Mg.JPEG/IthEfG0tI82W72vd-NCYr75cS3QE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 애니메이션의 새 얼굴, 유아사 마사아키의 세계 (씨네21 ─ 알고봅시다)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=12776945&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=12776945&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxODAyMDVfMjkw/MDAxNTE3ODE0MjcwMTY2.1ugNKaTdcDde2iqlmE8Bw1cWyEbvD7MPJxBvk3Syuhsg.gq2viKzS-VDsZ5KTjwAIcykofprLKfMQCyeSfzBrVncg.JPEG/IJVppzcX_OV5gFiuGlCR1ptC83F4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알고 보면 좋을 <메이즈 러너: 데스 큐어>의 정보들 (씨네21 ─ 알고봅시다)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=12559877&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=12559877&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMjlfMTU0/MDAxNTE3MTk0NjMwNDk3.OkIxNU9j9mjh2F8L9_SmLeVc5OTIvR4Z92gKlZNxxWcg.y92JVPNBuXV-7XZdnaGpBeNfBaHv2YAkZGpe1y3VZX0g.JPEG/I-DJOpcJlr1-Z9ldTI3sxdm7PQls.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<다키스트 아워>와 함께 보자! 영화로 재구성한 2차대전 (씨네21 ─ 알고봅시다)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=12334476&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=12334476&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMjJfMTgz/MDAxNTE2NTg1MTI2MzI4.69o6tu1y7OcQn_Sbdvj6SfY4omkrZin5m9fLWKVLDTMg.J2EtyKyTBwPnUFb07tRmt2SNTbFpGSdMj8WE3NQg29sg.JPEG/IR8CFqrnBJT-68g4hC96VF90V5yc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애니메이션이 된 이와이 슌지의 첫사랑 <쏘아올린 불꽃, 밑에서 볼까? 옆에서 볼까?> (씨네21 ─ 알고봅시다)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=11749073&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=11749073&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDJfMjAz/MDAxNTE0ODc2MjYyNjc1.Hb8qv1xdfXt72eepXX_ZBAW1dkrOoJKq88UzCIyVb98g.pJELxmGVs-ou7pdO78qVY9aYbtnMTpfPR43YKABxMPIg.JPEG/I4_cb7qcn-lHOyHtxkkMThapBPY8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼히어로 만화계의 조상! ‘저스티스 리그’ 팀의 역사를 알려드림 (씨네21 ─ 알고봅시다)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=10698638&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=10698638&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxNzExMjFfMjMw/MDAxNTExMjI2NjcxNjI4.foCgyZHMYUkWlrfHBfDB7aehgikWbLqvSshYJsGdB_Ug.OTikRGvMkWs55dKGZzDDvgNl9M1YiFEPDUdrQ_CdrfMg.JPEG/I-OiQ3f8RnJ6vX4uMlI1O861uM9s.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<혹성탈출: 종의 전쟁> 이전의 이야기와 원작 소설 그리고 같은 소재의 영화들 (씨네21 ─ 알고봅시다)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=9106745&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=9106745&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxNzA4MTRfMTUy/MDAxNTAyNjcxOTI2MDI5.57CWz3pYLLMHOlc7AMWGFtozbcv7ElGH86Hh57Bj68sg.uA7nY9Je1mB7VgyAElZhdV7lsqq6OH_GFFt0y6Ei22wg.JPEG/I4g-Fcl3uJBO4makA8UiFyH77jGs.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<겟 아웃> 더 무섭게 보는 방법 (씨네21 ─ 알고봅시다)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=7700606&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=7700606&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxNzA1MTZfOTgg/MDAxNDk0OTM1ODk2ODk0.QNhUgKrzGSwKNoA-biZNZFZZUyEH7gsV228eHO0mjp8g.JxSR1499bNdGZzAnm0AhfXTzp81I1TqRJkXxN9cnnlAg.JPEG/Is5jXj51DUFaLI7j3f2CNEOm4J-w.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[취향 따라 즐기는 전설 : <킹 아서: 제왕의 검>과는 또 다르게 변주된 아서왕 이야기 (씨네21 ─ 알고봅시다)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=7619673&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=7619673&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxNzA1MTFfMTE5/MDAxNDk0NTExMzkyNTY5.mPkYVA4dOiMayBW8-moQVuCRfQaoVt2u0vURhPm7xfkg.c7GmIgHERNOUzQ_6nlK8yJ7JkHZdYnvkrcnYT6gFDNMg.JPEG/IEWbQJop6jfIXCn7SDiuvOZz363g.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국영화 최고의 여성캐릭터를 뽑아주세요! (씨네21 ─ 알고봅시다)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=7457787&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=7457787&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxNzA1MDFfMjA2/MDAxNDkzNjEzNTQwMjEz.d8KXzrPe7uKVsYfoXjEdI_ET4xOhyE5PSFUIgFQFkGkg.6QZ0lYHk725S_0aYlsgD_vqHS4H1bg79A1W6b4nVMcMg.JPEG/I2VpsGmHKi_dlQ8RqpXEkZOECoQE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화제의 SF영화 <라이프>의 다섯 가지 매력 (씨네21 ─ 알고봅시다)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=7040043&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=7040043&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxNzA0MDRfMjEz/MDAxNDkxMjk0MzIyMTQx.IEFwFVuht4ni0e0pcfwx6j0BKTBZWwOly_SjzqBrtukg.S-tmwek1rB_aeOmDOhBHtB3FGFwO0j9AQxWSXwmOPr4g.JPEG/I6MXS4iO-QSTVoWEGfhP-Ca6n7tQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장국영에 대해 당신이 몰랐을 법한 5가지 이야기 (씨네21 ─ 알고봅시다)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=7001068&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=7001068&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxNzAzMzFfODYg/MDAxNDkwOTQ0NDY0MzAw.r-Ikwb6Q7f1sGrMhc9ZR566yhdfo2cOHEXVboT2TKkIg.r6SrMyAXuHoWgdOeKcNiGAWzIDruybHILX7Y8iS3Fq8g.JPEG/IgCw5K0-ZMO8Xc4u3KSFfSZfYceU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<공각기동대: 고스트 인 더 쉘> 원작 vs 영화 (씨네21 ─ 알고봅시다)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=6907101&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=6907101&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxNzAzMjNfOTkg/MDAxNDkwMjU5MzgzNzYw.6EJTXBUDdLU5nVfbhKriF7xRUtd-qRNct31ZvNkMCHAg.lcLkyHzPlpr6lm990EcVhCDNSQsYAGOkHYurqXkqN0Qg.PNG/IVxXkWn3gqbvn4yGIwRwee6th8kg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미야자와 리에의 꼭 봐야 할 영화들 (씨네21 ─ 알고봅시다)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=6885461&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=6885461&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxNzAzMjJfMjAw/MDAxNDkwMTQ3OTczNzI0.F-liQBmzw8cjzm9dVCOfX2gO7DSnxgFzdAQ_lHJHVfog.xDEOAbV7PpHRxazphXot6XPfEPPuutrBLHwGpfaob70g.JPEG/ISTBtIcqfKev8lHPrHPYKYPoNvvI.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<골드>, 실제 사건이었던 브렉스 스캔들 (씨네21 ─ 알고봅시다)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=6885383&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=6885383&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxNzAzMjJfMjY0/MDAxNDkwMTQ2OTU5Mzkx.jYXUIHsdu30fiwJ4cinwnuhqOhCLbNOoi-GAq069XFog.OjHDATlZvh3zEZjtJJfU3VZmUp1171Fxiqkd-O0eynMg.JPEG/IIpwjvozJ_Rrn9ZyWtCSAPFd1uzQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<히든 피겨스>를 보기 전 알아야 할 4가지 (씨네21 ─ 알고봅시다)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=6878380&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=6878380&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxNzAzMjFfMjQw/MDAxNDkwMDg1NDA1MjIz.YsvsimInB-KHbUBtL53W4gHfLrIgwoNV3iDO_VTVSPIg.vkCJtJz3QQ_ZVkOliCMNvhWvKLhfK-5b6G62wXGPlUgg.JPEG/Iog4VY3-TvWHlq-rlwDpd8y2kbk0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[복싱영화 속 실제 복싱선수들: <신데렐라맨>부터 <블리드포디스>까지 (씨네21 ─ 알고봅시다)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=6743424&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=6743424&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxNzAzMDlfMTI1/MDAxNDg5MDM5MDk4NjM4.hstxHNsDzmB3GCggP9Id8NBVywM12BECEX3nhdNYCYwg.J7LZN_sT1QIRow8aGoe0I6kwyJQVj9W71cYi3nvTQBsg.JPEG/IW9LcAzcRi6nLOYPPf0xojYgHiDU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[송중기X김태리X진선규X유해진, "<승리호>는 한국형 우주 SF영화의 시작점이다" (씨네21 ─ feature)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30628653&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30628653&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAyMDJfMjgg/MDAxNjEyMjM5ODk1MTYy.aUqgvzysbneaDJYm8fZh-6I3ad2m3uyGUcYyA7MPj7Ag.EmJoCYKkf33qBDK9zF-gmoLNR77n7hl4u50SurSRXZcg.JPEG/IG-_Uc0xbwglQX_IXZAPf_pogROc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국내 개봉은 언제? 작품성 인정받은 2020 해외 영화제 화제작 7 (씨네21 ─ feature)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30532124&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30532124&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMTlfMjkx/MDAxNjExMDE5MzQ1ODMx.wjR8cUzV2skOu-7jAGthnipBJAiQ_rbOw-d-B-lshQgg.Pp6ZEhQF7or6TW7AFtdexHW_Pt5iaczDReQvt_6_WdUg.JPEG/I1Er5SmDAZIP7SXpKXlViSfigen8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 라인업, 실화? 믿고 보는 2021년 할리우드 속편 기대작 (씨네21 ─ feature)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30506579&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30506579&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMTRfMjY4/MDAxNjEwNjA2NzQwNjIy.XnMzmBI5A-Z4wffDfKBj8i_miVwpy6M34SrPrLmFh8wg.AfPfg5YmqCf6OV_2k32_e7hFba6TQEcQvYwR3XLbtBAg.JPEG/IBx6c0puYKmHqIXwMAw11DdcIgTk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제임스 본드부터 마블 히어로로 변신한 마동석까지, 2021 할리우드 기대작 10 (씨네21 ─ feature)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30460870&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30460870&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMTFfMjIy/MDAxNjEwMzMxMTcyMzI4.nsADnrrKczsNCsN9Gyt0nWNA-K1LpcHa67fkz1uzgAAg.TYcCVyoXrUouvh6Fgjzo-W_moGQ7iU2i0P5k81k7VJ8g.JPEG/I0pdziLTG4cJnVGk-TkfObNiYfD8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올해 넷플릭스가 공개할 한국 드라마 10편 (씨네21 ─ feature)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30409825&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30409825&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMDRfMTg0/MDAxNjA5NzQyNTg2NzEz.-Ge79pI8SXHWlyykgnw5hEFVHhSvrvshYqCyFRQdhN8g.ZNAikjZzrIhMQU5Ha9kSe4kOhr7rAZq3MvMKliqz2LEg.JPEG/I45-g69H06pf3AH6wwR1GRSUlBTY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[90년대 다룬 영화 <삼진그룹 영어토익반>과 <콜>의 미술 감독은 같은 사람? (씨네21 ─ feature)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30331486&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30331486&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEyMjhfMjc3/MDAxNjA5MTI5OTk1MjM4.OmtVGrusG1DsQooxXVAWZQE0XJSXAqsXzMCETYThoHUg.Fjra-ND6gqRV97um7y_ztQb6h8h-77g0aWTsHf_4tE0g.JPEG/I9z_ImrnxJY5kplzamWajSJak9XE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경기도 다양성영화 제작·투자 및 경기 시나리오 기획·개발 지원작으로 선정된 이들과의 만남 (씨네21 ─ feature)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30261173&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30261173&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEyMThfMjA3/MDAxNjA4Mjc4NDUwMzQ1.j8V5osQZkZRSOa0w16b6h9EEwHpJauya7Wrg72D2qwEg.2XJW7_q5-2TiLnwF6ngB3FI9xn3wwghae-948sMsW2kg.JPEG/IkE-gckBZE6bT9r8N1Lzmc6xAock.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신작 해외 드라마를 생생한 초고화질로? UHD로 즐기는 프리미엄 채널 <UXN> (씨네21 ─ feature)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30222360&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30222360&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEyMTBfMTg1/MDAxNjA3NTM2ODM1NzU5.fAeFaHxkxHJ5mJql51zstSXQdDpfAwV1jl2G05U_KPUg.sYozkikkjuEs9_BsXOCTtvxCA47zkAlE7ieobvD3BzIg.JPEG/IF4h8WwOiqW5a4SfKlSbxL036GZE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[희대의 여성 살인마 탄생, <콜>의 배우 전종서는 누구? (씨네21 ─ feature)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30125931&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30125931&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEyMDFfMTQz/MDAxNjA2Nzg5MTQyMDM0.MJXbtF2NvEUFYRcbrjoCg-GMiBTx8waBhxGLccc7RBYg.M6V2StB2IRrYApvJD9mFdOuPv87MWrilSvFlR_c0Fnsg.JPEG/Ih_E-thsJhcW3W2lvwgXy0tuQas4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[8K로 찍고 8K로 보는 삼성 단편영화 <언택트>의 김지운 감독 인터뷰 (씨네21 ─ feature)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=29781397&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=29781397&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEwMjNfNzgg/MDAxNjAzNDQwNzQwODUx.VFJSnI2hQduDocqWKE8ROXx2fy4ovj20VFqpxolVuqEg.udPsBHDFxcHYw6y1CGPap_AzLm2aPny3RDWM0BjRjfsg.JPEG/IdlxxrzSV0uxyuMZFl2bDp3jKkxU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김지운 감독과 삼성전자의 8K 영화 도전기 (씨네21 ─ feature)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=29531662&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=29531662&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA5MjNfNCAg/MDAxNjAwODQ0Mzc1MTE0.Xr4Bq3eD8ydFv0AniVwhQEbZD6NT5p_NRvNQrnEs_u0g.cqQ2T7VxGpsrULQPhLrveyprxjt5alYKB0-p_jbKlSMg.JPEG/ILf34XsUcQ1B-EhyZbV0oleUfAEw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시간의 마술사, 크리스토퍼 놀란의 SF 감수성을 구현하다 (씨네21 ─ feature)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=29160467&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=29160467&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA4MjBfMjc3/MDAxNTk3OTAzMjI5NTIy.FwP886e5_vophkHsYPQCxhHIhxGQx23WtWoZwoXGoZAg.9hCnqtQ4izYDLsYzqWjfZ5itB_oXBJ54p-cptRD4Vxkg.JPEG/IjfoB2cXVgEhRrMCSwk2YiejTOlU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조영욱 음악감독의 엔니오 모리코네 추모 에세이 (씨네21 ─ feature)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=28876230&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28876230&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MjNfMTY3/MDAxNTk1NDg5MDQ4MDQy.Ytt2fmhOS5QU1oDibbNAo3jkB60ThEUA8epSW5xSREsg.lpCXz0i5LVIpijuIAczMMO97zgGplguaoWiEhFFqnEYg.JPEG/IQJiZL4BtkavF_80TqsLa_ZCYIGI.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개봉 박두! 당신의 예측은? <씨네21>의 선택 vs 아카데미의 선택 (씨네21 ─ feature)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=27446025&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=27446025&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDAyMDdfMjA2/MDAxNTgxMDQwODc1NjMy._M7mibTM6OV-vNxaVsBaMeekThwnflNSJoDPyuRK14cg.LdBzRkCOyly_RVsQF_UmoyRl66mOw2fIGxxeICudTawg.JPEG/IV77DB83r5Q3lLQhmoBuzItX9Yr8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드라마 <방법>, 십자가 없는 한국형 오컬트 드라마가 온다 (씨네21 ─ feature)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=27439245&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=27439245&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDAyMDZfMjUw/MDAxNTgwOTY2NzEzNzY1.k8zhoT4uAi0vzH6jt5C3ApVuWTgH_ozR3XwpubAy2tkg.30SoZoIBUmNNyHDtMZsLGIgjQx1uPeYbQ7nyh_VeUBog.JPEG/IoBRmwxMr-5yWW-tABOSxcBp59yI.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[캐치온에서 방영하는 범죄드라마 두편 <갓파더 오브 할렘> <프로디걸 선> (씨네21 ─ feature)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=27398342&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=27398342&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDAxMzFfOTEg/MDAxNTgwNDU2MTQ5Mzc2.4Jud0suVXHaszNwLEN-172NpaKrTJpkeWjuWZeuIyYUg.DqkKFxojxwpZgIGb-ksyibooK1PpfuY8tU1yBq9xXXUg.JPEG/IoF0lxoj1smW5xECwmfx8w2IGU7I.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뜨거웠던 영화인의 밤, BIFF NIGHT 현장 뒷이야기 (씨네21 ─ feature)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=26306925&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=26306925&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxOTEwMTBfMjg4/MDAxNTcwNjczNDg1ODI0.lP0Fha2dDK6KvEUDvmGarTluBaU7sHl6OgzQbuR_Yj0g.ypKuOVX7jPdf1FOvgp9IBuTaf5K8Jlb74TG7lY0yNvsg.JPEG/I16VMpUKu7_Ex80R2yxNAkyokUHE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[캐치온 국내 최초 독점 공개 DC 코믹스의 드라마 두편 <둠 패트롤> & <스웜프 씽> (씨네21 ─ feature)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=24485876&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=24485876&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxOTA5MDNfMTMx/MDAxNTY3NTAyNTI2NjI5.9fk5CVL1Yr0j1QoSbLw2glWplGQ7NGvZ5dtrSpGsI_cg.op5un2YdHQgzVkibDQIM9MWSBanISl05DJNiK6IfaAAg.JPEG/IsW3TudpgxxagQMPKgpJcLunwUbY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OCN 드라마틱 시네마 <타인은 지옥이다> 촬영 현장을 가다 (씨네21 ─ feature)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=23931532&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=23931532&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxOTA4MjNfMjMw/MDAxNTY2NTQ2OTUwODY0.PGwetppHfXwL-wLft8pqx-tC8ppyosMLw3Upi99Gh_Ug.nMmn7il90_yT1Pb92F2A-OpaxnHLYKZRyBpxzE0Gx7Eg.JPEG/I8htvXP6S7_NI_aWRE8miRWzYoGU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[덕질하는 주말! '코믹콘 서울 2019' 미리 보기 (씨네21 ─ feature)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=22776213&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=22776213&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxOTA3MjRfMTEg/MDAxNTYzOTQ2MjQyODcz.Vkijo-w8ozRa5FgwKFmDmETB8tIJXDkeMCR8wez6vd0g.MtIk5HL6Hb0Za95kCWAy1izeC8wN-PvahsOx6sYMhEgg.JPEG/IUw7K1o-dZp_ZCP4AENsDzKCVxeo.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전 세계 넷플릭스 시청자들 홀린 <브리저튼>의 레지 장 페이지, 그는 누구인가? (씨네21 ─ Who are you)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30572767&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30572767&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMjFfMjcy/MDAxNjExMTkzNzMyODc2.spBVUhxU2unqSQq_PyQWXK-OzdBYRjQ8OBeoEQVWmkog.eM03YBVxpE5hXo9LQcm8CKRZOc943mqYJB7kf0IfD0Ag.JPEG/Int8UvjAKaoLUgPxJN6v6GB4z4H8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<돈> 원진아 "그저 오랫동안 연기하고 싶다" (씨네21 ─ Who are you)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=18614668&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=18614668&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxOTAzMjZfNDUg/MDAxNTUzNTYzNzA4MzY2.PULeReFOA-V4A2XgZIrkvqT_U7rdM82tsVOXRSjbnqIg.QAD9iZVmhJG35sqlmioTrJQ4_E124PcA36E3847ACq8g.JPEG/IGPPdpBQ0p3vI9dpxPGN3DUp00hA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<쓰리 빌보드> 케일럽 랜드리 존스 - 위태로운 매력 (씨네21 ─ Who are you)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=14152253&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=14152253&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxODAzMjNfNzIg/MDAxNTIxNzkwMDg1NDA4.ru0K8zigv-DjADrhsT28tt7IVit1A3VcN23O84cH6DYg.QnlLBxitzeb0l4FUXUXIIQ_CxBSaWZKUXl4z_8Qp1D8g.JPEG/Izy7HqWQUin3AUCxAzlJDABOjRJ8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<영웅본색4> 왕카이 - 기꺼이 망가트린 얼굴 (씨네21 ─ Who are you)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=13912698&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=13912698&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxODAzMTZfMjM4/MDAxNTIxMTgxMzU2NDUz.EGNROb28ElTNCWjxwctT33EeV_rdpjAp1F2w0Dr6J6wg.kfKvL6snwl8loKDsLW9Kl4j6y9lo7GN5j0WwKm3_M3Yg.JPEG/IBZZhlL1L_B_5dPIeNXRAX8K1IBE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<나라타주> 아리무라 가스미 - 그 시절의 얼굴, 일본 여성의 현재 (씨네21 ─ Who are you)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=13682491&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=13682491&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxODAzMDlfNjgg/MDAxNTIwNTgzMTY3MDU5.zGs2sRAoDKYMdgdimL00WJPiyKAUlYGZFhAmzdrkxJsg.1Yj4HTFIOHQlIQGtwvOTVczSmxSUUVQJHVGi_3-b4Qog.JPEG/Iku8NiU6dlSFWAVCkuX5UsHbgvAY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<플로리다 프로젝트> 브루클린 프린스 - 눈을 뗄 수 없는 아이 (씨네21 ─ Who are you)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=13459661&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=13459661&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxODAzMDJfMTAw/MDAxNTE5OTgyMDA1NTAx.an4IK5F8TcyF6fc-X2b24XLrVvPjtLQg0wvrGITxG6cg.WEz1b-QSwjA_EANklp8-6eXY05KKO5XViJmDu7nQNOwg.JPEG/IdT8PtnoN-w9z0jX7hGQUKw-Z7J4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마블 시네마틱 유니버스(MCU) 내에서 가장 똑똑한 캐릭터는? (씨네21 ─ Who are you)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=13267079&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=13267079&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxODAyMjNfNzcg/MDAxNTE5MzcyMjA4Njc4.z0y7xa1s3TCiHJzc6AGZReta32XnppF54wWM1rZBAcUg.XfEmVtoFfoCutfsz-d_gpd9s1Tyrq8y9Gqgq9VNc3Mkg.JPEG/IAY6XJxHXY1XeC3aum329PJphlKM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<치즈인더트랩> '오영곤' 지윤호의 새로운 변신 (씨네21 ─ Who are you)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=12985408&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=12985408&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxODAyMTJfMTU5/MDAxNTE4NDI1MTM0Mzcw.gRBBEji2_c1x93yo3R2WQD2gjOwOS61XjU235zCviZsg.sBwZyPGNdLh4Xb7dQOyzwcZn5-lC_I3afC0CWLWnwKkg.JPEG/IdR5HW312eBQ347JNm7D3fdb1raU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<슬기로운 감빵생활> 이규형 "설경구 선배와 작품해보고 싶다" (씨네21 ─ Who are you)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=12761388&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=12761388&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxODAyMDVfMjE5/MDAxNTE3NzkxNzUzMTIz.5LzCZ_GsSKUambnR-RNZTP3KmQW0EbdUXDZPG3knX2wg.ANIfDk97O0rno7BQG4-sxg0aXUEGa_lvbVAVOsizzYYg.JPEG/Ixyp4ibvaQ34l8BiRjngJSkGFe5E.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<메이즈 러너: 데스 큐어>의 행동대장, 로사 살라사르 (씨네21 ─ Who are you)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=12264335&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=12264335&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMTlfNTkg/MDAxNTE2MzQwODcxOTIz.7wZdlzECPDK9fj4IKufNySprOnkjJ9GR6trXz8e7ldMg.qcU24CoIK8TYm3rvw9Rj6e3Fn9M28Jl6_Pj_moStC9cg.JPEG/I_t8yJAoiq1hU79RSBkVm4ScZb7U.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<킹스맨: 골든 서클> 에이전트 위스키, 페드로 파스칼 (씨네21 ─ Who are you)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=9790325&amp;memberNo=15205863&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=9790325&amp;memberNo=15205863&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Aug 2021 10:31:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">씨네21</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxNzA5MjZfMTUy/MDAxNTA2NDE3OTkxMzQy.pov2zDycCfuVDQgzpMQNKmoKWSiA5ngZuwdF6DIhEsgg.D9tMtuFBK_iGnoeHy0WfpDKzt1PwI0SxQdpl6volGwAg.JPEG/Ih27a7Xo73DgKbgArk1_lky6Zqyc.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
