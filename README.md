@@ -16,3 +16,9 @@ https://moviecord.github.io/feeds/navertv_moviepreview.xml
 ## 씨네21
 https://moviecord.github.io/feeds/naverpost_cine21_review.xml  
 https://moviecord.github.io/feeds/naverpost_cine21_news.xml  
+https://moviecord.github.io/feeds/naverpost_cine21_view.xml  
+https://moviecord.github.io/feeds/naverpost_cine21_feature.xml  
+https://moviecord.github.io/feeds/naverpost_cine21_whoareyou.xml  
+https://moviecord.github.io/feeds/naverpost_cine21_foreignnews.xml  
+https://moviecord.github.io/feeds/naverpost_cine21_coverstar.xml  
+https://moviecord.github.io/feeds/naverpost_cine21_interview.xml  
