@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Aug 2021 02:33:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 09:55:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.07.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F232a8d6e902c63036bbe2ae327d57e82585a639f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[귀문]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151323</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151323</guid>
+            <pubDate>Wed, 25 Aug 2021 00:46:51 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1ea7826f4d66e1f7013c4581d73981e06a496d01" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[싱크홀]]></title>
@@ -64,22 +72,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F66c754624aca8e6f9ae303ffe4216bbf59ac31a0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[귀문]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151323</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151323</guid>
-            <pubDate>Wed, 25 Aug 2021 00:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1ea7826f4d66e1f7013c4581d73981e06a496d01" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[프리 가이]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=131277</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=131277</guid>
-            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb83ce3cb29a492a800a4c18c0c168987ecc21e43" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[아이스 로드]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150693</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150693</guid>
@@ -104,12 +96,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44cff9be3a13f0cf1746357f7d4dd58f248f5f2c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[레미니센스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151315</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151315</guid>
-            <pubDate>Wed, 25 Aug 2021 00:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3b72c91d5a32de281ff8224830482a733df9cd68" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[프리 가이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=131277</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=131277</guid>
+            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb83ce3cb29a492a800a4c18c0c168987ecc21e43" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[퍼피 구조대 더 무비]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151320</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151320</guid>
+            <pubDate>Tue, 17 Aug 2021 23:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcddfc4c347466a3f1960fb480cdfa1a57d1835ff" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[드림걸즈]]></title>
@@ -120,14 +120,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4f98bccfb72790b319d30d2fa4303cd49eda578" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[귀신]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=142522</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=142522</guid>
-            <pubDate>Wed, 25 Aug 2021 00:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ea87dc38b521afffb78d3ede90c8f080e413108" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[자마]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=114771</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=114771</guid>
@@ -136,12 +128,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F59dc5878cbd995a1b68d2e175baae4c02ed24f47" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[퍼피 구조대 더 무비]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151320</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151320</guid>
-            <pubDate>Tue, 17 Aug 2021 23:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcddfc4c347466a3f1960fb480cdfa1a57d1835ff" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[레미니센스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151315</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151315</guid>
+            <pubDate>Wed, 25 Aug 2021 00:46:51 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3b72c91d5a32de281ff8224830482a733df9cd68" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[올드]]></title>
@@ -160,12 +152,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8c183d3a3ac7d926c9aac443a650211a7e5494f4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 페이트/그랜드 오더 신성원탁영역 카멜롯 팔라딘; 아가트람]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150453</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150453</guid>
-            <pubDate>Mon, 30 Aug 2021 12:23:24 GMT</pubDate>
+            <title><![CDATA[블랙 위도우]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=123215</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=123215</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:52 GMT</pubDate>
+            <content:encoded><![CDATA[21.07.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff39274b0acd76f7c66f0a5fb9e5b7222ed37b373" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[다이노 마이 프렌드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151976</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151976</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:52 GMT</pubDate>
             <content:encoded><![CDATA[21.08.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb466e8c626f9f77e033ed7a6023d82568d327ef6" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F93349a89d113d410c0d3a697da856283e5cbea78" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
