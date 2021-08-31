@@ -16,24 +16,3 @@ https://moviecord.github.io/feeds/navertv_moviepreview.xml
 ## 씨네21
 https://moviecord.github.io/feeds/naverpost_cine21_review.xml  
 https://moviecord.github.io/feeds/naverpost_cine21_news.xml  
-
-## 이벤트
-**CGV**  
-https://moviecord.github.io/feeds/cgv_event_special.xml  
-https://moviecord.github.io/feeds/cgv_event_reservation.xml  
-https://moviecord.github.io/feeds/cgv_event_membership.xml  
-https://moviecord.github.io/feeds/cgv_event_theather.xml  
-https://moviecord.github.io/feeds/cgv_event_partnership.xml  
-
-**MEGABOX**  
-https://moviecord.github.io/feeds/megabox_event_pick.xml  
-https://moviecord.github.io/feeds/megabox_event_movie.xml  
-https://moviecord.github.io/feeds/megabox_event_theater.xml  
-https://moviecord.github.io/feeds/megabox_event_promotion.xml  
-https://moviecord.github.io/feeds/megabox_event_curtaincall.xml  
-
-**LOTTE CINEMA**  
-https://moviecord.github.io/feeds/lottecinema_event_movie.xml  
-https://moviecord.github.io/feeds/lottecinema_event_curtaincall.xml  
-https://moviecord.github.io/feeds/lottecinema_event_hot.xml  
-https://moviecord.github.io/feeds/lottecinema_event_promotion.xml  
