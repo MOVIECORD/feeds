@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=50</id>
-    <title>롯데시네마 ─ 이벤트 ─ 제휴할인</title>
-    <updated>2021-08-31T02:33:08.592Z</updated>
+    <id>https://event.lottecinema.co.kr/NLCHS/Event/NearCinemaList</id>
+    <title>롯데시네마 ─ 이벤트 ─ 우리동네 영화관</title>
+    <updated>2021-08-31T02:33:08.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://event.lottecinema.co.kr/NLCHS/Event/favicon.ico</icon>
 </feed>
