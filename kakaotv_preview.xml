@@ -4,9 +4,25 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Sep 2021 03:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 04:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<죽을 때까지> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/421981430?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/421981430?act=clip</guid>
+            <pubDate>Wed, 01 Sep 2021 04:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:43]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F207494850%2Fthumb%2F20210901131631" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<죽을 때까지> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/421981365?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/421981365?act=clip</guid>
+            <pubDate>Wed, 01 Sep 2021 04:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F314057250%2Fthumb%2F20210901131411" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<극장판 포켓몬스터: 정글의 아이, 코코> 성우 인터뷰 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/421978314?act=clip</link>
@@ -157,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/421947522?act=clip</guid>
             <pubDate>Tue, 31 Aug 2021 02:25:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:59]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvciwz5y3fi036d4rgy36pybd%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33187281269%26signature%3DIcnDWVHcQ%252FyjCmASXp%252BvrXZ3YDQ%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvciwz5y3fi036d4rgy36pybd%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33187281269%26signature%3DIcnDWVHcQ%252FyjCmASXp%252BvrXZ3YDQ%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<맨 인 더 다크 2> 눈 먼 노인의 공포 참교육 영상]]></title>
@@ -165,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/421947323?act=clip</guid>
             <pubDate>Tue, 31 Aug 2021 02:25:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:02]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvunzlofsia82xj1kcpo0l61p%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33187280802%26signature%3Dq4ru8FF5yT4Fxr0oD5O7CkCfEmU%253D%26ts%3D1630372002" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvunzlofsia82xj1kcpo0l61p%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33187280802%26signature%3Dq4ru8FF5yT4Fxr0oD5O7CkCfEmU%253D%26ts%3D1630372002" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<너의 이름은.> [재개봉]  4K UHD 예고편]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 30 Aug 2021 01:55:57 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:45]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvlautwmtgsru0ooc9f8s99ri%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33187197063%26signature%3DjhyJEk6b5prxAwZ3TM8H8QpbwC4%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<위기의 주부> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/421920056?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/421920056?act=clip</guid>
-            <pubDate>Mon, 30 Aug 2021 01:55:57 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:45]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv07xabvn8aka8n4fwl6p7r2w%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33187196744%26signature%3DnOgrpUd%252FVBwSexnKQVImLX0TVNo%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<캔디맨> 캔디맨 소환영상 2탄]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/421855231?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/421855231?act=clip</guid>
-            <pubDate>Fri, 27 Aug 2021 09:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:25]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjw4v76v9xlbe1ic6nd1pjh2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33186962368%26signature%3DiQGdfE5N7rCKs6D%252BdqK7gzUIsmY%253D" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
