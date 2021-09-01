@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Sep 2021 08:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 09:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,20 +96,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F965123230f391d29a64d4550a8d0d30294dccec7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[건파우더 밀크셰이크]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=135748</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=135748</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F261ebc042837ab44d41ba35f3da5f2dae32d0057" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[조제, 호랑이 그리고 물고기들]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143745</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143745</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:00 GMT</pubDate>
             <content:encoded><![CDATA[21.09.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe2ff8b38110eda9b9f59c7d61e9c5deff883d2c0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[건파우더 밀크셰이크]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135748</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135748</guid>
+            <pubDate>Tue, 31 Aug 2021 09:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F261ebc042837ab44d41ba35f3da5f2dae32d0057" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아리아 : 디 아베니레]]></title>
