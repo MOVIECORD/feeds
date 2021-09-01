@@ -4,15 +4,71 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Sep 2021 07:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 08:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['바바 야가 검은 가시 마녀' 예고편]]></title>
+            <link>https://tv.naver.com/v/22197419</link>
+            <guid>https://tv.naver.com/v/22197419</guid>
+            <pubDate>Wed, 01 Sep 2021 08:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[4분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210901_25/Iaag9_1630484002335dgAG0_JPEG/60c45a96-0afc-11ec-9845-505dacfbaa5c_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['불청객들' 예고편]]></title>
+            <link>https://tv.naver.com/v/22197257</link>
+            <guid>https://tv.naver.com/v/22197257</guid>
+            <pubDate>Wed, 01 Sep 2021 08:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[9분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210901_23/5KFn5_1630483755404pS8HX_JPEG/ab409c92-0afb-11ec-89ce-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['임모탈-불멸의 전사' 예고편]]></title>
+            <link>https://tv.naver.com/v/22197084</link>
+            <guid>https://tv.naver.com/v/22197084</guid>
+            <pubDate>Wed, 01 Sep 2021 08:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[13분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210901_141/t9Boy_16304834623446Qnlu_JPEG/24242445-0afb-11ec-89ce-48df379ccacc_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['습도 다소 높음' KCU 영상]]></title>
+            <link>https://tv.naver.com/v/22196748</link>
+            <guid>https://tv.naver.com/v/22196748</guid>
+            <pubDate>Wed, 01 Sep 2021 08:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[21분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210901_84/DkoL5_1630482979861bkOlC_JPEG/05eafa91-0afa-11ec-89ce-48df379ccacc_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['유물의 저주' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/22196709</link>
+            <guid>https://tv.naver.com/v/22196709</guid>
+            <pubDate>Wed, 01 Sep 2021 08:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[23분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210901_154/YFEsK_1630482921641JPv0F_JPEG/e03c381d-0af9-11ec-8678-48df379cca40_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['남권: 영웅쟁패' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/22196680</link>
+            <guid>https://tv.naver.com/v/22196680</guid>
+            <pubDate>Wed, 01 Sep 2021 08:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[23분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210901_75/DIzxA_1630482880029wHu0n_JPEG/b2ef3ba0-0af9-11ec-89ce-48df379ccacc_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['캔디맨' '그의 이름을 불러봐' 영상]]></title>
+            <link>https://tv.naver.com/v/22196673</link>
+            <guid>https://tv.naver.com/v/22196673</guid>
+            <pubDate>Wed, 01 Sep 2021 08:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[23분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210901_152/QtrxV_1630482872461tED3j_JPEG/8e3adfb5-0af9-11ec-8678-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['극장판 포켓몬스터: 정글의 아이, 코코' 성우 인터뷰 영상]]></title>
             <link>https://tv.naver.com/v/22194671</link>
             <guid>https://tv.naver.com/v/22194671</guid>
             <pubDate>Wed, 01 Sep 2021 07:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[20분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210901_2/8goPT_16304793486310tg05_JPEG/6c1208c0-0af1-11ec-b6bf-48df379cc9e4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +76,7 @@
             <link>https://tv.naver.com/v/22194085</link>
             <guid>https://tv.naver.com/v/22194085</guid>
             <pubDate>Wed, 01 Sep 2021 07:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[42분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210901_16/Fq93e_1630478023279N7RkN_JPEG/6c33c8be-0aee-11ec-809b-a0369ff94ed0_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +84,7 @@
             <link>https://tv.naver.com/v/22188268</link>
             <guid>https://tv.naver.com/v/22188268</guid>
             <pubDate>Wed, 01 Sep 2021 03:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210901_255/es3f7_1630461820895qeoMX_JPEG/1630461749579.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +92,7 @@
             <link>https://tv.naver.com/v/22186938</link>
             <guid>https://tv.naver.com/v/22186938</guid>
             <pubDate>Wed, 01 Sep 2021 02:02:35 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210901_267/ghAHO_1630457698601y5iXP_JPEG/ff5c5dde-0abe-11ec-b778-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +100,7 @@
             <link>https://tv.naver.com/v/22186801</link>
             <guid>https://tv.naver.com/v/22186801</guid>
             <pubDate>Wed, 01 Sep 2021 00:53:49 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210901_20/d094i_1630457018433D2SdA_JPEG/485c558a-0abd-11ec-86ec-48df37ae3fca_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +108,7 @@
             <link>https://tv.naver.com/v/22170220</link>
             <guid>https://tv.naver.com/v/22170220</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:33 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_76/gI2ye_1630397087718V4Nf6_JPEG/dfdc88ab-0a31-11ec-82ff-505dac8c385b_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +116,7 @@
             <link>https://tv.naver.com/v/22170004</link>
             <guid>https://tv.naver.com/v/22170004</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:33 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_82/ExFd7_1630396562150XSNhD_JPEG/84beb00b-0a30-11ec-9b63-505dacfba98a_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +124,7 @@
             <link>https://tv.naver.com/v/22169951</link>
             <guid>https://tv.naver.com/v/22169951</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:33 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_25/mP15q_1630396438483VTmdw_PNG/1630396425901.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -76,7 +132,7 @@
             <link>https://tv.naver.com/v/22168855</link>
             <guid>https://tv.naver.com/v/22168855</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:33 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_20/R1pRf_1630394449119HN85g_JPEG/9852d76d-0a2b-11ec-8c9c-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -172,7 +228,7 @@
             <link>https://tv.naver.com/v/22145957</link>
             <guid>https://tv.naver.com/v/22145957</guid>
             <pubDate>Mon, 30 Aug 2021 09:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210830_97/ATg7j_1630309667135Nqqdi_JPEG/44c1abbe-0966-11ec-9b63-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -190,62 +246,6 @@
             <pubDate>Mon, 30 Aug 2021 09:15:31 GMT</pubDate>
             <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210830_138/eeoLH_1630305606918oYXWt_JPEG/be79b0da-095c-11ec-af84-246e963a49a8_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['종착역' 영상 에세이 1탄]]></title>
-            <link>https://tv.naver.com/v/22143332</link>
-            <guid>https://tv.naver.com/v/22143332</guid>
-            <pubDate>Mon, 30 Aug 2021 09:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210830_21/iIXh8_1630304027258dIzTa_JPEG/37afcc4a-0959-11ec-93f2-a0369ff95ec0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['샹치와 텐 링즈의 전설' 본격 샹치 영업 영상]]></title>
-            <link>https://tv.naver.com/v/22142759</link>
-            <guid>https://tv.naver.com/v/22142759</guid>
-            <pubDate>Mon, 30 Aug 2021 09:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210830_190/6hYs1_16303027319696jYry_JPEG/44a9aa52-0956-11ec-b835-505dac8c3607_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['꿈꾸는 고양이' 출연묘 캐릭터 영상]]></title>
-            <link>https://tv.naver.com/v/22142525</link>
-            <guid>https://tv.naver.com/v/22142525</guid>
-            <pubDate>Mon, 30 Aug 2021 09:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210830_13/eK4L0_1630302227609vpCPg_JPEG/3133efba-0955-11ec-8678-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['샹치와 텐 링즈의 전설' NEXT LEVEL 영상]]></title>
-            <link>https://tv.naver.com/v/22142519</link>
-            <guid>https://tv.naver.com/v/22142519</guid>
-            <pubDate>Mon, 30 Aug 2021 09:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210830_260/Z3cuK_1630302210197MIfd0_JPEG/c3bd5233-0954-11ec-89ce-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['공작조: 현애지상' 런칭 예고편]]></title>
-            <link>https://tv.naver.com/v/22142508</link>
-            <guid>https://tv.naver.com/v/22142508</guid>
-            <pubDate>Mon, 30 Aug 2021 09:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210830_163/cAxay_1630302193590QWRIO_JPEG/1b3e23fc-0955-11ec-86ec-48df37ae3fca_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['죽을 때까지' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/22142489</link>
-            <guid>https://tv.naver.com/v/22142489</guid>
-            <pubDate>Mon, 30 Aug 2021 09:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210830_243/szfjt_1630302160295OsweM_JPEG/0813d460-0955-11ec-b6bf-48df379cc9e4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['극장판 포켓몬스터: 정글의 아이, 코코' 정글의 아이 MV]]></title>
-            <link>https://tv.naver.com/v/22141955</link>
-            <guid>https://tv.naver.com/v/22141955</guid>
-            <pubDate>Mon, 30 Aug 2021 09:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210830_244/AmjMz_1630300753635XFjG0_JPEG/9ed4316d-0951-11ec-9845-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
