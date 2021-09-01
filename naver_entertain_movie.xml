@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-01T12:24:37.491Z</updated>
+    <updated>2021-09-01T13:22:22.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['메이드 인 루프탑', 홍콩 레즈비언&게이 영화제 개막작 선정]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000813458</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000813458"/>
+        <updated>2021-09-01T13:21:07.346Z</updated>
+        <content type="html"><![CDATA[웰메이드 퀴어 영화로 언론과 평단, 관객들의 극찬을 받아온 영화 '메이드 인 루프탑'이 제32회 HKLGFF(Hong Kong Lesbian and Gay Film Festival) 개막작으로 선정됐다. 대한민국 대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조석봉 일병부터 황장수 병장까지, 'D.P.'를 빛낸 명품 조연 5인]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000045259</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001342340"/>
         <updated>2021-09-01T08:17:40.474Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 강현진 인턴기자) 영화 '습도 다소 높음'이 리뷰 포스터와 관전포인트를 공개했다. '습도 다소 높음'은 극한의 습도가 엄습해온 어느 여름날, 에어컨을 꺼버린 극장에서 벌어지는 이야기를 담은 현실 공감]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인질' 이규원, 배우 황정민 납치한 빌런…좌중 압도하는 포스]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004466974</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004466974"/>
-        <updated>2021-09-01T08:17:40.476Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '인질'이 배우 이규원의 캐릭터 스틸을 최초 공개했다. 개봉 이후 14일째 박스오피스 1위를 달성하며 올해 첫 스릴러 영화 100만 돌파의 기록까지 세운 영화 '인질'(감독 필감성, 배]]></content>
     </entry>
 </feed>
