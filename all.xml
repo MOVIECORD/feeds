@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Sep 2021 16:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 17:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -335,12 +335,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff39274b0acd76f7c66f0a5fb9e5b7222ed37b373" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[그린 나이트 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=139183</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=139183</guid>
-            <pubDate>Wed, 01 Sep 2021 15:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6dd33309d1b1b3a9e3aa6e65ddf1ebe229433eb3" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[남색대문 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=44893</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=44893</guid>
+            <pubDate>Wed, 01 Sep 2021 17:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F17149b5f9a248e4e6e0fe88b5cd2fe99ecc8e2a1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[바쿠라우 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -559,20 +559,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F01%2Fmydaily%2F20210901145806292eljc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["저걸 배우가 했다고?"..'보이스' 변요한, 온 몸 내던진 리얼 액션 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210831095108332</link>
-            <guid>https://movie.v.daum.net/v/20210831095108332</guid>
-            <pubDate>Wed, 01 Sep 2021 00:53:24 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이승미 기자]영화 '보이스'(김선·김곡 감독, 수필름 제작)가 변요한의 액션 비하인드와 함께 액션 스틸을 공개했다. 변요한은 '보이스'의 큰 컨셉이었던 리얼함을 액션에서도 담아내기 위해 무술감독과 크랭크인 전부터 하드 트레이닝으로 액션을 준비했다. 모든 것을 잃고 본거지에 잠입한 피해자 한서준 역을 맡은 만큼 그 절실함과 처절함]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2FSpoChosun%2F20210831095108442mtjk.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['모가디슈' 300만.. 가능성과 한계 확인한 여름 극장가 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210901155930876</link>
             <guid>https://movie.v.daum.net/v/20210901155930876</guid>
             <pubDate>Wed, 01 Sep 2021 08:18:04 GMT</pubDate>
             <content:encoded><![CDATA[나쁘지 않다. 좋다고 할 수도 없다. 지난 여름 극장가에 대한 영화계 시선이다. 신종 코로나바이러스 감염증(코로나19) 확산 속에서 가능성과 한계를 동시에 확인했기 때문이다. 화제작들이 어렵사리 개봉해 관객과 만나 극장의 존재감을 새삼 인식시켜줬지만, 코로나19라는 높은 장애물을 체감하기도 했다. '모가디슈’ 등 대작 개봉 물꼬 터 지난여름 극장가를 찾은]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F01%2Fhankooki%2F20210901155934229cgmp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["저걸 배우가 했다고?"..'보이스' 변요한, 온 몸 내던진 리얼 액션 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210831095108332</link>
+            <guid>https://movie.v.daum.net/v/20210831095108332</guid>
+            <pubDate>Wed, 01 Sep 2021 00:53:24 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자]영화 '보이스'(김선·김곡 감독, 수필름 제작)가 변요한의 액션 비하인드와 함께 액션 스틸을 공개했다. 변요한은 '보이스'의 큰 컨셉이었던 리얼함을 액션에서도 담아내기 위해 무술감독과 크랭크인 전부터 하드 트레이닝으로 액션을 준비했다. 모든 것을 잃고 본거지에 잠입한 피해자 한서준 역을 맡은 만큼 그 절실함과 처절함]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202108%2F31%2FSpoChosun%2F20210831095108442mtjk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[오늘 개봉 '맨 인 더 다크2' 관람 포인트 TOP3! (다음영화 뉴스 ─ 인기)]]></title>
@@ -615,12 +615,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F01%2Fhankooki%2F20210901073005836mzip.gif" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['모가디슈'·'싱크홀' 손익분기점 돌파..'기적'·'보이스' 추석 흥행 노린다[SS무비] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210901082001240</link>
-            <guid>https://movie.v.daum.net/v/20210901082001240</guid>
-            <pubDate>Wed, 01 Sep 2021 00:53:24 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 김선우기자] 최근 개봉작들이 연이어 손익분기점을 넘기며 기분 좋은 동행을 이어가고 있다. 최근 영화 ‘모가디슈(류승완 감독)’가 누적관객수 300만을 돌파하며 ‘블랙위도우’를 넘어서고, 올해 개봉작 중 최고 흥행작에 올랐다. 뿐만 아니라 손익분기점도 돌파하며 기분 좋은 쾌거를 이뤄냈다. ‘모가디슈’는 모로코 올로케이션이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F01%2FSPORTSSEOUL%2F20210901082002310icsf.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['습도 다소 높음' 현실적 소재→아찔한 설정+따듯한 위로..관람포인트 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210901164348604</link>
+            <guid>https://movie.v.daum.net/v/20210901164348604</guid>
+            <pubDate>Wed, 01 Sep 2021 13:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 강현진 인턴기자) 영화 '습도 다소 높음'이 리뷰 포스터와 관전포인트를 공개했다.&nbsp; '습도 다소 높음'은 극한의 습도가 엄습해온 어느 여름날, 에어컨을 꺼버린 극장에서 벌어지는 이야기를 담은 현실 공감 땀샘개방 코미디다. 공개된 리뷰 포스터는 마스크를 움켜쥔 손과 '이제는 벗고 싶다'라는 카피로 주목받았던 티저 포스터의 이미지 위에 언론과]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F01%2Fxportsnews%2F20210901164349824wfjf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["서른일곱에 떠난 별" 故장진영 12주기..영원히 기억될 이름 [Oh!쎈 레터] (다음영화 뉴스 ─ 인기)]]></title>
@@ -631,20 +631,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F01%2Fpoctan%2F20210901084704101asns.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['습도 다소 높음' 현실적 소재→아찔한 설정+따듯한 위로..관람포인트 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210901164348604</link>
-            <guid>https://movie.v.daum.net/v/20210901164348604</guid>
-            <pubDate>Wed, 01 Sep 2021 13:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 강현진 인턴기자) 영화 '습도 다소 높음'이 리뷰 포스터와 관전포인트를 공개했다.&nbsp; '습도 다소 높음'은 극한의 습도가 엄습해온 어느 여름날, 에어컨을 꺼버린 극장에서 벌어지는 이야기를 담은 현실 공감 땀샘개방 코미디다. 공개된 리뷰 포스터는 마스크를 움켜쥔 손과 '이제는 벗고 싶다'라는 카피로 주목받았던 티저 포스터의 이미지 위에 언론과]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F01%2Fxportsnews%2F20210901164349824wfjf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[침수된 도시, 땅에 사는 부자들.. 이 영화가 아쉬운 이유 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210901113601222</link>
             <guid>https://movie.v.daum.net/v/20210901113601222</guid>
             <pubDate>Wed, 01 Sep 2021 09:15:02 GMT</pubDate>
             <content:encoded><![CDATA[[원종빈 기자] ▲ &nbsp;영화 &lt;레미니센스&gt; 관련 이미지.    ⓒ 워너브러더스 코리아  &nbsp;*이 기사에는 스포일러가 포함돼 있습니다.&nbsp; 해수면이 상승해 도시의 절반이 바다에 잠긴 근미래. 퇴역 군인인 '닉(휴 잭맨)'은 동료 '와츠(탠디 뉴튼)'와 함께&nbsp;사람들의 추억을 다시 체험하게 해주는 기계를 운영하며 지낸다. 특히 기계와 기억들의 안내자인&nbsp;]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F01%2Fohmynews%2F20210901113601916yxfy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['모가디슈'·'싱크홀' 손익분기점 돌파..'기적'·'보이스' 추석 흥행 노린다[SS무비] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210901082001240</link>
+            <guid>https://movie.v.daum.net/v/20210901082001240</guid>
+            <pubDate>Wed, 01 Sep 2021 00:53:24 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 김선우기자] 최근 개봉작들이 연이어 손익분기점을 넘기며 기분 좋은 동행을 이어가고 있다. 최근 영화 ‘모가디슈(류승완 감독)’가 누적관객수 300만을 돌파하며 ‘블랙위도우’를 넘어서고, 올해 개봉작 중 최고 흥행작에 올랐다. 뿐만 아니라 손익분기점도 돌파하며 기분 좋은 쾌거를 이뤄냈다. ‘모가디슈’는 모로코 올로케이션이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F01%2FSPORTSSEOUL%2F20210901082002310icsf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['샹치와 텐 링즈의 전설' 압도적 예매 1위 속 오늘 전세계 최초 개봉! (다음영화 뉴스 ─ 인기)]]></title>
@@ -995,7 +995,7 @@
             <link>https://tv.naver.com/v/22197419</link>
             <guid>https://tv.naver.com/v/22197419</guid>
             <pubDate>Wed, 01 Sep 2021 08:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210901_25/Iaag9_1630484002335dgAG0_JPEG/60c45a96-0afc-11ec-9845-505dacfbaa5c_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1003,7 +1003,7 @@
             <link>https://tv.naver.com/v/22197257</link>
             <guid>https://tv.naver.com/v/22197257</guid>
             <pubDate>Wed, 01 Sep 2021 08:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210901_23/5KFn5_1630483755404pS8HX_JPEG/ab409c92-0afb-11ec-89ce-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1011,7 +1011,7 @@
             <link>https://tv.naver.com/v/22197084</link>
             <guid>https://tv.naver.com/v/22197084</guid>
             <pubDate>Wed, 01 Sep 2021 08:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210901_141/t9Boy_16304834623446Qnlu_JPEG/24242445-0afb-11ec-89ce-48df379ccacc_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1019,7 +1019,7 @@
             <link>https://tv.naver.com/v/22196748</link>
             <guid>https://tv.naver.com/v/22196748</guid>
             <pubDate>Wed, 01 Sep 2021 08:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210901_84/DkoL5_1630482979861bkOlC_JPEG/05eafa91-0afa-11ec-89ce-48df379ccacc_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1027,7 +1027,7 @@
             <link>https://tv.naver.com/v/22196709</link>
             <guid>https://tv.naver.com/v/22196709</guid>
             <pubDate>Wed, 01 Sep 2021 08:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210901_154/YFEsK_1630482921641JPv0F_JPEG/e03c381d-0af9-11ec-8678-48df379cca40_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1035,7 +1035,7 @@
             <link>https://tv.naver.com/v/22196680</link>
             <guid>https://tv.naver.com/v/22196680</guid>
             <pubDate>Wed, 01 Sep 2021 08:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210901_75/DIzxA_1630482880029wHu0n_JPEG/b2ef3ba0-0af9-11ec-89ce-48df379ccacc_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1043,7 +1043,7 @@
             <link>https://tv.naver.com/v/22196673</link>
             <guid>https://tv.naver.com/v/22196673</guid>
             <pubDate>Wed, 01 Sep 2021 08:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210901_152/QtrxV_1630482872461tED3j_JPEG/8e3adfb5-0af9-11ec-8678-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1051,7 +1051,7 @@
             <link>https://tv.naver.com/v/22194671</link>
             <guid>https://tv.naver.com/v/22194671</guid>
             <pubDate>Wed, 01 Sep 2021 07:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210901_2/8goPT_16304793486310tg05_JPEG/6c1208c0-0af1-11ec-b6bf-48df379cc9e4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1059,7 +1059,7 @@
             <link>https://tv.naver.com/v/22194085</link>
             <guid>https://tv.naver.com/v/22194085</guid>
             <pubDate>Wed, 01 Sep 2021 07:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210901_16/Fq93e_1630478023279N7RkN_JPEG/6c33c8be-0aee-11ec-809b-a0369ff94ed0_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1067,7 +1067,7 @@
             <link>https://tv.naver.com/v/22188268</link>
             <guid>https://tv.naver.com/v/22188268</guid>
             <pubDate>Wed, 01 Sep 2021 03:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210901_255/es3f7_1630461820895qeoMX_JPEG/1630461749579.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1075,7 +1075,7 @@
             <link>https://tv.naver.com/v/22186938</link>
             <guid>https://tv.naver.com/v/22186938</guid>
             <pubDate>Wed, 01 Sep 2021 02:02:35 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210901_267/ghAHO_1630457698601y5iXP_JPEG/ff5c5dde-0abe-11ec-b778-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1083,7 +1083,7 @@
             <link>https://tv.naver.com/v/22186801</link>
             <guid>https://tv.naver.com/v/22186801</guid>
             <pubDate>Wed, 01 Sep 2021 00:53:49 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210901_20/d094i_1630457018433D2SdA_JPEG/485c558a-0abd-11ec-86ec-48df37ae3fca_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
