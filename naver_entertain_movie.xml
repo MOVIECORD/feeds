@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-01T11:13:48.168Z</updated>
+    <updated>2021-09-01T12:24:37.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조석봉 일병부터 황장수 병장까지, 'D.P.'를 빛낸 명품 조연 5인]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000045259</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000045259"/>
+        <updated>2021-09-01T12:23:09.576Z</updated>
+        <content type="html"><![CDATA[한국 병영 문화의 고통스러운 한 단면을 들여다보는 넷플릭스 오리지널 가 연일 화제다. 한국을 비롯한 아시아의 많은 국가들도 인기 있는 배우들의 모습뿐만 아니라 드라마가 다루는 메시지에 공감한다. 물론 작품의 밀도 있]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서로를 연결하고 지키는 따뜻한 금융…개성 넘치는 작품 몰렸다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004598941</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004598941"/>
         <updated>2021-09-01T10:17:07.711Z</updated>
-        <content type="html"><![CDATA[“엄마 뭐해?” “통장에 적금하지.” 어린 딸이 묻자 엄마는 이렇게 답한다. 그런데 엄마가 지금 하고 있는 일은 통장에 직접 돈을 넣는 일이 아니다. 분리수거 하기, 종이가방 대신 천가방으로 장 보러 가기, 종이컵]]></content>
+        <content type="html"><![CDATA[“엄마 뭐해?” “통장에 적금하지.” 어린 딸이 묻자 엄마는 이렇게 답한다. 그런데 엄마가 지금 하고 있는 일은 통장에 직접 돈을 넣는 일이 아니다. 분리배출 하기, 종이가방 대신 천가방으로 장 보러 가기, 종이컵]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[손석구, '학폭 목격설'→'허위사실' 법적 대응..발빠른 대처 [★NEWSing] [종합]]]></title>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004466974"/>
         <updated>2021-09-01T08:17:40.476Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '인질'이 배우 이규원의 캐릭터 스틸을 최초 공개했다. 개봉 이후 14일째 박스오피스 1위를 달성하며 올해 첫 스릴러 영화 100만 돌파의 기록까지 세운 영화 '인질'(감독 필감성, 배]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미션7' 제작사, 보험사 1000억대 소송.."코로나로 촬영 지연"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002985344</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002985344"/>
-        <updated>2021-09-01T08:17:40.478Z</updated>
-        <content type="html"><![CDATA[영화 '미션 임파서블7' 제작사 파라마운트가 보험사를 상대로 1억 달러(한화 약 1160억원) 규모의 보험금 청구 소송을 제기했다. 8월 31일(현지시각 기준) 가디언즈 등 매체에 따르면 '미션 임파서블7' 제작사]]></content>
     </entry>
 </feed>
