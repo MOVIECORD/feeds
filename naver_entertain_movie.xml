@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-02T12:24:50.839Z</updated>
+    <updated>2021-09-02T13:23:04.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘보이스’ 변요한 “요즘 백신 예약 문자로도 보이스피싱, 조심해야”(V라이브)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000485847</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000485847"/>
+        <updated>2021-09-02T13:21:31.357Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 서유나 기자] 변요한이 좀 더 영악해진 보이스피싱 수법을 전했다. 9월 2일 네이버 V MOVIE 채널에서 방송된 영화 '보이스'(감독 김선·김곡)의 무비토크 라이브에서는 배우 변요한, 김무열, 박명훈, 이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['보이스' 변요한, 김무열 열연에 셔터 찢어…"배우란 직업이 자랑스럽다 느낀 작품" [V라이브]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001193960</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001193960"/>
+        <updated>2021-09-02T13:21:31.360Z</updated>
+        <content type="html"><![CDATA[변요한이 셔터를 찢은 이유로 김무열을 지목했다. 영화 '보이스'의 주역 변요한, 김무열, 박명훈, 이주영이 2일 오후 네이버 무비토크 라이브를 통해 관객들을 만났다. MC는 박경림이 맡았다. '보이스'는 보이스피싱]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘보이스’ 김무열 “변요한, 액션신 중 몸으로 셔터문 뚫어”(V라이브)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000485844</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005580223"/>
         <updated>2021-09-02T09:15:17.054Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 이연희가 처음으로 연극 무대에 도전한다. 2일 소속사 VAST엔터테인먼트에 따르면 이연희가 연극 '리어왕'으로 무대에 오른다. 연극 '리어왕'은 극단 관악극회와 예술의전당이 공동]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왓챠, 화제의 영국 드라마 ‘우주전쟁’ 시즌2 등 화려한 라인업 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003532801</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003532801"/>
-        <updated>2021-09-02T09:15:17.056Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]온라인 동영상 스트리밍 서비스 왓챠가 화제의 SF 스릴러 드라마 ‘우주전쟁’ 시즌 2와 함께 영화 ‘시바 베이비’, 중국 드라마 ‘천고결진’에 이르는 다양한 장르의 9월 익스클루시브 라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘행복의 나라로’, 제26회 BIFF 개막작 선정]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000759461</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000759461"/>
-        <updated>2021-09-02T08:17:49.469Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 영화 ‘행복의 나라로’(감독 임상수)가 제26회 부산국제영화제 개막작으로 선정됐다. ‘행복의 나라로’는 시간이 없는 탈옥수 ‘203’(최민식)과 돈이 없는 환자 ‘남식’(박해일)이 우연히 거액의 돈을]]></content>
     </entry>
 </feed>
