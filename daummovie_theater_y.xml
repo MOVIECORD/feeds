@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Sep 2021 07:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Sep 2021 08:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,20 +56,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F446090579974d44551356ce961743e57eaa41bd6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[여름날 우리]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151333</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151333</guid>
-            <pubDate>Wed, 25 Aug 2021 00:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e883bbf9717d6e78b84c03dceadc2f748bbaf5b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[귀문]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151323</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151323</guid>
             <pubDate>Wed, 25 Aug 2021 00:46:51 GMT</pubDate>
             <content:encoded><![CDATA[21.08.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1ea7826f4d66e1f7013c4581d73981e06a496d01" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[여름날 우리]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151333</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151333</guid>
+            <pubDate>Wed, 25 Aug 2021 00:46:51 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e883bbf9717d6e78b84c03dceadc2f748bbaf5b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[최선의 삶]]></title>
@@ -102,14 +102,6 @@
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.08.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb83ce3cb29a492a800a4c18c0c168987ecc21e43" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[습도 다소 높음]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149741</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149741</guid>
-            <pubDate>Wed, 01 Sep 2021 14:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3b418933e186d4468508a60b5f5cbebd1df3146b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[퍼피 구조대 더 무비]]></title>
@@ -150,6 +142,14 @@
             <pubDate>Sat, 28 Aug 2021 03:15:31 GMT</pubDate>
             <content:encoded><![CDATA[21.06.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44cff9be3a13f0cf1746357f7d4dd58f248f5f2c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[습도 다소 높음]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149741</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149741</guid>
+            <pubDate>Wed, 01 Sep 2021 14:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3b418933e186d4468508a60b5f5cbebd1df3146b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[드림걸즈]]></title>
