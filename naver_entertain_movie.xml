@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-02T20:17:16.882Z</updated>
+    <updated>2021-09-02T21:14:07.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰]김태훈 "'좋은 사람', 묵직한 메시지·긴장감…좋은 작품"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010699571</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010699571"/>
+        <updated>2021-09-02T21:12:50.391Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 거짓과 진실 사이에서 딜레마에 빠진 교사 역 호연 부국제 CGV아트하우스상·영화감독조합상 등 2관왕 [서울=뉴시스] 김지은 기자 = 9일 개봉하는 영화 '좋은 사람'은 담임교사 경석이 교실 지갑 도난]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[변요한 “주변에 보이스피싱 피해자 많아, 경각심 주려 ‘보이스’ 출연”(V라이브)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000485884</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002325431"/>
         <updated>2021-09-02T09:15:17.044Z</updated>
         <content type="html"><![CDATA[[인터뷰] 넷플릭스 오리지널 시리즈 배우 정해인 ⓒ Netflix "우리 모두에게 질문을 던지는 작품인 것 같다. '당신은 방관자가 되어본 적 있나요?'라고." 지난 8월 27일 공개된 넷플릭스 오리지널 시리즈 (아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베니스 심사위원장 봉준호 감독 "코로나는 지나가고 영화는 계속될것"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000317192</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000317192"/>
-        <updated>2021-09-02T09:15:17.045Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]"코로나19는 영화를 파괴할 수 없다." 제78회 베니스 국제영화제 심사위원장 봉준호 감독이 전한 메시지다. 봉준호 감독은 1일(현지시간) 이탈리아 베니스 리도섬에서 개막한 제 78회 베니]]></content>
     </entry>
 </feed>
