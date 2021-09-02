@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-02T17:23:19.174Z</updated>
+    <updated>2021-09-02T18:19:13.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[봉준호 “코로나는 지나가고 영화는 계속될 것”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=020&amp;aid=0003379955</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=020&amp;aid=0003379955"/>
+        <updated>2021-09-02T18:17:47.558Z</updated>
+        <content type="html"><![CDATA[“코로나는 지나가고 영화는 계속될 겁니다.” 1일(현지 시간) 이탈리아 베네치아 리도섬에서 개막한 제78회 베니스 국제영화제의 심사위원장을 맡은 봉준호 감독(52)이 기자회견에 참석해 이같이 말했다. 한국인이 세계]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다시 활기 찾는 극장가…개성 가득 영화들이 왔다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000858980</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000104041"/>
         <updated>2021-09-02T09:15:17.049Z</updated>
         <content type="html"><![CDATA[영화진흥위원회가 한국영화 홍보를 위해 의미 있는 사진전을 연다. 영화진흥위원회(이하 영진위)는 한국영화배우 해외홍보 캠페인 'KOREAN ACTORS 200' 사진전을 서울과 뉴욕에서 개최한다고 2일 밝혔다. 이번]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 배우 김태훈 "'좋은 사람'은 누구나 할 수 있는 고민들의 모습을 그린 작품"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000038506</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000038506"/>
-        <updated>2021-09-02T09:15:17.051Z</updated>
-        <content type="html"><![CDATA["그런데 선생님, 정말 모르셨어요?" 인생에 있어 '내가 좋은 사람인가'라는 질문은 마음을 옭아매는 집요한 질문이다. 좋은 사람이 되고 싶으나 현실에서 그렇지 못한 경우에는 더욱 마음이 아픈 질문이기도 하다. 오는]]></content>
     </entry>
 </feed>
