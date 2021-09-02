@@ -4,9 +4,17 @@
         <title>다음영화 뉴스 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Sep 2021 11:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Sep 2021 12:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['보이스' 김무열 "변요한, 액션신 중 몸으로 셔터문 뚫어"(V라이브)]]></title>
+            <link>https://v.daum.net/v/20210902211940243</link>
+            <guid>https://v.daum.net/v/20210902211940243</guid>
+            <pubDate>Thu, 02 Sep 2021 12:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 배우 김무열이 변요한의 액션 열정을 전했다. 9월 2일 네이버 V MOVIE 채널에서 방송된 영화 '보이스'(감독 김선·김곡)의 무비토크 라이브에서는 배우 변요한, 김무열, 박명훈, 이주영이 직접 출연해 영화에 대해 이야기 니눴다. 이날 변요한은 영화의 장르가 리얼범죄액션인 만큼 "처절하게 온몸을 던져 액선을 했다. 살벌하다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F02%2Fnewsen%2F20210902211940475cokd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
         <item>
             <title><![CDATA["상처투성이 10대 소녀 3명의 방황과 고민 그렸어요"]]></title>
             <link>https://v.daum.net/v/20210902194807316</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 02 Sep 2021 07:19:57 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠조선 이승미 기자] 한재림 감독이 드라마 메가폰을 잡는다. 쇼박스 관계자는 2일 "한재림 감독이 웹툰 '현혹'을 원작으로 한재림 감독의 시리즈물을 준비중이다"라고 밝혔다. 이어 "공개 플랫폼 및 구체적인 제작 시기는 미정이다"고 덧붙였다. 2019년 네이버에 연재되며 큰 사랑을 받은 원작 웹툰 '현혹'은  1935년 경성과 1800년대]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F02%2FSpoChosun%2F20210902151951186xozc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[서울국제여성영화제, 7일간의 여정 끝내고 폐막]]></title>
-            <link>https://v.daum.net/v/20210902151702040</link>
-            <guid>https://v.daum.net/v/20210902151702040</guid>
-            <pubDate>Thu, 02 Sep 2021 06:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진=서울국제여성영화제지난달 26일 개막한 제23회 서울국제여성영화제가 1일(수) 폐막식을 끝으로, 7일간의 여정을 성공적으로 마무리했다. 제23회 서울국제여성영화제 폐막식은 지난 1일 메가박스 상암월드컵경기장 MX관에서 정용실 아나운서의 사회로 진행됐다. 7일간의 영화제를 기록한 하이라이트 영상 감상을 시작으로 피치&amp;캐치를 비롯]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F02%2Fstarnews%2F20210902151703405qdkq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>

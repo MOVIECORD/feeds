@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-02T11:14:35.707Z</updated>
+    <updated>2021-09-02T12:24:50.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘보이스’ 김무열 “변요한, 액션신 중 몸으로 셔터문 뚫어”(V라이브)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000485844</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000485844"/>
+        <updated>2021-09-02T12:23:25.945Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 서유나 기자] 배우 김무열이 변요한의 액션 열정을 전했다. 9월 2일 네이버 V MOVIE 채널에서 방송된 영화 '보이스'(감독 김선·김곡)의 무비토크 라이브에서는 배우 변요한, 김무열, 박명훈, 이주영이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봉준호 “팬데믹, 영화 멈추지 못할 것”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003615967</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000759461"/>
         <updated>2021-09-02T08:17:49.469Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 영화 ‘행복의 나라로’(감독 임상수)가 제26회 부산국제영화제 개막작으로 선정됐다. ‘행복의 나라로’는 시간이 없는 탈옥수 ‘203’(최민식)과 돈이 없는 환자 ‘남식’(박해일)이 우연히 거액의 돈을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2003년생 '탕준상', 겸손한 자신감]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000045274</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000045274"/>
-        <updated>2021-09-02T08:17:49.469Z</updated>
-        <content type="html"><![CDATA[&lt;라켓소년단&gt;의 윤해강(탕준상)은 우리가 사랑했던 스포츠 만화 속 소년들을 쏙 빼닮았다. 자기 재능을 뽐내고 으스대며 관심을 즐기는 배드민턴계의 ‘강백호’(&lt;슬램덩크&gt;)는 사실 누구보다 속 깊고 선의로 가득 찬 아이]]></content>
     </entry>
 </feed>
