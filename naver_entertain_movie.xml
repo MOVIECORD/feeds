@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-02T14:15:56.447Z</updated>
+    <updated>2021-09-02T15:17:40.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다시 활기 찾는 극장가…개성 가득 영화들이 왔다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000858980</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000858980"/>
+        <updated>2021-09-02T15:16:09.713Z</updated>
+        <content type="html"><![CDATA[극장가가 차츰 활기를 찾고 있다. 영화 ‘모가디슈'가 올해 개봉한 영화 중 처음으로 300만을 넘긴 가운데 영화 ‘싱크홀'‘인질' 등이 흥행을 견인중이다. 이들 영화와 함께 이번 주 개봉해 관객들을 기다리고 있는 작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가을 극장가 점령 나선 걸그룹 출신 배우들 '눈길']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000104088</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000104088"/>
+        <updated>2021-09-02T15:16:09.713Z</updated>
+        <content type="html"><![CDATA[방민아 한승연 임윤아 한선화, 각각 주연 맡은 영화로 극장가 나들이 아이돌 가수에서 연기자로 명함을 추가한 걸그룹 출신 배우들이 가을 극장가 점령에 나선다. 이제 막 연기자로 전향한 배우가 아닌 나름의 필모그래피를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘보이스’ 변요한 “요즘 백신 예약 문자로도 보이스피싱, 조심해야”(V라이브)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000485847</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000038506"/>
         <updated>2021-09-02T09:15:17.051Z</updated>
         <content type="html"><![CDATA["그런데 선생님, 정말 모르셨어요?" 인생에 있어 '내가 좋은 사람인가'라는 질문은 마음을 옭아매는 집요한 질문이다. 좋은 사람이 되고 싶으나 현실에서 그렇지 못한 경우에는 더욱 마음이 아픈 질문이기도 하다. 오는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['습도 다소 높음' 고봉수 사단 히스토리 담은 KCU 영상…'그들은 누구인가?']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001342948</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001342948"/>
-        <updated>2021-09-02T09:15:17.053Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 강현진 인턴기자) '습도 다소 높음' 고봉수 사단의 히스토리를 담은 KCU 영상이 공개됐다. 1일 개봉한 영화 '습도 다소 높음'은 극한의 습도가 엄습해온 어느 여름날, 에어컨을 꺼버린 극장에서 벌어지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이연희, 연극 '리어왕' 코딜리아 역 도전…이순재와 부녀 호흡]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005580223</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005580223"/>
-        <updated>2021-09-02T09:15:17.054Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 이연희가 처음으로 연극 무대에 도전한다. 2일 소속사 VAST엔터테인먼트에 따르면 이연희가 연극 '리어왕'으로 무대에 오른다. 연극 '리어왕'은 극단 관악극회와 예술의전당이 공동]]></content>
     </entry>
 </feed>
