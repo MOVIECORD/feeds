@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Sep 2021 07:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 08:18:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<레드 노티스> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/422042926?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/422042926?act=clip</guid>
+            <pubDate>Fri, 03 Sep 2021 08:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:18]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvbwd7yqokute8zvo6bhs25bl%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33187564951%26signature%3DOYsC7N%252FYP0EO1UEaoQc52OjqkpM%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<스쿨 아웃 포에버> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/422039571?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/422005799?act=clip</guid>
             <pubDate>Thu, 02 Sep 2021 02:25:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:37]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvckdy0j8lygtq1mx2pnysh5d%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33187455575%26signature%3DHtsWAqLRLGcSqTj3pRKAf3JGVcY%253D%26ts%3D1630546775" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvckdy0j8lygtq1mx2pnysh5d%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33187455575%26signature%3DHtsWAqLRLGcSqTj3pRKAf3JGVcY%253D%26ts%3D1630546775" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<캔디맨> '그의 이름을 불러봐' 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 31 Aug 2021 02:25:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:03]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvo4stnbhj6cbe6paexw3o3dy%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33187283163%26signature%3Da22rKathDxcAe7qutQFRKrLPzf4%253D%26ts%3D1630374363" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<아임 유어 맨> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/421948189?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/421948189?act=clip</guid>
-            <pubDate>Tue, 31 Aug 2021 02:25:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:31]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F402709467%2Fthumb%2F20210831104048" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
