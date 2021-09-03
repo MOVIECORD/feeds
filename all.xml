@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Sep 2021 15:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 16:24:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마블 첫 아시안 히어로 영화 ‘샹치와 텐 링즈의 전설’ OST 발매 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000759746</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000759746</guid>
+            <pubDate>Fri, 03 Sep 2021 16:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 마블 첫 아시안 히어로 영화 ‘샹치와 텐 링즈의 전설’ OST 발매 마블 스튜디오(Marvel Studio)의 첫 아시안 히어로 영화 ‘샹치와 텐 링즈의 전설’의 OST 앨범이 발매됐다. 지난 1일 개]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[무비가이드] 한승연 첫 장편영화 '쇼미더고스트', 어설퍼도 사랑스러워 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000498493</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[[서울=뉴시스]백승훈 인턴 기자 = 난생 첫 사투리 연기에 도전하는 한선화와 임윤아가 각각 '영화의 거리', '기적'으로 추석 극장가에서 맞대결을 펼친다. 두 배우 모두 걸그룹 출신이라는 사실 외에도 극 중 경상도]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[종합] 박서준, 마블 영화 합류 확정…촬영차 오늘 출국 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000931410</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000931410</guid>
-            <pubDate>Fri, 03 Sep 2021 07:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[[종합] 박서준, 마블 영화 합류 확정…촬영차 오늘 출국 배우 박서준이 데뷔 10주년에 새로운 도약에 나선다. 마블 스튜디오의 새 작품에 출연을 확정하며 마블 시네마틱 유니버스(MCU)에 당당하게 입성했다. 박서준의]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[샹치와 텐 링즈의 전설 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=129706</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=129706</guid>
@@ -239,20 +239,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e883bbf9717d6e78b84c03dceadc2f748bbaf5b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[귀문 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151323</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151323</guid>
-            <pubDate>Wed, 25 Aug 2021 00:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1ea7826f4d66e1f7013c4581d73981e06a496d01" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[최선의 삶 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=136365</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=136365</guid>
             <pubDate>Wed, 01 Sep 2021 00:53:08 GMT</pubDate>
             <content:encoded><![CDATA[21.09.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58e6b59e744961d1e5cfcb4aedc92bc9ce35bda0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[귀문 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151323</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151323</guid>
+            <pubDate>Wed, 25 Aug 2021 00:46:51 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1ea7826f4d66e1f7013c4581d73981e06a496d01" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[퍼피 구조대 더 무비 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -615,14 +615,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F02%2Fnewsen%2F20210902142657616csbo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[송창의X송영규 '수색자', '알포인트' 이을 웰메이드 밀리터리 스릴러 될까 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210903082416062</link>
-            <guid>https://movie.v.daum.net/v/20210903082416062</guid>
-            <pubDate>Fri, 03 Sep 2021 01:56:46 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이승미 기자]DMZ에서 벌어지는 극강의 서스펜스로 극장가를 압도할 영화 '수색자'(김민섭 감독, 주식회사 케이필름 제작)가 레전드 충무로 호러 '알포인트'를 이을 웰메이드 밀리터리 스릴러가 될까. '수색자'는 교육장교가 의문사한 날, 탈영병이 발생하고 출입통제구역 DMZ로 수색 작전을 나간 대원들이 광기에 휩싸인 채 알 수 없는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F03%2FSpoChosun%2F20210903082416785amlm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA["상처투성이 10대 소녀 3명의 방황과 고민 그렸어요" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210902194807316</link>
             <guid>https://movie.v.daum.net/v/20210902194807316</guid>
@@ -631,12 +623,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F02%2Fsegye%2F20210902194807771hwho.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[이동휘x정은채, 한국형 로맨스 영화 '왼쪽을 보는 남자, 오른쪽을 보는 여자' 출연 확정 [공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210903171124501</link>
-            <guid>https://movie.v.daum.net/v/20210903171124501</guid>
-            <pubDate>Fri, 03 Sep 2021 09:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 배우 이동휘, 정은채가 영화 '왼쪽을 보는 남자, 오른쪽을 보는 여자'에 출연한다. 영화 '왼쪽을 보는 남자, 오른쪽을 보는 여자'는 권태를 앓던 연인이 이별 후에 마주하는 여러 감정을 그려낸 작품으로 이동휘, 정은채의 출연만으로 화제를 모으고 있다. 개성 넘치는 연기로 장르를 넘나들며 뚜렷한 존재감을 드러내는 이동휘는 극 중]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F03%2Ftvdaily%2F20210903171125393eflm.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[송창의X송영규 '수색자', '알포인트' 이을 웰메이드 밀리터리 스릴러 될까 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210903082416062</link>
+            <guid>https://movie.v.daum.net/v/20210903082416062</guid>
+            <pubDate>Fri, 03 Sep 2021 01:56:46 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자]DMZ에서 벌어지는 극강의 서스펜스로 극장가를 압도할 영화 '수색자'(김민섭 감독, 주식회사 케이필름 제작)가 레전드 충무로 호러 '알포인트'를 이을 웰메이드 밀리터리 스릴러가 될까. '수색자'는 교육장교가 의문사한 날, 탈영병이 발생하고 출입통제구역 DMZ로 수색 작전을 나간 대원들이 광기에 휩싸인 채 알 수 없는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F03%2FSpoChosun%2F20210903082416785amlm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[어느날 가출 감행한 서로 다른 여고생 3인, 그 시절 불안한 선택.. 그땐 그게 맞았는데 (다음영화 뉴스 ─ 인기)]]></title>
@@ -645,6 +637,14 @@
             <pubDate>Fri, 03 Sep 2021 13:21:43 GMT</pubDate>
             <content:encoded><![CDATA[영화 ‘최선의 삶’에서 주인공들이 모텔에서 술을 먹고 놀다가 다음 날 택시를 타고 집으로 가는 장면. 셋은 늘 뭉쳐 다니는 가장 친한 친구였지만 가출했다가 일상으로 돌아온 후 점점 멀어진다. 엣나인필름 제공고3 소녀 3명이 있다. 강이(방민아)는 복잡한 생각으로 가득한 표정을 하고 있지만 생각을 거의 드러내지 않는다. 2명의 의견이 부딪치면 “나는 상관없다]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F02%2Fdonga%2F20210902030333945wboj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이동휘x정은채, 한국형 로맨스 영화 '왼쪽을 보는 남자, 오른쪽을 보는 여자' 출연 확정 [공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210903171124501</link>
+            <guid>https://movie.v.daum.net/v/20210903171124501</guid>
+            <pubDate>Fri, 03 Sep 2021 09:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 배우 이동휘, 정은채가 영화 '왼쪽을 보는 남자, 오른쪽을 보는 여자'에 출연한다. 영화 '왼쪽을 보는 남자, 오른쪽을 보는 여자'는 권태를 앓던 연인이 이별 후에 마주하는 여러 감정을 그려낸 작품으로 이동휘, 정은채의 출연만으로 화제를 모으고 있다. 개성 넘치는 연기로 장르를 넘나들며 뚜렷한 존재감을 드러내는 이동휘는 극 중]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F03%2Ftvdaily%2F20210903171125393eflm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[악연이 인연으로, 싱글맘·싱글대디의 파란만장 하루 (다음영화 뉴스 ─ 인기)]]></title>
@@ -661,6 +661,14 @@
             <pubDate>Fri, 03 Sep 2021 11:13:17 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스엔 배효주 기자] '기적' 박정민, 이성민, 임윤아, 이수경이 특별한 호흡을 선보인다. 9월 15일 개봉하는 영화 '기적'(감독 이장훈)은 오갈 수 있는 길은 기찻길밖에 없지만 정작 기차역은 없는 마을에 간이역 하나 생기는 게 유일한 인생 목표인 ‘준경’(박정민)과 동네 사람들의 이야기를 그린 작품이다. 올 추석 따스한 온기와 웃음으로 모두의 마]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F03%2Fnewsen%2F20210903085831922sbky.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[남승률 曰] "시네마는 멈추지 않았다" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20210904002825704</link>
+            <guid>https://v.daum.net/v/20210904002825704</guid>
+            <pubDate>Fri, 03 Sep 2021 16:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[영화진흥위원회에 따르면 올 상반기 국내 영화관 관객 수는 2002만 명으로 지난해 같은 기간 대비 38.2%(1239만 명) 줄었다. 영화관 입장권 통합 전산망이 가동된 2004년 이후 같은 기간 대비 역대 최저치다. 매출액은 1863억원으로 32%(875억원) 감소했다. 지난해 사정도 비슷했다. 극장 전체 관객 수는 5952만 명으로 전년보다]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F04%2Fjoongangsunday%2F20210904002826260alvk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[건파우더 밀크셰이크_한글 메시지 (우리 영화 볼래?)]]></title>
@@ -987,7 +995,7 @@
             <link>https://tv.naver.com/v/22244018</link>
             <guid>https://tv.naver.com/v/22244018</guid>
             <pubDate>Fri, 03 Sep 2021 09:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210903_205/PcgEk_1630659617700CG0W7_JPEG/d6fadb10-0c94-11ec-bf57-246e963a4708_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -995,7 +1003,7 @@
             <link>https://tv.naver.com/v/22243769</link>
             <guid>https://tv.naver.com/v/22243769</guid>
             <pubDate>Fri, 03 Sep 2021 09:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210903_188/GVMm6_1630659166946t59FC_JPEG/33ac1047-0c94-11ec-a509-a0369ff968b0_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1003,7 +1011,7 @@
             <link>https://tv.naver.com/v/22243589</link>
             <guid>https://tv.naver.com/v/22243589</guid>
             <pubDate>Fri, 03 Sep 2021 09:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210903_152/AiQa1_1630658878376YDvzS_JPEG/7badb4c9-0c93-11ec-b835-505dac8c3607_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1011,7 +1019,7 @@
             <link>https://tv.naver.com/v/22243418</link>
             <guid>https://tv.naver.com/v/22243418</guid>
             <pubDate>Fri, 03 Sep 2021 09:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210903_177/ILKTR_163065857460717XlY_JPEG/c4e0ad6e-0c92-11ec-8f8d-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1019,7 +1027,7 @@
             <link>https://tv.naver.com/v/22243303</link>
             <guid>https://tv.naver.com/v/22243303</guid>
             <pubDate>Fri, 03 Sep 2021 09:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210903_106/hzZi3_1630658296456AcPX3_JPEG/1e337591-0c92-11ec-b778-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1027,7 +1035,7 @@
             <link>https://tv.naver.com/v/22241822</link>
             <guid>https://tv.naver.com/v/22241822</guid>
             <pubDate>Fri, 03 Sep 2021 08:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210903_97/dGkEE_1630655870230aLsxm_JPEG/9384c743-0c8c-11ec-8678-48df379cca40_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1035,7 +1043,7 @@
             <link>https://tv.naver.com/v/22241798</link>
             <guid>https://tv.naver.com/v/22241798</guid>
             <pubDate>Fri, 03 Sep 2021 08:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210903_142/CEisQ_1630655836767qpiTM_JPEG/815a8369-0c8c-11ec-86ec-48df37ae3fca_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1043,7 +1051,7 @@
             <link>https://tv.naver.com/v/22241780</link>
             <guid>https://tv.naver.com/v/22241780</guid>
             <pubDate>Fri, 03 Sep 2021 08:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210903_178/8m4nU_1630655807876KyMVW_JPEG/701ebd1a-0c8c-11ec-8678-48df379cca40_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1051,7 +1059,7 @@
             <link>https://tv.naver.com/v/22241759</link>
             <guid>https://tv.naver.com/v/22241759</guid>
             <pubDate>Fri, 03 Sep 2021 08:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210903_214/xRdBm_1630655776667jCgWi_JPEG/566c85b7-0c8c-11ec-b6bf-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1059,7 +1067,7 @@
             <link>https://tv.naver.com/v/22236763</link>
             <guid>https://tv.naver.com/v/22236763</guid>
             <pubDate>Fri, 03 Sep 2021 05:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210903_151/KZYVb_1630645177578xT4BC_JPEG/85724917-0c71-11ec-a613-505dac8c38f5_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1067,7 +1075,7 @@
             <link>https://tv.naver.com/v/22235172</link>
             <guid>https://tv.naver.com/v/22235172</guid>
             <pubDate>Fri, 03 Sep 2021 04:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210903_97/NWuo4_1630640471098OUWgg_JPEG/70e66f6a-0c66-11ec-8e61-a0369ff94f34_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1075,7 +1083,7 @@
             <link>https://tv.naver.com/v/22233745</link>
             <guid>https://tv.naver.com/v/22233745</guid>
             <pubDate>Fri, 03 Sep 2021 03:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210903_223/T9nNQ_1630636645107o4kmz_JPEG/7b1bab65-0c5f-11ec-b835-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1083,7 +1091,7 @@
             <link>https://tv.naver.com/v/22232490</link>
             <guid>https://tv.naver.com/v/22232490</guid>
             <pubDate>Fri, 03 Sep 2021 01:57:10 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210903_194/VJ8aG_1630633146868DcgMf_JPEG/f624f27f-0c56-11ec-b778-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
