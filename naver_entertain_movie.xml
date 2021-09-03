@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-03T20:17:45.716Z</updated>
+    <updated>2021-09-03T21:14:29.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[동양인 최초 슈퍼히어로 '샹치'에 대한 '호불호' [N초점]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005582548</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005582548"/>
+        <updated>2021-09-03T21:13:06.933Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 마블 영화 최초로 동양인 슈퍼히어로를 앞세운 영화 '샹치와 텐 링즈의 전설'(감독 데스킨 다니엘 크리튼)이 초반 흥행에 성공 중이다. 지난 1일 개봉 첫날 13만 8144명을 동원해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마블 첫 아시안 히어로 영화 ‘샹치와 텐 링즈의 전설’ OST 발매]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000759746</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003473168"/>
         <updated>2021-09-03T07:15:00.408Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=이미지 기자] 박서준이 마블 영화 촬영을 위해 떠났다. 배우 박서준의 소속사 어썸이엔티 측은 3일 공식 보도자료를 통해 "박서준이 마블 스튜디오 영화 출연을 확정 짓고, 금일 오후 출국했다"고 알렸다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['기적' 임윤아vs'영화의 거리' 한선화, '사투리 연기' 맞대결]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010700957</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010700957"/>
-        <updated>2021-09-03T07:15:00.408Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]백승훈 인턴 기자 = 난생 첫 사투리 연기에 도전하는 한선화와 임윤아가 각각 '영화의 거리', '기적'으로 추석 극장가에서 맞대결을 펼친다. 두 배우 모두 걸그룹 출신이라는 사실 외에도 극 중 경상도]]></content>
     </entry>
 </feed>
