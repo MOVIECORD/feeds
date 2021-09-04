@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Sep 2021 21:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Sep 2021 22:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -239,20 +239,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e883bbf9717d6e78b84c03dceadc2f748bbaf5b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[최선의 삶 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=136365</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=136365</guid>
-            <pubDate>Wed, 01 Sep 2021 00:53:08 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58e6b59e744961d1e5cfcb4aedc92bc9ce35bda0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[귀문 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151323</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151323</guid>
             <pubDate>Wed, 25 Aug 2021 00:46:51 GMT</pubDate>
             <content:encoded><![CDATA[21.08.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1ea7826f4d66e1f7013c4581d73981e06a496d01" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[최선의 삶 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=136365</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=136365</guid>
+            <pubDate>Wed, 01 Sep 2021 00:53:08 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58e6b59e744961d1e5cfcb4aedc92bc9ce35bda0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[퍼피 구조대 더 무비 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -279,14 +279,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb83ce3cb29a492a800a4c18c0c168987ecc21e43" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[상견니 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153046</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153046</guid>
-            <pubDate>Tue, 24 Aug 2021 23:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F66c754624aca8e6f9ae303ffe4216bbf59ac31a0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[킬러의 보디가드 2: 킬러의 와이프 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=130061</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=130061</guid>
@@ -303,12 +295,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44cff9be3a13f0cf1746357f7d4dd58f248f5f2c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[하이큐!! 땅 VS 하늘 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=137824</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=137824</guid>
-            <pubDate>Sat, 04 Sep 2021 08:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F96dd30921f935279b8fa9f5d013d0b831be01410" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[상견니 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153046</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153046</guid>
+            <pubDate>Tue, 24 Aug 2021 23:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F66c754624aca8e6f9ae303ffe4216bbf59ac31a0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[습도 다소 높음 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -341,6 +333,14 @@
             <pubDate>Tue, 31 Aug 2021 09:55:00 GMT</pubDate>
             <content:encoded><![CDATA[21.09.02]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F81d68ef46bca86e9f4d13c44f55f637a269be46f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙 위도우 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=123215</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=123215</guid>
+            <pubDate>Sat, 04 Sep 2021 22:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[21.07.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff39274b0acd76f7c66f0a5fb9e5b7222ed37b373" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[레커닝 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -503,14 +503,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F045e3b529565237b7465a357637177d59a1154ba" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA['007 노 타임 투 다이'가 전세계 최초 한국서 개봉하는 이유 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210903065718532</link>
-            <guid>https://movie.v.daum.net/v/20210903065718532</guid>
-            <pubDate>Thu, 02 Sep 2021 22:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[할리우드 스타 다니엘 크레이그가 주연하는 영화 ‘007 노 타임 투 다이’가 29일 전 세계 최초로 한국에서 개봉한다. 사진제공｜유니버설픽쳐스8월31일 수입배급사 유니버설픽쳐스는 “영화 ‘007 노 타임 투 다이’를 9월29일 전 세계 최초로 한국에서 개봉한다”고 밝혔다. 이어 “30일 영국과 10월8일 북미보다 앞선 일정”이라고 덧붙였다. 올해 5월 ‘]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F03%2Fsportsdonga%2F20210903065719714sctr.jpg" length="0" type="image//thumb/S732x228/"/>
-        </item>
-        <item>
             <title><![CDATA[박서준, 마블 영화 촬영차 출국..수현·마동석 이어 MCU 합류 [무비노트] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210903160207463</link>
             <guid>https://movie.v.daum.net/v/20210903160207463</guid>
@@ -524,15 +516,7 @@
             <guid>https://movie.v.daum.net/v/20210903112527946</guid>
             <pubDate>Fri, 03 Sep 2021 05:13:44 GMT</pubDate>
             <content:encoded><![CDATA[[동아닷컴] ‘인질’ 납치범 누구? 류경수, 美친 연기력 배우 류경수가 그야말로 美친 연기로 관객들을 인질 잡았다. 지난 28일 누적 관객 수 100만을 돌파한 영화 ‘인질’은 증거도 목격자도 없이 납치된 배우 황정민을 그린 리얼리티 액션 스릴러이다. 여기서 류경수는 황정민을 납치한 빌런 조직의 2인자이자 어디로 튈지 모르는 예측불허의 인물인 염동훈으로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F03%2Fsportsdonga%2F20210903112530508tnix.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[SC줌人]'트랜스젠더→10대 시골 소년'..'기적' 박정민, 또 다시 증명한 한계없는 연기력 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210903102254077</link>
-            <guid>https://movie.v.daum.net/v/20210903102254077</guid>
-            <pubDate>Fri, 03 Sep 2021 01:56:46 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이승미 기자]트랜스젠더에서 순박한 10대 고등학생까지, 박정민의 변신이 놀랍다. 오는 15일 개봉해 추석 극장가를 따뜻하게 물 들일 영화 '기적'에서 박정민이 또 한번 뛰어난 연기로 관객을 놀라게 할 예정이다. '기적'은 오갈 수 있는 길은 기찻길밖에 없지만 정작 기차역은 없는 마을에 간이역 하나 생기는 게 유일한 인생 목표인 준]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F03%2FSpoChosun%2F20210903102554283wcgw.jpg" length="0" type="image//thumb/S384x240/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F03%2Fsportsdonga%2F20210903112530508tnix.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
             <title><![CDATA[이동휘·정은채, '왼쪽을 보는 남자, 오른쪽을 보는 여자' 캐스팅 (다음영화 뉴스 ─ 인기)]]></title>
@@ -543,12 +527,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F03%2Fdailian%2F20210903091222475ncud.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[SC줌人]'트랜스젠더→10대 시골 소년'..'기적' 박정민, 또 다시 증명한 한계없는 연기력 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210903102254077</link>
+            <guid>https://movie.v.daum.net/v/20210903102254077</guid>
+            <pubDate>Fri, 03 Sep 2021 01:56:46 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자]트랜스젠더에서 순박한 10대 고등학생까지, 박정민의 변신이 놀랍다. 오는 15일 개봉해 추석 극장가를 따뜻하게 물 들일 영화 '기적'에서 박정민이 또 한번 뛰어난 연기로 관객을 놀라게 할 예정이다. '기적'은 오갈 수 있는 길은 기찻길밖에 없지만 정작 기차역은 없는 마을에 간이역 하나 생기는 게 유일한 인생 목표인 준]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F03%2FSpoChosun%2F20210903102554283wcgw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[빌런의 존재감이 더 큰 '샹치'의 아이러니 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210903140000166</link>
             <guid>https://movie.v.daum.net/v/20210903140000166</guid>
             <pubDate>Fri, 03 Sep 2021 07:15:22 GMT</pubDate>
             <content:encoded><![CDATA[[원종빈 기자] ▲ &nbsp;&lt;샹치와 텐 링즈의 전설&gt; 포스터.    ⓒ 월트 디즈니 컴퍼니 코리아   &nbsp;*이 기사엔 영화의 스포일러가 포함돼 있습니다.&nbsp;&nbsp; 초인적인 능력을 가진 무기 '텐 링즈'의 힘을 이용해&nbsp;수세기 동안 끊임없이 더 강한 권력을 쫓아온 '웬 우(양자 위)'. 만다린이라는 이름으로도 알려진 아버지 웬 우&nbsp;밑에서 어린 시절부터 암살자]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F03%2Fohmynews%2F20210903140003437aqcs.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["군대가 바뀔 것 같냐" 'D.P.'의 냉소가 뼈아픈 이유 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210904112707727</link>
+            <guid>https://movie.v.daum.net/v/20210904112707727</guid>
+            <pubDate>Sat, 04 Sep 2021 04:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[[하성태 기자] 마침 넷플릭스 드라마 &lt;D.P.&gt;(&lt;디피&gt;)가 공개된 직후인 지난달 31일 군사법원법 개정안이 국회 본회의를 통과했다. 향후 군내 성범죄와 사망 사건을 군대 밖 수사기관이 수사하고 기소한 이후 일반 법정이 재판할 수 있는 길이 열렸다. 국회 법제사법위원장 직무대리인 박주민 민주당 의원은 법안 통과 의의를 이렇게 설명했다.&nbsp;지휘관이 수사, 기]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F04%2Fohmynews%2F20210904112709497ksug.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[빅픽처] '습도 다소 높음', 코로나19에도 영화의 웃음꽃은 핀다 (다음영화 뉴스 ─ 인기)]]></title>
@@ -567,20 +567,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F04%2Fstarnews%2F20210904130003172zadx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["군대가 바뀔 것 같냐" 'D.P.'의 냉소가 뼈아픈 이유 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210904112707727</link>
-            <guid>https://movie.v.daum.net/v/20210904112707727</guid>
-            <pubDate>Sat, 04 Sep 2021 04:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[[하성태 기자] 마침 넷플릭스 드라마 &lt;D.P.&gt;(&lt;디피&gt;)가 공개된 직후인 지난달 31일 군사법원법 개정안이 국회 본회의를 통과했다. 향후 군내 성범죄와 사망 사건을 군대 밖 수사기관이 수사하고 기소한 이후 일반 법정이 재판할 수 있는 길이 열렸다. 국회 법제사법위원장 직무대리인 박주민 민주당 의원은 법안 통과 의의를 이렇게 설명했다.&nbsp;지휘관이 수사, 기]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F04%2Fohmynews%2F20210904112709497ksug.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[전편보다 못한 속편, 반전은 없고 잔인함만 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210903142400978</link>
             <guid>https://movie.v.daum.net/v/20210903142400978</guid>
             <pubDate>Fri, 03 Sep 2021 07:15:22 GMT</pubDate>
             <content:encoded><![CDATA[[장혜령 기자] &nbsp;        ▲ &nbsp;영화 &lt;맨 인 더 다크 2&gt; 포스터    ⓒ 소니픽처스코리아   &nbsp;&lt;맨 인 더 다크 2&gt;는 전편의 기대 이상 수익으로 속편이 제작된 사례다. 입소문의 시작은 제20회 부천국제영화제였다. 신선한 소재와 심장을 조여오는 설정으로 영화제를 찾은 관객의 마음을 훔쳤다. 눈먼 노인의 집에 들어온 10대 빈집털이범은 생각했던 것과]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F03%2Fohmynews%2F20210903142403901xwzq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[9월 극장가도 순항할까..샹치→기적·보이스 기대작 출격 [N초점] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210905053008976</link>
+            <guid>https://movie.v.daum.net/v/20210905053008976</guid>
+            <pubDate>Sat, 04 Sep 2021 21:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 올여름 극장가는 마블 영화 '블랙 위도우'부터 한국 대작들이 흥행을 이끌며 숨통을 불어넣었다. 9월에 관객들과 만날 영화들이 기세를 이어 받아 신종 코로나바이러스 감염증(코로나19) 팬데믹 속에서 선전할 수 있을지 이목이 쏠린다. 지난 1일 개봉해 9월을 연 마블의 '샹치와 텐링즈의 전설'은 개봉 첫날과 이튿날 박스오피스]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2FNEWS1%2F20210905053009350zbek.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['킬링 카인드' 10월 개봉, "친절하고 잔인한 복수 그린 하드코어 액션" (다음영화 뉴스 ─ 인기)]]></title>
@@ -591,12 +591,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F03%2Fmydaily%2F20210903102817315sosp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰②]정해인 "배려남 구교환, 너무 웃겨 NG 파티" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210904070307956</link>
-            <guid>https://movie.v.daum.net/v/20210904070307956</guid>
-            <pubDate>Fri, 03 Sep 2021 22:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[(인터뷰①에 이어)배우 정해인(33)이 넷플릭스 신작 'D.P.'에서 기막힌 브로맨스를 보여준 구교환에 대해 "놀라운 배우"라며 극찬을 아끼지 않았다. 정해인은 최근 온라인을 통해 진행된 'D.P.'(극본 김보통 한준희, 연출 한준희) 화상 인터뷰에서 구교환의 이름이 나오자 마자 미소를 지으며 "너무 고맙다"고 운을 뗐다. 그는 "교환이 형은 배려심이 워낙]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F04%2Fstartoday%2F20210904070308598hqvt.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[부일영화상 후보 발표..'모가디슈'·'자산어보' 최다 부문 후보작 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210903075802454</link>
+            <guid>https://movie.v.daum.net/v/20210903075802454</guid>
+            <pubDate>Sat, 04 Sep 2021 13:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자]영화 '모가디슈'와 '자산어보'가 2021 부일영화상 8개 부문 후보에 올라 최다 부문 후보작이 됐다.부일영화상이 예심과 본심을 거쳐 최종 후보를 발표했다. 영화산업 패러다임 변화에 발맞춰 올해 처음으로 극장 개봉작뿐만 아니라 '낙원의 밤', '콜' 등 OTT(온라인 동영상 서비스) 공개 작품도 후보에 포함시켰다.예심에서 결정된 최다]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F03%2F10asia%2F20210903075806520paql.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[환경에 따라 삶 나뉘는 10대, 셋은 다시 만날 수 있을까 (다음영화 뉴스 ─ 인기)]]></title>
@@ -607,20 +607,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F03%2Fohmynews%2F20210903113907546nkpl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[부일영화상 후보 발표..'모가디슈'·'자산어보' 최다 부문 후보작 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210903075802454</link>
-            <guid>https://movie.v.daum.net/v/20210903075802454</guid>
-            <pubDate>Sat, 04 Sep 2021 13:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자]영화 '모가디슈'와 '자산어보'가 2021 부일영화상 8개 부문 후보에 올라 최다 부문 후보작이 됐다.부일영화상이 예심과 본심을 거쳐 최종 후보를 발표했다. 영화산업 패러다임 변화에 발맞춰 올해 처음으로 극장 개봉작뿐만 아니라 '낙원의 밤', '콜' 등 OTT(온라인 동영상 서비스) 공개 작품도 후보에 포함시켰다.예심에서 결정된 최다]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F03%2F10asia%2F20210903075806520paql.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[9월 극장가도 순항할까..샹치→기적·보이스 기대작 출격 [N초점] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210905053008976</link>
-            <guid>https://movie.v.daum.net/v/20210905053008976</guid>
-            <pubDate>Sat, 04 Sep 2021 21:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 올여름 극장가는 마블 영화 '블랙 위도우'부터 한국 대작들이 흥행을 이끌며 숨통을 불어넣었다. 9월에 관객들과 만날 영화들이 기세를 이어 받아 신종 코로나바이러스 감염증(코로나19) 팬데믹 속에서 선전할 수 있을지 이목이 쏠린다. 지난 1일 개봉해 9월을 연 마블의 '샹치와 텐링즈의 전설'은 개봉 첫날과 이튿날 박스오피스]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2FNEWS1%2F20210905053009350zbek.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[인터뷰②]정해인 "배려남 구교환, 너무 웃겨 NG 파티" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210904070307956</link>
+            <guid>https://movie.v.daum.net/v/20210904070307956</guid>
+            <pubDate>Fri, 03 Sep 2021 22:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[(인터뷰①에 이어)배우 정해인(33)이 넷플릭스 신작 'D.P.'에서 기막힌 브로맨스를 보여준 구교환에 대해 "놀라운 배우"라며 극찬을 아끼지 않았다. 정해인은 최근 온라인을 통해 진행된 'D.P.'(극본 김보통 한준희, 연출 한준희) 화상 인터뷰에서 구교환의 이름이 나오자 마자 미소를 지으며 "너무 고맙다"고 운을 뗐다. 그는 "교환이 형은 배려심이 워낙]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F04%2Fstartoday%2F20210904070308598hqvt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["우리는 함께 살아야 한다"고 말하는 '모가디슈' (다음영화 뉴스 ─ 인기)]]></title>
@@ -647,20 +639,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F04%2Fstarnews%2F20210904150006381wchr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[황정민의 매운맛 스릴러 '인질', 130만 돌파 "흥행질주"[공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210904112825740</link>
+            <guid>https://movie.v.daum.net/v/20210904112825740</guid>
+            <pubDate>Sat, 04 Sep 2021 22:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]개봉 3주 차에도 박스오피스 1위를 지키며 흥행질주를 이어가고 있는 영화 ‘인질’이 4일 130만 관객을 돌파했다. 개봉 3주 차에도 식지 않는 흥행 열기를 이어가고 있는 영화 ‘인질’이 누적 관객수 130만 명을 돌파했다. ‘인질’은 어느 날 새벽, 증거도 목격자도 없이 납치된 배우 황정민을 그린 리얼리티 액션스릴러. 영진위]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F04%2Fmydaily%2F20210904112826031vhnd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[집 얻었다고 좋아했는데, 이 청춘들에 닥친 시련 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210904101800813</link>
+            <guid>https://movie.v.daum.net/v/20210904101800813</guid>
+            <pubDate>Sat, 04 Sep 2021 22:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[[김준모 기자] &nbsp;        ▲ &nbsp;&lt;쇼미더고스트&gt; 포스터    ⓒ 인디스토리   &nbsp;젊은 청춘들이 겪는 공포를 다룬 하이틴 호러는 다른 호러 장르에 비해 코미디의 색을 쉽게 주입할 수 있다는 장점이 있다. 어린 주인공들의 철없는 모습이나 밝은 에너지가 코미디와 잘 어울리기 때문이다. 호러테이닝이란 신조어를 만들어낸 크리스토퍼 랜던 감독의 &lt;해피 데스데이&gt;]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F04%2Fohmynews%2F20210904101801878vwoz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[영화-쇼미더고스트] "귀신님, 아직 안나가셨어요?" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210905051840869</link>
             <guid>https://movie.v.daum.net/v/20210905051840869</guid>
             <pubDate>Sat, 04 Sep 2021 21:13:18 GMT</pubDate>
             <content:encoded><![CDATA[집에 귀신이 들린 것을 알게 된 20년 절친 ‘예지’와 ‘호두’가 귀신보다 무서운 서울 물가에 맞서 귀신 퇴치에 나서는 내집 사수 셀프 퇴마 코미디 영화 '쇼미더고스트'에 대한 기대감이 높아지고 있다. /사진=(주)인디스토리영화 ‘쇼미더고스트’는 집에 귀신이 들린 것을 알게 된 20년 절친 ‘예지’와 ‘호두’가 귀신보다 무서운 서울 물가에 맞서 귀신 퇴치에]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2Fmoneyweek%2F20210905051842926zpsc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['기적' 극찬 리뷰, "추석 극장가를 찾아올 기적같은 영화" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210904070009869</link>
-            <guid>https://movie.v.daum.net/v/20210904070009869</guid>
-            <pubDate>Sat, 04 Sep 2021 18:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]믿고 보는 배우들의 유쾌한 연기 시너지, 감성을 자극하는 섬세한 스토리와 영상미로 뜨거운 호평을 불러일으키고 있는 영화 ‘기적’이 실관람객의 극찬을 담은 '기적같은 리뷰 소개 영상'을 최초 공개했다. ‘기적’은 오갈 수 있는 길은 기찻길밖에 없지만 정작 기차역은 없는 마을에 간이역 하나 생기는 게 유일한 인생 목표인 '준경'(]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F04%2Fmydaily%2F20210904070009405fyur.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[9월 극장가도 순항할까..샹치→기적·보이스 기대작 출격 [N초점] (다음영화 뉴스 ─ 최신)]]></title>
