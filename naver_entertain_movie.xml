@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-04T07:15:58.571Z</updated>
+    <updated>2021-09-04T08:19:02.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘톰 홀랜드♥’ 젠데이아, 앞트임 드레스+93캐럿 에메랄드 목걸이 “눈부셔”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003533501</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003533501"/>
+        <updated>2021-09-04T08:17:28.276Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘스파이다맨’ 톰 홀랜드와 공개 열애중인 젠데이아가 에메랄드 목걸이로 멋을 냈다. 그는 3일(현지시간) 제78회 베니스 국제영화제에서 티모시 샬라메 등과 함께 신작 ‘듄’ 포토 타임을 가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['기적' 박정민, 고등학생 역할 하지 않겠다고 선언한 이유 [★비하인드]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002986052</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005028161"/>
         <updated>2021-09-04T00:48:48.083Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 박미애 기자] 개봉 영화를 소개합니다. ◇샹치와 텐 링즈의 전설 초인적인 능력을 가진 ‘텐 링즈’의 힘으로 수세기 동안 어둠의 세상을 지배해 온 웬우(양조위 분). 샹치는 아버지 웬우 밑에서 암살]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최선의 삶' 방민아 등 주말 무대인사..위로와 공감]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002986000</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002986000"/>
-        <updated>2021-09-04T00:48:48.086Z</updated>
-        <content type="html"><![CDATA[영화 '최선의 삶'이 호평 속 상영중인 가운데 이우정 감독, 방민아, 심달기, 한성민 등 감독과 주연 배우들이 무대인사를 진행한다. 영화 '최선의 삶'은 열여덟 '강이', '아람', '소영'. 더 나아지기 위해서 기]]></content>
     </entry>
 </feed>
