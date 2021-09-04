@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-04T15:17:05.773Z</updated>
+    <updated>2021-09-04T16:23:32.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[빅픽처] '습도 다소 높음', 코로나19에도 영화의 웃음꽃은 핀다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000274710</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000274710"/>
+        <updated>2021-09-04T16:22:05.608Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김지혜 기자] '습도 다소 높음'(감독 고봉수)은 코로나19 시대를 살아가는 영화인들을 위한 응원가 같은 영화다. 유례없는 악재 속에 감독은 감독대로, 배우는 배우대로, 극장은 극장대로, 관객은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘톰 홀랜드♥’ 젠데이아, 앞트임 드레스+93캐럿 에메랄드 목걸이 “눈부셔”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003533501</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001194066"/>
         <updated>2021-09-04T00:48:48.083Z</updated>
         <content type="html"><![CDATA[개봉 3주 차에도 박스오피스 1위를 지키며 흥행질주를 이어가고 있는 영화 '인질'이 130만 관객을 돌파했다. 영화진흥위원회 통합전산망에 따르면 4일 흥행 순항 중 130만 관객을 돌파했다. 이는 매운맛 스릴러에 매]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['샹치', MCU 첫 아시안 슈퍼히어로 무비[스크린 PICK]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005028161</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005028161"/>
-        <updated>2021-09-04T00:48:48.083Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 박미애 기자] 개봉 영화를 소개합니다. ◇샹치와 텐 링즈의 전설 초인적인 능력을 가진 ‘텐 링즈’의 힘으로 수세기 동안 어둠의 세상을 지배해 온 웬우(양조위 분). 샹치는 아버지 웬우 밑에서 암살]]></content>
     </entry>
 </feed>
