@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-04T20:16:43.412Z</updated>
+    <updated>2021-09-04T21:14:15.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[9월 극장가도 순항할까…샹치→기적·보이스 기대작 출격 [N초점]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005583165</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005583165"/>
+        <updated>2021-09-04T21:12:54.970Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 올여름 극장가는 마블 영화 '블랙 위도우'부터 한국 대작들이 흥행을 이끌며 숨통을 불어넣었다. 9월에 관객들과 만날 영화들이 기세를 이어 받아 신종 코로나바이러스 감염증(코로나19)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[영화-쇼미더고스트] “귀신님, 아직 안나가셨어요?”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=417&amp;aid=0000731831</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=417&amp;aid=0000731831"/>
+        <updated>2021-09-04T21:12:54.982Z</updated>
+        <content type="html"><![CDATA[영화 ‘쇼미더고스트’는 집에 귀신이 들린 것을 알게 된 20년 절친 ‘예지’와 ‘호두’가 귀신보다 무서운 서울 물가에 맞서 귀신 퇴치에 나서는 내집 사수 셀프 퇴마 코미디다. 단편영화 ‘망막’, ‘오르골’, 옴니버스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[빅픽처] '습도 다소 높음', 코로나19에도 영화의 웃음꽃은 핀다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000274710</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002986010"/>
         <updated>2021-09-04T00:48:48.072Z</updated>
         <content type="html"><![CDATA[넷플릭스 영화 '레드 노티스'의 티저 예고편이 공개됐다. 최근 넷플릭스 측은 '레드 노티스'의 티저 예고편을 공개했다. '레드 노티스'는 FBI 최고 프로파일러와 국제 지명 수배 중인 미술품 도둑과 사기꾼이 한자리에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['샹치와 텐 링즈의 전설' 3일 연속 1위..누적 31만 [★무비차트]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002986009</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002986009"/>
-        <updated>2021-09-04T00:48:48.072Z</updated>
-        <content type="html"><![CDATA[마블영화 '샹치와 텐 링즈의 전설'이 사흘 연속 박스오피스 1위를 차지했다. 4일 영진위 영화관입장권통합전산망에 따르면 '샹치와 텐 링즈의 전설'은 3일 9만 2414명이 찾아 1위를 기록했다. 지난 1일 개봉해 누]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황정민의 '인질', 130만 '노브레이크' [성적표]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001194066</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001194066"/>
-        <updated>2021-09-04T00:48:48.083Z</updated>
-        <content type="html"><![CDATA[개봉 3주 차에도 박스오피스 1위를 지키며 흥행질주를 이어가고 있는 영화 '인질'이 130만 관객을 돌파했다. 영화진흥위원회 통합전산망에 따르면 4일 흥행 순항 중 130만 관객을 돌파했다. 이는 매운맛 스릴러에 매]]></content>
     </entry>
 </feed>
