@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Sep 2021 13:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Sep 2021 14:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1ea7826f4d66e1f7013c4581d73981e06a496d01" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[코드 카림]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151147</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151147</guid>
-            <pubDate>Thu, 26 Aug 2021 00:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7426c08b967d01f615174ddcd4063545ebaa2f31" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[퍼피 구조대 더 무비]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151320</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151320</guid>
@@ -96,12 +88,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcddfc4c347466a3f1960fb480cdfa1a57d1835ff" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[상견니]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153046</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153046</guid>
-            <pubDate>Tue, 31 Aug 2021 02:25:08 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F66c754624aca8e6f9ae303ffe4216bbf59ac31a0" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[코드 카림]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151147</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151147</guid>
+            <pubDate>Thu, 26 Aug 2021 00:44:24 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7426c08b967d01f615174ddcd4063545ebaa2f31" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[킬러의 보디가드 2: 킬러의 와이프]]></title>
@@ -118,6 +110,14 @@
             <pubDate>Sat, 28 Aug 2021 03:15:31 GMT</pubDate>
             <content:encoded><![CDATA[21.06.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44cff9be3a13f0cf1746357f7d4dd58f248f5f2c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[상견니]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153046</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153046</guid>
+            <pubDate>Tue, 31 Aug 2021 02:25:08 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F66c754624aca8e6f9ae303ffe4216bbf59ac31a0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[프리 가이]]></title>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Sep 2021 13:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Sep 2021 14:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -255,14 +255,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1ea7826f4d66e1f7013c4581d73981e06a496d01" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[코드 카림 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151147</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151147</guid>
-            <pubDate>Thu, 26 Aug 2021 00:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7426c08b967d01f615174ddcd4063545ebaa2f31" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[퍼피 구조대 더 무비 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151320</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151320</guid>
@@ -271,12 +263,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcddfc4c347466a3f1960fb480cdfa1a57d1835ff" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[상견니 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153046</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153046</guid>
-            <pubDate>Tue, 24 Aug 2021 23:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F66c754624aca8e6f9ae303ffe4216bbf59ac31a0" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[코드 카림 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151147</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151147</guid>
+            <pubDate>Thu, 26 Aug 2021 00:44:24 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7426c08b967d01f615174ddcd4063545ebaa2f31" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[킬러의 보디가드 2: 킬러의 와이프 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -293,6 +285,14 @@
             <pubDate>Sat, 28 Aug 2021 03:15:31 GMT</pubDate>
             <content:encoded><![CDATA[21.06.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44cff9be3a13f0cf1746357f7d4dd58f248f5f2c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[상견니 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153046</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153046</guid>
+            <pubDate>Tue, 24 Aug 2021 23:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F66c754624aca8e6f9ae303ffe4216bbf59ac31a0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[프리 가이 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -559,20 +559,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F04%2Fohmynews%2F20210904112709497ksug.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['D.P.' 신승호, 미필인데..실감나는 정해인 선임 [★신스틸러] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210904130001469</link>
-            <guid>https://movie.v.daum.net/v/20210904130001469</guid>
-            <pubDate>Sat, 04 Sep 2021 04:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] /사진=넷플릭스 'D.P'. 신승호 스틸군대 미필인 배우 신승호가 넷플릭스 시리즈 'D.P.'를 통해 실감나는 선임 병사 모습을 그려냈다. 'D.P.'는 탈영병들을 잡는 군무 이탈 체포조(D.P.) 준호(정해인 분)와 호열(구교환 분)이 다양한 사연을 가진 이들을 쫓으며 미처 알지 못했던 현실을 마주하는 이야기를 그린 넷플릭스 시리]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F04%2Fstarnews%2F20210904130003172zadx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[빌런의 존재감이 더 큰 '샹치'의 아이러니 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210903140000166</link>
             <guid>https://movie.v.daum.net/v/20210903140000166</guid>
             <pubDate>Fri, 03 Sep 2021 07:15:22 GMT</pubDate>
             <content:encoded><![CDATA[[원종빈 기자] ▲ &nbsp;&lt;샹치와 텐 링즈의 전설&gt; 포스터.    ⓒ 월트 디즈니 컴퍼니 코리아   &nbsp;*이 기사엔 영화의 스포일러가 포함돼 있습니다.&nbsp;&nbsp; 초인적인 능력을 가진 무기 '텐 링즈'의 힘을 이용해&nbsp;수세기 동안 끊임없이 더 강한 권력을 쫓아온 '웬 우(양자 위)'. 만다린이라는 이름으로도 알려진 아버지 웬 우&nbsp;밑에서 어린 시절부터 암살자]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F03%2Fohmynews%2F20210903140003437aqcs.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['D.P.' 신승호, 미필인데..실감나는 정해인 선임 [★신스틸러] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210904130001469</link>
+            <guid>https://movie.v.daum.net/v/20210904130001469</guid>
+            <pubDate>Sat, 04 Sep 2021 04:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 강민경 기자] /사진=넷플릭스 'D.P'. 신승호 스틸군대 미필인 배우 신승호가 넷플릭스 시리즈 'D.P.'를 통해 실감나는 선임 병사 모습을 그려냈다. 'D.P.'는 탈영병들을 잡는 군무 이탈 체포조(D.P.) 준호(정해인 분)와 호열(구교환 분)이 다양한 사연을 가진 이들을 쫓으며 미처 알지 못했던 현실을 마주하는 이야기를 그린 넷플릭스 시리]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F04%2Fstarnews%2F20210904130003172zadx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[전편보다 못한 속편, 반전은 없고 잔인함만 (다음영화 뉴스 ─ 인기)]]></title>
@@ -599,28 +599,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F04%2Fstarnews%2F20210904150002184oyrt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["우리는 함께 살아야 한다"고 말하는 '모가디슈' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210903144801840</link>
-            <guid>https://movie.v.daum.net/v/20210903144801840</guid>
-            <pubDate>Sat, 04 Sep 2021 11:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[[박명훈 기자] ▲ &nbsp;영화 &lt;모가디슈&gt; 스틸 컷    ⓒ 롯데엔터테인먼트  &nbsp;*이 글에는 영화의 줄거리 일부가 나옵니다.&nbsp; 소말리아 모가디슈에서 맞닥뜨린 남과 북&nbsp;최근 화제를 뿌리고 있는 &lt;모가디슈&gt;는 1991년에 있었던 소말리아 내전을 주제로 다룬 영화다. &lt;모가디슈&gt;는 이렇게 시작한다. 카메라는 첫 장면부터 땡볕이 내리쬐는 소말리아의 수도]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F03%2Fohmynews%2F20210903144806191ckpi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['킬링 카인드' 10월 개봉, "친절하고 잔인한 복수 그린 하드코어 액션" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210903102817287</link>
             <guid>https://movie.v.daum.net/v/20210903102817287</guid>
             <pubDate>Sat, 04 Sep 2021 12:22:32 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘007 카지노 로얄’ 마틴 캠벨 감독과 ‘존 윅’ 시리즈 제작진의 조우로 기대를 모으고 있는 영화 ‘킬링 카인드’가 10월 개봉 확정과 함께 포스터를 공개했다. 마이클 키튼, 메기 큐, 사무엘 L. 잭슨 등 할리우드를 대표하는 레전드 액션 배우들의 조합으로 기대를 모으는 영화 ‘킬링 카인드’가 포스터를 공개해 기대를 높인다]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F03%2Fmydaily%2F20210903102817315sosp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스초점] '모가디슈' 300만 돌파..극장가 화제작은? (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210904145433554</link>
-            <guid>https://movie.v.daum.net/v/20210904145433554</guid>
-            <pubDate>Sat, 04 Sep 2021 10:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;출연 : 윤성은 영화평론가&gt; '모가디슈' '싱크홀' '인질' 세 편의 영화가 관객몰이를 하면서 코로나19 속 한국 영화의 질주가 계속될지 관심입니다. 주요 기대작들과 함께 박스오피스엔 어떤 작품이 올랐는지 윤성은 영화평론가와 이야기 나눠보겠습니다. &lt;질문 1&gt; 코로나19로 침체된 극장가에 한국 영화들이 활기를 넣고 있습니다. 특히 7월 28일 상영을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F04%2Fnewsy%2F20210904145433237xios.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[환경에 따라 삶 나뉘는 10대, 셋은 다시 만날 수 있을까 (다음영화 뉴스 ─ 인기)]]></title>
@@ -639,12 +623,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F03%2F10asia%2F20210903075806520paql.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰②]정해인 "배려남 구교환, 너무 웃겨 NG 파티" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210904070307956</link>
-            <guid>https://movie.v.daum.net/v/20210904070307956</guid>
-            <pubDate>Fri, 03 Sep 2021 22:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[(인터뷰①에 이어)배우 정해인(33)이 넷플릭스 신작 'D.P.'에서 기막힌 브로맨스를 보여준 구교환에 대해 "놀라운 배우"라며 극찬을 아끼지 않았다. 정해인은 최근 온라인을 통해 진행된 'D.P.'(극본 김보통 한준희, 연출 한준희) 화상 인터뷰에서 구교환의 이름이 나오자 마자 미소를 지으며 "너무 고맙다"고 운을 뗐다. 그는 "교환이 형은 배려심이 워낙]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F04%2Fstartoday%2F20210904070308598hqvt.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA["우리는 함께 살아야 한다"고 말하는 '모가디슈' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210903144801840</link>
+            <guid>https://movie.v.daum.net/v/20210903144801840</guid>
+            <pubDate>Sat, 04 Sep 2021 11:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[[박명훈 기자] ▲ &nbsp;영화 &lt;모가디슈&gt; 스틸 컷    ⓒ 롯데엔터테인먼트  &nbsp;*이 글에는 영화의 줄거리 일부가 나옵니다.&nbsp; 소말리아 모가디슈에서 맞닥뜨린 남과 북&nbsp;최근 화제를 뿌리고 있는 &lt;모가디슈&gt;는 1991년에 있었던 소말리아 내전을 주제로 다룬 영화다. &lt;모가디슈&gt;는 이렇게 시작한다. 카메라는 첫 장면부터 땡볕이 내리쬐는 소말리아의 수도]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F03%2Fohmynews%2F20210903144806191ckpi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스초점] '모가디슈' 300만 돌파..극장가 화제작은? (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210904145433554</link>
+            <guid>https://movie.v.daum.net/v/20210904145433554</guid>
+            <pubDate>Sat, 04 Sep 2021 10:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;출연 : 윤성은 영화평론가&gt; '모가디슈' '싱크홀' '인질' 세 편의 영화가 관객몰이를 하면서 코로나19 속 한국 영화의 질주가 계속될지 관심입니다. 주요 기대작들과 함께 박스오피스엔 어떤 작품이 올랐는지 윤성은 영화평론가와 이야기 나눠보겠습니다. &lt;질문 1&gt; 코로나19로 침체된 극장가에 한국 영화들이 활기를 넣고 있습니다. 특히 7월 28일 상영을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F04%2Fnewsy%2F20210904145433237xios.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[황정민의 매운맛 스릴러 '인질', 130만 돌파 "흥행질주"[공식] (다음영화 뉴스 ─ 인기)]]></title>
@@ -653,6 +645,14 @@
             <pubDate>Sat, 04 Sep 2021 10:16:59 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]개봉 3주 차에도 박스오피스 1위를 지키며 흥행질주를 이어가고 있는 영화 ‘인질’이 4일 130만 관객을 돌파했다. 개봉 3주 차에도 식지 않는 흥행 열기를 이어가고 있는 영화 ‘인질’이 누적 관객수 130만 명을 돌파했다. ‘인질’은 어느 날 새벽, 증거도 목격자도 없이 납치된 배우 황정민을 그린 리얼리티 액션스릴러. 영진위]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F04%2Fmydaily%2F20210904112826031vhnd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰②]정해인 "배려남 구교환, 너무 웃겨 NG 파티" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210904070307956</link>
+            <guid>https://movie.v.daum.net/v/20210904070307956</guid>
+            <pubDate>Fri, 03 Sep 2021 22:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[(인터뷰①에 이어)배우 정해인(33)이 넷플릭스 신작 'D.P.'에서 기막힌 브로맨스를 보여준 구교환에 대해 "놀라운 배우"라며 극찬을 아끼지 않았다. 정해인은 최근 온라인을 통해 진행된 'D.P.'(극본 김보통 한준희, 연출 한준희) 화상 인터뷰에서 구교환의 이름이 나오자 마자 미소를 지으며 "너무 고맙다"고 운을 뗐다. 그는 "교환이 형은 배려심이 워낙]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F04%2Fstartoday%2F20210904070308598hqvt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[정해인 "'D.P.', 내 안의 우울함 되돌아 볼 수 있었던 기회"[★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
