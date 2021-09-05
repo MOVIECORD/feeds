@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-05T09:15:37.204Z</updated>
+    <updated>2021-09-05T10:17:37.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[집에서 즐기는 ‘머내마을영화제’]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002559373</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002559373"/>
+        <updated>2021-09-05T10:16:13.276Z</updated>
+        <content type="html"><![CDATA[경기 용인시 수지구 동천동 주민들이 꾸리는 ‘ 머내마을영화제’가 오는 10~12일 온라인 줌으로 열린다. 2018 년 시작된 영화제는 매년 100 명 가까운 주민들이 직접 스태프로 참여해 주민센터 , 공원 , 도서관]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['샹치와 텐 링즈의 전설' 시무 리우 "이 영화가 세상 바꿀 것" [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004469560</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010702358"/>
         <updated>2021-09-05T03:15:43.690Z</updated>
         <content type="html"><![CDATA[[화성=뉴시스] 박진희 기자 = 지난 1일 경기 화성시 롯데시네마 동탄에서 극장 직원이 티켓발매기를 소독하고 있다. 영화가 시작되면 관람객 손길이 닫는 부분을 매회마다 소독한다. 2021.09.05. pak7130@]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[텅빈 상영관 출구 복도]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010702357</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010702357"/>
-        <updated>2021-09-05T03:15:43.692Z</updated>
-        <content type="html"><![CDATA[[화성=뉴시스] 박진희 기자 = 지난 1일 경기 화성시 롯데시네마 동탄 상영관 출구 복도가 한가하다. 2021.09.05. pak7130@newsis.com [사진 영상 제보받습니다] 공감언론 뉴시스가 독자 여러분의]]></content>
     </entry>
 </feed>
