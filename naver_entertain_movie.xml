@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-05T11:13:54.435Z</updated>
+    <updated>2021-09-05T13:21:20.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘참과 거짓, 선과 악’…모호한 윤리적 경계서 흔들리는 현대인 [리뷰]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003096341</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003096341"/>
+        <updated>2021-09-05T13:19:54.561Z</updated>
+        <content type="html"><![CDATA[[경향신문] 많은 이들이 스스로를 ‘좋은 사람’이라고 믿는다. 다른 사람에 대해서는 몇 마디 말이나 행동으로 ‘좋은 사람’인지 아닌지 판단한다. 영화 &lt;좋은 사람&gt;(감독 정욱)은 이것이 얼마나 힘든 일인지 101분의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[집에서 즐기는 ‘머내마을영화제’]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002559373</id>
@@ -170,13 +177,6 @@
         <title type="html"><![CDATA['공포 영화보다 무서운 코로나19']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010702359</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010702359"/>
-        <updated>2021-09-05T03:15:43.690Z</updated>
-        <content type="html"><![CDATA[[화성=뉴시스] 박진희 기자 = 지난 1일 경기 화성시 롯데시네마 동탄에서 극장 직원이 티켓발매기를 소독하고 있다. 영화가 시작되면 관람객 손길이 닫는 부분을 매회마다 소독한다. 2021.09.05. pak7130@]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['공포 영화보다 무서운 코로나19']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010702358</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010702358"/>
         <updated>2021-09-05T03:15:43.690Z</updated>
         <content type="html"><![CDATA[[화성=뉴시스] 박진희 기자 = 지난 1일 경기 화성시 롯데시네마 동탄에서 극장 직원이 티켓발매기를 소독하고 있다. 영화가 시작되면 관람객 손길이 닫는 부분을 매회마다 소독한다. 2021.09.05. pak7130@]]></content>
     </entry>
