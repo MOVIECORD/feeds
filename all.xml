@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Sep 2021 18:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Sep 2021 19:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -287,6 +287,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb83ce3cb29a492a800a4c18c0c168987ecc21e43" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[드림걸즈 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=42728</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=42728</guid>
+            <pubDate>Thu, 26 Aug 2021 00:44:24 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4f98bccfb72790b319d30d2fa4303cd49eda578" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[퍼피 구조대 더 무비 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151320</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151320</guid>
@@ -325,14 +333,6 @@
             <pubDate>Wed, 01 Sep 2021 14:14:26 GMT</pubDate>
             <content:encoded><![CDATA[21.09.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3b418933e186d4468508a60b5f5cbebd1df3146b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[드림걸즈 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=42728</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=42728</guid>
-            <pubDate>Thu, 26 Aug 2021 00:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4f98bccfb72790b319d30d2fa4303cd49eda578" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[블랙 위도우 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -527,20 +527,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F04%2Fohmynews%2F20210904112709497ksug.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[노규민의 영화인싸] 베니스 '황금사자상'까지 만지작 거리는 봉준호 감독 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210905110102846</link>
-            <guid>https://movie.v.daum.net/v/20210905110102846</guid>
-            <pubDate>Sun, 05 Sep 2021 02:31:38 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=노규민 기자]≪노규민의 영화人싸≫노규민 텐아시아 영화팀장이 매주 수요일 오전 영화계 인물에 대한 이야기를 전합니다. 배우, 감독, 작가, 번역가, 제작사 등 영화 생태계 구성원들 가운데 오늘뿐 아니라 미래의 '인싸'들을 집중 탐구합니다."나에게 왜?"티에리 프리모 칸 영화제 집행위원장이 "올해 영화제 개막을 선언해 달라"고 부탁하자, 봉준호 감독]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2F10asia%2F20210905110108215ihhi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['모가디슈'·'싱크홀'·'인질', 상생 옳았다 [스경X초점] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210905102452182</link>
             <guid>https://movie.v.daum.net/v/20210905102452182</guid>
             <pubDate>Sun, 05 Sep 2021 01:59:48 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠경향] 극장가 여름 대전의 끝이 보이고 있다. 성수기 대작들이 개봉을 앞두고 ‘코로나19 확산으로 인한 사회적거리두기 4단계 격상’이란 장애물을 만났지만, 극장과 배급사·제작사 모두 서로를 조금씩 배려하며 ‘개봉’을 선택했다. 그 결과, 상생은 옳았다.5일 영화진흥위원회 영화관입장권 통합전산망 집계 결과 여름 성수기 3대장으로 꼽혔던 ‘모가디슈’와]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2Fsportskhan%2F20210905102454011rxzd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[노규민의 영화인싸] 베니스 '황금사자상'까지 만지작 거리는 봉준호 감독 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210905110102846</link>
+            <guid>https://movie.v.daum.net/v/20210905110102846</guid>
+            <pubDate>Sun, 05 Sep 2021 02:31:38 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=노규민 기자]≪노규민의 영화人싸≫노규민 텐아시아 영화팀장이 매주 수요일 오전 영화계 인물에 대한 이야기를 전합니다. 배우, 감독, 작가, 번역가, 제작사 등 영화 생태계 구성원들 가운데 오늘뿐 아니라 미래의 '인싸'들을 집중 탐구합니다."나에게 왜?"티에리 프리모 칸 영화제 집행위원장이 "올해 영화제 개막을 선언해 달라"고 부탁하자, 봉준호 감독]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2F10asia%2F20210905110108215ihhi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[007부터 마블히어로, 고전 SF까지..기대 모으는 하반기 대작들 (다음영화 뉴스 ─ 인기)]]></title>
@@ -559,20 +559,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2FNEWS1%2F20210905095916574kbvm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['샹치와 텐 링즈의 전설' 흥행에 인질이 된 '이터널스'? [★날선무비] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210905100001701</link>
-            <guid>https://movie.v.daum.net/v/20210905100001701</guid>
-            <pubDate>Sun, 05 Sep 2021 01:59:48 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] /사진=영화 '샹치와 텐 링즈의 전설' 포스터마블 영화 '샹치와 텐 링즈의 전설'이 9월1일 대한민국 전 세계 최초 개봉을 시작으로 9월3일 북미에서도 개봉했다. 그런데 '샹치와 텐 링즈의 전설'의 흥행 성적에 따라 마블영화 '이터널스'의 개봉일이 정해질 수도 있다는 이야기가 흘러나와 귀추가 주목된다. '샹치와 텐 링즈의 전설(이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2Fstarnews%2F20210905100003178jzyj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['모가디슈' 류승완 감독의 진심 [인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210905100207792</link>
             <guid>https://movie.v.daum.net/v/20210905100207792</guid>
             <pubDate>Sun, 05 Sep 2021 01:59:48 GMT</pubDate>
             <content:encoded><![CDATA[[티브이데일리 최하나 기자] 운명처럼 다가온 작품을 운명 같은 시기에 눈앞의 숫자보다는 관객들을 위해 극장 개봉을 감행했다. 좋은 사람들과 함께 만든 좋은 창작물은 결국 어느 시기에도 관객을 움직일 수 있다는 영화의 힘을 보여준 류승완 감독이다. 최근 개봉된 영화 '모가디슈'(감독 류승완·제작 덱스터스튜디오)는 1991년 소말리아의 수도 모가디슈에서 내전으]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2Ftvdaily%2F20210905100210125fiop.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['샹치와 텐 링즈의 전설' 흥행에 인질이 된 '이터널스'? [★날선무비] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210905100001701</link>
+            <guid>https://movie.v.daum.net/v/20210905100001701</guid>
+            <pubDate>Sun, 05 Sep 2021 01:59:48 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 강민경 기자] /사진=영화 '샹치와 텐 링즈의 전설' 포스터마블 영화 '샹치와 텐 링즈의 전설'이 9월1일 대한민국 전 세계 최초 개봉을 시작으로 9월3일 북미에서도 개봉했다. 그런데 '샹치와 텐 링즈의 전설'의 흥행 성적에 따라 마블영화 '이터널스'의 개봉일이 정해질 수도 있다는 이야기가 흘러나와 귀추가 주목된다. '샹치와 텐 링즈의 전설(이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2Fstarnews%2F20210905100003178jzyj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['샹치와 텐 링즈의 전설' 시무 리우 "이 영화가 세상 바꿀 것" [Oh!llywood] (다음영화 뉴스 ─ 인기)]]></title>
@@ -583,20 +583,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2Fpoctan%2F20210905175206317jyyp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[9월 극장가도 순항할까..샹치→기적·보이스 기대작 출격 [N초점] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210905053008976</link>
-            <guid>https://movie.v.daum.net/v/20210905053008976</guid>
-            <pubDate>Sun, 05 Sep 2021 18:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 올여름 극장가는 마블 영화 '블랙 위도우'부터 한국 대작들이 흥행을 이끌며 숨통을 불어넣었다. 9월에 관객들과 만날 영화들이 기세를 이어 받아 신종 코로나바이러스 감염증(코로나19) 팬데믹 속에서 선전할 수 있을지 이목이 쏠린다. 지난 1일 개봉해 9월을 연 마블의 '샹치와 텐링즈의 전설'은 개봉 첫날과 이튿날 박스오피스]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2FNEWS1%2F20210905053009350zbek.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[이창열 감독의 '그대 어이가리', 베를린국제예술영화제 본선 경쟁 진출 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210905122101540</link>
             <guid>https://movie.v.daum.net/v/20210905122101540</guid>
             <pubDate>Sun, 05 Sep 2021 04:19:57 GMT</pubDate>
             <content:encoded><![CDATA[[김철관 기자] &nbsp;코로나19가 창궐할 때인 지난해&nbsp;9월 촬영에 들어가 지난&nbsp;2월&nbsp;17일 서울 용산CGV에서 시사회를 마친 이창열 감독의 영화&nbsp;&lt; 그대 어이가리, a song for may dear &gt;가 오는&nbsp;10월 열릴 베를린국제예술영화제 본선 경쟁작으로 공식 초청됐다. 영화&nbsp;&lt;그대 어이가리&gt;의 이창열 감독은&nbsp;4일 오후&nbsp;"'그대 어이가리'가 오늘 베를린국제]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2Fohmynews%2F20210905122102257lczq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[9월 극장가도 순항할까..샹치→기적·보이스 기대작 출격 [N초점] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210905053008976</link>
+            <guid>https://movie.v.daum.net/v/20210905053008976</guid>
+            <pubDate>Sun, 05 Sep 2021 18:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 올여름 극장가는 마블 영화 '블랙 위도우'부터 한국 대작들이 흥행을 이끌며 숨통을 불어넣었다. 9월에 관객들과 만날 영화들이 기세를 이어 받아 신종 코로나바이러스 감염증(코로나19) 팬데믹 속에서 선전할 수 있을지 이목이 쏠린다. 지난 1일 개봉해 9월을 연 마블의 '샹치와 텐링즈의 전설'은 개봉 첫날과 이튿날 박스오피스]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2FNEWS1%2F20210905053009350zbek.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[돌봄의 책임을 떠맡은 누나들의 이야기..영화 '내가 날 부를 때' (다음영화 뉴스 ─ 인기)]]></title>
