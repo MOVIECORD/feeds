@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-05T06:19:25.723Z</updated>
+    <updated>2021-09-05T07:16:01.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["성범죄자와 함께"…안젤리나 졸리가 밝힌 브래드 피트와의 이혼 사유]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005029736</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005029736"/>
+        <updated>2021-09-05T07:14:44.048Z</updated>
+        <content type="html"><![CDATA[[이데일리 김민정 기자] 할리우드 배우 안젤리나 졸리가 배우 브래드 피트와 결혼 생활을 하며 고통을 받았다고 밝혔다. 졸리는 최근 가디언지와의 인터뷰에서 자신의 저서 ‘Know Your Rights’와 관련, 피트와]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["외국인 활동 안돼"…이연걸·유역비도 中서 퇴출 위기]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005583940</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005583940"/>
+        <updated>2021-09-05T07:14:44.048Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 원태성 기자 = 중국 연예계에 정풍 운동의 바람이 거세지면서 중국에서 활동하는 외국 국적 연예인이 퇴출 위기에 놓였다. 정풍 운동(整風運動)은 마오쩌둥이 주창한 당원 활동 쇄신 운동으로 당원을 교육하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘좋은 사람’이 되고 싶은 현대인의 윤리적 딜레마 <좋은 사람> [리뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003096261</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010702289"/>
         <updated>2021-09-05T01:59:22.241Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]이수지 기자 = 영화 '샹치와 텐 링즈의 전설'이 4일 연속 박스오피스 1위에 올랐다. 5일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 전날 '샹치와 텐 링즈의 전설'은 관객 23만3084명을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘모가디슈’·‘싱크홀’·‘인질’, 상생 옳았다 [스경X초점]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000759889</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000759889"/>
-        <updated>2021-09-05T01:59:22.244Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 극장가 여름 대전의 끝이 보이고 있다. 성수기 대작들이 개봉을 앞두고 ‘코로나19 확산으로 인한 사회적거리두기 4단계 격상’이란 장애물을 만났지만, 극장과 배급사·제작사 모두 서로를 조금씩 배려하며 ‘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[복면가수-트로트 열풍, 2007년에 예견한 이 인물]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002325630</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002325630"/>
-        <updated>2021-09-05T01:59:22.262Z</updated>
-        <content type="html"><![CDATA[[그 시절, 우리가 좋아했던 영화] ‘예능대부’ 이경규가 제작한 영화 &lt;복면달호&gt; 4인조 밴드 국카스텐의 리더이자 보컬 하현우는 엄청난 발성과 폭넓은 음역대를 자랑하는 국내 최정상급 보컬리스트다. 불과 7~8년 전까]]></content>
     </entry>
 </feed>
