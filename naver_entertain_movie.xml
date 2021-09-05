@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-05T21:14:34.542Z</updated>
+    <updated>2021-09-05T22:16:36.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[울산국제영화제 제작 지원작 35편 온라인 소개…12월 작품 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012643706</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012643706"/>
+        <updated>2021-09-05T22:15:11.449Z</updated>
+        <content type="html"><![CDATA[(울산=연합뉴스) 허광무 기자 = 울산시는 '2021년 울산국제영화제(UIFF) 영화제작 지원 사업' 대상작 35편 주요 내용과 제작 과정을 소개하는 '위프 살롱 시즌2'를 7일부터 12월 말까지 진행한다고 6일 밝]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘참과 거짓, 선과 악’…모호한 윤리적 경계서 흔들리는 현대인 [리뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003096341</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010702360</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010702360"/>
         <updated>2021-09-05T03:15:43.689Z</updated>
-        <content type="html"><![CDATA[[화성=뉴시스] 박진희 기자 = 지난 1일 경기 화성시 롯데시네마 동탄에서 극장 직원이 티켓발매기를 소독하고 있다. 영화가 시작되면 관람객 손길이 닫는 부분을 매회마다 소독한다. 2021.09.05. pak7130@]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['공포 영화보다 무서운 코로나19']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010702359</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010702359"/>
-        <updated>2021-09-05T03:15:43.690Z</updated>
         <content type="html"><![CDATA[[화성=뉴시스] 박진희 기자 = 지난 1일 경기 화성시 롯데시네마 동탄에서 극장 직원이 티켓발매기를 소독하고 있다. 영화가 시작되면 관람객 손길이 닫는 부분을 매회마다 소독한다. 2021.09.05. pak7130@]]></content>
     </entry>
 </feed>
