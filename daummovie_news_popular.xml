@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Sep 2021 07:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Sep 2021 08:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2Fohmynews%2F20210905122102257lczq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['쇼미더고스트'-'좋은 사람'-'건파우더 밀크셰이크' [강추비추]]]></title>
+            <link>https://movie.v.daum.net/v/20210905095901681</link>
+            <guid>https://movie.v.daum.net/v/20210905095901681</guid>
+            <pubDate>Sun, 05 Sep 2021 03:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진=각 영화 포스터마블 영화 '샹치와 텐 링즈의 전설'이 박스오피스 1위로 질주 중인 가운데, 작은 영화들이 새로 관객을 찾는다. 카라 출신 한승연 주연의 '쇼 미 더 고스트', 부산국제영화제 화제작 '좋은 사람' 그리고 외화 '건파우더 밀크셰이크'를 소개한다. /사진='쇼 미 더 고스트' 스틸컷'쇼 미 더 고스트', 감독 김은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2Fstarnews%2F20210905095902588hiqi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA["이주민도 우리와 같다" 이주민-선주민 독립영화 제작]]></title>
             <link>https://movie.v.daum.net/v/20210905082225425</link>
             <guid>https://movie.v.daum.net/v/20210905082225425</guid>
@@ -120,14 +128,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F03%2FSpoHankook%2F20210903182101884havh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['쇼미더고스트'-'좋은 사람'-'건파우더 밀크셰이크' [강추비추]]]></title>
-            <link>https://movie.v.daum.net/v/20210905095901681</link>
-            <guid>https://movie.v.daum.net/v/20210905095901681</guid>
-            <pubDate>Sun, 05 Sep 2021 03:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진=각 영화 포스터마블 영화 '샹치와 텐 링즈의 전설'이 박스오피스 1위로 질주 중인 가운데, 작은 영화들이 새로 관객을 찾는다. 카라 출신 한승연 주연의 '쇼 미 더 고스트', 부산국제영화제 화제작 '좋은 사람' 그리고 외화 '건파우더 밀크셰이크'를 소개한다. /사진='쇼 미 더 고스트' 스틸컷'쇼 미 더 고스트', 감독 김은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2Fstarnews%2F20210905095902588hiqi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[농인 가족과 세상의 징검다리 소녀의 '다른' 꿈]]></title>
             <link>https://movie.v.daum.net/v/20210905121800500</link>
             <guid>https://movie.v.daum.net/v/20210905121800500</guid>
@@ -136,20 +136,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2Fohmynews%2F20210905121801567knao.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[9월 극장가도 순항할까..샹치→기적·보이스 기대작 출격 [N초점]]]></title>
-            <link>https://movie.v.daum.net/v/20210905053008976</link>
-            <guid>https://movie.v.daum.net/v/20210905053008976</guid>
-            <pubDate>Sun, 05 Sep 2021 05:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 올여름 극장가는 마블 영화 '블랙 위도우'부터 한국 대작들이 흥행을 이끌며 숨통을 불어넣었다. 9월에 관객들과 만날 영화들이 기세를 이어 받아 신종 코로나바이러스 감염증(코로나19) 팬데믹 속에서 선전할 수 있을지 이목이 쏠린다. 지난 1일 개봉해 9월을 연 마블의 '샹치와 텐링즈의 전설'은 개봉 첫날과 이튿날 박스오피스]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2FNEWS1%2F20210905053009350zbek.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['샹치와 텐 링즈의 전설', 土 하루 23만..누적 50만 돌파 [★무비차트]]]></title>
-            <link>https://movie.v.daum.net/v/20210905073657125</link>
-            <guid>https://movie.v.daum.net/v/20210905073657125</guid>
-            <pubDate>Sat, 04 Sep 2021 23:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진=영화 포스터마블 영화  '샹치와 텐 링즈의 전설'이 개봉 첫 토요일 하루 23만명의 관객을 모으며 박스오피스 1위를 지켰다. 5일 영진위 영화관 입장권 통합전산망에 따르며 '샹치와 텐 링즈의 전설'은 지난 4일 23만 2848명의 관객을 모았다. 누적관객수는 54만 5824명이다. 2위는 '인질'로 5만 6436명이 봤다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2Fstarnews%2F20210905073658655gbiy.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[Han Seung-yeon talks taking the leap from girl group to actor]]></title>
+            <link>https://movie.v.daum.net/v/20210905161402606</link>
+            <guid>https://movie.v.daum.net/v/20210905161402606</guid>
+            <pubDate>Sun, 05 Sep 2021 08:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[Former girl group Kara member Han Seung-yeon is making her silver screen debut in “Show Me the Ghost” which hits local theaters on Sept. 9. The thriller comedy tells the story of college graduates wh]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2Fkoreajoongangdaily%2F20210905161404042lukm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[황정민 '인질', 130만 돌파..150만 향해 질주]]></title>
@@ -160,12 +152,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2Fstarnews%2F20210905150947835cuam.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[동양인 히어로 통했다..'샹치와 텐 링즈의 전설' 50만 돌파]]></title>
-            <link>https://movie.v.daum.net/v/20210905144946957</link>
-            <guid>https://movie.v.daum.net/v/20210905144946957</guid>
-            <pubDate>Sun, 05 Sep 2021 07:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘샹치와 텐 링즈의 전설’이 50만 관객을 돌파했다. 5일 오전 영화진흥위원회 영화관입장권 통합전산망에 따르면  ‘샹치와 텐 링즈의 전설’은 지난 4일 전국에서 23만 3,039명이 관람했다. 이 작품은 지난 1일, 전 세계 최초 국내 개봉했으며 4일째 박스오피스 1위를 유지하고 있다. 누적 관객수는 54만 6,015명이다. ‘샹치와 텐 링즈의 전]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2Fhankooki%2F20210905144949074tggi.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['샹치와 텐 링즈의 전설', 土 하루 23만..누적 50만 돌파 [★무비차트]]]></title>
+            <link>https://movie.v.daum.net/v/20210905073657125</link>
+            <guid>https://movie.v.daum.net/v/20210905073657125</guid>
+            <pubDate>Sat, 04 Sep 2021 23:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진=영화 포스터마블 영화  '샹치와 텐 링즈의 전설'이 개봉 첫 토요일 하루 23만명의 관객을 모으며 박스오피스 1위를 지켰다. 5일 영진위 영화관 입장권 통합전산망에 따르며 '샹치와 텐 링즈의 전설'은 지난 4일 23만 2848명의 관객을 모았다. 누적관객수는 54만 5824명이다. 2위는 '인질'로 5만 6436명이 봤다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2Fstarnews%2F20210905073658655gbiy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[박서준, '캡틴마블2' 촬영 위해 출국 外 [위클리 무비]]]></title>
+            <link>https://movie.v.daum.net/v/20210904100301628</link>
+            <guid>https://movie.v.daum.net/v/20210904100301628</guid>
+            <pubDate>Sun, 05 Sep 2021 08:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 한 주간 생생한 영화 소식을 전해드립니다.박서준이 마블영화 '캡틴마블2' 출연을 위해 3일 출국했다. ○…박서준이 마블영화 '더 마블스' 촬영을 위해 영국으로 지난 3일 출국했다. '더 마블스'는 '캡틴 마블2'의 공식 타이틀. 박서준의 출국과 함께 소속사는 그의 마블영화 출연을 공식화했다. 소속사 어썸이엔티는 보도자료를 통해 "박]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F04%2Fstarnews%2F20210904100302360ftgy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
