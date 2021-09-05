@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-05T02:00:56.011Z</updated>
+    <updated>2021-09-05T02:32:30.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[코로나시대 문화현장]300만 돌파 활기?...극장가 "그래서 더 방역 철저"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010702332</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010702332"/>
+        <updated>2021-09-05T02:31:16.548Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 지난해 시작된 코로나19 사태 관객 발길 뚝 끊겨 올 여름 성수기, 대형 한국영화 개봉 잇따라 활기 그럼에도 어려운 영화관…정부 '위드 코로나' 정책 절실 [서울=뉴시스] 남정현 임하은 수습 기자 =]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[노규민의 영화인싸] 베니스 '황금사자상'까지 만지작 거리는 봉준호 감독]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000498630</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000498630"/>
+        <updated>2021-09-05T02:31:16.548Z</updated>
+        <content type="html"><![CDATA[[텐아시아=노규민 기자] ≪노규민의 영화人싸≫ 노규민 텐아시아 영화팀장이 매주 수요일 오전 영화계 인물에 대한 이야기를 전합니다. 배우, 감독, 작가, 번역가, 제작사 등 영화 생태계 구성원들 가운데 오늘뿐 아니라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['샹치와 텐 링즈의 전설', 나흘 연속 박스오피스 1위...54만명 돌파]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010702289</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002986033"/>
         <updated>2021-09-04T04:19:35.136Z</updated>
         <content type="html"><![CDATA[군대 미필인 배우 신승호가 넷플릭스 시리즈 'D.P.'를 통해 실감나는 선임 병사 모습을 그려냈다. 'D.P.'는 탈영병들을 잡는 군무 이탈 체포조(D.P.) 준호(정해인 분)와 호열(구교환 분)이 다양한 사연을 가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘톰 홀랜드♥’ 젠데이아, 앞트임 원피스 입고 아슬아슬 각선미 "위험천만"[MD할리우드]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003533458</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003533458"/>
-        <updated>2021-09-04T04:19:35.143Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘스파이더맨’ 톰 홀랜드와 공개열애를 즐기고 있는 젠데이아가 패션 감각을 뽐냈다. 그는 3일(현지시간) 제78회 베네스 국제영화제에서 열린 영화 ‘듄’ 포토타임 행사에 참석했다. 젠데이아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황정민의 매운맛 스릴러 ‘인질’, 130만 돌파 “흥행질주”[공식]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003533453</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003533453"/>
-        <updated>2021-09-04T02:30:00.737Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]개봉 3주 차에도 박스오피스 1위를 지키며 흥행질주를 이어가고 있는 영화 ‘인질’이 4일 130만 관객을 돌파했다. 개봉 3주 차에도 식지 않는 흥행 열기를 이어가고 있는 영화 ‘인질’이]]></content>
     </entry>
 </feed>
