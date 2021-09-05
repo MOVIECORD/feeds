@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Sep 2021 20:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Sep 2021 21:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2Fyonhap%2F20210905081508127ulrf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['샹치와 텐 링즈의 전설' 흥행에 인질이 된 '이터널스'? [★날선무비]]]></title>
+            <link>https://movie.v.daum.net/v/20210905100001701</link>
+            <guid>https://movie.v.daum.net/v/20210905100001701</guid>
+            <pubDate>Sun, 05 Sep 2021 01:59:48 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 강민경 기자] /사진=영화 '샹치와 텐 링즈의 전설' 포스터마블 영화 '샹치와 텐 링즈의 전설'이 9월1일 대한민국 전 세계 최초 개봉을 시작으로 9월3일 북미에서도 개봉했다. 그런데 '샹치와 텐 링즈의 전설'의 흥행 성적에 따라 마블영화 '이터널스'의 개봉일이 정해질 수도 있다는 이야기가 흘러나와 귀추가 주목된다. '샹치와 텐 링즈의 전설(이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2Fstarnews%2F20210905100003178jzyj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[주말 하루 23만 동원한 '샹치', 4일 연속 1위 [Nbox]]]></title>
             <link>https://movie.v.daum.net/v/20210905095916686</link>
             <guid>https://movie.v.daum.net/v/20210905095916686</guid>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 05 Sep 2021 01:59:48 GMT</pubDate>
             <content:encoded><![CDATA[[티브이데일리 최하나 기자] 운명처럼 다가온 작품을 운명 같은 시기에 눈앞의 숫자보다는 관객들을 위해 극장 개봉을 감행했다. 좋은 사람들과 함께 만든 좋은 창작물은 결국 어느 시기에도 관객을 움직일 수 있다는 영화의 힘을 보여준 류승완 감독이다. 최근 개봉된 영화 '모가디슈'(감독 류승완·제작 덱스터스튜디오)는 1991년 소말리아의 수도 모가디슈에서 내전으]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2Ftvdaily%2F20210905100210125fiop.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['샹치와 텐 링즈의 전설' 흥행에 인질이 된 '이터널스'? [★날선무비]]]></title>
-            <link>https://movie.v.daum.net/v/20210905100001701</link>
-            <guid>https://movie.v.daum.net/v/20210905100001701</guid>
-            <pubDate>Sun, 05 Sep 2021 01:59:48 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] /사진=영화 '샹치와 텐 링즈의 전설' 포스터마블 영화 '샹치와 텐 링즈의 전설'이 9월1일 대한민국 전 세계 최초 개봉을 시작으로 9월3일 북미에서도 개봉했다. 그런데 '샹치와 텐 링즈의 전설'의 흥행 성적에 따라 마블영화 '이터널스'의 개봉일이 정해질 수도 있다는 이야기가 흘러나와 귀추가 주목된다. '샹치와 텐 링즈의 전설(이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2Fstarnews%2F20210905100003178jzyj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['샹치와 텐 링즈의 전설' 시무 리우 "이 영화가 세상 바꿀 것" [Oh!llywood]]]></title>
@@ -110,6 +110,14 @@
             <pubDate>Sat, 04 Sep 2021 23:15:20 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 강애란 기자 = "밉진 않지만, 희생하고 싶지는 않아요." 중국판 '82년생 김지영'이라고 불리는 영화 '내가 날 부를 때'는 딸로 태어난 여성들이 경험해야 했던 차별과 보이지 않는 억압을 안란이란 인물을 통해 섬세하게 들춰낸다. 영화는 집에서 나와 홀로 살아가던 안란이 부모님의 교통사고로 어린 남동생을 떠맡게 되면서 마주한 인생의 갈림길]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2Fyonhap%2F20210905080134934vfjb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['D.P.' 신승호, 미필인데..실감나는 정해인 선임 [★신스틸러]]]></title>
+            <link>https://movie.v.daum.net/v/20210904130001469</link>
+            <guid>https://movie.v.daum.net/v/20210904130001469</guid>
+            <pubDate>Sun, 05 Sep 2021 21:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 강민경 기자] /사진=넷플릭스 'D.P'. 신승호 스틸군대 미필인 배우 신승호가 넷플릭스 시리즈 'D.P.'를 통해 실감나는 선임 병사 모습을 그려냈다. 'D.P.'는 탈영병들을 잡는 군무 이탈 체포조(D.P.) 준호(정해인 분)와 호열(구교환 분)이 다양한 사연을 가진 이들을 쫓으며 미처 알지 못했던 현실을 마주하는 이야기를 그린 넷플릭스 시리]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F04%2Fstarnews%2F20210904130003172zadx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[집에서 즐기는 '머내마을영화제']]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 05 Sep 2021 07:15:07 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='인질' 포스터황정민의 매운맛 스릴러 '인질'의 흥행질주는 계속된다! 개봉 3주 차에도 박스오피스 1위를 지키며 흥행질주를 이어가고 있는 영화 '인질'이 오늘 130만 관객을 돌파했다. 영진위 영화관 입장권 통합전산망에 따르면 '인질'은 지난 4일 누적관객수 130만 명을 돌파했다. '인질'은 어느 날 새벽, 증거도 목격자도]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2Fstarnews%2F20210905150947835cuam.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[황정민의 매운맛 스릴러 '인질', 130만 돌파 "흥행질주"[공식]]]></title>
-            <link>https://movie.v.daum.net/v/20210904112825740</link>
-            <guid>https://movie.v.daum.net/v/20210904112825740</guid>
-            <pubDate>Sun, 05 Sep 2021 18:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]개봉 3주 차에도 박스오피스 1위를 지키며 흥행질주를 이어가고 있는 영화 ‘인질’이 4일 130만 관객을 돌파했다. 개봉 3주 차에도 식지 않는 흥행 열기를 이어가고 있는 영화 ‘인질’이 누적 관객수 130만 명을 돌파했다. ‘인질’은 어느 날 새벽, 증거도 목격자도 없이 납치된 배우 황정민을 그린 리얼리티 액션스릴러. 영진위]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F04%2Fmydaily%2F20210904112826031vhnd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
