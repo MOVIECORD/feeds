@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Sep 2021 02:03:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Sep 2021 04:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Tue, 31 Aug 2021 23:15:16 GMT</pubDate>
             <content:encoded><![CDATA[21.09.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffcb57690e78a42ddc2cdc6423b4c4e64971ee5bc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[사운드 오브 데스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149429</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149429</guid>
+            <pubDate>Thu, 02 Sep 2021 00:47:47 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F65e6f78f4ff4b22b3fd6ccc8ab61b69edda25493" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[뱅드림! 로젤리아 에피소드Ⅱ: 송 아이 엠]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 02 Sep 2021 00:47:47 GMT</pubDate>
             <content:encoded><![CDATA[21.09.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6742e6f97365b3f781d3dd59e6ac02384d153da3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[사운드 오브 데스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149429</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149429</guid>
-            <pubDate>Thu, 02 Sep 2021 00:47:47 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F65e6f78f4ff4b22b3fd6ccc8ab61b69edda25493" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[해변의 에트랑제]]></title>
