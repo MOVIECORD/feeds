@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-06T16:25:32.999Z</updated>
+    <updated>2021-09-06T17:22:08.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[울산국제영화제 맛보기 ‘위프살롱 시즌2’ 열린다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003617127</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003617127"/>
+        <updated>2021-09-06T17:20:45.772Z</updated>
+        <content type="html"><![CDATA[울산시는 7일부터 12월 말까지 울산국제영화제(UIFF) ‘위프 살롱 시즌2’를 연다고 6일 밝혔다. ‘위프 살롱 시즌 2’는 2021년 울산국제영화제 영화제작 지원 사업의 35개 작품 감독들과 소통하면서 영화의 주]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[누벨바그 영화 주역, 프랑스 국민배우 장폴 벨몽도 별세]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012645913</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012645913"/>
-        <updated>2021-09-06T16:24:07.328Z</updated>
+        <updated>2021-09-06T17:20:45.773Z</updated>
         <content type="html"><![CDATA[(파리=연합뉴스) 현혜란 특파원 = 한 시대를 풍미한 프랑스 국민배우 장폴 벨몽도가 88세를 일기로 영면에 들었다고 AFP, AP 통신 등이 6일(현지시간) 전했다. 반세기 동안 프랑스 영화계를 지탱해온 벨몽도는 파]]></content>
     </entry>
     <entry>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000132726"/>
         <updated>2021-09-06T09:15:13.275Z</updated>
         <content type="html"><![CDATA[▶ 줄거리 단 한 통의 전화! 걸려오는 순간 걸려들었다! 부산 건설현장 직원들을 상대로 걸려온 전화 한 통. 보이스피싱 전화로 인해 딸의 병원비부터 아파트 중도금까지, 당일 현장에서는 수많은 사람들이 목숨 같은 돈을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보이스' 김무열 "활개치는 보이스피싱…백신되는 영화이길" [N현장]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005586613</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005586613"/>
-        <updated>2021-09-06T09:15:13.276Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 김무열이 영화 '보이스'가 보이스피싱에 백신 역할을 하는 작품이 되기를 바란다고 밝혔다. 김무열은 6일 오후 서울 용산구 CGV용산아이파크몰에서 진행된 영화 '보이스'(감독 김선]]></content>
     </entry>
 </feed>
