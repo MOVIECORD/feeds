@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-06T18:18:31.158Z</updated>
+    <updated>2021-09-06T19:13:40.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[길이 400m ‘모래 벌레’ 압권… 영화로 보는 SF소설의 걸작]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001469102</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001469102"/>
+        <updated>2021-09-06T19:12:13.418Z</updated>
+        <content type="html"><![CDATA[드니 빌뇌브 감독의 신작 ‘듄’은 개봉 전부터 소문이 무성한 영화다. 프랭크 허버트가 1965년 출간한 동명의 원작이 공상과학 소설(SF) 역사상 가장 많이 팔린 작품인 덕분이다. ‘코스모스’의 저자인 천문학자 칼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[누벨바그 주역 프랑스 배우 장폴 벨몽도 영면…"그는 국보였다"(종합)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012645919</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010704941"/>
         <updated>2021-09-06T09:15:13.275Z</updated>
         <content type="html"><![CDATA[기사내용 요약 변요한·김무열 영화 '보이스' 언론 시사회 "대한민국에 만연한 범죄...리얼함 주안점" 범죄물·액션물...추석 시즌 오는 15일 개봉 [서울=뉴시스] 남정현 기자 = 변요한·김무열 영화 '보이스피싱'이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보이스', 실제 보이스피싱 대본까지 참고…"피해자들 잘못 아냐" [MD현장](종합)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003534102</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003534102"/>
-        <updated>2021-09-06T09:15:13.275Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 김나라 기자] 영화 '보이스'가 역대급 리얼 범죄액션으로 관객들을 사로잡을 전망이다. 6일 오후 서울 용산구 CGV 용산아이파크몰에선 영화 '보이스' 언론시사회 및 기자간담회가 열렸다. 공동 연출자]]></content>
     </entry>
 </feed>
