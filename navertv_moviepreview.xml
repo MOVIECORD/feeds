@@ -4,9 +4,41 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Sep 2021 00:54:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Sep 2021 02:03:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['나의 흑역사 로맨티카' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/22285048</link>
+            <guid>https://tv.naver.com/v/22285048</guid>
+            <pubDate>Mon, 06 Sep 2021 02:02:58 GMT</pubDate>
+            <content:encoded><![CDATA[9분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210906_82/af0pz_1630893221505hOSiB_JPEG/f3d49556-0eb4-11ec-86ec-48df37ae3fca_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['007 노 타임 투 다이' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/22284353</link>
+            <guid>https://tv.naver.com/v/22284353</guid>
+            <pubDate>Mon, 06 Sep 2021 02:02:58 GMT</pubDate>
+            <content:encoded><![CDATA[44분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210906_198/hmU2V_1630891126443YC1F0_JPEG/0892e44a-0eb0-11ec-93f2-a0369ff95ec0_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['건파우더 밀크셰이크' 한글 메시지 영상]]></title>
+            <link>https://tv.naver.com/v/22284240</link>
+            <guid>https://tv.naver.com/v/22284240</guid>
+            <pubDate>Mon, 06 Sep 2021 02:02:58 GMT</pubDate>
+            <content:encoded><![CDATA[51분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210906_278/Tiwgx_1630890690461X7rSE_JPEG/1630890638593.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['샹치와 텐 링즈의 전설' 30초 리뷰 예고편]]></title>
+            <link>https://tv.naver.com/v/22284124</link>
+            <guid>https://tv.naver.com/v/22284124</guid>
+            <pubDate>Mon, 06 Sep 2021 02:02:58 GMT</pubDate>
+            <content:encoded><![CDATA[58분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210906_26/sAe0Y_1630890290859mmWAT_JPEG/408e2b99-0eae-11ec-8678-48df379cca40_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['우리가 죽기를 바라는 사람들' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/22244018</link>
@@ -108,7 +140,7 @@
             <link>https://tv.naver.com/v/22232490</link>
             <guid>https://tv.naver.com/v/22232490</guid>
             <pubDate>Fri, 03 Sep 2021 01:57:10 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210903_194/VJ8aG_1630633146868DcgMf_JPEG/f624f27f-0c56-11ec-b778-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 01 Sep 2021 08:18:27 GMT</pubDate>
             <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210901_84/DkoL5_1630482979861bkOlC_JPEG/05eafa91-0afa-11ec-89ce-48df379ccacc_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['유물의 저주' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/22196709</link>
-            <guid>https://tv.naver.com/v/22196709</guid>
-            <pubDate>Wed, 01 Sep 2021 08:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210901_154/YFEsK_1630482921641JPv0F_JPEG/e03c381d-0af9-11ec-8678-48df379cca40_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['남권: 영웅쟁패' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/22196680</link>
-            <guid>https://tv.naver.com/v/22196680</guid>
-            <pubDate>Wed, 01 Sep 2021 08:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210901_75/DIzxA_1630482880029wHu0n_JPEG/b2ef3ba0-0af9-11ec-89ce-48df379ccacc_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['캔디맨' '그의 이름을 불러봐' 영상]]></title>
-            <link>https://tv.naver.com/v/22196673</link>
-            <guid>https://tv.naver.com/v/22196673</guid>
-            <pubDate>Wed, 01 Sep 2021 08:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210901_152/QtrxV_1630482872461tED3j_JPEG/8e3adfb5-0af9-11ec-8678-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['극장판 포켓몬스터: 정글의 아이, 코코' 성우 인터뷰 영상]]></title>
-            <link>https://tv.naver.com/v/22194671</link>
-            <guid>https://tv.naver.com/v/22194671</guid>
-            <pubDate>Wed, 01 Sep 2021 07:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210901_2/8goPT_16304793486310tg05_JPEG/6c1208c0-0af1-11ec-b6bf-48df379cc9e4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
