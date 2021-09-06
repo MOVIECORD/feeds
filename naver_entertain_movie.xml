@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-06T14:15:42.114Z</updated>
+    <updated>2021-09-06T15:17:49.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마블 ‘샹치와 텐링즈…’ 개봉 첫 주말 정상에]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003617092</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003617092"/>
+        <updated>2021-09-06T15:16:18.805Z</updated>
+        <content type="html"><![CDATA[아시안 히어로 영화로 ‘주목’ 마블의 첫 아시안 히어로 영화인 ‘샹치와 텐링즈의 전설’이 개봉 첫 주말 박스오피스 정상을 차지했다. 6일 영화진흥위원회 영화관입장권 통합전산망에 따르면 샹치와 텐링즈의 전설은 지난 주]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['보이스', 온 몸 던진 변요한과 디테일의 조화]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000104654</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000104654"/>
+        <updated>2021-09-06T15:16:18.820Z</updated>
+        <content type="html"><![CDATA[디테일 '소름' 액션 '화끈' 교훈 '확실' 디테일과 액션에 충실했다. 변요한은 물리적이든 정신적이든 잡을 수 있는 줄 하나에 온 몸을 날린다. 교훈만은 확실한 영화 '보이스'가 추석 극장가를 찾는다. 6일 서울 용]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[투니버스 '신비아파트', 시즌4로 돌아온다…윤도현 OST]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010705106</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005586611"/>
         <updated>2021-09-06T09:15:13.276Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 김무열이 후배 변요한에 대해 "영화를 끌고가는 힘이 대단했다"고 말했다. 김무열은 6일 오후 서울 용산구 CGV용산아이파크몰에서 진행된 영화 '보이스'(감독 김선 김곡)의 언론배]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보이스' 변요한 "보이스피싱 총책 분한 김무열, 소름 끼쳤다" [N현장]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005586609</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005586609"/>
-        <updated>2021-09-06T09:15:13.276Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 변요한이 "소름이 끼쳤다"며 김무열의 연기력을 칭찬했다. 변요한은 6일 오후 서울 용산구 CGV용산아이파크몰에서 진행된 영화 '보이스'(감독 김선 김곡)의 언론배급시사회 후 기자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변요한X김무열 '보이스', 리얼액션으로 완성한 "보이스피싱 백신 영화"[종합]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000317740</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000317740"/>
-        <updated>2021-09-06T09:15:13.276Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]무시무시한 '보이스피싱', 그리고 그것을 때려잡는 통쾌한 '리얼액션'. 추석 범죄 액션 '보이스'가 베일을 벗었다. 6일 오후 서울 CGV용산아이파크몰에서 영화 '보이스'(감독 김선, 김곡]]></content>
     </entry>
 </feed>
