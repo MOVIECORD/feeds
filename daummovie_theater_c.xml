@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Sep 2021 23:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Sep 2021 00:54:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2a7e642c8a0fdd5a773bd35e199073d9ee12ae58" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[리스펙트]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=137818</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=137818</guid>
-            <pubDate>Tue, 31 Aug 2021 23:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F61b1c5e4a69b691453820cf032d246c61095c496" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[건파우더 밀크셰이크]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=135748</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=135748</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:00 GMT</pubDate>
             <content:encoded><![CDATA[21.09.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F261ebc042837ab44d41ba35f3da5f2dae32d0057" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[리스펙트]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137818</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137818</guid>
+            <pubDate>Tue, 31 Aug 2021 23:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F61b1c5e4a69b691453820cf032d246c61095c496" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[조제, 호랑이 그리고 물고기들]]></title>
