@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-06T19:13:40.802Z</updated>
+    <updated>2021-09-06T20:17:17.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘D.P.’는 시작에 불과… 영화감독 안방 공략 이어진다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000628124</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000628124"/>
+        <updated>2021-09-06T20:15:56.217Z</updated>
+        <content type="html"><![CDATA[화제의 넷플릭스 드라마 ‘D.P.’’는 한준희 감독이 메가폰을 잡았다. 데뷔 영화 ‘차이나타운’(2015)이 칸국제영화제 비평가주간에 초청되며 주목받은 충무로 신진이다. 182만 명이 관람한 ‘뺑반’(2019) 다음]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[길이 400m ‘모래 벌레’ 압권… 영화로 보는 SF소설의 걸작]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001469102</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005586622"/>
         <updated>2021-09-06T09:15:13.275Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = "보이스피싱 백신 영화"를 표방하는 영화 '보이스'가 추석 관객들을 잡기 위해 나선다. 보이스 피싱이라는 공감가는 소재로 관객들의 관심을 끄는 데 성공할 수 있을지 귀추가 주목된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김선·김곡 감독 "보이스피싱 피해자분들 힐링 됐으면"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010704941</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010704941"/>
-        <updated>2021-09-06T09:15:13.275Z</updated>
-        <content type="html"><![CDATA[기사내용 요약 변요한·김무열 영화 '보이스' 언론 시사회 "대한민국에 만연한 범죄...리얼함 주안점" 범죄물·액션물...추석 시즌 오는 15일 개봉 [서울=뉴시스] 남정현 기자 = 변요한·김무열 영화 '보이스피싱'이]]></content>
     </entry>
 </feed>
