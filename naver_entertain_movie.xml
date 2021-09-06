@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-06T15:17:49.894Z</updated>
+    <updated>2021-09-06T16:25:32.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누벨바그 영화 주역, 프랑스 국민배우 장폴 벨몽도 별세]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012645913</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012645913"/>
+        <updated>2021-09-06T16:24:07.328Z</updated>
+        <content type="html"><![CDATA[(파리=연합뉴스) 현혜란 특파원 = 한 시대를 풍미한 프랑스 국민배우 장폴 벨몽도가 88세를 일기로 영면에 들었다고 AFP, AP 통신 등이 6일(현지시간) 전했다. 반세기 동안 프랑스 영화계를 지탱해온 벨몽도는 파]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마블 ‘샹치와 텐링즈…’ 개봉 첫 주말 정상에]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003617092</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005586613"/>
         <updated>2021-09-06T09:15:13.276Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 김무열이 영화 '보이스'가 보이스피싱에 백신 역할을 하는 작품이 되기를 바란다고 밝혔다. 김무열은 6일 오후 서울 용산구 CGV용산아이파크몰에서 진행된 영화 '보이스'(감독 김선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보이스' 김무열 "변요한, 존경하는 배우…영화 끌고가는 힘 대단해" [N현장]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005586611</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005586611"/>
-        <updated>2021-09-06T09:15:13.276Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 김무열이 후배 변요한에 대해 "영화를 끌고가는 힘이 대단했다"고 말했다. 김무열은 6일 오후 서울 용산구 CGV용산아이파크몰에서 진행된 영화 '보이스'(감독 김선 김곡)의 언론배]]></content>
     </entry>
 </feed>

@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Sep 2021 15:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Sep 2021 16:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누벨바그 영화 주역, 프랑스 국민배우 장폴 벨몽도 별세 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012645913</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012645913</guid>
+            <pubDate>Mon, 06 Sep 2021 16:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[(파리=연합뉴스) 현혜란 특파원 = 한 시대를 풍미한 프랑스 국민배우 장폴 벨몽도가 88세를 일기로 영면에 들었다고 AFP, AP 통신 등이 6일(현지시간) 전했다. 반세기 동안 프랑스 영화계를 지탱해온 벨몽도는 파]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[마블 ‘샹치와 텐링즈…’ 개봉 첫 주말 정상에 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003617092</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 김무열이 영화 '보이스'가 보이스피싱에 백신 역할을 하는 작품이 되기를 바란다고 밝혔다. 김무열은 6일 오후 서울 용산구 CGV용산아이파크몰에서 진행된 영화 '보이스'(감독 김선]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['보이스' 김무열 "변요한, 존경하는 배우…영화 끌고가는 힘 대단해" [N현장] (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005586611</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005586611</guid>
-            <pubDate>Mon, 06 Sep 2021 09:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 김무열이 후배 변요한에 대해 "영화를 끌고가는 힘이 대단했다"고 말했다. 김무열은 6일 오후 서울 용산구 CGV용산아이파크몰에서 진행된 영화 '보이스'(감독 김선 김곡)의 언론배]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[샹치와 텐 링즈의 전설 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=129706</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=129706</guid>
@@ -239,20 +239,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e883bbf9717d6e78b84c03dceadc2f748bbaf5b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[코드 카림 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151147</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151147</guid>
-            <pubDate>Thu, 26 Aug 2021 00:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7426c08b967d01f615174ddcd4063545ebaa2f31" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[최선의 삶 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=136365</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=136365</guid>
             <pubDate>Wed, 01 Sep 2021 00:53:08 GMT</pubDate>
             <content:encoded><![CDATA[21.09.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58e6b59e744961d1e5cfcb4aedc92bc9ce35bda0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[코드 카림 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151147</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151147</guid>
+            <pubDate>Thu, 26 Aug 2021 00:44:24 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7426c08b967d01f615174ddcd4063545ebaa2f31" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[바쿠라우 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -543,14 +543,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F06%2Fmydaily%2F20210906073930739xptc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[사람 떠난 철거촌에 남은 위태로운 생명..다큐 '꿈꾸는 고양이' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210906103358068</link>
-            <guid>https://movie.v.daum.net/v/20210906103358068</guid>
-            <pubDate>Mon, 06 Sep 2021 08:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 강애란 기자 = 새집을 찾아 사람들이 떠난 철거촌, 빈집과 텅 빈 골목을 고양이들이 지키고 있다. 곧 부서질 담장과 무너질 건물 사이를 오가는 고양이들의 모습은 위태롭기만 하다. 다큐멘터리 '꿈꾸는 고양이'는 서울의 달동네와 부산, 대구, 경기도 성남의 재개발 지역에 사는 고양이들을 따라간다. 더 좋은 집과 환경에서 살고자 헌 집을 부수는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F06%2Fyonhap%2F20210906103358929uhal.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[시네마Y] '샹치', 마블에 새 이정표 세우며 흥행까지 잡았다 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210906093906433</link>
             <guid>https://movie.v.daum.net/v/20210906093906433</guid>
@@ -559,12 +551,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F06%2FSBSfunE%2F20210906093907481hers.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[돌봄의 책임을 떠맡은 누나들의 이야기..영화 '내가 날 부를 때' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210905080134282</link>
-            <guid>https://movie.v.daum.net/v/20210905080134282</guid>
-            <pubDate>Mon, 06 Sep 2021 00:53:45 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 강애란 기자 = "밉진 않지만, 희생하고 싶지는 않아요." 중국판 '82년생 김지영'이라고 불리는 영화 '내가 날 부를 때'는 딸로 태어난 여성들이 경험해야 했던 차별과 보이지 않는 억압을 안란이란 인물을 통해 섬세하게 들춰낸다. 영화는 집에서 나와 홀로 살아가던 안란이 부모님의 교통사고로 어린 남동생을 떠맡게 되면서 마주한 인생의 갈림길]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2Fyonhap%2F20210905080134934vfjb.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[사람 떠난 철거촌에 남은 위태로운 생명..다큐 '꿈꾸는 고양이' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210906103358068</link>
+            <guid>https://movie.v.daum.net/v/20210906103358068</guid>
+            <pubDate>Mon, 06 Sep 2021 08:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 강애란 기자 = 새집을 찾아 사람들이 떠난 철거촌, 빈집과 텅 빈 골목을 고양이들이 지키고 있다. 곧 부서질 담장과 무너질 건물 사이를 오가는 고양이들의 모습은 위태롭기만 하다. 다큐멘터리 '꿈꾸는 고양이'는 서울의 달동네와 부산, 대구, 경기도 성남의 재개발 지역에 사는 고양이들을 따라간다. 더 좋은 집과 환경에서 살고자 헌 집을 부수는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F06%2Fyonhap%2F20210906103358929uhal.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['세버그' 크리스틴 스튜어트, 숏컷 완벽 변신..'시크美' [Oh!쎈 컷] (다음영화 뉴스 ─ 인기)]]></title>
@@ -573,6 +565,14 @@
             <pubDate>Mon, 06 Sep 2021 09:15:34 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 '세버그'가 올 가을 국내 개봉을 확정짓고 모던하면서도 시크함이 돋보이는 메인 포스터를 공개했다. '세버그'(감독 베네딕트 앤드류, 수입 블루라벨픽쳐스, 배급 예지림엔터테인먼트)의 주인공 진 세버그는 장 뤽 고다르 감독의 영화 '네 멋대로 해라'의 주인공.&nbsp;브리지트 바르도, 제인 폰다 등 1960년대를 풍미한 고전적 배우들 사]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2Fpoctan%2F20210905092904577edre.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[돌봄의 책임을 떠맡은 누나들의 이야기..영화 '내가 날 부를 때' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210905080134282</link>
+            <guid>https://movie.v.daum.net/v/20210905080134282</guid>
+            <pubDate>Mon, 06 Sep 2021 00:53:45 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 강애란 기자 = "밉진 않지만, 희생하고 싶지는 않아요." 중국판 '82년생 김지영'이라고 불리는 영화 '내가 날 부를 때'는 딸로 태어난 여성들이 경험해야 했던 차별과 보이지 않는 억압을 안란이란 인물을 통해 섬세하게 들춰낸다. 영화는 집에서 나와 홀로 살아가던 안란이 부모님의 교통사고로 어린 남동생을 떠맡게 되면서 마주한 인생의 갈림길]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2Fyonhap%2F20210905080134934vfjb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["그의 진실에 대해 전혀 알 수 없어요".. 진행형인 옴진리교 사건 (다음영화 뉴스 ─ 인기)]]></title>
@@ -591,20 +591,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2Fmoneyweek%2F20210905051842926zpsc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['샹치와 텐 링즈의 전설' 흥행에 인질이 된 '이터널스'? [★날선무비] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210905100001701</link>
-            <guid>https://movie.v.daum.net/v/20210905100001701</guid>
-            <pubDate>Mon, 06 Sep 2021 00:53:45 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] /사진=영화 '샹치와 텐 링즈의 전설' 포스터마블 영화 '샹치와 텐 링즈의 전설'이 9월1일 대한민국 전 세계 최초 개봉을 시작으로 9월3일 북미에서도 개봉했다. 그런데 '샹치와 텐 링즈의 전설'의 흥행 성적에 따라 마블영화 '이터널스'의 개봉일이 정해질 수도 있다는 이야기가 흘러나와 귀추가 주목된다. '샹치와 텐 링즈의 전설(이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2Fstarnews%2F20210905100003178jzyj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['해리포터와 마법사의 돌' 개봉 20주년, 15일 재개봉 [공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210906094128554</link>
             <guid>https://movie.v.daum.net/v/20210906094128554</guid>
             <pubDate>Mon, 06 Sep 2021 13:22:30 GMT</pubDate>
             <content:encoded><![CDATA[[티브이데일리 최하나 기자] 판타지 블록버스터 걸작 '해리 포터' 시리즈의 포문을 연 첫 번째 이야기 '해리 포터와 마법사의 돌'이 개봉 20주년 기념해 재개봉한다. 영화 '해리 포터와 마법사의 돌'(감독 크리스 콜럼버스·배급 워너브러더스 코리아)은 11살 생일에 자기가 마법사임을 알게 된 해리 포터가 호그와트 마법학교에 입학해영생을 주는 마법사의 돌을]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F06%2Ftvdaily%2F20210906094129730sbkw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['샹치와 텐 링즈의 전설' 흥행에 인질이 된 '이터널스'? [★날선무비] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210905100001701</link>
+            <guid>https://movie.v.daum.net/v/20210905100001701</guid>
+            <pubDate>Mon, 06 Sep 2021 00:53:45 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 강민경 기자] /사진=영화 '샹치와 텐 링즈의 전설' 포스터마블 영화 '샹치와 텐 링즈의 전설'이 9월1일 대한민국 전 세계 최초 개봉을 시작으로 9월3일 북미에서도 개봉했다. 그런데 '샹치와 텐 링즈의 전설'의 흥행 성적에 따라 마블영화 '이터널스'의 개봉일이 정해질 수도 있다는 이야기가 흘러나와 귀추가 주목된다. '샹치와 텐 링즈의 전설(이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2Fstarnews%2F20210905100003178jzyj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['나는 여기에 있다' 크랭크인..정진운, 파격 변신 (다음영화 뉴스 ─ 인기)]]></title>
@@ -615,12 +615,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F06%2Fstarnews%2F20210906151622414cflj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA["올 타임 베스트"..'듄' 베니스국제영화제 8분간의 기립박수 '역대급 프리미어' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210906150527344</link>
+            <guid>https://movie.v.daum.net/v/20210906150527344</guid>
+            <pubDate>Mon, 06 Sep 2021 15:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '듄'이 현지시간으로 제78회 베니스국제영화제 최고 화제작으로 떠올랐다. 3일, 영화 '듄'(감독 드니 빌뇌브·배급 워너브러더스 코리아)의 제78회 베니스국제영화제 프리미어 상영회를 위해 드니 빌뇌브 감독과 티모시 샬라메, 레베카 퍼거슨, 오스카 아이삭, 젠데이아, 조슈 브롤린, 하비에르 바르뎀 등 출연진이 대거 참석해 현장을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F06%2Ftvdaily%2F20210906150528337hocg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['모가디슈'·'싱크홀'·'인질', 상생 옳았다 [스경X초점] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210905102452182</link>
             <guid>https://movie.v.daum.net/v/20210905102452182</guid>
             <pubDate>Sun, 05 Sep 2021 01:59:48 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠경향] 극장가 여름 대전의 끝이 보이고 있다. 성수기 대작들이 개봉을 앞두고 ‘코로나19 확산으로 인한 사회적거리두기 4단계 격상’이란 장애물을 만났지만, 극장과 배급사·제작사 모두 서로를 조금씩 배려하며 ‘개봉’을 선택했다. 그 결과, 상생은 옳았다.5일 영화진흥위원회 영화관입장권 통합전산망 집계 결과 여름 성수기 3대장으로 꼽혔던 ‘모가디슈’와]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2Fsportskhan%2F20210905102454011rxzd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['모가디슈' 류승완 감독의 진심 [인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210905100207792</link>
+            <guid>https://movie.v.daum.net/v/20210905100207792</guid>
+            <pubDate>Mon, 06 Sep 2021 14:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 운명처럼 다가온 작품을 운명 같은 시기에 눈앞의 숫자보다는 관객들을 위해 극장 개봉을 감행했다. 좋은 사람들과 함께 만든 좋은 창작물은 결국 어느 시기에도 관객을 움직일 수 있다는 영화의 힘을 보여준 류승완 감독이다. 최근 개봉된 영화 '모가디슈'(감독 류승완·제작 덱스터스튜디오)는 1991년 소말리아의 수도 모가디슈에서 내전으]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2Ftvdaily%2F20210905100210125fiop.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[007부터 마블히어로, 고전 SF까지..기대 모으는 하반기 대작들 (다음영화 뉴스 ─ 인기)]]></title>
@@ -645,22 +661,6 @@
             <pubDate>Mon, 06 Sep 2021 00:53:45 GMT</pubDate>
             <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 1960년대 누벨바그의 아이콘 진 세버그의 강렬하고 드라마틱한 삶을 그린 영화 '세버그'(감독 베네딕트 앤드류)가 올가을 국내 개봉을 확정했다. 배급사 ㈜예지림엔터테인먼트는 '세버그'의 가을 개봉을 알리며 모던하면서도 시크함이 돋보이는 메인 포스터를 함께 공개했다. 영화 '세버그'는 FBI에 맞서 누구보다 치열한 삶을]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F06%2FNEWS1%2F20210906084852552iqrb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['모가디슈' 류승완 감독의 진심 [인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210905100207792</link>
-            <guid>https://movie.v.daum.net/v/20210905100207792</guid>
-            <pubDate>Mon, 06 Sep 2021 14:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 운명처럼 다가온 작품을 운명 같은 시기에 눈앞의 숫자보다는 관객들을 위해 극장 개봉을 감행했다. 좋은 사람들과 함께 만든 좋은 창작물은 결국 어느 시기에도 관객을 움직일 수 있다는 영화의 힘을 보여준 류승완 감독이다. 최근 개봉된 영화 '모가디슈'(감독 류승완·제작 덱스터스튜디오)는 1991년 소말리아의 수도 모가디슈에서 내전으]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F05%2Ftvdaily%2F20210905100210125fiop.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["올 타임 베스트"..'듄' 베니스국제영화제 8분간의 기립박수 '역대급 프리미어' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210906150527344</link>
-            <guid>https://movie.v.daum.net/v/20210906150527344</guid>
-            <pubDate>Mon, 06 Sep 2021 15:16:44 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '듄'이 현지시간으로 제78회 베니스국제영화제 최고 화제작으로 떠올랐다. 3일, 영화 '듄'(감독 드니 빌뇌브·배급 워너브러더스 코리아)의 제78회 베니스국제영화제 프리미어 상영회를 위해 드니 빌뇌브 감독과 티모시 샬라메, 레베카 퍼거슨, 오스카 아이삭, 젠데이아, 조슈 브롤린, 하비에르 바르뎀 등 출연진이 대거 참석해 현장을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F06%2Ftvdaily%2F20210906150528337hocg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['보이스', 온 몸 던진 변요한과 디테일의 조화 (다음영화 뉴스 ─ 최신)]]></title>
@@ -995,7 +995,7 @@
             <link>https://tv.naver.com/v/22295135</link>
             <guid>https://tv.naver.com/v/22295135</guid>
             <pubDate>Mon, 06 Sep 2021 10:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210906_281/cRFgI_1630920234370ovlQG_JPEG/e8fd2a06-0ef3-11ec-a77c-a0369ff94ec8_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1003,7 +1003,7 @@
             <link>https://tv.naver.com/v/22292990</link>
             <guid>https://tv.naver.com/v/22292990</guid>
             <pubDate>Mon, 06 Sep 2021 08:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210906_140/9BEL0_1630915078835Wb2g5_JPEG/d6c45d7e-0ee7-11ec-882d-48df37ae3dc4_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1011,7 +1011,7 @@
             <link>https://tv.naver.com/v/22292984</link>
             <guid>https://tv.naver.com/v/22292984</guid>
             <pubDate>Mon, 06 Sep 2021 08:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210906_216/ceYcZ_1630915064364FDPUR_PNG/1630915041931.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -1019,7 +1019,7 @@
             <link>https://tv.naver.com/v/22292934</link>
             <guid>https://tv.naver.com/v/22292934</guid>
             <pubDate>Mon, 06 Sep 2021 08:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210906_45/Dfzcb_1630914934088H7VxV_JPEG/d276f153-0ee6-11ec-a613-505dac8c38f5_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1027,7 +1027,7 @@
             <link>https://tv.naver.com/v/22292868</link>
             <guid>https://tv.naver.com/v/22292868</guid>
             <pubDate>Mon, 06 Sep 2021 08:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210906_5/XH9aT_16309147387466RLpW_PNG/1630914638663.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -1035,7 +1035,7 @@
             <link>https://tv.naver.com/v/22292770</link>
             <guid>https://tv.naver.com/v/22292770</guid>
             <pubDate>Mon, 06 Sep 2021 08:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210906_289/SOSV8_1630914498035Tt49S_JPEG/ad2235e5-0ee6-11ec-b835-505dac8c3607_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1043,7 +1043,7 @@
             <link>https://tv.naver.com/v/22292738</link>
             <guid>https://tv.naver.com/v/22292738</guid>
             <pubDate>Mon, 06 Sep 2021 08:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210906_255/CiGuT_16309144288212a0of_JPEG/844d54b1-0ee6-11ec-8c9c-505dac8c37f3_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1051,7 +1051,7 @@
             <link>https://tv.naver.com/v/22291746</link>
             <guid>https://tv.naver.com/v/22291746</guid>
             <pubDate>Mon, 06 Sep 2021 07:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210906_251/awaWF_1630912104728PTATL_JPEG/f90b8e4c-0ee0-11ec-9b63-505dacfba98a_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1059,7 +1059,7 @@
             <link>https://tv.naver.com/v/22290749</link>
             <guid>https://tv.naver.com/v/22290749</guid>
             <pubDate>Mon, 06 Sep 2021 07:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210906_114/gmjVO_1630909738231uzERC_JPEG/85d75134-0edb-11ec-a509-a0369ff968b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1067,7 +1067,7 @@
             <link>https://tv.naver.com/v/22289749</link>
             <guid>https://tv.naver.com/v/22289749</guid>
             <pubDate>Mon, 06 Sep 2021 06:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210906_170/A0Lqc_1630907131408T2U4Q_JPEG/6a5c7633-0ed5-11ec-82ff-505dac8c385b_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1075,7 +1075,7 @@
             <link>https://tv.naver.com/v/22289444</link>
             <guid>https://tv.naver.com/v/22289444</guid>
             <pubDate>Mon, 06 Sep 2021 06:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210906_52/nc9VF_1630906242939C3ibL_JPEG/4ada4768-0ed3-11ec-809b-a0369ff94ed0_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1083,7 +1083,7 @@
             <link>https://tv.naver.com/v/22289250</link>
             <guid>https://tv.naver.com/v/22289250</guid>
             <pubDate>Mon, 06 Sep 2021 06:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210906_86/8cq3E_1630905794134MmoaT_JPEG/4df9cc4e-0ed2-11ec-93f2-a0369ff95ec0_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1091,7 +1091,7 @@
             <link>https://tv.naver.com/v/22289068</link>
             <guid>https://tv.naver.com/v/22289068</guid>
             <pubDate>Mon, 06 Sep 2021 05:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210906_293/xFH8Z_1630905258923xD6JM_JPEG/b91796dc-0ed0-11ec-86ec-48df37ae3fca_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1099,7 +1099,7 @@
             <link>https://tv.naver.com/v/22285048</link>
             <guid>https://tv.naver.com/v/22285048</guid>
             <pubDate>Mon, 06 Sep 2021 02:02:58 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210906_82/af0pz_1630893221505hOSiB_JPEG/f3d49556-0eb4-11ec-86ec-48df37ae3fca_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1107,7 +1107,7 @@
             <link>https://tv.naver.com/v/22284353</link>
             <guid>https://tv.naver.com/v/22284353</guid>
             <pubDate>Mon, 06 Sep 2021 02:02:58 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210906_198/hmU2V_1630891126443YC1F0_JPEG/0892e44a-0eb0-11ec-93f2-a0369ff95ec0_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1115,7 +1115,7 @@
             <link>https://tv.naver.com/v/22284240</link>
             <guid>https://tv.naver.com/v/22284240</guid>
             <pubDate>Mon, 06 Sep 2021 02:02:58 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210906_278/Tiwgx_1630890690461X7rSE_JPEG/1630890638593.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1123,7 +1123,7 @@
             <link>https://tv.naver.com/v/22284124</link>
             <guid>https://tv.naver.com/v/22284124</guid>
             <pubDate>Mon, 06 Sep 2021 02:02:58 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210906_26/sAe0Y_1630890290859mmWAT_JPEG/408e2b99-0eae-11ec-8678-48df379cca40_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
