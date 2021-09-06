@@ -4,9 +4,25 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Sep 2021 05:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Sep 2021 06:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<사운드 오브 데스>  ASMR 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/422112496?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/422112496?act=clip</guid>
+            <pubDate>Mon, 06 Sep 2021 06:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:51]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1555535849%2Fthumb%2F20210906142645" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<사운드 오브 데스> 30초 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/422112451?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/422112451?act=clip</guid>
+            <pubDate>Mon, 06 Sep 2021 06:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2075329856%2Fthumb%2F20210906142448" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<그대 너머에> 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/422111397?act=clip</link>
@@ -157,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/422032701?act=clip</guid>
             <pubDate>Fri, 03 Sep 2021 04:20:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:59]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2061887202%2Fthumb%2F20210906083349" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2061887202%2Fthumb%2F20210906083349" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<블러디 마리> 예고편]]></title>
@@ -165,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/422016612?act=clip</guid>
             <pubDate>Thu, 02 Sep 2021 09:16:04 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:45]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvuvjfg2h47xbdfo54io9d6lu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33187481600%26signature%3D1Vocs1LQmF0qjK6mKVgnJo9iHnQ%253D%26ts%3D1630572800" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvuvjfg2h47xbdfo54io9d6lu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33187481600%26signature%3D1Vocs1LQmF0qjK6mKVgnJo9iHnQ%253D%26ts%3D1630572800" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<내가 날 부를 때> 뮤직비디오]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 01 Sep 2021 02:02:28 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:41]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv268fu69stkc5naxm2igaikd%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33187370396%26signature%3DnlUf37Yl%252F7rXxQX26aBhS5MJjRs%253D%26ts%3D1630461596" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<보이스> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/421978243?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/421978243?act=clip</guid>
-            <pubDate>Wed, 01 Sep 2021 02:02:28 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:15]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvi1gl9xanopsuwcpdizkfn31%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33187370183%26signature%3DK%252BQXJMpsS9V3OzLlWD4C0G0YHVg%253D%26ts%3D1630461383" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<꿈꾸는 고양이> 스페셜 예고편(캐릭터 영상)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/421978182?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/421978182?act=clip</guid>
-            <pubDate>Wed, 01 Sep 2021 02:02:28 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:56]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvscz4b10tuyc2q0g8jfes8ax%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33187369994%26signature%3Div13kGkiAEirTjZnldc20JXmvTc%253D%26ts%3D1630461194" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
