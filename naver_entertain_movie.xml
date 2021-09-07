@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-07T12:24:15.024Z</updated>
+    <updated>2021-09-07T14:15:15.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일본 조선학교 돕는 시민단체 ‘몽당연필’ 10주년 영화제·심포지엄 개최]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000760405</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000760405"/>
+        <updated>2021-09-07T14:13:59.617Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 재일 민족학교인 조선학교를 돕는 시민단체 몽당연필(대표 권해효)은 10주년을 맞아 12∼13일 서울 신촌 필름포럼에서 영화제·심포지엄을 개최한다고 7일 밝혔다. ‘가슴 펴고 걸어갈래요’란 주제로 열릴]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘기적’ 박정민x임윤아, 웃음 가득한 비하인드 스틸 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000487670</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000487670"/>
+        <updated>2021-09-07T14:13:59.617Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김노을 기자] 믿고 보는 배우들의 유쾌한 연기 시너지, 감성을 자극하는 섬세한 스토리와 영상미로 뜨거운 호평을 불러일으키고 있는 영화 '기적'이 배우들의 다채로운 매력을 담은 온앤오프 비하인드 스틸을 공개했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강하늘X한효주 ‘해적: 도깨비 깃발’ 런칭 포스터 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001194323</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005031410"/>
         <updated>2021-09-07T08:17:53.307Z</updated>
         <content type="html"><![CDATA[영상물등급위원회가 국내 수입을 허가하고 15세 이상 관람가 등급을 부여한 중국 영화 ‘1953 금성대전투’ 포스터. (사진=바이두) [이데일리 스타in 김보영 기자] 영상물등급위원회(이하 영등위)가 중공군 미화 의혹]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["보이스피싱의 실체"…하반기 복병작 '보이스' [필름:리포트]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001194304</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001194304"/>
-        <updated>2021-09-07T08:17:53.327Z</updated>
-        <content type="html"><![CDATA[올 추석 극장가에서 최고 화제작 중 하나로 꼽히고 있는 영화 '보이스'가 제작기 영상을 최초 공개했다. '보이스'의 배우, 스태프들이 직접 영화의 생생한 프로덕션 비하인드를 밝히는 제작기 영상이 최초 공개됐다. 대한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["꿈 향해 직진하는 17세 소년…변신 기대하세요"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004601514</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004601514"/>
-        <updated>2021-09-07T08:17:53.327Z</updated>
-        <content type="html"><![CDATA[배우 박정민(사진)은 스크린에서 다양한 캐릭터를 소화하며 실력을 인정받아왔다. 영화 ‘동주’에선 윤동주의 사촌형 송몽규 역으로 깊은 인상을 남겼다. ‘다만 악에서 구하소서’에서는 트랜스젠더 유이를 연기해 지난해 청룡]]></content>
     </entry>
 </feed>
