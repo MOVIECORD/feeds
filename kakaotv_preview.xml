@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Sep 2021 08:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 09:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<007 노 타임 투다이> BOND IS BACK 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/422147490?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/422147490?act=clip</guid>
+            <pubDate>Tue, 07 Sep 2021 09:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv6lz1tloscjoteqtvhnhnp4p%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33187913484%26signature%3Dcsvk12BfiaC55EgzcjDfrLiPdWw%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<내가 날 부를 때> 감독 코멘트 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/422146472?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/422110023?act=clip</guid>
             <pubDate>Mon, 06 Sep 2021 04:20:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:39]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv947udwdaszr85976iguggo1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33187807884%26signature%3DWP3wrVvykf4JyOJ4H4SjE4Qekrg%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv947udwdaszr85976iguggo1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33187807884%26signature%3DWP3wrVvykf4JyOJ4H4SjE4Qekrg%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<데드캠프: 리부트> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 02 Sep 2021 08:18:33 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:23]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvkmb20rrj3jht1zgefsl89tt%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33187477529%26signature%3D5%252FWza7VYo9uCqynoQpncPa2zLZc%253D%26ts%3D1630568729" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<몽키킹 : 투신의 부활> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/422011948?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/422011948?act=clip</guid>
-            <pubDate>Thu, 02 Sep 2021 06:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:04]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxd5itsu6sxvm13sl11th151%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33187471559%26signature%3DwJkSy4ISDXagw6dlGytGCywcZ7A%253D%26ts%3D1630562759" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
