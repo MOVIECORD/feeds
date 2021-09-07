@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-07T21:14:37.164Z</updated>
+    <updated>2021-09-07T22:16:44.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] 박정민 “내 삶의 기적? 지금 인터뷰 자체가 기적”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000932062</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000932062"/>
+        <updated>2021-09-07T22:15:15.982Z</updated>
+        <content type="html"><![CDATA[“추석을 맞아 모여든 친척들은 늘 그러했던 것처럼 당신의 근황에 과도한 관심을 가질 것이다. (중략) 친척이 명절을 핑계로 집요하게 당신의 인생에 대해 캐물어 온다면, 그들이 평소에 직면하지 않았을 근본적인 질문을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해외 영화제서 연기 인정받은 유아인]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000932061</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000932061"/>
+        <updated>2021-09-07T22:15:15.982Z</updated>
+        <content type="html"><![CDATA[배우 유아인이 국내외 영화제에서 잇달아 관객을 만나고 있다. 해외에서는 수상 성과를 얻으며 이전과는 다른 방식의 무대로 영화제를 찾는다. 유아인은 8월25일(이하 한국시간) 폐막한 캐나다 판타지아 국제영화제에서 ‘소]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예뉴스 HOT③] 김우빈, 청각장애인 위해 음성해설 재능기부]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000932058</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000932058"/>
+        <updated>2021-09-07T22:15:15.982Z</updated>
+        <content type="html"><![CDATA[배우 김우빈이 청각장애인을 위해 영화의 음성해설 녹음에 참여했다. (사)배리어프리영화위원회는 7일 “김우빈이 일본 고레에다 히로카즈 감독의 영화 ‘그렇게 아버지가 된다’의 배리어프리 버전 제작에 참여, 음성해설 녹음]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예뉴스 HOT④] 윤시윤, 영화 ‘탄생’서 김대건 신부 역할]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000932057</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000932057"/>
+        <updated>2021-09-07T22:15:15.982Z</updated>
+        <content type="html"><![CDATA[배우 윤시윤이 한국 최초의 가톨릭 사제인 김대건 신부가 된다. 올해 탄생 200주년을 맞아 김대건 신부의 이야기를 처음으로 그리는 영화 ‘탄생’의 주연으로, 안성기, 이문식, 신정근 등과 함께 출연한다. 내년 개봉을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] '연기돌' 보이프렌드 영민, 영화 '우.개.고' 주연…9월말 크랭크인(종합)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004470661</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004470661"/>
+        <updated>2021-09-07T22:15:15.982Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 아이돌그룹 보이프렌드 출신 배우 영민이 영화 ‘우.개.고’의 주연으로 캐스팅됐다. 8일 OSEN 취재 결과 영민은 영화 ‘우리회사에 개와 고양이가 산다’(‘우.개.고’)의 제작진으로부터 시나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['해적: 도깨비 깃발' 역대급 라인업...권상우·이광수·강하늘·한효주]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010707472</id>
@@ -144,40 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0003959738"/>
         <updated>2021-09-07T09:14:55.063Z</updated>
         <content type="html"><![CDATA[[서울경제] 처음부터 끝까지 눈과 귀를 사로잡는 액션이 이어진다. ‘존 윅’, ‘데드풀’, ‘킹스맨’, ‘올드보이’까지 액션 영화 여러 편을 섞어 놓은 듯 눈이 휘둥그래지게 화려하다. 자칫 뻔할 수 있는 설정이지만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[덱스터 스튜디오, AI기업에 10억원 지분 투자…버추얼 휴먼 제작]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005589031</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005589031"/>
-        <updated>2021-09-07T09:14:55.063Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 시각특수효과(VFX) 및 콘텐츠 전문기업 (주) 덱스터스튜디오(대표 김욱·강종익)가 AI 기업 (주)디오비스튜디오(대표 오제욱)에 지분을 투자하며 버추얼 휴먼 제작에 본격적으로 참여한다. 덱]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팝인터뷰]박정민 "취미는 좌절에 결과주의자..'기적' 만나고 많이 바뀌었죠"(종합)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003474436</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003474436"/>
-        <updated>2021-09-07T09:14:55.064Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] 배우 박정민이 '기적'을 통해 마음가짐이 달라졌다고 털어놨다. 영화 '동주', '그것만이 내 세상', '사바하', '타짜: 원 아이드 잭' 등에서 어떤 캐릭터든 맛깔나게 소화해내며 호평]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[빅픽처] 'D.P.', 군부대 촬영 있다? 없다?…알고보면 더 재밌는 비하인드]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000274807</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000274807"/>
-        <updated>2021-09-07T09:14:55.080Z</updated>
-        <content type="html"><![CDATA[[SBS연예뉴스 | 김지혜 기자] 군대 이야기, 군대에서 축구한 이야기, 축구 이야기로 이어지던 세상에서 가장 재미없는 남자들의 군대 썰이 난데없이 세간의 관심사로 부상했다. 이 문화 현상은 사회·정치 담론으로까지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이정은, '욘더' 출연 확정…한지민과 세번째 호흡]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004849113</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004849113"/>
-        <updated>2021-09-07T09:14:55.080Z</updated>
-        <content type="html"><![CDATA[배우 이정은이 티빙 오리지널 드라마 ‘욘더’ 출연을 확정 지었다. 이준익 감독이 연출하는 ‘욘더’(연출 이준익, 극본 김정훈 오승현, 제작 영화사 두둥·CJ ENM)는 죽은 아내로부터 메시지를 받은 남자가 그녀를 만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["강렬한 미스터리"…밀리터리 스릴러 '수색자']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001194305</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001194305"/>
-        <updated>2021-09-07T09:14:55.080Z</updated>
-        <content type="html"><![CDATA[통제구역 DMZ에서 벌어지는 긴박한 수색 작전을 스릴감 넘치게 그려낸 밀리터리 스릴러 '수색자'가 티저 예고편을 최초 공개했다. 교육장교가 의문사한 날, 탈영병이 발생하고 출입통제구역 DMZ로 수색 작전을 나간 대원]]></content>
     </entry>
 </feed>
