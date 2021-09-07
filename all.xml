@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Sep 2021 14:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 15:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -207,20 +207,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F232a8d6e902c63036bbe2ae327d57e82585a639f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[코다 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=147452</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=147452</guid>
-            <pubDate>Tue, 24 Aug 2021 18:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9db1b2ab48843490fa9705cbae8389e6c3bd9876" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[맨 인 더 다크 2 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150063</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150063</guid>
             <pubDate>Wed, 01 Sep 2021 00:53:08 GMT</pubDate>
             <content:encoded><![CDATA[21.09.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdcfa862a88736442d006e5d198dfc161d997b0d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[코다 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=147452</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=147452</guid>
+            <pubDate>Tue, 24 Aug 2021 18:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9db1b2ab48843490fa9705cbae8389e6c3bd9876" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[싱크홀 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -527,6 +527,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Filgansports%2F20210907162634527imah.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[영등위, 중공군 미화 영화 수입 논란에 "허가 막는 게 위헌" [종합] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210907171538113</link>
+            <guid>https://movie.v.daum.net/v/20210907171538113</guid>
+            <pubDate>Tue, 07 Sep 2021 09:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[영상물등급위원회가 국내 수입을 허가하고 15세 이상 관람가 등급을 부여한 중국 영화 ‘1953 금성대전투’ 포스터. (사진=바이두)[이데일리 스타in 김보영 기자] 영상물등급위원회(이하 영등위)가 중공군 미화 의혹에 휩싸인 중국 영화의 국내 수입을 허가했다는 논란에 대한 입장을 밝혔다. 영등위는 7일 오후 ‘&lt;1953 금성대전투&gt; 영상물의 등급분류 관련]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2FEdaily%2F20210907171541819zwlq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['수색자' 송창의, 역대급 착붙 캐릭터 예고 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210906170407592</link>
             <guid>https://movie.v.daum.net/v/20210906170407592</guid>
@@ -543,12 +551,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Fsportskhan%2F20210907110814842ldke.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[영등위, 중공군 미화 영화 수입 논란에 "허가 막는 게 위헌" [종합] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210907171538113</link>
-            <guid>https://movie.v.daum.net/v/20210907171538113</guid>
-            <pubDate>Tue, 07 Sep 2021 09:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[영상물등급위원회가 국내 수입을 허가하고 15세 이상 관람가 등급을 부여한 중국 영화 ‘1953 금성대전투’ 포스터. (사진=바이두)[이데일리 스타in 김보영 기자] 영상물등급위원회(이하 영등위)가 중공군 미화 의혹에 휩싸인 중국 영화의 국내 수입을 허가했다는 논란에 대한 입장을 밝혔다. 영등위는 7일 오후 ‘&lt;1953 금성대전투&gt; 영상물의 등급분류 관련]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2FEdaily%2F20210907171541819zwlq.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[제임스 완 '말리그넌트', 청불 등급 확정..9월 15일 개봉 [무비타이밍] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210907152904277</link>
+            <guid>https://movie.v.daum.net/v/20210907152904277</guid>
+            <pubDate>Tue, 07 Sep 2021 07:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='말리그넌트'제임스 완 감독의 영화 '말리그넌트'가 청소년 관람불가 등급을 확정 짓고 9월 15일 개봉한다. '말리그넌트'는 폭력 남편의 죽음 이후, 연쇄 살인 현장에 초대된 매디슨 앞에 어릴 적 상상 속의 친구 가브리엘이 진짜로 나타나면서 벌어지는 의문의 사건을 다루는 브레인 엔터테이닝 무비. 영화가 전개되는 과정 속에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Fstarnews%2F20210907152905961ieao.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['행복의 나라로' 윤여정, 속물 캐릭터는 어떨까 (다음영화 뉴스 ─ 인기)]]></title>
@@ -559,12 +567,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Fsportsdonga%2F20210907065717640tbnf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[제임스 완 '말리그넌트', 청불 등급 확정..9월 15일 개봉 [무비타이밍] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210907152904277</link>
-            <guid>https://movie.v.daum.net/v/20210907152904277</guid>
-            <pubDate>Tue, 07 Sep 2021 07:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='말리그넌트'제임스 완 감독의 영화 '말리그넌트'가 청소년 관람불가 등급을 확정 짓고 9월 15일 개봉한다. '말리그넌트'는 폭력 남편의 죽음 이후, 연쇄 살인 현장에 초대된 매디슨 앞에 어릴 적 상상 속의 친구 가브리엘이 진짜로 나타나면서 벌어지는 의문의 사건을 다루는 브레인 엔터테이닝 무비. 영화가 전개되는 과정 속에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Fstarnews%2F20210907152905961ieao.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[추억 소환 '기적' 1980년 어떻게 불러냈나 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210907064133170</link>
+            <guid>https://movie.v.daum.net/v/20210907064133170</guid>
+            <pubDate>Tue, 07 Sep 2021 01:55:02 GMT</pubDate>
+            <content:encoded><![CDATA[1980년대의 따스한 풍광이 스크린에서 되살아난다. 영화 '기적(이장훈 감독)'이 충무로 베테랑 제작진의 섬세한 노력으로 구현된 영화 속 풍성한 볼거리로 기대를 모으고 있다. '기적'은 오갈 수 있는 길은 기찻길밖에 없지만 정작 기차역은 없는 마을에 간이역 하나 생기는 게 유일한 인생 목표인 준경(박정민)과 동네 사람들의 이야기를 그린 영화다. 19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Filgansports%2F20210907064135386xogw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[나는 평생 바닷가재를 먹지 않겠습니다 (다음영화 뉴스 ─ 인기)]]></title>
@@ -583,12 +591,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Fnewsen%2F20210907080421300mnvp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[추억 소환 '기적' 1980년 어떻게 불러냈나 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210907064133170</link>
-            <guid>https://movie.v.daum.net/v/20210907064133170</guid>
+            <title><![CDATA['베놈2', 2주 앞당겨 10월 1일 개봉..韓 개봉일도 당겨질까 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210907073613873</link>
+            <guid>https://movie.v.daum.net/v/20210907073613873</guid>
             <pubDate>Tue, 07 Sep 2021 01:55:02 GMT</pubDate>
-            <content:encoded><![CDATA[1980년대의 따스한 풍광이 스크린에서 되살아난다. 영화 '기적(이장훈 감독)'이 충무로 베테랑 제작진의 섬세한 노력으로 구현된 영화 속 풍성한 볼거리로 기대를 모으고 있다. '기적'은 오갈 수 있는 길은 기찻길밖에 없지만 정작 기차역은 없는 마을에 간이역 하나 생기는 게 유일한 인생 목표인 준경(박정민)과 동네 사람들의 이야기를 그린 영화다. 19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Filgansports%2F20210907064135386xogw.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스타뉴스 강민경 기자] /사진=영화 '베놈2 : 렛 데어 비 카니지' 포스터영화 '베놈 2: 렛 데어 비 카니지'가 2주일 앞당긴 10월 1일 개봉한다. 7일 소니 픽쳐스 측은 SNS 등을 통해 '베놈 2: 렛 데어 비 카니지'가 오는 10월 1일 개봉한다고 밝혔다. 이는 개봉 예정일인 10월 15일보다 14일 앞당겼다. '베놈 2: 렛 데어 비 카니지']]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Fstarnews%2F20210907073947176izju.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['기적', 베테랑 제작진이 만들어낸 풍성한 볼거리..80년대 풍경 완벽 재현 (다음영화 뉴스 ─ 인기)]]></title>
@@ -599,12 +607,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F06%2Fmydaily%2F20210906073930739xptc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['베놈2', 2주 앞당겨 10월 1일 개봉..韓 개봉일도 당겨질까 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210907073613873</link>
-            <guid>https://movie.v.daum.net/v/20210907073613873</guid>
-            <pubDate>Tue, 07 Sep 2021 01:55:02 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] /사진=영화 '베놈2 : 렛 데어 비 카니지' 포스터영화 '베놈 2: 렛 데어 비 카니지'가 2주일 앞당긴 10월 1일 개봉한다. 7일 소니 픽쳐스 측은 SNS 등을 통해 '베놈 2: 렛 데어 비 카니지'가 오는 10월 1일 개봉한다고 밝혔다. 이는 개봉 예정일인 10월 15일보다 14일 앞당겼다. '베놈 2: 렛 데어 비 카니지']]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Fstarnews%2F20210907073947176izju.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['기적' 박정민 "34세 때 17세 연기, 관객들이 용서해주실까 고민" (인터뷰) (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210907120259800</link>
+            <guid>https://movie.v.daum.net/v/20210907120259800</guid>
+            <pubDate>Tue, 07 Sep 2021 10:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 박정민이 '기적' 속 준경 캐릭터를 연기하며 고민했었던 사연을 전했다. 박정민은 7일 오전 온라인으로 진행된 영화 '기적'(감독 이장훈) 인터뷰에서 영화와 함께 다양한 이야기를 전했다. 극 중 고등학생으로 등장한 준경 캐릭터에 대해 박정민은 "제가 이 시나리오를 정말 좋아했는데, 할 수 없던 가장 큰 이유가 나이였다"고]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Fxportsnews%2F20210907120301784knii.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["사랑에 빠진 美친 빌런"..'샹치와 텐 링즈의 전설' 양조위 신드롬 (다음영화 뉴스 ─ 인기)]]></title>
@@ -615,36 +623,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Filgansports%2F20210907091937731ajnf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['기적' 박정민 "34세 때 17세 연기, 관객들이 용서해주실까 고민" (인터뷰) (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210907120259800</link>
-            <guid>https://movie.v.daum.net/v/20210907120259800</guid>
-            <pubDate>Tue, 07 Sep 2021 10:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 박정민이 '기적' 속 준경 캐릭터를 연기하며 고민했었던 사연을 전했다. 박정민은 7일 오전 온라인으로 진행된 영화 '기적'(감독 이장훈) 인터뷰에서 영화와 함께 다양한 이야기를 전했다. 극 중 고등학생으로 등장한 준경 캐릭터에 대해 박정민은 "제가 이 시나리오를 정말 좋아했는데, 할 수 없던 가장 큰 이유가 나이였다"고]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Fxportsnews%2F20210907120301784knii.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['듄'에 쏟아진 극찬.. 한국 언론에도 10분 분량 공개, 결과는? (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210906172859306</link>
-            <guid>https://movie.v.daum.net/v/20210906172859306</guid>
-            <pubDate>Tue, 07 Sep 2021 01:55:02 GMT</pubDate>
-            <content:encoded><![CDATA[[이선필 기자] ▲ &nbsp;영화 &lt;듄&gt;의 포스터.    ⓒ 워너브러더스 코리아  &nbsp;드니 빌뇌브 감독의 신작 &lt;듄&gt;의 일부가 국내 언론에 처음으로 공개됐다. 6일 오전 서울 용산 CGV에서 진행된 상영회에 취재진들은 600여 좌석의 상당수를 채울 만큼 큰 관심을 보였다.&nbsp; 주인공인 폴 역의 티모시 샬라메의 인사 영상으로 시작된 상영회에선 영화의 초반]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F06%2Fohmynews%2F20210906172902085jejw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[세븐일레븐, 'D.P.' 47초 분량에 문제 제기..법적 대응 검토 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210907114047813</link>
             <guid>https://movie.v.daum.net/v/20210907114047813</guid>
             <pubDate>Tue, 07 Sep 2021 05:13:41 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 전형화 기자] 넷플릭스 오리지널 드라마 'D.P.'에서 편의점주가 불법행위를 종용하는 모습이 그려진 데 대해 해당 편의점 브랜드가 드라마 제작사와 넷플릭스를 상대로 법적 대응에 나서 주목된다. 편의점 세븐일레븐을 운영하는 코리아세븐은 최근 'D.P.' 제작사 클라이맥스 스튜디오와 넷플릭스 측에 드라마 속 자사 브랜드가 부정적인 내용으로 소개된 데]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Fstarnews%2F20210907114050526cdvd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['기적' 박정민→이수경, 비하인드 스틸 공개..'믿보배' 케미 물씬 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210907092127602</link>
-            <guid>https://movie.v.daum.net/v/20210907092127602</guid>
-            <pubDate>Tue, 07 Sep 2021 04:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 영화 '기적' 주역들의 온앤오프 비하인드 스틸이 공개됐다. 7일 롯데엔터테인먼트는 영화 '기적'(감독 이장훈)의 주역 박정민, 이성민, 임윤아, 이수경, 이장훈 감독의 화기애애한 분위기를 담은 온앤오프 비하인드 스틸을 공개했다.  '기적'은 오갈 수 있는 길은 기찻길밖에 없지만 정작 기차역은 없는 마을에 간이역 하나 생기는 게]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Fxportsnews%2F20210907092128910yvel.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["매달 한편씩" 가을·겨울 스크린, 마블이 접수 (다음영화 뉴스 ─ 인기)]]></title>
@@ -663,164 +647,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Fohmynews%2F20210907135710673nbge.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['기적' 박정민x임윤아, 웃음 가득한 비하인드 스틸 공개 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210907212948607</link>
-            <guid>https://v.daum.net/v/20210907212948607</guid>
-            <pubDate>Tue, 07 Sep 2021 14:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 김노을 기자] 믿고 보는 배우들의 유쾌한 연기 시너지, 감성을 자극하는 섬세한 스토리와 영상미로 뜨거운 호평을 불러일으키고 있는 영화 '기적'이 배우들의 다채로운 매력을 담은 온앤오프 비하인드 스틸을 공개했다. '기적'(감독 이장훈)은 오갈 수 있는 길은 기찻길밖에 없지만 정작 기차역은 없는 마을에 간이역 하나 생기는 게 유일한 인생 목표인 준경]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Fnewsen%2F20210907212950849rtkr.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['듄'에 쏟아진 극찬.. 한국 언론에도 10분 분량 공개, 결과는? (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210906172859306</link>
+            <guid>https://movie.v.daum.net/v/20210906172859306</guid>
+            <pubDate>Tue, 07 Sep 2021 01:55:02 GMT</pubDate>
+            <content:encoded><![CDATA[[이선필 기자] ▲ &nbsp;영화 &lt;듄&gt;의 포스터.    ⓒ 워너브러더스 코리아  &nbsp;드니 빌뇌브 감독의 신작 &lt;듄&gt;의 일부가 국내 언론에 처음으로 공개됐다. 6일 오전 서울 용산 CGV에서 진행된 상영회에 취재진들은 600여 좌석의 상당수를 채울 만큼 큰 관심을 보였다.&nbsp; 주인공인 폴 역의 티모시 샬라메의 인사 영상으로 시작된 상영회에선 영화의 초반]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F06%2Fohmynews%2F20210906172902085jejw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[TEN인터뷰] 박정민 "'찐팬' 윤아·'아버지' 이성민과 함께한 '기적', 재미 없어 보여요?" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210907190101038</link>
-            <guid>https://v.daum.net/v/20210907190101038</guid>
-            <pubDate>Tue, 07 Sep 2021 10:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=노규민 기자]"후회 없이 재미있게 찍었어요. 결과에 대해 신경 쓰지 말자고 다짐 했는데도 불구하고, 새벽까지 시사회 반응 찾아보다 잠들 었습니다."2011년 영화 '파수꾼'으로 데뷔한 이후 숱하게 많은 작품에 출연한 박정민에게 영화 '기적'은 특별했다. 그는 "언론 시사회 이전에 영화를 먼저 봐야 했다. 사실 배우, 스태프들과 함께하는 시사회를]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2F10asia%2F20210907190105370frgv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[보이프렌드 출신 영민, 영화 '우.개.고' 주인공 캐스팅 [단독] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210907175702525</link>
-            <guid>https://v.daum.net/v/20210907175702525</guid>
-            <pubDate>Tue, 07 Sep 2021 09:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;아이돌그룹 보이프렌드 출신 가수 영민이 영화의 주연으로 캐스팅됐다. 앞서 배우 오지호, 오광록이 주연을 맡은 영화에 출연한 적은 있지만 주인공을 맡는 것은 이번이 처음이다. 7일 영화계에 따르면 영민은 최근 영화 ‘우리회사에 개와 고양이가 산다’의 제작진으로부터 시나리오를 받고 출연하기로 결정했다. 새 영화 ‘우리회사에 개와 고양이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Fpoctan%2F20210907175702177unsh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] '최선의 삶' 한성민 "오래 걸려도 좋으니 꼭 '믿보배' 되고 싶어요" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210907175041331</link>
-            <guid>https://v.daum.net/v/20210907175041331</guid>
-            <pubDate>Tue, 07 Sep 2021 09:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] 마치 소설 속 인물이 튀어나온 듯하다. 예쁘고 키도 크고, 높은 자존감에 스크래치 나면 한껏 예민해지는 사춘기 열여덟 소녀 소영이 실제로 있다면 딱 한성민일 것만 같다. 첫 영화부터 확실하게 존재감을 발휘한 그의 앞으로가 더욱 기대되는 작품이다. 한성민은 ‘최선의 삶’에서 친구들 모두가 부러워할 정도로 모든 것을 갖춘 소영을 연기했다. 소영은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Fseouleconomy%2F20210907175045432ficu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰]'건파우더:밀크셰이크' 데드풀도 존윅도 쉐킷쉐킷, 화끈하구만 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210907175031327</link>
-            <guid>https://v.daum.net/v/20210907175031327</guid>
-            <pubDate>Tue, 07 Sep 2021 09:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] 처음부터 끝까지 눈과 귀를 사로잡는 액션이 이어진다. ‘존 윅’, ‘데드풀’, ‘킹스맨’, ‘올드보이’까지 액션 영화 여러 편을 섞어 놓은 듯 눈이 휘둥그래지게 화려하다. 자칫 뻔할 수 있는 설정이지만 예상치 못한 장소에서 펼쳐지는 액션으로 모든것을 극복하고 색다른 재미를 선사한다. ‘건파우더: 밀크셰이크’는 탁월한 살인 능력을 갖춘 샘이 위]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Fseouleconomy%2F20210907175037625dnpj.png" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[빅픽처] 'D.P.', 군부대 촬영 있다? 없다?..알고보면 더 재밌는 비하인드 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210907173603867</link>
-            <guid>https://v.daum.net/v/20210907173603867</guid>
-            <pubDate>Tue, 07 Sep 2021 09:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS연예뉴스 | 김지혜 기자] 군대 이야기, 군대에서 축구한 이야기, 축구 이야기로 이어지던 세상에서 가장 재미없는 남자들의 군대 썰이 난데없이 세간의 관심사로 부상했다. 이 문화 현상은 사회·정치 담론으로까지 이어지고 있는 모양새다. 이 모든 건 'D.P.' 때문이다. 'D.P.'는 군대를 배경으로 한 군인들의 이야기임에도 성별과 세대를 막론한 인기를]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2FSBSfunE%2F20210907173605358gaxf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['기적' 박정민 "만나야 할 시기에 정확히 만난 영화" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210907171626149</link>
-            <guid>https://v.daum.net/v/20210907171626149</guid>
-            <pubDate>Tue, 07 Sep 2021 08:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 한미희 기자 = 배우 박정민은 영화 '기적'을 "생각만 해도 가슴이 뭉클해지는 영화"라고 했다. 영화는 사람이 오갈 수 있는 길이 없어 위험을 무릅쓰고 철로를 걸어 다녀야 하는 마을 사람들을 위해 간이역을 만드는 게 인생 목표인 순수한 천재 소년 준경의 이야기다. 수학과 물리에 천재적인 능력을 보이는 준경이 더 큰 세상으로 나가길 거부하]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Fyonhap%2F20210907171626501mvbg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[영등위, 중공군 미화 영화 수입 논란에 "허가 막는 게 위헌" [종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210907171538113</link>
-            <guid>https://v.daum.net/v/20210907171538113</guid>
-            <pubDate>Tue, 07 Sep 2021 08:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[영상물등급위원회가 국내 수입을 허가하고 15세 이상 관람가 등급을 부여한 중국 영화 ‘1953 금성대전투’ 포스터. (사진=바이두)[이데일리 스타in 김보영 기자] 영상물등급위원회(이하 영등위)가 중공군 미화 의혹에 휩싸인 중국 영화의 국내 수입을 허가했다는 논란에 대한 입장을 밝혔다. 영등위는 7일 오후 ‘&lt;1953 금성대전투&gt; 영상물의 등급분류 관련]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2FEdaily%2F20210907171541819zwlq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["보이스피싱의 실체"..하반기 복병작 '보이스' [필름:리포트] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210907171501079</link>
-            <guid>https://v.daum.net/v/20210907171501079</guid>
-            <pubDate>Tue, 07 Sep 2021 08:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=전동선 기자] 올 추석 극장가에서 최고 화제작 중 하나로 꼽히고 있는 영화 '보이스'가 제작기 영상을 최초 공개했다. '보이스'의 배우, 스태프들이 직접 영화의 생생한 프로덕션 비하인드를 밝히는 제작기 영상이 최초 공개됐다. 대한민국 최초 보이스피싱 본거지를 다룬 스토리에 대해 변요한은 “보이스피싱 전화를 받아보지 않은 분들은 없을 거라고]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Ftvreport%2F20210907171504784kjqy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["카메라 아직 무섭다"..'기적' 박정민, 그 안에 또 다른 그가 있다[인터뷰 종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210907170700861</link>
-            <guid>https://v.daum.net/v/20210907170700861</guid>
-            <pubDate>Tue, 07 Sep 2021 08:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘기적’에서 박정민(35)이 연기한 준경은 자기 자신보다 가족을 더 먼저 생각하는 배려심이 깊은 인물이다. 아직은 청소년이기에 원대한 꿈을 품고 있지만 아버지 태윤(이성민 분)과 누나 보경(이수경 분), 그리고 마을사람들을 위해 동네에 작은 간이역을 세우려고 그 누구보다 앞장서 노력한다. ‘다만 악에서 구하소서’(2020),]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Fpoctan%2F20210907170701027awng.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[브래드 피트 전설의 시작..'가을의 전설' 10월 국내 개봉 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210907162633531</link>
-            <guid>https://v.daum.net/v/20210907162633531</guid>
-            <pubDate>Tue, 07 Sep 2021 09:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[브래드 피트의 리즈 시절을 다시 만날 수 있다. 영화 '가을의 전설'이 10월 국내 개봉을 결정짓고, 영화의 주인공인 브래드 피트의 30년 경력을 다시금 예찬했다. 지금은 세계적인 영향력을 지닌 톱스타이자 제작자로 활동 중인 할리우드 대표 배우 브래드 피트. 배우를 꿈꿨던 신인 시절 그의 얼굴을 가장 먼저 알린 작품은 수잔 서랜든, 지나 데이비스 주연]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Filgansports%2F20210907162634527imah.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["21세기 마스터피스" 산드라 블록 '그래비티' 10월6일 재개봉[공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210907162528505</link>
-            <guid>https://v.daum.net/v/20210907162528505</guid>
-            <pubDate>Tue, 07 Sep 2021 08:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 산드라 블록 주연 '그래비티'가 10월 6일 재개봉한다. 제86회 아카데미 시상식 7관왕을 비롯, 유수의 시상식을 휩쓴 명작 '그래비티'(감독 알폰소 쿠아론)가 10월 6일 재개봉을 확정했다. '그래비티'는 우주망원경을 수리하던 라이언 스톤 박사와 맷 코왈스키 지휘관이 폭파된 인공위성의 잔해와 부딪히게 되면서 우주 한가운데 남겨지는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Fnewsen%2F20210907162528131souq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[김우빈, '그렇게 아버지가 된다' 배리어프리 내레이션 "재능기부" [공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210907162250436</link>
-            <guid>https://v.daum.net/v/20210907162250436</guid>
-            <pubDate>Tue, 07 Sep 2021 08:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 김우빈이 민규동 감독과 함께 영화 '그렇게 아버지가 된다' 배리어프리 버전에 참여했다. (사)배리어프리영화위원회 7일 "민규동 감독과 김우빈이 지난 7월 서울산업진흥원(SBA) 스튜디오에서 '그렇게 아버지가 된다' 배리어프리 버전 제작 현장에 참여했다. 민규동 감독이 연출을, 김우빈이 내레이션을 맡아 음성해설 녹음을 진]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Fmydaily%2F20210907162250281qkig.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[박정민 "좌절이 취미였지만..'기적' 덕분에 생각 바뀌어" [인터뷰 종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210907155002162</link>
-            <guid>https://v.daum.net/v/20210907155002162</guid>
-            <pubDate>Tue, 07 Sep 2021 07:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 박정민이 '기적'을 촬영하며 조금 더 유연하게 변화한 마음 상태를 말했다. 박정민은 7일 오전 온라인으로 진행된 영화 '기적'(감독 이장훈) 인터뷰에서 영화와 함께 다양한 이야기를 전했다. '기적'은 오갈 수 있는 길은 기찻길밖에 없지만 정작 기차역은 없는 마을에 간이역 하나 생기는 게 유일한 인생 목표인 준경(박정민 분]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Fxportsnews%2F20210907155004583oxth.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[제임스 완 '말리그넌트', 청불 등급 확정..9월 15일 개봉 [무비타이밍] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210907152904277</link>
-            <guid>https://v.daum.net/v/20210907152904277</guid>
-            <pubDate>Tue, 07 Sep 2021 07:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='말리그넌트'제임스 완 감독의 영화 '말리그넌트'가 청소년 관람불가 등급을 확정 짓고 9월 15일 개봉한다. '말리그넌트'는 폭력 남편의 죽음 이후, 연쇄 살인 현장에 초대된 매디슨 앞에 어릴 적 상상 속의 친구 가브리엘이 진짜로 나타나면서 벌어지는 의문의 사건을 다루는 브레인 엔터테이닝 무비. 영화가 전개되는 과정 속에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Fstarnews%2F20210907152905961ieao.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[탈영병 소재 영화로도..'수색자' 티저 예고편에 쏠리는 관심 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210907152811246</link>
-            <guid>https://v.daum.net/v/20210907152811246</guid>
-            <pubDate>Tue, 07 Sep 2021 07:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 밀리터리 스릴러 '수색자' 티저 예고편이 공개됐다. 영화 '수색자'(감독 김민섭)는 교육장교가 의문사한 날, 탈영병이 발생하고 출입통제구역 DMZ로 수색 작전을 나간 대원들이 광기에 휩싸인 채 알 수 없는 사건에 맞닥뜨리게 되는 밀리터리 스릴러. 9월 7일 공개된 티저 예고편은 강렬한 서스펜스가 가감 없이 느껴지는 음악을 배경으로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Fnewsen%2F20210907152811177sair.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['디피' 구교환 "군대에서 위기 순간, 유머로 넘겼다" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210907142701505</link>
-            <guid>https://v.daum.net/v/20210907142701505</guid>
-            <pubDate>Tue, 07 Sep 2021 06:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[[오수미 기자] ⓒ Netflix  &nbsp;넷플릭스 오리지널 시리즈 &lt; D.P. &gt;(아래 &lt;디피&gt;)에서 한호열 상병으로 분한 구교환은 2021년 가장 뜨겁게 주목받는 배우 중 한 명이다. 올해 개봉한 영화 최초로 300만 관객을 돌파한 &lt;모가디슈&gt;에서 그는 북한 참사관 태준기로 분해 나라와 이념을 위해서라면 목숨도 바칠 수 있는 청년의 얼굴을 보여줬]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Fohmynews%2F20210907142703960ayjc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[김우빈 '그렇게 아버지가 된다' 내레이션 재능기부 "영광"[공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210907141717152</link>
-            <guid>https://v.daum.net/v/20210907141717152</guid>
-            <pubDate>Tue, 07 Sep 2021 06:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 고레에다 히로카즈 감독의 '그렇게 아버지가 된다'가 민규동 감독 연출, 김우빈이 내레이션한 배리어프리버전으로 제작된다. (사)배리어프리영화위원회는 "지난 7월 서울산업진흥원(SBA) 스튜디오에서 민규동 감독, 김우빈 배우가 참여한 가운데 '그렇게 아버지가 된다' 배리어프리버전 제작을 위한 음성해설 녹음을 진행했다"고 9월 7일 밝혔]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Fnewsen%2F20210907141719352rudu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['기적' 박정민 "마음이 몽글몽글해지는 영화..긴 소풍 다녀온 느낌" [MD인터뷰](종합) (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210907141201975</link>
-            <guid>https://v.daum.net/v/20210907141201975</guid>
-            <pubDate>Tue, 07 Sep 2021 05:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 탄탄한 내공으로 매번 대체 불가한 존재감을 발산해온 배우 박정민(34)이 간이역 세우는 것이 인생 유일 목표인 4차원 수학 천재 소년으로 변신해 웃음과 눈물, 희망을 선사한다. 우리나라 최초 민자역사 양원역을 모티브로 한 영화 '기적'을 통해서다. 박정민은 7일 오전 온라인 화상 인터뷰를 진행하고 '기적' 시나리오를 받아든]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Fmydaily%2F20210907141201221mbiq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['기적' 박정민, 34세에 고교생 역할 맡은 건.."따뜻함의 힘"(종합)[EN:인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210907140041525</link>
-            <guid>https://v.daum.net/v/20210907140041525</guid>
-            <pubDate>Tue, 07 Sep 2021 05:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] "예민하고 스트레스 많은 결과주의자이지만‥'기적'으로 과정의 즐거움 느꼈다." 추석 시즌 개봉하는 따뜻한 영화 '기적'(감독 이장훈), 수더분하고 허술해 우리 모두의 남동생 같지만 그 이면에 어마어마한 천재력을 지닌 주인공 '준경'으로 분한 박정민은 9월 7일 온라인으로 진행된 인터뷰를 통해 이 영화를 찍으며 "마치 소풍을 나간 것]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Fnewsen%2F20210907140044275alnx.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['기적' 박정민→이수경, 비하인드 스틸 공개..'믿보배' 케미 물씬 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210907092127602</link>
+            <guid>https://movie.v.daum.net/v/20210907092127602</guid>
+            <pubDate>Tue, 07 Sep 2021 04:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 영화 '기적' 주역들의 온앤오프 비하인드 스틸이 공개됐다. 7일 롯데엔터테인먼트는 영화 '기적'(감독 이장훈)의 주역 박정민, 이성민, 임윤아, 이수경, 이장훈 감독의 화기애애한 분위기를 담은 온앤오프 비하인드 스틸을 공개했다.  '기적'은 오갈 수 있는 길은 기찻길밖에 없지만 정작 기차역은 없는 마을에 간이역 하나 생기는 게]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F07%2Fxportsnews%2F20210907092128910yvel.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<007 노 타임 투다이> BOND IS BACK 영상 (우리 영화 볼래?)]]></title>
@@ -1147,7 +987,7 @@
             <link>https://tv.naver.com/v/22316278</link>
             <guid>https://tv.naver.com/v/22316278</guid>
             <pubDate>Tue, 07 Sep 2021 09:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210907_20/WnNSL_16310033184004zOlB_JPEG/576ed05c-0fb5-11ec-8678-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1155,7 +995,7 @@
             <link>https://tv.naver.com/v/22315794</link>
             <guid>https://tv.naver.com/v/22315794</guid>
             <pubDate>Tue, 07 Sep 2021 08:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210907_81/YXVpb_1631002382539jeVn3_JPEG/4be3b768-0fb3-11ec-80a9-a0369ff95678_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1163,7 +1003,7 @@
             <link>https://tv.naver.com/v/22315613</link>
             <guid>https://tv.naver.com/v/22315613</guid>
             <pubDate>Tue, 07 Sep 2021 08:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210907_239/Js5PJ_1631002054353uAKlF_JPEG/f11a8e49-0fb1-11ec-8c9c-505dac8c37f3_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1171,7 +1011,7 @@
             <link>https://tv.naver.com/v/22315490</link>
             <guid>https://tv.naver.com/v/22315490</guid>
             <pubDate>Tue, 07 Sep 2021 08:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210907_155/oS2BL_1631001843057h7fzP_JPEG/f76b879c-0fb1-11ec-8c9c-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1179,7 +1019,7 @@
             <link>https://tv.naver.com/v/22315391</link>
             <guid>https://tv.naver.com/v/22315391</guid>
             <pubDate>Tue, 07 Sep 2021 08:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210907_181/W6sfY_16310016969573qWKf_JPEG/bf1428ef-0fb1-11ec-82ff-505dac8c385b_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1187,7 +1027,7 @@
             <link>https://tv.naver.com/v/22315364</link>
             <guid>https://tv.naver.com/v/22315364</guid>
             <pubDate>Tue, 07 Sep 2021 08:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210907_56/LZvx0_1631001653016YfUxn_JPEG/a5772687-0fb1-11ec-a8ac-505dac8c35ff_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1195,7 +1035,7 @@
             <link>https://tv.naver.com/v/22315351</link>
             <guid>https://tv.naver.com/v/22315351</guid>
             <pubDate>Tue, 07 Sep 2021 08:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210907_276/gL9KJ_1631001615949eC9m6_JPEG/41fd9b49-0fb1-11ec-9d74-a0369ff9545c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1203,7 +1043,7 @@
             <link>https://tv.naver.com/v/22315349</link>
             <guid>https://tv.naver.com/v/22315349</guid>
             <pubDate>Tue, 07 Sep 2021 08:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210907_72/pMrn9_16310016127485gys1_JPEG/91c0ea96-0fb1-11ec-9845-505dacfbaa5c_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1211,7 +1051,7 @@
             <link>https://tv.naver.com/v/22312908</link>
             <guid>https://tv.naver.com/v/22312908</guid>
             <pubDate>Tue, 07 Sep 2021 07:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210907_274/UwxPg_1630997369559KDbjQ_JPEG/886be4dd-0fa7-11ec-80a9-a0369ff95678_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1219,7 +1059,7 @@
             <link>https://tv.naver.com/v/22310458</link>
             <guid>https://tv.naver.com/v/22310458</guid>
             <pubDate>Tue, 07 Sep 2021 05:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210907_60/aGCg8_1630991135623XylKv_JPEG/210521de-0f99-11ec-a613-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1227,7 +1067,7 @@
             <link>https://tv.naver.com/v/22310352</link>
             <guid>https://tv.naver.com/v/22310352</guid>
             <pubDate>Tue, 07 Sep 2021 05:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210907_277/43DV6_1630990758685iK2ya_JPEG/2b98c316-0f98-11ec-82ff-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1235,7 +1075,7 @@
             <link>https://tv.naver.com/v/22310267</link>
             <guid>https://tv.naver.com/v/22310267</guid>
             <pubDate>Tue, 07 Sep 2021 05:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210907_76/jZcTw_1630990484117wyH2E_JPEG/65b1762f-0f97-11ec-82ff-505dac8c385b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1243,7 +1083,7 @@
             <link>https://tv.naver.com/v/22310143</link>
             <guid>https://tv.naver.com/v/22310143</guid>
             <pubDate>Tue, 07 Sep 2021 05:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210907_30/s4dju_1630990139693RMAey_JPEG/5cff9ef2-0f96-11ec-9b63-505dacfba98a_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1251,7 +1091,7 @@
             <link>https://tv.naver.com/v/22308092</link>
             <guid>https://tv.naver.com/v/22308092</guid>
             <pubDate>Tue, 07 Sep 2021 03:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210907_163/juMKM_1630983074155hSeCr_JPEG/2f3db484-0f86-11ec-b6bf-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1259,7 +1099,7 @@
             <link>https://tv.naver.com/v/22306556</link>
             <guid>https://tv.naver.com/v/22306556</guid>
             <pubDate>Tue, 07 Sep 2021 01:55:26 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210907_242/CdYTw_1630978755747fESJT_JPEG/9f55639e-0f7b-11ec-a9f1-505dac8c3639_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1267,7 +1107,7 @@
             <link>https://tv.naver.com/v/22306158</link>
             <guid>https://tv.naver.com/v/22306158</guid>
             <pubDate>Tue, 07 Sep 2021 01:55:26 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210907_151/HHCgt_1630977702228zXeWC_JPEG/c39eb3bb-0f79-11ec-8111-505dac8c381b_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
