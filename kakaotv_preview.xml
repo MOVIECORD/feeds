@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Sep 2021 01:56:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 02:26:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<송자세원록> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/422137652?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/422137652?act=clip</guid>
+            <pubDate>Tue, 07 Sep 2021 02:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:52]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxbw88yeagp681wtmo86gn2y%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33187889508%26signature%3DtmyiqSCV2ILqy0vRaf5oCQLMrus%253D%26ts%3D1630980708" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<비상선언> 칸 영화제 스토리 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/422134552?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/422037096?act=clip</guid>
             <pubDate>Fri, 03 Sep 2021 04:20:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:21]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8k0h2icetuh1zfbu6i7f06o%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33187551331%26signature%3DaCR8oMBkPjUHmCveBlM5NeWGRcY%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8k0h2icetuh1zfbu6i7f06o%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33187551331%26signature%3DaCR8oMBkPjUHmCveBlM5NeWGRcY%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<습도 다소 높음> KCU 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 01 Sep 2021 07:15:51 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvh9urehzaib8b67u8pqwmasr%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33187385882%26signature%3DOXN1fXa2n1CtQnyy0xoqVEgKwrE%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<죽을 때까지> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/421981430?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/421981430?act=clip</guid>
-            <pubDate>Wed, 01 Sep 2021 04:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:43]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F207494850%2Fthumb%2F20210901131631" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
