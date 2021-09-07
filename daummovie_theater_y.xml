@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Sep 2021 06:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 07:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9db1b2ab48843490fa9705cbae8389e6c3bd9876" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[싱크홀]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=134290</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=134290</guid>
-            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F446090579974d44551356ce961743e57eaa41bd6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[여름날 우리]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151333</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151333</guid>
             <pubDate>Wed, 25 Aug 2021 00:46:51 GMT</pubDate>
             <content:encoded><![CDATA[21.08.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e883bbf9717d6e78b84c03dceadc2f748bbaf5b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[싱크홀]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=134290</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=134290</guid>
+            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F446090579974d44551356ce961743e57eaa41bd6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[최선의 삶]]></title>
@@ -144,14 +144,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4f98bccfb72790b319d30d2fa4303cd49eda578" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[습도 다소 높음]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149741</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149741</guid>
-            <pubDate>Wed, 01 Sep 2021 14:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3b418933e186d4468508a60b5f5cbebd1df3146b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 페이트/그랜드 오더 신성원탁영역 카멜롯 팔라딘; 아가트람]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150453</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150453</guid>
@@ -166,6 +158,14 @@
             <pubDate>Tue, 07 Sep 2021 06:18:01 GMT</pubDate>
             <content:encoded><![CDATA[21.09.02]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F81d68ef46bca86e9f4d13c44f55f637a269be46f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[습도 다소 높음]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149741</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149741</guid>
+            <pubDate>Wed, 01 Sep 2021 14:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3b418933e186d4468508a60b5f5cbebd1df3146b" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
