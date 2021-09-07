@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Sep 2021 02:26:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 03:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e883bbf9717d6e78b84c03dceadc2f748bbaf5b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[최선의 삶]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=136365</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=136365</guid>
-            <pubDate>Wed, 01 Sep 2021 00:53:08 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58e6b59e744961d1e5cfcb4aedc92bc9ce35bda0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[코드 카림]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151147</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151147</guid>
@@ -80,12 +72,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7426c08b967d01f615174ddcd4063545ebaa2f31" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[바쿠라우]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=131393</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=131393</guid>
-            <pubDate>Thu, 02 Sep 2021 00:47:40 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.02]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F76636cce1ab626cb5fb7509ac80b64598a69f4d3" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[최선의 삶]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=136365</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=136365</guid>
+            <pubDate>Wed, 01 Sep 2021 00:53:08 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58e6b59e744961d1e5cfcb4aedc92bc9ce35bda0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[킬러의 보디가드 2: 킬러의 와이프]]></title>
@@ -104,12 +96,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44cff9be3a13f0cf1746357f7d4dd58f248f5f2c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[퍼피 구조대 더 무비]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151320</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151320</guid>
-            <pubDate>Sun, 05 Sep 2021 10:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcddfc4c347466a3f1960fb480cdfa1a57d1835ff" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[바쿠라우]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=131393</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=131393</guid>
+            <pubDate>Thu, 02 Sep 2021 00:47:40 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.02]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F76636cce1ab626cb5fb7509ac80b64598a69f4d3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[귀문]]></title>
@@ -136,12 +128,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F66c754624aca8e6f9ae303ffe4216bbf59ac31a0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[습도 다소 높음]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149741</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149741</guid>
-            <pubDate>Wed, 01 Sep 2021 14:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3b418933e186d4468508a60b5f5cbebd1df3146b" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[퍼피 구조대 더 무비]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151320</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151320</guid>
+            <pubDate>Sun, 05 Sep 2021 10:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcddfc4c347466a3f1960fb480cdfa1a57d1835ff" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[드림걸즈]]></title>
@@ -152,20 +144,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4f98bccfb72790b319d30d2fa4303cd49eda578" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[습도 다소 높음]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149741</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149741</guid>
+            <pubDate>Wed, 01 Sep 2021 14:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3b418933e186d4468508a60b5f5cbebd1df3146b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[그린 나이트]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139183</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139183</guid>
+            <pubDate>Tue, 07 Sep 2021 03:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6dd33309d1b1b3a9e3aa6e65ddf1ebe229433eb3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[극장판 페이트/그랜드 오더 신성원탁영역 카멜롯 팔라딘; 아가트람]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150453</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150453</guid>
             <pubDate>Mon, 06 Sep 2021 14:14:28 GMT</pubDate>
             <content:encoded><![CDATA[21.08.26]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb466e8c626f9f77e033ed7a6023d82568d327ef6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[소셜 네트워크]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=57597</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=57597</guid>
-            <pubDate>Thu, 02 Sep 2021 00:47:40 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.02]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F81d68ef46bca86e9f4d13c44f55f637a269be46f" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>

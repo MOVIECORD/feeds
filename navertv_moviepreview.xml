@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Sep 2021 02:26:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 03:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['송자세원록' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/22308092</link>
+            <guid>https://tv.naver.com/v/22308092</guid>
+            <pubDate>Tue, 07 Sep 2021 03:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[25분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210907_163/juMKM_1630983074155hSeCr_JPEG/2f3db484-0f86-11ec-b6bf-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['비상선언' 칸 영화제 스토리 영상]]></title>
             <link>https://tv.naver.com/v/22306556</link>
             <guid>https://tv.naver.com/v/22306556</guid>
             <pubDate>Tue, 07 Sep 2021 01:55:26 GMT</pubDate>
-            <content:encoded><![CDATA[46분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210907_242/CdYTw_1630978755747fESJT_JPEG/9f55639e-0f7b-11ec-a9f1-505dac8c3639_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/22292990</link>
             <guid>https://tv.naver.com/v/22292990</guid>
             <pubDate>Mon, 06 Sep 2021 08:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210906_140/9BEL0_1630915078835Wb2g5_JPEG/d6c45d7e-0ee7-11ec-882d-48df37ae3dc4_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://tv.naver.com/v/22292984</link>
             <guid>https://tv.naver.com/v/22292984</guid>
             <pubDate>Mon, 06 Sep 2021 08:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210906_216/ceYcZ_1630915064364FDPUR_PNG/1630915041931.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://tv.naver.com/v/22292934</link>
             <guid>https://tv.naver.com/v/22292934</guid>
             <pubDate>Mon, 06 Sep 2021 08:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210906_45/Dfzcb_1630914934088H7VxV_JPEG/d276f153-0ee6-11ec-a613-505dac8c38f5_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://tv.naver.com/v/22292868</link>
             <guid>https://tv.naver.com/v/22292868</guid>
             <pubDate>Mon, 06 Sep 2021 08:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210906_5/XH9aT_16309147387466RLpW_PNG/1630914638663.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://tv.naver.com/v/22292770</link>
             <guid>https://tv.naver.com/v/22292770</guid>
             <pubDate>Mon, 06 Sep 2021 08:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210906_289/SOSV8_1630914498035Tt49S_JPEG/ad2235e5-0ee6-11ec-b835-505dac8c3607_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +84,7 @@
             <link>https://tv.naver.com/v/22292738</link>
             <guid>https://tv.naver.com/v/22292738</guid>
             <pubDate>Mon, 06 Sep 2021 08:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210906_255/CiGuT_16309144288212a0of_JPEG/844d54b1-0ee6-11ec-8c9c-505dac8c37f3_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +92,7 @@
             <link>https://tv.naver.com/v/22291746</link>
             <guid>https://tv.naver.com/v/22291746</guid>
             <pubDate>Mon, 06 Sep 2021 07:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210906_251/awaWF_1630912104728PTATL_JPEG/f90b8e4c-0ee0-11ec-9b63-505dacfba98a_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +100,7 @@
             <link>https://tv.naver.com/v/22290749</link>
             <guid>https://tv.naver.com/v/22290749</guid>
             <pubDate>Mon, 06 Sep 2021 07:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210906_114/gmjVO_1630909738231uzERC_JPEG/85d75134-0edb-11ec-a509-a0369ff968b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +108,7 @@
             <link>https://tv.naver.com/v/22289749</link>
             <guid>https://tv.naver.com/v/22289749</guid>
             <pubDate>Mon, 06 Sep 2021 06:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210906_170/A0Lqc_1630907131408T2U4Q_JPEG/6a5c7633-0ed5-11ec-82ff-505dac8c385b_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -108,7 +116,7 @@
             <link>https://tv.naver.com/v/22289444</link>
             <guid>https://tv.naver.com/v/22289444</guid>
             <pubDate>Mon, 06 Sep 2021 06:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210906_52/nc9VF_1630906242939C3ibL_JPEG/4ada4768-0ed3-11ec-809b-a0369ff94ed0_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -124,7 +132,7 @@
             <link>https://tv.naver.com/v/22289068</link>
             <guid>https://tv.naver.com/v/22289068</guid>
             <pubDate>Mon, 06 Sep 2021 05:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210906_293/xFH8Z_1630905258923xD6JM_JPEG/b91796dc-0ed0-11ec-86ec-48df37ae3fca_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 03 Sep 2021 05:14:07 GMT</pubDate>
             <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210903_151/KZYVb_1630645177578xT4BC_JPEG/85724917-0c71-11ec-a613-505dac8c38f5_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['보이스' 무비토크 FULL 영상]]></title>
-            <link>https://tv.naver.com/v/22235172</link>
-            <guid>https://tv.naver.com/v/22235172</guid>
-            <pubDate>Fri, 03 Sep 2021 04:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210903_97/NWuo4_1630640471098OUWgg_JPEG/70e66f6a-0c66-11ec-8e61-a0369ff94f34_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
