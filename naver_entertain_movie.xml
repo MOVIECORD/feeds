@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-07T19:13:42.268Z</updated>
+    <updated>2021-09-07T20:18:39.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['해적: 도깨비 깃발' 역대급 라인업...권상우·이광수·강하늘·한효주]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010707472</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010707472"/>
+        <updated>2021-09-07T20:17:14.991Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]윤준호 인턴 기자 = 영화 '해적: 도깨비 깃발'의 론칭 포스터가 공개됐다. '해적: 도깨비 깃발'(감독 김정훈)은 한 배에 올라탄 해적과 의적 그리고 역적까지, 흔적도 없이 사라진 왕실의 보물의 주인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메타버스 힐링 판타지 영화 상륙...'용과 주근깨 공주']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010707471</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010707471"/>
+        <updated>2021-09-07T20:17:14.991Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]윤준호 인턴 기자 = 메타버스를 소재로 한 영화 ‘용과 주근깨 공주’에 대한 관심이 뜨겁다. 메타버스란 가상, 초월을 뜻하는 ‘메타’와 세계를 의미하는 '유니버스'를 합친 말로, 웹상에서 아바타를 이용]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[佛 국민배우 벨몽도 별세에 애도 물결…이례적 국가추도식 연다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012648339</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001194305"/>
         <updated>2021-09-07T09:14:55.080Z</updated>
         <content type="html"><![CDATA[통제구역 DMZ에서 벌어지는 긴박한 수색 작전을 스릴감 넘치게 그려낸 밀리터리 스릴러 '수색자'가 티저 예고편을 최초 공개했다. 교육장교가 의문사한 날, 탈영병이 발생하고 출입통제구역 DMZ로 수색 작전을 나간 대원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['기적' 박정민 "만나야 할 시기에 정확히 만난 영화"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012647946</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012647946"/>
-        <updated>2021-09-07T08:17:53.304Z</updated>
-        <content type="html"><![CDATA[길 없는 시골 마을에 간이역 만드는 천재 고등학생 역 (서울=연합뉴스) 한미희 기자 = 배우 박정민은 영화 '기적'을 "생각만 해도 가슴이 뭉클해지는 영화"라고 했다. 영화는 사람이 오갈 수 있는 길이 없어 위험을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑소 세훈 출연, 영화 ‘해적2’ 티저 포스터 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000760332</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000760332"/>
-        <updated>2021-09-07T08:17:53.306Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 엑소 세훈이 출연하는 영화 ‘해적: 도깨비 깃발’(이하 해적2)의 티저 포스터가 공개됐다. ‘해적2’는 2014년 개봉한 ‘해적: 바다로 간 산적’의 후속편으로 세훈은 명사수 ‘한궁’을 연기한다. 그는]]></content>
     </entry>
 </feed>
