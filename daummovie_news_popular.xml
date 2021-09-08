@@ -4,17 +4,9 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Sep 2021 14:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 15:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA['기적' 임윤아 "고등학생 역할, 저는 부담 없었지만 박정민 오빠는.." 너스레 [인터뷰②]]]></title>
-            <link>https://movie.v.daum.net/v/20210908110759427</link>
-            <guid>https://movie.v.daum.net/v/20210908110759427</guid>
-            <pubDate>Wed, 08 Sep 2021 03:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진=SM엔터테인먼트배우 임윤아(31)가 고등학생 연기를 펼친 소감을 말했다. 임윤아는 8일 오전 화상 인터뷰를 통해 영화 '기적'(감독 이장훈)에 대한 이야기를 전했다. '기적'은 오갈 수 있는 길은 기찻길밖에 없지만 정작 기차역은 없는 마을에 간이역 하나 생기는 게 유일한 인생 목표인 준경(박정민 분)과 동네 사람들의 이야기다]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F08%2Fstarnews%2F20210908110801212upsm.jpg" length="0" type="image//thumb/S732x228/"/>
-        </item>
         <item>
             <title><![CDATA[[인터뷰] 임윤아 "연애 신중한 편..박정민과 만남은 기적"]]></title>
             <link>https://movie.v.daum.net/v/20210908134919862</link>
@@ -24,12 +16,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F08%2Fakn%2F20210908134921049ybgu.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA[박정민X임윤아 '기적', 韓 영화 예매율 1위..추석 극장가 돌풍 예고[공식]]]></title>
-            <link>https://movie.v.daum.net/v/20210908153032020</link>
-            <guid>https://movie.v.daum.net/v/20210908153032020</guid>
-            <pubDate>Wed, 08 Sep 2021 07:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] /사진=영화 '기적' 포스터영화 '기적'(감독 이장훈)이 개봉을 앞두고 한국 영화 예매율 1위에 등극했다. 8일 롯데엔터테인먼트에 따르면 '기적'은 이날 오후 2시 41분 영진위 통합전산망 기준 1만 9379명이 예매해 한국 영화 예매율 1위에 이름을 올렸다. 전체 순위는 '샹치와 텐 링즈의 전설'에 이어 점유율 12.7%로 2위]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F08%2Fstarnews%2F20210908153033262ving.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['기적' 임윤아 "고등학생 역할, 저는 부담 없었지만 박정민 오빠는.." 너스레 [인터뷰②]]]></title>
+            <link>https://movie.v.daum.net/v/20210908110759427</link>
+            <guid>https://movie.v.daum.net/v/20210908110759427</guid>
+            <pubDate>Wed, 08 Sep 2021 03:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진=SM엔터테인먼트배우 임윤아(31)가 고등학생 연기를 펼친 소감을 말했다. 임윤아는 8일 오전 화상 인터뷰를 통해 영화 '기적'(감독 이장훈)에 대한 이야기를 전했다. '기적'은 오갈 수 있는 길은 기찻길밖에 없지만 정작 기차역은 없는 마을에 간이역 하나 생기는 게 유일한 인생 목표인 준경(박정민 분)과 동네 사람들의 이야기다]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F08%2Fstarnews%2F20210908110801212upsm.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
             <title><![CDATA[《김지원의 인서트≫ '샹치와 텐 링즈의 전설' 미국이 만든 동양 히어로물에 공감 가는 이유 셋[TEN스타필드]]]></title>
@@ -38,6 +30,14 @@
             <pubDate>Wed, 08 Sep 2021 00:47:49 GMT</pubDate>
             <content:encoded><![CDATA[[텐아시아=김지원 기자]≪김지원의 인서트≫영화 속 중요 포인트를 확대하는 인서트 장면처럼 김지원 텐아시아 기자가 매주 수요일 영화계 이슈를 집중 조명합니다. 입체적 시각으로 화젯거리의 앞과 뒤를 세밀하게 살펴보겠습니다.검은 머리를 가진 황인종의 히어로가 동양풍 무술로 용과 함께 혼을 먹는 괴물을 무찌르는 영화. 마블 '샹치와 텐 링즈의 전설'은 이렇게 요약]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F08%2F10asia%2F20210908083203242nffr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[박정민X임윤아 '기적', 韓 영화 예매율 1위..추석 극장가 돌풍 예고[공식]]]></title>
+            <link>https://movie.v.daum.net/v/20210908153032020</link>
+            <guid>https://movie.v.daum.net/v/20210908153032020</guid>
+            <pubDate>Wed, 08 Sep 2021 07:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 강민경 기자] /사진=영화 '기적' 포스터영화 '기적'(감독 이장훈)이 개봉을 앞두고 한국 영화 예매율 1위에 등극했다. 8일 롯데엔터테인먼트에 따르면 '기적'은 이날 오후 2시 41분 영진위 통합전산망 기준 1만 9379명이 예매해 한국 영화 예매율 1위에 이름을 올렸다. 전체 순위는 '샹치와 텐 링즈의 전설'에 이어 점유율 12.7%로 2위]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F08%2Fstarnews%2F20210908153033262ving.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[송중기, 부산국제영화제 개막식 MC 맡을까 "제안받고 협의 중" [공식]]]></title>
@@ -96,12 +96,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F08%2FSpoChosun%2F20210908085629217tatw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['1953 금성 대전투', 국내 유통 안된다..수입사 분류등급 취하[종합]]]></title>
-            <link>https://movie.v.daum.net/v/20210908192847741</link>
-            <guid>https://movie.v.daum.net/v/20210908192847741</guid>
-            <pubDate>Wed, 08 Sep 2021 11:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[[이데일리 스타in 박미애 기자] 중국영화 ‘1953 금성 대전투’가 끝내 국내 유통을 포기했다. 8일 영상물등급위원회(이하 영등위)에 따르면 ‘1953 금성 대전투’는 이날 등급 분류를 취하했다. 영상물 관계자는 “오늘 ‘1953 금성 대전투’ 수입사가 분류 취하 신청을 했다”며 “효력은 취하하는 순간 발생한다”고 밝혔다. 수입사는 전날 IPTV 등 V]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F08%2FEdaily%2F20210908193151182nsot.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['샹치와 텐 링즈의 전설', 동양인 히어로 우려 뚫고 글로벌 흥행 [무비노트]]]></title>
+            <link>https://movie.v.daum.net/v/20210908155206961</link>
+            <guid>https://movie.v.daum.net/v/20210908155206961</guid>
+            <pubDate>Wed, 08 Sep 2021 09:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '샹치와 텐 링즈의 전설'이 아시안 히어로라는 우려를 깨고 흥행 순풍 중이다. 지난 1일 개봉된 영화 '샹치와 텐 링즈의 전설'(감독 데스틴 다니엘 크리튼·배급 월트디즈니컴퍼니 코리아)은 마블의 강력한 전설 '텐 링즈'의 힘으로 어둠의 세계를 지배해 온 아버지 웬우(양조위)와 암살자의 길을 거부하고 자신의 진정한 힘을 깨달은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F08%2Ftvdaily%2F20210908155209731dxyo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['007 노 타임 투 다이', 다니엘 크레이그 마지막 미션 담은 스틸 공개]]></title>
@@ -112,28 +112,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F08%2Fxportsnews%2F20210908082403949mcwg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['매트릭스4' 빨간 약or파란 약, 선택은 당신에게 달려있다..파격 티저]]></title>
-            <link>https://movie.v.daum.net/v/20210908212716634</link>
-            <guid>https://movie.v.daum.net/v/20210908212716634</guid>
-            <pubDate>Wed, 08 Sep 2021 13:21:55 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] '매트릭스'가 부활했다.&nbsp; 전세계적 팬덤을 지니고 있는 SF영화 '매트릭스' 4편인 '매트릭스:&nbsp; 부활Resurrection)'이&nbsp;새로운 쌍방향 팬사이트를&nbsp;통해 첫 티저 영상을 공개됐다. 이 프랜차이즈의 세 번째 시리즈인&nbsp;'매트릭스: 레볼루션'은 2003년에 개봉됐던 바. 18년만의 귀환이다. '매트릭스:부활'은 9일(현지시간)&nbsp;공]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F08%2Fpoctan%2F20210908212717746hafu.png" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['1953 금성 대전투' 측 "판권 계약 파기, 무거운 책임 느끼며 깊이 반성"[공식]]]></title>
+            <link>https://movie.v.daum.net/v/20210908233325025</link>
+            <guid>https://movie.v.daum.net/v/20210908233325025</guid>
+            <pubDate>Wed, 08 Sep 2021 15:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=선미경 기자] 6.25전쟁 당시의 중공군 이야기를 담은 영화 ’1953 금성 대전투’가 결국 국내 유통을 포기한 가운데, 수입사 측이 직접 사과의 뜻을 전했다. 위즈덤필름 이정연 대표는 8일 사과문을 통해 “당사에서 수입한 영화 ’1953 금성 대전투’로 인해 국민 분들께 크나큰 심려를 끼쳐드려 머리 숙여 깊이 사과드린다”라고 사과했다. 이어 “]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F08%2Fpoctan%2F20210908233325836qmnm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['샹치와 텐 링즈의 전설', 동양인 히어로 우려 뚫고 글로벌 흥행 [무비노트]]]></title>
-            <link>https://movie.v.daum.net/v/20210908155206961</link>
-            <guid>https://movie.v.daum.net/v/20210908155206961</guid>
-            <pubDate>Wed, 08 Sep 2021 09:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '샹치와 텐 링즈의 전설'이 아시안 히어로라는 우려를 깨고 흥행 순풍 중이다. 지난 1일 개봉된 영화 '샹치와 텐 링즈의 전설'(감독 데스틴 다니엘 크리튼·배급 월트디즈니컴퍼니 코리아)은 마블의 강력한 전설 '텐 링즈'의 힘으로 어둠의 세계를 지배해 온 아버지 웬우(양조위)와 암살자의 길을 거부하고 자신의 진정한 힘을 깨달은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F08%2Ftvdaily%2F20210908155209731dxyo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['샹치' 시무 리우, 무반주로 태양의 '눈, 코, 입' 열창..韓사랑 넘치네]]></title>
-            <link>https://movie.v.daum.net/v/20210908175933588</link>
-            <guid>https://movie.v.daum.net/v/20210908175933588</guid>
-            <pubDate>Wed, 08 Sep 2021 12:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 '샹치와 텐 링즈의 전설'에서 슈퍼히어로 샹치&nbsp;역으로 열연을 펼친 배우 시무 리우가 가수 태양의 ‘눈, 코, 입’을 무반주로 열창한 영상이 공개돼 화제를 모으고 있다. '샹치와 텐 링즈의 전설'(감독 데스틴 크리튼, 수입배급 월트디즈니컴퍼니 코리아)에 출연한 배우 아콰피나,&nbsp;연출을 맡은 데스틴 다니엘 크리튼 감독과 함께 화상으]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F08%2Fpoctan%2F20210908175933950pcdf.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['1953 금성 대전투', 국내 유통 안된다..수입사 분류등급 취하[종합]]]></title>
+            <link>https://movie.v.daum.net/v/20210908192847741</link>
+            <guid>https://movie.v.daum.net/v/20210908192847741</guid>
+            <pubDate>Wed, 08 Sep 2021 11:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 스타in 박미애 기자] 중국영화 ‘1953 금성 대전투’가 끝내 국내 유통을 포기했다. 8일 영상물등급위원회(이하 영등위)에 따르면 ‘1953 금성 대전투’는 이날 등급 분류를 취하했다. 영상물 관계자는 “오늘 ‘1953 금성 대전투’ 수입사가 분류 취하 신청을 했다”며 “효력은 취하하는 순간 발생한다”고 밝혔다. 수입사는 전날 IPTV 등 V]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F08%2FEdaily%2F20210908193151182nsot.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[해외 영화제서 연기 인정받은 유아인]]></title>
@@ -144,6 +136,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F08%2Fsportsdonga%2F20210908065725451kzqu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['매트릭스4' 빨간 약or파란 약, 선택은 당신에게 달려있다..파격 티저]]></title>
+            <link>https://movie.v.daum.net/v/20210908212716634</link>
+            <guid>https://movie.v.daum.net/v/20210908212716634</guid>
+            <pubDate>Wed, 08 Sep 2021 13:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자] '매트릭스'가 부활했다.&nbsp; 전세계적 팬덤을 지니고 있는 SF영화 '매트릭스' 4편인 '매트릭스:&nbsp; 부활Resurrection)'이&nbsp;새로운 쌍방향 팬사이트를&nbsp;통해 첫 티저 영상을 공개됐다. 이 프랜차이즈의 세 번째 시리즈인&nbsp;'매트릭스: 레볼루션'은 2003년에 개봉됐던 바. 18년만의 귀환이다. '매트릭스:부활'은 9일(현지시간)&nbsp;공]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F08%2Fpoctan%2F20210908212717746hafu.png" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[공식]"김민희, 배우 아닌 제작실장"..홍상수 신작 '당신얼굴 앞에서', 10월 21일 개봉]]></title>
             <link>https://movie.v.daum.net/v/20210908084408910</link>
             <guid>https://movie.v.daum.net/v/20210908084408910</guid>
@@ -152,20 +152,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F08%2FSpoChosun%2F20210908084408344vygp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['샹치' 시무 리우, 무반주로 태양의 '눈, 코, 입' 열창..韓사랑 넘치네]]></title>
+            <link>https://movie.v.daum.net/v/20210908175933588</link>
+            <guid>https://movie.v.daum.net/v/20210908175933588</guid>
+            <pubDate>Wed, 08 Sep 2021 12:24:02 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 '샹치와 텐 링즈의 전설'에서 슈퍼히어로 샹치&nbsp;역으로 열연을 펼친 배우 시무 리우가 가수 태양의 ‘눈, 코, 입’을 무반주로 열창한 영상이 공개돼 화제를 모으고 있다. '샹치와 텐 링즈의 전설'(감독 데스틴 크리튼, 수입배급 월트디즈니컴퍼니 코리아)에 출연한 배우 아콰피나,&nbsp;연출을 맡은 데스틴 다니엘 크리튼 감독과 함께 화상으]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F08%2Fpoctan%2F20210908175933950pcdf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['기적', 마음이 밝아지는 귀엽고 촉촉한 성장 서사 [N리뷰]]]></title>
             <link>https://movie.v.daum.net/v/20210908162804258</link>
             <guid>https://movie.v.daum.net/v/20210908162804258</guid>
             <pubDate>Wed, 08 Sep 2021 14:14:28 GMT</pubDate>
             <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = *영화의 주요 내용을 포함한 스포일러가 있을 수 있습니다. 영화 '기적'은 한국판 '지금 만나러 갑니다'의 연출을 담당했던 이장훈 감독의 신작이다. 이장훈 감독은 '지금 만나러 갑니다'를 통해 절대적 비교 대상이 있는 리메이크 영화의 핸디캡에도 불구, 한국적이면서도 원작의 감성을 놓치지 않는 연출로 의미있는 성공을 거둔]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F08%2FNEWS1%2F20210908162805481pfyo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[개봉 D-7 '기적', 한국영화 예매율 1위..추석 극장가 흥행 예고[공식]]]></title>
-            <link>https://movie.v.daum.net/v/20210908170812749</link>
-            <guid>https://movie.v.daum.net/v/20210908170812749</guid>
-            <pubDate>Wed, 08 Sep 2021 12:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;믿고 보는 배우들의 유쾌한 연기 시너지, 감성을 자극하는 섬세한 스토리와 영상미로 뜨거운 호평을 불러일으키고 있는 영화 '기적'이 개봉을 일주일 앞두고 한국영화 예매율 1위에 등극했다. 8일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 이날 오후 2시 41분을 기준으로 '기적'은 12.7%의 예매율을 기록했다. 같은 시간을 기]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F08%2Fpoctan%2F20210908170814122umbj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
