@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Sep 2021 09:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 10:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,14 +40,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F045e3b529565237b7465a357637177d59a1154ba" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[그대 너머에]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145306</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145306</guid>
-            <pubDate>Tue, 31 Aug 2021 23:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5d4bb2151b505591ca42f249180123fe215f4cf1" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[쇼미더고스트]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151377</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151377</guid>
@@ -72,6 +64,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F60f63377d24fe603927f221479c6bab85032960b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[죽을 때까지]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151682</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151682</guid>
+            <pubDate>Thu, 02 Sep 2021 00:47:47 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6742e6f97365b3f781d3dd59e6ac02384d153da3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[해변의 에트랑제]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=144509</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=144509</guid>
@@ -80,20 +80,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb5d7d3b44a51b812da3297593812c1661066682e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[그대 너머에]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145306</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145306</guid>
+            <pubDate>Tue, 31 Aug 2021 23:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5d4bb2151b505591ca42f249180123fe215f4cf1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[스네이크 아이즈: 지.아이.조]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137243</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137243</guid>
             <pubDate>Thu, 02 Sep 2021 00:47:47 GMT</pubDate>
             <content:encoded><![CDATA[21.09.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F667c6d5b6a08656f3770860e2fd25b8702452edb" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[죽을 때까지]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151682</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151682</guid>
-            <pubDate>Thu, 02 Sep 2021 00:47:47 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6742e6f97365b3f781d3dd59e6ac02384d153da3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[변신 : 어느날 갑자기]]></title>
