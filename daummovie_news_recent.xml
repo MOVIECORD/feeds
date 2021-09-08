@@ -4,9 +4,17 @@
         <title>다음영화 뉴스 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Sep 2021 10:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 11:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['1953 금성 대전투', 국내 유통 안된다..수입사 분류등급 취하[종합]]]></title>
+            <link>https://v.daum.net/v/20210908192847741</link>
+            <guid>https://v.daum.net/v/20210908192847741</guid>
+            <pubDate>Wed, 08 Sep 2021 11:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 스타in 박미애 기자] 중국영화 ‘1953 금성 대전투’가 끝내 국내 유통을 포기했다. 8일 영상물등급위원회(이하 영등위)에 따르면 ‘1953 금성 대전투’는 이날 등급 분류를 취하했다. 영상물 관계자는 “오늘 ‘1953 금성 대전투’ 수입사가 분류 취하 신청을 했다”며 “효력은 취하하는 순간 발생한다”고 밝혔다. 수입사는 전날 IPTV 등 V]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F08%2FEdaily%2F20210908193151182nsot.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
         <item>
             <title><![CDATA['싱크홀' 차승원 "연기는 내 취미" [인터뷰]]]></title>
             <link>https://v.daum.net/v/20210908180207716</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 08 Sep 2021 07:15:35 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 강민경 기자] /사진=영화 '기적' 포스터영화 '기적'(감독 이장훈)이 개봉을 앞두고 한국 영화 예매율 1위에 등극했다. 8일 롯데엔터테인먼트에 따르면 '기적'은 이날 오후 2시 41분 영진위 통합전산망 기준 1만 9379명이 예매해 한국 영화 예매율 1위에 이름을 올렸다. 전체 순위는 '샹치와 텐 링즈의 전설'에 이어 점유율 12.7%로 2위]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F08%2Fstarnews%2F20210908153033262ving.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[부산국제영화제, 비프메세나상 후보작 10편 공개]]></title>
-            <link>https://v.daum.net/v/20210908152724936</link>
-            <guid>https://v.daum.net/v/20210908152724936</guid>
-            <pubDate>Wed, 08 Sep 2021 07:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진=각 영화 스틸컷제26회 부산국제영화제가 한국과 아시아에서 만들어진 장편 다큐멘터리를 대상으로 한 '비프메세나상' 후보작 10편을 8일 공개했다. 한국 다큐멘터리 5편과 아시아 다큐멘터리 5편으로 구성된 비프메세나상 후보작들은 10월 부산국제영화제에서 월드 프리미어로 소개된다. 올해 비프메세나상 후보작들의 면면은 어느 해보다]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F08%2Fstarnews%2F20210908152727027ogcj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
