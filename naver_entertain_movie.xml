@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-08T13:22:55.088Z</updated>
+    <updated>2021-09-08T14:15:26.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디즈니+, 11월 12일 한국 출시…구독료 월 9,900원 또는 연간 99,000원]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=016&amp;aid=0001885238</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=016&amp;aid=0001885238"/>
+        <updated>2021-09-08T14:14:05.782Z</updated>
+        <content type="html"><![CDATA[[헤럴드경제 = 서병기 선임기자]월트디즈니 컴퍼니 코리아(The Walt Disney Company Korea, 이하 디즈니코리아)가 디즈니+(Disney+)를 한국에서 11월 12일 출시한다고 발표했다. 디즈니+는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[POP초점]'1953 금성 대전투' 중공군 미화 논란..수입사 대표 "깊이 반성"(종합)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003474852</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003474852"/>
+        <updated>2021-09-08T14:14:05.784Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] '1953 금성 대전투'가 중공군 미화 논란에 휩싸인 가운데 수입사 대표가 사과했다. 영화 '1953 금성 대전투' 수입사 위즈덤필름 이정연 대표는 공식 사과문을 통해 "당사에서 수입한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중공군 미화 ‘1953 금성대전투’ 국내상영 취소 “충분한 고민 없이 수입해 책임 느껴”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=016&amp;aid=0001885234</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005032340"/>
         <updated>2021-09-08T09:15:10.670Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 박미애 기자] 한국전쟁 당시 중공군의 승전을 다룬 이야기로 알려진 영화 ‘1953 금성 대전투’가 끝내 출시를 연기했다. 한 IPTV 업체는 8일 이데일리에 “어제(7일) 수입사 측에서 연락이 와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스튜디오앤뉴, 220억원 신규 투자 유치]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003551022</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003551022"/>
-        <updated>2021-09-08T09:15:10.673Z</updated>
-        <content type="html"><![CDATA[미디어그룹 NEW의 콘텐츠제작사업 계열사 스튜디오앤뉴가 약 220억 원의 투자 유치로 설립 5년 만에 총 563억 원 규모의 투자를 유치했다. 스튜디오앤뉴는 9월 초 보통주 발행 방식으로 220억 원 규모의 시리즈B]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["단숨에 매혹"…해외가 주목하는 '인질' [필름:리포트]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001194391</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001194391"/>
-        <updated>2021-09-08T09:15:10.676Z</updated>
-        <content type="html"><![CDATA[영화 '인질'이 해외 영화제들의 잇단 러브콜을 받으며 글로벌 흥행을 예고하고 있다. 21일 연속 한국영화 박스오피스 1위로 개봉 4주차에도 역시 흥행질주를 이어가며 국내를 넘어 해외까지 매료시키고 있는 영화 '인질']]></content>
     </entry>
 </feed>
