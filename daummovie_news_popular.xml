@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Sep 2021 15:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 16:23:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2Fstarnews%2F20210909092714795pwxs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[이완 "'김태희 동생' 누가 싫을까? 매형 비와는 작품 얘기 안해"[EN:인터뷰②]]]></title>
+            <link>https://movie.v.daum.net/v/20210909231708646</link>
+            <guid>https://movie.v.daum.net/v/20210909231708646</guid>
+            <pubDate>Thu, 09 Sep 2021 15:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 이완이 '김태희 동생'이란 수식어에 대해 "좋은 점이 훨씬 많다"고 밝혔다. 영화 '영화의 거리'(감독 김민근)에 출연한 이완은 9월 9일 온라인으로 진행된 인터뷰를 통해 공백기 동안 가족들과 함께 시간을 보냈다고 말했다. 오는 9월 16일 개봉하는 '영화의 거리'는 영화 로케이션 매니저와 감독으로 부산에서 다시 만난 헤어진 연인]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2Fnewsen%2F20210909231708962kyor.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[이완 "골퍼 ♥이보미와 결혼 2년차, 아직 연애하는 기분"[EN:인터뷰①]]]></title>
             <link>https://movie.v.daum.net/v/20210909225345452</link>
             <guid>https://movie.v.daum.net/v/20210909225345452</guid>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 09 Sep 2021 00:51:19 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 영화 '기적'(감독 이장훈)이 '써니', '건축학개론'에 이어 다시 한번 극장가에 레트로 열풍을 불러일으킬 전망이다. 지난 2011년 가장 찬란했던 시절을 함께한 일곱 친구들의 이야기를 그린 영화 '써니'는 모두의 학창 시절을 떠올리게 하는 따뜻한 스토리와 관객들의 귀를 사로잡는 80년대 히트 가요로 745만 관객을 동원, 극]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2Fxportsnews%2F20210909080717954zhdo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[이완 "'김태희 동생' 누가 싫을까? 매형 비와는 작품 얘기 안해"[EN:인터뷰②]]]></title>
-            <link>https://movie.v.daum.net/v/20210909231708646</link>
-            <guid>https://movie.v.daum.net/v/20210909231708646</guid>
-            <pubDate>Thu, 09 Sep 2021 15:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 이완이 '김태희 동생'이란 수식어에 대해 "좋은 점이 훨씬 많다"고 밝혔다. 영화 '영화의 거리'(감독 김민근)에 출연한 이완은 9월 9일 온라인으로 진행된 인터뷰를 통해 공백기 동안 가족들과 함께 시간을 보냈다고 말했다. 오는 9월 16일 개봉하는 '영화의 거리'는 영화 로케이션 매니저와 감독으로 부산에서 다시 만난 헤어진 연인]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2Fnewsen%2F20210909231708962kyor.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
