@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-09T14:16:21.792Z</updated>
+    <updated>2021-09-09T15:17:57.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[새영화]“귀신보다 집값이 더 무서워” 청춘들의 웃픈 ‘셀프 퇴마']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000859929</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000859929"/>
+        <updated>2021-09-09T15:16:42.605Z</updated>
+        <content type="html"><![CDATA[지난 여름 개봉한 영화들이 코로나19 확산 속에서도 눈에 띄는 성과를 거두고 있는 가운데 다양한 장르의 신작들이 개봉했다. 씁쓸한 청춘을 담아낸 코믹 호러 ‘쇼 미 더 고스트'와 관객들을 고민하게 하는 서스펜스 장르]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중공군 미화 논란 '1953', 국내 상영 포기…수입사 대표 사과]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000105387</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000105387"/>
+        <updated>2021-09-09T15:16:42.606Z</updated>
+        <content type="html"><![CDATA[9일 영화 수입사 위즈덤필름, 영상물 등급 분류 취하 신청 중공군 미화 논란에 휩싸인 중국영화 '1953 금성 대전투'(원제 '희생')가 국내 상영을 포기했다. 영화를 수입한 수입사 대표는 고개를 숙였다. 9일 영화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['영화의 거리' 감독 밝힌 제목의 의미]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004472211</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000016149"/>
         <updated>2021-09-09T09:15:12.519Z</updated>
         <content type="html"><![CDATA[Actor Jung Woo-sung, a goodwill ambassador of the United Nations High Commissioner for Refugees (Unhcr), donated 100 mil]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亞 애니메이션 축제 '인디애니페스트' 오늘 개막]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010712187</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010712187"/>
-        <updated>2021-09-09T09:15:12.519Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스] 김지은 기자 = 17회를 맞이한 세계 유일의 아시아 애니메이션 영화제인 인디애니페스트가 9일 개막한다. 영화제는 이날 오후 CGV명동역 씨네라이브러리에서 열리는 개막식을 시작으로 14일까지 총 6일간]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백건우·백진희 측 "윤정희 방치? 허위 사실"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010712186</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010712186"/>
-        <updated>2021-09-09T09:15:12.519Z</updated>
-        <content type="html"><![CDATA[기사내용 요약 공동후견인 및 변호사 입장문 공개 "프랑스의 사회복지협회인 AST와 딸의 따뜻한 돌봄 아래 생활" [서울=뉴시스] 남정현 기자 = 윤정희가 남편 백건우와 딸로부터 방치됐다는 주장이 다시 제기된 가운데,]]></content>
     </entry>
 </feed>
