@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-09T19:13:21.769Z</updated>
+    <updated>2021-09-09T20:17:29.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부천국제애니메이션페스티벌 개막작에 '항구의 니쿠코' 선정]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010712447</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010712447"/>
+        <updated>2021-09-09T20:16:08.261Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 김지은 기자 = 아카데미 공식지정 국제영화제인 부천국제애니메이션페스티벌(BIAF)이 다음 달 관객들을 찾는다. 올해로 23번째를 맞이하는 BIAF에는 36개국의 131편 작품이 초청됐다. 초청작들은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[새영화]“귀신보다 집값이 더 무서워” 청춘들의 웃픈 ‘셀프 퇴마']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000859929</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005594504"/>
         <updated>2021-09-09T09:15:12.519Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = CGV가 '2021 경기인디시네마 CGV·KT 상영 연계지원' 사업의 선정작 6편을 9일 발표했다. 이번 사업은 다양성 영화의 상영 기회를 늘리고, 관객들이 보다 쉽게 독립·예술 영화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Actor Jung Woo-sung donates $85,000 to help needy in Afghanistan]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000016149</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000016149"/>
-        <updated>2021-09-09T09:15:12.519Z</updated>
-        <content type="html"><![CDATA[Actor Jung Woo-sung, a goodwill ambassador of the United Nations High Commissioner for Refugees (Unhcr), donated 100 mil]]></content>
     </entry>
 </feed>
