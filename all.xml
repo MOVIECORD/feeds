@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Sep 2021 13:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 14:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -199,20 +199,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe1285fe4d39de150ca497edf0d91d8b4ad8d8e39" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[리스펙트 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=137818</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=137818</guid>
-            <pubDate>Tue, 31 Aug 2021 23:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F61b1c5e4a69b691453820cf032d246c61095c496" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[모가디슈 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=132564</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=132564</guid>
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.07.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F232a8d6e902c63036bbe2ae327d57e82585a639f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[리스펙트 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137818</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137818</guid>
+            <pubDate>Tue, 31 Aug 2021 23:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F61b1c5e4a69b691453820cf032d246c61095c496" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[건파우더 밀크셰이크 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -519,14 +519,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2Fpoctan%2F20210909110654726ugip.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA[월세 33만원에 '풀옵션', 횡재한 줄 알았는데.. (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210909101501444</link>
-            <guid>https://movie.v.daum.net/v/20210909101501444</guid>
-            <pubDate>Thu, 09 Sep 2021 02:00:13 GMT</pubDate>
-            <content:encoded><![CDATA[[김상목 기자] ▲ "쇼미더고스트" 포스터&nbsp;영화 포스터 이미지    ⓒ 인디스토리  &nbsp;1_2030세대의 고단한 현실은 귀신들린 집보다 무섭다?!&nbsp;&lt;쇼미더고스트&gt;는 슬랩스틱 코미디의 본체에 공포장르의 문법을 소스로 살짝 끼얹고 2030세대가 공감하고 피부로 느낄 법한 사회적 코드들을 부재료와 양념으로 활용한다. 마치 영화 속에서 '호두'가 '예]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2Fohmynews%2F20210909101502382qrsn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[브래드 피트 '가을의 전설', 27년만에 재개봉 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210909135804722</link>
             <guid>https://movie.v.daum.net/v/20210909135804722</guid>
@@ -541,6 +533,14 @@
             <pubDate>Thu, 09 Sep 2021 08:18:30 GMT</pubDate>
             <content:encoded><![CDATA[미국 최대 극장체인 AMC엔터테인먼트가 지난 1일 개봉한 마블의 첫 아시안 히어로 영화 ‘샹치와 텐 링즈의 전설(이하 ‘샹치’)’ 덕분에 활짝 웃고 있다. ‘샹치’ 흥행에 힘입어 AMC가 운영하는 극장을 찾은 미국 영화 관람객 수가 신종 코로나바이러스 감염증(코로나19) 사태 이전 수준을 넘어선 것이다. 8일(현지 시각) 미 경제전문매체 CNBC에 따르면,]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2Fchosunbiz%2F20210909113024824tnny.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[월세 33만원에 '풀옵션', 횡재한 줄 알았는데.. (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210909101501444</link>
+            <guid>https://movie.v.daum.net/v/20210909101501444</guid>
+            <pubDate>Thu, 09 Sep 2021 02:00:13 GMT</pubDate>
+            <content:encoded><![CDATA[[김상목 기자] ▲ "쇼미더고스트" 포스터&nbsp;영화 포스터 이미지    ⓒ 인디스토리  &nbsp;1_2030세대의 고단한 현실은 귀신들린 집보다 무섭다?!&nbsp;&lt;쇼미더고스트&gt;는 슬랩스틱 코미디의 본체에 공포장르의 문법을 소스로 살짝 끼얹고 2030세대가 공감하고 피부로 느낄 법한 사회적 코드들을 부재료와 양념으로 활용한다. 마치 영화 속에서 '호두'가 '예]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2Fohmynews%2F20210909101502382qrsn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[변우석, 넷플릭스 영화 '20세기 소년' 출연..김유정과 호흡[공식] (다음영화 뉴스 ─ 인기)]]></title>
@@ -559,14 +559,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2FSpoChosun%2F20210909145406235ehdj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["샹치 보러 갔다 양조위에 입덕"..미워할 수 없는 빌런 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210908165322182</link>
-            <guid>https://movie.v.daum.net/v/20210908165322182</guid>
-            <pubDate>Thu, 09 Sep 2021 00:51:19 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]백승훈 인턴 기자 = '샹치와 텐 링즈의 전설'에 출연한 전설적인 홍콩 스타 양조위가 폭발적인 신드롬을 불러 일으키고 있다. 트위터, 인스타그램을 비롯한 각종 SNS 및 온라인 채널에선 양조위의 다채로운 모습을 모아 놓은 '밈'이 유행을 타고 있을뿐만 아니라 '중경삼림', '화양연화', '해피 투게더' 등 배우의 전작들도 다시금 회자되고]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F08%2Fnewsis%2F20210908165322614lnau.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[매력적인 마블 빌런의 러브스토리 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210909110901085</link>
             <guid>https://movie.v.daum.net/v/20210909110901085</guid>
@@ -575,12 +567,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2Fohmynews%2F20210909110902501expo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['매트릭스4' 빨간 약or파란 약, 선택은 당신에게 달려있다..파격 티저 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210908212716634</link>
-            <guid>https://movie.v.daum.net/v/20210908212716634</guid>
+            <title><![CDATA["샹치 보러 갔다 양조위에 입덕"..미워할 수 없는 빌런 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210908165322182</link>
+            <guid>https://movie.v.daum.net/v/20210908165322182</guid>
             <pubDate>Thu, 09 Sep 2021 00:51:19 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] '매트릭스'가 부활했다.&nbsp; 전세계적 팬덤을 지니고 있는 SF영화 '매트릭스' 4편인 '매트릭스:&nbsp; 부활Resurrection)'이&nbsp;새로운 쌍방향 팬사이트를&nbsp;통해 첫 티저 영상을 공개됐다. 이 프랜차이즈의 세 번째 시리즈인&nbsp;'매트릭스: 레볼루션'은 2003년에 개봉됐던 바. 18년만의 귀환이다. '매트릭스:부활'은 9일(현지시간)&nbsp;공]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F08%2Fpoctan%2F20210908212717746hafu.png" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[서울=뉴시스]백승훈 인턴 기자 = '샹치와 텐 링즈의 전설'에 출연한 전설적인 홍콩 스타 양조위가 폭발적인 신드롬을 불러 일으키고 있다. 트위터, 인스타그램을 비롯한 각종 SNS 및 온라인 채널에선 양조위의 다채로운 모습을 모아 놓은 '밈'이 유행을 타고 있을뿐만 아니라 '중경삼림', '화양연화', '해피 투게더' 등 배우의 전작들도 다시금 회자되고]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F08%2Fnewsis%2F20210908165322614lnau.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[박정민X임윤아 '기적', '써니' '건축학개론' 이을 레트로 열풍 예고 (다음영화 뉴스 ─ 인기)]]></title>
@@ -599,12 +591,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2FNEWS1%2F20210909154628567ojaw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[뜨거운 감자 '1953 금성 대전투' 끝내 출시 잠정 연기 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210908172317222</link>
-            <guid>https://movie.v.daum.net/v/20210908172317222</guid>
+            <title><![CDATA['매트릭스4' 빨간 약or파란 약, 선택은 당신에게 달려있다..파격 티저 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210908212716634</link>
+            <guid>https://movie.v.daum.net/v/20210908212716634</guid>
             <pubDate>Thu, 09 Sep 2021 00:51:19 GMT</pubDate>
-            <content:encoded><![CDATA[[이데일리 스타in 박미애 기자] 한국전쟁 당시 중공군의 승전을 다룬 이야기로 알려진 영화 ‘1953 금성 대전투’가 끝내 출시를 연기했다. 한 IPTV 업체는 8일 이데일리에 “어제(7일) 수입사 측에서 연락이 와 해당 영화에 대한 서비스를 잠정 연기해 달라고 요청해왔다”고 밝혔다. 이 영화는 지난 달 30일 영상물등급위원회(이하 영등위) 심의를 마치고]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2FEdaily%2F20210909112953986oxie.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[OSEN=최나영 기자] '매트릭스'가 부활했다.&nbsp; 전세계적 팬덤을 지니고 있는 SF영화 '매트릭스' 4편인 '매트릭스:&nbsp; 부활Resurrection)'이&nbsp;새로운 쌍방향 팬사이트를&nbsp;통해 첫 티저 영상을 공개됐다. 이 프랜차이즈의 세 번째 시리즈인&nbsp;'매트릭스: 레볼루션'은 2003년에 개봉됐던 바. 18년만의 귀환이다. '매트릭스:부활'은 9일(현지시간)&nbsp;공]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F08%2Fpoctan%2F20210908212717746hafu.png" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[김새론X이채민X류의현X체리블렛 유주, 영화 '우리는 매일매일' 캐스팅 (다음영화 뉴스 ─ 인기)]]></title>
@@ -613,6 +605,30 @@
             <pubDate>Thu, 09 Sep 2021 09:15:35 GMT</pubDate>
             <content:encoded><![CDATA[[서울경제] ‘우리는 매일매일’에 배우 김새론, 이채민, 류의현, 체리블렛 최유주가 출연한다. 9일 영화 ‘우리는 매일매일’ 측은 김새론, 이채민, 류의현, 유주의 출연 확정 소식을 전했다. 카카오페이지 웹툰 원작을 기반으로 한 영화 ‘우리는 매일매일’은 싱그러운 학창 시절 누구나 간직하고 있는 첫사랑의 설렘과 진한 우정의 순간들을 그려낸 성장기 로맨스]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2Fseouleconomy%2F20210909134244081ltwu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[뜨거운 감자 '1953 금성 대전투' 끝내 출시 잠정 연기 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210908172317222</link>
+            <guid>https://movie.v.daum.net/v/20210908172317222</guid>
+            <pubDate>Thu, 09 Sep 2021 00:51:19 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 스타in 박미애 기자] 한국전쟁 당시 중공군의 승전을 다룬 이야기로 알려진 영화 ‘1953 금성 대전투’가 끝내 출시를 연기했다. 한 IPTV 업체는 8일 이데일리에 “어제(7일) 수입사 측에서 연락이 와 해당 영화에 대한 서비스를 잠정 연기해 달라고 요청해왔다”고 밝혔다. 이 영화는 지난 달 30일 영상물등급위원회(이하 영등위) 심의를 마치고]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2FEdaily%2F20210909112953986oxie.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[조동혁X차선우 '피어썸', 10월 개봉 확정..소름 돋는 미스터리 실화[공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210909092713021</link>
+            <guid>https://movie.v.daum.net/v/20210909092713021</guid>
+            <pubDate>Thu, 09 Sep 2021 11:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 강민경 기자] /사진=영화 '피어썸' 메인 포스터영화 '피어썸'(감독 이상헌)이 10월 개봉을 확정지었다. 9일 (주)스토리제이 측은 '피어썸'이 오는 10월 개봉을 확정지었다고 밝혔다. 이와 함께 메인 포스터를 공개했다. 영화 '피어썸'은 춘천으로 여행을 떠난 밴드에게 벌어지는 소름 끼치는 사건을 다룬 공포 실화다. '피어썸'은 조동혁, 차선우]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2Fstarnews%2F20210909092714795pwxs.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['쇼미더고스트' 한승연, 공감 100% 청춘 캐릭터..스크린 데뷔 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210909133352849</link>
+            <guid>https://movie.v.daum.net/v/20210909133352849</guid>
+            <pubDate>Thu, 09 Sep 2021 13:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;배우 한승연이 리얼 청춘 캐릭터로 관객을 찾는다. 한승연은 오늘(9일) 개봉하는 영화 '쇼미더고스트'(감독 김은경, 제작배급 인디스토리)에서 완벽한 스펙을 갖췄지만 지방대 출신이라는 이유로 번번이 취업에 실패하는 예지 역을 맡아 현실감 넘치는 연기를 선보인다. '쇼미더고스트'는 집에 귀신이 들린 것을 알게 된 20년 절친 예지와 호]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2Fpoctan%2F20210909133352356pdhx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[박정민·임윤아 '기적', '써니'·'건축학개론' 레트로 열풍 잇는다 (다음영화 뉴스 ─ 인기)]]></title>
@@ -631,36 +647,52 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F08%2Fpoctan%2F20210908173245497zozo.png" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['쇼미더고스트' 한승연, 공감 100% 청춘 캐릭터..스크린 데뷔 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210909133352849</link>
-            <guid>https://movie.v.daum.net/v/20210909133352849</guid>
-            <pubDate>Thu, 09 Sep 2021 13:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;배우 한승연이 리얼 청춘 캐릭터로 관객을 찾는다. 한승연은 오늘(9일) 개봉하는 영화 '쇼미더고스트'(감독 김은경, 제작배급 인디스토리)에서 완벽한 스펙을 갖췄지만 지방대 출신이라는 이유로 번번이 취업에 실패하는 예지 역을 맡아 현실감 넘치는 연기를 선보인다. '쇼미더고스트'는 집에 귀신이 들린 것을 알게 된 20년 절친 예지와 호]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2Fpoctan%2F20210909133352356pdhx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[조동혁X차선우 '피어썸', 10월 개봉 확정..소름 돋는 미스터리 실화[공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210909092713021</link>
-            <guid>https://movie.v.daum.net/v/20210909092713021</guid>
-            <pubDate>Thu, 09 Sep 2021 11:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] /사진=영화 '피어썸' 메인 포스터영화 '피어썸'(감독 이상헌)이 10월 개봉을 확정지었다. 9일 (주)스토리제이 측은 '피어썸'이 오는 10월 개봉을 확정지었다고 밝혔다. 이와 함께 메인 포스터를 공개했다. 영화 '피어썸'은 춘천으로 여행을 떠난 밴드에게 벌어지는 소름 끼치는 사건을 다룬 공포 실화다. '피어썸'은 조동혁, 차선우]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2Fstarnews%2F20210909092714795pwxs.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[미리보는 '007 노 타임 투 다이' 자신만만 비주얼 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210908181506119</link>
-            <guid>https://movie.v.daum.net/v/20210908181506119</guid>
-            <pubDate>Thu, 09 Sep 2021 02:00:13 GMT</pubDate>
-            <content:encoded><![CDATA[역대급을 자신한다. 영화 '007 노 타임 투 다이'가 시리즈 사상 최고의 스케일을 예고하는 보도스틸을 공개했다. '007 노 타임 투 다이'는 가장 강력한 운명의 적의 등장으로 죽음과 맞닿은 작전을 수행하게 된 제임스 본드의 마지막 미션을 그린 액션 블록버스터 영화다. 공개된 스틸은 시리즈를 이끌어 온 제임스 본드 다니엘 크레이그가 최첨단]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F08%2Filgansports%2F20210908181507422lstr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[유아인·전종서 제15회 아시아필름어워즈 남녀주연상 후보..韓 영화의 저력 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210909155103482</link>
             <guid>https://movie.v.daum.net/v/20210909155103482</guid>
             <pubDate>Thu, 09 Sep 2021 11:13:11 GMT</pubDate>
             <content:encoded><![CDATA[[텐아시아=노규민 기자]아시아필름어워즈아카데미(Asian Film Awards Academy)가 '제15회 아시아필름어워즈(Asian Film Awards)' 후보작을 발표했다.아시아필름어워즈아카데미(이하 AFAA)는 홍콩국제영화제, 부산국제영화제, 도쿄국제영화제가 아시아영화 발전을 위해 2013년 힘을 모아 설립한 조직이다. AFAA는 매년 아시아필름어워]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2F10asia%2F20210909155106093fmcf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이완 "골퍼 ♥이보미와 결혼 2년차, 아직 연애하는 기분"[EN:인터뷰①] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210909225345452</link>
+            <guid>https://movie.v.daum.net/v/20210909225345452</guid>
+            <pubDate>Thu, 09 Sep 2021 14:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 이완이 골프선수 아내 이보미와 결혼 2년째임에도 불구하고 "연애하는 기분"이라고 밝혔다. 영화 '영화의 거리'(감독 김민근)에 출연한 이완은 9월 9일 온라인으로 진행된 인터뷰를 통해 2019년 결혼한 프로골퍼 이보미에 대한 깊은 애정을 전했다. 오는 9월 16일 개봉하는 '영화의 거리'는 영화 로케이션 매니저와 감독으로 부산에서]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2Fnewsen%2F20210909225346012pyfu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['쇼미더고스트' 귀신도 울고 갈 짠내, 공감대는 글쎄[개봉작 리뷰] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20210909230855582</link>
+            <guid>https://v.daum.net/v/20210909230855582</guid>
+            <pubDate>Thu, 09 Sep 2021 14:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 김노을 기자] 돈도 없고 집도 없는 청춘들이 셀프 퇴마를 하는 지경에 이르렀다. 귀신도 혀 내두를 시궁창 형편을 담은 '쇼미더고스트'다. 9월 9일 개봉하는 영화 '쇼미더고스트'(감독 김은경)는 집에 귀신이 들린 것을 알게 된 20년 절친 예지(한승연 분)와 호두(김현목 분)가 귀신보다 무서운 서울 물가에 맞서 귀신 퇴치에 나서는 내집 사수 셀프]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2Fnewsen%2F20210909230855435fpwj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['좋은 사람' 죄 없는 자, 이 남자에 돌을 던져라[개봉작 리뷰] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20210909230820574</link>
+            <guid>https://v.daum.net/v/20210909230820574</guid>
+            <pubDate>Thu, 09 Sep 2021 14:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 김노을 기자] 좋은 사람은 어떤 사람이고, 그렇게 되려면 어떻게 해야 할까. 영화 '좋은 사람'이 그 막연한 벽을 끊임없이 두드린다. 9월 9일 개봉한 영화 '좋은 사람'(감독 정욱)은 교실에서 벌어진 도난 사건과 교통 사고, 의심받고 있는 한 명의 학생 세익(이효제 분)과 좋은 사람이 되고 싶은 교사 경석(김태훈 분)의 이야기를 담는다. 제25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2Fnewsen%2F20210909230820560esjf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[류의현, 영화 '우리는 매일매일' 합류..김새론과 호흡(공식) (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20210909230512542</link>
+            <guid>https://v.daum.net/v/20210909230512542</guid>
+            <pubDate>Thu, 09 Sep 2021 14:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 서지현 기자] 배우 류의현이 하이틴&nbsp;로맨스&nbsp;영화&nbsp;‘우리는&nbsp;매일매일’에 출연한다. 9월 9일 소속사&nbsp;웨이즈컴퍼니는&nbsp;“류의현이&nbsp;영화&nbsp;‘우리는&nbsp;매일매일’에&nbsp;‘권호재’역으로&nbsp;캐스팅되어&nbsp;현재&nbsp;촬영 중"이라고&nbsp;전했다. 카카오페이지&nbsp;웹툰&nbsp;원작을&nbsp;기반으로&nbsp;한&nbsp;‘우리는&nbsp;매일매일&nbsp;(감독&nbsp;김민재)’은&nbsp;싱그러운&nbsp;학창시절&nbsp;누구나&nbsp;간직하고&nbsp;있는&nbsp;첫사랑의&nbsp;설렘과&nbsp;진한&nbsp;우]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2Fnewsen%2F20210909230512940ivwh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이완 "골퍼 ♥이보미와 결혼 2년차, 아직 연애하는 기분"[EN:인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20210909225345452</link>
+            <guid>https://v.daum.net/v/20210909225345452</guid>
+            <pubDate>Thu, 09 Sep 2021 14:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 이완이 골프선수 아내 이보미와 결혼 2년째임에도 불구하고 "연애하는 기분"이라고 밝혔다. 영화 '영화의 거리'(감독 김민근)에 출연한 이완은 9월 9일 온라인으로 진행된 인터뷰를 통해 2019년 결혼한 프로골퍼 이보미에 대한 깊은 애정을 전했다. 오는 9월 16일 개봉하는 '영화의 거리'는 영화 로케이션 매니저와 감독으로 부산에서]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2Fnewsen%2F20210909225346012pyfu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['영화의 거리' 감독 밝힌 제목의 의미 (다음영화 뉴스 ─ 최신)]]></title>
@@ -789,38 +821,6 @@
             <pubDate>Thu, 09 Sep 2021 08:18:38 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp;스튜디오 산타클로스 소속 배우들이 배우 류경수 지원 사격에 나섰다. 9일 스튜디오 산타클로스는 소속 배우들의 영화&nbsp;'인질'과 배우 류경수를 향한 개성만점 응원 영상을 공개했다.&nbsp;배우 주원부터 김성오,&nbsp;오현경,&nbsp;한채영,&nbsp;민진웅,&nbsp;장혁진,&nbsp;송상은,&nbsp;박건일,&nbsp;장희령,&nbsp;이이담,&nbsp;여주하,&nbsp;류성록,&nbsp;문지용까지&nbsp;'인질'&nbsp;관람 독려와 응원을 함께]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2Fpoctan%2F20210909154835779yhyy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[유아인･전종서, 제15회 아시아필름어워즈 남녀주연상 후보..이창동 심사위원장 [종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210909154702304</link>
-            <guid>https://v.daum.net/v/20210909154702304</guid>
-            <pubDate>Thu, 09 Sep 2021 08:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] 아시아필름어워즈아카데미(Asian&nbsp;Film&nbsp;Awards Academy)가 ‘제15회&nbsp;아시아필름어워즈(Asian&nbsp;Film&nbsp;Awards)’ 후보작을 발표했다. 아시아필름어워즈아카데미(이하 AFAA)는 홍콩국제영화제, 부산국제영화제, 도쿄국제영화제가&nbsp;아시아영화 발전을 위해 지난 2013년 힘을 모아 설립한 조직이다. AFAA는 매년&nbsp;아시]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2Fpoctan%2F20210909154703050ffjj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['한창나이 선녀님', 론칭 예고편..68세 할머니의 '나혼산' 다큐 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210909154627282</link>
-            <guid>https://v.daum.net/v/20210909154627282</guid>
-            <pubDate>Thu, 09 Sep 2021 08:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 68세 한창나이, 꿈을 꾸며 살아가는 임선녀 할머니의 알찬 하루하루를 그려낸 다큐멘터리 영화 '한창나이 선녀님'(감독 원호연)이 론칭 예고편을 공개했다. 배급사 ㈜트리플픽쳐스는 9일 '한창나이 선녀님'의 론칭 예고편을 공개했다. '한창나이 선녀님'은 글 배우고, 집 짓고, 농사도 지으며 결코 평범하지 않은 하루를 살아가]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2FNEWS1%2F20210909154628567ojaw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[#인생연기 #서스펜스 #메시지 '좋은사람' 관람포인트 셋 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210909151533001</link>
-            <guid>https://v.daum.net/v/20210909151533001</guid>
-            <pubDate>Thu, 09 Sep 2021 06:18:39 GMT</pubDate>
-            <content:encoded><![CDATA['좋은 사람'이 좋은 영화로 각광받을 수 있을까. 9일 공식 개봉한 영화 '좋은 사람(정욱 감독)'의 관람 포인트를 공개한다. 첫번째 관람 포인트는 선악이 공존하는 얼굴, 신뢰감 있는 연기의 김태훈의 열연을 꼽을 수 있다. 스크린과 브라운관을 넘나들며 60여 편이 넘는 작품에 출연, 폭넓은 연기 스펙트럼의 김태훈은 '좋은 사람'을 통해 밀도 높은 감정]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2Filgansports%2F20210909151534643ikwh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[유아인·전종서, 제15회 亞필름어워즈 남녀주연상 후보 [공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20210909150808681</link>
-            <guid>https://v.daum.net/v/20210909150808681</guid>
-            <pubDate>Thu, 09 Sep 2021 06:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 유아인과 전종서가 나란히 제15회 아시아필름어워즈 남녀주연상 후보에 올랐다. 두 사람은 영화 '버닝'(2018)에서 호흡을 맞춘 인연이 있다. 아시아필름어워즈아카데미(Asian Film Awards Academy, AFAA) 측은 9일, 제15회 아시아필름어워즈 후보작(자)을 발표했다. 아시아필름어워즈아카데미는 홍콩국제]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2Fmydaily%2F20210909150808491wzpl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<애마부인> [재개봉] 예고편 (우리 영화 볼래?)]]></title>
@@ -1155,7 +1155,7 @@
             <link>https://tv.naver.com/v/22361807</link>
             <guid>https://tv.naver.com/v/22361807</guid>
             <pubDate>Thu, 09 Sep 2021 09:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210909_29/52VwM_1631176008104yryNY_JPEG/766f0500-1147-11ec-8678-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1163,7 +1163,7 @@
             <link>https://tv.naver.com/v/22360793</link>
             <guid>https://tv.naver.com/v/22360793</guid>
             <pubDate>Thu, 09 Sep 2021 08:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210909_223/idb4V_16311740901667Tdnp_JPEG/218be50b-1143-11ec-8c9c-505dac8c37f3_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1171,7 +1171,7 @@
             <link>https://tv.naver.com/v/22360763</link>
             <guid>https://tv.naver.com/v/22360763</guid>
             <pubDate>Thu, 09 Sep 2021 08:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210909_181/y6gcV_16311740478453M7Gt_JPEG/f9355c1b-1142-11ec-82ff-505dac8c385b_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1179,7 +1179,7 @@
             <link>https://tv.naver.com/v/22360718</link>
             <guid>https://tv.naver.com/v/22360718</guid>
             <pubDate>Thu, 09 Sep 2021 08:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210909_147/xDQTR_1631173977443Y9sQo_PNG/1631173936685.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -1195,7 +1195,7 @@
             <link>https://tv.naver.com/v/22357282</link>
             <guid>https://tv.naver.com/v/22357282</guid>
             <pubDate>Thu, 09 Sep 2021 06:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210909_27/bqfPL_1631166343133NHW8H_JPEG/f18b8dd9-1130-11ec-a9f1-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1203,7 +1203,7 @@
             <link>https://tv.naver.com/v/22352511</link>
             <guid>https://tv.naver.com/v/22352511</guid>
             <pubDate>Thu, 09 Sep 2021 03:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210909_133/PDAa5_1631156333702Cn9hl_JPEG/ffe22292-1118-11ec-b6bf-48df379cc9e4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1211,7 +1211,7 @@
             <link>https://tv.naver.com/v/22350817</link>
             <guid>https://tv.naver.com/v/22350817</guid>
             <pubDate>Thu, 09 Sep 2021 02:00:40 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210909_9/QIU1J_1631150602626imHea_JPEG/48f2bcca-110c-11ec-a77c-a0369ff94ec8_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
