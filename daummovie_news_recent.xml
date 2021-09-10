@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-09-10T19:13:19.229Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 10 Sep 2021 20:17:04 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박정민 vs 변요한..80년대생 연기파들, 기대되는 추석 극장 맞대결 [N초점]]]></title>
+            <link>https://v.daum.net/v/20210911051008826</link>
+            <guid>https://v.daum.net/v/20210911051008826</guid>
+            <pubDate>Fri, 10 Sep 2021 20:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 1980년대 중후반생인 두 젊은 배우가 열연으로 추석 극장가를 더욱 풍성하게 만들 태세다. 배우 박정민(34)은 영화 '기적'(감독 이장훈)으로, 변요한(35)은 영화 '보이스'(감독 김선 김곡)로 각각 추석 극장가의 문을 두드린다. 오는 15일, 전혀 다른 장르의 영화를 선보이게 될 두 사람이 일으킬 시너지가 기대감을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F11%2FNEWS1%2F20210911051009558pahe.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-10T19:13:19.206Z</updated>
+    <updated>2021-09-10T20:17:04.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박정민 vs 변요한…80년대생 연기파들, 기대되는 추석 극장 맞대결 [N초점]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005597005</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005597005"/>
+        <updated>2021-09-10T20:15:46.165Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 1980년대 중후반생인 두 젊은 배우가 열연으로 추석 극장가를 더욱 풍성하게 만들 태세다. 배우 박정민(34)은 영화 '기적'(감독 이장훈)으로, 변요한(35)은 영화 '보이스'(감독]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰]한선화 "가수→배우, 10년만에 영화 첫 주연 책임감 통감"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010714553</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010714553"/>
+        <updated>2021-09-10T20:15:46.182Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 '영화의 거리' 이완과 로맨스 호흡 "가수 출신 꼬리표?…걸그룹 시절 모르시더라" "슬픈 연기 많이 했는데 이번엔 활발한 역할: 첫 사투리 연기 도전...'기분 좋게 한다' 말 들었으면 [서울=뉴시스]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김남길 드라마 '원 더 우먼' 카메오]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0004967774</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000038708"/>
         <updated>2021-09-10T07:14:59.059Z</updated>
         <content type="html"><![CDATA[제13회 DMZ국제다큐멘터리영화제(조직위원장 이재명, 집행위원장 정상진)(이하 DMZ Docs)가 성황리에 개막식을 마치고 본격적인 영화제 일정에 돌입한다. DMZ Docs는 9일(목) 오후 7시, 메가박스 파주출판]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팝인터뷰]"열심히 살아온 나, 여유 생겨"..'영화의 거리' 한선화, 걸그룹→배우로 우뚝(종합)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003475493</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003475493"/>
-        <updated>2021-09-10T07:14:59.061Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=천윤혜기자]한선화가 '영화의 거리'로 새로운 모습을 보여줬다. '영화의 거리'는 영화 로케이션 매니저와 감독으로 부산에서 다시 만난 헤어진 연인 선화와 도영의 끝났는데 끝난 것 같지 않은 쎄한 럽케이션]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디즈니+, 11월 12일 월 9900원에 국내 상륙 外]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000045337</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000045337"/>
-        <updated>2021-09-10T07:14:59.074Z</updated>
-        <content type="html"><![CDATA[디즈니+, 11월 12일 월 9900원에 국내 상륙 온라인 스트리밍 서비스, 디즈니+가 국내에서 11월 12일 서비스를 시작한다. ‘디즈니’ , ‘픽사’ , ‘마블’, ‘내셔널지오그래픽’ 등의 콘텐츠를 제공하며, 폭]]></content>
     </entry>
 </feed>
