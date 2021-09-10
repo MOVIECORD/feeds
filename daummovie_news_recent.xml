@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Sep 2021 07:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 08:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F10%2FiMBC%2F20210910133503644dzlf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['007' 빌런 된 프레디 머큐리..라미 말렉, 사핀 역 출연 예고]]></title>
+            <link>https://v.daum.net/v/20210910121913186</link>
+            <guid>https://v.daum.net/v/20210910121913186</guid>
+            <pubDate>Fri, 10 Sep 2021 08:17:42 GMT</pubDate>
+            <content:encoded><![CDATA['007 노 타임 투 다이', 29일 전 세계 최초 개봉 [더팩트ㅣ이한림 기자] 할리우드 배우 라미 말렉이 '007' 빌런으로 돌아온다. 10일 유니버설 픽쳐스에 따르면 배우 라미 말렉이 오는 29일 오후 5시 국내에서 전 세계 최초 개봉 예정인 영화 '007 노 타임 투 다이'에서 제임스 본드(다니엘 크레이그 분)와 강렬한 대결을 펼칠 사핀 역으로 합류]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F10%2FTHEFACT%2F20210910121914808hmlv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA["레전드 게임에 차별화" '화이트데이' 찬희·박유나, 공포물로 재회(종합)]]></title>
             <link>https://v.daum.net/v/20210910121643148</link>
             <guid>https://v.daum.net/v/20210910121643148</guid>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 10 Sep 2021 03:16:14 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 강민경 기자] 박유나, 송운 감독, 장광, 강찬희(왼쪽부터) /사진제공=제이앤씨미디어그룹그룹 SF9 멤버 겸 배우 강찬희와 배우 박유나가 영화 '화이트데이: 부서진 결계'를 통해 세 번째 호흡을 맞춘다. 판타지와 호러가 만난 작품을 통해 이번엔 어떤 시너지를 보여줄까. 10일 오전 온라인을 통해 영화 '화이트데이: 부서진 결계'(감독 송운) 제작]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F10%2Fstarnews%2F20210910115913863bjfo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["커피도 못 마시고.." 한선화, 걸그룹→배우 되찾은 삶(종합) [EN:인터뷰]]]></title>
-            <link>https://v.daum.net/v/20210910115901724</link>
-            <guid>https://v.daum.net/v/20210910115901724</guid>
-            <pubDate>Fri, 10 Sep 2021 03:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 첫 장편영화를 고향에서 찍고, 고향말로 연기한 한선화가 '금의환향'한 기분을 밝혔다. 또, 현재 군 복무 중인 동생 빅톤 한승우에 대한 남다른 애정도 전했다. 영화 '영화의 거리'(감독 김민근)에 출연한 한선화는 9월 10일 진행된 온라인 인터뷰를 통해 부산을 배경으로 한 영화에 출연하며 느낀 바를 밝혔다. 오는 9월 16일 개봉하]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F10%2Fnewsen%2F20210910115901275vmmy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
