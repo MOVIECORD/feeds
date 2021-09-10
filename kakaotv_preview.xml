@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Sep 2021 03:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 04:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<한창나이 선녀님> 런칭 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/422221592?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/422221592?act=clip</guid>
+            <pubDate>Fri, 10 Sep 2021 04:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv9hgg9f82d07q06xpy1qzx7b%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188153195%26signature%3DrvjTLusk%252FKy13a9L1%252Fz%252FGRy1QAc%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<종착역> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/422220108?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/422166157?act=clip</guid>
             <pubDate>Wed, 08 Sep 2021 02:26:55 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:41]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1747094175%2Fthumb%2F20210908111322" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1747094175%2Fthumb%2F20210908111322" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<영화의 거리> 힐링 로케이션 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 07 Sep 2021 07:15:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:51]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvezlnyv03m9h8z919lrgv2db%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33187907228%26signature%3DTRhCtALRHM14N9tS5AhJVnnQmUc%253D%26ts%3D1630998428" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<기적> 올 추석 저격 리뷰 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/422143153?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/422143153?act=clip</guid>
-            <pubDate>Tue, 07 Sep 2021 06:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvhs1oqx1iv39jy9oybs76gfq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33187902973%26signature%3DCCGS37hWd97qbGmAHddBJhT7pVA%253D" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
