@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Sep 2021 13:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 14:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김남길 드라마 '원 더 우먼' 카메오 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0004967774</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0004967774</guid>
+            <pubDate>Fri, 10 Sep 2021 14:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김남길이 오는 17일 전파를 타는 드라마 '원 더 우먼'에 찬조 출연한다. 지난 9일 오후 촬영 현장을 찾아 짧은 분량을 연기했다. 드라마 '열혈사제(2019)'로 친분을 맺은 주연 이하늬에게 힘을 실어줬다.]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[‘보헤미안 랩소디’는 잊어라…라미 말렉, ‘007’ 빌런으로 컴백 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000932682</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[디즈니+, 11월 12일 월 9900원에 국내 상륙 온라인 스트리밍 서비스, 디즈니+가 국내에서 11월 12일 서비스를 시작한다. ‘디즈니’ , ‘픽사’ , ‘마블’, ‘내셔널지오그래픽’ 등의 콘텐츠를 제공하며, 폭]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[<기적> <보이스> , 추석 극장가의 승자는? (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000045336</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000045336</guid>
-            <pubDate>Fri, 10 Sep 2021 07:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[올해 추석 극장가는 중형급 한국영화 &lt;기적&gt;과 &lt;보이스&gt;의 2파전이 될 전망이다. 박정민, 이성민, 임윤아, 이수경 주연의 &lt;기적&gt;과 변요한, 김무열 주연의 &lt;보이스&gt;가 9월 15일 나란히 개봉해 추석 연휴 관객을]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[샹치와 텐 링즈의 전설 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=129706</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=129706</guid>
@@ -199,20 +199,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe1285fe4d39de150ca497edf0d91d8b4ad8d8e39" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[너의 이름은. (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=104209</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=104209</guid>
-            <pubDate>Fri, 10 Sep 2021 07:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2c81505312c588301e18b7f0a508bbc267ec2b44" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[모가디슈 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=132564</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=132564</guid>
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.07.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F232a8d6e902c63036bbe2ae327d57e82585a639f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[너의 이름은. (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=104209</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=104209</guid>
+            <pubDate>Fri, 10 Sep 2021 07:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2c81505312c588301e18b7f0a508bbc267ec2b44" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[리스펙트 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -527,20 +527,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F10%2FSpoChosun%2F20210910085430873heig.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[앤드류 가필드 "'스파이더맨: 노웨이홈' 출연 안했다" 부인에 팬들 실망?[할리우드비하인드] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210909214423398</link>
-            <guid>https://movie.v.daum.net/v/20210909214423398</guid>
-            <pubDate>Fri, 10 Sep 2021 00:53:10 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 김노을 기자] 영화 '어메이징 스파이더맨' 시리즈 주역 앤드류 가필드가 '스파이더맨: 노 웨이 홈' 출연 루머를 일축했다. 앤드류 가필드는 9월 8일(현지시간) 버라이어티와 인터뷰에서 "왜 많은 사람들이 '스파이더맨' 시리즈 출연 배우들이 한 자리에 모이는 설정에 열광하는지 잘 알고 있다. 나 역시 영화의 팬이기 때문에 상상만 해도 얼마나 멋있을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2Fnewsen%2F20210909214423124dndp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['007' 빌런 된 프레디 머큐리..라미 말렉, 사핀 역 출연 예고 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210910121913186</link>
             <guid>https://movie.v.daum.net/v/20210910121913186</guid>
             <pubDate>Fri, 10 Sep 2021 08:17:35 GMT</pubDate>
             <content:encoded><![CDATA['007 노 타임 투 다이', 29일 전 세계 최초 개봉 [더팩트ㅣ이한림 기자] 할리우드 배우 라미 말렉이 '007' 빌런으로 돌아온다. 10일 유니버설 픽쳐스에 따르면 배우 라미 말렉이 오는 29일 오후 5시 국내에서 전 세계 최초 개봉 예정인 영화 '007 노 타임 투 다이'에서 제임스 본드(다니엘 크레이그 분)와 강렬한 대결을 펼칠 사핀 역으로 합류]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F10%2FTHEFACT%2F20210910121914808hmlv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[앤드류 가필드 "'스파이더맨: 노웨이홈' 출연 안했다" 부인에 팬들 실망?[할리우드비하인드] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210909214423398</link>
+            <guid>https://movie.v.daum.net/v/20210909214423398</guid>
+            <pubDate>Fri, 10 Sep 2021 00:53:10 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 김노을 기자] 영화 '어메이징 스파이더맨' 시리즈 주역 앤드류 가필드가 '스파이더맨: 노 웨이 홈' 출연 루머를 일축했다. 앤드류 가필드는 9월 8일(현지시간) 버라이어티와 인터뷰에서 "왜 많은 사람들이 '스파이더맨' 시리즈 출연 배우들이 한 자리에 모이는 설정에 열광하는지 잘 알고 있다. 나 역시 영화의 팬이기 때문에 상상만 해도 얼마나 멋있을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2Fnewsen%2F20210909214423124dndp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[천재 고교생 박정민 vs 조직 잠입한 변요한 [스타 맞대결 ②] (다음영화 뉴스 ─ 인기)]]></title>
@@ -567,28 +567,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F10%2FNEWS1%2F20210910084552654hval.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[밥 로스의 행복한 사고 그리고 배신과 탐욕에 대하여 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210909173001637</link>
-            <guid>https://movie.v.daum.net/v/20210909173001637</guid>
-            <pubDate>Fri, 10 Sep 2021 00:53:10 GMT</pubDate>
-            <content:encoded><![CDATA[[김형욱 기자] ▲ &nbsp;넷플릭스 오리지널 다큐멘터리 &lt;밥 로스&gt; 포스터.    ⓒ 넷플릭스  &nbsp;지난해부터 SNS를 중심으로 급부상하고 있는 콘텐츠가 있으니 바로 '밥 로스'이다. 1990년대 EBS를 통해 &lt;그림을 그립시다&gt;라는 프로그램이 방영되며 많은 이에게 '어때요, 참 쉽죠?'라는 말로 각인되어 있는데, 그 특유의 편안한 목소리가 마치 A]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2Fohmynews%2F20210909173002402fczr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['기적' 이성민, 기관사 꿈 이뤘다 "꿈꿔왔던 동경의 대상" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210910091315062</link>
             <guid>https://movie.v.daum.net/v/20210910091315062</guid>
             <pubDate>Fri, 10 Sep 2021 08:17:35 GMT</pubDate>
             <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 이성민이 영화 '기적'을 통해 기관사의 꿈을 이뤘다. '기적'(감독 이장훈)은 오갈 수 있는 길은 기찻길밖에 없지만 정작 기차역은 없는 마을에 간이역 하나 생기는 게 유일한 인생 목표인 준경(박정민)과 동네 사람들의 이야기를 그린 영화다. 배급사 롯데엔터테인먼트 측은 10일 '기적'의 세가지 TMI 비하인드를 공개]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F10%2FNEWS1%2F20210910091317916wkjq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식]'모가디슈' 44일만에 330만 돌파..코시국에 보여준 장기흥행의 힘 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210910082557821</link>
-            <guid>https://movie.v.daum.net/v/20210910082557821</guid>
-            <pubDate>Fri, 10 Sep 2021 00:53:10 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이승미 기자]2021년 최고 흥행작이자 웰메이드 작품 영화 '모가디슈'(류승완 감독, 덱스터스튜디오·㈜외유내강 제작)가 개봉 44일만에330만 관객을 돌파하며 올해 최초 350만 관객 돌파 고지에 바짝 다가섰다. 영화진흥위원회 영화관입장권 통합전산망에 따르면 '모가디슈'가 개봉 44일만에 9월 9일(목)누적 관객수 330만을 돌파]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F10%2FSpoChosun%2F20210910082557285aaaj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['베놈2' 美개봉은 앞당겼지만 韓개봉일은 10월13일 고수 (다음영화 뉴스 ─ 인기)]]></title>
@@ -599,12 +583,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F10%2Fstarnews%2F20210910091534204avmx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[땅딸막한 비주얼 디카프리오 맞아? 생애 첫 넷플릭스 출연 '돈 룩 업' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210909113541320</link>
-            <guid>https://movie.v.daum.net/v/20210909113541320</guid>
-            <pubDate>Thu, 09 Sep 2021 17:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] 배우&nbsp;레오나르도&nbsp;디카프리오, 제니퍼 로렌스 등 초호화 캐스팅으로 주목받고 있는 '돈 룩 업'이 티저 예고편과 스틸을 공개했다.&nbsp; '돈 룩 업'은 지구를 멸망시킬 혜성이 다가오는 것을 발견한 두 천문학자가 이 사실을 전 세계에 알리기 위해 대규모 언론 투어에 나서는 넷플릭스 영화다. 공개된 티저 예고편과 스틸은 천문학과 교수 랜들 민]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2Fpoctan%2F20210909113542343nifi.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[밥 로스의 행복한 사고 그리고 배신과 탐욕에 대하여 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210909173001637</link>
+            <guid>https://movie.v.daum.net/v/20210909173001637</guid>
+            <pubDate>Fri, 10 Sep 2021 00:53:10 GMT</pubDate>
+            <content:encoded><![CDATA[[김형욱 기자] ▲ &nbsp;넷플릭스 오리지널 다큐멘터리 &lt;밥 로스&gt; 포스터.    ⓒ 넷플릭스  &nbsp;지난해부터 SNS를 중심으로 급부상하고 있는 콘텐츠가 있으니 바로 '밥 로스'이다. 1990년대 EBS를 통해 &lt;그림을 그립시다&gt;라는 프로그램이 방영되며 많은 이에게 '어때요, 참 쉽죠?'라는 말로 각인되어 있는데, 그 특유의 편안한 목소리가 마치 A]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2Fohmynews%2F20210909173002402fczr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식]'모가디슈' 44일만에 330만 돌파..코시국에 보여준 장기흥행의 힘 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210910082557821</link>
+            <guid>https://movie.v.daum.net/v/20210910082557821</guid>
+            <pubDate>Fri, 10 Sep 2021 00:53:10 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자]2021년 최고 흥행작이자 웰메이드 작품 영화 '모가디슈'(류승완 감독, 덱스터스튜디오·㈜외유내강 제작)가 개봉 44일만에330만 관객을 돌파하며 올해 최초 350만 관객 돌파 고지에 바짝 다가섰다. 영화진흥위원회 영화관입장권 통합전산망에 따르면 '모가디슈'가 개봉 44일만에 9월 9일(목)누적 관객수 330만을 돌파]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F10%2FSpoChosun%2F20210910082557285aaaj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[걸그룹→배우로 거듭난 한선화, 여유와 삶 찾은 진정한 성장캐 [인터뷰 종합] (다음영화 뉴스 ─ 인기)]]></title>
@@ -615,20 +607,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F10%2Fxportsnews%2F20210910145006351wvnm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[땅딸막한 비주얼 디카프리오 맞아? 생애 첫 넷플릭스 출연 '돈 룩 업' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210909113541320</link>
+            <guid>https://movie.v.daum.net/v/20210909113541320</guid>
+            <pubDate>Thu, 09 Sep 2021 17:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자] 배우&nbsp;레오나르도&nbsp;디카프리오, 제니퍼 로렌스 등 초호화 캐스팅으로 주목받고 있는 '돈 룩 업'이 티저 예고편과 스틸을 공개했다.&nbsp; '돈 룩 업'은 지구를 멸망시킬 혜성이 다가오는 것을 발견한 두 천문학자가 이 사실을 전 세계에 알리기 위해 대규모 언론 투어에 나서는 넷플릭스 영화다. 공개된 티저 예고편과 스틸은 천문학과 교수 랜들 민]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2Fpoctan%2F20210909113542343nifi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[내 자리 위협하는 어린 직원을 걱정하는 여성.. 참담한 현실 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210910094801384</link>
             <guid>https://movie.v.daum.net/v/20210910094801384</guid>
             <pubDate>Fri, 10 Sep 2021 09:15:16 GMT</pubDate>
             <content:encoded><![CDATA[[김준모 기자] ▲ &nbsp;&lt;어시스턴트&gt; 포스터    ⓒ (주)이놀미디어   영화&nbsp;&lt;어시스턴트&gt;는 사회 초년생이 당하는 갑질을 다룬 작품이다. 하비 와인스타인의 성폭행 폭로에서 아이디어를 얻은 이 작품은 영화계에 존재하는 '갑질'을 영화사 보조 직원으로 일하게 된 제인과 그녀의 대표를 통해 풀어낸다. 미국에서는 신원미상의 남자는 '존 도우', 여자]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F10%2Fohmynews%2F20210910094807237aedo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] '보이스' 끔찍한 보이스피싱 현실 공포..통쾌한 액션으로 대리만족 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210909203021279</link>
-            <guid>https://movie.v.daum.net/v/20210909203021279</guid>
-            <pubDate>Fri, 10 Sep 2021 00:53:10 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] 판타지 같은 이야기지만 통쾌하고 짜릿하다. 언제든 내 일이 될 수도 있다는 현실 공포에 떨고, 타인의 희망을 가로채는 이들을 직접 응징하려 뛰어든 주인공을 보며 위안을 얻는다. 피해자에게는 잘못이 없다고 말해주는 다독임까지 가슴에 와닿는다. ‘보이스’는 부산의 한 건설현장에서 작업반장으로 일하고 있는 서준(변요한)의 모습으로 시작된다. 알 수]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F10%2Fseouleconomy%2F20210910105510545rnjy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[임윤아가 만든 '기적', 어떻게 사랑하지 않을수가 (다음영화 뉴스 ─ 인기)]]></title>
@@ -647,6 +639,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F10%2Fohmynews%2F20210910155105126dysm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[리뷰] '보이스' 끔찍한 보이스피싱 현실 공포..통쾌한 액션으로 대리만족 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210909203021279</link>
+            <guid>https://movie.v.daum.net/v/20210909203021279</guid>
+            <pubDate>Fri, 10 Sep 2021 00:53:10 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] 판타지 같은 이야기지만 통쾌하고 짜릿하다. 언제든 내 일이 될 수도 있다는 현실 공포에 떨고, 타인의 희망을 가로채는 이들을 직접 응징하려 뛰어든 주인공을 보며 위안을 얻는다. 피해자에게는 잘못이 없다고 말해주는 다독임까지 가슴에 와닿는다. ‘보이스’는 부산의 한 건설현장에서 작업반장으로 일하고 있는 서준(변요한)의 모습으로 시작된다. 알 수]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F10%2Fseouleconomy%2F20210910105510545rnjy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[약혼자의 죽음 목도, 치매 앓는 엄마의 충격 고백 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210910175106179</link>
             <guid>https://movie.v.daum.net/v/20210910175106179</guid>
@@ -655,12 +655,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F10%2Fohmynews%2F20210910175106360mqdt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[이완 "'김태희 동생' 누가 싫을까? 매형 비와는 작품 얘기 안해"[EN:인터뷰②] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210909231708646</link>
-            <guid>https://movie.v.daum.net/v/20210909231708646</guid>
-            <pubDate>Fri, 10 Sep 2021 13:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 이완이 '김태희 동생'이란 수식어에 대해 "좋은 점이 훨씬 많다"고 밝혔다. 영화 '영화의 거리'(감독 김민근)에 출연한 이완은 9월 9일 온라인으로 진행된 인터뷰를 통해 공백기 동안 가족들과 함께 시간을 보냈다고 말했다. 오는 9월 16일 개봉하는 '영화의 거리'는 영화 로케이션 매니저와 감독으로 부산에서 다시 만난 헤어진 연인]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F09%2Fnewsen%2F20210909231708962kyor.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['화이트데이 : 부서진 결계' 장광 "생애 첫 퇴마사 역할, 주문 외우는 게 어렵더라" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210910113600974</link>
+            <guid>https://movie.v.daum.net/v/20210910113600974</guid>
+            <pubDate>Fri, 10 Sep 2021 14:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[10일 오전 영화 '화이트데이 : 부서진 결계'의 제작보고회가 온라인으로 진행되었다. 이날 행사에는 강찬희, 박유나, 장광, 송운 감독이 참석하였으며 박경림이 MC로 진행했다. 장광은 "퇴마사 역할을 맡았다"라고 연기한 캐릭터를 설명했다. 장광은 "처음으로 퇴마사 역할을 연기했다. 시나리오 읽었을때 빠져들어가는 느낌이 있었고 뭔가가 오싹하게 뒷덜미를 당기]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F10%2FiMBC%2F20210910113601206fbzj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['모가디슈' 330만 관객 돌파 [DA:박스] (다음영화 뉴스 ─ 최신)]]></title>
@@ -1147,7 +1147,7 @@
             <link>https://tv.naver.com/v/22385542</link>
             <guid>https://tv.naver.com/v/22385542</guid>
             <pubDate>Fri, 10 Sep 2021 08:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210910_205/MT3t2_1631260361317u7EPP_JPEG/05a2debd-120c-11ec-a9f1-505dac8c3639_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1155,7 +1155,7 @@
             <link>https://tv.naver.com/v/22385521</link>
             <guid>https://tv.naver.com/v/22385521</guid>
             <pubDate>Fri, 10 Sep 2021 08:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210910_16/eW8KU_16312603312373Hsvd_JPEG/f5a95c9c-120b-11ec-9b63-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1163,7 +1163,7 @@
             <link>https://tv.naver.com/v/22385496</link>
             <guid>https://tv.naver.com/v/22385496</guid>
             <pubDate>Fri, 10 Sep 2021 08:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210910_92/ZkFkC_1631260303257wiGwO_JPEG/e49a4b45-120b-11ec-b835-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1179,7 +1179,7 @@
             <link>https://tv.naver.com/v/22381804</link>
             <guid>https://tv.naver.com/v/22381804</guid>
             <pubDate>Fri, 10 Sep 2021 06:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210910_115/UJYmP_1631254317359nzK7n_JPEG/c634a711-11fd-11ec-9d7e-a0369ff952f4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1187,7 +1187,7 @@
             <link>https://tv.naver.com/v/22381549</link>
             <guid>https://tv.naver.com/v/22381549</guid>
             <pubDate>Fri, 10 Sep 2021 06:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210910_283/OlsZ6_16312539487900ovt1_JPEG/e94c120d-11fc-11ec-8c9c-505dac8c37f3_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1195,7 +1195,7 @@
             <link>https://tv.naver.com/v/22380619</link>
             <guid>https://tv.naver.com/v/22380619</guid>
             <pubDate>Fri, 10 Sep 2021 06:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210910_148/0sG6k_1631252534091vL1OO_JPEG/805a67fa-11f9-11ec-93f2-a0369ff95ec0_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1203,7 +1203,7 @@
             <link>https://tv.naver.com/v/22380351</link>
             <guid>https://tv.naver.com/v/22380351</guid>
             <pubDate>Fri, 10 Sep 2021 06:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210910_86/LeRSZ_1631252070554NhAP4_JPEG/8a29a7ae-11f8-11ec-a77c-a0369ff94ec8_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1211,7 +1211,7 @@
             <link>https://tv.naver.com/v/22375612</link>
             <guid>https://tv.naver.com/v/22375612</guid>
             <pubDate>Fri, 10 Sep 2021 02:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210910_258/4gc9C_1631239964511Ftf5u_JPEG/2f63a6fe-11dc-11ec-b835-505dac8c3607_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1219,7 +1219,7 @@
             <link>https://tv.naver.com/v/22374993</link>
             <guid>https://tv.naver.com/v/22374993</guid>
             <pubDate>Fri, 10 Sep 2021 02:00:46 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210910_185/Y1Pbv_1631238392763I8bnl_JPEG/664c577c-11d8-11ec-b835-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
