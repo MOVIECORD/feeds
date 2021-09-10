@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Sep 2021 08:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 09:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,20 +136,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58e6b59e744961d1e5cfcb4aedc92bc9ce35bda0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[드림걸즈]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=42728</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=42728</guid>
-            <pubDate>Thu, 09 Sep 2021 16:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4f98bccfb72790b319d30d2fa4303cd49eda578" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[슈퍼문]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=125412</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=125412</guid>
             <pubDate>Thu, 09 Sep 2021 10:17:16 GMT</pubDate>
             <content:encoded><![CDATA[21.09.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7ede934b977f4cb4904b86c706d43a1b4a351f30" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[드림걸즈]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=42728</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=42728</guid>
+            <pubDate>Thu, 09 Sep 2021 16:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4f98bccfb72790b319d30d2fa4303cd49eda578" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[바쿠라우]]></title>
