@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-11T07:15:58.505Z</updated>
+    <updated>2021-09-11T09:15:36.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다이애나 왕세자비 이야기 '스펜서', 베니스 공개 후 화제]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003552167</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003552167"/>
+        <updated>2021-09-11T09:14:20.147Z</updated>
+        <content type="html"><![CDATA[할리우드 스타 크리스틴 스튜어트가 고 다이애나 영국 왕세자비 역을 맡아 전 세계적으로 화제를 모으고 있는 '스펜서'가 제78회 베니스국제영화제에서 베일을 벗은 후 기립박수를 받았다. 지난 1일(이하 현지 시간) 개막]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['펜트하우스3' 이태빈 "봉태규·윤주희 선배님 아들된 느낌…보고파" 종영 소감]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005597486</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005597486"/>
+        <updated>2021-09-11T09:14:20.147Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = '펜트 키즈' 이태빈이 '펜트하우스3' 종영 소감을 밝혔다. 지난 10일 종영한 SBS '펜트하우스3'(극본 김순옥, 연출 주동민)에서 성장형 캐릭터로 큰 사랑을 받은 이태빈이 소속사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[퍼플레이, 오리지널 시리즈 '그려서 만든 세상' 시즌2 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003552142</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001346867"/>
         <updated>2021-09-11T01:55:17.604Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 올해 최초 330만 관객 돌파 및 최고 흥행작에 오른 영화 '모가디슈'(감독 류승완)가 관객들의 사랑에 감사하는 마음을 담아 오는 18일(토), 22일 (수) 양일간 무대인사를 확정했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마블 ‘데드풀3’ ‘판타스틱4’ ‘블레이드’, 2024년 개봉 전망[MD할리우드]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003535688</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003535688"/>
-        <updated>2021-09-11T01:55:17.604Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]마블이 2024년에 4편의 영화를 개봉한다고 10일(현지시간) 발표했다. 마블 개봉 스케줄은 다음과 같다 2024년 2월 16일 2024년 5월 3일 2024년 7월 26일 2024년 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['샹치와 텐 링즈의 전설', 11일만에 100만 돌파…외화 중 3번째 속도 [Nbox]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005597164</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005597164"/>
-        <updated>2021-09-11T01:55:17.611Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '샹치와 텐 링즈의 전설'(감독 데스틴 다니엘 크리튼)이 11일 100만 관객을 돌파했다. 이는 '블랙 위도우' '분노의 질주: 더 얼티메이트'에 이어 외화 중 세 번째로 가장]]></content>
     </entry>
 </feed>
