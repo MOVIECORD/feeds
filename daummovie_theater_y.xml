@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Sep 2021 16:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Sep 2021 17:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F61b1c5e4a69b691453820cf032d246c61095c496" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[건파우더 밀크셰이크]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=135748</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=135748</guid>
-            <pubDate>Wed, 08 Sep 2021 00:47:33 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F261ebc042837ab44d41ba35f3da5f2dae32d0057" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[싱크홀]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=134290</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=134290</guid>
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.08.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F446090579974d44551356ce961743e57eaa41bd6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[건파우더 밀크셰이크]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135748</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135748</guid>
+            <pubDate>Wed, 08 Sep 2021 00:47:33 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F261ebc042837ab44d41ba35f3da5f2dae32d0057" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[코다]]></title>
@@ -96,20 +96,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F65e6f78f4ff4b22b3fd6ccc8ab61b69edda25493" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[내가 날 부를 때]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149883</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149883</guid>
-            <pubDate>Thu, 09 Sep 2021 00:51:03 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff157c843e5e51bad758dfa6c5174accb8303daad" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[뱅드림! 로젤리아 에피소드Ⅱ: 송 아이 엠]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151831</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151831</guid>
             <pubDate>Thu, 09 Sep 2021 00:51:03 GMT</pubDate>
             <content:encoded><![CDATA[21.09.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F045e3b529565237b7465a357637177d59a1154ba" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[내가 날 부를 때]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149883</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149883</guid>
+            <pubDate>Thu, 09 Sep 2021 00:51:03 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff157c843e5e51bad758dfa6c5174accb8303daad" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[죽을 때까지]]></title>
@@ -136,20 +136,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7ede934b977f4cb4904b86c706d43a1b4a351f30" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[최선의 삶]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=136365</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=136365</guid>
-            <pubDate>Wed, 01 Sep 2021 00:53:08 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58e6b59e744961d1e5cfcb4aedc92bc9ce35bda0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[퍼피 구조대 더 무비]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151320</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151320</guid>
             <pubDate>Fri, 10 Sep 2021 07:15:07 GMT</pubDate>
             <content:encoded><![CDATA[21.08.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcddfc4c347466a3f1960fb480cdfa1a57d1835ff" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[최선의 삶]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=136365</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=136365</guid>
+            <pubDate>Wed, 01 Sep 2021 00:53:08 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58e6b59e744961d1e5cfcb4aedc92bc9ce35bda0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[바쿠라우]]></title>
