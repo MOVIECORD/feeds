@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-09-11T19:12:47.613Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 11 Sep 2021 20:16:56 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['007'부터 '베놈2'·'이터널스'까지..관객 부르는 하반기 기대작 [N초점]]]></title>
+            <link>https://v.daum.net/v/20210912045003220</link>
+            <guid>https://v.daum.net/v/20210912045003220</guid>
+            <pubDate>Sat, 11 Sep 2021 20:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 올해 상반기에 이어 하반기에도 외화들의 선전이 계속될 전망이다. 신종 코로나바이러스 감염증(코로나19) 확산에 따른 변수로 인해 라인업 윤곽을 뚜렷하게 드러내지 않은 국내영화들과 달리, 일찌감치 개봉 소식을 발표한 외화들이 관객들과 만남을 기다리고 있어 기대감이 더해지고 있다. '007'과 '베놈' '이터널스' '스파이더]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F12%2FNEWS1%2F20210912045004495ckct.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>

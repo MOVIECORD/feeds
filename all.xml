@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Sep 2021 19:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Sep 2021 20:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['007'부터 '베놈2'·'이터널스'까지…관객 부르는 하반기 기대작 [N초점] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005597714</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005597714</guid>
+            <pubDate>Sat, 11 Sep 2021 20:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 올해 상반기에 이어 하반기에도 외화들의 선전이 계속될 전망이다. 신종 코로나바이러스 감염증(코로나19) 확산에 따른 변수로 인해 라인업 윤곽을 뚜렷하게 드러내지 않은 국내영화들과 달리]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[다이애나 왕세자비 이야기 '스펜서', 베니스 공개 후 화제 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003552167</link>
@@ -174,13 +181,6 @@
             <guid>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000488213</guid>
             <pubDate>Sat, 11 Sep 2021 01:55:17 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스엔 김노을 기자] 마블 첫 아시안 히어로 영화 '샹치와 텐 링즈의 전설'이 100만 관객을 돌파했다. 9월 11일 영화진흥위원회 통합전산망 집계에 따르면 10일 영화 '샹치와 텐 링즈의 전설'(감독 데스틴 크리]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['모가디슈' 추석연휴 무대인사…김윤석·조인성·구교환 출격 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001346867</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001346867</guid>
-            <pubDate>Sat, 11 Sep 2021 01:55:17 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 황수연 기자) 올해 최초 330만 관객 돌파 및 최고 흥행작에 오른 영화 '모가디슈'(감독 류승완)가 관객들의 사랑에 감사하는 마음을 담아 오는 18일(토), 22일 (수) 양일간 무대인사를 확정했다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[샹치와 텐 링즈의 전설 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -639,6 +639,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F11%2Fstarnews%2F20210911140008615ejtc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['007'부터 '베놈2'·'이터널스'까지..관객 부르는 하반기 기대작 [N초점] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210912045003220</link>
+            <guid>https://movie.v.daum.net/v/20210912045003220</guid>
+            <pubDate>Sat, 11 Sep 2021 20:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 올해 상반기에 이어 하반기에도 외화들의 선전이 계속될 전망이다. 신종 코로나바이러스 감염증(코로나19) 확산에 따른 변수로 인해 라인업 윤곽을 뚜렷하게 드러내지 않은 국내영화들과 달리, 일찌감치 개봉 소식을 발표한 외화들이 관객들과 만남을 기다리고 있어 기대감이 더해지고 있다. '007'과 '베놈' '이터널스' '스파이더]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F12%2FNEWS1%2F20210912045004495ckct.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['인질' 황정민 피·땀·눈물, "맞고 때리고 구르고 뛰고!" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210910105304024</link>
             <guid>https://movie.v.daum.net/v/20210910105304024</guid>
@@ -647,20 +655,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F10%2Fmydaily%2F20210910105304436cvjd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[부천국제애니메이션페스티벌 개막작에 '항구의 니쿠코' 선정 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210910050304048</link>
-            <guid>https://movie.v.daum.net/v/20210910050304048</guid>
-            <pubDate>Sat, 11 Sep 2021 14:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스] 김지은 기자 = 아카데미 공식지정 국제영화제인 부천국제애니메이션페스티벌(BIAF)이 다음 달 관객들을 찾는다. 올해로 23번째를 맞이하는 BIAF에는 36개국의 131편 작품이 초청됐다. 초청작들은 경기 부천에 있는 한국만화박물관, CGV부천에서 상영될 예정이다. 개막작은 '도라에몽' 시리즈와 '해수의 아이' 등을 연출한 와타나베 아유]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F10%2Fnewsis%2F20210910050304671mjzk.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[DMZ 다큐영화제, 개막식 성황리 개최..영화제 일정 돌입[공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210910141503053</link>
+            <guid>https://movie.v.daum.net/v/20210910141503053</guid>
+            <pubDate>Sat, 11 Sep 2021 20:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[제13회 DMZ국제다큐멘터리영화제(이하 DMZ Docs)가 성황리에 개막식을 마치고 본격적인 영화제 일정에 돌입한다. DMZ Docs는 지난 9일 저녁 메가박스 파주출판도시에서 사전 초청된 인원을 대상으로 개막식을 진행했다. 개막식 현장은 철저한 방역절차와 함께 거리두기 지침을 준수한 가운데 운영됐다. 예지원 배우와 임현주 아나운서의 사회로 진행된 이날]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F10%2Fstartoday%2F20210910141504713jwum.png" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['샹치' 100만 관객 돌파..'블랙 위도우' 신드롬 이을까 [공식입장] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210911133659492</link>
-            <guid>https://movie.v.daum.net/v/20210911133659492</guid>
-            <pubDate>Sat, 11 Sep 2021 16:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 황수연 기자) 영화 '샹치와 텐 링즈의 전설'(감독 데스틴 다니엘 크리튼)이 100만 관객을 돌파했다.&nbsp; 영진위 통합전산망에 따르면 지난 1일 개봉한 '샹치와 텐 링즈의 전설'은 11일 오전 8시 기준 누적관객수 102만622명을 기록했다.&nbsp; 개봉 전부터 전체 예매율 1위로 흥행 시동을 건 '샹치와 텐 링즈의 전설'은 개봉 직후 10일 연속]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F11%2Fxportsnews%2F20210911133701149cvlp.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['007'부터 '베놈2'·'이터널스'까지..관객 부르는 하반기 기대작 [N초점] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20210912045003220</link>
+            <guid>https://v.daum.net/v/20210912045003220</guid>
+            <pubDate>Sat, 11 Sep 2021 20:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 올해 상반기에 이어 하반기에도 외화들의 선전이 계속될 전망이다. 신종 코로나바이러스 감염증(코로나19) 확산에 따른 변수로 인해 라인업 윤곽을 뚜렷하게 드러내지 않은 국내영화들과 달리, 일찌감치 개봉 소식을 발표한 외화들이 관객들과 만남을 기다리고 있어 기대감이 더해지고 있다. '007'과 '베놈' '이터널스' '스파이더]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F12%2FNEWS1%2F20210912045004495ckct.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<한창나이 선녀님> 런칭 예고편 (우리 영화 볼래?)]]></title>

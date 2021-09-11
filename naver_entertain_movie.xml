@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-11T19:12:47.532Z</updated>
+    <updated>2021-09-11T20:16:56.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['007'부터 '베놈2'·'이터널스'까지…관객 부르는 하반기 기대작 [N초점]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005597714</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005597714"/>
+        <updated>2021-09-11T20:15:30.407Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 올해 상반기에 이어 하반기에도 외화들의 선전이 계속될 전망이다. 신종 코로나바이러스 감염증(코로나19) 확산에 따른 변수로 인해 라인업 윤곽을 뚜렷하게 드러내지 않은 국내영화들과 달리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다이애나 왕세자비 이야기 '스펜서', 베니스 공개 후 화제]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003552167</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000488213"/>
         <updated>2021-09-11T01:55:17.604Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김노을 기자] 마블 첫 아시안 히어로 영화 '샹치와 텐 링즈의 전설'이 100만 관객을 돌파했다. 9월 11일 영화진흥위원회 통합전산망 집계에 따르면 10일 영화 '샹치와 텐 링즈의 전설'(감독 데스틴 크리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모가디슈' 추석연휴 무대인사…김윤석·조인성·구교환 출격]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001346867</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001346867"/>
-        <updated>2021-09-11T01:55:17.604Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 올해 최초 330만 관객 돌파 및 최고 흥행작에 오른 영화 '모가디슈'(감독 류승완)가 관객들의 사랑에 감사하는 마음을 담아 오는 18일(토), 22일 (수) 양일간 무대인사를 확정했다.]]></content>
     </entry>
 </feed>
