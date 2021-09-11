@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Sep 2021 06:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Sep 2021 07:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퍼플레이, 오리지널 시리즈 '그려서 만든 세상' 시즌2 공개 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003552142</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003552142</guid>
+            <pubDate>Sat, 11 Sep 2021 07:14:32 GMT</pubDate>
+            <content:encoded><![CDATA[여성영화 OTT(온라인동영상서비스) 퍼플레이가 오리지널 시리즈 '그려서 만든 세상'의 시즌2를 공개했다. '그려서 만든 세상'(이하 '그만세')은 여성 애니메이션 감독 컬렉션으로, 자신만의 언어로 독자적인 작품세계를]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[샹치 성공 주효?···디즈니, ‘이터널스’ 포함 올해 영화 모두 극장서 단독 개봉 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0003961398</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '샹치와 텐 링즈의 전설'(감독 데스틴 다니엘 크리튼)이 11일 100만 관객을 돌파했다. 이는 '블랙 위도우' '분노의 질주: 더 얼티메이트'에 이어 외화 중 세 번째로 가장]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[소녀시대도, 배우도 임윤아의 청춘 [강민경의 전지적 덕후시점] (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002987927</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002987927</guid>
-            <pubDate>Sat, 11 Sep 2021 01:55:17 GMT</pubDate>
-            <content:encoded><![CDATA[걸그룹 소녀시대도, 배우도 모두 임윤아의 '청춘'이다. 데뷔 15주년 차를 맞은 임윤아에게 두 가지 타이틀이 붙는다. 걸그룹 소녀시대 멤버와 배우다. 소녀시대 데뷔 이전 그룹 동방신기와 슈퍼주니어의 뮤직비디오를 통해]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[샹치와 텐 링즈의 전설 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=129706</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=129706</guid>
@@ -327,20 +327,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F76636cce1ab626cb5fb7509ac80b64598a69f4d3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[프리 가이 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=131277</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=131277</guid>
-            <pubDate>Sat, 11 Sep 2021 05:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb83ce3cb29a492a800a4c18c0c168987ecc21e43" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[퍼피 구조대 더 무비 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151320</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151320</guid>
             <pubDate>Fri, 10 Sep 2021 07:15:07 GMT</pubDate>
             <content:encoded><![CDATA[21.08.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcddfc4c347466a3f1960fb480cdfa1a57d1835ff" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[프리 가이 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=131277</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=131277</guid>
+            <pubDate>Sat, 11 Sep 2021 05:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb83ce3cb29a492a800a4c18c0c168987ecc21e43" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[몽키킹 : 투신의 부활 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -583,14 +583,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F10%2Fohmynews%2F20210910094807237aedo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[평론가도 만점 준.. '재개봉 역대 최고 기록' 사랑 영화 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210911114200618</link>
-            <guid>https://movie.v.daum.net/v/20210911114200618</guid>
-            <pubDate>Sat, 11 Sep 2021 03:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[[양형석 기자] 다니엘 래드클리프는 해리 포터를 연기한 배우로 매우 유명하다. 영국에서 아역 배우로 활동하던 레드클리프는 2001년 &lt;해리 포터&gt; 시리즈의 오디션에서 무려 4만대 1의 경쟁률을 뚫고 해리 포터 역에 낙점됐다. &lt;해리포터와 마법사의 돌&gt;을 시작으로 &lt;해리 포터와 죽음의 성물 2&gt;까지 10년 동안 8편의 시리즈에 출연한 래드클리프는 &lt;해리포터&gt;]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F11%2Fohmynews%2F20210911114201456ksjm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[스한초점] '기적''보이스' 추석 극장가 2파전..쌍끌이 흥행 기대 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210910090913901</link>
             <guid>https://movie.v.daum.net/v/20210910090913901</guid>
@@ -607,20 +599,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F10%2Fohmynews%2F20210910155105126dysm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[평론가도 만점 준.. '재개봉 역대 최고 기록' 사랑 영화 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210911114200618</link>
+            <guid>https://movie.v.daum.net/v/20210911114200618</guid>
+            <pubDate>Sat, 11 Sep 2021 03:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[[양형석 기자] 다니엘 래드클리프는 해리 포터를 연기한 배우로 매우 유명하다. 영국에서 아역 배우로 활동하던 레드클리프는 2001년 &lt;해리 포터&gt; 시리즈의 오디션에서 무려 4만대 1의 경쟁률을 뚫고 해리 포터 역에 낙점됐다. &lt;해리포터와 마법사의 돌&gt;을 시작으로 &lt;해리 포터와 죽음의 성물 2&gt;까지 10년 동안 8편의 시리즈에 출연한 래드클리프는 &lt;해리포터&gt;]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F11%2Fohmynews%2F20210911114201456ksjm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[한선화 "일 밖에 몰랐던 나, 이젠 제 삶도 즐기게 됐죠" [★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210911110002089</link>
             <guid>https://movie.v.daum.net/v/20210911110002089</guid>
             <pubDate>Sat, 11 Sep 2021 02:27:50 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 강민경 기자] 한선화 /사진제공=씨네소파걸그룹 시크릿 출신이라는 타이틀을 이제는 완전히 잊게 만들었다. 배우 한선화(31)에게 이제 여유가 생겼다. '영화의 거리'는 영화 로케이션 매니저와 감독으로 부산에서 다시 만난 헤어진 연인 선화(한선화 분)와 도영(이완 분)의 끝났는데 끝난 것 같지 않은 쎄한 럽케이션 밀당 로맨스. 한선화는 '영화의 거리]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F11%2Fstarnews%2F20210911110004056itmf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[조인성→구교환, '모가디슈' 무대인사 확정 [공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210911112423388</link>
-            <guid>https://movie.v.daum.net/v/20210911112423388</guid>
-            <pubDate>Sat, 11 Sep 2021 03:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 영화 '모가디슈'가 관객들 사랑에 감사하는 무대인사를 확정했다. 올해 최초 330만 관객 돌파 및 최고 흥행작에 오른 영화 '모가디슈'가 흥행 감사 추석 연휴 무대인사를 확정했다. 흥행의 주역인 배우들과 류승완 감독이 이번 무대인사에 나서 관객들과 특별한 만난다. 김윤석, 조인성, 구교환, 류승완 감독은 추석 연휴 시작인 18일 무대인사에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F11%2Fsportsdonga%2F20210911112424825uxws.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['D.P.' 입소문 타고 N차 정주행 바람..정해인·구교환이 꼽은 명장면은? (다음영화 뉴스 ─ 인기)]]></title>
@@ -647,12 +639,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F10%2FTHEFACT%2F20210910104924176akzn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[김선호, 박훈정 감독 '슬픈열대'로 스크린 데뷔 外 [위클리 무비] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210911094730151</link>
-            <guid>https://movie.v.daum.net/v/20210911094730151</guid>
-            <pubDate>Sat, 11 Sep 2021 01:55:41 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 한 주간 생생한 영화 소식을 전해드립니다.김선호가 박훈정 감독의 신작 '슬픈열대'로 스크린에 데뷔한다. ○…김선호가 박훈정 감독의 신작 '슬픈 열대'로 스크린에 데뷔한다.  '슬픈 열대'는 한국인 아버지와 필리핀 어머니를 둔 복싱선수를 꿈꾸는 소년이 자기를 버리고 떠난 아버지를 찾아 한국에 왔다가 나쁜 놈들을 만나면서 벌어지는 일을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F11%2Fstarnews%2F20210911094732003bjjl.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[조인성→구교환, '모가디슈' 무대인사 확정 [공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210911112423388</link>
+            <guid>https://movie.v.daum.net/v/20210911112423388</guid>
+            <pubDate>Sat, 11 Sep 2021 03:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 영화 '모가디슈'가 관객들 사랑에 감사하는 무대인사를 확정했다. 올해 최초 330만 관객 돌파 및 최고 흥행작에 오른 영화 '모가디슈'가 흥행 감사 추석 연휴 무대인사를 확정했다. 흥행의 주역인 배우들과 류승완 감독이 이번 무대인사에 나서 관객들과 특별한 만난다. 김윤석, 조인성, 구교환, 류승완 감독은 추석 연휴 시작인 18일 무대인사에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F11%2Fsportsdonga%2F20210911112424825uxws.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['D.P' 구교환의 성지 영화 '메기'[MK무비] (다음영화 뉴스 ─ 인기)]]></title>
@@ -661,6 +653,14 @@
             <pubDate>Sat, 11 Sep 2021 05:13:10 GMT</pubDate>
             <content:encoded><![CDATA["대자본의 영화든 저예산이든, 어떤 장르든 새로운 도전은 늘 강렬한 카타르시스를 가져다줘요. 새로운 작업은, 새로운 감독님과의 작업은 일종의 연애와도 같죠. 그의 취향을, 메시지를 전하기 위해 나를 어떻게 쓰려는지를 알아야 하기 때문에 그걸 맞추는 과정이 설레요. 항상 그런 기회를 기다리고 있죠. -2019년, 구교환 '메기' 인터뷰 中" 독립영화계 ‘천]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F11%2Fstartoday%2F20210911080304953wefi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[김선호, 박훈정 감독 '슬픈열대'로 스크린 데뷔 外 [위클리 무비] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210911094730151</link>
+            <guid>https://movie.v.daum.net/v/20210911094730151</guid>
+            <pubDate>Sat, 11 Sep 2021 01:55:41 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 한 주간 생생한 영화 소식을 전해드립니다.김선호가 박훈정 감독의 신작 '슬픈열대'로 스크린에 데뷔한다. ○…김선호가 박훈정 감독의 신작 '슬픈 열대'로 스크린에 데뷔한다.  '슬픈 열대'는 한국인 아버지와 필리핀 어머니를 둔 복싱선수를 꿈꾸는 소년이 자기를 버리고 떠난 아버지를 찾아 한국에 왔다가 나쁜 놈들을 만나면서 벌어지는 일을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F11%2Fstarnews%2F20210911094732003bjjl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[송영애의 영화이야기] 신문에서 찾아본 서울극장과 한국 영화계의 역사 (다음영화 뉴스 ─ 최신)]]></title>
@@ -1147,7 +1147,7 @@
             <link>https://tv.naver.com/v/22385542</link>
             <guid>https://tv.naver.com/v/22385542</guid>
             <pubDate>Fri, 10 Sep 2021 08:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210910_205/MT3t2_1631260361317u7EPP_JPEG/05a2debd-120c-11ec-a9f1-505dac8c3639_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1155,7 +1155,7 @@
             <link>https://tv.naver.com/v/22385521</link>
             <guid>https://tv.naver.com/v/22385521</guid>
             <pubDate>Fri, 10 Sep 2021 08:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210910_16/eW8KU_16312603312373Hsvd_JPEG/f5a95c9c-120b-11ec-9b63-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1163,7 +1163,7 @@
             <link>https://tv.naver.com/v/22385496</link>
             <guid>https://tv.naver.com/v/22385496</guid>
             <pubDate>Fri, 10 Sep 2021 08:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210910_92/ZkFkC_1631260303257wiGwO_JPEG/e49a4b45-120b-11ec-b835-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1171,7 +1171,7 @@
             <link>https://tv.naver.com/v/22384062</link>
             <guid>https://tv.naver.com/v/22384062</guid>
             <pubDate>Fri, 10 Sep 2021 08:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210910_212/d7QRb_1631258435914bYzhe_JPEG/5cb32c93-1207-11ec-8c9c-505dac8c37f3_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1339,7 +1339,7 @@
             <link>https://tv.naver.com/v/22336703</link>
             <guid>https://tv.naver.com/v/22336703</guid>
             <pubDate>Wed, 08 Sep 2021 07:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210908_183/irQ6H_1631083447326QL85V_JPEG/cae8eef4-106f-11ec-a72a-246e963a464c_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>

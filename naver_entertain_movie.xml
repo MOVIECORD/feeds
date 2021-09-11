@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-11T06:19:04.125Z</updated>
+    <updated>2021-09-11T07:15:58.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[퍼플레이, 오리지널 시리즈 '그려서 만든 세상' 시즌2 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003552142</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003552142"/>
+        <updated>2021-09-11T07:14:32.745Z</updated>
+        <content type="html"><![CDATA[여성영화 OTT(온라인동영상서비스) 퍼플레이가 오리지널 시리즈 '그려서 만든 세상'의 시즌2를 공개했다. '그려서 만든 세상'(이하 '그만세')은 여성 애니메이션 감독 컬렉션으로, 자신만의 언어로 독자적인 작품세계를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[샹치 성공 주효?···디즈니, ‘이터널스’ 포함 올해 영화 모두 극장서 단독 개봉]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0003961398</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005597164"/>
         <updated>2021-09-11T01:55:17.611Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '샹치와 텐 링즈의 전설'(감독 데스틴 다니엘 크리튼)이 11일 100만 관객을 돌파했다. 이는 '블랙 위도우' '분노의 질주: 더 얼티메이트'에 이어 외화 중 세 번째로 가장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소녀시대도, 배우도 임윤아의 청춘 [강민경의 전지적 덕후시점]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002987927</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002987927"/>
-        <updated>2021-09-11T01:55:17.611Z</updated>
-        <content type="html"><![CDATA[걸그룹 소녀시대도, 배우도 모두 임윤아의 '청춘'이다. 데뷔 15주년 차를 맞은 임윤아에게 두 가지 타이틀이 붙는다. 걸그룹 소녀시대 멤버와 배우다. 소녀시대 데뷔 이전 그룹 동방신기와 슈퍼주니어의 뮤직비디오를 통해]]></content>
     </entry>
 </feed>
