@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-12T05:14:23.044Z</updated>
+    <updated>2021-09-12T06:19:10.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Han Sun-hwa makes her own way in her first movie, 'Cinema Street']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000016195</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000016195"/>
+        <updated>2021-09-12T06:17:37.826Z</updated>
+        <content type="html"><![CDATA[Han Sun-hwa, a former member of girl group Secret, is paving a new path for herself as she takes her first movie role wi]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['007 노 타임 투 다이' 라미 말렉, 빌런으로 컴백..시리즈 사상 가장 강렬]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003475949</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003475949"/>
+        <updated>2021-09-12T06:17:37.834Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] '007 노 타임 투 다이'에서 라미 말렉이 ‘제임스 본드’와의 강렬한 대결을 펼칠 ‘사핀’ 역으로 합류했다. 영화 '007 노 타임 투 다이'는 가장 강력한 운명의 적의 등장으로 죽음과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[D:인터뷰] 박정민의 '기적'은 바로 이 순간]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002529480</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002326369"/>
         <updated>2021-09-12T03:15:15.197Z</updated>
         <content type="html"><![CDATA[[독립예술영화 개봉신상 리뷰] &lt;좋은 사람&gt; ▲ "좋은 사람" 포스터 영화 포스터 이미지 ⓒ 찬란 1.역설 그 자체인 제목 인공적인 유토피아란 지속될 수 없다. 애초에 '유토피아'라는 어원 자체가 현실에는 없다는 뜻]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공식]'인질' 150만 관객 돌파…2021 스릴러 영화 최고 스코어]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003777974</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003777974"/>
-        <updated>2021-09-12T03:15:15.197Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 이승미 기자]'인질'이 150만 관객을 돌파, 올해 개봉한 스릴러 영화 중 최고 스코어를 기록하는 쾌거를 이뤄냈다. 영화진흥위원회 영화관입장권 통합전산망에 따르면 개봉 4주 차에도 관객들을 극장으로 이끌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봉준호가 열고 닫은 '제78회 베니스국제영화제'…女 감독 '황금사자상' 수상 [종합]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000499871</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000499871"/>
-        <updated>2021-09-12T03:15:15.197Z</updated>
-        <content type="html"><![CDATA[[텐아시아=노규민 기자] 제78회 베니스국제영화제가 폐막했다. 심사위원장 봉준호 감독이 황금사자상을 호명, 세계 3대 영화제 중 하나인 베니스국제영화제의 끝을 장식했다. 11일(현지시각) 이탈리아 베니스 리도섬의 팔]]></content>
     </entry>
 </feed>
