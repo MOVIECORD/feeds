@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Sep 2021 00:52:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Sep 2021 02:01:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,6 +72,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc8ab80faf8685262abcc4ae6a942371ebc96b443" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[토베 얀손]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=147226</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=147226</guid>
+            <pubDate>Thu, 09 Sep 2021 00:51:10 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fecfd96789aea8e74eba184ba9eeec535941858ca" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[아임 유어 맨]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=148298</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=148298</guid>
@@ -102,14 +110,6 @@
             <pubDate>Thu, 09 Sep 2021 00:51:10 GMT</pubDate>
             <content:encoded><![CDATA[21.09.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fd7f5122d9fa915b67d4cf5e0e4c5c8fcd45712" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[토베 얀손]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=147226</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=147226</guid>
-            <pubDate>Thu, 09 Sep 2021 00:51:10 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fecfd96789aea8e74eba184ba9eeec535941858ca" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스왈로 탐험대와 아마존 해적]]></title>
