@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Sep 2021 10:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 11:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,6 +16,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F13%2Fhankooki%2F20210913190200143ufib.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['기적' 박정민 vs '보이스' 변요한(종합)[Oh!쎈 이슈]]]></title>
+            <link>https://v.daum.net/v/20210913183800405</link>
+            <guid>https://v.daum.net/v/20210913183800405</guid>
+            <pubDate>Mon, 13 Sep 2021 11:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;지난 여름 ‘모가디슈’(감독 류승완)가 있었다면, 이번 추석에는 ‘기적’(감독 이장훈)과 ‘보이스’(감독 김선 김곡)가 있다. 올 여름 극장가에서는 영화 ‘모가디슈’가 강세였다. 코로나19로 극장 상황이 예년 같지 않아 아쉬움을 크게 남기긴 했지만, 영화를 사랑하는 수많은 관객들이 대형 스크린으로 영화를 관람하기 위해 영화관을 찾았]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F13%2Fpoctan%2F20210913183801785zjzy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[변요한 "'보이스'는 운명, 사랑"..#김무열 #100만 공약 '스우파' 댄스 [MD인터뷰](종합)]]></title>
             <link>https://v.daum.net/v/20210913183738398</link>
             <guid>https://v.daum.net/v/20210913183738398</guid>
@@ -24,7 +32,7 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F13%2Fmydaily%2F20210913183738305llve.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[엄태웅 복귀, "기회올 것"이란 ♥︎윤혜진 바람 이뤄졌나[Oh!쎈 초점]]]></title>
+            <title><![CDATA[엄태웅 복귀, "기회올 것→일하는 아빠" 가족 바람 이뤄졌나[Oh!쎈 초점]]]></title>
             <link>https://v.daum.net/v/20210913183351284</link>
             <guid>https://v.daum.net/v/20210913183351284</guid>
             <pubDate>Mon, 13 Sep 2021 10:18:04 GMT</pubDate>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Sep 2021 08:18:07 GMT</pubDate>
             <content:encoded><![CDATA[[티브이데일리 최하나 기자] 배우 엄태웅이 '마지막 숙제'로 스크린에 복귀한다. 엄태웅의 소속사 산타클로스엔터테인먼트 관계자는 13일 티브이데일리에 "엄태웅이 영화 '마지막 숙제'에 출연한다"고 밝혔다. '마지막 숙제'는 엔픽플·TS나린시네마의 '제1회 장편 상업영화 공모전' 당선작으로, 이정철 감독이 메가폰을 잡는다. 엄태웅은 지난 2017년에 개봉]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F13%2Ftvdaily%2F20210913170414422gwsu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[교묘해진 보이스피싱, 순식간에 날아간 7천만 원]]></title>
-            <link>https://v.daum.net/v/20210913165401183</link>
-            <guid>https://v.daum.net/v/20210913165401183</guid>
-            <pubDate>Mon, 13 Sep 2021 08:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[[장혜령 기자] &nbsp;&nbsp;        ▲ &nbsp;영화 &lt;보이스&gt; 포스터    ⓒ CJ ENM   &nbsp;보이스 피싱 피해자와 피해액은 매년 증가세다. 대검찰청 측 발표에 의하면 작년 보이스피싱 피해 건수는 3만9714건 피해액은 7000억 원으로 드러났다. 최근 팬데믹 이후 소상공인 대출, 재난지원금 등을 이용한 보이스피싱이 기승을 부리는 한편 확진자 동선 공개, 백신]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F13%2Fohmynews%2F20210913165403018qbdh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>

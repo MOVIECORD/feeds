@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-13T10:18:52.913Z</updated>
+    <updated>2021-09-13T11:13:46.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[광화문국제단편영화제 ‘이춘연상’ 신설]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000761592</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000761592"/>
+        <updated>2021-09-13T11:12:33.493Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 광화문국제단편영화제가 지난 5월 별세한 이춘연 씨네2000 대표를 기리는 이춘연상을 신설했다고 13일 밝혔다. 다음 달 14일 개막하는 제19회 광화문국제단편영화제에서 처음 시상하는 이춘연상은 광화문펀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엄태웅, 자숙 끝내고 4년 만에 스크린 복귀]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000629489</id>
@@ -46,6 +53,13 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003476409"/>
         <updated>2021-09-13T10:17:33.239Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=이미지 기자] 제26회 부산국제영화제가 공식 포스터를 전격 공개했다. 제26회 부산국제영화제 공식 포스터는 한국 전통 모시천의 실사를 바탕으로 부산국제영화제의 영문 표기를 손글씨로 흘려 쓴 디자인 작품]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['기적' 박정민 vs '보이스' 변요한(종합)[Oh!쎈 이슈]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004474500</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004474500"/>
+        <updated>2021-09-13T11:12:33.511Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 지난 여름 ‘모가디슈’(감독 류승완)가 있었다면, 이번 추석에는 ‘기적’(감독 이장훈)과 ‘보이스’(감독 김선 김곡)가 있다. 올 여름 극장가에서는 영화 ‘모가디슈’가 강세였다. 코로나19로]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[변요한 "'보이스'는 운명, 사랑"…#김무열 #100만 공약 '스우파' 댄스 [MD인터뷰](종합)]]></title>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000500140"/>
         <updated>2021-09-13T09:14:50.938Z</updated>
         <content type="html"><![CDATA[[텐아시아=노규민 기자] "데뷔 이후 첫 인터뷰 때 '필요한 배우가 되고 싶다'고 했습니다' 지금도 그 마음은 변함이 없습니다." 배우 변요한이 영화 '보이스'로 관객을 만난다. '자산어보' 이후 6개월여 만이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['괴물신인' 최성은 '십개월의 미래' 10월14일 개봉]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010718406</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010718406"/>
-        <updated>2021-09-13T09:14:50.938Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스] 김지은 기자 = 미쟝센단편영화제 최우수상 출신인 남궁선 감독의 장편 데뷔작 '십개월의 미래'가 다음 달 14일 개봉한다. 정신 차려 보니 임신 10주, 인생 최대 혼돈과 맞닥뜨린 29살 프로그램 개발]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금까지 이어져 내려오는 폭력의 역사에 대항하라]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002326517</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002326517"/>
-        <updated>2021-09-13T09:14:50.940Z</updated>
-        <content type="html"><![CDATA[[신작 영화 리뷰] &lt;바쿠라우&gt; ▲ 영화 &lt;바쿠라우&gt; 포스터.？ ⓒ 영화사 진진 브라질 북동부 세라 베르드 인근 바쿠라우, 족장 카르멜리타의 장례식을 맞아 마을의 모든 구성원이 모였다. 그들은 정신적 지주를 떠나 보]]></content>
     </entry>
 </feed>
