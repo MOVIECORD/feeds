@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-13T11:13:46.925Z</updated>
+    <updated>2021-09-13T13:25:37.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엄태웅, 자숙 5년 끝에 스크린 복귀...‘마지막 숙제’ 출연]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003619265</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003619265"/>
+        <updated>2021-09-13T13:24:13.632Z</updated>
+        <content type="html"><![CDATA[배우 엄태웅. 세계일보 자료사진 성매매 혐의로 피소돼 벌금형을 선고받았던 배우 엄태웅이 영화로 복귀한다. 소속사인 스튜디오 산타클로스엔터테인먼트는 13일 “엄태웅이 ‘마지막 숙제’ 출연을 확정지었다”고 밝혔다. 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[광화문국제단편영화제 ‘이춘연상’ 신설]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000761592</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005601289"/>
         <updated>2021-09-13T09:14:50.938Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 액션 블록버스터 영화 '007 노 타임 투 다이'가 이번 시리즈에 새롭게 등장하는 '사핀'의 정체를 귀띔했다. 오는 29일 개봉하는 영화 '007 노 타임 투 다이'는 가장 강력한 운]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TEN 인터뷰] '보이스' 변요한 "허무함에 소주 땡긴 작품…보이스피싱에 경각심 가지시길"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000500140</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000500140"/>
-        <updated>2021-09-13T09:14:50.938Z</updated>
-        <content type="html"><![CDATA[[텐아시아=노규민 기자] "데뷔 이후 첫 인터뷰 때 '필요한 배우가 되고 싶다'고 했습니다' 지금도 그 마음은 변함이 없습니다." 배우 변요한이 영화 '보이스'로 관객을 만난다. '자산어보' 이후 6개월여 만이다.]]></content>
     </entry>
 </feed>

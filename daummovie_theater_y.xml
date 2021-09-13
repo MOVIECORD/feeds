@@ -4,17 +4,9 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Sep 2021 11:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 13:25:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[인질]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=127738</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=127738</guid>
-            <pubDate>Tue, 17 Aug 2021 23:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe1285fe4d39de150ca497edf0d91d8b4ad8d8e39" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[샹치와 텐 링즈의 전설]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=129706</link>
@@ -22,6 +14,14 @@
             <pubDate>Wed, 01 Sep 2021 00:53:08 GMT</pubDate>
             <content:encoded><![CDATA[21.09.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a64941e61f5a3fbcad8ef6bbf7edb073b35c01a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[인질]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=127738</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=127738</guid>
+            <pubDate>Tue, 17 Aug 2021 23:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe1285fe4d39de150ca497edf0d91d8b4ad8d8e39" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[모가디슈]]></title>
@@ -32,20 +32,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F232a8d6e902c63036bbe2ae327d57e82585a639f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[건파우더 밀크셰이크]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=135748</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=135748</guid>
-            <pubDate>Wed, 08 Sep 2021 00:47:33 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F261ebc042837ab44d41ba35f3da5f2dae32d0057" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[너의 이름은.]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=104209</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=104209</guid>
             <pubDate>Fri, 10 Sep 2021 07:15:07 GMT</pubDate>
             <content:encoded><![CDATA[21.09.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2c81505312c588301e18b7f0a508bbc267ec2b44" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[건파우더 밀크셰이크]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135748</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135748</guid>
+            <pubDate>Wed, 08 Sep 2021 00:47:33 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F261ebc042837ab44d41ba35f3da5f2dae32d0057" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[좋은 사람]]></title>
@@ -64,20 +64,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2771975974a5ea16126c86bd0bb19fb57f8cc0c2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[사운드 오브 데스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149429</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149429</guid>
-            <pubDate>Thu, 09 Sep 2021 00:51:03 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F65e6f78f4ff4b22b3fd6ccc8ab61b69edda25493" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[죽을 때까지]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151682</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151682</guid>
             <pubDate>Thu, 09 Sep 2021 05:13:53 GMT</pubDate>
             <content:encoded><![CDATA[21.09.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6742e6f97365b3f781d3dd59e6ac02384d153da3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[사운드 오브 데스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149429</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149429</guid>
+            <pubDate>Thu, 09 Sep 2021 00:51:03 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F65e6f78f4ff4b22b3fd6ccc8ab61b69edda25493" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[싱크홀]]></title>
