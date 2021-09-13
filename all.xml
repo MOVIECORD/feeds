@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Sep 2021 20:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 21:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -247,6 +247,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6742e6f97365b3f781d3dd59e6ac02384d153da3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[코다 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=147452</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=147452</guid>
+            <pubDate>Tue, 24 Aug 2021 18:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9db1b2ab48843490fa9705cbae8389e6c3bd9876" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[사운드 오브 데스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149429</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149429</guid>
@@ -261,14 +269,6 @@
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.08.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F446090579974d44551356ce961743e57eaa41bd6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[코다 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=147452</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=147452</guid>
-            <pubDate>Tue, 24 Aug 2021 18:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9db1b2ab48843490fa9705cbae8389e6c3bd9876" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[리스펙트 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -527,14 +527,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F13%2FSpoChosun%2F20210913153249220ytlt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[공식]韓야구의 전설..故최동원 10주기 다큐 '1984, 최동원'. 11월 개봉 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210913154609310</link>
-            <guid>https://movie.v.daum.net/v/20210913154609310</guid>
-            <pubDate>Mon, 13 Sep 2021 08:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이승미 기자]1984년 가을 한국시리즈7차전 4승 1패의 주인공, 대한민국 부산의 심장 무쇠팔 최동원의 인생 경기를 담은 최초의 다큐멘터리 영화 '1984, 최동원'(조은성 감독)이오는 11월개봉을 확정하며 故 최동원 10주기 추모 영상을 공개했다. '1984, 최동원'은 대한민국 프로야구 팬들이 지금까지도 기억하는 최고의 경기이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F13%2FSpoChosun%2F20210913154609463rtfq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[아빠 죽인 킬러가 딸 지켜주는 이유.. 번지수 잘못 찾았다 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210913094814152</link>
             <guid>https://movie.v.daum.net/v/20210913094814152</guid>
@@ -543,20 +535,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F13%2Fohmynews%2F20210913094816741tllx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[공식]韓야구의 전설..故최동원 10주기 다큐 '1984, 최동원'. 11월 개봉 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210913154609310</link>
+            <guid>https://movie.v.daum.net/v/20210913154609310</guid>
+            <pubDate>Mon, 13 Sep 2021 08:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자]1984년 가을 한국시리즈7차전 4승 1패의 주인공, 대한민국 부산의 심장 무쇠팔 최동원의 인생 경기를 담은 최초의 다큐멘터리 영화 '1984, 최동원'(조은성 감독)이오는 11월개봉을 확정하며 故 최동원 10주기 추모 영상을 공개했다. '1984, 최동원'은 대한민국 프로야구 팬들이 지금까지도 기억하는 최고의 경기이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F13%2FSpoChosun%2F20210913154609463rtfq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['듄' 티모시 샬라메→하비에르 바르뎀, 레전드 캐릭터 영상 공개 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210913100525955</link>
             <guid>https://movie.v.daum.net/v/20210913100525955</guid>
             <pubDate>Mon, 13 Sep 2021 08:17:59 GMT</pubDate>
             <content:encoded><![CDATA[[티브이데일리 최하나 기자] '듄'의 캐릭터 포스터와 감독과 배우들이 영화와 캐릭터를 소개하는 레전드 캐릭터 영상이 공개됐다. 영화 '듄'(감독 드니 빌뇌브·배급 워너브러더스 코리아)은 생명 유지 자원인 스파이스를 두고 아라키스 모래 행성 듄에서 악의 세력과 전쟁을 앞둔, 전 우주의 왕좌에 오를 운명으로 태어난 전설의 메시아 폴의 위대한 여정을 그린 작품]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F13%2Ftvdaily%2F20210913100526394srzz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[성형으로 예뻐진 신인가수, 660만 관객 홀렸다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210913092408081</link>
-            <guid>https://movie.v.daum.net/v/20210913092408081</guid>
-            <pubDate>Mon, 13 Sep 2021 00:51:54 GMT</pubDate>
-            <content:encoded><![CDATA[[양형석 기자] 보이그룹 제국의 아이들 출신의 예능인 황광희는 현재 왕성하게 활동하고 있는 예능인 중 한 명이다. 하지만 황광희가 대중들에게 알려진 계기는 그가 속한 팀 제국의 아이들이 아닌 '성형'이었다. 황광희는 데뷔 전 자신이 성형했다는 사실을 밝혔고, 이를 꾸준하게 토크 소재로 이용했다.&nbsp; 성형 고백에서 자유로워진 것은 여자 연예인들도 마찬가지. 물]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F13%2Fohmynews%2F20210913092410073zhzq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['신사는 금발을 좋아한다'..마를린 먼로의 매력에 흠뻑 빠져보자 [김대호의 옛날영화] (다음영화 뉴스 ─ 인기)]]></title>
@@ -573,6 +565,14 @@
             <pubDate>Mon, 13 Sep 2021 11:12:54 GMT</pubDate>
             <content:encoded><![CDATA[[SBS연예뉴스 | 김지혜 기자] 칸국제영화제 이어 베니스국제영화제에서도 여성감독이 만든 영화가 그랑프리의 영예를 안았다. 지난 11일(현지 시간) 제78회 베니스국제영화제 폐막식에서 프랑스 감독 오드리 디완의 '레벤느망(L'Événement)'이 그랑프리인 황금사자상을 받았다. 올해 영화제 심사위원장을 맡은 봉준호 감독은 황금사자상 수상작으로 '레벤느망']]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F13%2FSBSfunE%2F20210913121513633sote.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[성형으로 예뻐진 신인가수, 660만 관객 홀렸다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210913092408081</link>
+            <guid>https://movie.v.daum.net/v/20210913092408081</guid>
+            <pubDate>Mon, 13 Sep 2021 00:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[[양형석 기자] 보이그룹 제국의 아이들 출신의 예능인 황광희는 현재 왕성하게 활동하고 있는 예능인 중 한 명이다. 하지만 황광희가 대중들에게 알려진 계기는 그가 속한 팀 제국의 아이들이 아닌 '성형'이었다. 황광희는 데뷔 전 자신이 성형했다는 사실을 밝혔고, 이를 꾸준하게 토크 소재로 이용했다.&nbsp; 성형 고백에서 자유로워진 것은 여자 연예인들도 마찬가지. 물]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F13%2Fohmynews%2F20210913092410073zhzq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[엄태웅 측 "'마지막 숙제' 출연 맞다"..4년 만 복귀 [공식입장] (다음영화 뉴스 ─ 인기)]]></title>
@@ -607,14 +607,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F13%2Fmydaily%2F20210913135010499ksrx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[임윤아·김선호 '2시의 데이트' 캐스팅..이상근 감독 차기작 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210913091127579</link>
-            <guid>https://movie.v.daum.net/v/20210913091127579</guid>
-            <pubDate>Mon, 13 Sep 2021 00:51:54 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 영화 '2시의 데이트'에 배우 임윤아와 김선호가 캐스팅을 확정지었다. 13일 외유내강에 따르면 '모가디슈' '인질'을 제작한 외유내강이 제작하고 '엑시트'를 연출한 이상근 감독이 메가폰을 잡는 '2시의 데이트'에 임윤아와 김선호가 출연한다. '2시의 데이트'는 상상초월 비밀을 가진 아랫집 여자를 윗집 남자가 매일 만나게]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F13%2FNEWS1%2F20210913091128858svnr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[SC초점] "코시국 속 잘나가는 마블"..'샹치' 글로벌 수익 3020억 돌파..전세계 韓흥행 2위 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210913095214332</link>
             <guid>https://movie.v.daum.net/v/20210913095214332</guid>
@@ -631,6 +623,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F12%2F10asia%2F20210912075904632xbnh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[임윤아·김선호 '2시의 데이트' 캐스팅..이상근 감독 차기작 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210913091127579</link>
+            <guid>https://movie.v.daum.net/v/20210913091127579</guid>
+            <pubDate>Mon, 13 Sep 2021 00:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 영화 '2시의 데이트'에 배우 임윤아와 김선호가 캐스팅을 확정지었다. 13일 외유내강에 따르면 '모가디슈' '인질'을 제작한 외유내강이 제작하고 '엑시트'를 연출한 이상근 감독이 메가폰을 잡는 '2시의 데이트'에 임윤아와 김선호가 출연한다. '2시의 데이트'는 상상초월 비밀을 가진 아랫집 여자를 윗집 남자가 매일 만나게]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F13%2FNEWS1%2F20210913091128858svnr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['세버그' 크리스틴 스튜어트, 故 진 세버그 완벽 변신 [Oh!쎈 컷] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210912121907821</link>
             <guid>https://movie.v.daum.net/v/20210912121907821</guid>
@@ -639,20 +639,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F12%2Fpoctan%2F20210912121908143ovfd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[엄태웅, 자숙 5년만 활동 재개한다.."'마지막 숙제' 출연 확정" [공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210913170746771</link>
-            <guid>https://movie.v.daum.net/v/20210913170746771</guid>
-            <pubDate>Mon, 13 Sep 2021 08:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 엄태웅(47)이 영화 '마지막 숙제'로 5년 만에 복귀한다. 소속사 스튜디오 산타클로스엔터테인먼트 측은 13일 오후 마이데일리에 "엄태웅이 영화 '마지막 숙제' 출연을 확정했다"라고 밝혔다. 이로써 엄태웅은 지난 2017년 영화 '포크레인' 이후 약 5년 만에 활동 재개에 나선다. 그는 2016년 성매매 혐의로 벌금]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F13%2Fmydaily%2F20210913170746236myef.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['시달소' 호소다 마모루 감독 신작 '용과 주근깨 공주', 日서 누적 423만명X수익 58.7억엔 돌파 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210913135302957</link>
             <guid>https://movie.v.daum.net/v/20210913135302957</guid>
             <pubDate>Mon, 13 Sep 2021 17:19:05 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠조선 조지영 기자] 제작비 300억원의 대작으로 호소다 마모루 감독 전작의 명성을 능가하는 역대급 스케일과 감동을 선사할 일본 애니메이션 '용과 주근깨 공주'(호소다 마모루 감독)가 일본에서 호소다 마모루 감독의 역대 흥행 기록을 갈아치우며 최고 흥행작으로 등극했다. 호소다 마모루 감독의 신작 '용과 주근깨 공주'가 일본 흥행 역사를]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F13%2FSpoChosun%2F20210913135302288wgtg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[엄태웅, 자숙 5년만 활동 재개한다.."'마지막 숙제' 출연 확정" [공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210913170746771</link>
+            <guid>https://movie.v.daum.net/v/20210913170746771</guid>
+            <pubDate>Mon, 13 Sep 2021 08:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 엄태웅(47)이 영화 '마지막 숙제'로 5년 만에 복귀한다. 소속사 스튜디오 산타클로스엔터테인먼트 측은 13일 오후 마이데일리에 "엄태웅이 영화 '마지막 숙제' 출연을 확정했다"라고 밝혔다. 이로써 엄태웅은 지난 2017년 영화 '포크레인' 이후 약 5년 만에 활동 재개에 나선다. 그는 2016년 성매매 혐의로 벌금]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F13%2Fmydaily%2F20210913170746236myef.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['영화의 도시' 부산 여행 욕구 솟구치게 하는 풍경 포스터 공개 (다음영화 뉴스 ─ 인기)]]></title>
@@ -987,7 +987,7 @@
             <link>https://tv.naver.com/v/22424712</link>
             <guid>https://tv.naver.com/v/22424712</guid>
             <pubDate>Mon, 13 Sep 2021 10:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210913_61/7u76H_1631525188120MgaYX_JPEG/688b63c9-1474-11ec-80a9-a0369ff95678_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -995,7 +995,7 @@
             <link>https://tv.naver.com/v/22424618</link>
             <guid>https://tv.naver.com/v/22424618</guid>
             <pubDate>Mon, 13 Sep 2021 10:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210913_148/X88WG_1631524903206oFJgf_JPEG/a71cce1f-1473-11ec-89ce-48df379ccacc_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1003,7 +1003,7 @@
             <link>https://tv.naver.com/v/22422688</link>
             <guid>https://tv.naver.com/v/22422688</guid>
             <pubDate>Mon, 13 Sep 2021 08:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210913_257/MWVB1_16315197455935Q5SB_JPEG/9231d89e-1467-11ec-86ec-48df37ae3fca_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1011,7 +1011,7 @@
             <link>https://tv.naver.com/v/22419842</link>
             <guid>https://tv.naver.com/v/22419842</guid>
             <pubDate>Mon, 13 Sep 2021 06:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210913_140/yfZf0_1631512879627KjSEA_JPEG/ab92d6ec-1457-11ec-a613-505dac8c38f5_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1019,7 +1019,7 @@
             <link>https://tv.naver.com/v/22418374</link>
             <guid>https://tv.naver.com/v/22418374</guid>
             <pubDate>Mon, 13 Sep 2021 05:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210913_100/OFk56_16315088001386rJdq_JPEG/298290fa-144e-11ec-86ec-48df37ae3fca_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1027,7 +1027,7 @@
             <link>https://tv.naver.com/v/22416369</link>
             <guid>https://tv.naver.com/v/22416369</guid>
             <pubDate>Mon, 13 Sep 2021 03:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210913_29/HuF3d_1631501277870E6yqG_JPEG/d7d6bb94-143c-11ec-af84-246e963a49a8_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1035,7 +1035,7 @@
             <link>https://tv.naver.com/v/22415590</link>
             <guid>https://tv.naver.com/v/22415590</guid>
             <pubDate>Mon, 13 Sep 2021 02:32:26 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210913_140/gYOY7_1631498746397Nl1x0_JPEG/1631498660893.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1043,7 +1043,7 @@
             <link>https://tv.naver.com/v/22415268</link>
             <guid>https://tv.naver.com/v/22415268</guid>
             <pubDate>Mon, 13 Sep 2021 01:59:47 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210913_159/JQFrI_1631497755908LD6RN_JPEG/b8d0a935-1434-11ec-a509-a0369ff968b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1051,7 +1051,7 @@
             <link>https://tv.naver.com/v/22415211</link>
             <guid>https://tv.naver.com/v/22415211</guid>
             <pubDate>Mon, 13 Sep 2021 01:59:47 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210913_287/epqzO_1631497539939HHCxS_JPEG/30efa782-1434-11ec-bf57-246e963a4708_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1059,7 +1059,7 @@
             <link>https://tv.naver.com/v/22415159</link>
             <guid>https://tv.naver.com/v/22415159</guid>
             <pubDate>Mon, 13 Sep 2021 01:59:47 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210913_264/QAfAg_1631497303945E2P7f_JPEG/991524b8-1433-11ec-8111-505dac8c381b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1099,7 +1099,7 @@
             <link>https://tv.naver.com/v/22388430</link>
             <guid>https://tv.naver.com/v/22388430</guid>
             <pubDate>Mon, 13 Sep 2021 01:59:47 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210910_90/bT39W_1631266635877eyziN_PNG/1631266609384.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
