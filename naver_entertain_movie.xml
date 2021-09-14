@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-14T13:22:25.599Z</updated>
+    <updated>2021-09-14T14:15:58.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정훈이만화로 본 영화 25년 ‘한눈에’]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003619685</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003619685"/>
+        <updated>2021-09-14T14:14:32.388Z</updated>
+        <content type="html"><![CDATA[한국영상자료원 기획전시 2022년 3월20일까지 무료 관람 한국영상자료원은 한국영화박물관 신규 기획전시로 ‘정훈이만화, 영화와 뒹굴뒹굴 25년’(사진)을 개최한다고 14일 밝혔다. 정훈이 작가가 25년 동안 영화주간]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마동석X서현 '거룩한 밤: 데몬 헌터스', 12일 크랭크업[공식]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004852567</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002988744"/>
         <updated>2021-09-14T08:17:43.524Z</updated>
         <content type="html"><![CDATA[배우 하정우가 마약류 약물인 프로포폴을 불법으로 투약한 혐의를 모두 인정한 가운데 법원에서 벌금 3000만원을 선고 받았다. 이는 검찰이 구형한 벌금 1000만원 보다 3배 높은 형량이다. 하정우는 "재판 결과를 겸]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[DA:인터뷰] 이완 “♥이보미와 결혼=터닝포인트…부부 예능도 OK!” (영화의 거리)(종합)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000933248</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000933248"/>
-        <updated>2021-09-14T08:17:43.541Z</updated>
-        <content type="html"><![CDATA[배우 이완이 스크린에 6년 만에 돌아왔다. ‘김태희 동생’, ‘이보미 남편’ 같은 수식어를 덜어내고 ‘배우 이완’의 매력을 담담히 전했다. 복귀작은 영화 ‘영화의 거리’였다. ‘영화의 거리’는 영화 로케이션 매니저와]]></content>
     </entry>
 </feed>
