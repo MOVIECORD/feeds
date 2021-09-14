@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Sep 2021 08:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 09:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,14 +112,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff157c843e5e51bad758dfa6c5174accb8303daad" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[최선의 삶]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=136365</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=136365</guid>
-            <pubDate>Wed, 01 Sep 2021 00:53:08 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58e6b59e744961d1e5cfcb4aedc92bc9ce35bda0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[리스펙트]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137818</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137818</guid>
@@ -134,6 +126,14 @@
             <pubDate>Thu, 09 Sep 2021 00:51:03 GMT</pubDate>
             <content:encoded><![CDATA[21.09.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F045e3b529565237b7465a357637177d59a1154ba" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[최선의 삶]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=136365</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=136365</guid>
+            <pubDate>Wed, 01 Sep 2021 00:53:08 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58e6b59e744961d1e5cfcb4aedc92bc9ce35bda0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[바쿠라우]]></title>
