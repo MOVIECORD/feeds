@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-14T14:15:58.110Z</updated>
+    <updated>2021-09-14T15:17:14.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아시아콘텐츠&필름마켓서 선보일 원작 45편 선정]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000761838</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000761838"/>
+        <updated>2021-09-14T15:15:55.808Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 제26회 부산국제영화제(BIFF) 원작 판권 거래시장(E-IP마켓)에 선보일 작품 45편이 선정됐다. 부산국제영화제 사무국은 올해 아시아콘텐츠&amp;필름마켓(ACFM) E-IP마켓에서 선보일 작품으로 한국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['학폭 의혹' 조병규, 영화 '죽어도 다시 한번'으로 활동 재개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000106119</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000106119"/>
+        <updated>2021-09-14T15:15:55.808Z</updated>
+        <content type="html"><![CDATA[40대 스턴트맨 → 고등학생이 되어버린 전우석 役 학폭(학교 폭력) 논란으로 활동을 잠정 중단했던 배우 조병규가 복귀한다. 소속사 HB엔터테인먼트는 14일 "배우 조병규가 2022년 개봉 예정인 영화 '죽어도 다시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정훈이만화로 본 영화 25년 ‘한눈에’]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003619685</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003536459"/>
         <updated>2021-09-14T08:17:43.515Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 김나라 기자] 배우 김무열이 영화 '보이스'의 강렬한 악역으로 추석 극장가를 휩쓸 전망이다. 김무열은 14일 오전 화상 온라인 인터뷰를 진행했다. 내일(15일) 신작 '보이스' 개봉을 앞두며 이와 관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[리뷰] 공작조:현애지상, 장예모의 항일 첩보전]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000038832</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000038832"/>
-        <updated>2021-09-14T08:17:43.524Z</updated>
-        <content type="html"><![CDATA[최근 중국영화 한 편이 평지풍파를 일으켰다. 한국전쟁 당시 중국 포병대와 공병부대의 활약을 담은 중국(입장에서의) 애국영화 ‘금강천’(한국제목: 1953 금강대전투) 수입을 둘러싼 소동이었다. 그 영화에는 한국군과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하정우, 檢구형보다 높은 벌금 3천만원..자숙 질문엔 '침묵' [★FOCUS]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002988744</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002988744"/>
-        <updated>2021-09-14T08:17:43.524Z</updated>
-        <content type="html"><![CDATA[배우 하정우가 마약류 약물인 프로포폴을 불법으로 투약한 혐의를 모두 인정한 가운데 법원에서 벌금 3000만원을 선고 받았다. 이는 검찰이 구형한 벌금 1000만원 보다 3배 높은 형량이다. 하정우는 "재판 결과를 겸]]></content>
     </entry>
 </feed>
