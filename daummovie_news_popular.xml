@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Sep 2021 07:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 08:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,20 +56,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F14%2Fsportsdonga%2F20210914100353073glaa.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[빅픽처] '샹치', 주인공보다 빌런이 더 매력적인 아이러니]]></title>
-            <link>https://movie.v.daum.net/v/20210913172115205</link>
-            <guid>https://movie.v.daum.net/v/20210913172115205</guid>
-            <pubDate>Tue, 14 Sep 2021 00:54:01 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS연예뉴스 | 김지혜 기자] 마블의 첫 아시안 히어로 영화 '샹치와 텐 링즈의 전설'(이하 '샹치')이 우려를 딛고 박스오피스에서 선전을 펼치고 있다. 그러나 영화에 대한 만족도는 갈리는 분위기다. 데뷔전 치고는 나쁘지 않다는 평가와 액션에 치중했을 뿐 캐릭터와 서사가 빈약하다는 실망감도 적지 않다. 또한 영화 전반에 깔린 오리엔탈리즘(서양의 동양에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F13%2FSBSfunE%2F20210913172116958twek.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA["겸허히 받아들인다"..하정우, 프로포폴 불법 투약→벌금 3000만원 [스타이슈]]]></title>
             <link>https://movie.v.daum.net/v/20210914145016481</link>
             <guid>https://movie.v.daum.net/v/20210914145016481</guid>
             <pubDate>Tue, 14 Sep 2021 06:18:35 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 서울중앙지법=김미화 기자] 프로포폴 불법 투약 혐의를 받고 있는 배우 하정우(본명 김성훈)가 14일 오후 서울 서초구 중앙지방법원에서 열린 선고 공판을 마친 뒤 차량에 탑승하고 있다.  법원은 이날 하정우에게 벌금 3000만원을 선고했다. 2021.09.14 /사진=김창현 기자 chmt@배우 하정우가 마약류 약물인 프로포폴을 불법으로 투약한 혐의]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F14%2Fstarnews%2F20210914160239984syhh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[빅픽처] '샹치', 주인공보다 빌런이 더 매력적인 아이러니]]></title>
+            <link>https://movie.v.daum.net/v/20210913172115205</link>
+            <guid>https://movie.v.daum.net/v/20210913172115205</guid>
+            <pubDate>Tue, 14 Sep 2021 00:54:01 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS연예뉴스 | 김지혜 기자] 마블의 첫 아시안 히어로 영화 '샹치와 텐 링즈의 전설'(이하 '샹치')이 우려를 딛고 박스오피스에서 선전을 펼치고 있다. 그러나 영화에 대한 만족도는 갈리는 분위기다. 데뷔전 치고는 나쁘지 않다는 평가와 액션에 치중했을 뿐 캐릭터와 서사가 빈약하다는 실망감도 적지 않다. 또한 영화 전반에 깔린 오리엔탈리즘(서양의 동양에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F13%2FSBSfunE%2F20210913172116958twek.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['베놈2: 렛 데어 비 카니지', '앤트맨''스파이더맨' 이어 본편 보다 나은 속편 될까]]></title>
@@ -80,12 +80,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F14%2FSpoChosun%2F20210914082743005isnb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['여성 로봇과 남성' 틀 깨고..남성 로봇과 여성의 '특별한 로맨스' 다뤄]]></title>
+            <link>https://movie.v.daum.net/v/20210914111047346</link>
+            <guid>https://movie.v.daum.net/v/20210914111047346</guid>
+            <pubDate>Tue, 14 Sep 2021 08:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[■ 리뷰톡 - 16일 개봉 ‘아임 유어 맨’ 16일 개봉하는 ‘아임 유어 맨’(사진)은 우리가 가지고 있던 인공지능(AI) 로봇 로맨스에 대한 편견을 깼다는 점에서 주목된다. 그동안의 AI 로맨스 영화 하면 가장 많이 떠오르는 게 ‘그녀’(2013), ‘엑스 마키나’(2015) 등이다. ‘그녀’는 루저 같은 대필작가 테오도르(호아킨 피닉스)와 전지전능해]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F14%2Fmunhwa%2F20210914111048401sdxp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['기적' 임윤아 "뮤즈 자처한 이유? 아낌없이 주는 나무 아닐까요" [쿠키인터뷰]]]></title>
             <link>https://movie.v.daum.net/v/20210914063005605</link>
             <guid>https://movie.v.daum.net/v/20210914063005605</guid>
             <pubDate>Tue, 14 Sep 2021 00:54:01 GMT</pubDate>
             <content:encoded><![CDATA[[쿠키뉴스] 이준범 기자 = 영화 ‘기적’(감독 이장훈)에서 라희(임윤아)는 고등학교 입학 첫날부터 준경(박정민)의 엉뚱한 모습을 눈여겨본다. 나름대로 치밀한 분석을 거친 끝에 준경이 천재라고 확신한 후 그에게 접근하기 시작한다. 준경과 태윤(이성민), 보경(이수경) 가족의 이야기를 중심으로 전개되는 ‘기적’에서 라희는 준경을 외부 시선으로 보여주는 렌즈]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F14%2Fkukinews%2F20210914063007115kkzl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['학폭 논란' 조병규, 영화 '죽어도 다시 한번'으로 복귀 (공식)]]></title>
+            <link>https://movie.v.daum.net/v/20210914160608805</link>
+            <guid>https://movie.v.daum.net/v/20210914160608805</guid>
+            <pubDate>Tue, 14 Sep 2021 08:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[배우 조병규가 영화 ‘죽어도 다시 한번’(가제)에 출연을 확정 지었다. 엔픽플에서 투자배급하고 TS나린시네마에서 제작하는 영화 ‘죽어도 다시 한번’(가제)은 배우가 꿈이었던 스턴트맨 우석이 사고로 인해 고등학생 시절로 돌아가게 된 후, 꿈에 대해 다시금 생각해 볼 수 있는 기회를 얻게 되는 이야기다. 극 중 조병규는 40대에서 한순간에 고등학생으로 돌아가]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F14%2Fmksports%2F20210914160610679fard.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['007 노 타임 투 다이' 시리즈 최초 스크린X 개봉 확정 [공식]]]></title>
@@ -96,12 +112,44 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F14%2Fstarnews%2F20210914092401357cyzp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['수색자', '강철부대'·'D.P.'가 몰고온 밀리터리 콘텐츠 붐 이을까]]></title>
+            <link>https://movie.v.daum.net/v/20210914100132796</link>
+            <guid>https://movie.v.daum.net/v/20210914100132796</guid>
+            <pubDate>Tue, 14 Sep 2021 08:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자]올해 밀리터리 소재의 작품들이 대한민국을 사로잡은 가운데 예능 '강철부대', 넷플릭스 오리지널 'D.P.'에 이어 밀리터리 스릴러 '수색자'(김민섭 감독, 주식회사 케이필름 제작)가 9월 극장가를 찾아 기대를 모으고 있다. 최정예 특수부대 출신 예비역들이 팀을 이뤄각 부대의 명예를 걸고 싸우는 밀리터리 서바이벌 예능]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F14%2FSpoChosun%2F20210914100153997qyjp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[최희서X오다기리 죠 '당신은 믿지 않겠지만' 10월 개봉 [무비타이밍]]]></title>
             <link>https://movie.v.daum.net/v/20210913161625747</link>
             <guid>https://movie.v.daum.net/v/20210913161625747</guid>
             <pubDate>Tue, 14 Sep 2021 00:54:01 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='당신은 믿지 않겠지만'이시이 유야 감독의 신작 '당신은 믿지 않겠지만'이 10월 국내 개봉을 확정했다. '당신은 믿지 않겠지만'은 서로 다른 마음의 상처를 가진 일본과 한국의 가족이 서울에서 우연처럼 만나, 운명 같은 여정을 떠나는 힐링 미라클 드라마. 한국과 일본을 대표하는 배우 이케마츠 소스케, 최희서, 오다기리 죠,]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F13%2Fstarnews%2F20210913161626546kffc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[오스카 7관왕 '그래비티', '몰입감↑' 1차 예고편 공개]]></title>
+            <link>https://movie.v.daum.net/v/20210914141134556</link>
+            <guid>https://movie.v.daum.net/v/20210914141134556</guid>
+            <pubDate>Tue, 14 Sep 2021 08:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이서은 인턴기자) 영화 '그래비티'의 1차 예고편이 공개됐다.&nbsp; 14일 ‘체험형 시네마’라는 신드롬을 일으키며 많은 관객들의 인생 영화로 손꼽히는 영화 '그래비티'가 재개봉을 알리는 1차 예고편을 공개했다. '그래비티'는 우주망원경을 수리하던 라이언 스톤 박사와 맷 코왈스키 지휘관이 폭파된 인공위성의 잔해와 부딪히게 되면서 우주 한가운데 남]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F14%2Fxportsnews%2F20210914141136613nhuj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[마동석·서현 '거룩한 밤: 데몬 헌터스', 12일 크랭크업]]></title>
+            <link>https://movie.v.daum.net/v/20210914163003704</link>
+            <guid>https://movie.v.daum.net/v/20210914163003704</guid>
+            <pubDate>Tue, 14 Sep 2021 08:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 마동석과 주연 영화 '거룩한 밤: 데몬 헌터스'(감독 임대희)가 지난 12일 크랭크업했다. 14일 롯데엔터테인먼트에 따르면 '데몬 헌터스'는 3개월간의 대장정을 마치고 지난 12일 촬영을 끝냈다. '데몬 헌터스'는 악마를 사냥하는 어둠의 해결사 '거룩한 밤' 팀이 악을 숭배하는 집단에 맞서는 이야기를 그린 영화다. 이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F14%2FNEWS1%2F20210914163004642zwud.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[자숙 4년 만에 영화 '마지막 숙제'로 복귀한 엄태웅]]></title>
+            <link>https://movie.v.daum.net/v/20210914063356663</link>
+            <guid>https://movie.v.daum.net/v/20210914063356663</guid>
+            <pubDate>Tue, 14 Sep 2021 08:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[성매매 혐의로 벌금형을 선고받은 배우 엄태웅이 4년 만에 영화로 복귀한다. 엄태웅 소속사 스튜디오 산타클로스엔터테인먼트는 지난 13일 보도자료를 통해 “엄태웅이 영화 ‘마지막 숙제’에 출연한다”고 밝혔다. 마지막 숙제는 엔픽플·TS나린시네마의 ‘제1회 장편 상업 영화 공모전’ 당선작으로 이정철 감독이 연출을 맡았다. 영화는 2022년 개봉할 예정이다. 엄태]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F14%2Fkukminilbo%2F20210914063357290land.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['샹치', '블랙위도우' 넘었다..수익 1억달러 돌파 [DA:박스]]]></title>
@@ -112,60 +160,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F14%2Fsportsdonga%2F20210914085331840duja.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['킬빌'같은 핏빛 복수극 기대했다면.. 아쉬움 남긴 이 영화]]></title>
-            <link>https://movie.v.daum.net/v/20210913093902751</link>
-            <guid>https://movie.v.daum.net/v/20210913093902751</guid>
-            <pubDate>Tue, 14 Sep 2021 01:59:13 GMT</pubDate>
-            <content:encoded><![CDATA[[김준모 기자] ▲ &nbsp;&lt;케이트&gt; 포스터    ⓒ 넷플릭스  &nbsp;넷플릭스가 공개하는 오리지널 콘텐츠는 출연 배우와 감독, 원작이나 소재에 따라 기대감이 달라진다. 낮은 기대감의 작품은 좋지 못한 완성도에도 킬링타임으로의 매력을 느낄 수 있는 반면, 꽤나 기대감이 높은 작품의 경우 실망감을 느낄 확률이 높다. &lt;케이트&gt;는 후자에 해당하는 영화다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F13%2Fohmynews%2F20210913093903354ksdm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['듄' 티모시 샬라메→하비에르 바르뎀 한 영화에..레전드 라인업 포스터]]></title>
-            <link>https://movie.v.daum.net/v/20210914084408649</link>
-            <guid>https://movie.v.daum.net/v/20210914084408649</guid>
-            <pubDate>Tue, 14 Sep 2021 00:54:01 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 화려한 캐스팅 라인업을 자랑하는 ‘듄’의 9종 캐릭터 포스터가 공개됐다. 10월 개봉하는 영화 ‘듄’은 생명 유지 자원인 스파이스를 두고 아라키스 모래 행성 ‘듄’에서 악의 세력과 전쟁을 앞둔, 전 우주의 왕좌에 오를 운명으로 태어난 전설의 메시아 폴의 위대한 여정을 그린 작품이다. 동명의 원작은 전 세계 2000만부가 판매된 SF]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F14%2Fnewsen%2F20210914084408147tyyb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[베니스의 감동이 내 눈 앞에]]></title>
-            <link>https://movie.v.daum.net/v/20210914050713779</link>
-            <guid>https://movie.v.daum.net/v/20210914050713779</guid>
-            <pubDate>Tue, 14 Sep 2021 03:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[제78회 이탈리아 베니스영화제가 막을 내렸다. 국내 배급사들은 주목받은 영화들의 개봉을 앞두고 영화제를 지렛대 삼아 적극적인 홍보에 나서고 있다. 베니스영화제에서 작품성을 인정받은 만큼 이를 강조하는 모습이 뚜렷하다. 이번 영화제에서 가장 눈길을 끈 영화는 최고상인 황금사자상을 받은 ‘레벤망’이다. 프랑스 오드레 디완 감독의 영화는 1960년대를 배경으로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F14%2Fseoul%2F20210914050714392pyoi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['보이스' 100평대 건물주 김무열 "♥윤승아와 양양 생활? 반려견 병간호하느라.." [MD인터뷰③]]]></title>
-            <link>https://movie.v.daum.net/v/20210914120438775</link>
-            <guid>https://movie.v.daum.net/v/20210914120438775</guid>
-            <pubDate>Tue, 14 Sep 2021 05:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 영화 '보이스' 주역 김무열이 배우인 아내 윤승아에 대해 언급했다. 김무열은 14일 오전 화상 온라인 인터뷰를 진행했다. 내일(15일) 신작 '보이스' 개봉을 앞두며 이와 관련 다양한 에피소드들을 풀어냈다. '보이스'는 보이스피싱 조직의 덫에 걸려 모든 것을 잃게 된 서준(변요한)이 빼앗긴 돈을 되찾기 위해 중국에 있는 본거]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F14%2Fmydaily%2F20210914120439031ddbn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["아시아에서 독보적 존재 되고 싶다" 이 영화제의 암중모색]]></title>
-            <link>https://movie.v.daum.net/v/20210913135109898</link>
-            <guid>https://movie.v.daum.net/v/20210913135109898</guid>
-            <pubDate>Tue, 14 Sep 2021 07:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[[이선필 기자] &nbsp;        ▲ &nbsp;DMZ국제다큐먼터리영화제 김영우 프로그래머.    ⓒ DMZ국제다큐멘터리영화제  &nbsp;세상을 있는 그대로 바라보는 창, 혹은 이면의 진실을 힘 있게 파헤치는 도구로서 다큐멘터리는 오랜 시간 그 역할을 묵묵히 해왔다. 국내에서도 내로라하는 다큐멘터리만을 위한 축제가 꽤 있어왔고, 그중 DMZ다큐멘터리영화제의 성장세가 돋보이곤]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F13%2Fohmynews%2F20210913135110337nhpd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[조병규 '죽어도 다시 한번' 전격 컴백 [공식]]]></title>
-            <link>https://movie.v.daum.net/v/20210914143951061</link>
-            <guid>https://movie.v.daum.net/v/20210914143951061</guid>
-            <pubDate>Tue, 14 Sep 2021 07:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 배우 조병규가 학폭 논란 속에서 영화 ‘죽어도 다시 한번’(가제)으로 스크린 복귀를 시도한다. 14일 소속사 HB엔터테인먼트는 다수의 매체를 통해 “조병규가 영화 ‘죽어도 다시 한번’(가제)에 출연을 확정 지었다”고 알렸다.‘죽어도 다시 한번’(가제)은 배우가 꿈이었던 스턴트맨 전우석이 사고로 인해 고등학생 시절로 돌아가게 된 후, 꿈에 대]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F14%2Fsportskhan%2F20210914151214283kqmq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[조병규가 돌아온다..학폭 논란 딛고 영화 '죽어도 다시한번' 확정 [공식]]]></title>
-            <link>https://movie.v.daum.net/v/20210914134945525</link>
-            <guid>https://movie.v.daum.net/v/20210914134945525</guid>
-            <pubDate>Tue, 14 Sep 2021 07:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박소영 기자] 배우 조병규가 영화&nbsp;‘죽어도 다시 한번’(가제)에 출연을 확정 지었다. 엔픽플에서 투자배급하고&nbsp;TS나린시네마에서 제작하는 영화&nbsp;'죽어도 다시 한번'(가제)은 배우가 꿈이었던 스턴트맨 우석이 사고로 인해 고등학생 시절로 돌아가게 된 후,&nbsp;꿈에 대해 다시금 생각해 볼 수 있는 기회를 얻게 되는 이야기다.&nbsp;극 중 조병규는&nbsp;40대에서 한순]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F14%2Fpoctan%2F20210914134945801jdzx.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['유죄' 하정우, "자숙 없이 활동 강행" 노코멘트..마약 다룬 '수리남' 촬영 中 [MD이슈](종합)]]></title>
+            <link>https://movie.v.daum.net/v/20210914163201783</link>
+            <guid>https://movie.v.daum.net/v/20210914163201783</guid>
+            <pubDate>Tue, 14 Sep 2021 08:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 하정우(43·본명 김성훈)가 프로포폴 불법 투약 혐의에 대해 유죄 판결을 받았으나, 자숙기 없이 활동을 강행한다. 서울중앙지법 형사24단독(박설아 판사)은 14일 오후 1시 50분, 마약류 관리에 관한 법률 위반(향정) 등 혐의로 기소된 하정우의 1심 선고공판을 진행했다. 앞서 지난 2019년 1월부터 9월까지 하정우]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F14%2Fmydaily%2F20210914163201884lhmm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
