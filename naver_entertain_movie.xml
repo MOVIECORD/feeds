@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-14T11:14:11.280Z</updated>
+    <updated>2021-09-14T12:25:13.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마동석X서현 '거룩한 밤: 데몬 헌터스', 12일 크랭크업[공식]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004852567</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004852567"/>
+        <updated>2021-09-14T12:23:46.716Z</updated>
+        <content type="html"><![CDATA[마동석과 서현이 만난 '거룩한 밤: 데몬 헌터스'(감독 임대희)가 지난 12일 크랭크업했다. 14일 롯데엔터테인먼트에 따르면 '데몬 헌터스'는 3개월간의 대장정을 마치고 지난 12일 촬영을 끝냈다. '데몬 헌터스'는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["맘껏 웃고 울다 가세요"…'기적' 이장훈 감독 밝힌 #박정민X임윤아 #관전포인트 [MD인터뷰](종합)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003536486</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000933248"/>
         <updated>2021-09-14T08:17:43.541Z</updated>
         <content type="html"><![CDATA[배우 이완이 스크린에 6년 만에 돌아왔다. ‘김태희 동생’, ‘이보미 남편’ 같은 수식어를 덜어내고 ‘배우 이완’의 매력을 담담히 전했다. 복귀작은 영화 ‘영화의 거리’였다. ‘영화의 거리’는 영화 로케이션 매니저와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장태훈 주연 '그대 어이가리', 베를린국제예술영화제 본선 경쟁 진출]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001348209</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001348209"/>
-        <updated>2021-09-14T08:17:43.541Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김현정 기자) 배우 장태훈이 주연한 영화 '그대 어이가리, a song for my dear'가 오는 10월 개최되는 베를린국제예술영화제 본선 경쟁작으로 공식 초청됐다. '그대 어이가리'는 사회적 문제]]></content>
     </entry>
 </feed>
