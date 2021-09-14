@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-14T19:14:56.356Z</updated>
+    <updated>2021-09-14T20:16:40.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[초점]'넷플릭스 신드롬'?...OTT시장, 마니아층 공략 가속화]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010721306</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010721306"/>
+        <updated>2021-09-14T20:15:27.644Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 남정현 기자 = 안방극장에 온라인동영상서비스(OTT)들이 몰려온다. 디즈니플러스가 오는 11월 한국에서 서비스를 앞두고 있는 가운데, OTT 시장이 글로벌화와 함께 전문화·세분화되는 양상이다. 현재]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아시아콘텐츠&필름마켓서 선보일 원작 45편 선정]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000761838</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005603901"/>
         <updated>2021-09-14T08:17:43.515Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 방송인 하지영이 배우 김혜수가 14년째 자신을 챙겨준다며 고마움을 표했다. 하지영은 14일 자신의 인스타그램에 "언니 제가 처음(?)으로 인스타에 감사인사를 남겨요, 명절엔 집에 혼자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["나도 때려 죽이고픈 악역"…김무열 밝힌 #'보이스' #변요한과 호흡 #♥윤승아 [MD인터뷰](종합)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003536459</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003536459"/>
-        <updated>2021-09-14T08:17:43.515Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 김나라 기자] 배우 김무열이 영화 '보이스'의 강렬한 악역으로 추석 극장가를 휩쓸 전망이다. 김무열은 14일 오전 화상 온라인 인터뷰를 진행했다. 내일(15일) 신작 '보이스' 개봉을 앞두며 이와 관]]></content>
     </entry>
 </feed>
