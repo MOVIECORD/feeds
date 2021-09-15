@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-15T10:18:13.915Z</updated>
+    <updated>2021-09-15T11:14:13.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[POP초점]"봉준호 감독도 참석"..제26회 부국제, 코로나 시대 첫 정규 규모 행사(종합)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003477325</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003477325"/>
+        <updated>2021-09-15T11:12:42.246Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=천윤혜기자]봉준호 감독을 비롯한 해외 게스트들의 참석 속 제26회 부산국제영화제가 오프라인 행사로 개최된다. 15일 오후 제26회 부산국제영화제 개최 기자회견이 온라인으로 열렸다. 이날 기자회견에는 박]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[26th Busan International Film Festival puts focus on offline interaction]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000016348</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000016348"/>
+        <updated>2021-09-15T11:12:42.246Z</updated>
+        <content type="html"><![CDATA[The 26th Busan International Film Festival (BIFF) will focus on offline screenings and programs despite the prolonged Co]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[현장EN:]부국제, 정상 개최 예고…"100% 극장 상영·개막식 진행"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003553950</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005606918"/>
         <updated>2021-09-15T09:14:57.854Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 제26회 부산국제영화제 측이 개막식이 정상적으로 개최될 예정이라고 밝혔다. 해외 게스트 참석도 예년에 비해 소수지만 정상적으로 이뤄진다. 영화제 기간 미국, 유럽 등에서 오는 30여명]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[26th BIFF, 100% 극장 상영·개막식 정상 개최 "어느 해 보다 수준↑"[종합]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002989054</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002989054"/>
-        <updated>2021-09-15T09:14:57.858Z</updated>
-        <content type="html"><![CDATA[제26회 부산국제영화제가 100% 극장 상영과 함께 정상적인 행사 개최를 예고했다. 15일 오후 온라인을 통해 제26회 부산국제영화제 기자회견이 개최됐다. 이 자리에는 박형준 부산시장, 이용관 이사장, 허문영 집행위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[종합]"정상적 행사 이루어질 것"..'제26회 BIFF', 오프라인 개막식+100% 극장 상영 개최]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003477285</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003477285"/>
-        <updated>2021-09-15T09:14:57.860Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=천윤혜기자]제26회 부산국제영화제가 코로나 시국 속 방역수칙을 철저히 지키며 오프라인으로 개막식을 개최할 예정이다. 15일 오후 제26회 부산국제영화제 개최 기자회견이 온라인으로 열렸다. 박형준 부산시]]></content>
     </entry>
 </feed>
