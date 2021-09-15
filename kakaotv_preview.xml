@@ -4,9 +4,25 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Sep 2021 03:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 04:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<말리그넌트> 30초 스팟- 절찬 상영중]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/422350969?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/422350969?act=clip</guid>
+            <pubDate>Wed, 15 Sep 2021 04:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpzdpcn2tb6xggczfqm6idm1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188585924%26signature%3DBU0atzFFnb5%252BQCaI4lrAGu8v054%253D%26ts%3D1631677124" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<그래비티> [재개봉] 1차 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/422350886?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/422350886?act=clip</guid>
+            <pubDate>Wed, 15 Sep 2021 04:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:44]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F315216594%2Fthumb%2F20210915123417" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<공작조: 현애지상> 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/422349349?act=clip</link>
@@ -157,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/422303347?act=clip</guid>
             <pubDate>Mon, 13 Sep 2021 08:18:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv0ba3x4g75u2voebjofa48bm%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188429640%26signature%3DsszKdysIgYc5cOovmgAJ7IwUFlg%253D%26ts%3D1631520840" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv0ba3x4g75u2voebjofa48bm%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188429640%26signature%3DsszKdysIgYc5cOovmgAJ7IwUFlg%253D%26ts%3D1631520840" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<숏버스 기묘행> 메인 예고편]]></title>
@@ -165,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/422303276?act=clip</guid>
             <pubDate>Mon, 13 Sep 2021 08:18:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjkajlzu5q2ja2u5lswnxse8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188429414%26signature%3DDhcDMUH3qaLIEA3EwoiQyX4Ca%252B4%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjkajlzu5q2ja2u5lswnxse8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188429414%26signature%3DDhcDMUH3qaLIEA3EwoiQyX4Ca%252B4%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<숏버스 기묘행> 김시선투어 예고편 Short ver]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 10 Sep 2021 02:33:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:18]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpi4ayw27fost5vcp6x5xr6u%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188148280%26signature%3DrCorad5BUbx5our%252FmoiLz82mTRA%253D%26ts%3D1631239480" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<아-하: 테이크 온 미> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/422219241?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/422219241?act=clip</guid>
-            <pubDate>Fri, 10 Sep 2021 02:00:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:42]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdc1jr327yzrqe0f8mysoq34%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188147086%26signature%3D1uAA%252F4hrE77A0oGxyAznG4nx4WE%253D%26ts%3D1631238286" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<토베 얀손> 30초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/422219154?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/422219154?act=clip</guid>
-            <pubDate>Fri, 10 Sep 2021 02:00:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F319364057%2Fthumb%2F20210910103920" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
