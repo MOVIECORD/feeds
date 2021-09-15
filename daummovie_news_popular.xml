@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Sep 2021 16:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 19:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Fnocut%2F20210915142712583iekq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['수색자' 개구리 군복 좀 벗으십쇼 [편파적인 씨네리뷰]]]></title>
-            <link>https://movie.v.daum.net/v/20210915072202656</link>
-            <guid>https://movie.v.daum.net/v/20210915072202656</guid>
-            <pubDate>Tue, 14 Sep 2021 23:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] ■편파적인 씨네리뷰 : 지울 수 없는 옛날 느낌.우리가 ‘D.P.’조 활약에 눈이 높아진 걸까. 비슷한 소재인 군 내 가혹행위와 의문사에 대한 이야기를 담아내지만, 어쩐지 옛날 느낌을 지울 수 없다. 지금은 사라진 ‘개구리 군복’을 입은, 영화 ‘수색자’(감독 김민섭)다.‘수색자’는 파견 나온 교육장교 임소연 중위(도은비)가 사망한 뒤 의문]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Fsportskhan%2F20210915072203592rhgi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['모가디슈'·'싱크홀'·'인질', 극장가 이끈 텐트폴 영화 성적표 [ST이슈]]]></title>
             <link>https://movie.v.daum.net/v/20210915112403764</link>
             <guid>https://movie.v.daum.net/v/20210915112403764</guid>
             <pubDate>Wed, 15 Sep 2021 08:17:47 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠투데이 현혜선 기자] 2021년 여름 극장가는 텐트폴(영화사의 한 해 현금 흐름의 지지대 역할을 하는 핵심적인 상업 영화) 영화들의 활약으로 풍성했다. 코로나19 시국 2년째다. 극장을 찾는 관객들의 발길은 줄어들고, 설상가상 사회적 거리두기는 4단계로 격상되면서 극장가는 유례없는 위기를 맞았다. 이 가운데 여름 텐트폴 영화들이 극장을 찾았다. 한국]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Fsportstoday%2F20210915112404597komu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[마동석·서현·경수진 '거룩한 밤: 데몬 헌터스' 크랭크업 [공식]]]></title>
+            <link>https://movie.v.daum.net/v/20210914130845436</link>
+            <guid>https://movie.v.daum.net/v/20210914130845436</guid>
+            <pubDate>Wed, 15 Sep 2021 09:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 마동석·서현·경수진 ‘거룩한 밤: 데몬 헌터스’ 크랭크업 [공식] 마동석과 서현, 이다윗, 경수진, 정지소 등 신선한 캐스팅 조합과 새롭고 강렬한 이야기의 영화 ‘거룩한 밤: 데몬 헌터스’가 지난 9월 12일(일) 크랭크업했다. 악마를 사냥하는 어둠의 해결사 ‘거룩한 밤'팀이 악을 숭배하는 집단에 맞서는 이야기를 그린 ‘거룩한 밤: 데몬 헌]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F14%2Fsportsdonga%2F20210914130846928nsuv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[SC인터뷰] "98군번 운전병 출신, 軍복무 공감多"..송창의 10년만의 컴백 '수색자'에 쏟은 진심(종합)]]></title>
@@ -72,12 +72,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2FSpoChosun%2F20210915162053534hinn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[마동석·서현·경수진 '거룩한 밤: 데몬 헌터스' 크랭크업 [공식]]]></title>
-            <link>https://movie.v.daum.net/v/20210914130845436</link>
-            <guid>https://movie.v.daum.net/v/20210914130845436</guid>
+            <title><![CDATA['수색자' 개구리 군복 좀 벗으십쇼 [편파적인 씨네리뷰]]]></title>
+            <link>https://movie.v.daum.net/v/20210915072202656</link>
+            <guid>https://movie.v.daum.net/v/20210915072202656</guid>
+            <pubDate>Tue, 14 Sep 2021 23:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] ■편파적인 씨네리뷰 : 지울 수 없는 옛날 느낌.우리가 ‘D.P.’조 활약에 눈이 높아진 걸까. 비슷한 소재인 군 내 가혹행위와 의문사에 대한 이야기를 담아내지만, 어쩐지 옛날 느낌을 지울 수 없다. 지금은 사라진 ‘개구리 군복’을 입은, 영화 ‘수색자’(감독 김민섭)다.‘수색자’는 파견 나온 교육장교 임소연 중위(도은비)가 사망한 뒤 의문]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Fsportskhan%2F20210915072203592rhgi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['카시오페아' 안성기 X 서현진, 부녀로 맞추는 첫 호흡!]]></title>
+            <link>https://movie.v.daum.net/v/20210915150414590</link>
+            <guid>https://movie.v.daum.net/v/20210915150414590</guid>
             <pubDate>Wed, 15 Sep 2021 09:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 마동석·서현·경수진 ‘거룩한 밤: 데몬 헌터스’ 크랭크업 [공식] 마동석과 서현, 이다윗, 경수진, 정지소 등 신선한 캐스팅 조합과 새롭고 강렬한 이야기의 영화 ‘거룩한 밤: 데몬 헌터스’가 지난 9월 12일(일) 크랭크업했다. 악마를 사냥하는 어둠의 해결사 ‘거룩한 밤'팀이 악을 숭배하는 집단에 맞서는 이야기를 그린 ‘거룩한 밤: 데몬 헌]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F14%2Fsportsdonga%2F20210914130846928nsuv.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[안성기, 서현진의 가장 완벽하고 아름다운 캐스팅으로 이목을 집중시키는 ‘카시오페아’가 지난 9/9(목) 크랭크인했다.  [제목: 카시오페아 | 감독: 신연식 | 출연: 안성기, 서현진, 주예림 | 제작: ㈜루스이소니도스 | 공동제작: 주식회사 프레임 콘텐츠 | 배급: ㈜트리플픽쳐스] 국민 배우 안성기, 대체불가 존재감의 배우 서현진과 신연식 감독의 가장]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2FiMBC%2F20210915150417698itez.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[공식] '귀멸의 칼날' 스페셜 극장판 첫번째 '귀멸의 칼날: 남매의 연' 10월 20일 개봉 확정]]></title>
@@ -96,14 +104,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Fohmynews%2F20210915105403115hcwr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['카시오페아' 안성기 X 서현진, 부녀로 맞추는 첫 호흡!]]></title>
-            <link>https://movie.v.daum.net/v/20210915150414590</link>
-            <guid>https://movie.v.daum.net/v/20210915150414590</guid>
-            <pubDate>Wed, 15 Sep 2021 09:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[안성기, 서현진의 가장 완벽하고 아름다운 캐스팅으로 이목을 집중시키는 ‘카시오페아’가 지난 9/9(목) 크랭크인했다.  [제목: 카시오페아 | 감독: 신연식 | 출연: 안성기, 서현진, 주예림 | 제작: ㈜루스이소니도스 | 공동제작: 주식회사 프레임 콘텐츠 | 배급: ㈜트리플픽쳐스] 국민 배우 안성기, 대체불가 존재감의 배우 서현진과 신연식 감독의 가장]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2FiMBC%2F20210915150417698itez.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[쓰레기 밀려오는 해안, 그곳에서 추억을 쌓는 아이]]></title>
             <link>https://movie.v.daum.net/v/20210915094500688</link>
             <guid>https://movie.v.daum.net/v/20210915094500688</guid>
@@ -112,20 +112,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Fohmynews%2F20210915094502471aqec.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["송해 95년 인생 속터뷰"..'송해 1927', 11월 개봉 확정 [공식]]]></title>
-            <link>https://movie.v.daum.net/v/20210915090203819</link>
-            <guid>https://movie.v.daum.net/v/20210915090203819</guid>
-            <pubDate>Wed, 15 Sep 2021 00:49:17 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] '국민 MC' 송해의 다큐멘터리 영화 '송해 1927'이 오는 11월 개봉한다. '송해 1927'은 한 평생 전 국민과 희로애락을 함께 한 1927년생 최고령 현역 연예인 송해의 무대 아래 숨겨진 라이프 비하인드스토리를 담은 영화. 약 33년간 KBS 1TV '전국노래자랑' MC를 통해 온 국민과 희로애락을 함께 나누며 ']]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Fmydaily%2F20210915090203637lyqk.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[빅스 혁·AOA 찬미 '색다른 그녀' 10월 개봉 확정]]></title>
             <link>https://movie.v.daum.net/v/20210915104024306</link>
             <guid>https://movie.v.daum.net/v/20210915104024306</guid>
             <pubDate>Wed, 15 Sep 2021 13:21:56 GMT</pubDate>
             <content:encoded><![CDATA[[동아닷컴] 빅스 혁·AOA 찬미 ‘색다른 그녀’ 10월 개봉 확정 개성 넘치는 남녀들의 이색 로맨틱 코미디 ‘색다른 그녀’가 10월 개봉을 확정 짓고 보도 스틸을 공개했다. 여자친구 ‘지연’과 결혼을 약속하고 미래를 꿈꾸던 완벽한 남자 ‘완준’에게 남모를 비밀이 생기고 이를 ‘예리’에게 들키면서 벌어지는 로맨틱 코미디 ‘색다른 그녀’가 10월 개봉을 확]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Fsportsdonga%2F20210915104028241uzac.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["송해 95년 인생 속터뷰"..'송해 1927', 11월 개봉 확정 [공식]]]></title>
+            <link>https://movie.v.daum.net/v/20210915090203819</link>
+            <guid>https://movie.v.daum.net/v/20210915090203819</guid>
+            <pubDate>Wed, 15 Sep 2021 00:49:17 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] '국민 MC' 송해의 다큐멘터리 영화 '송해 1927'이 오는 11월 개봉한다. '송해 1927'은 한 평생 전 국민과 희로애락을 함께 한 1927년생 최고령 현역 연예인 송해의 무대 아래 숨겨진 라이프 비하인드스토리를 담은 영화. 약 33년간 KBS 1TV '전국노래자랑' MC를 통해 온 국민과 희로애락을 함께 나누며 ']]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Fmydaily%2F20210915090203637lyqk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['보이스' 김무열, '베테랑' 유아인·'범죄도시' 윤계상 잇는 악역 될까]]></title>
@@ -160,12 +160,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Fohmynews%2F20210915095409046yofw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['기적' 25.9% vs '보이스' 22.3%, 추석 극장가 韓영화 맞대결 [종합]]]></title>
-            <link>https://movie.v.daum.net/v/20210915084727343</link>
-            <guid>https://movie.v.daum.net/v/20210915084727343</guid>
-            <pubDate>Wed, 15 Sep 2021 01:58:27 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 박정민과 임윤아 주연 영화 '기적'과 변요한 김무열 주연 영화 '보이스'가 추석 극장가에서 1위 격돌을 할 전망이다. 15일 오전8시 기준 영진위 예매율 집계에 따르면 이날 개봉하는 '기적'은 25.9%로 1위, '보이스'는 22.3%로 2위를 기록 중이다. 12.7%로 3위인 '해리포터와 마법사의 돌'이 재개봉작인 만큼, 사실상]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Fstarnews%2F20210915084728233fjwn.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[26회 부산영화제] 봉준호 감독, 하마구치 류스케 감독과 특별 대담]]></title>
+            <link>https://movie.v.daum.net/v/20210915170233025</link>
+            <guid>https://movie.v.daum.net/v/20210915170233025</guid>
+            <pubDate>Wed, 15 Sep 2021 19:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[봉준호 감독이 부산국제영화제를 찾는다. 15일 진행된 제26회 부산국제영화제 온라인 기자회견에서 남동철 프로그래머는 "봉준호 감독이 하마구치 류스케 감독과 함께 스페셜 토크에 참석한다"고 전했다. 봉 감독은 '갈라 프레젠테이션' 섹션에 초청된 '드라이브 마이 카', '우연과 상상'의 하마구치 류스케 감독과의 특별한 인연으로 이번 영화제에 참석하게 됐다]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Filgansports%2F20210915170238937rrcy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
