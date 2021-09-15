@@ -4,9 +4,25 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Sep 2021 07:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 08:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<F20> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/422356391?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/422356391?act=clip</guid>
+            <pubDate>Wed, 15 Sep 2021 08:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:40]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgm74vyn3jynudmwnyl0nzgz%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188599719%26signature%3Dfnr4zCns0IEFYZV2RJmwJwUm8UM%253D" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<십개월의 미래> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/422356287?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/422356287?act=clip</guid>
+            <pubDate>Wed, 15 Sep 2021 08:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv36decoqp99asse1zvh5md8a%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188599522%26signature%3D54F4oq8OUNc1gQ%252FmohZ7dOxdfEw%253D%26ts%3D1631690722" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<수색자> 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/422354832?act=clip</link>
@@ -157,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/422323081?act=clip</guid>
             <pubDate>Tue, 14 Sep 2021 05:14:21 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F585220677%2Fthumb%2F20210914123419" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F585220677%2Fthumb%2F20210914123419" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<당신얼굴 앞에서> 티저 예고편]]></title>
@@ -165,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/422323033?act=clip</guid>
             <pubDate>Tue, 14 Sep 2021 05:14:21 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:32]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvabj48onkrvnll8p4ieov28i%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188499071%26signature%3DS%252Fucf8JNJKsfHDSNqD6COeTrEDI%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvabj48onkrvnll8p4ieov28i%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188499071%26signature%3DS%252Fucf8JNJKsfHDSNqD6COeTrEDI%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<로빈의 소원> 스페셜 예고편]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 13 Sep 2021 02:32:19 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:10]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwepk7wjzdv5snvkdfeq75ov%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188407854%26signature%3DahWi%252BIUpKFOEvPNFeRGX9KO8iFo%253D%26ts%3D1631499054" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<나의 흑역사 로맨티카> 30초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/422294008?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/422294008?act=clip</guid>
-            <pubDate>Mon, 13 Sep 2021 02:32:19 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfwkvy1mop3woxyn69vbkp16%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188407693%26signature%3DF5NdMzz8aNO%252F7MnPCk7ID2mevCY%253D%26ts%3D1631498893" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<뱅드림! 로젤리아 에피소드Ⅱ: 송 아이 엠> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/422293873?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/422293873?act=clip</guid>
-            <pubDate>Mon, 13 Sep 2021 02:32:19 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmap58i83eyj88lxfbi57ilu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188407387%26signature%3DNv7wTA1ey2IzLY1gWpePZ05%252BzHc%253D%26ts%3D1631498587" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
