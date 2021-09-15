@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Sep 2021 19:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 20:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -391,14 +391,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F074ad2158c014e8323fd06420272f5c5d3af884f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[리벤저스 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138367</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138367</guid>
-            <pubDate>Mon, 13 Sep 2021 23:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fefbef3ebddeafa8e76813cb37ca3e652b93d770d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[데드캠프: 리부트 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=147038</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=147038</guid>
@@ -503,6 +495,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F045ca3456d707a1d649764f7defb25d3ad4d5ad9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[스쿨 아웃 포에버 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152788</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152788</guid>
+            <pubDate>Wed, 15 Sep 2021 20:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F89017140c3aeb4423afc39cf869f7b4166442b9b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA['송해 1927' 송해 95년 인생의 희노애락, 영화로 풀었다 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210915150613699</link>
             <guid>https://movie.v.daum.net/v/20210915150613699</guid>
@@ -543,14 +543,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Fnocut%2F20210915142712583iekq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['모가디슈'·'싱크홀'·'인질', 극장가 이끈 텐트폴 영화 성적표 [ST이슈] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210915112403764</link>
-            <guid>https://movie.v.daum.net/v/20210915112403764</guid>
-            <pubDate>Wed, 15 Sep 2021 08:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 현혜선 기자] 2021년 여름 극장가는 텐트폴(영화사의 한 해 현금 흐름의 지지대 역할을 하는 핵심적인 상업 영화) 영화들의 활약으로 풍성했다. 코로나19 시국 2년째다. 극장을 찾는 관객들의 발길은 줄어들고, 설상가상 사회적 거리두기는 4단계로 격상되면서 극장가는 유례없는 위기를 맞았다. 이 가운데 여름 텐트폴 영화들이 극장을 찾았다. 한국]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Fsportstoday%2F20210915112404597komu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[마동석·서현·경수진 '거룩한 밤: 데몬 헌터스' 크랭크업 [공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210914130845436</link>
             <guid>https://movie.v.daum.net/v/20210914130845436</guid>
@@ -567,12 +559,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2FSpoChosun%2F20210915162053534hinn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['수색자' 개구리 군복 좀 벗으십쇼 [편파적인 씨네리뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210915072202656</link>
-            <guid>https://movie.v.daum.net/v/20210915072202656</guid>
-            <pubDate>Tue, 14 Sep 2021 23:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] ■편파적인 씨네리뷰 : 지울 수 없는 옛날 느낌.우리가 ‘D.P.’조 활약에 눈이 높아진 걸까. 비슷한 소재인 군 내 가혹행위와 의문사에 대한 이야기를 담아내지만, 어쩐지 옛날 느낌을 지울 수 없다. 지금은 사라진 ‘개구리 군복’을 입은, 영화 ‘수색자’(감독 김민섭)다.‘수색자’는 파견 나온 교육장교 임소연 중위(도은비)가 사망한 뒤 의문]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Fsportskhan%2F20210915072203592rhgi.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['모가디슈'·'싱크홀'·'인질', 극장가 이끈 텐트폴 영화 성적표 [ST이슈] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210915112403764</link>
+            <guid>https://movie.v.daum.net/v/20210915112403764</guid>
+            <pubDate>Wed, 15 Sep 2021 08:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 현혜선 기자] 2021년 여름 극장가는 텐트폴(영화사의 한 해 현금 흐름의 지지대 역할을 하는 핵심적인 상업 영화) 영화들의 활약으로 풍성했다. 코로나19 시국 2년째다. 극장을 찾는 관객들의 발길은 줄어들고, 설상가상 사회적 거리두기는 4단계로 격상되면서 극장가는 유례없는 위기를 맞았다. 이 가운데 여름 텐트폴 영화들이 극장을 찾았다. 한국]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Fsportstoday%2F20210915112404597komu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['카시오페아' 안성기 X 서현진, 부녀로 맞추는 첫 호흡! (다음영화 뉴스 ─ 인기)]]></title>
@@ -583,12 +575,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2FiMBC%2F20210915150417698itez.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[공식] '귀멸의 칼날' 스페셜 극장판 첫번째 '귀멸의 칼날: 남매의 연' 10월 20일 개봉 확정 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210915084844374</link>
-            <guid>https://movie.v.daum.net/v/20210915084844374</guid>
-            <pubDate>Wed, 15 Sep 2021 00:49:17 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 전 세계적 흥행 신드롬을 일으킨 '귀멸의 칼날'의 스페셜 극장판 중 첫 번째 시리즈 애니메이션 '귀멸의 칼날: 남매의 연'(소토자키 하루오 감독)이 오는 10월 20일로 개봉일을 확정했다. 독보적 감성을 자랑하는 서정적인 연출과 작화 퀄리티, 원작 바탕의 탄탄한 서사, 그리고 보는 이들의 가슴을 뭉클하게 할 가족애까]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2FSpoChosun%2F20210915084844867nhji.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['수색자' 개구리 군복 좀 벗으십쇼 [편파적인 씨네리뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210915072202656</link>
+            <guid>https://movie.v.daum.net/v/20210915072202656</guid>
+            <pubDate>Tue, 14 Sep 2021 23:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] ■편파적인 씨네리뷰 : 지울 수 없는 옛날 느낌.우리가 ‘D.P.’조 활약에 눈이 높아진 걸까. 비슷한 소재인 군 내 가혹행위와 의문사에 대한 이야기를 담아내지만, 어쩐지 옛날 느낌을 지울 수 없다. 지금은 사라진 ‘개구리 군복’을 입은, 영화 ‘수색자’(감독 김민섭)다.‘수색자’는 파견 나온 교육장교 임소연 중위(도은비)가 사망한 뒤 의문]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Fsportskhan%2F20210915072203592rhgi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[톱스타와 팬 연결해준 '불행 배틀 게임' (다음영화 뉴스 ─ 인기)]]></title>
@@ -605,6 +597,14 @@
             <pubDate>Wed, 15 Sep 2021 09:15:22 GMT</pubDate>
             <content:encoded><![CDATA[[김성호 기자] 영화를 보고 나면 마치 영화 속 배경으로 여행을 떠났다가 돌아온 듯한 기분이 들 때가 있다. 그것이 다큐멘터리라면, 어느 바닷가 마을에서 찍은 다큐멘터리라면 더욱 그렇다. 필리핀 다큐멘터리 &lt;바다에서 마지막 날들&gt;을 보고 나오는데 내 앞의 어느 관객이 곁에 선 친구에게 말했다. "필리핀 바닷가에 다녀온 것 같아" 하고. 이 영화는 바로 그런]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Fohmynews%2F20210915094502471aqec.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식] '귀멸의 칼날' 스페셜 극장판 첫번째 '귀멸의 칼날: 남매의 연' 10월 20일 개봉 확정 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210915084844374</link>
+            <guid>https://movie.v.daum.net/v/20210915084844374</guid>
+            <pubDate>Wed, 15 Sep 2021 00:49:17 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 전 세계적 흥행 신드롬을 일으킨 '귀멸의 칼날'의 스페셜 극장판 중 첫 번째 시리즈 애니메이션 '귀멸의 칼날: 남매의 연'(소토자키 하루오 감독)이 오는 10월 20일로 개봉일을 확정했다. 독보적 감성을 자랑하는 서정적인 연출과 작화 퀄리티, 원작 바탕의 탄탄한 서사, 그리고 보는 이들의 가슴을 뭉클하게 할 가족애까]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2FSpoChosun%2F20210915084844867nhji.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[빅스 혁·AOA 찬미 '색다른 그녀' 10월 개봉 확정 (다음영화 뉴스 ─ 인기)]]></title>
@@ -995,7 +995,7 @@
             <link>https://tv.naver.com/v/22467674</link>
             <guid>https://tv.naver.com/v/22467674</guid>
             <pubDate>Wed, 15 Sep 2021 08:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210915_141/7jBZb_1631693756640xJURW_JPEG/16398472-15fd-11ec-8e61-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1003,7 +1003,7 @@
             <link>https://tv.naver.com/v/22467647</link>
             <guid>https://tv.naver.com/v/22467647</guid>
             <pubDate>Wed, 15 Sep 2021 08:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210915_171/WS2B0_1631693718642Madnl_JPEG/f89244ee-15fc-11ec-bf57-246e963a4708_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1011,7 +1011,7 @@
             <link>https://tv.naver.com/v/22462012</link>
             <guid>https://tv.naver.com/v/22462012</guid>
             <pubDate>Wed, 15 Sep 2021 05:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210915_153/Gu42u_1631680700193UoPNj_JPEG/701610e9-15de-11ec-b6bf-48df379cc9e4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1019,7 +1019,7 @@
             <link>https://tv.naver.com/v/22458873</link>
             <guid>https://tv.naver.com/v/22458873</guid>
             <pubDate>Wed, 15 Sep 2021 01:58:51 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210915_213/Ukkq9_16316695431314LlDG_JPEG/b35491b6-15c4-11ec-8c9c-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1027,7 +1027,7 @@
             <link>https://tv.naver.com/v/22458341</link>
             <guid>https://tv.naver.com/v/22458341</guid>
             <pubDate>Wed, 15 Sep 2021 01:58:51 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210915_172/6cpg1_1631667710914bTjHa_JPEG/50861025-15c0-11ec-882d-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1035,7 +1035,7 @@
             <link>https://tv.naver.com/v/22458294</link>
             <guid>https://tv.naver.com/v/22458294</guid>
             <pubDate>Wed, 15 Sep 2021 01:58:51 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210915_66/pJGDc_1631667509755HfK2U_JPEG/ce4aad30-15bf-11ec-b835-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1043,7 +1043,7 @@
             <link>https://tv.naver.com/v/22458226</link>
             <guid>https://tv.naver.com/v/22458226</guid>
             <pubDate>Wed, 15 Sep 2021 01:58:51 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210915_65/FVhPV_1631667276360zUsf6_JPEG/06531ece-15bf-11ec-8678-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1051,7 +1051,7 @@
             <link>https://tv.naver.com/v/22458119</link>
             <guid>https://tv.naver.com/v/22458119</guid>
             <pubDate>Wed, 15 Sep 2021 00:49:47 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210915_296/R4Kso_1631666909384M1HKg_JPEG/0d156c0b-15be-11ec-a72a-246e963a464c_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>

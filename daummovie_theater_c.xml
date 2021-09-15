@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Sep 2021 19:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 20:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Thu, 09 Sep 2021 00:51:10 GMT</pubDate>
             <content:encoded><![CDATA[21.09.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F074ad2158c014e8323fd06420272f5c5d3af884f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[리벤저스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138367</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138367</guid>
-            <pubDate>Mon, 13 Sep 2021 23:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fefbef3ebddeafa8e76813cb37ca3e652b93d770d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[데드캠프: 리부트]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Tue, 14 Sep 2021 23:15:10 GMT</pubDate>
             <content:encoded><![CDATA[21.09.29]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F045ca3456d707a1d649764f7defb25d3ad4d5ad9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스쿨 아웃 포에버]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152788</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152788</guid>
+            <pubDate>Wed, 15 Sep 2021 20:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F89017140c3aeb4423afc39cf869f7b4166442b9b" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
