@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-15T15:17:30.138Z</updated>
+    <updated>2021-09-15T16:21:22.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤여정, 타임지 '가장 영향력 있는 100인'…바이든·시진핑도]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010723957</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010723957"/>
+        <updated>2021-09-15T16:19:59.492Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 타임, 2021년 세계에서 가장 영향력 있는 100인 선정 탈레반 공동창립자·영국 해리왕자 부부·팀 쿡 등도 포함 [런던=뉴시스]이지예 기자 = 배우 윤여정이 미국 시사 주간지 타임이 선정하는 올해 세]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤여정, 美 타임 '세계서 가장 영향력 있는 100인' 영예]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005038549</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000319253"/>
         <updated>2021-09-15T09:14:57.842Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]영화 '보이스'의 배우 이주영이 가까운 친척들이 겪었던 보이스피싱 피해 경험을 귀띔하며 온 가족들을 데리고 극장에 가겠다고 단언했다. 이주영은 영화 '보이스'(감독 김선 김곡) 개봉일인 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봉준호 감독, 부국제 찾는다…하마구치 류스케 감독과 특별대담]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005038446</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005038446"/>
-        <updated>2021-09-15T09:14:57.842Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 박미애 기자] 봉준호 감독이 부산국제영화제를 찾는다. 15일 오후 제26회 부산국제영화제 기자회견이 온라인으로 진행됐다. 영화제 측은 이날 기자회견에서 봉준호 감독의 참석을 알렸다. 남동철 수석]]></content>
     </entry>
 </feed>
