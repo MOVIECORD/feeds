@@ -4,17 +4,9 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Sep 2021 06:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 07:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[공식] '귀멸의 칼날' 스페셜 극장판 첫번째 '귀멸의 칼날: 남매의 연' 10월 20일 개봉 확정]]></title>
-            <link>https://movie.v.daum.net/v/20210915084844374</link>
-            <guid>https://movie.v.daum.net/v/20210915084844374</guid>
-            <pubDate>Wed, 15 Sep 2021 00:49:17 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 전 세계적 흥행 신드롬을 일으킨 '귀멸의 칼날'의 스페셜 극장판 중 첫 번째 시리즈 애니메이션 '귀멸의 칼날: 남매의 연'(소토자키 하루오 감독)이 오는 10월 20일로 개봉일을 확정했다. 독보적 감성을 자랑하는 서정적인 연출과 작화 퀄리티, 원작 바탕의 탄탄한 서사, 그리고 보는 이들의 가슴을 뭉클하게 할 가족애까]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2FSpoChosun%2F20210915084844867nhji.jpg" length="0" type="image//thumb/S732x228/"/>
-        </item>
         <item>
             <title><![CDATA['수색자' 개구리 군복 좀 벗으십쇼 [편파적인 씨네리뷰]]]></title>
             <link>https://movie.v.daum.net/v/20210915072202656</link>
@@ -22,6 +14,14 @@
             <pubDate>Tue, 14 Sep 2021 23:15:18 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠경향] ■편파적인 씨네리뷰 : 지울 수 없는 옛날 느낌.우리가 ‘D.P.’조 활약에 눈이 높아진 걸까. 비슷한 소재인 군 내 가혹행위와 의문사에 대한 이야기를 담아내지만, 어쩐지 옛날 느낌을 지울 수 없다. 지금은 사라진 ‘개구리 군복’을 입은, 영화 ‘수색자’(감독 김민섭)다.‘수색자’는 파견 나온 교육장교 임소연 중위(도은비)가 사망한 뒤 의문]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Fsportskhan%2F20210915072203592rhgi.jpg" length="0" type="image//thumb/S732x228/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식] '귀멸의 칼날' 스페셜 극장판 첫번째 '귀멸의 칼날: 남매의 연' 10월 20일 개봉 확정]]></title>
+            <link>https://movie.v.daum.net/v/20210915084844374</link>
+            <guid>https://movie.v.daum.net/v/20210915084844374</guid>
+            <pubDate>Wed, 15 Sep 2021 00:49:17 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 전 세계적 흥행 신드롬을 일으킨 '귀멸의 칼날'의 스페셜 극장판 중 첫 번째 시리즈 애니메이션 '귀멸의 칼날: 남매의 연'(소토자키 하루오 감독)이 오는 10월 20일로 개봉일을 확정했다. 독보적 감성을 자랑하는 서정적인 연출과 작화 퀄리티, 원작 바탕의 탄탄한 서사, 그리고 보는 이들의 가슴을 뭉클하게 할 가족애까]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2FSpoChosun%2F20210915084844867nhji.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
             <title><![CDATA["송해 95년 인생 속터뷰"..'송해 1927', 11월 개봉 확정 [공식]]]></title>
@@ -88,12 +88,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F14%2Fmunhwa%2F20210914111048401sdxp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[보이스피싱 수화기 뒤편..거대 범죄조직 파헤치다]]></title>
+            <link>https://movie.v.daum.net/v/20210913182607093</link>
+            <guid>https://movie.v.daum.net/v/20210913182607093</guid>
+            <pubDate>Wed, 15 Sep 2021 06:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[추석 연휴를 앞두고 선물 배송 확인이나 ‘코로나 상생 국민지원금’ 등을 사칭한 스미싱(보이스피싱)이 기승을 부리고 있다. 정부는 이에 따른 국민 피해가 발생하지 않도록 스미싱 모니터링과 사이버 범죄 단속 강화 등을 중점적으로 할 계획이라고 밝혔다. “대한민국에 만연한 범죄인 보이스피싱을 디테일하게 보여주려고 노력했다. 수법이나 사기 전략을 잘 연구하고 녹]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F14%2Fhani%2F20210914094604279zceq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[오늘(15일) 개봉 '보이스' 전세대 필람무비 추천 이유]]></title>
             <link>https://movie.v.daum.net/v/20210915093803356</link>
             <guid>https://movie.v.daum.net/v/20210915093803356</guid>
             <pubDate>Wed, 15 Sep 2021 04:19:51 GMT</pubDate>
             <content:encoded><![CDATA[보이스피싱 세계가 열린다. 영화 '보이스(김선·김곡 감독)'가 반드시 관람해야 할 추천 포인트를 공개했다. 첫 번째 추천 포인트는 바로 거대하고 치밀한 보이스피싱을 리얼하게 담아냈다는 점이다. 김선, 김곡 감독과 '보이스' 제작사는 대한민국 누구나 한번쯤 들어봤지만, 누구도 그 실체에 대해 제대로 알지 못하는 보이스피싱을 리얼하게 파헤치고 관객에게 전]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Filgansports%2F20210915093805070bfms.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[서현진 출연확정, 안성기와 '카시오페아' [공식]]]></title>
+            <link>https://movie.v.daum.net/v/20210915113142244</link>
+            <guid>https://movie.v.daum.net/v/20210915113142244</guid>
+            <pubDate>Wed, 15 Sep 2021 04:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 서현진 출연확정, 안성기와 ‘카시오페아’ [공식] 배우 서현진의 영화 출연확정 소식이 전해졌다. 안성기와 함께하는 영화 ‘카시오페아’가 본격 크랭크인한 것. 국민 배우 안성기, 대체불가 존재감의 배우 서현진과 신연식 감독의 가장 완벽하고 아름다운 만남이 화제를 모으고 있는 영화 ‘카시오페아’가 지난 9월 9일(목) 크랭크인 하며 촬영에 돌입했]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Fsportsdonga%2F20210915113144082xplk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[빅스 혁·장성윤·AOA 찬미, 로맨틱 코미디 '색다른 그녀'로 뭉친다 [공식]]]></title>
+            <link>https://movie.v.daum.net/v/20210915091923491</link>
+            <guid>https://movie.v.daum.net/v/20210915091923491</guid>
+            <pubDate>Wed, 15 Sep 2021 03:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 개성 넘치는 남녀들의 이색 로맨틱 코미디 '색다른 그녀'가 오는 10월 개봉을 확정 짓고 보도 스틸을 공개했다. 여자친구 지연과 결혼을 약속하고 미래를 꿈꾸던 완벽한 남자 완준에게 남모를 비밀이 생기고 이를 예리에게 들키면서 벌어지는 로맨틱 코미디 '색다른 그녀'가 오는 10월 개봉을 확정하고 보도 스틸을 공개했다. 영화 ']]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Fmydaily%2F20210915091923660qstl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['학폭 논란' 조병규, 영화 '죽어도 다시 한번'으로 복귀 (공식)]]></title>
@@ -112,20 +136,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F14%2Fxportsnews%2F20210914141136613nhuj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[빅스 혁·장성윤·AOA 찬미, 로맨틱 코미디 '색다른 그녀'로 뭉친다 [공식]]]></title>
-            <link>https://movie.v.daum.net/v/20210915091923491</link>
-            <guid>https://movie.v.daum.net/v/20210915091923491</guid>
-            <pubDate>Wed, 15 Sep 2021 03:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 개성 넘치는 남녀들의 이색 로맨틱 코미디 '색다른 그녀'가 오는 10월 개봉을 확정 짓고 보도 스틸을 공개했다. 여자친구 지연과 결혼을 약속하고 미래를 꿈꾸던 완벽한 남자 완준에게 남모를 비밀이 생기고 이를 예리에게 들키면서 벌어지는 로맨틱 코미디 '색다른 그녀'가 오는 10월 개봉을 확정하고 보도 스틸을 공개했다. 영화 ']]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Fmydaily%2F20210915091923660qstl.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[서현진 출연확정, 안성기와 '카시오페아' [공식]]]></title>
-            <link>https://movie.v.daum.net/v/20210915113142244</link>
-            <guid>https://movie.v.daum.net/v/20210915113142244</guid>
-            <pubDate>Wed, 15 Sep 2021 04:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 서현진 출연확정, 안성기와 ‘카시오페아’ [공식] 배우 서현진의 영화 출연확정 소식이 전해졌다. 안성기와 함께하는 영화 ‘카시오페아’가 본격 크랭크인한 것. 국민 배우 안성기, 대체불가 존재감의 배우 서현진과 신연식 감독의 가장 완벽하고 아름다운 만남이 화제를 모으고 있는 영화 ‘카시오페아’가 지난 9월 9일(목) 크랭크인 하며 촬영에 돌입했]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Fsportsdonga%2F20210915113144082xplk.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[무엇을 상상해도, 그 이상을 만나는 '기적' [쿡리뷰]]]></title>
+            <link>https://movie.v.daum.net/v/20210915060302742</link>
+            <guid>https://movie.v.daum.net/v/20210915060302742</guid>
+            <pubDate>Wed, 15 Sep 2021 07:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[[쿠키뉴스] 이준범 기자 = 1980년대, 수학 천재, 기차역. 공개된 제목과 짧은 영화 소개, 예고편으로 알 수 있는 건 이 몇 가지가 전부다. 사람 냄새 나고 과거를 떠올리게 하는 감동적인 그저 그런 한국 영화 한편이 쉽게 그려진다. 영화 ‘기적’(감독 이장훈)은 관객의 삐딱한 예상과 높은 눈높이를 손쉽게 뛰어넘는다. 예상치 못한 지점에서 새로운 이야]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Fkukinews%2F20210915060303780emaj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['수색자', '강철부대'·'D.P.'가 몰고온 밀리터리 콘텐츠 붐 이을까]]></title>
@@ -136,28 +152,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F14%2FSpoChosun%2F20210914100153997qyjp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[보이스피싱 수화기 뒤편..거대 범죄조직 파헤치다]]></title>
-            <link>https://movie.v.daum.net/v/20210913182607093</link>
-            <guid>https://movie.v.daum.net/v/20210913182607093</guid>
-            <pubDate>Wed, 15 Sep 2021 06:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[추석 연휴를 앞두고 선물 배송 확인이나 ‘코로나 상생 국민지원금’ 등을 사칭한 스미싱(보이스피싱)이 기승을 부리고 있다. 정부는 이에 따른 국민 피해가 발생하지 않도록 스미싱 모니터링과 사이버 범죄 단속 강화 등을 중점적으로 할 계획이라고 밝혔다. “대한민국에 만연한 범죄인 보이스피싱을 디테일하게 보여주려고 노력했다. 수법이나 사기 전략을 잘 연구하고 녹]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F14%2Fhani%2F20210914094604279zceq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[456억 건 서바이벌 '오징어게임' "신선하고 놀라운 재미" [종합]]]></title>
-            <link>https://movie.v.daum.net/v/20210915121755927</link>
-            <guid>https://movie.v.daum.net/v/20210915121755927</guid>
-            <pubDate>Wed, 15 Sep 2021 05:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 456억원을 놓고 목숨을 걸고 하는 게임, '오징어게임'이 공개를 앞두고 기대를 키웠다. 15일 넷플릭스 오리지널 시리즈 '오징어게임' 온라인 제작발표회가 열렸다. '오징어 게임'은 456억 원의 상금이 걸린 의문의 서바이벌에 참가한 사람들이 최후의 승자가 되기 위해 목숨을 걸고 극한의 게임에 도전하는 이야기. '남한산성' '수상]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Fstarnews%2F20210915121757010grkq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[송창의 "'동상이몽2', 가족 노출 부담돼 고민 많았지만 출연하길 잘했다" [MD인터뷰③]]]></title>
-            <link>https://movie.v.daum.net/v/20210915110247593</link>
-            <guid>https://movie.v.daum.net/v/20210915110247593</guid>
-            <pubDate>Wed, 15 Sep 2021 06:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 배우 송창의가 SBS '동상이몽 시즌2 - 너는 내 운명' 출연을 고민했다고 털어놨다. 영화 '수색자'(감독 김민섭)의 주역 송창의는 15일 오전 온라인 화상 인터뷰를 진행하고 다양한 이야기를 나눴다. '수색자'는 교육장교가 의문사한 날, 탈영병이 발생하고 출입통제구역 DMZ로 수색 작전을 나간 대원들이 광기에 휩싸인 채]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Fmydaily%2F20210915110247569mrig.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['95세' 송해, 건강 회복 후 영화 주연까지..'송해 1927' 11월 개봉[공식]]]></title>
+            <link>https://movie.v.daum.net/v/20210915111521304</link>
+            <guid>https://movie.v.daum.net/v/20210915111521304</guid>
+            <pubDate>Wed, 15 Sep 2021 07:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 누구나 알지만 아무도 몰랐던 '95년 인생' 송해의 속터뷰가 영화화된다. 오는 11월 개봉하는 '송해 1927'(감독 윤재호)은 한 평생 전 국민과 희로애락을 함께 한 최고령 현역 연예인 송해의 무대 아래 숨겨진 라이프 비하인드 스토리를 담은 영화. '송해 1927'은 '마담 B', '뷰티풀 데이즈', '파이터' 등 다큐멘터리와 극]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Fnewsen%2F20210915111525702nhtb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[이정재 "'오징어게임' 속 내 모습, 진짜 많이 웃었다"]]></title>

@@ -4,9 +4,25 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Sep 2021 06:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 07:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<수색자> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/422354832?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/422354832?act=clip</guid>
+            <pubDate>Wed, 15 Sep 2021 07:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:41]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1273779791%2Fthumb%2F20210915152253" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<극장판 마이 리틀 포니: 새로운 희망> ‘귀염뽀짝 유니콘’ 뮤직비디오]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/422354709?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/422354709?act=clip</guid>
+            <pubDate>Wed, 15 Sep 2021 07:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:25]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwz0mw6h9vq90ugrvei5sdkj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188595435%26signature%3DHrKe4QrNwp0DZ4SsOxPsmb%252B0mAY%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<스틸워터> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/422352498?act=clip</link>
@@ -157,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/422321609?act=clip</guid>
             <pubDate>Tue, 14 Sep 2021 02:30:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:17]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F265588408%2Fthumb%2F20210914112951" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F265588408%2Fthumb%2F20210914112951" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<극장판 포켓몬스터: 정글의 아이, 코코> 원더랜드 MV]]></title>
@@ -165,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/422321528?act=clip</guid>
             <pubDate>Tue, 14 Sep 2021 02:30:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:52]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvp3hkvq0it3gbpol2zfjguus%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188495135%26signature%3DUjbem16FQNBL3f%252BH3YvLJKPK1Nk%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvp3hkvq0it3gbpol2zfjguus%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188495135%26signature%3DUjbem16FQNBL3f%252BH3YvLJKPK1Nk%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<그대 너머에> 디렉터스 리뷰 영상 01]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 13 Sep 2021 02:32:19 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmap58i83eyj88lxfbi57ilu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188407387%26signature%3DNv7wTA1ey2IzLY1gWpePZ05%252BzHc%253D%26ts%3D1631498587" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<종착역> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/422220108?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/422220108?act=clip</guid>
-            <pubDate>Fri, 10 Sep 2021 02:33:54 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:12]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvc2qvanvbney7j3layey55ph%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188149309%26signature%3DGM4OVOAk4%252FK1xh%252B37Ggx1IiLM40%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<종착역> 영상 에세이 3탄]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/422220005?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/422220005?act=clip</guid>
-            <pubDate>Fri, 10 Sep 2021 02:33:54 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:40]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvlmbymkdmpst34gh0tdpxirr%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188149035%26signature%3DoMVc5Hp2bgEtIg%252Fjs8PG0q6K%252FjA%253D%26ts%3D1631240235" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
