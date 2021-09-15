@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Sep 2021 08:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 09:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<푸른 호수> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/422358361?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/422358361?act=clip</guid>
+            <pubDate>Wed, 15 Sep 2021 09:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:29]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfqii3e7uij06spai6q000vv%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188604195%26signature%3Dou6%252FtUNbtg077eLt4%252B%252FlTo4trFw%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<F20> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/422356391?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/422323165?act=clip</guid>
             <pubDate>Tue, 14 Sep 2021 05:14:21 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvamlo5k8fi0z8a26m2to0mrm%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188499435%26signature%3DRlujQkaGvcKux8XWhBeuyffPi6g%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvamlo5k8fi0z8a26m2to0mrm%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188499435%26signature%3DRlujQkaGvcKux8XWhBeuyffPi6g%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<매직 스쿨: 초보마법사 아우라의 대모험> 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 13 Sep 2021 02:32:19 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F309074392%2Fthumb%2F20210913111345" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<로스트 인 런던> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/422294075?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/422294075?act=clip</guid>
-            <pubDate>Mon, 13 Sep 2021 02:32:19 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:10]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwepk7wjzdv5snvkdfeq75ov%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188407854%26signature%3DahWi%252BIUpKFOEvPNFeRGX9KO8iFo%253D%26ts%3D1631499054" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
