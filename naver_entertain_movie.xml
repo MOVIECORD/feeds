@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-16T14:16:40.084Z</updated>
+    <updated>2021-09-16T15:18:08.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[극장가 개봉영화 추천작]스크린에 빠져볼까…골라보는 극장 나들이]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000860959</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000860959"/>
+        <updated>2021-09-16T15:16:34.099Z</updated>
+        <content type="html"><![CDATA[추석 극장가 스크린에는 드라마, 범죄, 스릴러, 애니메이션 등 각양각색의 영화들이 풍성하게 걸린다. 코로나19 이후 침체됐던 극장가가 ‘모가디슈'의 300만 돌파에 이어 강원도에서 촬영된 ‘싱크홀', ‘인질' 흥행으]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[두 눈으로 ‘희망’을 보고 싶다면…추천 영화3 [추석특집]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000762331</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000762331"/>
+        <updated>2021-09-16T15:16:34.099Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 추석에도 ‘팬데믹 블루’로 우울함에 사로잡힐 것 같다면 조용히 TV를 켜라. 당신이 미처 만나지 못했던 ‘따뜻한 영화’가 당신을 기다린다. 역경 속에서도 희망이 피어오르는 이야기를 목도하고 싶다면 영화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["라이브쇼에서 특가 할인까지"…CGV, 네이버와 콘텐츠 제휴 강화]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010726373</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000275136"/>
         <updated>2021-09-16T08:18:19.569Z</updated>
         <content type="html"><![CDATA[[SBS연예뉴스 | 김지혜 기자] 故 전태일 열사의 삶을 다룬 애니메이션 '태일이'가 부산에서 첫 공개된다. 명필름의 두 번째 장편 애니메이션 영화 '태일이(홍준표 감독)'는 오는 10월 6일 개막하는 제26회 부산]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김민하, 애플TV 드라마 '파친코' 캐스팅]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000038892</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000038892"/>
-        <updated>2021-09-16T08:18:19.575Z</updated>
-        <content type="html"><![CDATA[청춘함이 묻어나는 김민하의 새로운 프로필 사진을 공개했다. KBS 2TV '학교 2017', MBC '검법남녀', 넷플릭스 영화 '콜' 등 다양한 작품에 출연하며 대중에 얼굴을 알려온 김민하는 치열한 경쟁률 끝에 동]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["누명 벗었다"…정지영 감독, '부러진 화살' 스태프 보조금 횡령 의혹 '무혐의' 결론 [공식]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003537367</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003537367"/>
-        <updated>2021-09-16T08:18:19.575Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 김나라 기자] 정지영 감독과 제작사 아우라픽처스가 영화 '부러진 화살' 제작 당시 스태프들 보조금 횡령 혐의를 받은 가운데, 법원으로부터 무혐의 처분을 받았다. 아우라픽처스는 16일, "지난 2021]]></content>
     </entry>
 </feed>
