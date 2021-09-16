@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Sep 2021 12:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 13:23:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fxportsnews%2F20210916095124251ziat.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA[월급 밀리자 회사로 찾아와 분신한 아내, 남편의 선택은]]></title>
-            <link>https://movie.v.daum.net/v/20210916135100087</link>
-            <guid>https://movie.v.daum.net/v/20210916135100087</guid>
-            <pubDate>Thu, 16 Sep 2021 05:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[[이선필 기자] &nbsp;        ▲ &nbsp;영화 &lt;아버지의 길&gt; 포스터    ⓒ 전주국제영화제  &nbsp; 세르비아의 한 시골 마을에 사는 한 사내의 사연이 보도됐다. 생활고에 아이들을 제대로 키우지 못한다는 이유로 국가로부터 아이들을 뺏긴 그가 300km를 걸어 복지부 장관을 만나러 갔다는 내용이었다. 가난하면 가정을 꾸릴 수도 없고, 아이 인권에 심각한 문제가 있을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fohmynews%2F20210916135102054kjdk.jpg" length="0" type="image//thumb/S732x228/"/>
-        </item>
-        <item>
             <title><![CDATA[유오성X장혁 거친 누아르 '강릉' 11월 개봉..불꽃 대립 예고[공식]]]></title>
             <link>https://movie.v.daum.net/v/20210916093005487</link>
             <guid>https://movie.v.daum.net/v/20210916093005487</guid>
             <pubDate>Thu, 16 Sep 2021 08:18:39 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스엔 배효주 기자] 유오성과 장혁 주연 '강릉'이 11월 개봉한다. 영화 '강릉'(감독 윤영빈)은 강릉 최대의 리조트 건설을 둘러싼 서로 다른 조직의 야망과 음모, 그리고 배신을 그린 작품이다. '강릉'은 동해 바다를 배경으로 펼쳐지는 남자들의 불꽃 튀는 대립을 그리는 영화다. 특히 '강릉'의 주역 유오성, 장혁은 지난 2015년 방영해 큰 인기를]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fnewsen%2F20210916093005975rijd.jpg" length="0" type="image//thumb/S384x240/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fnewsen%2F20210916093005975rijd.jpg" length="0" type="image//thumb/S732x228/"/>
+        </item>
+        <item>
+            <title><![CDATA[월급 밀리자 회사로 찾아와 분신한 아내, 남편의 선택은]]></title>
+            <link>https://movie.v.daum.net/v/20210916135100087</link>
+            <guid>https://movie.v.daum.net/v/20210916135100087</guid>
+            <pubDate>Thu, 16 Sep 2021 05:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[[이선필 기자] &nbsp;        ▲ &nbsp;영화 &lt;아버지의 길&gt; 포스터    ⓒ 전주국제영화제  &nbsp; 세르비아의 한 시골 마을에 사는 한 사내의 사연이 보도됐다. 생활고에 아이들을 제대로 키우지 못한다는 이유로 국가로부터 아이들을 뺏긴 그가 300km를 걸어 복지부 장관을 만나러 갔다는 내용이었다. 가난하면 가정을 꾸릴 수도 없고, 아이 인권에 심각한 문제가 있을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fohmynews%2F20210916135102054kjdk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['부러진 화살' 정지영 감독, 스태프 보조금 횡령 무혐의 결론 [공식]]]></title>
@@ -38,6 +38,22 @@
             <pubDate>Thu, 16 Sep 2021 08:18:39 GMT</pubDate>
             <content:encoded><![CDATA[[동아닷컴] 정지영 감독. 스포츠동아DB영화 '부러진 화살' 정지영 감독이 인건비 착취 소송에서 무혐의 처분을 받았다. 제작사 아우라픽처스 측은 16일 "정지영 감독과 아우라픽처스가 '부러진 화살' 제작 당시 영화진흥위원회로부터 받은 스태프 보조금을 횡령하고 인건비를 착취했다는 혐의에 대해 검찰과 법원으로부터 무혐의 결론을 받았다"고 밝혔다. 제작사는]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fsportsdonga%2F20210916131617502ywkl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식]리들리 스콧 신작 '라스트 듀얼: 최후의 결투', 10월 20일 개봉 확정]]></title>
+            <link>https://movie.v.daum.net/v/20210916150529537</link>
+            <guid>https://movie.v.daum.net/v/20210916150529537</guid>
+            <pubDate>Thu, 16 Sep 2021 08:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자]리들리 스콧 감독의 신작 영화 '라스트 듀얼: 최후의 결투'(월트디즈니컴퍼니 코리아 수입·배급)가 10월 20일 국내 개봉을 확정 짓고, '운명의 서막' 영상을 공개해 이목을 집중시킨다. 맷 데이먼, 아담 드라이버, 조디 코머, 벤 애플렉까지 전 세계가 사랑하는 배우들과 세기의 거장 리들리 스콧의 만남으로 주목받고 있]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2FSpoChosun%2F20210916150529628utyi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['샹치' 가짜 만다린x신비의 동물 모리스 포스터 공개]]></title>
+            <link>https://movie.v.daum.net/v/20210916102606000</link>
+            <guid>https://movie.v.daum.net/v/20210916102606000</guid>
+            <pubDate>Thu, 16 Sep 2021 08:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '샹치와 텐 링즈의 전설'이 등장과 동시에 관객들의 마음을 사로잡은 매력적인 두 캐릭터, 트레보와 모리스의 모습이 담긴 씬 스틸러 포스터를 공개했다. 영화 '샹치와 텐 링즈의 전설'(감독 데스틴 다니엘 크리튼·배급 월트디즈니컴퍼니 코리아)은 마블의 강력한 전설 '텐 링즈'의 힘으로 어둠의 세계를 지배해 온 아버지 웬우(양조위)와]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Ftvdaily%2F20210916102609744hfuy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[이수경 "소속사 대표 김남길, 바쁜 와중에 '전참시' 흔쾌히 출연" [MD인터뷰③]]]></title>
@@ -56,22 +72,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Filgansports%2F20210916141636729krgm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['샹치' 가짜 만다린x신비의 동물 모리스 포스터 공개]]></title>
-            <link>https://movie.v.daum.net/v/20210916102606000</link>
-            <guid>https://movie.v.daum.net/v/20210916102606000</guid>
-            <pubDate>Thu, 16 Sep 2021 08:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '샹치와 텐 링즈의 전설'이 등장과 동시에 관객들의 마음을 사로잡은 매력적인 두 캐릭터, 트레보와 모리스의 모습이 담긴 씬 스틸러 포스터를 공개했다. 영화 '샹치와 텐 링즈의 전설'(감독 데스틴 다니엘 크리튼·배급 월트디즈니컴퍼니 코리아)은 마블의 강력한 전설 '텐 링즈'의 힘으로 어둠의 세계를 지배해 온 아버지 웬우(양조위)와]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Ftvdaily%2F20210916102609744hfuy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식]리들리 스콧 신작 '라스트 듀얼: 최후의 결투', 10월 20일 개봉 확정]]></title>
-            <link>https://movie.v.daum.net/v/20210916150529537</link>
-            <guid>https://movie.v.daum.net/v/20210916150529537</guid>
-            <pubDate>Thu, 16 Sep 2021 08:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이승미 기자]리들리 스콧 감독의 신작 영화 '라스트 듀얼: 최후의 결투'(월트디즈니컴퍼니 코리아 수입·배급)가 10월 20일 국내 개봉을 확정 짓고, '운명의 서막' 영상을 공개해 이목을 집중시킨다. 맷 데이먼, 아담 드라이버, 조디 코머, 벤 애플렉까지 전 세계가 사랑하는 배우들과 세기의 거장 리들리 스콧의 만남으로 주목받고 있]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2FSpoChosun%2F20210916150529628utyi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['강릉' 유오성X장혁, 거친 운명 앞에 놓인 두 남자..11월 개봉]]></title>
             <link>https://movie.v.daum.net/v/20210916084901134</link>
             <guid>https://movie.v.daum.net/v/20210916084901134</guid>
@@ -80,20 +80,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fmydaily%2F20210916084901421hrrg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[이수경 "소속사 대표 김남길, 바쁜 와중에 '전참시' 흔쾌히 출연..만족" [인터뷰③]]]></title>
-            <link>https://movie.v.daum.net/v/20210916141114978</link>
-            <guid>https://movie.v.daum.net/v/20210916141114978</guid>
-            <pubDate>Thu, 16 Sep 2021 06:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 이수경 /사진제공=길스토리이엔티배우 이수경(25)이 소속사 대표인 김남길에 대해 언급했다. 이수경은 16일 오후 온라인을 통해 스타뉴스와 만나 영화 '기적'(감독 이장훈)과 관련해 다양한 이야기를 들려줬다. '기적'은 오갈 수 있는 길은 기찻길밖에 없지만 정작 기차역은 없는 마을에 간이역 하나 생기는 게 유일한 인생 목표인 준경(박]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fstarnews%2F20210916141115665akki.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[할리우드Y] 크리스토퍼 놀란, 워너 떠나 유니버설行..차기작 조건 6가지]]></title>
             <link>https://movie.v.daum.net/v/20210916100708202</link>
             <guid>https://movie.v.daum.net/v/20210916100708202</guid>
             <pubDate>Thu, 16 Sep 2021 09:15:46 GMT</pubDate>
             <content:encoded><![CDATA[세계적인 영화 감독 크리스토퍼 놀란 감독이 워너브라더스와의 인연을 정리하고 유니버설 픽쳐스와 손을 잡았다. 15일(현지 시간) 외신 매체 할리우드리포터는 크리스토퍼 놀란이 미국의 대형 스튜디오와 차기작 제작을 의논한 끝에 유니버설 픽쳐스와의 협업을 선택했다고 보도했다. 매체에 따르면, 지난주 놀란 감독은 지난 주 유니버설 픽쳐스, 소니 픽쳐스, 파라마운]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2FYTN%2F20210916100708917feej.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이수경 "소속사 대표 김남길, 바쁜 와중에 '전참시' 흔쾌히 출연..만족" [인터뷰③]]]></title>
+            <link>https://movie.v.daum.net/v/20210916141114978</link>
+            <guid>https://movie.v.daum.net/v/20210916141114978</guid>
+            <pubDate>Thu, 16 Sep 2021 06:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 이수경 /사진제공=길스토리이엔티배우 이수경(25)이 소속사 대표인 김남길에 대해 언급했다. 이수경은 16일 오후 온라인을 통해 스타뉴스와 만나 영화 '기적'(감독 이장훈)과 관련해 다양한 이야기를 들려줬다. '기적'은 오갈 수 있는 길은 기찻길밖에 없지만 정작 기차역은 없는 마을에 간이역 하나 생기는 게 유일한 인생 목표인 준경(박]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fstarnews%2F20210916141115665akki.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[이수경 "소속사 대표 김남길 최고..'전참시' 흔쾌히 동반출연"[EN:인터뷰④]]]></title>
@@ -136,22 +136,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Filgansports%2F20210915085905124sfga.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[송중기X박소담, 부산국제영화제 개막식 사회[공식]]]></title>
-            <link>https://movie.v.daum.net/v/20210916090005397</link>
-            <guid>https://movie.v.daum.net/v/20210916090005397</guid>
-            <pubDate>Thu, 16 Sep 2021 00:52:43 GMT</pubDate>
-            <content:encoded><![CDATA[송중기 박소담이 제26회 부산국제영화제 개막식 사회자로 만난다. TV와 스크린, 온라인동영상서비스(OTT) 등 다양한 플랫폼을 통해 활약 중인 송중기와 '기생충'으로 전 세계 영화인들에게 강렬한 존재감을 남긴 박소담이 오는 10월 6일 수요일 저녁 영화의전당에서 열리는 부산영화제 개막식 사회를 맡는다. 송중기는 올해 영화 '승리호'(20)부터 드라마 '빈]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fstartoday%2F20210916090006614ofvj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[SC인터뷰]"내성적 성격에 센 역할 연기, 쾌감 느껴"..'보이스' 이주영, 이유있는 충무로 대세]]></title>
-            <link>https://movie.v.daum.net/v/20210915123044201</link>
-            <guid>https://movie.v.daum.net/v/20210915123044201</guid>
-            <pubDate>Thu, 16 Sep 2021 00:52:43 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이승미 기자]"연기하며 대리만족의 쾌감…'보이스' 만나고 올 게 왔구나 싶었죠." 보이스피싱 조직의 덫에 걸려 모든 것을 잃게 된 서준(변요한)이 빼앗긴 돈을 되찾기 위해 중국에 있는 본거지에 잠입, 보이스피싱 설계자 곽프로(김무열)를 만나며 벌어지는 리얼범죄액션영화 '보이스'(김선·김곡 감독, 수필름 제작). 극중 서준을 돕는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2FSpoChosun%2F20210915160525740pzer.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['영화의 거리' 한선화, 브라운관 넘어 스크린으로]]></title>
             <link>https://movie.v.daum.net/v/20210916102610006</link>
             <guid>https://movie.v.daum.net/v/20210916102610006</guid>
@@ -166,6 +150,22 @@
             <pubDate>Thu, 16 Sep 2021 12:24:48 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠투데이 현혜선 기자] 영화 '카시오페아'가 크랭크인했다. 국민 배우 안성기, 대체불가 존재감의 배우 서현진과 신연식 감독의 가장 완벽하고 아름다운 만남이 화제를 모으고 있는 '카시오페아'가 지난 9일 크랭크인 하며 촬영에 돌입했다. '카시오페아'는 변호사, 엄마, 딸로 완벽한 삶을 살아가려고 노력하는 수진과 애틋한 아빠 인우의 삶 한가운데 갑자기]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fsportstoday%2F20210916125310032zfpd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[송중기X박소담, 부산국제영화제 개막식 사회[공식]]]></title>
+            <link>https://movie.v.daum.net/v/20210916090005397</link>
+            <guid>https://movie.v.daum.net/v/20210916090005397</guid>
+            <pubDate>Thu, 16 Sep 2021 00:52:43 GMT</pubDate>
+            <content:encoded><![CDATA[송중기 박소담이 제26회 부산국제영화제 개막식 사회자로 만난다. TV와 스크린, 온라인동영상서비스(OTT) 등 다양한 플랫폼을 통해 활약 중인 송중기와 '기생충'으로 전 세계 영화인들에게 강렬한 존재감을 남긴 박소담이 오는 10월 6일 수요일 저녁 영화의전당에서 열리는 부산영화제 개막식 사회를 맡는다. 송중기는 올해 영화 '승리호'(20)부터 드라마 '빈]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fstartoday%2F20210916090006614ofvj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[SC인터뷰]"내성적 성격에 센 역할 연기, 쾌감 느껴"..'보이스' 이주영, 이유있는 충무로 대세]]></title>
+            <link>https://movie.v.daum.net/v/20210915123044201</link>
+            <guid>https://movie.v.daum.net/v/20210915123044201</guid>
+            <pubDate>Thu, 16 Sep 2021 00:52:43 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자]"연기하며 대리만족의 쾌감…'보이스' 만나고 올 게 왔구나 싶었죠." 보이스피싱 조직의 덫에 걸려 모든 것을 잃게 된 서준(변요한)이 빼앗긴 돈을 되찾기 위해 중국에 있는 본거지에 잠입, 보이스피싱 설계자 곽프로(김무열)를 만나며 벌어지는 리얼범죄액션영화 '보이스'(김선·김곡 감독, 수필름 제작). 극중 서준을 돕는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2FSpoChosun%2F20210915160525740pzer.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
