@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Sep 2021 13:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 14:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -239,20 +239,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ab42f8d99b9b6a6bceb169917a3a0c2c222e942" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아임 유어 맨 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=148298</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=148298</guid>
-            <pubDate>Thu, 09 Sep 2021 00:51:10 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc78e33cf82eba3d7c203cc7cd2540c6bab00a488" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[말리그넌트 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152308</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152308</guid>
             <pubDate>Wed, 15 Sep 2021 00:49:01 GMT</pubDate>
             <content:encoded><![CDATA[21.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F91f95c53e40938959224392447a8870b8cb7eb30" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아임 유어 맨 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148298</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148298</guid>
+            <pubDate>Thu, 09 Sep 2021 00:51:10 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc78e33cf82eba3d7c203cc7cd2540c6bab00a488" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[너의 이름은. (다음영화 영화관 ─ 현재상영)]]></title>
@@ -279,14 +279,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd153672db1d019a70655713d337ca4ffb9f641b5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[죽을 때까지 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151682</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151682</guid>
-            <pubDate>Thu, 09 Sep 2021 05:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6742e6f97365b3f781d3dd59e6ac02384d153da3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[토베 얀손 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=147226</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=147226</guid>
@@ -301,6 +293,14 @@
             <pubDate>Tue, 31 Aug 2021 09:55:00 GMT</pubDate>
             <content:encoded><![CDATA[21.09.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F261ebc042837ab44d41ba35f3da5f2dae32d0057" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[죽을 때까지 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151682</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151682</guid>
+            <pubDate>Thu, 09 Sep 2021 05:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6742e6f97365b3f781d3dd59e6ac02384d153da3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[코다 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -559,6 +559,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fmydaily%2F20210916135447398pmwm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[할리우드Y] 크리스토퍼 놀란, 워너 떠나 유니버설行..차기작 조건 6가지 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210916100708202</link>
+            <guid>https://movie.v.daum.net/v/20210916100708202</guid>
+            <pubDate>Thu, 16 Sep 2021 09:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[세계적인 영화 감독 크리스토퍼 놀란 감독이 워너브라더스와의 인연을 정리하고 유니버설 픽쳐스와 손을 잡았다. 15일(현지 시간) 외신 매체 할리우드리포터는 크리스토퍼 놀란이 미국의 대형 스튜디오와 차기작 제작을 의논한 끝에 유니버설 픽쳐스와의 협업을 선택했다고 보도했다. 매체에 따르면, 지난주 놀란 감독은 지난 주 유니버설 픽쳐스, 소니 픽쳐스, 파라마운]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2FYTN%2F20210916100708917feej.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[인터뷰④] 이수경 "소속사 대표 김남길, 이렇게 잘해줄 줄 몰랐다" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210916141633172</link>
             <guid>https://movie.v.daum.net/v/20210916141633172</guid>
@@ -575,28 +583,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fmydaily%2F20210916084901421hrrg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[할리우드Y] 크리스토퍼 놀란, 워너 떠나 유니버설行..차기작 조건 6가지 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210916100708202</link>
-            <guid>https://movie.v.daum.net/v/20210916100708202</guid>
-            <pubDate>Thu, 16 Sep 2021 09:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[세계적인 영화 감독 크리스토퍼 놀란 감독이 워너브라더스와의 인연을 정리하고 유니버설 픽쳐스와 손을 잡았다. 15일(현지 시간) 외신 매체 할리우드리포터는 크리스토퍼 놀란이 미국의 대형 스튜디오와 차기작 제작을 의논한 끝에 유니버설 픽쳐스와의 협업을 선택했다고 보도했다. 매체에 따르면, 지난주 놀란 감독은 지난 주 유니버설 픽쳐스, 소니 픽쳐스, 파라마운]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2FYTN%2F20210916100708917feej.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[이수경 "소속사 대표 김남길, 바쁜 와중에 '전참시' 흔쾌히 출연..만족" [인터뷰③] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210916141114978</link>
             <guid>https://movie.v.daum.net/v/20210916141114978</guid>
             <pubDate>Thu, 16 Sep 2021 06:18:33 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 강민경 기자] 이수경 /사진제공=길스토리이엔티배우 이수경(25)이 소속사 대표인 김남길에 대해 언급했다. 이수경은 16일 오후 온라인을 통해 스타뉴스와 만나 영화 '기적'(감독 이장훈)과 관련해 다양한 이야기를 들려줬다. '기적'은 오갈 수 있는 길은 기찻길밖에 없지만 정작 기차역은 없는 마을에 간이역 하나 생기는 게 유일한 인생 목표인 준경(박]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fstarnews%2F20210916141115665akki.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[이수경 "소속사 대표 김남길 최고..'전참시' 흔쾌히 동반출연"[EN:인터뷰④] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210916142439536</link>
-            <guid>https://movie.v.daum.net/v/20210916142439536</guid>
-            <pubDate>Thu, 16 Sep 2021 06:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 김노을 기자] 배우 이수경이 소속사 대표이자 선배 김남길에 대한 무한 신뢰를 표했다. 영화 '기적'(감독 이장훈)에 출연한 이수경은 9월 16일 진행된 화상 인터뷰를 통해 김남길의 지원사격에 고마움을 전했다. 지난 15일 개봉한 영화 '기적'은 1988년 우리나라 최초의 민자역인 경북 봉화의 양원역을 모티브로 온기 가득한 상상력이 더해진 작품이다]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fnewsen%2F20210916142439154vhma.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[송중기·박소담, 제26회 부산국제영화제 개막식 MC (다음영화 뉴스 ─ 인기)]]></title>
@@ -615,6 +607,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Ftvdaily%2F20210916154721997uwjs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[이수경 "소속사 대표 김남길 최고..'전참시' 흔쾌히 동반출연"[EN:인터뷰④] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210916142439536</link>
+            <guid>https://movie.v.daum.net/v/20210916142439536</guid>
+            <pubDate>Thu, 16 Sep 2021 06:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 김노을 기자] 배우 이수경이 소속사 대표이자 선배 김남길에 대한 무한 신뢰를 표했다. 영화 '기적'(감독 이장훈)에 출연한 이수경은 9월 16일 진행된 화상 인터뷰를 통해 김남길의 지원사격에 고마움을 전했다. 지난 15일 개봉한 영화 '기적'은 1988년 우리나라 최초의 민자역인 경북 봉화의 양원역을 모티브로 온기 가득한 상상력이 더해진 작품이다]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fnewsen%2F20210916142439154vhma.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[SC초점] "과분한 칭찬 받은 한해"..윤여정, 韓최초 오스카 수상→美타임지 '영향력 있는 100인' 선정 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210916101248444</link>
             <guid>https://movie.v.daum.net/v/20210916101248444</guid>
@@ -623,20 +623,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2FSpoChosun%2F20210916101248974qbuq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['귀멸의 칼날' 또 온다..스페셜 극장판 '남매의 연' 10월 20일 개봉 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210915085903637</link>
-            <guid>https://movie.v.daum.net/v/20210915085903637</guid>
-            <pubDate>Thu, 16 Sep 2021 00:52:43 GMT</pubDate>
-            <content:encoded><![CDATA['귀멸의 칼날’의 스페셜 극장판 중 첫 번째 시리즈 '귀멸의 칼날: 남매의 연'이 10월 20일 개봉한다. '귀멸의 칼날: 남매의 연'은 혈귀로 변한 여동생 ‘네즈코’를 구하기 위해 칼을 든 소년 탄지로가 귀살대원이 되어 펼치는 혈귀와의 필사의 사투를 그린 영화다. ‘귀멸의 칼날’ 스페셜 극장판 시리즈는, 인기 TV 애니메이션 ‘귀멸의 칼날’ TV판]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Filgansports%2F20210915085905124sfga.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['영화의 거리' 한선화, 브라운관 넘어 스크린으로 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210916102610006</link>
             <guid>https://movie.v.daum.net/v/20210916102610006</guid>
             <pubDate>Thu, 16 Sep 2021 12:24:48 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠경향] 한선화가 ‘영화의 거리’를 통해 풋풋하면서도 당차고 쾌활한 매력으로 관객들을 매료시킬 예정이다. 오늘(16일) 개봉하는 ‘영화의 거리’(감독 김민근)는 영화 로케이션 매니저와 감독으로 부산에서 다시 만난 헤어진 연인 선화(한선화 분)와 도영(이완 분)의 끝났는데 끝난 것 같지 않은 로맨스를 담은 작품. 뜻하지 않게 일로 재회한 두 사람은 묘]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fsportskhan%2F20210916102611706bfsr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['귀멸의 칼날' 또 온다..스페셜 극장판 '남매의 연' 10월 20일 개봉 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210915085903637</link>
+            <guid>https://movie.v.daum.net/v/20210915085903637</guid>
+            <pubDate>Thu, 16 Sep 2021 00:52:43 GMT</pubDate>
+            <content:encoded><![CDATA['귀멸의 칼날’의 스페셜 극장판 중 첫 번째 시리즈 '귀멸의 칼날: 남매의 연'이 10월 20일 개봉한다. '귀멸의 칼날: 남매의 연'은 혈귀로 변한 여동생 ‘네즈코’를 구하기 위해 칼을 든 소년 탄지로가 귀살대원이 되어 펼치는 혈귀와의 필사의 사투를 그린 영화다. ‘귀멸의 칼날’ 스페셜 극장판 시리즈는, 인기 TV 애니메이션 ‘귀멸의 칼날’ TV판]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Filgansports%2F20210915085905124sfga.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["아름다운 캐스팅"..안성기X서현진 '카시오페아' 크랭크인 (다음영화 뉴스 ─ 인기)]]></title>
@@ -655,12 +655,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fstartoday%2F20210916090006614ofvj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[SC인터뷰]"내성적 성격에 센 역할 연기, 쾌감 느껴"..'보이스' 이주영, 이유있는 충무로 대세 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210915123044201</link>
-            <guid>https://movie.v.daum.net/v/20210915123044201</guid>
-            <pubDate>Thu, 16 Sep 2021 00:52:43 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이승미 기자]"연기하며 대리만족의 쾌감…'보이스' 만나고 올 게 왔구나 싶었죠." 보이스피싱 조직의 덫에 걸려 모든 것을 잃게 된 서준(변요한)이 빼앗긴 돈을 되찾기 위해 중국에 있는 본거지에 잠입, 보이스피싱 설계자 곽프로(김무열)를 만나며 벌어지는 리얼범죄액션영화 '보이스'(김선·김곡 감독, 수필름 제작). 극중 서준을 돕는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2FSpoChosun%2F20210915160525740pzer.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA["누명 벗었다"..정지영 감독, '부러진 화살' 스태프 보조금 횡령 의혹 '무혐의' 결론 [공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210916164259716</link>
+            <guid>https://movie.v.daum.net/v/20210916164259716</guid>
+            <pubDate>Thu, 16 Sep 2021 14:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 정지영 감독과 제작사 아우라픽처스가 영화 '부러진 화살' 제작 당시 스태프들 보조금 횡령 혐의를 받은 가운데, 법원으로부터 무혐의 처분을 받았다. 아우라픽처스는 16일, "지난 2021년 9월 9일 정지영 감독과 아우라픽처스는 '부러진 화살' 제작 당시 영화진흥위원회로부터 받은 스태프들의 보조금을 횡령하고 인건비를 착취했다는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fmydaily%2F20210916164259922gbto.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[포켓몬판 '정글북' 즐겨볼까 야생마와 소녀의 우정에 빠져볼까 (다음영화 뉴스 ─ 최신)]]></title>
@@ -1147,7 +1147,7 @@
             <link>https://tv.naver.com/v/22490199</link>
             <guid>https://tv.naver.com/v/22490199</guid>
             <pubDate>Thu, 16 Sep 2021 08:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210916_139/mLv7N_1631779967346xUc0i_JPEG/d4195181-16c5-11ec-9b63-505dacfba98a_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1155,7 +1155,7 @@
             <link>https://tv.naver.com/v/22490178</link>
             <guid>https://tv.naver.com/v/22490178</guid>
             <pubDate>Thu, 16 Sep 2021 08:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210916_249/BZf6c_1631779936332czbFW_JPEG/c07df075-16c5-11ec-b835-505dac8c3607_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1163,7 +1163,7 @@
             <link>https://tv.naver.com/v/22490152</link>
             <guid>https://tv.naver.com/v/22490152</guid>
             <pubDate>Thu, 16 Sep 2021 08:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210916_186/nJsGr_1631779905554k5PSK_JPEG/a8d1c273-16c5-11ec-8f8d-505dac8c3721_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1171,7 +1171,7 @@
             <link>https://tv.naver.com/v/22489806</link>
             <guid>https://tv.naver.com/v/22489806</guid>
             <pubDate>Thu, 16 Sep 2021 08:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210916_110/J0ekt_1631779270619xA9xf_JPEG/170a3adb-16c4-11ec-9d7e-a0369ff952f4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1187,7 +1187,7 @@
             <link>https://tv.naver.com/v/22486457</link>
             <guid>https://tv.naver.com/v/22486457</guid>
             <pubDate>Thu, 16 Sep 2021 06:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210916_52/Ipbja_1631771974114lVPbu_JPEG/1631771972311.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1195,7 +1195,7 @@
             <link>https://tv.naver.com/v/22485439</link>
             <guid>https://tv.naver.com/v/22485439</guid>
             <pubDate>Thu, 16 Sep 2021 06:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210916_140/BDSCh_1631769355163BB6g1_JPEG/fd71c40d-16ac-11ec-8678-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1203,7 +1203,7 @@
             <link>https://tv.naver.com/v/22484881</link>
             <guid>https://tv.naver.com/v/22484881</guid>
             <pubDate>Thu, 16 Sep 2021 05:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210916_231/3qPeq_1631767545045JyVAr_JPEG/78ebd1c9-16a8-11ec-a509-a0369ff968b0_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1211,7 +1211,7 @@
             <link>https://tv.naver.com/v/22481993</link>
             <guid>https://tv.naver.com/v/22481993</guid>
             <pubDate>Thu, 16 Sep 2021 03:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210916_206/mOFlH_1631759655358MmSEe_JPEG/51ea5565-1696-11ec-a72a-246e963a464c_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1219,7 +1219,7 @@
             <link>https://tv.naver.com/v/22481876</link>
             <guid>https://tv.naver.com/v/22481876</guid>
             <pubDate>Thu, 16 Sep 2021 03:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210916_90/zqQyz_16317593858976UOTn_JPEG/d5fa476f-1695-11ec-8f8d-505dac8c3721_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1227,7 +1227,7 @@
             <link>https://tv.naver.com/v/22481445</link>
             <guid>https://tv.naver.com/v/22481445</guid>
             <pubDate>Thu, 16 Sep 2021 03:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210916_145/QA86d_1631758398486yF6B9_JPEG/1f2c405d-1693-11ec-8678-48df379cca40_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1243,7 +1243,7 @@
             <link>https://tv.naver.com/v/22479441</link>
             <guid>https://tv.naver.com/v/22479441</guid>
             <pubDate>Thu, 16 Sep 2021 00:53:08 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210916_29/9zEnD_1631753207674Ll9sk_JPEG/4925e992-1687-11ec-b835-505dac8c3607_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
