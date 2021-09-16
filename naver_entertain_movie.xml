@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-16T19:13:36.733Z</updated>
+    <updated>2021-09-16T21:15:11.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["韓영화 해외 세일즈 원스톱으로"…영진위, 온라인 플랫폼 구축]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010726527</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010726527"/>
+        <updated>2021-09-16T21:13:42.908Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 김지은 기자 = 영화진흥위원회는 한국영화의 비대면 세일즈를 지원하기 위한 온라인 비즈매칭 플랫폼을 구축했다고 17일 밝혔다. 전날 한국영화 해외진출 플랫폼 코비즈(KoBiz) 사이트에 마련한 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정재일, 넷플릭스 '오징어게임' OST 발매]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010726511</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010726511"/>
+        <updated>2021-09-16T21:13:42.920Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]백승훈 인턴 기자 = 영화 '기생충', '옥자' 등의 영화 음악을 작업한 정재일이 넷플릭스 시리즈 '오징어 게임'의 음악 감독을 맡아 오는 17일 정오 OST를 발매한다. 이번 '오징어 게임' OST는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동양화처럼 우아한 中 무협 액션]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=023&amp;aid=0003641008</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000275138"/>
         <updated>2021-09-16T09:15:21.161Z</updated>
         <content type="html"><![CDATA[[SBS연예뉴스 | 김지혜 기자] 영화 '부러진 화살'(2012) 제작 당시 스태프들의 보조금을 횡령했다는 의혹이 제기된 정지영 감독에게 검찰과 법원이 무혐의 처분을 내렸다. 제작사 아우라픽처스는 16일 "지난 20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서영희·김민재 '뒤틀린 집', 부산국제영화제서 첫 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005609577</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005609577"/>
-        <updated>2021-09-16T08:18:19.569Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '뒤틀린 집'이 부산국제영화제에서 처음으로 공개된다. 종합 콘텐츠 제작사 테이크원스튜디오(대표: 정민채)는 영화 '뒤틀린 집'이 제26회 부산국제영화제 ‘한국영화의 오늘-파노라마]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기·박소담, 제26회 부산국제영화제 개막식 사회자 확정[공식]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000789907</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000789907"/>
-        <updated>2021-09-16T08:18:19.569Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 김선우기자]제26회 부산국제영화제 개막식 사회자로 배우 송중기와 박소담이 확정됐다. TV와 스크린, 온라인동영상서비스(OTT) 등 다양한 플랫폼을 통해 국내는 물론 세계를 사로잡은 배우 송중기와 박소]]></content>
     </entry>
 </feed>

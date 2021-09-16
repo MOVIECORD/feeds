@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Sep 2021 19:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 21:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,28 +56,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2FYTN%2F20210916100708917feej.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[월급 밀리자 회사로 찾아와 분신한 아내, 남편의 선택은]]></title>
-            <link>https://movie.v.daum.net/v/20210916135100087</link>
-            <guid>https://movie.v.daum.net/v/20210916135100087</guid>
-            <pubDate>Thu, 16 Sep 2021 05:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[[이선필 기자] &nbsp;        ▲ &nbsp;영화 &lt;아버지의 길&gt; 포스터    ⓒ 전주국제영화제  &nbsp; 세르비아의 한 시골 마을에 사는 한 사내의 사연이 보도됐다. 생활고에 아이들을 제대로 키우지 못한다는 이유로 국가로부터 아이들을 뺏긴 그가 300km를 걸어 복지부 장관을 만나러 갔다는 내용이었다. 가난하면 가정을 꾸릴 수도 없고, 아이 인권에 심각한 문제가 있을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fohmynews%2F20210916135102054kjdk.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[이수경 "소속사 대표 김남길, 바쁜 와중에 '전참시' 흔쾌히 출연" [MD인터뷰③]]]></title>
-            <link>https://movie.v.daum.net/v/20210916135447244</link>
-            <guid>https://movie.v.daum.net/v/20210916135447244</guid>
-            <pubDate>Thu, 16 Sep 2021 05:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 배우 이수경이 소속사 길스토리이엔티 대표인 배우 김남길의 지원사격에 고마운 마음을 전했다. 영화 '기적'(감독 이장훈)의 주역 이수경을 16일 오후 온라인 화상 인터뷰로 만났다. '기적'은 1988년 우리나라 최초의 민자역사가 된 경북 봉화의 양원역을 모티브로 한다. 오갈 수 있는 길은 기찻길밖에 없지만 정작 기차역은 없]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fmydaily%2F20210916135447398pmwm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['007 노 타임 투 다이' 시리즈 최초 IMAX 카메라 촬영 진행]]></title>
             <link>https://movie.v.daum.net/v/20210916154720533</link>
             <guid>https://movie.v.daum.net/v/20210916154720533</guid>
             <pubDate>Thu, 16 Sep 2021 09:15:46 GMT</pubDate>
             <content:encoded><![CDATA[[티브이데일리 최하나 기자] '007 노 타임 투 다이'가 압도적 스케일을 예고하는 IMAX 포스터를 공개했다. 영화 '007 노 타임 투 다이'(감독 캐리 후쿠나가·배급 유니버설 픽쳐스)는 가장 강력한 운명의 적의 등장으로 죽음과 맞닿은 작전을 수행하게 된 제임스 본드(다니엘 크레이그)의 마지막 미션을 그린 액션 블록버스터다. 공개된 IMAX 포스터는]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Ftvdaily%2F20210916154721997uwjs.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[월급 밀리자 회사로 찾아와 분신한 아내, 남편의 선택은]]></title>
+            <link>https://movie.v.daum.net/v/20210916135100087</link>
+            <guid>https://movie.v.daum.net/v/20210916135100087</guid>
+            <pubDate>Thu, 16 Sep 2021 05:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[[이선필 기자] &nbsp;        ▲ &nbsp;영화 &lt;아버지의 길&gt; 포스터    ⓒ 전주국제영화제  &nbsp; 세르비아의 한 시골 마을에 사는 한 사내의 사연이 보도됐다. 생활고에 아이들을 제대로 키우지 못한다는 이유로 국가로부터 아이들을 뺏긴 그가 300km를 걸어 복지부 장관을 만나러 갔다는 내용이었다. 가난하면 가정을 꾸릴 수도 없고, 아이 인권에 심각한 문제가 있을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fohmynews%2F20210916135102054kjdk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[송중기·박소담, 제26회 부산국제영화제 개막식 MC]]></title>
@@ -88,12 +80,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fsportskhan%2F20210916102103884rylm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[이수경 "소속사 대표 김남길, 바쁜 와중에 '전참시' 흔쾌히 출연" [MD인터뷰③]]]></title>
+            <link>https://movie.v.daum.net/v/20210916135447244</link>
+            <guid>https://movie.v.daum.net/v/20210916135447244</guid>
+            <pubDate>Thu, 16 Sep 2021 05:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 배우 이수경이 소속사 길스토리이엔티 대표인 배우 김남길의 지원사격에 고마운 마음을 전했다. 영화 '기적'(감독 이장훈)의 주역 이수경을 16일 오후 온라인 화상 인터뷰로 만났다. '기적'은 1988년 우리나라 최초의 민자역사가 된 경북 봉화의 양원역을 모티브로 한다. 오갈 수 있는 길은 기찻길밖에 없지만 정작 기차역은 없]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fmydaily%2F20210916135447398pmwm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[SC초점] "과분한 칭찬 받은 한해"..윤여정, 韓최초 오스카 수상→美타임지 '영향력 있는 100인' 선정]]></title>
             <link>https://movie.v.daum.net/v/20210916101248444</link>
             <guid>https://movie.v.daum.net/v/20210916101248444</guid>
             <pubDate>Thu, 16 Sep 2021 10:17:24 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠조선 조지영 기자] 배우 윤여정을 향한 전 세계의 관심은 계속되고 있다. 한국 배우 최초 미국 아카데미 여우조연상 수상에 이어 미국 타임지가 선정한 올해의 '세계에서 가장 영향력 있는 100인(TIME 100 Most Influential People 2021)'에 선정되면서 다시 한번 스포트라이트를 받게 됐다. 미국 타임지는 15일(]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2FSpoChosun%2F20210916101248974qbuq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['영화의 거리' 한선화, 브라운관 넘어 스크린으로]]></title>
+            <link>https://movie.v.daum.net/v/20210916102610006</link>
+            <guid>https://movie.v.daum.net/v/20210916102610006</guid>
+            <pubDate>Thu, 16 Sep 2021 12:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 한선화가 ‘영화의 거리’를 통해 풋풋하면서도 당차고 쾌활한 매력으로 관객들을 매료시킬 예정이다. 오늘(16일) 개봉하는 ‘영화의 거리’(감독 김민근)는 영화 로케이션 매니저와 감독으로 부산에서 다시 만난 헤어진 연인 선화(한선화 분)와 도영(이완 분)의 끝났는데 끝난 것 같지 않은 로맨스를 담은 작품. 뜻하지 않게 일로 재회한 두 사람은 묘]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fsportskhan%2F20210916102611706bfsr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰④] 이수경 "소속사 대표 김남길, 이렇게 잘해줄 줄 몰랐다"]]></title>
@@ -112,12 +120,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fnewsen%2F20210916142439154vhma.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['영화의 거리' 한선화, 브라운관 넘어 스크린으로]]></title>
-            <link>https://movie.v.daum.net/v/20210916102610006</link>
-            <guid>https://movie.v.daum.net/v/20210916102610006</guid>
+            <title><![CDATA["아름다운 캐스팅"..안성기X서현진 '카시오페아' 크랭크인]]></title>
+            <link>https://movie.v.daum.net/v/20210916125308549</link>
+            <guid>https://movie.v.daum.net/v/20210916125308549</guid>
             <pubDate>Thu, 16 Sep 2021 12:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 한선화가 ‘영화의 거리’를 통해 풋풋하면서도 당차고 쾌활한 매력으로 관객들을 매료시킬 예정이다. 오늘(16일) 개봉하는 ‘영화의 거리’(감독 김민근)는 영화 로케이션 매니저와 감독으로 부산에서 다시 만난 헤어진 연인 선화(한선화 분)와 도영(이완 분)의 끝났는데 끝난 것 같지 않은 로맨스를 담은 작품. 뜻하지 않게 일로 재회한 두 사람은 묘]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fsportskhan%2F20210916102611706bfsr.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스포츠투데이 현혜선 기자] 영화 '카시오페아'가 크랭크인했다. 국민 배우 안성기, 대체불가 존재감의 배우 서현진과 신연식 감독의 가장 완벽하고 아름다운 만남이 화제를 모으고 있는 '카시오페아'가 지난 9일 크랭크인 하며 촬영에 돌입했다. '카시오페아'는 변호사, 엄마, 딸로 완벽한 삶을 살아가려고 노력하는 수진과 애틋한 아빠 인우의 삶 한가운데 갑자기]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fsportstoday%2F20210916125310032zfpd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['강릉' 유오성X장혁, 거친 운명 앞에 놓인 두 남자..11월 개봉]]></title>
@@ -136,12 +144,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fstarnews%2F20210916141115665akki.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["아름다운 캐스팅"..안성기X서현진 '카시오페아' 크랭크인]]></title>
-            <link>https://movie.v.daum.net/v/20210916125308549</link>
-            <guid>https://movie.v.daum.net/v/20210916125308549</guid>
-            <pubDate>Thu, 16 Sep 2021 12:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 현혜선 기자] 영화 '카시오페아'가 크랭크인했다. 국민 배우 안성기, 대체불가 존재감의 배우 서현진과 신연식 감독의 가장 완벽하고 아름다운 만남이 화제를 모으고 있는 '카시오페아'가 지난 9일 크랭크인 하며 촬영에 돌입했다. '카시오페아'는 변호사, 엄마, 딸로 완벽한 삶을 살아가려고 노력하는 수진과 애틋한 아빠 인우의 삶 한가운데 갑자기]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fsportstoday%2F20210916125310032zfpd.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[두 눈으로 '희망'을 보고 싶다면..추천 영화3 [추석특집]]]></title>
+            <link>https://movie.v.daum.net/v/20210917000104900</link>
+            <guid>https://movie.v.daum.net/v/20210917000104900</guid>
+            <pubDate>Thu, 16 Sep 2021 21:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 추석에도 ‘팬데믹 블루’로 우울함에 사로잡힐 것 같다면 조용히 TV를 켜라. 당신이 미처 만나지 못했던 ‘따뜻한 영화’가 당신을 기다린다. 역경 속에서도 희망이 피어오르는 이야기를 목도하고 싶다면 영화 ‘파힘’(감독 피에르 프랑수아 마르탱-라발)을 꺼내보자. 지난 1월 개봉한 이 작품은 위험한 모국을 피해 아빠와 무작정 프랑스 파리로 건너온]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F17%2Fsportskhan%2F20210917000105210jakp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[밀리터리 스릴러 '수색자' 메인 포스터 공개]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 16 Sep 2021 18:18:20 GMT</pubDate>
             <content:encoded><![CDATA[배우 이완(38)이 6년 만에 스크린으로 컴백했다. 멜로 영화 '영화의 거리'를 통해서다. 이완은 최근 가진 '영화의 거리'(감독 김민근) 화상 인터뷰에서 작품에 대한 이야기부터 골프선수 아내 이보미와의 신혼 생활 등 사적인 이야기까지 거침없이 쏟아내며 진솔한 입담을 뽐냈다. 16일 개봉하는 '영화의 거리'는 영화 로케이션 매니저와 감독으로 부산에서 다시]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F16%2Fstartoday%2F20210916070305024ulhe.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['귀멸의 칼날' 또 온다..스페셜 극장판 '남매의 연' 10월 20일 개봉]]></title>
-            <link>https://movie.v.daum.net/v/20210915085903637</link>
-            <guid>https://movie.v.daum.net/v/20210915085903637</guid>
-            <pubDate>Thu, 16 Sep 2021 00:52:43 GMT</pubDate>
-            <content:encoded><![CDATA['귀멸의 칼날’의 스페셜 극장판 중 첫 번째 시리즈 '귀멸의 칼날: 남매의 연'이 10월 20일 개봉한다. '귀멸의 칼날: 남매의 연'은 혈귀로 변한 여동생 ‘네즈코’를 구하기 위해 칼을 든 소년 탄지로가 귀살대원이 되어 펼치는 혈귀와의 필사의 사투를 그린 영화다. ‘귀멸의 칼날’ 스페셜 극장판 시리즈는, 인기 TV 애니메이션 ‘귀멸의 칼날’ TV판]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Filgansports%2F20210915085905124sfga.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
