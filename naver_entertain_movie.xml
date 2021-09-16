@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-16T17:20:25.870Z</updated>
+    <updated>2021-09-16T18:19:22.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[동양화처럼 우아한 中 무협 액션]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=023&amp;aid=0003641008</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=023&amp;aid=0003641008"/>
+        <updated>2021-09-16T18:17:50.388Z</updated>
+        <content type="html"><![CDATA[EBS1 일요시네마 ‘와호장룡’ 청나라 말 최고 문파인 무당파의 사부 강남학이 살해당한다. 강호에 환멸을 느낀 제자 이문백(주윤발)은 무당파에 전해져 내려온 보검 청명검을 수련(양자경)에게 맡기고 떠나려 한다. 수련]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[극장가 개봉영화 추천작]스크린에 빠져볼까…골라보는 극장 나들이]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000860959</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000789907"/>
         <updated>2021-09-16T08:18:19.569Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 김선우기자]제26회 부산국제영화제 개막식 사회자로 배우 송중기와 박소담이 확정됐다. TV와 스크린, 온라인동영상서비스(OTT) 등 다양한 플랫폼을 통해 국내는 물론 세계를 사로잡은 배우 송중기와 박소]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전태일 삶 다룬 '태일이', 부산국제영화제서 첫 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000275136</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000275136"/>
-        <updated>2021-09-16T08:18:19.569Z</updated>
-        <content type="html"><![CDATA[[SBS연예뉴스 | 김지혜 기자] 故 전태일 열사의 삶을 다룬 애니메이션 '태일이'가 부산에서 첫 공개된다. 명필름의 두 번째 장편 애니메이션 영화 '태일이(홍준표 감독)'는 오는 10월 6일 개막하는 제26회 부산]]></content>
     </entry>
 </feed>
