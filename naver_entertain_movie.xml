@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-17T14:15:21.486Z</updated>
+    <updated>2021-09-17T15:17:03.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['기적' 임윤아, "누군가의 뮤즈로…추석은 '기적'과 함께"②]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000106775</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000106775"/>
+        <updated>2021-09-17T15:15:47.316Z</updated>
+        <content type="html"><![CDATA["온 청춘 바친 소녀시대…멤버들 존재 큰 힘" 임윤아는 '기적'에서 박정민이 연기한 준경의 '자칭 뮤즈' 라희로 분했다. 뮤즈는 그리스 로마 신화에 나오는 학문과 예술의 여신을 칭하지만 미디어에서 사용되는 뮤즈는 흔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['기적' 임윤아, "'청와대' 발음 어려워…박정민은 '정멜레온'"①]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000106766</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000106766"/>
+        <updated>2021-09-17T15:15:47.316Z</updated>
+        <content type="html"><![CDATA["'기적'은 운명처럼 다가온 작품" 소녀시대 윤아가 스크린에 돌아왔다. 941만 관객을 동원한 영화 '엑시트' 이후 2년 만이다. 4년 전 영화 '공조'를 통해 입지를 다지더니 어느덧 자신 만의 색깔을 내는 영화배우]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제13회 DMZ국제다큐영화제 ‘수프와 이데올로기’ 대상 수상]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000762544</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000762492"/>
         <updated>2021-09-17T07:15:03.830Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 미국 신문왕 윌리엄 랜돌프 허스트가 과거에 소유했고 영화 ‘대부’ 촬영 장소로 알려진 저택이 경매를 통해 740억 원에 팔렸다. 미국 캘리포니아주 베벌리힐스에 있는 허스트 저택이 파산 경매에 매물로 나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[341만 돌파 '모가디슈' 추석에도 흥행 계속된다‥무대인사 확정]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000489957</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000489957"/>
-        <updated>2021-09-17T07:15:03.833Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '모가디슈'가 누적 관객 341만 명을 돌파한 가운데, 다시 한 번 화제가 되고 있다. 영화 '모가디슈'(감독 류승완)가 한국과 북한의 유엔 동시가입 30주년인 9월 17일을 맞아 재조명되고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제26회 부산국제영화제, 28일 개·폐막식-30일 상영작 티켓 예매 오픈]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001349723</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001349723"/>
-        <updated>2021-09-17T07:15:03.833Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 제26회 부산국제영화제(BIFF)가 티켓 예매 일정을 공개했다. 제26회 부산국제영화제 개·폐막작 티켓 예매는 오는 28일 오후 2시부터 10월 15일까지 온라인과 모바일을 통해 가능하다]]></content>
     </entry>
 </feed>
