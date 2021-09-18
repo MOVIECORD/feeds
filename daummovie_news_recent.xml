@@ -4,9 +4,17 @@
         <title>다음영화 뉴스 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Sep 2021 07:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Sep 2021 08:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[무비가이드] '종착역', '세상의 끝'을 찾아 떠난 14살 소녀들이 찾은 답은?]]></title>
+            <link>https://v.daum.net/v/20210918163002759</link>
+            <guid>https://v.daum.net/v/20210918163002759</guid>
+            <pubDate>Sat, 18 Sep 2021 08:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자]숨가쁘게 돌아가는 일상 속에서 사춘기 소녀들과 하루를 동행하는 작은 즐거움을 누릴 수 있는 영화 '종착역'이 관객을 찾는다. 추석 연휴 마지막날 개봉하는 외화 '캔디맨'과 애니메이션 '극장판 마이 리틀 포니: 새로운 희망'으로, 현재 상영 중인 한국영화들과는 또 다른 즐거움을 느낄 수 있다.&nbsp;'종착역'-14살 소녀들은 무공해 성장 무]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F18%2F10asia%2F20210918163007867tjgi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스초점] 대작 없지만 기대작 눈길..추석 극장가 뭐 볼까?]]></title>
             <link>https://v.daum.net/v/20210918151115804</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 17 Sep 2021 23:16:00 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스엔 김노을 기자] 극장가 추석 대전이 막을 올린 가운데 영화 '보이스'가 박스오피스 1위를 지켰다. 9월 18일 영화진흥위원회 통합전산망 집계에 따르면 17일 영화 '보이스'(감독 김선, 김곡)가 5만1,197명을 동원해 개봉 이후 사흘 연속 1위를 수성했다. 누적 관객수는 15만2,416명이다. 같은 날 2위는 영화 '기적'(감독 이장훈)이 올랐다]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F18%2Fnewsen%2F20210918080854439wndi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[스크린 가득 채운 웃음·사랑·감동.. 골라보는 재미 '쏠쏠']]></title>
-            <link>https://v.daum.net/v/20210918080203125</link>
-            <guid>https://v.daum.net/v/20210918080203125</guid>
-            <pubDate>Fri, 17 Sep 2021 23:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[올해 추석 연휴에는 오랜만에 가족과 함께 영화관을 찾는 것도 좋을 것 같다. 신종 코로나바이러스 감염증(코로나19)으로 침체했던 지난해에 비해 다양한 작품들이 관객들을 기다리고 있기 때문이다. 특히 올여름 잇따라 흥행작들이 나오면서 영화계는 다시금 대목을 기대하는 모양새다.  &nbsp; ◆기적, 기차가 서는 그날까지… 가슴 울리는 가족 이야기 영화 ‘기적’은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F18%2Fsegye%2F20210918080204456xevx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
