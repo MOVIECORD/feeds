@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-18T02:02:57.437Z</updated>
+    <updated>2021-09-18T03:17:30.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['기적' 임윤아, 사투리·레트로 비주얼..공들인 만큼 빛난 활력소]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002989773</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002989773"/>
+        <updated>2021-09-18T03:15:53.948Z</updated>
+        <content type="html"><![CDATA[걸그룹 소녀시대 멤버 겸 배우 임윤아가 영화 '기적'(감독 이장훈)을 통해 활력소 역할을 톡톡히 해냈다. '기적'은 오갈 수 있는 길은 기찻길밖에 없지만 정작 기차역은 없는 마을에 간이역 하나 생기는 게 유일한 인생]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘한창나이 선녀님’ DMZ영화제 관객상 수상]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000762587</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000762587"/>
+        <updated>2021-09-18T03:15:53.948Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 다큐멘터리 영화 ‘한창나이 선녀님’(감독 원호연)이 제13회 DMZ국제다큐멘터리영화제에서 관객상을 수상했다. ‘한창나이 선녀님’은 16일 열린 제13회 DMZ국제다큐멘터리영화제에서 관객상을 받았다. ‘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['보이스' vs '기적'..But 극장 선택 변수 [주말흥행기상도]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002989763</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=052&amp;aid=0001642095"/>
         <updated>2021-09-17T23:15:32.420Z</updated>
         <content type="html"><![CDATA[이번 추석 연휴(9월 18일~9월 22일), 방송사들이 슬기로운 '집콕' 생활을 위한 추석 특선영화를 쏟아낸다. 9월 18일(토) 오후 8시 50분 EBS1 '시카고'(2002) / 르네 젤위거, 캐서린 제타존스 주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미나리'부터 '자산어보'까지…코로나 때문에 놓친 영화 TV에서]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004606484</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004606484"/>
-        <updated>2021-09-17T23:15:32.420Z</updated>
-        <content type="html"><![CDATA[올해 추석은 신종 코로나바이러스 감염증(코로나19) 유행으로 집에서 머무는 사람들이 적지 않을 것으로 예상된다. 추석 연휴에 주말까지 최장 닷새간의 휴일이 이어지면서 집에서 여유로운 시간을 보낼 수 있게 됐다. 각]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추석 극장가 탄탄한 韓영화 출격…할인·이벤트도 '풍성']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010728512</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010728512"/>
-        <updated>2021-09-17T22:15:15.199Z</updated>
-        <content type="html"><![CDATA[기사내용 요약 대작 없지만 기대작 눈길…'기적' vs '보이스' 2파전 예고 백신 인센티브, 특가 상영 등 극장 3사 프로모션 진행 [서울=뉴시스] 김지은 기자 = 주말을 포함해 닷새간 이어지는 추석 연휴를 맞아 영]]></content>
     </entry>
 </feed>
