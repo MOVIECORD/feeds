@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Sep 2021 11:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Sep 2021 12:24:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,20 +32,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a64941e61f5a3fbcad8ef6bbf7edb073b35c01a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[인질]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=127738</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=127738</guid>
-            <pubDate>Tue, 17 Aug 2021 23:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe1285fe4d39de150ca497edf0d91d8b4ad8d8e39" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 포켓몬스터: 정글의 아이, 코코]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=147088</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=147088</guid>
             <pubDate>Wed, 15 Sep 2021 00:49:01 GMT</pubDate>
             <content:encoded><![CDATA[21.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc607318ce0a60a7d8b8e540ea599f588751df07e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[인질]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=127738</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=127738</guid>
+            <pubDate>Tue, 17 Aug 2021 23:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe1285fe4d39de150ca497edf0d91d8b4ad8d8e39" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[모가디슈]]></title>
@@ -160,12 +160,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F76636cce1ab626cb5fb7509ac80b64598a69f4d3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[맨 인 더 다크 2]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150063</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150063</guid>
-            <pubDate>Sat, 18 Sep 2021 07:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdcfa862a88736442d006e5d198dfc161d997b0d" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[어시스턴트]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137394</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137394</guid>
+            <pubDate>Sat, 18 Sep 2021 12:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fd7f5122d9fa915b67d4cf5e0e4c5c8fcd45712" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>

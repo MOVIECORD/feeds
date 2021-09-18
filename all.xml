@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Sep 2021 11:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Sep 2021 12:24:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010729035</guid>
             <pubDate>Sat, 18 Sep 2021 11:12:14 GMT</pubDate>
             <content:encoded><![CDATA[[서울=뉴시스]조성우 기자 = 그룹 방탄소년단(BTS)이 오는 19일부터 미국 뉴욕에서 열리는 유엔 총회에 문재인 대통령의 특별사절 자격으로 함께하기 위해 18일 인천국제공항을 통해 출국했다. BTS는 지난 14일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['13주년' 아이유, 유애나 행복하게 만드는 미모[스타IN★] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002989809</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002989809</guid>
+            <pubDate>Sat, 18 Sep 2021 12:22:56 GMT</pubDate>
+            <content:encoded><![CDATA[가수 겸 배우 아이유가 데뷔 13주년을 기념하며 셀카를 공개했다. 아이유는 18일 자신의 인스타그램에 "HAPPY IU'S DAY #IU #UAENA #13"이라는 글과 함께 자신의 모습이 담긴 사진 여러 장을 게재]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['어나더 레코드' 신세경, 진짜 나와 마주하는 과정..티저예고편 공개 (네이버TV연예 ─ 영화)]]></title>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[여전히 가족과 다 함께 모이기 힘든 2021 추석 연휴. 긴 추석 연휴에 코로나19로 인해 안방에서 즐길 수 있는 특선영화 라인업 긴 추석 연휴의 시작인 9월 18일 토요일에는 영화 '7번방의 선물'을 시작으로 '시]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘퀸스 갬빗’, 진짜 ‘체스 여왕’에게 거액 소송 당해 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000762578</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000762578</guid>
-            <pubDate>Sat, 18 Sep 2021 02:01:19 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 체스에 천부적인 재능을 가진 가상의 여성을 소재로 한 넷플릭스 인기 드라마 ‘퀸스 갬빗’이 거액의 소송에 휘말렸다. 연합뉴스는 ‘실존하는 전설의 체스 여왕이 ‘퀸스 갬빗’으로 모욕을 당했다며 500만]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[보이스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137628</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137628</guid>
@@ -207,20 +207,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a64941e61f5a3fbcad8ef6bbf7edb073b35c01a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[인질 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=127738</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=127738</guid>
-            <pubDate>Sun, 15 Aug 2021 15:54:19 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe1285fe4d39de150ca497edf0d91d8b4ad8d8e39" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 포켓몬스터: 정글의 아이, 코코 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=147088</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=147088</guid>
             <pubDate>Wed, 15 Sep 2021 00:49:01 GMT</pubDate>
             <content:encoded><![CDATA[21.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc607318ce0a60a7d8b8e540ea599f588751df07e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[인질 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=127738</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=127738</guid>
+            <pubDate>Sun, 15 Aug 2021 15:54:19 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe1285fe4d39de150ca497edf0d91d8b4ad8d8e39" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[모가디슈 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -335,12 +335,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F76636cce1ab626cb5fb7509ac80b64598a69f4d3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[맨 인 더 다크 2 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150063</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150063</guid>
-            <pubDate>Sat, 18 Sep 2021 07:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdcfa862a88736442d006e5d198dfc161d997b0d" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[어시스턴트 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137394</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137394</guid>
+            <pubDate>Sat, 18 Sep 2021 12:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fd7f5122d9fa915b67d4cf5e0e4c5c8fcd45712" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[캔디맨 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -527,20 +527,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F17%2Filgansports%2F20210917080311812dzvw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[불참 선언, '오징어 게임' [편파적인 씨네리뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210918180022653</link>
-            <guid>https://movie.v.daum.net/v/20210918180022653</guid>
-            <pubDate>Sat, 18 Sep 2021 09:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] ■편파적인 한줄평 : 지루하다고요.참 사설이 길다. 구구절절 넋두리만 늘어놓는 통에 본격적인 게임을 시작하기도 전에 진이 빠진다. 게임 자체도 지루하다. 목숨을 건 게임인데 형벌을 받아도 전혀 충격적이질 않다. 동영상스트리밍(OTT) 넷플릭스 시리즈 ‘오징어 게임’에 불참을 선언하는 이유다.‘오징어 게임’은 목숨과 바꾼 456억원 상금을 타]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F18%2Fsportskhan%2F20210918180023514jxae.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['여순 사건' 이야기 스크린으로..박근형 주연 영화 '동백' 메인 포스터 공개 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210917134238165</link>
             <guid>https://movie.v.daum.net/v/20210917134238165</guid>
             <pubDate>Fri, 17 Sep 2021 09:15:00 GMT</pubDate>
             <content:encoded><![CDATA[[서울경제] 배우 박근형이 주연을 맡은 영화 '동백'이 10월 21일 개봉을 확정 지으며 시선을 압도하는 메인 포스터를 공개했다. 최근 특별법 통과로 재조명되고 있는 ‘여순 사건’의 이야기를 처음으로 스크린에 담아낸 영화 '동백'이 오는 10월 21일 개봉을 확정 지으며 배우 박근형의 애환과 강렬함을 동시에 담은 메인 포스터를 공개했다. 영화 '동백'은]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F17%2Fseouleconomy%2F20210917134247882nwzq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[불참 선언, '오징어 게임' [편파적인 씨네리뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210918180022653</link>
+            <guid>https://movie.v.daum.net/v/20210918180022653</guid>
+            <pubDate>Sat, 18 Sep 2021 09:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] ■편파적인 한줄평 : 지루하다고요.참 사설이 길다. 구구절절 넋두리만 늘어놓는 통에 본격적인 게임을 시작하기도 전에 진이 빠진다. 게임 자체도 지루하다. 목숨을 건 게임인데 형벌을 받아도 전혀 충격적이질 않다. 동영상스트리밍(OTT) 넷플릭스 시리즈 ‘오징어 게임’에 불참을 선언하는 이유다.‘오징어 게임’은 목숨과 바꾼 456억원 상금을 타]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F18%2Fsportskhan%2F20210918180023514jxae.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["본적 없는 리얼 액션"..'007 노 타임 투 다이' 뉴 에이전트 액션 공개 (다음영화 뉴스 ─ 인기)]]></title>
@@ -623,20 +623,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F17%2Fohmynews%2F20210917111804997voaq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['무민 작가' 토베 얀손 춤에 담긴 의미 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210917140000648</link>
+            <guid>https://movie.v.daum.net/v/20210917140000648</guid>
+            <pubDate>Sat, 18 Sep 2021 07:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[[원종빈 기자] ▲ &nbsp;영화 &lt;토베 얀손&gt;의 한 장면.    ⓒ 영화사 진진  &nbsp;*이 글엔 영화 스포일러가 포함돼 있습니다. 핀란드의 명망 높은 예술가 집안에서 태어나 자연히 예술가의 길을 걷게 된 '토베 얀손(알마 포이스티)'은 주관이 뚜렷한 예술세계로 인해&nbsp;아버지와&nbsp;세상의 인정을&nbsp;이끌어내는 데 번번이 실패한다. 이에&nbsp;예술적으로나 경제적으로나]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F17%2Fohmynews%2F20210917140001716amyp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['기적'·'보이스' 끌고, '모가디슈'·'인질' 뒷심..韓영화 꽉찬 추석 극장가 [★날선무비] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210918142700374</link>
             <guid>https://movie.v.daum.net/v/20210918142700374</guid>
             <pubDate>Sat, 18 Sep 2021 11:12:37 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진=각 영화 포스터올해 추석 극장가는 한국 영화로 꽉 찼다. 추석을 맞아 극장가에 출격한 '보이스', '기적'이 추석 가족 관객 몰이에 나서는 가운데 여름 극장가를 뜨겁게 달궜던 영화 '모가디슈'와 '인질'이 아직 영화를 못 본 관객과 가족과 함께 N차 관람을 하려는 관객들과 함께 한다. 추석 연휴를 앞두고 영화 '보이스'와 ']]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F18%2Fstarnews%2F20210918142703172knry.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[변요한 "보이스피싱, 가해자 얼굴 없어 더 위험..경각심 공유" [★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210918130001481</link>
-            <guid>https://movie.v.daum.net/v/20210918130001481</guid>
-            <pubDate>Sat, 18 Sep 2021 11:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 배우 변요한이 13일 오전 화상으로 진행된 영화 '보이스' 개봉 관련 인터뷰에 앞서 포즈를 취하고 있다.  '보이스'는 보이스피싱 조직의 덫에 걸려 모든 것을 잃게 된 서준(변요한 분)이 빼앗긴 돈을 되찾기 위해 중국에 있는 본거지에 잠입, 보이스피싱 설계자 곽프로(김무열 분)를 만나며 벌어지는 리얼범죄액션. 오는 15일 개봉. /]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F18%2Fstarnews%2F20210918130002940jeos.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['한창나이 선녀님', '님아 그 강을 건너지 마오'와 평행 이론 (다음영화 뉴스 ─ 인기)]]></title>
@@ -647,20 +647,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F17%2Fpoctan%2F20210917105415697xvrs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['무민 작가' 토베 얀손 춤에 담긴 의미 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210917140000648</link>
-            <guid>https://movie.v.daum.net/v/20210917140000648</guid>
-            <pubDate>Sat, 18 Sep 2021 07:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[[원종빈 기자] ▲ &nbsp;영화 &lt;토베 얀손&gt;의 한 장면.    ⓒ 영화사 진진  &nbsp;*이 글엔 영화 스포일러가 포함돼 있습니다. 핀란드의 명망 높은 예술가 집안에서 태어나 자연히 예술가의 길을 걷게 된 '토베 얀손(알마 포이스티)'은 주관이 뚜렷한 예술세계로 인해&nbsp;아버지와&nbsp;세상의 인정을&nbsp;이끌어내는 데 번번이 실패한다. 이에&nbsp;예술적으로나 경제적으로나]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F17%2Fohmynews%2F20210917140001716amyp.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[TEN피플] 황정민의 유니버스..류승범→전도연, '인질'에 출연했지만 안 보이는 이유' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210917141801275</link>
+            <guid>https://movie.v.daum.net/v/20210917141801275</guid>
+            <pubDate>Sat, 18 Sep 2021 12:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자]배우 황정민은 티켓파워가 있는 배우다. 신세계, 너는 내운명 등 많은 수작을 만들어 냈다. 관객들도 크레딧에 있는 그의 이름만 보고도 영화관을 찾는다.&nbsp; 그의 매력이 닿는 곳은 비단 관객석 만이 아니다. 옷깃이 스쳤던 동료 배우들 역시 그의 부탁이라면 빛나지 않는 조연도 마다 하지 않는다. 황정민 유니버스가 가진 힘이다.&nbsp;류승범, 전]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F17%2F10asia%2F20210917141807690qycv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['습도 다소 높음', BFI 런던영화제 초청 "날카롭고 달콤한 이야기" [공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210917144049996</link>
-            <guid>https://movie.v.daum.net/v/20210917144049996</guid>
-            <pubDate>Sat, 18 Sep 2021 10:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] /사진=영화 '습도 다소 높음' 포스터영화 '습도 다소 높음'이 제65회 BFI 런던영화제의 장편영화 래프(Laugh) 부문에 공식 초청됐다. 17일 배급사 (주)스튜디오 디에이치엘 측은 "'습도 다소 높음'이 제65회 BFI 런던 영화제 장편영화 래프 부문에 공식 초청됐다"라고 밝혔다. '습도 다소 높음'은 극한의 습도가 엄습해온]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F17%2Fstarnews%2F20210917144050699zhbc.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['홍콩·민주주의·현대사', 부산국제영화제의 선택 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210917114200626</link>
+            <guid>https://movie.v.daum.net/v/20210917114200626</guid>
+            <pubDate>Sat, 18 Sep 2021 12:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[[성하훈 기자] ▲ &nbsp;26회 부산국제영화제 포스터    ⓒ 부산영화제  "올해 프로그램은 한마디로 대박이다." 지난 15일 열린 부산국제영화제(아래 부산영화제) 상영작 발표 기자회견에서 남동철 수석 프로그래머는 올해 선정된 영화들에 대한 자신감을 이렇게 표현했다. 세계 3대 영화제로 불리는 칸, 베를린, 베니스국제영화제로 수상한 작품들이 대거]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F17%2Fohmynews%2F20210917114203238calu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[불참 선언, '오징어 게임' [편파적인 씨네리뷰] (다음영화 뉴스 ─ 최신)]]></title>
