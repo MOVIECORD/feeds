@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Sep 2021 17:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Sep 2021 18:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -215,20 +215,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc607318ce0a60a7d8b8e540ea599f588751df07e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[인질 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=127738</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=127738</guid>
-            <pubDate>Sun, 15 Aug 2021 15:54:19 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe1285fe4d39de150ca497edf0d91d8b4ad8d8e39" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[모가디슈 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=132564</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=132564</guid>
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.07.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F232a8d6e902c63036bbe2ae327d57e82585a639f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[인질 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=127738</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=127738</guid>
+            <pubDate>Sun, 15 Aug 2021 15:54:19 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe1285fe4d39de150ca497edf0d91d8b4ad8d8e39" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 짱구는 못말려: 격돌! 낙서왕국과 얼추 네 명의 용사들 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -559,6 +559,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F17%2FSpoChosun%2F20210917153145397zwoj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['13주년' 아이유, 유애나 행복하게 만드는 미모[스타IN★] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210918185805195</link>
+            <guid>https://movie.v.daum.net/v/20210918185805195</guid>
+            <pubDate>Sat, 18 Sep 2021 13:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 공미나 기자] /사진=아이유 인스타그램가수 겸 배우 아이유가 데뷔 13주년을 기념하며 셀카를 공개했다. 아이유는 18일 자신의 인스타그램에 "HAPPY IU'S DAY #IU #UAENA #13"이라는 글과 함께 자신의 모습이 담긴 사진 여러 장을 게재했다. /사진=아이유 인스타그램사진 속 아이유는 꽃무늬 원피스를 입고 무언가를 촬영 중인 모습이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F18%2Fstarnews%2F20210918204825549kqiv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['모가디슈'x'싱크홀', 코로나19 4차 유행 속 8월 극장가 흥행 견인 [무비노트] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210917115606070</link>
             <guid>https://movie.v.daum.net/v/20210917115606070</guid>
@@ -575,12 +583,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F18%2Fpoctan%2F20210918151010472azrz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['13주년' 아이유, 유애나 행복하게 만드는 미모[스타IN★] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210918185805195</link>
-            <guid>https://movie.v.daum.net/v/20210918185805195</guid>
-            <pubDate>Sat, 18 Sep 2021 13:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 공미나 기자] /사진=아이유 인스타그램가수 겸 배우 아이유가 데뷔 13주년을 기념하며 셀카를 공개했다. 아이유는 18일 자신의 인스타그램에 "HAPPY IU'S DAY #IU #UAENA #13"이라는 글과 함께 자신의 모습이 담긴 사진 여러 장을 게재했다. /사진=아이유 인스타그램사진 속 아이유는 꽃무늬 원피스를 입고 무언가를 촬영 중인 모습이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F18%2Fstarnews%2F20210918204825549kqiv.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[기적 같은 훈훈 실화, 영웅들의 액션 활극.. 심심할 틈 없는 추석 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210917140109732</link>
+            <guid>https://movie.v.daum.net/v/20210917140109732</guid>
+            <pubDate>Fri, 17 Sep 2021 21:03:32 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19로 극장가가 움츠러들었지만, 명절 연휴를 겨냥한 영화는 이번에도 극장가에 자리잡았다. 올 추석에는 한국영화 2편과 마블 영화 1편 그리고 취향을 저격할 다양한 영화들이 관객을 기다린다.우선 눈여겨볼 작품은 배우 박정민과 임윤아가 주연한 ‘기적’이다. 15일 개봉한 영화는 오갈 길이 기찻길밖에 없지만 기차역이 없는 마을에 간이역을 만들려는 고교생 준]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F17%2Fseoul%2F20210917140110186wsdg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[TEN피플] '사랑꾼'이었던 김무열의 교활함 (다음영화 뉴스 ─ 인기)]]></title>
@@ -589,14 +597,6 @@
             <pubDate>Sat, 18 Sep 2021 04:19:46 GMT</pubDate>
             <content:encoded><![CDATA[[텐아시아=김지원 기자]"너라는 변수를 만난 나는 너무나도 내일이 불완전하고 어색하고 불안해. 반이었던 김무열의 내일을 그렇게 만드는 너는 정말로 이젠 날 하나로 만들건가봐."배우 김무열이 지금의 아내 윤승아와 연애 시절 그에게 '취중진담'으로 보냈던 메시지. 실수로 공개 트위터로 메시지가 전송되면서 열애 사실이 밝혀졌다. 한 편의 시 같은 사랑 고백 때문]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F18%2F10asia%2F20210918130714019rzuq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[기적 같은 훈훈 실화, 영웅들의 액션 활극.. 심심할 틈 없는 추석 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210917140109732</link>
-            <guid>https://movie.v.daum.net/v/20210917140109732</guid>
-            <pubDate>Fri, 17 Sep 2021 21:03:32 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19로 극장가가 움츠러들었지만, 명절 연휴를 겨냥한 영화는 이번에도 극장가에 자리잡았다. 올 추석에는 한국영화 2편과 마블 영화 1편 그리고 취향을 저격할 다양한 영화들이 관객을 기다린다.우선 눈여겨볼 작품은 배우 박정민과 임윤아가 주연한 ‘기적’이다. 15일 개봉한 영화는 오갈 길이 기찻길밖에 없지만 기차역이 없는 마을에 간이역을 만들려는 고교생 준]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F17%2Fseoul%2F20210917140110186wsdg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[할리우드 '괴짜 감독'이 만들어낸 가장 낭만적인 괴물 (다음영화 뉴스 ─ 인기)]]></title>
@@ -623,14 +623,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F17%2F10asia%2F20210917141807690qycv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[최광제, 3년 열애 끝 결혼 "소중한 사람 만났다"[전문] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210918172333255</link>
-            <guid>https://movie.v.daum.net/v/20210918172333255</guid>
-            <pubDate>Sat, 18 Sep 2021 09:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[배우 최광제가 결혼한다. 최광제는 18일 자신의 SNS에 결혼 소식을 직접 알리며 설레는 마음을 표했다. 최광제는 오는 26일 3년간 열애한 비연예인 예비 신부와 웨딩마치를 울린다. '추석인사도 드릴 겸 저의 결혼 소식을 알려 드리고 싶어서 조심스레 글을 적어 본다'고 인사한 최광제는 '너무나 소중한 사람을 만나 행복한 연애 생활을 하고 드디어 결혼까]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F18%2Filgansports%2F20210918172336629jkba.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['습도 다소 높음', BFI 런던영화제 초청 "날카롭고 달콤한 이야기" [공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210917144049996</link>
             <guid>https://movie.v.daum.net/v/20210917144049996</guid>
@@ -647,12 +639,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F17%2Fohmynews%2F20210917140001716amyp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['홍콩·민주주의·현대사', 부산국제영화제의 선택 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210917114200626</link>
-            <guid>https://movie.v.daum.net/v/20210917114200626</guid>
-            <pubDate>Sat, 18 Sep 2021 16:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[[성하훈 기자] ▲ &nbsp;26회 부산국제영화제 포스터    ⓒ 부산영화제  "올해 프로그램은 한마디로 대박이다." 지난 15일 열린 부산국제영화제(아래 부산영화제) 상영작 발표 기자회견에서 남동철 수석 프로그래머는 올해 선정된 영화들에 대한 자신감을 이렇게 표현했다. 세계 3대 영화제로 불리는 칸, 베를린, 베니스국제영화제로 수상한 작품들이 대거]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F17%2Fohmynews%2F20210917114203238calu.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[최광제, 3년 열애 끝 결혼 "소중한 사람 만났다"[전문] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210918172333255</link>
+            <guid>https://movie.v.daum.net/v/20210918172333255</guid>
+            <pubDate>Sat, 18 Sep 2021 09:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[배우 최광제가 결혼한다. 최광제는 18일 자신의 SNS에 결혼 소식을 직접 알리며 설레는 마음을 표했다. 최광제는 오는 26일 3년간 열애한 비연예인 예비 신부와 웨딩마치를 울린다. '추석인사도 드릴 겸 저의 결혼 소식을 알려 드리고 싶어서 조심스레 글을 적어 본다'고 인사한 최광제는 '너무나 소중한 사람을 만나 행복한 연애 생활을 하고 드디어 결혼까]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F18%2Filgansports%2F20210918172336629jkba.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['한창나이 선녀님', '님아 그 강을 건너지 마오'와 평행 이론 (다음영화 뉴스 ─ 인기)]]></title>
@@ -661,6 +653,14 @@
             <pubDate>Sat, 18 Sep 2021 17:17:36 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp;개봉 전부터 영화를 미리 본 관객들의 뜨거운 반응을 불러일으키고 있는 영화 '한창나이&nbsp;선녀님'(원호연 감독)이 16일 진행된&nbsp;제13회&nbsp;DMZ국제다큐멘터리영화제에서 관객상을 수상했다. 68세&nbsp;한창나이&nbsp;선녀님의 새로운 꿈을 통해 긍정적인 에너지를 선물하는 다큐멘터리 '한창나이&nbsp;선녀님'이 제13회&nbsp;DMZ국제다큐멘터리영화제에서 관객상을 받]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F17%2Fpoctan%2F20210917105415697xvrs.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[조동혁X차선우 리얼리티 호러 '피어썸' 10월7일 개봉[공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210917143508843</link>
+            <guid>https://movie.v.daum.net/v/20210917143508843</guid>
+            <pubDate>Sat, 18 Sep 2021 18:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 조동혁, 차선우 주연 리얼리티 공포 영화 '피어썸'이 10월 7일 개봉한다. 영화 '피어썸'(감독 이상헌)은 춘천으로 여행을 떠난 밴드에게 벌어지는 소름 끼치는 사건을 다룬 공포 실화. 9월 17일 공개된 메인 예고편에서는 춘천에서 공연을 하게 된 ‘승연’(조동혁)과 밴드원들이 새로운 숙소로 들어가면서 호기심을 자극한다. 깨끗하고]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F17%2Fnewsen%2F20210917143508201pwfj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<킬링 카인드> 티저 예고편 (우리 영화 볼래?)]]></title>
