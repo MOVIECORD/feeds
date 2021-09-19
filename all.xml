@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Sep 2021 10:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Sep 2021 12:24:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -327,20 +327,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F045e3b529565237b7465a357637177d59a1154ba" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[맨 인 더 다크 2 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150063</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150063</guid>
-            <pubDate>Sun, 19 Sep 2021 06:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdcfa862a88736442d006e5d198dfc161d997b0d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[어시스턴트 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137394</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137394</guid>
             <pubDate>Sun, 19 Sep 2021 10:16:22 GMT</pubDate>
             <content:encoded><![CDATA[21.09.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fd7f5122d9fa915b67d4cf5e0e4c5c8fcd45712" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[좋은 사람 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145344</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145344</guid>
+            <pubDate>Sun, 19 Sep 2021 12:23:07 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd153672db1d019a70655713d337ca4ffb9f641b5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[캔디맨 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -527,22 +527,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F19%2Fpoctan%2F20210919155104518mhwu.png" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[죽음도 갈라놓지 못한 가슴 시린 사랑이야기 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210919114800555</link>
-            <guid>https://movie.v.daum.net/v/20210919114800555</guid>
-            <pubDate>Sun, 19 Sep 2021 05:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[[양형석 기자] 영화 &lt;브로크백 마운틴&gt;은 이안 감독의 대표작이자 &lt;다크 나이트&gt;의 조커로 유명한 고 히스 레저의 출세작이다. &lt;브로크백 마운틴&gt;은 2005년 베니스 영화제 황금사자상을 비롯해 골든글러브 4개 부문, 아카데미 영화제 3개 부문을 독식하며 작품성을 인정 받았다. 동성애라는 소재가 다소 파격적이었지만 관객들은 큰 편견을 갖지 않았다. 장국영,]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F19%2Fohmynews%2F20210919114803338cfmp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]'수리남' 11월 도미니카공화국 촬영..해외 로케이션 재개 신호탄 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210919100001258</link>
-            <guid>https://movie.v.daum.net/v/20210919100001258</guid>
-            <pubDate>Sun, 19 Sep 2021 02:00:50 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 유연석과 조우진,박해수,황정민,윤종빈 감독, 하정우(왼쪽 상단부터 시계방향으로) 등 '수리남' 출연진. '수리남'은 오는 11월부터 도미니카공화국에서 촬영을 진행, 팬데믹 이후 한국 작품 해외 촬영 신호탄이 될 전망이다. 윤종빈 감독의 '수리남'이 도미니카 공화국에서 촬영을 진행한다. 19일 영화계에 따르면 '수리남' 측은 10월]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F19%2Fstarnews%2F20210919100003054ulut.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[한 방에 함께 있기도 싫어했다.. '아-하'의 숨겨진 이야기들 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210919120000653</link>
             <guid>https://movie.v.daum.net/v/20210919120000653</guid>
@@ -551,12 +535,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F19%2Fohmynews%2F20210919120001685lzhx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[죽음도 갈라놓지 못한 가슴 시린 사랑이야기 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210919114800555</link>
+            <guid>https://movie.v.daum.net/v/20210919114800555</guid>
+            <pubDate>Sun, 19 Sep 2021 05:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[[양형석 기자] 영화 &lt;브로크백 마운틴&gt;은 이안 감독의 대표작이자 &lt;다크 나이트&gt;의 조커로 유명한 고 히스 레저의 출세작이다. &lt;브로크백 마운틴&gt;은 2005년 베니스 영화제 황금사자상을 비롯해 골든글러브 4개 부문, 아카데미 영화제 3개 부문을 독식하며 작품성을 인정 받았다. 동성애라는 소재가 다소 파격적이었지만 관객들은 큰 편견을 갖지 않았다. 장국영,]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F19%2Fohmynews%2F20210919114803338cfmp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['미나리' '다만악' '자산어보'..화제작·흥행작·신작, 풍성한 '추석 특선 영화' [종합] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210919160305472</link>
             <guid>https://movie.v.daum.net/v/20210919160305472</guid>
             <pubDate>Sun, 19 Sep 2021 07:15:06 GMT</pubDate>
             <content:encoded><![CDATA[[텐아시아=노규민 기자]추석 연휴가 시작 됐다. 코로나19 감염 우려로 고향길 가는 것도 쉽지 않다. 그나마 위안을 주는 것은 '집콕'을 함께할 방구석 1열 '추석특선 영화' 라인업이 그 어느때보다 풍성하다.&nbsp;19일(일)오후 8시 25분 MBC에서 영화 '아이'가 방송된다. '아이'는 일찍 어른이 되어버린 아영(김향기)이 의지할 곳 없이 홀로 아이를 키우는]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F19%2F10asia%2F20210919160307693trbn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독]'수리남' 11월 도미니카공화국 촬영..해외 로케이션 재개 신호탄 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210919100001258</link>
+            <guid>https://movie.v.daum.net/v/20210919100001258</guid>
+            <pubDate>Sun, 19 Sep 2021 02:00:50 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 유연석과 조우진,박해수,황정민,윤종빈 감독, 하정우(왼쪽 상단부터 시계방향으로) 등 '수리남' 출연진. '수리남'은 오는 11월부터 도미니카공화국에서 촬영을 진행, 팬데믹 이후 한국 작품 해외 촬영 신호탄이 될 전망이다. 윤종빈 감독의 '수리남'이 도미니카 공화국에서 촬영을 진행한다. 19일 영화계에 따르면 '수리남' 측은 10월]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F19%2Fstarnews%2F20210919100003054ulut.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['보이스' 4일 연속 1위, 25만↑[박스오피스] (다음영화 뉴스 ─ 인기)]]></title>
@@ -591,14 +591,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F19%2Fstarnews%2F20210919115403776tcrs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['타임 100' 윤여정 vs '불륜 인정' 래드윔프스 멤버 [업앤다운] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210919100003266</link>
-            <guid>https://movie.v.daum.net/v/20210919100003266</guid>
-            <pubDate>Sun, 19 Sep 2021 02:00:50 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 최고의 한주를 보낸 UP 스타와, 최악의 한주를 보낸 DOWN윤여정이 타임이 선정한 세계에서 가장 영향력 있는 100인에 선정된 반면 한국에도 인기가 두터운 일본밴드 래드윔프스의 멤버 쿠와하라 아키라가 20대 전직 모델과 불륜을 인정해 충격을 안겼다. 사진/AFPBBNews=뉴스1, 쿠와하라 아키라SNS▲▲ 배우 윤여정(74)이 미]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F19%2Fstarnews%2F20210919100004715potc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA["게임을 시작하지" 생존 게임, 또 뭐 있어? ['오징어 게임' 할 사람③] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210919070206489</link>
             <guid>https://movie.v.daum.net/v/20210919070206489</guid>
@@ -613,6 +605,14 @@
             <pubDate>Sun, 19 Sep 2021 05:13:48 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='기적' 스틸컷배우 이성민과 박정민이 스크린 속 부자(父子) 연기로 관객의 눈물을 쏙 뺀다. 특히 마지막 이성민과 박정민의 대화신에서는 배우들도 실제 눈물을 펑펑 흘렸다. 이성민은 영화 속에서 아들을 사랑하지만 따뜻한 속내를 쉽게 드러내지 못하는 태윤을 잘 표현해냈다. 이성민은 영화를 촬영하며 가장 힘들었던 장면에 대해 극중]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F19%2Fstarnews%2F20210919122904333afjb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['타임 100' 윤여정 vs '불륜 인정' 래드윔프스 멤버 [업앤다운] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210919100003266</link>
+            <guid>https://movie.v.daum.net/v/20210919100003266</guid>
+            <pubDate>Sun, 19 Sep 2021 02:00:50 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 최고의 한주를 보낸 UP 스타와, 최악의 한주를 보낸 DOWN윤여정이 타임이 선정한 세계에서 가장 영향력 있는 100인에 선정된 반면 한국에도 인기가 두터운 일본밴드 래드윔프스의 멤버 쿠와하라 아키라가 20대 전직 모델과 불륜을 인정해 충격을 안겼다. 사진/AFPBBNews=뉴스1, 쿠와하라 아키라SNS▲▲ 배우 윤여정(74)이 미]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F19%2Fstarnews%2F20210919100004715potc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[임윤아 "'기적' 같은 순간? 소녀시대 데뷔"[인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
@@ -631,6 +631,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F19%2Fstarnews%2F20210919113201784unzs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[그때 그 시절 무뚝뚝하기만 했던 아버지의 진짜 속내 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210919123600082</link>
+            <guid>https://movie.v.daum.net/v/20210919123600082</guid>
+            <pubDate>Sun, 19 Sep 2021 05:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[[장혜령 기자] &nbsp;        ▲ &nbsp;영화 &lt;기적&gt; 포스터    ⓒ 롯데엔터테인먼트   &nbsp;*주의! 이 글에는 영화의 스포일러가 포함돼 있습니다. 무뚝뚝한 기관사 아버지(이성민), 엄마 같은 누나 보경(이수경)과 시골 마을에 사는 준경(박정민)은 몇 년째 청와대로 편지를 보내는 소년이다. 마을은 도로가 없다. 기차가 다니는 승부역까지 가려면 터널 3개를 지나]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F19%2Fohmynews%2F20210919123601591sjkw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['007 노 타임 투 다이' 韓 최초 개봉 11일 앞두고 예매율 1위 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210919101351507</link>
             <guid>https://movie.v.daum.net/v/20210919101351507</guid>
@@ -645,14 +653,6 @@
             <pubDate>Sun, 19 Sep 2021 10:16:36 GMT</pubDate>
             <content:encoded><![CDATA[휴대전화를 통해 들려오는 악마의 목소리. 보이스피싱 사기는 한 인간의 삶을 송두리째 앗아감은 물론 남은 가족들도 평생을 고통 속에 살게 한다. 우리는 이미 20대 취업준비생과 60대 가장 등 수많은 이들이 극단적 선택을 하는 안타까운 상황을 목도했다. 코로나19 시국 속, 서민경제를 위협하는 보이스피싱 범죄가 기승을 부리고 있다. 추석 명절을 앞두고는 택]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F19%2Fhankooki%2F20210919104112302lmtz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[그때 그 시절 무뚝뚝하기만 했던 아버지의 진짜 속내 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210919123600082</link>
-            <guid>https://movie.v.daum.net/v/20210919123600082</guid>
-            <pubDate>Sun, 19 Sep 2021 05:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[[장혜령 기자] &nbsp;        ▲ &nbsp;영화 &lt;기적&gt; 포스터    ⓒ 롯데엔터테인먼트   &nbsp;*주의! 이 글에는 영화의 스포일러가 포함돼 있습니다. 무뚝뚝한 기관사 아버지(이성민), 엄마 같은 누나 보경(이수경)과 시골 마을에 사는 준경(박정민)은 몇 년째 청와대로 편지를 보내는 소년이다. 마을은 도로가 없다. 기차가 다니는 승부역까지 가려면 터널 3개를 지나]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F19%2Fohmynews%2F20210919123601591sjkw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[다니엘 크레이그x라미 말렉 '007 노 타임 투 다이' 예매율 1위[공식] (다음영화 뉴스 ─ 인기)]]></title>
