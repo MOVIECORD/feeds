@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-23T10:18:51.427Z</updated>
+    <updated>2021-09-23T11:15:01.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한산했던 극장가…추석의 승자는 '오징어게임'이었나]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000320308</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000320308"/>
+        <updated>2021-09-23T11:13:22.242Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]추석 연휴, 극장가가 다소 한산했던 가운데 OTT는 화제의 신작으로 뜨거웠다. 코로나19 속의 달라진 추석 연휴 풍경이 의미심장하다. 추석 극장가는 보이스피싱 범죄를 다룬 영화 '보이스'(]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['007 노타임 투다이' 다니엘 크레이그, 죽음과 맞닿은 마지막 미션..파이널 예고편]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004479173</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000491087"/>
         <updated>2021-09-23T08:18:13.390Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] 배우 이혜영이 홍상수 감독의 26번째 장편 영화 '당신얼굴 앞에서' 주연을 맡아 새로운 모습을 예고한다. 이혜영은 지난 1981년 데뷔, 영화, 뮤지컬, 연극, 드라마 전반에 걸쳐 활동하며 뛰]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한승연 주연작 '쇼미더고스트' 오늘(23일) 극장 동시 VOD 서비스 시작]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000491086</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000491086"/>
-        <updated>2021-09-23T08:18:13.393Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 카라 출신 배우 한승연 주연작 '쇼미더고스트'가 극장동시 VOD 서비스를 시작한다. 인디스토리 측은 9월 23일 "'쇼미더고스트'가 극장 동시 IPTV 및 케이블 TV VOD 서비스를 시작한다]]></content>
     </entry>
 </feed>
