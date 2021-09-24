@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 17:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 19:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -279,6 +279,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F91f95c53e40938959224392447a8870b8cb7eb30" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[뱅드림! 로젤리아 에피소드Ⅱ: 송 아이 엠 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151831</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151831</guid>
+            <pubDate>Thu, 02 Sep 2021 00:47:47 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F045e3b529565237b7465a357637177d59a1154ba" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[종착역 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145343</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145343</guid>
@@ -293,14 +301,6 @@
             <pubDate>Fri, 24 Sep 2021 08:18:24 GMT</pubDate>
             <content:encoded><![CDATA[21.09.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd153672db1d019a70655713d337ca4ffb9f641b5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[뱅드림! 로젤리아 에피소드Ⅱ: 송 아이 엠 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151831</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151831</guid>
-            <pubDate>Thu, 02 Sep 2021 00:47:47 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F045e3b529565237b7465a357637177d59a1154ba" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 마이 리틀 포니: 새로운 희망 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -599,20 +599,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F23%2FNEWS1%2F20210923143639286naoc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['휴가' 5년차 해고노동자, 1882일만에 찾은 일상 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210924092404013</link>
-            <guid>https://movie.v.daum.net/v/20210924092404013</guid>
-            <pubDate>Fri, 24 Sep 2021 01:59:40 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] ‘2021년 올해의 독립영화’로 회자되고 있는 영화 '휴가'가 스틸을 공개했다. '휴가'는 길 위에서 1,882일째 농성중인 해고노동자 재복이, 해고무효소송의 최종 패소가 결정되자 집으로 열흘 간의 휴가를 떠나오면서 벌어지는 이야기를 담은 영화. “거친 삶에 지친 모두에게 희망을 선사하고 인간의 아름다운 품격을 보여주는 수작”이라고 ‘휴가’]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F24%2Fsportsdonga%2F20210924092406635meex.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[정진운X조재윤 '브라더', 10월 7일 개봉 확정 [공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210923094048912</link>
             <guid>https://movie.v.daum.net/v/20210923094048912</guid>
             <pubDate>Fri, 24 Sep 2021 09:15:39 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 정진운과 조재윤 주연작 '브라더'가 다음달 7일 개봉한다. 영화 '브라더' 측은 23일 "개봉일을 오는 10월 7일로 확정했다"라고 밝혔다. 이어 "'브라더' 정진운·조재윤 콤비는 '불한당: 나쁜 놈들의 세상' 설경구·임시완, '서복' 공유·박보검, '신세계' '다만 악에서 구하소서' 이정재·황정민 등 브로맨스 흥행 계보를]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F23%2Fmydaily%2F20210923094048625bxgx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['휴가' 5년차 해고노동자, 1882일만에 찾은 일상 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210924092404013</link>
+            <guid>https://movie.v.daum.net/v/20210924092404013</guid>
+            <pubDate>Fri, 24 Sep 2021 01:59:40 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] ‘2021년 올해의 독립영화’로 회자되고 있는 영화 '휴가'가 스틸을 공개했다. '휴가'는 길 위에서 1,882일째 농성중인 해고노동자 재복이, 해고무효소송의 최종 패소가 결정되자 집으로 열흘 간의 휴가를 떠나오면서 벌어지는 이야기를 담은 영화. “거친 삶에 지친 모두에게 희망을 선사하고 인간의 아름다운 품격을 보여주는 수작”이라고 ‘휴가’]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F24%2Fsportsdonga%2F20210924092406635meex.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[드니 빌뇌브 감독 '듄', 24개국 450억 오프닝 수익..10월 20일 韓개봉[공식] (다음영화 뉴스 ─ 인기)]]></title>
@@ -631,20 +631,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F24%2Fnewsy%2F20210924151945801jkdr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['기적' 고창석→허준석, 보기만 해도 든든한 신스틸러 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210924074006639</link>
-            <guid>https://movie.v.daum.net/v/20210924074006639</guid>
-            <pubDate>Fri, 24 Sep 2021 00:51:35 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '기적(이장훈 감독)'이 풍성한 재미를 완성한 신 스틸러를 24일 공개했다. '기적'은 오갈 수 있는 길은 기찻길밖에 없지만 정작 기차역은 없는 마을에 간이역 하나 생기는 게 유일한 인생 목표인 준경(박정민)과 동네 사람들의 이야기를 그린 영화다. 고창석부터 김강훈, 정문성, 허준석까지 명품 배우들의 활약으로 시선을 모으고 있다. 준경의 비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F24%2Filgansports%2F20210924074011034xucu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[이슬이 누나가 가짜?..'극장판 짱구', 명장면 3 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210924113431973</link>
             <guid>https://movie.v.daum.net/v/20210924113431973</guid>
             <pubDate>Fri, 24 Sep 2021 15:16:28 GMT</pubDate>
             <content:encoded><![CDATA[[동아닷컴] 영화 '극장판 짱구는 못말려: 격돌! 낙서왕국과 얼추 네 명의 용사들'이 관객들의 마음을 사로잡은 명장면 ‘베스트 3’를 전격 공개했다. '극장판 짱구는 못말려: 격돌! 낙서왕국과 얼추 네 명의 용사들'은 낙서왕국의 침공을 막기 위해 용사로 선택된 짱구가 ‘미라클 크레용’으로 탄생시킨 낙서 용사들과 함께 위험에 빠진 떡잎마을과 세계를 구하기]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F24%2Fsportsdonga%2F20210924113432785mqfx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['기적' 고창석→허준석, 보기만 해도 든든한 신스틸러 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210924074006639</link>
+            <guid>https://movie.v.daum.net/v/20210924074006639</guid>
+            <pubDate>Fri, 24 Sep 2021 00:51:35 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '기적(이장훈 감독)'이 풍성한 재미를 완성한 신 스틸러를 24일 공개했다. '기적'은 오갈 수 있는 길은 기찻길밖에 없지만 정작 기차역은 없는 마을에 간이역 하나 생기는 게 유일한 인생 목표인 준경(박정민)과 동네 사람들의 이야기를 그린 영화다. 고창석부터 김강훈, 정문성, 허준석까지 명품 배우들의 활약으로 시선을 모으고 있다. 준경의 비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F24%2Filgansports%2F20210924074011034xucu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['보이스' 변요한, 新 인생캐..변요한이라 가능했던 과몰입 포인트 셋 (다음영화 뉴스 ─ 인기)]]></title>
@@ -655,12 +655,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F24%2Fstarnews%2F20210924143411082gwei.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['007' 다니엘 크레이그 "女제임스본드? 왜 굳이..멋진 배역 따로 만들어야"[Oh!llywood] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210923140002245</link>
-            <guid>https://movie.v.daum.net/v/20210923140002245</guid>
-            <pubDate>Thu, 23 Sep 2021 05:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] '007' 배우 다니엘 크레이그는 제임스 본드 같은 '좋은' 캐릭터는 여성을 위해 따로 만들어져야 한다고 생각한다.&nbsp;&nbsp; '007 노 타임 투 다이'로 돌아오는 크레이그는 최근 라디오타임즈와의 인터뷰에서&nbsp;여배우들이&nbsp;본드가 되기 보다는 그들을 위한&nbsp;새로운 캐릭터를 가질&nbsp;자격이 있다고 자신의 생각을 밝힌 것. 크레이그는 여성 본드를 지지]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F23%2Fpoctan%2F20210923140002193imce.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['핀란드 상징' 캐릭터 탄생의 비밀 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210924131801130</link>
+            <guid>https://movie.v.daum.net/v/20210924131801130</guid>
+            <pubDate>Fri, 24 Sep 2021 19:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[[김상목 기자] ▲ "토베 얀손' 포스터&nbsp;영화 포스터 이미지    ⓒ 영화사 진진  &nbsp;1_박제된 위인을 생생한 인간으로 되돌리려는 시도 '위인'이라 불리는 이들의 삶은 흔히 후대에 의해 팔다리가 잘리듯 취사선택되곤 한다. 모두에게 무난한 업적과 미담은 틀로 찍어낸 공식처럼 무한 복제되어 전파되는 과정을 거치게 마련이다. 하지만 정치사회적으로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F24%2Fohmynews%2F20210924131802914flni.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<007 노 타임 투 다이> 파이널 예고편 (우리 영화 볼래?)]]></title>
@@ -1307,7 +1307,7 @@
             <link>https://tv.naver.com/v/22601990</link>
             <guid>https://tv.naver.com/v/22601990</guid>
             <pubDate>Fri, 24 Sep 2021 08:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210924_253/BCCZI_1632471145355qGYPS_JPEG/0545ad22-1d0f-11ec-809b-a0369ff94ed0_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1315,7 +1315,7 @@
             <link>https://tv.naver.com/v/22600033</link>
             <guid>https://tv.naver.com/v/22600033</guid>
             <pubDate>Fri, 24 Sep 2021 08:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210924_98/rwkyD_1632467762819SD3Wp_JPEG/27fd9715-1d07-11ec-9845-505dacfbaa5c_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1323,7 +1323,7 @@
             <link>https://tv.naver.com/v/22599995</link>
             <guid>https://tv.naver.com/v/22599995</guid>
             <pubDate>Fri, 24 Sep 2021 07:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210924_294/tKUOw_16324677023700uqXU_JPEG/0fc073b8-1d07-11ec-bf57-246e963a4708_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1331,7 +1331,7 @@
             <link>https://tv.naver.com/v/22599976</link>
             <guid>https://tv.naver.com/v/22599976</guid>
             <pubDate>Fri, 24 Sep 2021 07:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210924_195/yhBGb_1632467662670MRTeD_JPEG/f4cf53d3-1d06-11ec-b778-a0369ff963bc_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1339,7 +1339,7 @@
             <link>https://tv.naver.com/v/22598633</link>
             <guid>https://tv.naver.com/v/22598633</guid>
             <pubDate>Fri, 24 Sep 2021 07:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210924_45/CdYgv_1632465141656f0g9S_JPEG/060d9927-1d01-11ec-b6bf-48df379cc9e4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
