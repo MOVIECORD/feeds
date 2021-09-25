@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-25T13:21:27.527Z</updated>
+    <updated>2021-09-25T14:15:24.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스, 연상호·최규석 '지옥' 11월19일 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0004973888</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0004973888"/>
+        <updated>2021-09-25T14:13:47.067Z</updated>
+        <content type="html"><![CDATA[넷플릭스는 오리지널 시리즈 '지옥'을 11월 19일 공개한다고 25일 전했다. 사람들이 지옥에서 온 사자들에게 지옥행을 선고받는 사건을 다룬 드라마다. 초자연적 현상의 실체를 밝히려는 이들이 종교단체 새진리회와 얽히]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김고은X안보현 “유미 사랑세포야 안녕?”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000039088</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005620169"/>
         <updated>2021-09-25T02:31:22.086Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 전 세계가 기다려 온 액션 블록버스터 '007 노 타임 투 다이'가 시리즈 사상 최고 예매량을 기록하며 본격 흥행 카운트다운에 돌입했다. 오는 29일 전세계 최초로 국내 개봉하는 영화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['007 노 타임 투 다이' 역대 시리즈 최고 사전 예매량 기록]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010735771</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010735771"/>
-        <updated>2021-09-25T01:58:39.638Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]백승훈 인턴 기자 = 영화 '007 노 타임 투 다이'가 역대 시리즈 사상 최고 사전 예매량을 기록하며 압도적 흥행을 예고하고 있다. 25일 영화진흥위원회 영화관입장권 통합전산망에 따르면 '007 노]]></content>
     </entry>
 </feed>
