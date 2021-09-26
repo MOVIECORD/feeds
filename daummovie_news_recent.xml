@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-09-26T18:18:37.922Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 26 Sep 2021 19:13:33 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어린 시절 엄마를 친구로 만나.. 두 소녀의 특별한 비밀과 감동]]></title>
+            <link>https://v.daum.net/v/20210927040731124</link>
+            <guid>https://v.daum.net/v/20210927040731124</guid>
+            <pubDate>Sun, 26 Sep 2021 19:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[과거로 돌아가 어린 시절 엄마와 또래 친구로 만난다면, 가끔 이해되지 않고 멀게만 느껴진 엄마와 둘도 없는 친구가 되지 않을까. 프랑스 출신 셀린 시아마 감독의 영화 ‘쁘띠 마망’은 이런 상상에서 출발한다. 8살 소녀 넬리(조세핀 산스)는 외할머니의 유품을 정리하기 위해 가족과 함께 시골집에 내려온다. 호기심 어린 눈으로 엄마와 할머니의 흔적들을 살펴보지만]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F27%2Fkukminilbo%2F20210927040733196yxdw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>

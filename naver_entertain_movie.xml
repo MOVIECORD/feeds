@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-26T18:18:37.874Z</updated>
+    <updated>2021-09-26T19:13:33.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린 시절 엄마를 친구로 만나… 두 소녀의 특별한 비밀과 감동]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001472863</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001472863"/>
+        <updated>2021-09-26T19:12:09.303Z</updated>
+        <content type="html"><![CDATA[과거로 돌아가 어린 시절 엄마와 또래 친구로 만난다면, 가끔 이해되지 않고 멀게만 느껴진 엄마와 둘도 없는 친구가 되지 않을까. 프랑스 출신 셀린 시아마 감독의 영화 ‘쁘띠 마망’은 이런 상상에서 출발한다. 8살 소]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프랑스 작가 ‘조르주 페렉의 영화사용법' 특별전]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000861682</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001352552"/>
         <updated>2021-09-26T00:52:05.681Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 제26회 부산국제영화제(BIFF)가 티켓 예매 일정을 공개했다. 제26회 부산국제영화제 개·폐막작 티켓 예매는 오는 28일 오후 2시부터 10월 15일까지 온라인과 모바일을 통해 가능하다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘지옥’이 열린다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000763588</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000763588"/>
-        <updated>2021-09-26T00:52:05.681Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 동영상스트리밍서비스(OTT) 넷플릭스에 ‘지옥’이 열린다. 넷플릭스 측은 26일 “새 오리지널 시리즈 ‘지옥’(감독 연상호)이 오는 11월19일 공개된다”고 밝혔다. ‘지옥’은 예고없이 등장한 지옥의]]></content>
     </entry>
 </feed>
