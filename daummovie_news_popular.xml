@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Sep 2021 17:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Sep 2021 18:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F25%2Fstarnews%2F20210925123016220wixp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[맷 데이먼 '스틸워터', 고인물 아재에게 찾아온 일장춘몽 [N리뷰]]]></title>
+            <link>https://movie.v.daum.net/v/20210925113414779</link>
+            <guid>https://movie.v.daum.net/v/20210925113414779</guid>
+            <pubDate>Sun, 26 Sep 2021 18:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = *영화의 주요 내용을 포함한 스포일러가 있습니다. 일부 미국인들은 특유의 단순하고 무지한 태도로 인해 종종 지구촌 호사가들의 농담거리가 되고는 한다. 영화 '스틸워터'(감독 토마스 맥카시)의 주인공 빌 베이커(맷 데이먼 분)도 그런 미국인에 대한 편견에 맞아떨어지는 인물이다. 오클라호마주 출신 중년의 노동자인 그는 낡고]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F25%2FNEWS1%2F20210925113415477kmvl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['보이스' 11일 연속 1위..누적 90만 눈앞 [Nbox]]]></title>
             <link>https://movie.v.daum.net/v/20210926101351148</link>
             <guid>https://movie.v.daum.net/v/20210926101351148</guid>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 26 Sep 2021 15:15:47 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진=아레나 옴므 플러스배우 천우희의 과감한 패션 화보가 공개 됐다. 26일 아레나 옴므 플러스는 천우희와 화보를 공개했다. 화보에서 천우희는 이전에는 선보이지 않던 새로운 감성의 콘셉트를 선보였다. 소파에 올라서고, 디테일이 화려한 의상으로 새로운 느낌을 보여줬다. 이어진 인터뷰에서 천우희는 "진정성을 가지고 진심으로 대하는]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F26%2Fstarnews%2F20210926175515526mljw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스, 넷플릭스 이어 '디즈니+'도 품었다..11월 12일 서비스 시작]]></title>
-            <link>https://movie.v.daum.net/v/20210926105546882</link>
-            <guid>https://movie.v.daum.net/v/20210926105546882</guid>
-            <pubDate>Sun, 26 Sep 2021 09:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] LG유플러스가 마침내 ‘디즈니플러스’(디즈니+)를 품었다. 넷플릭스에 이은 이번 제휴로 LG유플러스가 유료방송 점유율 확대의 발판을 마련했다는 평가다. LG유플러스는 월트디즈니 컴퍼니와 온라인동영상서비스(OTT) ‘디즈니+’의 IPTV·모바일 제휴를 위한 계약을 완료했다고 26일 밝혔다.이에따라 양사는 11월 12일 국내 서비스를 시작하는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F26%2Fsportskhan%2F20210926182453260rbje.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
