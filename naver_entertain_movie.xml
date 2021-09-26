@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-26T19:13:33.048Z</updated>
+    <updated>2021-09-26T20:17:04.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주말 1위 '보이스' 100만 돌파 눈앞‥94만↑[박스오피스]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000491961</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000491961"/>
+        <updated>2021-09-26T20:15:32.457Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '보이스'가 100만 돌파를 앞두고 있다. 9월 27일 영화진흥위원회 통합전산망 집계에 따르면 지난 주말 기간(24일~26일) 영화 '보이스'(감독 김선, 김곡)가 18만2,365명을 모으며]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린 시절 엄마를 친구로 만나… 두 소녀의 특별한 비밀과 감동]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001472863</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004480428"/>
         <updated>2021-09-26T00:52:05.681Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 전 세계가 기다려온 액션 블록버스터 '007 노 타임 투 다이'가 시리즈 사상 최고 예매량을 기록하며 본격 흥행 카운트다운에 돌입했다. 26일 영화진흥위원회 영화관입장권 통합전산망 예매율 집]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제26회 부산국제영화제, 28일 예매 오픈… NFT 티켓 기술 도입]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001352552</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001352552"/>
-        <updated>2021-09-26T00:52:05.681Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 제26회 부산국제영화제(BIFF)가 티켓 예매 일정을 공개했다. 제26회 부산국제영화제 개·폐막작 티켓 예매는 오는 28일 오후 2시부터 10월 15일까지 온라인과 모바일을 통해 가능하다]]></content>
     </entry>
 </feed>
