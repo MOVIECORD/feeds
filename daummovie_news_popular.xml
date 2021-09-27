@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Sep 2021 19:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Sep 2021 20:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,14 +112,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F27%2Fkukminilbo%2F20210927040733196yxdw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['보이스' 원진아, 변요한 각성 시킨 열고 닫는 존재 [★신스틸러]]]></title>
-            <link>https://movie.v.daum.net/v/20210926110003965</link>
-            <guid>https://movie.v.daum.net/v/20210926110003965</guid>
-            <pubDate>Sun, 26 Sep 2021 02:32:11 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 원진아 /사진제공=유본컴퍼니배우 원진아가 영화 '보이스'(감독 김선·김곡)에 특별 출연했다. 그는 '보이스'의 시작과 끝을 담당했다. '보이스'는 보이스피싱 조직의 덫에 걸려 모든 것을 잃게 된 서준(변요한 분)이 빼앗긴 돈을 되찾기 위해 중국에 있는 본거지에 잠입, 보이스피싱 설계자 곽프로(김무열 분)를 만나며 벌어지는 리얼범죄액]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F26%2Fstarnews%2F20210926110005129ygre.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[메타버스 소재로 한 일본판 '미녀와 야수']]></title>
             <link>https://movie.v.daum.net/v/20210927105401728</link>
             <guid>https://movie.v.daum.net/v/20210927105401728</guid>
@@ -134,6 +126,14 @@
             <pubDate>Mon, 27 Sep 2021 11:13:16 GMT</pubDate>
             <content:encoded><![CDATA[[김상목 기자] ▲ &nbsp;영화 &lt;아-하: 테이크 온 미&gt; 포스터 이미지.    ⓒ (주)컨텐츠썬  &nbsp;1_'Take on me'로 A-ha를 만나다&nbsp;'Take on me'의 유려한, 그 특유의 한 번 들으면 잊기 힘든 신시사이저 멜로디가 귓가에 울려 퍼진다. 1985년에 발표된 그룹 A-ha의 대표곡이자 전 세계 데뷔곡. 현재까지 13억 회 이상]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F27%2Fohmynews%2F20210927140004987qekq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['보이스' 원진아, 변요한 각성 시킨 열고 닫는 존재 [★신스틸러]]]></title>
+            <link>https://movie.v.daum.net/v/20210926110003965</link>
+            <guid>https://movie.v.daum.net/v/20210926110003965</guid>
+            <pubDate>Sun, 26 Sep 2021 02:32:11 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 원진아 /사진제공=유본컴퍼니배우 원진아가 영화 '보이스'(감독 김선·김곡)에 특별 출연했다. 그는 '보이스'의 시작과 끝을 담당했다. '보이스'는 보이스피싱 조직의 덫에 걸려 모든 것을 잃게 된 서준(변요한 분)이 빼앗긴 돈을 되찾기 위해 중국에 있는 본거지에 잠입, 보이스피싱 설계자 곽프로(김무열 분)를 만나며 벌어지는 리얼범죄액]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F26%2Fstarnews%2F20210926110005129ygre.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['보이스' 12일 연속 박스오피스 1위..100만 돌파 눈 앞]]></title>
