@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-28T10:18:19.477Z</updated>
+    <updated>2021-09-28T11:14:53.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신수원 감독 신작 '오마주' 도쿄국제영화제 경쟁부문 진출]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010741171</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010741171"/>
+        <updated>2021-09-28T11:13:20.856Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 김지은 기자 = 신수원 감독의 신작 '오마주'가 제34회 도쿄국제영화제 공식 경쟁부문에 초청됐다. 도쿄국제영화제 집행위원회는 총 15편의 국제경쟁부문 초청작을 28일 발표했다. 다음 달 30일부터 1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미투 가해자' 조현훈, 필명으로 드라마 집필… "숨길 의도 없었다" 변명]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000275422</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000045437"/>
         <updated>2021-09-28T08:18:22.861Z</updated>
         <content type="html"><![CDATA[“영화는 보이는 라디오가 아니다. 인터랙티브하게 만들 수 있다. 장 뤽 고다르의 점프컷, 샘 페킨파의 슬로모션, 스티븐 스필버그의 긴장감 넘치는 화면은 평면의 스크린을 입체적으로 만든다. 관객이 그 안에 뛰어드는 거]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이명세 감독의 드림 프로젝트, VR로 구현되다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000045436</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000045436"/>
-        <updated>2021-09-28T08:18:22.863Z</updated>
-        <content type="html"><![CDATA[이명세 감독과 가상현실(VR)이 만난다. 감독이 오랫동안 가슴에 품고 살아온 시나리오, 어쩌면 데뷔작이 됐을지 모를 &lt;아버지가 사라졌다&gt;라는 영화를 VR로 구현해보는 프로젝트다. 이명세 감독이 직접 출연해 작품 전반]]></content>
     </entry>
 </feed>
