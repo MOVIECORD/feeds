@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-28T19:14:36.751Z</updated>
+    <updated>2021-09-28T20:17:55.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[98만↑ '보이스' 변요한X김무열 100만 공약 '스우파' 댄스 본다[박스오피스]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000493010</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000493010"/>
+        <updated>2021-09-28T20:16:17.186Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '보이스'가 98만 관객을 돌파, 100만을 앞두고 있다. 9월 29일 영화진흥위원회 통합전산망 집계에 따르면 28일 영화 '보이스'(감독 김선, 김곡)가 2만732명을 동원하며 전체 박스오피]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍상수 만난 이혜영, 깊어진 여운 (당신얼굴 앞에서)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000935477</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000275417"/>
         <updated>2021-09-28T08:18:22.857Z</updated>
         <content type="html"><![CDATA[[SBS연예뉴스 | 김지혜 기자] 넷플릭스 드라마 '오징어 게임'을 연출한 황동혁 감독이 빨간 머리로 변신한 성기훈의 선택에 대해 말했다. 28일 오후 온라인으로 진행된 인터뷰에서 황동혁 감독은 드라마 후반부 성기훈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류승룡X하지원 '비광', 복병작 되나 [필름:리포트]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001195708</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001195708"/>
-        <updated>2021-09-28T08:18:22.861Z</updated>
-        <content type="html"><![CDATA[영화 '미쓰백' 이지원 감독과 배우 류승룡, 하지원, 김시아의 신선한 만남, 연기파 배우들의 탄탄한 조합으로 기대를 모으는 영화 '비광'이 촬영을 마무리 하고 개봉 행보에 나선다. 지난 6월 촬영을 시작한 영화 '비]]></content>
     </entry>
 </feed>
