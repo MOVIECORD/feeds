@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 11:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 12:26:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -207,20 +207,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a64941e61f5a3fbcad8ef6bbf7edb073b35c01a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[캔디맨 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=133672</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=133672</guid>
-            <pubDate>Thu, 09 Sep 2021 00:51:10 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F60b47aafb1eb2ab009db8999b2b7fa45580baa6d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[모가디슈 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=132564</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=132564</guid>
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.07.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F232a8d6e902c63036bbe2ae327d57e82585a639f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[캔디맨 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=133672</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=133672</guid>
+            <pubDate>Thu, 09 Sep 2021 00:51:10 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F60b47aafb1eb2ab009db8999b2b7fa45580baa6d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[죽을 때까지 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -247,20 +247,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ab42f8d99b9b6a6bceb169917a3a0c2c222e942" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[인질 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=127738</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=127738</guid>
-            <pubDate>Sun, 15 Aug 2021 15:54:19 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5c2c57cab283c1111fd1c5f5f0ac05b9be2780c7" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 포켓몬스터: 정글의 아이, 코코 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=147088</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=147088</guid>
             <pubDate>Wed, 15 Sep 2021 00:49:01 GMT</pubDate>
             <content:encoded><![CDATA[21.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc607318ce0a60a7d8b8e540ea599f588751df07e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[인질 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=127738</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=127738</guid>
+            <pubDate>Sun, 15 Aug 2021 15:54:19 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5c2c57cab283c1111fd1c5f5f0ac05b9be2780c7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[뱅드림! 로젤리아 에피소드Ⅱ: 송 아이 엠 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -519,6 +519,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F28%2Ftvreport%2F20210928162204582rpqz.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
+            <title><![CDATA[마동석, 전 세계 향한 비상 '이터널스' 본격 홍보 나섰다..글로벌 흥행 기대감[Oh!쎈 이슈] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210927172734580</link>
+            <guid>https://movie.v.daum.net/v/20210927172734580</guid>
+            <pubDate>Tue, 28 Sep 2021 08:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박판석 기자]&nbsp;배우 마동석이 마블 ‘이터널스’ 주연 배우로서 공식 홍보 일정에 돌입할 예정이다. 전세계가 기다리고 있는 ‘이터널스’ 개봉에 대한 기대감 역시 높아지고 있다.&nbsp; 마동석은 지난 24일 ‘이터널스’ 개봉을 위해 디즈니와 공식 홍보 영상을 촬영하고 인터뷰를 진행했다. 공개된 사진 속에서 안젤리나 졸리, 리처든 매든, 쿠마일 닌자아니 등]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F27%2Fpoctan%2F20210927172734486qadu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[마블 간 마동석, '이터널스' 홍보 시작..길가메시의 주무기는? (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210927142705323</link>
             <guid>https://movie.v.daum.net/v/20210927142705323</guid>
@@ -535,12 +543,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F28%2Fnewsen%2F20210928081231590jnzw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[마동석, 전 세계 향한 비상 '이터널스' 본격 홍보 나섰다..글로벌 흥행 기대감[Oh!쎈 이슈] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210927172734580</link>
-            <guid>https://movie.v.daum.net/v/20210927172734580</guid>
+            <title><![CDATA['듄', 해외 2주차 900억 원 흥행수익..속편 청신호 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210927160043707</link>
+            <guid>https://movie.v.daum.net/v/20210927160043707</guid>
             <pubDate>Tue, 28 Sep 2021 08:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박판석 기자]&nbsp;배우 마동석이 마블 ‘이터널스’ 주연 배우로서 공식 홍보 일정에 돌입할 예정이다. 전세계가 기다리고 있는 ‘이터널스’ 개봉에 대한 기대감 역시 높아지고 있다.&nbsp; 마동석은 지난 24일 ‘이터널스’ 개봉을 위해 디즈니와 공식 홍보 영상을 촬영하고 인터뷰를 진행했다. 공개된 사진 속에서 안젤리나 졸리, 리처든 매든, 쿠마일 닌자아니 등]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F27%2Fpoctan%2F20210927172734486qadu.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[SBS연예뉴스 | 김지혜 기자] 영화 '듄'이 2주 만에 해외 개봉 국가에서 7,650만 달러, 한화로 900억 원의 흥행 수익을 거둬들였다. 해외 언론과 평단의 격찬과 관객들의 뜨거운 반응, 그에 응답한 세계적인 흥행 신드롬에 힘 입에 드니 빌뇌브 감독이 개봉 전부터 계획해왔던 속편 제작에도 청신호가 켜졌다. 10월 20일, 한국과 22일 북미 등 대규]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F27%2FSBSfunE%2F20210927160045342ydmx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['다크 나이트 라이즈'→'베놈2'  톰 하디, 마스크 흥행 공식 통할까 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210928140935361</link>
+            <guid>https://movie.v.daum.net/v/20210928140935361</guid>
+            <pubDate>Tue, 28 Sep 2021 08:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 액션 영화 '베놈 2: 렛 데어 비 카니지'(이하 '베놈 2', 앤디 서키스 감독)로 돌아온 톰 하디의 특별한 흥행 공식이 화제다. 바로 마스크를 쓰면 호평과 흥행을 모두 잡는 명작이 탄생한다는 것. 그 시작인 '다크 나이트 라이즈'(12, 크리스토퍼 놀란 감독)부터 '베놈2: 렛 데어 비 카니지'까지 톰 하디의 마]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F28%2FSpoChosun%2F20210928140935973ffci.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[엄마가 지은 오두막에서 발견한 뜻밖의 선물 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210928160002860</link>
+            <guid>https://movie.v.daum.net/v/20210928160002860</guid>
+            <pubDate>Tue, 28 Sep 2021 08:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[[김준모 기자] &nbsp;        ▲ &nbsp;&lt;쁘띠 마망&gt; 포스터    ⓒ 찬란  &nbsp;&lt;타오르는 여인의 초상&gt;으로 세계적인 거장으로 이름을 높인 셀린 시아마 감독의 '성장 3부작' &lt;워터 릴리스&gt;, &lt;톰보이&gt;, &lt;걸후드&gt;가 뒤늦게 한국에서 개봉하면서 신작에 대한 기대감을 높였다. 제71회 베를린국제영화제 경쟁부문에 초청받은 셀린 시아마 감독의 신작 &lt;쁘띠마망&gt;은 여]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F28%2Fohmynews%2F20210928160006154mqhq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[홍상수 '당신얼굴 앞에서', 메인 예고편 공개..이혜영의 사연은? (다음영화 뉴스 ─ 인기)]]></title>
@@ -559,38 +583,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F28%2Fstarnews%2F20210928075949008axdx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['듄', 해외 2주차 900억 원 흥행수익..속편 청신호 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210927160043707</link>
-            <guid>https://movie.v.daum.net/v/20210927160043707</guid>
-            <pubDate>Tue, 28 Sep 2021 08:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS연예뉴스 | 김지혜 기자] 영화 '듄'이 2주 만에 해외 개봉 국가에서 7,650만 달러, 한화로 900억 원의 흥행 수익을 거둬들였다. 해외 언론과 평단의 격찬과 관객들의 뜨거운 반응, 그에 응답한 세계적인 흥행 신드롬에 힘 입에 드니 빌뇌브 감독이 개봉 전부터 계획해왔던 속편 제작에도 청신호가 켜졌다. 10월 20일, 한국과 22일 북미 등 대규]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F27%2FSBSfunE%2F20210927160045342ydmx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[엄마가 지은 오두막에서 발견한 뜻밖의 선물 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210928160002860</link>
-            <guid>https://movie.v.daum.net/v/20210928160002860</guid>
-            <pubDate>Tue, 28 Sep 2021 08:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[[김준모 기자] &nbsp;        ▲ &nbsp;&lt;쁘띠 마망&gt; 포스터    ⓒ 찬란  &nbsp;&lt;타오르는 여인의 초상&gt;으로 세계적인 거장으로 이름을 높인 셀린 시아마 감독의 '성장 3부작' &lt;워터 릴리스&gt;, &lt;톰보이&gt;, &lt;걸후드&gt;가 뒤늦게 한국에서 개봉하면서 신작에 대한 기대감을 높였다. 제71회 베를린국제영화제 경쟁부문에 초청받은 셀린 시아마 감독의 신작 &lt;쁘띠마망&gt;은 여]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F28%2Fohmynews%2F20210928160006154mqhq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['다크 나이트 라이즈'→'베놈2'  톰 하디, 마스크 흥행 공식 통할까 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210928140935361</link>
-            <guid>https://movie.v.daum.net/v/20210928140935361</guid>
-            <pubDate>Tue, 28 Sep 2021 08:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 액션 영화 '베놈 2: 렛 데어 비 카니지'(이하 '베놈 2', 앤디 서키스 감독)로 돌아온 톰 하디의 특별한 흥행 공식이 화제다. 바로 마스크를 쓰면 호평과 흥행을 모두 잡는 명작이 탄생한다는 것. 그 시작인 '다크 나이트 라이즈'(12, 크리스토퍼 놀란 감독)부터 '베놈2: 렛 데어 비 카니지'까지 톰 하디의 마]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F28%2FSpoChosun%2F20210928140935973ffci.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['듄' 해외 2주차 상영에 900억 원 수익..韓 흥행 기대[공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210927162124337</link>
-            <guid>https://movie.v.daum.net/v/20210927162124337</guid>
-            <pubDate>Tue, 28 Sep 2021 00:51:39 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;올해 최고의 기대작 영화 ‘듄’이 2주 만에 해외 개봉 국가에서 7650만 달러, 한화로 900억 원의 흥행 수익을 거둬들였다. 해외 언론과 평단의 격찬과 관객들의 뜨거운 반응, 그에 응답한 세계적인 흥행 신드롬에 힘입에 드니 빌뇌브 감독이 개봉 전부터 계획해왔던 속편 제작에도 청신호가 켜졌다. 이에 10월 20일, 한국과 22일]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F27%2Fpoctan%2F20210927162125777nqfa.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['007 노 타임 투 다이' 개봉 D-1, 예매율 70% 넘었다 '흥행 카운트다운' [무비노트] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210928105406947</link>
             <guid>https://movie.v.daum.net/v/20210928105406947</guid>
@@ -605,6 +597,22 @@
             <pubDate>Tue, 28 Sep 2021 08:18:44 GMT</pubDate>
             <content:encoded><![CDATA[[김성호 기자] ▲ 용과 주근깨 공주&nbsp;포스터    ⓒ 와이드 릴리즈(주)  &nbsp;세계가 유일하다는 믿음은 깨어졌다. 적어도 온라인 세상에서는. 인간이 차원의 문을 열었다. 태양계를 넘기는커녕 가장 가까운 행성까지도 도달하지 못한 인간이란 걸 생각하면 놀라운 일이다. 3차원 가상공간에서 시공간을 뛰어넘은 만남이 이뤄지고 있다. 현실세계의 자아는 저]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F28%2Fohmynews%2F20210928142702724myuc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[홍상수 '당신얼굴 앞에서' 메인 예고편..이혜영, 여운 남기는 애틋함 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210928100939227</link>
+            <guid>https://movie.v.daum.net/v/20210928100939227</guid>
+            <pubDate>Tue, 28 Sep 2021 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 제74회 칸국제영화제 공식 초청작 '당신얼굴 앞에서'(감독 홍상수)가 여운을 남기는 메인 예고편을 공개했다. '당신얼굴 앞에서'는 배우 이혜영을 중심으로 조윤희, 권해효, 서영화, 김새벽 등이 출연한다. 공개된 메인 예고편은 의자에 앉아 숨을 돌리고 있는 주인공 상옥(이혜영)의 모습으로 시작된다. 옛날에 살던 집을 불쑥 찾아]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F28%2Fxportsnews%2F20210928100941458bpnz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['듄' 해외 2주차 상영에 900억 원 수익..韓 흥행 기대[공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210927162124337</link>
+            <guid>https://movie.v.daum.net/v/20210927162124337</guid>
+            <pubDate>Tue, 28 Sep 2021 00:51:39 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;올해 최고의 기대작 영화 ‘듄’이 2주 만에 해외 개봉 국가에서 7650만 달러, 한화로 900억 원의 흥행 수익을 거둬들였다. 해외 언론과 평단의 격찬과 관객들의 뜨거운 반응, 그에 응답한 세계적인 흥행 신드롬에 힘입에 드니 빌뇌브 감독이 개봉 전부터 계획해왔던 속편 제작에도 청신호가 켜졌다. 이에 10월 20일, 한국과 22일]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F27%2Fpoctan%2F20210927162125777nqfa.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['보이스' 1위 질주, 100만 돌파 카운트다운 [박스오피스] (다음영화 뉴스 ─ 인기)]]></title>
@@ -631,12 +639,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F28%2FSpoChosun%2F20210928084522181vgrf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[홍상수 '당신얼굴 앞에서' 메인 예고편..이혜영, 여운 남기는 애틋함 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210928100939227</link>
-            <guid>https://movie.v.daum.net/v/20210928100939227</guid>
-            <pubDate>Tue, 28 Sep 2021 10:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 제74회 칸국제영화제 공식 초청작 '당신얼굴 앞에서'(감독 홍상수)가 여운을 남기는 메인 예고편을 공개했다. '당신얼굴 앞에서'는 배우 이혜영을 중심으로 조윤희, 권해효, 서영화, 김새벽 등이 출연한다. 공개된 메인 예고편은 의자에 앉아 숨을 돌리고 있는 주인공 상옥(이혜영)의 모습으로 시작된다. 옛날에 살던 집을 불쑥 찾아]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F28%2Fxportsnews%2F20210928100941458bpnz.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[최희서X오다기리 죠 '당신은 믿지 않겠지만', 내달 국내 개봉 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210927162213356</link>
+            <guid>https://movie.v.daum.net/v/20210927162213356</guid>
+            <pubDate>Tue, 28 Sep 2021 12:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[일본인 감독 이시이 유야 연출…한국 스태프와 한국 올로케이션 촬영 [더팩트ㅣ이한림 기자] 최희서 주연 영화 '당신은 믿지 않겠지만'이 27일 메인 포스터를 공개하고 내달 국내 개봉을 확정했다. 영화 '당신은 믿지 않겠지만'은 서로 다른 마음의 상처를 가진 일본과 한국의 가족이 서울에서 우연처럼 만나 운명 같은 여정을 떠나는 이야기를 그린다. 청춘들의 이야]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F27%2FTHEFACT%2F20210927162216734ixcy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[공식]'007 노 타임 투 다이' 개봉 D-1, 사전 예매율 71% 돌파..'모가디슈' 넘었다 (다음영화 뉴스 ─ 인기)]]></title>
@@ -647,20 +655,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F28%2FSpoChosun%2F20210928083724328adci.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['한창나이 선녀님', '님아, 그 강을 건너지 마오' 흥행 잇는다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210927175740418</link>
-            <guid>https://movie.v.daum.net/v/20210927175740418</guid>
-            <pubDate>Tue, 28 Sep 2021 02:01:06 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘한창나이 선녀님’. 사진제공｜㈜트리플픽쳐스영화 ‘한창나이 선녀님’(감독 원호연·제작 큰물고기미디어)이 영화 ‘님아, 그 강을 건너지 마오’와 비슷한 행보의 ‘평행이론’으로 화제를 모으고 있다. 10월20일 개봉하는 ‘한창나이 선녀님’은 강원도 산골 68세 임선녀 할머니의 일상을 통해 따뜻한 감성과 오늘을 살아낼 힘을 불어넣어주는 다큐멘터리 영화이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F27%2Fsportsdonga%2F20210927175742064xtzk.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['베놈2: 렛 데어 비 카니지' 톰 하디→미셸 윌리엄스, 캐릭터 포스터 공개 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210927133717699</link>
-            <guid>https://movie.v.daum.net/v/20210927133717699</guid>
-            <pubDate>Tue, 28 Sep 2021 00:51:39 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘베놈 2: 렛 데어 비 카니지’ 측이 배우 톰 하디, 미셸 윌리엄스, 나오미 해리스, 우디 해럴슨의 4인 4색 매력이 폭발하는 캐릭터 포스터 4종을 공개했다. ‘베놈 2: 렛 데어 비 카니지’(감독 앤디 서키스, 수입배급 소니 픽쳐스)는 미워할 수 없는 빌런 히어로 베놈(톰 하디)앞에 사상 최악의 빌런 카니지(우디 해럴슨)가]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F27%2Fpoctan%2F20210927133718600sgcw.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[엄정화·조진웅·이제훈·변요한·한예리·전종서, BIFF 액터스 하우스 참석 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210927115634498</link>
+            <guid>https://movie.v.daum.net/v/20210927115634498</guid>
+            <pubDate>Tue, 28 Sep 2021 12:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[배우 엄정화, 한예리, 전종서, 조진웅, 이제훈, 변요한이 제26회 부산국제영화제가 스페셜 토크 프로그램 '액터스 하우스'에 참석한다. ‘액터스 하우스’는 동시대 한국 영화계를 대표하는 배우들을 초청, 그들의 연기에 관한 친밀하면서도 심도 깊은 이야기를 들을 수 있는 스페셜 프로그램이다. 첫 선을 보이는 올해는 엄정화, 한예리, 전종서, 조진웅, 이제훈]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F27%2Filgansports%2F20210927115635551rkzo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[변요한, 진정성 더한 홍보의 神 (다음영화 뉴스 ─ 최신)]]></title>
@@ -1467,7 +1467,7 @@
             <link>https://tv.naver.com/v/22664202</link>
             <guid>https://tv.naver.com/v/22664202</guid>
             <pubDate>Tue, 28 Sep 2021 10:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_237/b75ZI_1632821002195XlQ4G_JPEG/9bd95c9c-203d-11ec-8f8d-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1475,7 +1475,7 @@
             <link>https://tv.naver.com/v/22662456</link>
             <guid>https://tv.naver.com/v/22662456</guid>
             <pubDate>Tue, 28 Sep 2021 09:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_146/lTMfq_1632818217138ubi4d_JPEG/2dd90452-2037-11ec-9845-505dacfbaa5c_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1483,7 +1483,7 @@
             <link>https://tv.naver.com/v/22661669</link>
             <guid>https://tv.naver.com/v/22661669</guid>
             <pubDate>Tue, 28 Sep 2021 08:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_43/BKU2r_1632816950994qpFbc_JPEG/27dd106b-2034-11ec-a72a-246e963a464c_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1491,7 +1491,7 @@
             <link>https://tv.naver.com/v/22661462</link>
             <guid>https://tv.naver.com/v/22661462</guid>
             <pubDate>Tue, 28 Sep 2021 08:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_55/XdGsy_16328166258308uXfN_JPEG/6e4bb9b1-2033-11ec-86ec-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1499,7 +1499,7 @@
             <link>https://tv.naver.com/v/22661303</link>
             <guid>https://tv.naver.com/v/22661303</guid>
             <pubDate>Tue, 28 Sep 2021 08:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_94/gJVmD_1632816377659D1shw_JPEG/bf8969ff-2032-11ec-b778-a0369ff963bc_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1507,7 +1507,7 @@
             <link>https://tv.naver.com/v/22660425</link>
             <guid>https://tv.naver.com/v/22660425</guid>
             <pubDate>Tue, 28 Sep 2021 08:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_110/St6M5_16328148653360WtDD_JPEG/01d1c928-202f-11ec-9d74-a0369ff9545c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1515,7 +1515,7 @@
             <link>https://tv.naver.com/v/22659792</link>
             <guid>https://tv.naver.com/v/22659792</guid>
             <pubDate>Tue, 28 Sep 2021 08:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_256/Bk0Z9_1632813502366LEmun_JPEG/21bdcf13-202c-11ec-a509-a0369ff968b0_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1523,7 +1523,7 @@
             <link>https://tv.naver.com/v/22659601</link>
             <guid>https://tv.naver.com/v/22659601</guid>
             <pubDate>Tue, 28 Sep 2021 07:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_73/f8s97_1632813134566w0OzG_JPEG/1632813105526.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1531,7 +1531,7 @@
             <link>https://tv.naver.com/v/22658158</link>
             <guid>https://tv.naver.com/v/22658158</guid>
             <pubDate>Tue, 28 Sep 2021 07:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_260/zMl1i_1632809453639jCYRX_JPEG/bf635e47-2022-11ec-882d-48df37ae3dc4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1539,7 +1539,7 @@
             <link>https://tv.naver.com/v/22658102</link>
             <guid>https://tv.naver.com/v/22658102</guid>
             <pubDate>Tue, 28 Sep 2021 07:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_205/r17A0_1632809313163Bf75W_JPEG/66f87aaf-2022-11ec-8111-505dac8c381b_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1547,7 +1547,7 @@
             <link>https://tv.naver.com/v/22654801</link>
             <guid>https://tv.naver.com/v/22654801</guid>
             <pubDate>Tue, 28 Sep 2021 03:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_195/UVP5v_1632797417506fQL8j_JPEG/bd9c923d-2006-11ec-9b63-505dacfba98a_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1555,7 +1555,7 @@
             <link>https://tv.naver.com/v/22654666</link>
             <guid>https://tv.naver.com/v/22654666</guid>
             <pubDate>Tue, 28 Sep 2021 03:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_228/c0XV7_1632797025174pHkPl_JPEG/adcfba8c-2005-11ec-82ff-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1563,7 +1563,7 @@
             <link>https://tv.naver.com/v/22654153</link>
             <guid>https://tv.naver.com/v/22654153</guid>
             <pubDate>Tue, 28 Sep 2021 03:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_82/xy4Fd_1632795463855NwTOR_JPEG/0ba50401-2002-11ec-882d-48df37ae3dc4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1571,7 +1571,7 @@
             <link>https://tv.naver.com/v/22653217</link>
             <guid>https://tv.naver.com/v/22653217</guid>
             <pubDate>Tue, 28 Sep 2021 02:01:39 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_273/f3bEr_1632792720915uCpXL_JPEG/b9a2f729-1ffb-11ec-882d-48df37ae3dc4_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1579,7 +1579,7 @@
             <link>https://tv.naver.com/v/22652792</link>
             <guid>https://tv.naver.com/v/22652792</guid>
             <pubDate>Tue, 28 Sep 2021 02:01:39 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_174/0BYq0_1632791274469rLEC0_JPEG/48b22e3d-1ff8-11ec-a77c-a0369ff94ec8_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
