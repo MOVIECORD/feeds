@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-09-28T15:17:34.976Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 28 Sep 2021 17:20:20 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[황동혁 감독이 본, '오징어 게임' 열풍과 논란 [스경연예연구소]]]></title>
+            <link>https://v.daum.net/v/20210929004601400</link>
+            <guid>https://v.daum.net/v/20210929004601400</guid>
+            <pubDate>Tue, 28 Sep 2021 17:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 전세계가 ‘오징어 게임’에 걸려들었다. 동영상스트리밍서비스(OTT) 넷플릭스서 공개된지 일주일도 안 돼 한국시리즈 최초로 미국 넷플릭스 ‘오늘의 톱10’ 1위에 올랐고, 말레이시아, 싱가포르, 인도네시아 등 10개국에서도 정상을 차지했다. 또한 영국, 프랑스, 독일 등 39개 국가에서도 상위권에 오르면서, 넷플릭스 테드 서랜도스 CEO로부터]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F29%2Fsportskhan%2F20210929004602626xcpa.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>

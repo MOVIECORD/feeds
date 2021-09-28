@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-28T15:17:34.983Z</updated>
+    <updated>2021-09-28T17:20:20.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍상수 만난 이혜영, 깊어진 여운 (당신얼굴 앞에서)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000935477</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000935477"/>
+        <updated>2021-09-28T17:18:59.613Z</updated>
+        <content type="html"><![CDATA[제74회 칸영화제 공식 초청작 '당신얼굴 앞에서'가 메인 예고편을 공개했다. '당신얼굴 앞에서'는 수년 만에 한국으로 돌아와 동생의 집에 머물고 있는 과거의 배우 상옥(이혜영 분)은 오늘 하루 동생과 산책을 하고,]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[황동혁 감독이 본, ‘오징어 게임’ 열풍과 논란 [스경연예연구소]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000764223</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000764223"/>
+        <updated>2021-09-28T17:18:59.613Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 전세계가 ‘오징어 게임’에 걸려들었다. 동영상스트리밍서비스(OTT) 넷플릭스서 공개된지 일주일도 안 돼 한국시리즈 최초로 미국 넷플릭스 ‘오늘의 톱10’ 1위에 올랐고, 말레이시아, 싱가포르, 인도네시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[평창국제평화영화제 화제작 강원도내 작은영화관 5곳서 개봉]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000861984</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001195708"/>
         <updated>2021-09-28T08:18:22.861Z</updated>
         <content type="html"><![CDATA[영화 '미쓰백' 이지원 감독과 배우 류승룡, 하지원, 김시아의 신선한 만남, 연기파 배우들의 탄탄한 조합으로 기대를 모으는 영화 '비광'이 촬영을 마무리 하고 개봉 행보에 나선다. 지난 6월 촬영을 시작한 영화 '비]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['베놈2: 렛 데어 비 카니지' 톰 하디, 마스크 쓰고 인생캐 예고]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004481713</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004481713"/>
-        <updated>2021-09-28T08:18:22.861Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] ‘베놈 2: 렛 데어 비 카니지’로 돌아오는 배우 톰 하디만의 흥행 공식이 존재해 화제다. 바로 마스크를 쓰면 호평과 흥행을 모두 잡는 명작이 탄생한다는 것. 그 시작인 ‘다크 나이트 라이즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['기생충' 제작사 바른손이앤에이, 봉준호 감독과 한국영화 두편을 제작한다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000045438</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000045438"/>
-        <updated>2021-09-28T08:18:22.861Z</updated>
-        <content type="html"><![CDATA[&lt;기생충&gt;을 제작한 바른손이앤에이가 라인업을 공개하며 영역 확장을 선언했다. 일단 &lt;마더&gt; &lt;기생충&gt;을 함께 한 봉준호 감독과 한국 영화 두 편을 제작한다. 넷플릭스 시리즈 &lt;킹덤&gt;을 연출한 김성훈 감독과 영화와 O]]></content>
     </entry>
 </feed>
