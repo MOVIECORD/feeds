@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-29T17:21:44.338Z</updated>
+    <updated>2021-09-29T18:19:15.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘행복의 나라로’ 하와이국제영화제 공식 초청]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000935706</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000935706"/>
+        <updated>2021-09-29T18:17:39.147Z</updated>
+        <content type="html"><![CDATA[‘행복의 나라로’ 하와이국제영화제 공식 초청 대한민국 대표 연기파 배우 최민식, 박해일의 스크린 첫 만남이자 임상수 감독의 차기작으로 뜨거운 관심을 받은 영화 ‘행복의 나라로’가 제41회 하와이국제영화제에 초청되며]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대한민국 AV 연대기 [정윤하의 러브월드 ①]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000764498</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004858122"/>
         <updated>2021-09-29T11:13:06.844Z</updated>
         <content type="html"><![CDATA[이젠 진짜 안녕이다. 여섯 번째 제임스 본드 다니엘 크레이크가 ‘007 노 타임 투 다이’를 통해 이별을 고한다. 영화 ‘007 노 타임 투 다이’(감독 캐리 후쿠나가)는 가장 강력한 운명의 적과 마주하게 된 제임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 ‘보이스’ 관객 100만 돌파]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000764449</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000764449"/>
-        <updated>2021-09-29T11:13:06.845Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 보이스피싱 범죄를 소재로 한 변요한 주연의 액션물 ‘보이스’가 100만 관객을 돌파했다. 배급사 CJ ENM에 따르면 ‘보이스’는 개봉 16일째인 29일 오후 2시 30분 기준으로 누적 관객 100만1]]></content>
     </entry>
 </feed>
