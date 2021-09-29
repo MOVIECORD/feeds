@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-29T18:19:15.885Z</updated>
+    <updated>2021-09-29T19:13:58.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘前 티티마’ 김소이, 부국제 배우 겸 감독으로 초청받았다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000935710</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000935710"/>
+        <updated>2021-09-29T19:12:30.739Z</updated>
+        <content type="html"><![CDATA[‘前 티티마’ 김소이, 부국제 배우 겸 감독으로 초청받았다 배우 겸 감독 김소이가 10월 6일부터 열리는 ‘제26회 부산국제영화제’(BIFF)에 공식 초청받아 종횡무진 활약한다. 김소이가 출연한 영화 ‘컨버세이션’(]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘행복의 나라로’ 하와이국제영화제 공식 초청]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000935706</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000632236"/>
         <updated>2021-09-29T11:13:06.843Z</updated>
         <content type="html"><![CDATA['보이스'의 배우들이 '스트릿 우먼 파이터' 커버 댄스에 도전했다. 29일 영화 '보이스' 측은 CJ ENM Movie의 공식 SNS를 통해 '100만 공약 댄스' 영상을 공개했다. '보이스'는 영화진흥위원회 통합전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[리뷰] '007 노 타임 투 다이' 굿바이, 다니엘 크레이그]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004858122</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004858122"/>
-        <updated>2021-09-29T11:13:06.844Z</updated>
-        <content type="html"><![CDATA[이젠 진짜 안녕이다. 여섯 번째 제임스 본드 다니엘 크레이크가 ‘007 노 타임 투 다이’를 통해 이별을 고한다. 영화 ‘007 노 타임 투 다이’(감독 캐리 후쿠나가)는 가장 강력한 운명의 적과 마주하게 된 제임스]]></content>
     </entry>
 </feed>
