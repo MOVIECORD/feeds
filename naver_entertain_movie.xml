@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-29T19:13:58.431Z</updated>
+    <updated>2021-09-29T20:17:31.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['007 노 타임 투 다이' 성공적 귀환, 개봉일 10만↑ 모으며 '1위'[박스오피스]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000493368</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000493368"/>
+        <updated>2021-09-29T20:16:00.868Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 전 세계 최초 한국 개봉한 '007 노 타임 투 다이'가 개봉 당일 박스오피스 1위를 차지했다. 9월 30일 영화진흥위원회 통합전산망 집계에 따르면 29일 개봉한 영화 '007 노 타임 투 다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘前 티티마’ 김소이, 부국제 배우 겸 감독으로 초청받았다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000935710</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010743502"/>
         <updated>2021-09-29T11:13:06.842Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스] 김지은 기자 = 변요한 주연의 범죄 액션 영화 '보이스'가 100만 관객을 돌파했다. 29일 배급사 CJ ENM에 따르면 '보이스'는 이날 오후 2시30분께 누적 관객 100만명을 돌파했다. 개봉 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보이스' 변요한·김무열 '스우파' 커버 댄스 어떨까]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000632236</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000632236"/>
-        <updated>2021-09-29T11:13:06.843Z</updated>
-        <content type="html"><![CDATA['보이스'의 배우들이 '스트릿 우먼 파이터' 커버 댄스에 도전했다. 29일 영화 '보이스' 측은 CJ ENM Movie의 공식 SNS를 통해 '100만 공약 댄스' 영상을 공개했다. '보이스'는 영화진흥위원회 통합전]]></content>
     </entry>
 </feed>
