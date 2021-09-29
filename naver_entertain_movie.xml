@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-29T11:14:26.674Z</updated>
+    <updated>2021-09-29T12:25:58.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘곡성’ 쿠니무라 준 주연 ‘가족의 색깔’ 10월 개봉 확정]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000935680</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000935680"/>
+        <updated>2021-09-29T12:24:13.013Z</updated>
+        <content type="html"><![CDATA[‘곡성’ 쿠니무라 준 주연 ‘가족의 색깔’ 10월 개봉 확정 뜻하지 않은 계기로 함께 살게 된 세 사람의 특별한 동거와 그 속에서 피어나는 새로운 가족애를 그린 영화 ‘가족의 색깔’이 다가오는 10월 개봉을 확정 지]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘007’ 라미 말렉 “‘보헤미안 랩소디’ 한국서 큰 사랑, 감사” (유퀴즈)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000935679</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000935679"/>
+        <updated>2021-09-29T12:24:13.022Z</updated>
+        <content type="html"><![CDATA[‘007’ 라미 말렉 “‘보헤미안 랩소디’ 한국서 큰 사랑, 감사” (유퀴즈) 배우 라미 말렉이 tvN ‘유 퀴즈 온 더 블럭’을 통해 감사 인사를 전했다. 라미 말렉은 29일 방송된 ‘유 퀴즈 온 더 블럭’에 영상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[펜싱 히어로 김정환·구본길, ‘베놈2’ 빌런 히어로로 변한다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000935672</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000016658"/>
         <updated>2021-09-29T11:13:06.845Z</updated>
         <content type="html"><![CDATA[The release date of the highly anticipated Marvel film “Eternals” has been set for Nov. 4. Walt Disney Company Korea ann]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lee Joon-hyuk, Lee Joo-young to co-host closing ceremony of BIFF]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000016657</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000016657"/>
-        <updated>2021-09-29T11:13:06.846Z</updated>
-        <content type="html"><![CDATA[Actors Lee Joon-hyuk and Lee Joo-young will co-host the closing ceremony of the 26th Busan International Film Festival (]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[애프터스크리닝] 굿바이 다니엘 크레이그, 제임스 본드의 최절정판 '007 노 타임 두 다이' ★★★☆]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000134547</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000134547"/>
-        <updated>2021-09-29T11:13:06.851Z</updated>
-        <content type="html"><![CDATA[▶ 비포 스크리닝 1962년 '007 살인번호'를 시작으로 60년동안 세계적인 사랑을 받아온 액션 블록버스터 '007' 시리즈가 코로나로 인한 1년의 기다림 끝에 드디어 개봉한다. 그 동안 24편의 시리즈, 6명의]]></content>
     </entry>
 </feed>
