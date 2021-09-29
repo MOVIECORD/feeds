@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Sep 2021 12:25:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Sep 2021 13:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,14 +231,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a64941e61f5a3fbcad8ef6bbf7edb073b35c01a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[그린 나이트 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=139183</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=139183</guid>
-            <pubDate>Wed, 29 Sep 2021 11:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6dd33309d1b1b3a9e3aa6e65ddf1ebe229433eb3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[모가디슈 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=132564</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=132564</guid>
@@ -295,6 +287,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc78e33cf82eba3d7c203cc7cd2540c6bab00a488" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[그린 나이트 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139183</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139183</guid>
+            <pubDate>Wed, 29 Sep 2021 11:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6dd33309d1b1b3a9e3aa6e65ddf1ebe229433eb3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[아-하: 테이크 온 미 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150932</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150932</guid>
@@ -309,14 +309,6 @@
             <pubDate>Thu, 02 Sep 2021 00:47:47 GMT</pubDate>
             <content:encoded><![CDATA[21.09.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F045e3b529565237b7465a357637177d59a1154ba" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[종착역 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145343</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145343</guid>
-            <pubDate>Tue, 14 Sep 2021 23:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe30e0fe01a3353ed9a68f896c073101cbc1ff634" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[코다 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -341,6 +333,14 @@
             <pubDate>Sun, 15 Aug 2021 15:54:19 GMT</pubDate>
             <content:encoded><![CDATA[21.08.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5c2c57cab283c1111fd1c5f5f0ac05b9be2780c7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[말리그넌트 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152308</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152308</guid>
+            <pubDate>Wed, 29 Sep 2021 13:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F91f95c53e40938959224392447a8870b8cb7eb30" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[서유기: 재세요왕 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -511,28 +511,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F29%2Fohmynews%2F20210929165103091acqh.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA[홍상수 만난 이혜영, 깊어진 여운 (당신얼굴 앞에서) (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210929020008814</link>
-            <guid>https://movie.v.daum.net/v/20210929020008814</guid>
-            <pubDate>Wed, 29 Sep 2021 00:48:54 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 제74회 칸영화제 공식 초청작 '당신얼굴 앞에서'가 메인 예고편을 공개했다. '당신얼굴 앞에서'는 수년 만에 한국으로 돌아와 동생의 집에 머물고 있는 과거의 배우 상옥(이혜영 분)은 오늘 하루 동생과 산책을 하고, 조카의 가게를 찾아가고, 옛날에 살던 집도 가게 되고, 오후엔 한 영화감독과 술자리를 갖게 되는 영화. '당신얼굴 앞에서'는 배우]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F29%2Fsportsdonga%2F20210929020010865udrj.jpg" length="0" type="image//thumb/S732x228/"/>
-        </item>
-        <item>
             <title><![CDATA["50년 동안 썩은 판을 갈아야 한다"..노회찬 다큐 영화 <노회찬 6411> (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210928232723661</link>
             <guid>https://movie.v.daum.net/v/20210928232723661</guid>
             <pubDate>Wed, 29 Sep 2021 11:13:26 GMT</pubDate>
             <content:encoded><![CDATA[[최용락 기자(ama@pressian.com)]"아는 것과 하는 것. 겉과 속. 일치하는 드문 사람이다. 저는 오래 봐왔으니까. 그런데 이제 마지막에 돌아가신. 그게 이제 작다면 작고 크다면 큰 불일치가 생긴 거예요. 이건 제 생각입니다. 그 불일치를…. 목숨으로. 목숨으로 바꿨죠. 아는 것과 하는 것. 겉과 속. 이런 게 그냥 너무나 자연스럽게 가는데 사]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F28%2Fpressian%2F20210928232725286zasw.jpg" length="0" type="image//thumb/S384x240/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F28%2Fpressian%2F20210928232725286zasw.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA[[라제기의 '배우'다] "연기는 깔 게 없다"는 쾌남 이병헌 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210929073002341</link>
-            <guid>https://movie.v.daum.net/v/20210929073002341</guid>
-            <pubDate>Tue, 28 Sep 2021 23:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[편집자주※ 여러분이 잘 아는 배우의 덜 알려진 면모와 연기 세계를 주관적인 시선으로 전합니다. 배우 이병헌에게 영화 ‘지상만가’(1997)는 독특한 의미를 지닌다. 영화는 흥행에 성공하지도, 평단의 지지를 얻지도 못했다. 딱히 두드러지지 않는 이 영화에서 이병헌은 배우가 되고 싶은 청년 종만을 연기했다. 종만에게 현실은 술집종업원이지만 미래는 할리우드 스타]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F29%2Fhankooki%2F20210929073006176sdeh.gif" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[홍상수 만난 이혜영, 깊어진 여운 (당신얼굴 앞에서) (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210929020008814</link>
+            <guid>https://movie.v.daum.net/v/20210929020008814</guid>
+            <pubDate>Wed, 29 Sep 2021 00:48:54 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 제74회 칸영화제 공식 초청작 '당신얼굴 앞에서'가 메인 예고편을 공개했다. '당신얼굴 앞에서'는 수년 만에 한국으로 돌아와 동생의 집에 머물고 있는 과거의 배우 상옥(이혜영 분)은 오늘 하루 동생과 산책을 하고, 조카의 가게를 찾아가고, 옛날에 살던 집도 가게 되고, 오후엔 한 영화감독과 술자리를 갖게 되는 영화. '당신얼굴 앞에서'는 배우]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F29%2Fsportsdonga%2F20210929020010865udrj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[이정은, 또 국제무대로..'오마주', 도쿄국제영화제 초청 (다음영화 뉴스 ─ 인기)]]></title>
@@ -551,20 +543,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F29%2Fmydaily%2F20210929094226440zceh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[라제기의 '배우'다] "연기는 깔 게 없다"는 쾌남 이병헌 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210929073002341</link>
+            <guid>https://movie.v.daum.net/v/20210929073002341</guid>
+            <pubDate>Tue, 28 Sep 2021 23:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[편집자주※ 여러분이 잘 아는 배우의 덜 알려진 면모와 연기 세계를 주관적인 시선으로 전합니다. 배우 이병헌에게 영화 ‘지상만가’(1997)는 독특한 의미를 지닌다. 영화는 흥행에 성공하지도, 평단의 지지를 얻지도 못했다. 딱히 두드러지지 않는 이 영화에서 이병헌은 배우가 되고 싶은 청년 종만을 연기했다. 종만에게 현실은 술집종업원이지만 미래는 할리우드 스타]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F29%2Fhankooki%2F20210929073006176sdeh.gif" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['007 노 타임 투 다이' 오늘(29일) 개봉, 컴백 포인트 셋 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210929105700174</link>
             <guid>https://movie.v.daum.net/v/20210929105700174</guid>
             <pubDate>Wed, 29 Sep 2021 11:13:26 GMT</pubDate>
             <content:encoded><![CDATA[압도적 예매율을 기록하며 개봉 카운트다운에 돌입한 액션 블록버스터 ‘007 노 타임 투 다이’가 전 세계 팬들의 기대감을 고조시키는 컴백 포인트 3가지를 공개한다. #1 완벽한 피날레! 다니엘 크레이그가 선보일 제임스 본드의 마지막 미션 먼저 ‘007 노 타임 투 다이’의 개봉을 기다리는 첫 번째 이유는 바로 다니엘 크레이그가 선보일 ‘제임스 본드’의 마지]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F29%2Fmksports%2F20210929105703377qdmx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['이터널스' 11월 4일 개봉..메인 포스터 공개 '상상 그 이상의 경이로움' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210929081230178</link>
-            <guid>https://movie.v.daum.net/v/20210929081230178</guid>
-            <pubDate>Wed, 29 Sep 2021 00:48:54 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 더욱 확장된 새로운 MCU의 시작을 알리며 '어벤져스' 시리즈의 전설을 이어갈 영화 '이터널스'(감독 클로이 자오)가 11월 4일 국내 개봉을 확정 짓고 메인 포스터를 공개했다. '이터널스'는 수 천년에 걸쳐 그 모습을 드러내지 않고 살아온 불멸의 히어로들이 '어벤져스: 엔드게임' 이후 인류의 가장 오래된 적 데비안츠에 맞서기]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F29%2Fxportsnews%2F20210929081232632vean.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[김소이, '26회 부국제' 배우 겸 감독으로 초청 [공식] (다음영화 뉴스 ─ 인기)]]></title>
@@ -575,28 +567,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F29%2Fsportskhan%2F20210929112135371uats.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[단독]정유미, 공포스릴러 '잠'으로 스크린 복귀 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210929090857583</link>
-            <guid>https://movie.v.daum.net/v/20210929090857583</guid>
-            <pubDate>Wed, 29 Sep 2021 00:48:54 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 배우 정유미가 공포스릴러 '잠'으로 스크린에 복귀한다. 29일 영화계에 따르면 정유미는 최근 영화 '잠' 출연을 결정하고 세부사항을 조율 중이다. '잠'은 어느 날부터 잠을 자면 이상 행동을 보이는 남편 현수와 얽힌 비밀을 아내가 알게되면서 벌어지는 일을 그린 공포스릴러. '부탁' 등으로 독립영화계에서 주목받아온 유재선 감독의 상]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F29%2Fstarnews%2F20210929105905994injl.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[다니엘 크레이그 "'007 노 타임 투 다이', 나의 마지막 대장정" [종합] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210929144801588</link>
             <guid>https://movie.v.daum.net/v/20210929144801588</guid>
             <pubDate>Wed, 29 Sep 2021 11:13:26 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 강민경 기자] /사진=영화 '007 노 타임 투 다이' 포스터다니엘 크레이그가 15년 간의 화려한 제임스 본드 생활을 끝낸다. 그에게 있어 '007 노 타임 투 다이'는 자신의 마지막 대장정을 담았다. 29일 유니버설 픽쳐스 측은 '007 노 타임 투 다이' 전 세계 최초 대한민국 개봉에 앞서 배우들이 직접 답하는 Q&amp;A 영상을 공개했다. 영화]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F29%2Fstarnews%2F20210929144803269gaqa.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['가을의 전설' 27년만에 재개봉..90년대 라이벌 영화는? (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210929064807827</link>
-            <guid>https://movie.v.daum.net/v/20210929064807827</guid>
-            <pubDate>Wed, 29 Sep 2021 00:48:54 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]백승훈 인턴 기자 = '가을의 전설'이 27년 만에 재개봉을 앞둔 가운데, 90년대 초 동시기 극장가를 수놓으며 관객들의 마음을 빼앗았던 명작들에 이목이 집중되고 있다. 먼저, 당시 개봉했던 '라이온킹'은 애니메이션임에도 불구 박스오피스 1위를 차지하며 90만 명이 넘는 관객을 동원하는 저력을 보였다. 최근에 개봉한 실사영화 역시 474만]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F29%2Fnewsis%2F20210929064807749lqgh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['보이스', 100만 돌파..변요한·김무열·이주영 크루 결성 '스우파' 댄스 (다음영화 뉴스 ─ 인기)]]></title>
@@ -607,12 +583,44 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F29%2FNEWS1%2F20210929160128414rgkz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['이터널스' 11월 4일 개봉..메인 포스터 공개 '상상 그 이상의 경이로움' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210929081230178</link>
+            <guid>https://movie.v.daum.net/v/20210929081230178</guid>
+            <pubDate>Wed, 29 Sep 2021 00:48:54 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 더욱 확장된 새로운 MCU의 시작을 알리며 '어벤져스' 시리즈의 전설을 이어갈 영화 '이터널스'(감독 클로이 자오)가 11월 4일 국내 개봉을 확정 짓고 메인 포스터를 공개했다. '이터널스'는 수 천년에 걸쳐 그 모습을 드러내지 않고 살아온 불멸의 히어로들이 '어벤져스: 엔드게임' 이후 인류의 가장 오래된 적 데비안츠에 맞서기]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F29%2Fxportsnews%2F20210929081232632vean.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독]정유미, 공포스릴러 '잠'으로 스크린 복귀 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210929090857583</link>
+            <guid>https://movie.v.daum.net/v/20210929090857583</guid>
+            <pubDate>Wed, 29 Sep 2021 00:48:54 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 배우 정유미가 공포스릴러 '잠'으로 스크린에 복귀한다. 29일 영화계에 따르면 정유미는 최근 영화 '잠' 출연을 결정하고 세부사항을 조율 중이다. '잠'은 어느 날부터 잠을 자면 이상 행동을 보이는 남편 현수와 얽힌 비밀을 아내가 알게되면서 벌어지는 일을 그린 공포스릴러. '부탁' 등으로 독립영화계에서 주목받아온 유재선 감독의 상]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F29%2Fstarnews%2F20210929105905994injl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['가을의 전설' 27년만에 재개봉..90년대 라이벌 영화는? (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210929064807827</link>
+            <guid>https://movie.v.daum.net/v/20210929064807827</guid>
+            <pubDate>Wed, 29 Sep 2021 00:48:54 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]백승훈 인턴 기자 = '가을의 전설'이 27년 만에 재개봉을 앞둔 가운데, 90년대 초 동시기 극장가를 수놓으며 관객들의 마음을 빼앗았던 명작들에 이목이 집중되고 있다. 먼저, 당시 개봉했던 '라이온킹'은 애니메이션임에도 불구 박스오피스 1위를 차지하며 90만 명이 넘는 관객을 동원하는 저력을 보였다. 최근에 개봉한 실사영화 역시 474만]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F29%2Fnewsis%2F20210929064807749lqgh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[인터뷰①] 이정재  "나영석 PD의 제안? 꿈을 이루시려면 우리 회사로 오십시오" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20210929120636792</link>
             <guid>https://movie.v.daum.net/v/20210929120636792</guid>
             <pubDate>Wed, 29 Sep 2021 03:16:40 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠조선 고재완 기자] "나영석 PD는 꿈을 이루시려면 우리 회사로 오십시오." 배우 이정재가 29일 온라인으로 진행된 넷플릭스 오리지널 시리즈 '오징어 게임' 화상 인터뷰에서 이같이 말했다. 지난 2019년 정우성이 tvN '삼시세끼 산촌편'에 게스트로 출연할 당시 나영석 PD는 "정우성 이정재의 시골 살이를 기획하고 있다"며 "대한민국]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F29%2FSpoChosun%2F20210929120636908asxj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['68세, 꿈을 향해 걷는 선녀님'..'한창나이 선녀님', 스페셜 포스터 공개 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210929150834480</link>
+            <guid>https://movie.v.daum.net/v/20210929150834480</guid>
+            <pubDate>Wed, 29 Sep 2021 11:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 웰메이드 다큐멘터리 '한창나이 선녀님'(감독 원호연)이 스페셜 포스터를 공개했다.&nbsp; '한창나이 선녀님'은 강원도 산골 68세 임선녀 할머니의 하루하루를 통해 오늘을 살아낼 힘을 얻는 이야기를 담은 산골짜기 다큐멘터리다. 공개된 포스터는 노을 지는 강원도의 눈부신 풍경으로 '한창나이 선녀님'만의 푸근한 감성을 전한다.&nbsp; 아름다운]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F29%2Fxportsnews%2F20210929150837129qcxc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['섹시 아이콘'으로 스타덤 오른 그녀의 치명적 약점 (다음영화 뉴스 ─ 인기)]]></title>
@@ -639,12 +647,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F29%2Fpoctan%2F20210929075425136sdse.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['68세, 꿈을 향해 걷는 선녀님'..'한창나이 선녀님', 스페셜 포스터 공개 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210929150834480</link>
-            <guid>https://movie.v.daum.net/v/20210929150834480</guid>
-            <pubDate>Wed, 29 Sep 2021 11:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 웰메이드 다큐멘터리 '한창나이 선녀님'(감독 원호연)이 스페셜 포스터를 공개했다.&nbsp; '한창나이 선녀님'은 강원도 산골 68세 임선녀 할머니의 하루하루를 통해 오늘을 살아낼 힘을 얻는 이야기를 담은 산골짜기 다큐멘터리다. 공개된 포스터는 노을 지는 강원도의 눈부신 풍경으로 '한창나이 선녀님'만의 푸근한 감성을 전한다.&nbsp; 아름다운]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F29%2Fxportsnews%2F20210929150837129qcxc.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[박해수 "'오징어게임', 이렇게까지 인기 있을 줄..득남까지 겹경사 전 세계 축복" [인터뷰①] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20210929135302387</link>
+            <guid>https://movie.v.daum.net/v/20210929135302387</guid>
+            <pubDate>Wed, 29 Sep 2021 07:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 박해수 /사진제공=넷플릭스배우 박해수(40)가 넷플릭스 시리즈 '오징어 게임' 글로벌 인기와 득남까지 겹경사에 대한 소감을 밝혔다. 박해수는 29일 오후 온라인을 통해 스타뉴스와 만나 넷플릭스 시리즈 '오징어 게임'에 대한 다양한 이야기를 들려줬다. '오징어 게임'은 456억 원의 상금이 걸린 의문의 서바이벌에 참가한 사람들이 최후]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F29%2Fstarnews%2F20210929135704015scgv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[류승룡 하지원 '비광' 크랭크업, 후반작업 돌입 (다음영화 뉴스 ─ 인기)]]></title>
@@ -653,14 +661,6 @@
             <pubDate>Wed, 29 Sep 2021 01:55:24 GMT</pubDate>
             <content:encoded><![CDATA[‘미쓰백’ 이지원 감독과 류승룡, 하지원, 김시아의 신선한 만남, 연기파 배우들의 탄탄한 조합으로 기대를 모으는 영화 ‘비광’이 크랭크업했다. 지난 6월 촬영을 시작한 영화 ‘비광’이 9월 19일 전격 크랭크업했다. ‘비광’은 대중의 사랑을 받던 스타 부부 ‘중구’와 ‘남미’가 갑자기 나타난 한 아이 ‘동주’로 인해 나락으로 떨어지지만, 충격적인 사건에]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F28%2Fstartoday%2F20210928165406473sbna.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[박해수 "'오징어게임', 이렇게까지 인기 있을 줄..득남까지 겹경사 전 세계 축복" [인터뷰①] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20210929135302387</link>
-            <guid>https://movie.v.daum.net/v/20210929135302387</guid>
-            <pubDate>Wed, 29 Sep 2021 07:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 박해수 /사진제공=넷플릭스배우 박해수(40)가 넷플릭스 시리즈 '오징어 게임' 글로벌 인기와 득남까지 겹경사에 대한 소감을 밝혔다. 박해수는 29일 오후 온라인을 통해 스타뉴스와 만나 넷플릭스 시리즈 '오징어 게임'에 대한 다양한 이야기를 들려줬다. '오징어 게임'은 456억 원의 상금이 걸린 의문의 서바이벌에 참가한 사람들이 최후]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F29%2Fstarnews%2F20210929135704015scgv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[AOA 찬미 주연 '색다른 그녀' 10월 14일 개봉 확정 [공식] (다음영화 뉴스 ─ 최신)]]></title>
@@ -1467,7 +1467,7 @@
             <link>https://tv.naver.com/v/22687896</link>
             <guid>https://tv.naver.com/v/22687896</guid>
             <pubDate>Wed, 29 Sep 2021 11:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210929_135/G6RiS_1632907113869r6d00_JPEG/f092d40c-2105-11ec-8c9c-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1475,7 +1475,7 @@
             <link>https://tv.naver.com/v/22682858</link>
             <guid>https://tv.naver.com/v/22682858</guid>
             <pubDate>Wed, 29 Sep 2021 08:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210929_78/CaJgV_1632900323275JKGyx_JPEG/ec5f0843-20f5-11ec-89ce-48df379ccacc_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1483,7 +1483,7 @@
             <link>https://tv.naver.com/v/22681878</link>
             <guid>https://tv.naver.com/v/22681878</guid>
             <pubDate>Wed, 29 Sep 2021 07:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210929_293/Qymvk_1632898473645fx4iR_JPEG/dfe72fe3-20f1-11ec-8111-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1491,7 +1491,7 @@
             <link>https://tv.naver.com/v/22681557</link>
             <guid>https://tv.naver.com/v/22681557</guid>
             <pubDate>Wed, 29 Sep 2021 07:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210929_206/0FfPE_163289776449612rE4_JPEG/12a53748-20f0-11ec-af84-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1499,7 +1499,7 @@
             <link>https://tv.naver.com/v/22680334</link>
             <guid>https://tv.naver.com/v/22680334</guid>
             <pubDate>Wed, 29 Sep 2021 06:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210929_13/Us7ds_1632894688599k9AfM_JPEG/138ded72-20e9-11ec-b835-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1507,7 +1507,7 @@
             <link>https://tv.naver.com/v/22680251</link>
             <guid>https://tv.naver.com/v/22680251</guid>
             <pubDate>Wed, 29 Sep 2021 06:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210929_27/utqCf_1632894454956koDVX_JPEG/afd44c6e-20e8-11ec-8111-505dac8c381b_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1515,7 +1515,7 @@
             <link>https://tv.naver.com/v/22680232</link>
             <guid>https://tv.naver.com/v/22680232</guid>
             <pubDate>Wed, 29 Sep 2021 06:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210929_83/D6jMl_1632894421762ETaII_JPEG/968b849b-20e8-11ec-9845-505dacfbaa5c_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1523,7 +1523,7 @@
             <link>https://tv.naver.com/v/22680205</link>
             <guid>https://tv.naver.com/v/22680205</guid>
             <pubDate>Wed, 29 Sep 2021 06:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210929_73/hgL5x_1632894352921Xp8TW_JPEG/63fcdcd8-20e8-11ec-a9f1-505dac8c3639_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1531,7 +1531,7 @@
             <link>https://tv.naver.com/v/22680181</link>
             <guid>https://tv.naver.com/v/22680181</guid>
             <pubDate>Wed, 29 Sep 2021 06:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210929_262/r1Hul_1632894277951k0P6n_JPEG/0e28f79a-20e8-11ec-809b-a0369ff94ed0_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1539,7 +1539,7 @@
             <link>https://tv.naver.com/v/22679965</link>
             <guid>https://tv.naver.com/v/22679965</guid>
             <pubDate>Wed, 29 Sep 2021 06:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210929_130/p9YbV_16328936601546nuTY_JPEG/b8259463-20e6-11ec-8e61-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1547,7 +1547,7 @@
             <link>https://tv.naver.com/v/22676299</link>
             <guid>https://tv.naver.com/v/22676299</guid>
             <pubDate>Wed, 29 Sep 2021 03:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210929_24/EaVVR_16328833278030n3j2_JPEG/8bbacec5-20ce-11ec-8111-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1555,7 +1555,7 @@
             <link>https://tv.naver.com/v/22674735</link>
             <guid>https://tv.naver.com/v/22674735</guid>
             <pubDate>Wed, 29 Sep 2021 01:56:01 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210929_206/tBcuI_1632878901988e5PBG_JPEG/60b13dff-20c4-11ec-82ff-505dac8c385b_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1563,7 +1563,7 @@
             <link>https://tv.naver.com/v/22674500</link>
             <guid>https://tv.naver.com/v/22674500</guid>
             <pubDate>Wed, 29 Sep 2021 01:56:01 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210929_110/S9vne_1632878256382u700W_JPEG/99ba24ba-20c2-11ec-93f2-a0369ff95ec0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1571,7 +1571,7 @@
             <link>https://tv.naver.com/v/22674336</link>
             <guid>https://tv.naver.com/v/22674336</guid>
             <pubDate>Wed, 29 Sep 2021 01:56:01 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210929_32/tam9Z_1632877763834Lwb8W_JPEG/99cfc54d-20c1-11ec-80a9-a0369ff95678_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1579,7 +1579,7 @@
             <link>https://tv.naver.com/v/22674106</link>
             <guid>https://tv.naver.com/v/22674106</guid>
             <pubDate>Wed, 29 Sep 2021 01:56:01 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210929_85/EDLTH_1632877063603jBfNh_JPEG/199000a4-20c0-11ec-b778-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
