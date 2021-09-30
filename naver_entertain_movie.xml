@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-30T16:24:06.396Z</updated>
+    <updated>2021-09-30T17:20:31.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘귀멸의 칼날: 남매의 연’ 11월 10일 개봉 확정]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000935937</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000935937"/>
+        <updated>2021-09-30T17:19:05.859Z</updated>
+        <content type="html"><![CDATA[‘귀멸의 칼날: 남매의 연’ 11월 10일 개봉 확정 전 세계적 흥행 신드롬을 일으킨 ‘귀멸의 칼날’의 스페셜 극장판 중 첫 번째 시리즈 ‘귀멸의 칼날: 남매의 연’이 오는 11월 10일(수)로 국내 개봉을 확정했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손석구 “첫 연출 ‘재방송’, 감독으로서 능동적으로” [화보]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000935936</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0003968138"/>
         <updated>2021-09-30T10:16:52.126Z</updated>
         <content type="html"><![CDATA[[서울경제] 아시아랩이 전 세계를 대상으로 대규모 글로벌 오디션을 개최한다. 28일 아시아랩 측은 영화 ‘시에스타’의 여주인공(극중 나이 21세) 캐스팅을 위한 오디션을 진행한다고 밝혔다. ‘시에스타’는 스페인 바르]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김정영 "아픔을 가진 분들이 실제 계시기에..." (F20) [종합]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001354561</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001354561"/>
-        <updated>2021-09-30T10:16:52.127Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 'F20' 김정영이 작품에 임한 소감을 전했다. 30일 오후 영화 'F20'의 온라인 기자간담회가 열렸다. 행사에는 배우 장영남, 김정영, 김강민과 홍은미 감독이 참석했다. 'F20'은]]></content>
     </entry>
 </feed>
