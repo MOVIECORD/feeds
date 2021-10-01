@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-01T10:19:13.851Z</updated>
+    <updated>2021-10-01T11:14:47.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['보이스' 변요한-김무열, 흥행 기념 오프닝 무삭제 영상 전격 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003482301</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003482301"/>
+        <updated>2021-10-01T11:13:14.543Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=임의정 기자] 개봉 이후 16일 연속 한국영화 박스오피스 1위를 이어가고 있는 영화 '보이스'가 흥행을 기념해 영화의 오프닝 무삭제 영상을 공개했다. 온 가족 필람 무비로 장기 흥행을 이어가고 있는 영]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['블랙 위도우' 스칼릿 조핸슨 vs 디즈니, 출연료 소송 취하…"갈등 해결 기뻐"(종합)[Oh!쎈 이슈]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004483752</id>
@@ -45,7 +52,7 @@
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003482290</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003482290"/>
         <updated>2021-10-01T10:17:35.762Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] 스칼렛 요한슨이 디즈니와 극적으로 화해했다. 30일(현지시간) 버라이어티 등 외신들에 따르면 할리우드 배우 스칼렛 요한슨의 디즈니와의 법적 공방이 상호 합의하에 마무리 지었다. 스칼렛 요]]></content>
+        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] 스칼렛 요한슨이 디즈니와 극적으로 화해했다. 30일(현지시간) 버라이어티 등 외신들에 따르면 할리우드 배우 스칼렛 요한슨이 디즈니와의 법적 공방을 상호 합의하에 마무리 지었다. 스칼렛 요]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제5회 서울무용영화제, 선정작 10편 공개]]></title>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002534485"/>
         <updated>2021-10-01T08:17:56.640Z</updated>
         <content type="html"><![CDATA[[데일리안 = 류지윤 기자] '십개월의 미래'가 준비가 되지 않은 임산부가 엄마가 되는 과정을 섬세하게 그렸다. 1일 오후 서울 자양동 롯데시네마 건대입구점에서는 영화 '십개월의 미래' 언론시사회 후 남궁선 감독,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["맨땅에 헤딩하듯" '십개월의 미래' 최성은, 임신부 연기 도전 [N현장](종합)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005633554</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005633554"/>
-        <updated>2021-10-01T08:17:56.641Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 배우 최성은이 갑작스러운 임신 사실을 알게 된 20대로 변신한다. 그는 영화를 이끌고 나가며 임신 과정을 고스란히 그려냈다. 1일 오후 서울 광진구 아차산로 롯데시네마 건대입구에서 영]]></content>
     </entry>
 </feed>
