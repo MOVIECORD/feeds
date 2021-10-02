@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-10-02T21:14:31.382Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 02 Oct 2021 22:16:27 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['F20' 아들 조현병 숨기고픈 엄마..기대 이상의 서스펜스 스릴러 [N리뷰]]]></title>
+            <link>https://v.daum.net/v/20211003070043830</link>
+            <guid>https://v.daum.net/v/20211003070043830</guid>
+            <pubDate>Sat, 02 Oct 2021 22:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 엄마 애란(장영남 분)에겐 어디 내놔도 자랑스러운 서울대생 아들 도훈(김강민 분)이 있다. 그는 아파트 단지내 엄마들에게 아들을 자랑으로 여기며 살고 있지만, 숨기고 싶은 비밀이 하나 있다. 바로 도훈이 조현병을 앓고 있다는 사실이다. 이웃들에게 오랜만에 집에 돌아온 도훈이 미국으로 어학연수를 다녀온 것이라 둘러대고, 아]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F03%2FNEWS1%2F20211003070045164fups.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
