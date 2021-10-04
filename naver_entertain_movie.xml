@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-04T05:15:17.625Z</updated>
+    <updated>2021-10-04T06:20:06.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['007 노 타임 투 다이' 개봉 첫 주 누적 56만…17일 연속 예매율 1위]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000503584</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000503584"/>
+        <updated>2021-10-04T06:18:44.355Z</updated>
+        <content type="html"><![CDATA[[텐아시아=김지원 기자] 액션 블록버스터 '007 노 타임 투 다이'가 개봉 첫 주말 박스오피스 1위를 달성했다. 4일 영화진흥위원회 통합전산망에 따르면 '007 노 타임 투 다이'는 개봉 첫 주 누적 관객수 56만]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[로마] 영화의 역사는 쉽게 멈추지 않는다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000045472</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000045472"/>
+        <updated>2021-10-04T06:18:44.356Z</updated>
+        <content type="html"><![CDATA[지난 9월 11일, 봉준호 감독이 심사위원장으로 참석한 제78회 베니스국제영화제(이하 베니스영화제)가 11일 동안의 대향연을 마치고 영화 축제의 막을 내렸다. “영화의 역사는 쉽게 멈추지 않고 코로나19는 반드시 지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오징어 게임' 정호연 "지금 관심은 오로지 연기 뿐" [★FULL인터뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002993450</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000593462"/>
         <updated>2021-10-04T00:55:55.974Z</updated>
         <content type="html"><![CDATA[배우 이연이 빛나는 존재감을 입증하고 있다. 오는 6일부터 개최되는 제26회 부산국제영화제에서 이연이 출연한 영화 ‘절해고도’는 ‘한국영화의 오늘-비전’ 섹션 부문으로, 영화 ‘거북이가 죽었다’는 ‘와이드 앵글-한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[우리집영화관] 갑자기 죽은 형, 범인은 담임선생님 동생[영상]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0003968903</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0003968903"/>
-        <updated>2021-10-04T00:55:55.974Z</updated>
-        <content type="html"><![CDATA[[서울경제] ? "선생님이랑 바다 보러 가고싶어요" | 우리집영화관 ‘D.P(디피)’를 시작으로 군대 내 사건을 소재로 만들어진 작품들에 대한 관심이 커지는 가운데 부대 내 총기 사고로 형을 잃은 소년의 이야기를 담]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 '스위트홈' '무브 투 헤븐' AACA 노미네이트]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000039327</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000039327"/>
-        <updated>2021-10-04T00:55:55.974Z</updated>
-        <content type="html"><![CDATA[넷플릭스 시리즈 &lt;스위트홈&gt;과 &lt;무브 투 헤븐&gt;이 2021 AACA National Winner로 선정되어 본상 최종 후보에 올랐다. AACA(Asian Academy Creative Awards)는 한 해 아시아]]></content>
     </entry>
 </feed>
