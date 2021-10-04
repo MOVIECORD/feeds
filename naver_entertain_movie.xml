@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-04T09:17:17.755Z</updated>
+    <updated>2021-10-04T10:18:33.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제26회 BIFF, 오픈토크 '영화·드라마 만들기' 개최…장항준·김성훈·한준희 감독 참석]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001355732</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001355732"/>
+        <updated>2021-10-04T10:17:08.238Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 제26회 부산국제영화제(BIFF)가 동시대 가장 주목받고 있는 장항준 감독, 김성훈 감독, 한준희 감독과 함께하는 오픈토크를 마련했다. 오는 13일 오후 5시 30분에 열리는 오픈토크 ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오징어게임' 주역들, 美 지미 팰런쇼 출연]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005051640</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003541866"/>
         <updated>2021-10-04T02:06:13.014Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]다니엘 크레이그의 마지막 액션 투혼이 빛을 발했다. 대한민국 흥행 저력을 보여주고 있는 액션 블록버스터 ‘007 노 타임 투 다이’(수입/배급: 유니버설 픽쳐스)가 개봉 첫 주말 박스오피]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장항준·김성훈·한준희 감독, BIFF 오픈토크 출격]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000765233</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000765233"/>
-        <updated>2021-10-04T02:06:13.017Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 장항준·김성훈·한준희 감독이 제26회 부산국제영화제 오픈토크에 출격한다. 부산국제영화제 측은 4일 “장항준, 김성훈, 한준희 등 세명의 감독이 오는 13일 오후에 진행될 오픈토크 ‘영화 만들기와 드라마]]></content>
     </entry>
 </feed>
