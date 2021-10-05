@@ -1,8 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-10-04T22:16:51.168Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 05 Oct 2021 00:52:10 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['007 노 타임 투 다이', 전세계 압도적 오프닝..32개국 1위 '기염'[공식]]]></title>
+            <link>https://v.daum.net/v/20211005094656401</link>
+            <guid>https://v.daum.net/v/20211005094656401</guid>
+            <pubDate>Tue, 05 Oct 2021 00:51:16 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;전 세계가 기다려온 액션 블록버스터 '007 노 타임 투 다이'(수입배급&nbsp;유니버설 픽쳐스)가 최초로 개봉한 대한민국을 시작으로 단숨에 전세계 박스오피스 1위에 올랐다. 영화 '007 노 타임 투 다이'(감독 캐리 후쿠나가)가 대한민국에 이어 전세계에서 순차 개봉하자마자 전세계 박스오피스를 제대로 강타하며 압도적 박스오피스 1위 및]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F05%2Fpoctan%2F20211005094657526kipf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[' 'F20', 조현병 걸린 아들을 위해 엄마는 어디까지 갈까]]></title>
+            <link>https://v.daum.net/v/20211005094343272</link>
+            <guid>https://v.daum.net/v/20211005094343272</guid>
+            <pubDate>Tue, 05 Oct 2021 00:51:16 GMT</pubDate>
+            <content:encoded><![CDATA[아이즈 ize 정수진(칼럼니스트)애란(장영남)은 보험설계사로 일하며 홀로 아들을 키우는 임대 아파트 거주자. 보험, 싱글맘, 임대 아파트라는 키워드에서 알 수 있듯 애란은 사회적으로나 경제적으로나 약자다. 그러나 아들 도훈(김강민)이 있어 적어도 같은 아파트 주민들에게는 조금 특별한 대우를 받는 듯하다. 도훈이 모두가 부러워하는 서울대생이기 때문이다. 그런]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F05%2FIZE%2F20211005094344686dwjn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['베놈2' 톰 하디의 귀환, 북미서 팬데믹 시대 최고 오프닝 기록]]></title>
+            <link>https://v.daum.net/v/20211005094228223</link>
+            <guid>https://v.daum.net/v/20211005094228223</guid>
+            <pubDate>Tue, 05 Oct 2021 00:51:16 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '베놈 2: 렛 데어 비 카니지'가 팬데믹 시대 최고 오프닝 수익을 기록했다. 10월 5일(한국시간) 박스오피스 모조에 따르면 '베놈 2: 렛 데어 비 카니지'가 북미에서 약 9010만 달러의 오프닝을 기록하며 팬데믹 시대 최고 오프닝 기록뿐 아니라 역대 10월 오프닝 2위였던 전편의 오프닝 기록 8026만 달러까지 뛰어넘었다. ']]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F05%2Fnewsen%2F20211005094230726ppux.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[3년 만에 컴백한 '베놈2: 렛 데어 비 카니지' 관전 포인트3]]></title>
+            <link>https://v.daum.net/v/20211005093642970</link>
+            <guid>https://v.daum.net/v/20211005093642970</guid>
+            <pubDate>Tue, 05 Oct 2021 00:51:16 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;액션 블록버스터 '베놈 2: 렛 데어 비 카니지'(수입배급 소니 픽쳐스)가 영화에 대한 기대감을 증폭시키는 관전 포인트 TOP 3를 공개한다. #1. 마블 최초 빌런 히어로 베놈의 컴백 ‘베놈 2: 렛 데어 비 카니지’(감독 앤디 서키스, 수입배급 소니 픽쳐스)의 첫 번째 관람 포인트는 바로 전세계를 강타한 빌런 히어로 베놈의 컴백]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F05%2Fpoctan%2F20211005093642355ivky.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[26회 부산영화제 '영화의 숲' 조성..안성기·장현성·예지원·류현경 참석[공식]]]></title>
+            <link>https://v.daum.net/v/20211005092445564</link>
+            <guid>https://v.daum.net/v/20211005092445564</guid>
+            <pubDate>Tue, 05 Oct 2021 00:51:16 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;제26회 부산국제영화제가 부산시와 함께 해운대구 APEC 나루공원에서 '영화의 숲' 조성 행사를 개최한다. 영화의 숲&nbsp;조성 행사는 부산 시민과 부산국제영화제 관객에게 많은 사랑을 받는 영화의 전당과 인접한 위치에 부산국제영화제를 기억하기 위한 장소를 만드는 동시에, 기후 위기에 영화인들이 솔선해 나무를 심음으로써 녹색도시 부산 조성]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F05%2Fpoctan%2F20211005092445908zpyn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['007 노 타임 투 다이' 주말 극장가 1위, 70만 관객 목전 [박스오피스]]]></title>
+            <link>https://v.daum.net/v/20211005091406221</link>
+            <guid>https://v.daum.net/v/20211005091406221</guid>
+            <pubDate>Tue, 05 Oct 2021 00:51:16 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 영화 '007 노 타임 투 다이'가 주말 박스오피스 1위를 차지했다. 5일 영화진흥위원회 통합전산망에 따르면 '007 노 타임 투 다이'(감독 캐리 후쿠나가·배급 유니버설 픽쳐스)가 지난 4일 12만187명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적 관객수는 68만4442명이다. '007 노 타임 투 다이'는 가장 강력]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F05%2Ftvdaily%2F20211005091407832hzzq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[정호연 "'오징어 게임' 열풍, ♥이동휘도 자랑스러워 해요" [인터뷰]]]></title>
+            <link>https://v.daum.net/v/20211005090612952</link>
+            <guid>https://v.daum.net/v/20211005090612952</guid>
+            <pubDate>Tue, 05 Oct 2021 00:51:16 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 배우 정호연이 단숨에 전세계를 홀렸다. 동영상스트리밍서비스(OTT) 넷플릭스 시리즈 ‘오징어 게임’에서 탈북민 새벽 역을 맡아 신선한 얼굴과 연기력으로 이목을 집중시켰다. 그야말로 ‘신데렐라 탄생’이다.“사회관계망서비스(SNS) 팔로워가 급증해서 너무 놀랐어요. 아직 얼떨떨하고 실감이 안 나고요. 팔로워 수 증가는 ‘오징어 게임’에 대한 전]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F05%2Fsportskhan%2F20211005090613746zram.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스틴 스튜어트 주연 '세버그' 11월 4일 개봉 확정 [공식]]]></title>
+            <link>https://v.daum.net/v/20211005090212762</link>
+            <guid>https://v.daum.net/v/20211005090212762</guid>
+            <pubDate>Tue, 05 Oct 2021 00:51:16 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 크리스틴 스튜어트 주연 ‘세버그’ 11월 4일 개봉 확정 [공식] 2021 가장 강렬한 할리우드 실화 ‘세버그’가 오는 11월 4일 개봉을 확정 지은 가운데, 크리스틴 스튜어트, 안소니 마키, 잭 오코넬의 캐릭터 뉴스페이퍼 3종을 공개하며 관객들의 시선을 집중시킨다. 모두가 사랑하는 세기의 배우에서 FBI 음모의 희생양이 된 ‘진 세버그’의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F05%2Fsportsdonga%2F20211005090214229ffvr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식] '스릴러 장인' 장영남, 오늘(5일) 'F20' 홍보 위해 '옥문아들' 출격]]></title>
+            <link>https://v.daum.net/v/20211005085820595</link>
+            <guid>https://v.daum.net/v/20211005085820595</guid>
+            <pubDate>Tue, 05 Oct 2021 00:51:16 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 서스펜스 스릴러 영화 'F20'(홍은미 감독, KBS 한국방송·몬스터유니온 제작)의 배우 장영남이 오늘(5일) 밤 10시 40분에 방송되는 KBS2 '옥탑방의 문제아들'에 출연한다. 올 하반기 극장가에 가장 충격적인 이야기를 전할 'F20'의 장영남이 오늘 밤 10시 40분에 '옥탑방의 문제아들'에 출연, 입담을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F05%2FSpoChosun%2F20211005085820444cjla.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['이터널스' 안젤리나 졸리→마동석, 각 성별 연령 인종 다 있다]]></title>
+            <link>https://v.daum.net/v/20211005084638298</link>
+            <guid>https://v.daum.net/v/20211005084638298</guid>
+            <pubDate>Tue, 05 Oct 2021 00:51:16 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '이터널스' 10인의 모습이 담긴 보도 스틸이 공개됐다. 11월 4일 개봉하는 마블 영화 '이터널스'(감독 클로이 자오)에는 다양한 성별과 연령, 인종의 모습을 한 10인이 출연한다. 특히 안젤리나 졸리와 나란히 선 ‘길가메시’ 역의 마동석은 위풍당당 강렬한 모습으로 이목을 집중시킨다. 이어 ‘이카리스’(리차드 매든)와 ‘세르시’]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F05%2Fnewsen%2F20211005084638564zvzj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[조정석·이선균·유재명, '행복의 나라' 출연 확정[공식]]]></title>
+            <link>https://v.daum.net/v/20211005083625063</link>
+            <guid>https://v.daum.net/v/20211005083625063</guid>
+            <pubDate>Tue, 05 Oct 2021 00:51:16 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 김선우기자]영화 ‘행복의 나라’(가제)가 조정석, 이선균, 유재명까지 캐스팅을 확정 짓고 지난 1일 첫 촬영에 돌입했다. 영화 ‘행복의 나라’(가제)는 현대사를 뒤흔든 사건 속에 휘말린 한 인물과 그를 살리기 위해 전력투구하는 변호사 이야기. 조정석, 이선균, 유재명까지 대세 배우들이 출연을 확정 짓고 ‘광해, 왕이 된]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F05%2FSPORTSSEOUL%2F20211005083627615qwwz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[조정석·이선균·유재명 '행복의 나라' 10월1일 첫 촬영 [공식]]]></title>
+            <link>https://v.daum.net/v/20211005083612061</link>
+            <guid>https://v.daum.net/v/20211005083612061</guid>
+            <pubDate>Tue, 05 Oct 2021 00:51:16 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 배우 조정석과 이선균, 유재명 등이 영화 '행복의 나라' 촬영에 돌입했다. 5일 NEW는 '행복의 나라'가 지난 1일 크랭크인했다고 알렸다. '행복의 나라'는 현대사를 뒤흔든 사건 속에 휘말린 한 인물과 그를 살리기 위해 전력투구하는 변호사 이야기. '광해, 왕이 된 남자' '7년의 밤' 추창민 감독이 메가폰을 잡고 조정석과 이선균]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F05%2Fstarnews%2F20211005083613852hyqj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['007 노 타임 투 다이', 헤라클레스가 된 제임스 본드[곽명동의 씨네톡]]]></title>
+            <link>https://v.daum.net/v/20211005083605058</link>
+            <guid>https://v.daum.net/v/20211005083605058</guid>
+            <pubDate>Tue, 05 Oct 2021 00:51:16 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]제임스 본드는 대중문화사에서 불멸의 아이콘이다. 한 명의 캐릭터가 60년 동안 대중의 사랑의 받은 적은 없었다. 1962년 ‘007 살인번호’로 시작한 제임스 본드 시리즈는 숀 코넬리부터 다니엘 크레이그까지 6명의 배우가 연기하며 모두 25편의 영화로 탄생했다. 냉전시대에 탄생한 제임스 본드는 적이 명확했던 시대를 거쳐 이제는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F05%2Fmydaily%2F20211005083605208oqik.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[시나리오 번역부터 통역까지..'당신은 믿지 않겠지만' 최희서의 활약]]></title>
+            <link>https://v.daum.net/v/20211005083539049</link>
+            <guid>https://v.daum.net/v/20211005083539049</guid>
+            <pubDate>Tue, 05 Oct 2021 00:51:16 GMT</pubDate>
+            <content:encoded><![CDATA[일본의 젊은 거장 이시이 유야 감독과 한국과 일본의 배우들이 함께한 영화 '당신은 믿지 않겠지만'의 배우 최희서가 연기는 물론, 시나리오 번역 작업부터 현장 통역까지 다방면으로 활약했다. '당신은 믿지 않겠지만'은 서로 다른 마음의 상처를 가진 일본과 한국의 가족이 서울에서 우연처럼 만나, 운명 같은 여정을 떠나는 힐링 드라마. 이케마츠 소스케, 최]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F05%2Filgansports%2F20211005083540241xrqa.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[최희서, '당신은 믿지 않겠지만' 열연→통역까지 맹활약]]></title>
+            <link>https://v.daum.net/v/20211005083459034</link>
+            <guid>https://v.daum.net/v/20211005083459034</guid>
+            <pubDate>Tue, 05 Oct 2021 00:51:16 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;일본의 젊은 거장 이시이 유야 감독과 한일 대표 배우들이 함께한 영화 ‘당신은 믿지 않겠지만’에서 열연을 펼친 최희서가 연기는 물론, 시나리오 번역 작업, 현장 통역까지 다방면으로 활약했다. 영화 '당신은 믿지 않겠지만’(감독 이시이 유야, 제공제작 디오시네마, 배급 디오시네마)은 서로 다른 마음의 상처를 가진 일본과 한국의 가족이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F05%2Fpoctan%2F20211005083500031wyow.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식] '베놈2' 북미서 1일 개봉→팬데믹 시대 최고 오프닝 수익 기록]]></title>
+            <link>https://v.daum.net/v/20211005083451030</link>
+            <guid>https://v.daum.net/v/20211005083451030</guid>
+            <pubDate>Tue, 05 Oct 2021 00:51:16 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 액션 영화 '베놈 2: 렛 데어 비 카니지'(이하 '베놈 2', 앤디 서키스 감독)가 북미에서 팬데믹 시대 최고 오프닝 수익을 기록하는 역사적인 흥행 기록을 시작했다. '베놈 2'가 북미에서 팬데믹 시대 최고 흥행 오프닝 신기록뿐만 아니라 압도적 박스오피스 1위에 오르며 북미에서 먼저 흥행 포문을 열었다. 무엇보다]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F05%2FSpoChosun%2F20211005083451494dalz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식] 조정석X이선균X유재명 '행복의 나라', 캐스팅 확정→촬영 돌입]]></title>
+            <link>https://v.daum.net/v/20211005083402017</link>
+            <guid>https://v.daum.net/v/20211005083402017</guid>
+            <pubDate>Tue, 05 Oct 2021 00:51:16 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자]영화 '행복의 나라'(가제)가 조정석, 이선균, 유재명 등 캐스팅을 확정 짓고 지난 1일 촬영에 돌입했다.'행복의 나라'는 현대사를 뒤흔든 사건 속에 휘말린 한 인물과 그를 살리기 위해 전력투구하는 변호사 이야기. 조정석, 이선균, 유재명이 주연을 맡았고, '광해, 왕이 된 남자', '7년의 밤'의 추창민 감독이 연출한다.영화 '엑시]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F05%2F10asia%2F20211005083406040dkea.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식] '슬의생' 마친 조정석, 이선균X유재명과 '행복의 나라'로 컴백..1일 크랭크 인]]></title>
+            <link>https://v.daum.net/v/20211005082752870</link>
+            <guid>https://v.daum.net/v/20211005082752870</guid>
+            <pubDate>Tue, 05 Oct 2021 00:51:16 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 영화 '행복의 나라'(가제, 추창민 감독, 파파스필름·오스카10스튜디오 제작)가 조정석, 이선균, 유재명까지 믿고 보는 배우들의 캐스팅을 확정 짓고 지난 1일 첫 촬영에 돌입했다. '엑시트'부터 드라마 '슬기로운 의사생활' 시리즈까지 완벽한 캐릭터 소화력을 자랑하며 흥행 대세로 자리를 굳힌 조정석이 극 중 법정에는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F05%2FSpoChosun%2F20211005082752930txry.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['행복의 나라' 조정석X이선균X유재명, 이달 1일 크랭크인[공식]]]></title>
+            <link>https://v.daum.net/v/20211005082644854</link>
+            <guid>https://v.daum.net/v/20211005082644854</guid>
+            <pubDate>Tue, 05 Oct 2021 00:51:16 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 '행복의 나라'(가제)가 조정석, 이선균, 유재명까지 믿고 보는 배우들의 캐스팅을 확정 짓고 지난 1일(금) 첫 촬영에 돌입했다. '행복의 나라'(감독 추창민,&nbsp;제공배급 NEW, 제작 파파스필름 오스카10스튜디오)는 현대사를 뒤흔든 사건 속에 휘말린 한 인물과 그를 살리기 위해 전력투구하는 변호사 이야기.&nbsp;조정석, 이선균, 유]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F05%2Fpoctan%2F20211005082645665rcvk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['007 노 타임 투 다이' 개봉 첫주 32개국 1위..1413억원 돌파 [공식]]]></title>
+            <link>https://v.daum.net/v/20211005082250789</link>
+            <guid>https://v.daum.net/v/20211005082250789</guid>
+            <pubDate>Tue, 05 Oct 2021 00:51:16 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] '007 노 타임 투 다이'가 개봉 첫 주 전 세계 32개국에서 박스오피스 1위를 차지하며 1억 1910만 달러(약 1413억 7170만원) 매출을 기록했다. 5일 유니버설 픽쳐스에 따르면 '007 노 타임 투 다이'는 지난달 29일 한국 개봉을 시작으로 전세계에서 순차적으로 개봉을 시작해 54개국에서 개봉하자마자 오프닝 1억 9]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F05%2Fstarnews%2F20211005082251533qlbe.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
