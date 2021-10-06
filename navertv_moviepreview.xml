@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 02:02:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 02:35:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['푸른 호수' 안토니오 스토리 영상]]></title>
+            <link>https://tv.naver.com/v/22810050</link>
+            <guid>https://tv.naver.com/v/22810050</guid>
+            <pubDate>Wed, 06 Oct 2021 02:35:24 GMT</pubDate>
+            <content:encoded><![CDATA[8분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211006_201/vurRl_1633487191522QsElC_JPEG/60937886-264c-11ec-8678-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['종착역' 30초 예고편]]></title>
             <link>https://tv.naver.com/v/22798266</link>
             <guid>https://tv.naver.com/v/22798266</guid>
             <pubDate>Tue, 05 Oct 2021 09:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211005_176/c1mAA_16334246192774HI6T_JPEG/ab05ee72-25ba-11ec-b835-505dac8c3607_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/22797563</link>
             <guid>https://tv.naver.com/v/22797563</guid>
             <pubDate>Tue, 05 Oct 2021 09:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211005_186/Vh71S_1633422790158uIjDu_JPEG/ac227e7c-25b6-11ec-b778-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://tv.naver.com/v/22791342</link>
             <guid>https://tv.naver.com/v/22791342</guid>
             <pubDate>Tue, 05 Oct 2021 07:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211005_47/2LCwS_1633411163744XSgjf_JPEG/b9edf1ad-259b-11ec-9b63-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://tv.naver.com/v/22791201</link>
             <guid>https://tv.naver.com/v/22791201</guid>
             <pubDate>Tue, 05 Oct 2021 05:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211005_67/2aZEM_1633415864805YhigI_JPEG/9011d79f-25a6-11ec-a8ac-505dac8c35ff_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Oct 2021 04:20:38 GMT</pubDate>
             <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211001_179/eQcqV_1633058378645k5qvC_JPEG/2fbce5c0-2266-11ec-82ff-505dac8c385b_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['마이 네임' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/22725540</link>
-            <guid>https://tv.naver.com/v/22725540</guid>
-            <pubDate>Fri, 01 Oct 2021 04:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211001_59/PR7op_1633058227692gM58Y_JPEG/de707070-2263-11ec-89ce-48df379ccacc_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
