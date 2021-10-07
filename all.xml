@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 19:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 20:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -223,20 +223,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F594684f7726d7e5d8ac0af59fbdb1c4ce32833fc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[그래비티 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=59546</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=59546</guid>
-            <pubDate>Wed, 29 Sep 2021 23:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc53f25fab367858eafb3fe1b319229f7ec019654" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[용과 주근깨 공주 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152198</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152198</guid>
             <pubDate>Wed, 29 Sep 2021 00:48:40 GMT</pubDate>
             <content:encoded><![CDATA[21.09.29]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ad31d50eedd1586704f0af288025b3f85917fdb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[그래비티 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=59546</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=59546</guid>
+            <pubDate>Wed, 29 Sep 2021 23:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc53f25fab367858eafb3fe1b319229f7ec019654" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스틸워터 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -519,20 +519,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F07%2FSpoChosun%2F20211007195212937fhrf.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA['모가디슈', 韓대표로 아카데미 출품..'기생충' 신화 이을까 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211007111134020</link>
-            <guid>https://movie.v.daum.net/v/20211007111134020</guid>
-            <pubDate>Thu, 07 Oct 2021 08:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[영진위 심사위원 "국내 뿐만 아니라 해외서도 호평" [더팩트ㅣ이한림 기자] 류승완 감독 영화 '모가디슈'가 한국영화 대표로 아카데미를 찾는다. 7일 영화진흥위원회(이하 영진위)에 따르면 내년 미국에서 열릴 제 94회 아카데미영화상에서 국제장편영화 부문 한국영화 출품작에 '모가디슈'가 선정됐다. '모가디슈'는 1991년 소말리아 수도 모가디슈에서 내전으로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F07%2FTHEFACT%2F20211007111136831wgsd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[후지와라 타츠야X타케우치 료마X한효주X변요한 '태양은 움직이지 않는다', 이달 개봉 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211007091616960</link>
             <guid>https://movie.v.daum.net/v/20211007091616960</guid>
             <pubDate>Thu, 07 Oct 2021 09:14:00 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 글로벌 논스톱 스파이 액션 '태양은 움직이지 않는다'가 10월 개봉을 확정하고 1차 보도스틸을 공개했다. 후지와라 타츠야, 타케우치 료마, 한효주, 변요한 등 아시아 초호화 캐스팅 소식으로 많은 화제를 모았던 영화 '태양은 움직이지 않는다'가 드디어 국내 10월 개봉을 확정 짓고 배우들의 모습을 확인할 수 있는 1차 스틸을]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F07%2Fmydaily%2F20211007091616112gtuw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['모가디슈', 韓대표로 아카데미 출품..'기생충' 신화 이을까 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211007111134020</link>
+            <guid>https://movie.v.daum.net/v/20211007111134020</guid>
+            <pubDate>Thu, 07 Oct 2021 08:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[영진위 심사위원 "국내 뿐만 아니라 해외서도 호평" [더팩트ㅣ이한림 기자] 류승완 감독 영화 '모가디슈'가 한국영화 대표로 아카데미를 찾는다. 7일 영화진흥위원회(이하 영진위)에 따르면 내년 미국에서 열릴 제 94회 아카데미영화상에서 국제장편영화 부문 한국영화 출품작에 '모가디슈'가 선정됐다. '모가디슈'는 1991년 소말리아 수도 모가디슈에서 내전으로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F07%2FTHEFACT%2F20211007111136831wgsd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[홍상수 영화에서 싹 사라진 '배우' 김민희 (다음영화 뉴스 ─ 인기)]]></title>
@@ -567,20 +567,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F07%2Fxportsnews%2F20211007150008743awla.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[티모시 샬라메 '듄' 시각적 대향연..19대 1 액션시퀀스부터 신비주의 패션까지 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211007155412486</link>
-            <guid>https://movie.v.daum.net/v/20211007155412486</guid>
-            <pubDate>Thu, 07 Oct 2021 11:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 김노을 기자] 영화 ‘듄’이 이례적인 액션 시퀀스와 의상을 통해 시각적 대향연을 선보인다. 오는 10월 20일 개봉을 앞둔 영화 ‘듄’(감독 드니 빌뇌브)이 요르단과 아부다비 등 사막 지역의 로케이션 촬영과 실제 세트 제작 등 초대형 스케일로 전 우주적인 경이로운 세계를 창조한 데 이어 빌뇌브 감독 작품에서도 이례적인 액션 시퀀스를 선보일 예정이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F07%2Fnewsen%2F20211007155412861jgbo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[단독] 엄정화·송새벽·방민아, 영화 '화사한 그녀' 출연 확정 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211007165905768</link>
             <guid>https://movie.v.daum.net/v/20211007165905768</guid>
             <pubDate>Thu, 07 Oct 2021 11:13:50 GMT</pubDate>
             <content:encoded><![CDATA[배우 엄정화, 송새벽, 방민아가 영화 '화사한 그녀'를 통해 연기 호흡을 맞추게 됐다. 7일 한경닷컴 취재 결과, 엄정화, 송새벽, 방민아가 이승준 감독 연출작인 '화사한 그녀'에 주인공으로 캐스팅돼 출연할 예정이다.&nbsp; 영화 관계자에 따르면 설경구·문소리 주연의 코미디 영화 '스파이'와 이정현 주연의 범죄 스릴러 '리미트'를 연출한 이승준 감독이 '화사한]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F07%2Fked%2F20211007165909085kaex.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[티모시 샬라메 '듄' 시각적 대향연..19대 1 액션시퀀스부터 신비주의 패션까지 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211007155412486</link>
+            <guid>https://movie.v.daum.net/v/20211007155412486</guid>
+            <pubDate>Thu, 07 Oct 2021 11:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 김노을 기자] 영화 ‘듄’이 이례적인 액션 시퀀스와 의상을 통해 시각적 대향연을 선보인다. 오는 10월 20일 개봉을 앞둔 영화 ‘듄’(감독 드니 빌뇌브)이 요르단과 아부다비 등 사막 지역의 로케이션 촬영과 실제 세트 제작 등 초대형 스케일로 전 우주적인 경이로운 세계를 창조한 데 이어 빌뇌브 감독 작품에서도 이례적인 액션 시퀀스를 선보일 예정이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F07%2Fnewsen%2F20211007155412861jgbo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[시한부 탈옥수와 불치병에 걸린 남자.. 그들이 같이 한 일은? (다음영화 뉴스 ─ 인기)]]></title>
@@ -599,20 +599,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F06%2Fsportskhan%2F20211006173150114mnea.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[유다인 "♥민용근 감독과 결혼 아직까지 실감 안 나"[2021 부일영화상] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211007174953155</link>
-            <guid>https://movie.v.daum.net/v/20211007174953155</guid>
-            <pubDate>Thu, 07 Oct 2021 09:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 김노을 기자] 배우 유다인이 결혼을 앞둔 소감을 밝혔다. 배우 유다인, 안보현은 10월 7일 부산 해운대 벡스코 오디토리움에서 제30회 부일영화상 시상식에 시상자로 참석했다. 이날 안보현은 유다인에게 "올해 축하할 소식이 많이 들리는 것 같다. 결혼 앞두고 있는 걸로 아는데 진심으로 축하드린다"고 말했다. 이에 유다인은 "감사하다. 제가 결혼을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F07%2Fnewsen%2F20211007174953663xqcp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[안성기x윤시윤 '탄생' 이경영→이호원 합류, 여주인공 공개 오디션[공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211007134144248</link>
             <guid>https://movie.v.daum.net/v/20211007134144248</guid>
             <pubDate>Thu, 07 Oct 2021 09:14:00 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스엔 김노을 기자] 한국 최초의 사제, 성 김대건 신부의 삶과 죽음을 다룬 최초의 극영화 ‘탄생’에 이경영, 최무성, 차청화, 강말금, 이호원, 하경 배우들이 출연을 확정했다. 이와 함께 여성 주인공의 공개 오디션을 진행한다. 영화 ‘탄생’(감독 박흥식)은 청년 김대건이 성 김대건 안드레아로 탄생하고 또 안타깝게 순교하는 과정을 최초로 그리는 작품이다]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F07%2Fnewsen%2F20211007134146872llzc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[유다인 "♥민용근 감독과 결혼 아직까지 실감 안 나"[2021 부일영화상] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211007174953155</link>
+            <guid>https://movie.v.daum.net/v/20211007174953155</guid>
+            <pubDate>Thu, 07 Oct 2021 09:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 김노을 기자] 배우 유다인이 결혼을 앞둔 소감을 밝혔다. 배우 유다인, 안보현은 10월 7일 부산 해운대 벡스코 오디토리움에서 제30회 부일영화상 시상식에 시상자로 참석했다. 이날 안보현은 유다인에게 "올해 축하할 소식이 많이 들리는 것 같다. 결혼 앞두고 있는 걸로 아는데 진심으로 축하드린다"고 말했다. 이에 유다인은 "감사하다. 제가 결혼을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F07%2Fnewsen%2F20211007174953663xqcp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['007 노 타임 투 다이' 1위 수성, 74만 돌파 [박스오피스] (다음영화 뉴스 ─ 인기)]]></title>
@@ -655,12 +655,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F07%2FNEWS1%2F20211007172909569mrqo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[26회 BIFF]송중기 "김태리 싫어하는 사람 본 적 없어..작은 체구에 큰 그릇 가졌다" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211007164344023</link>
-            <guid>https://movie.v.daum.net/v/20211007164344023</guid>
-            <pubDate>Thu, 07 Oct 2021 12:25:52 GMT</pubDate>
-            <content:encoded><![CDATA[[부산=스포츠조선 이승미 기자]배우 송중기가 김태리에 대해 칭찬했다. 7일 오후 부산시 해운대구 우동 영화의 전당 야외무대에서는 제26회 부산국제영화제(Busan International Film Festival, BIFF) 영화 '승리호' 오픈토크가 진행됐다. 이날 오픈토크에는 조성희 감독, 송중기, 진선규가 참석했다. 이날 송중기는 김태리]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F07%2FSpoChosun%2F20211007195215219prqv.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[가상 임신르포.. 젊은 여성의 임신과 출산에 관한 담론 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211007135701715</link>
+            <guid>https://movie.v.daum.net/v/20211007135701715</guid>
+            <pubDate>Thu, 07 Oct 2021 20:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[[김상목 기자] ▲ "십개월의 미래" 스틸&nbsp;영화 스틸 이미지    ⓒ 그린나래미디어㈜  1_ 최'악의' 미래, 살아남기 위하여 29살, 미혼, 여성, 프로그램 개발자 최미래는 부모의 근심걱정 속에서 술에 절어 살지만, 남자친구 현준과 절친 김김 등과 함께 젊음을 불사르는 나날을 보내는 중이다. 집안의 구박을 돌파해가며 자신의 꿈을 향해 미래는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F07%2Fohmynews%2F20211007135704841awsw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[봉준호 "비밀 캐고 싶다" 하마구치 "나도 모순된 욕망 있다" (다음영화 뉴스 ─ 최신)]]></title>
@@ -1347,7 +1347,7 @@
             <link>https://tv.naver.com/v/22842135</link>
             <guid>https://tv.naver.com/v/22842135</guid>
             <pubDate>Thu, 07 Oct 2021 11:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211007_74/vHQkt_1633598217314pXfDz_JPEG/24405bf4-274f-11ec-88b9-505dac8c37f3_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1355,7 +1355,7 @@
             <link>https://tv.naver.com/v/22840054</link>
             <guid>https://tv.naver.com/v/22840054</guid>
             <pubDate>Thu, 07 Oct 2021 08:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211007_61/otyk0_1633594188566UuHTN_JPEG/df1dee5e-2745-11ec-8637-a0369ff95678_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1363,7 +1363,7 @@
             <link>https://tv.naver.com/v/22840041</link>
             <guid>https://tv.naver.com/v/22840041</guid>
             <pubDate>Thu, 07 Oct 2021 08:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211007_91/NLkuN_1633594150835jU1t7_JPEG/c6ff4ebb-2745-11ec-8adb-a0369ff9545c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
