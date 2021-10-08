@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-08T16:25:02.137Z</updated>
+    <updated>2021-10-08T18:18:33.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로시 스타일디렉터, 서울패션위크 후기 “새로운 도전이자 경험”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000593904</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000593904"/>
+        <updated>2021-10-08T18:17:07.316Z</updated>
+        <content type="html"><![CDATA[송현희, 최경호 부부 디자이너가 이끄는 홀리넘버세븐이 성공적으로 패션쇼를 마쳤다. 보이그룹 에이스의 김병관, 찬과 걸그룹 우아(woo!ah!)의 나나, 민서, 우연이 패션쇼 모델로 이름을 올려 기대를 모으기도 했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지옥' 원진아, '하지 않으면 후회할 것 같았어' (부산국제영화제) [O! STAR]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004488349</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003543683"/>
         <updated>2021-10-08T14:14:27.620Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 부산 송일섭 기자] 배우 전종서가 8일 오후 부산광역시 해운대구 중동 파라다이스호텔에서 진행된 제26회 부산국제영화제(BIFF) '제15회 아시아필름어워즈' 레드카펫 포토월 행사에 참석하고 있다. (]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아시아필름어워즈' 이병헌X유아인X박정민, 멋짐이란 것이 뿜뿜[엑's 영상]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001357815</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001357815"/>
-        <updated>2021-10-08T14:14:27.620Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 부산, 고아라 기자) 8일 오후 부산 중동 파라다이스호텔 그랜드볼룸에서 열린 '제15회 아시아필름어워즈' 레드카펫 행사에 참석한 배우 이병헌, 유아인, 박정민이 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
