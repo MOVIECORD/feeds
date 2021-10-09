@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-09T11:13:59.208Z</updated>
+    <updated>2021-10-09T12:24:11.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[변요한 "설경구 같은 배우 되고파…이제 멜로도 자신 있어" [BIFF](종합)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005647793</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005647793"/>
+        <updated>2021-10-09T12:22:49.755Z</updated>
+        <content type="html"><![CDATA[(부산=뉴스1) 고승아 기자 = 배우 변요한이 자신의 연기 인생을 되돌아보며, 앞으로 10년 후 연기 생활에 대한 자신감을 드러냈다. 변요한은 9일 오후 7시 부산 해운대구 KNN시어터에서 진행된 제26회 부산국제영]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BIFF]변요한 "연기 요즘 더 재밌어져..좀 더 욕심내고 싶다"(종합)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003484956</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003484956"/>
+        <updated>2021-10-09T12:22:49.755Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=부산, 이미지 기자] 변요한이 점점 연기가 재밌어진다고 고백했다. 제26회 부산국제영화제 액터스 하우스 '변요한'이 9일 오후 부산 해운대구 KNN 시어터에서 열렸다. 이날 변요한은 "공연하고 독립 영]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[BIFF현장]조진웅 "'지천명 아이돌' 설경구, 팬미팅 꼭 해보라 하더라"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003484951</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000497572"/>
         <updated>2021-10-09T10:16:35.716Z</updated>
         <content type="html"><![CDATA[[해운대(부산)=뉴스엔 글 배효주 기자/사진 정유진 기자] 변요한이 '미생'을 두고 "반짝거렸던 순간"이라고 회상했다. 변요한은 10월 9일 부산 해운대 KNN 씨어터에서 열린 제26회 부산국제영화제 스페셜 토크 프]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조진웅 "술 좋아하고 까칠한 나, 연기하며 캐릭터에게 배워" (종합)[BIFF 2021]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001358039</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001358039"/>
-        <updated>2021-10-09T10:16:35.729Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 부산, 김유진 기자) 배우 조진웅이 '올해의 배우상' 심사위원으로 부산국제영화제를 찾은 소감과 연기에 대한 남다른 열정을 드러냈다. 9일 오후 부산 해운대구 우동 KNN타워 KNN시어터에서 제26회 부]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BIFF]조진웅이 연기하는 이유 "인류가 다 연기를 해봤으면!"(액터스하우스)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000322937</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000322937"/>
-        <updated>2021-10-09T10:16:35.729Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=부산, 김현록 기자]배우 조진웅이 "인류가 연기를 했으면 좋겠다"며 연기 예찬론을 펼쳤다. 조진웅은 제26회 부산국제영화제 개막 4일째인 9일 오후 부산 KNN시어터에서 열린 스페셜 토크 프로그램 '액]]></content>
     </entry>
 </feed>
