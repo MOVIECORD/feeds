@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Oct 2021 17:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Oct 2021 18:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,14 +48,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F09%2Fstarnews%2F20211009100003149wcvr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["스파이더맨 없이 베놈이 존재할까?" 의구심 날린 장면]]></title>
-            <link>https://movie.v.daum.net/v/20211008141200137</link>
-            <guid>https://movie.v.daum.net/v/20211008141200137</guid>
-            <pubDate>Fri, 08 Oct 2021 08:19:13 GMT</pubDate>
-            <content:encoded><![CDATA['안방극장'에선 처음 또는 다시 볼 만한 영화, 드라마, 애니메이션을 소개하고자 합니다. 세월의 흔적이 묻은 작품부터 아직 국내에 정식으로 소개되지 않은 작품까지 다양하게 다루려고 합니다. &lt;편집자말&gt; [이학후 기자] 기자 에디(톰 하디 분)는 드레이크(리즈 아메드 분)가 이끄는 거대 기업 '라이프 파운데이션'이 은폐한 비밀을 조사하던 중 문제를 일으키며]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F08%2Fohmynews%2F20211008141203687zitm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[리뷰 전멸, 평론가들 해석 요청 빗발친 '이상한' 영화]]></title>
             <link>https://movie.v.daum.net/v/20211008110000101</link>
             <guid>https://movie.v.daum.net/v/20211008110000101</guid>
@@ -64,12 +56,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F08%2Fohmynews%2F20211008110003792syyp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["초코파이로 10kg 찌워" 한소희, 근육 아닌 지방이라 '솔직'(마이네임)[26회 BIFF]]]></title>
-            <link>https://movie.v.daum.net/v/20211008201115780</link>
-            <guid>https://movie.v.daum.net/v/20211008201115780</guid>
-            <pubDate>Sat, 09 Oct 2021 06:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[[해운대(부산)=뉴스엔 글 배효주 기자/사진 정유진 기자] 한소희가 "초코파이를 먹고 10kg을 증량했다"고 솔직 고백했다. 한소희는 10월 8일 부산 해운대 영화의전당 야외무대에서 열린 넷플릭스 시리즈 '마이 네임'(극본 김바다/연출 김진민) 오픈토크를 통해 액션신을 소화하려 10kg을 증량했다고 밝혔다. 오는 10월 15일 넷플릭스를 통해 공개되는 ']]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F08%2Fnewsen%2F20211008201115411hqse.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA["스파이더맨 없이 베놈이 존재할까?" 의구심 날린 장면]]></title>
+            <link>https://movie.v.daum.net/v/20211008141200137</link>
+            <guid>https://movie.v.daum.net/v/20211008141200137</guid>
+            <pubDate>Fri, 08 Oct 2021 08:19:13 GMT</pubDate>
+            <content:encoded><![CDATA['안방극장'에선 처음 또는 다시 볼 만한 영화, 드라마, 애니메이션을 소개하고자 합니다. 세월의 흔적이 묻은 작품부터 아직 국내에 정식으로 소개되지 않은 작품까지 다양하게 다루려고 합니다. &lt;편집자말&gt; [이학후 기자] 기자 에디(톰 하디 분)는 드레이크(리즈 아메드 분)가 이끄는 거대 기업 '라이프 파운데이션'이 은폐한 비밀을 조사하던 중 문제를 일으키며]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F08%2Fohmynews%2F20211008141203687zitm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[칸 황금종려상 '티탄' 11월 국내 개봉 "올해의 미친 걸작"]]></title>
@@ -78,6 +70,14 @@
             <pubDate>Fri, 08 Oct 2021 13:21:06 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스엔 김노을 기자] 칸 영화제 역사상 가장 센세이셔널한 수상으로 손꼽히는 2021년 황금종려 수상작 '티탄'이 마침내 11월 국내 개봉을 확정하고 메인 포스터를 공개했다. 2021년 칸영화제 황금종려상에 빛나는 '티탄'(감독 쥘리아 뒤쿠르노)은 어린 시절, 교통사고로 뇌에 티타늄을 심고 살아가던 여성이 기이한 욕망에 사로잡혀 일련의 사건에 휘말리다 1]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F08%2Fnewsen%2F20211008124746993vzct.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["초코파이로 10kg 찌워" 한소희, 근육 아닌 지방이라 '솔직'(마이네임)[26회 BIFF]]]></title>
+            <link>https://movie.v.daum.net/v/20211008201115780</link>
+            <guid>https://movie.v.daum.net/v/20211008201115780</guid>
+            <pubDate>Sat, 09 Oct 2021 06:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[[해운대(부산)=뉴스엔 글 배효주 기자/사진 정유진 기자] 한소희가 "초코파이를 먹고 10kg을 증량했다"고 솔직 고백했다. 한소희는 10월 8일 부산 해운대 영화의전당 야외무대에서 열린 넷플릭스 시리즈 '마이 네임'(극본 김바다/연출 김진민) 오픈토크를 통해 액션신을 소화하려 10kg을 증량했다고 밝혔다. 오는 10월 15일 넷플릭스를 통해 공개되는 ']]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F08%2Fnewsen%2F20211008201115411hqse.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['오징어 게임' 김주령 "SNS 팔로워 400명→168만, 살다 보니 이런 일도"[일문일답]]]></title>
@@ -96,22 +96,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F09%2FNEWS1%2F20211009194831486xjaz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[26회 BIFF] 한예리 "'오징어 게임' 정호연, 너무 부럽다"]]></title>
-            <link>https://movie.v.daum.net/v/20211008192433930</link>
-            <guid>https://movie.v.daum.net/v/20211008192433930</guid>
-            <pubDate>Sat, 09 Oct 2021 01:56:25 GMT</pubDate>
-            <content:encoded><![CDATA[배우 한예리가 '부러움'이라는 감정에 관해 이야기했다. 한예리는 8일 부산 해운대구 KNN시어터에서 열린 제26회 부산국제영화제(BIFF) '액터스 하우스'에서 "타인을 부러워하기보다는 자신의 것을 소중히 하는 것 같다"는 말에 "지금 ('오징어 게임' 정)호연이가 너무 부럽다. 부러운 건 늘 있다"며 웃었다. 정호연은 넷플릭스 오리지널 시리즈 ']]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F08%2Filgansports%2F20211008192437218wvci.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[가수→연기자→감독 김소이, "'난자 얼려라'는 엄마 말 듣고 만든 작품이 '마이 에그즈'예요."]]></title>
-            <link>https://movie.v.daum.net/v/20211009151008753</link>
-            <guid>https://movie.v.daum.net/v/20211009151008753</guid>
-            <pubDate>Sat, 09 Oct 2021 06:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[부산국제영화제 배우전 “지치지 않고 뭔가 만들어온 게 참 다행인 순간” 부산=김인구 기자 가수 출신의 배우 김소이(41)가 부산에서 연출자 데뷔를 본격적으로 알렸다. 김소이는 7일 부산 남포동 대영시네마에서 열린 제26회 부산국제영화제 ‘김소이 배우전’에서 자신이 출연한 작품 ‘컨버세이션’과 그동안 연출한 단편 3편을 가지고 관객들과 만났다. ‘컨버세이션]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F09%2Fmunhwa%2F20211009151009781vzgs.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['장르만 로맨스' 류승룡x오나라, 쿨내나는 이혼부부 스틸 공개]]></title>
             <link>https://movie.v.daum.net/v/20211008120210598</link>
             <guid>https://movie.v.daum.net/v/20211008120210598</guid>
@@ -128,12 +112,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F08%2Fpoctan%2F20211008102835837qhhd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[조진웅 "야구 틀어놓고 대본봤더니 어느새 5회 말..딱 좋다는 뜻" [BIFF]]]></title>
-            <link>https://movie.v.daum.net/v/20211009173105364</link>
-            <guid>https://movie.v.daum.net/v/20211009173105364</guid>
-            <pubDate>Sat, 09 Oct 2021 09:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[(부산=뉴스1) 고승아 기자 = 롯데 자이언츠 야구 팬으로 유명한 배우 조진웅이 야구를 보면서 대본을 본 적이 있다고 밝혔다. 조진웅은 9일 오후 5시 부산 해운대구 KNN시어터에서 진행된 제26회 부산국제영화제 액터스 하우스에서 연기 고민이 있냐는 질문에 "그건 작품을 만났을 때 하는 고민이다"라며 "살면서는 아예 대본도 안 보고 집에서는 아예 아무것]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F09%2FNEWS1%2F20211009173105655rtcj.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[26회 BIFF] 한예리 "'오징어 게임' 정호연, 너무 부럽다"]]></title>
+            <link>https://movie.v.daum.net/v/20211008192433930</link>
+            <guid>https://movie.v.daum.net/v/20211008192433930</guid>
+            <pubDate>Sat, 09 Oct 2021 01:56:25 GMT</pubDate>
+            <content:encoded><![CDATA[배우 한예리가 '부러움'이라는 감정에 관해 이야기했다. 한예리는 8일 부산 해운대구 KNN시어터에서 열린 제26회 부산국제영화제(BIFF) '액터스 하우스'에서 "타인을 부러워하기보다는 자신의 것을 소중히 하는 것 같다"는 말에 "지금 ('오징어 게임' 정)호연이가 너무 부럽다. 부러운 건 늘 있다"며 웃었다. 정호연은 넷플릭스 오리지널 시리즈 ']]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F08%2Filgansports%2F20211008192437218wvci.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[가수→연기자→감독 김소이, "'난자 얼려라'는 엄마 말 듣고 만든 작품이 '마이 에그즈'예요."]]></title>
+            <link>https://movie.v.daum.net/v/20211009151008753</link>
+            <guid>https://movie.v.daum.net/v/20211009151008753</guid>
+            <pubDate>Sat, 09 Oct 2021 06:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[부산국제영화제 배우전 “지치지 않고 뭔가 만들어온 게 참 다행인 순간” 부산=김인구 기자 가수 출신의 배우 김소이(41)가 부산에서 연출자 데뷔를 본격적으로 알렸다. 김소이는 7일 부산 남포동 대영시네마에서 열린 제26회 부산국제영화제 ‘김소이 배우전’에서 자신이 출연한 작품 ‘컨버세이션’과 그동안 연출한 단편 3편을 가지고 관객들과 만났다. ‘컨버세이션]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F09%2Fmunhwa%2F20211009151009781vzgs.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[변요한 "멜로 장르 욕심도..이젠 자신 있어"[26회 BIFF]]]></title>
+            <link>https://movie.v.daum.net/v/20211010005041052</link>
+            <guid>https://movie.v.daum.net/v/20211010005041052</guid>
+            <pubDate>Sat, 09 Oct 2021 17:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 조은애 기자] 배우 변요한이 멜로 장르에 대한 욕심을 드러냈다. 9일 오후 부산 해운대구 KNN시어터에서 제26회 부산국제영화제(BIFF) 스페셜 토크 프로그램 '액터스 하우스'가 진행됐다. 이 자리에는 최근 영화 '보이스'로 스크린 컴백한 배우 변요한이 참석해 관객들과 다양한 이야기를 나눴다. 이날 변요한은 앞으로의 10년에 대해 묻는 질문]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F10%2FSpoHankook%2F20211010005042875rllg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[26회 BIFF] 변요한 "추석특선 '자산어보' 보며 또 울었다"]]></title>
@@ -144,6 +144,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F09%2Filgansports%2F20211009203936211nepn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[변요한 "'멜로 하라'는 이야기 많이 듣지만 안 하는 이유는.."[26회 BIFF]]]></title>
+            <link>https://movie.v.daum.net/v/20211009192027515</link>
+            <guid>https://movie.v.daum.net/v/20211009192027515</guid>
+            <pubDate>Sat, 09 Oct 2021 18:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[[해운대(부산)=뉴스엔 글 배효주 기자/사진 정유진 기자] 변요한이 "요즘 연기가 너무 재밌다"고 밝혔다. 변요한은 10월 9일 부산 해운대 KNN 씨어터에서 열린 제26회 부산국제영화제 스페셜 토크 프로그램 '액터스 하우스'를 통해 "저도 제가 무슨 생각을 하고 사는지 모르겠다"고 하며 "이 말이 또 기사 헤드라인으로 나가는 거 아니냐?"고 말하며 웃었]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F09%2Fnewsen%2F20211009192027480okei.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[조진웅 "술 좋아하고 까칠한 나, 연기하며 캐릭터에게 배워" (종합)[BIFF 2021]]]></title>
             <link>https://movie.v.daum.net/v/20211009185002169</link>
             <guid>https://movie.v.daum.net/v/20211009185002169</guid>
@@ -152,20 +160,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F09%2Fxportsnews%2F20211009185005115opsa.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[26회 BIFF] 변요한 "설경구, 내가 생각했던 이상의 인간상"]]></title>
-            <link>https://movie.v.daum.net/v/20211009213434003</link>
-            <guid>https://movie.v.daum.net/v/20211009213434003</guid>
-            <pubDate>Sat, 09 Oct 2021 16:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[변요한이 선배 설경구에 대한 존경심을 표했다. 9일 부산 해운대구 KNN시어터에서 열린 제26회 부산국제영화제(BIFF) 액터스 하우스에서 변요한은 '자산어보'에서 함께 호흡맞춘 설경구에 대해 "내가 설경구 선배님을 너무 좋아하는 배우라고 평소에도 생각하고 있었다. 근데 실제로 만났을 때, 선배님은 내가 생각했던 인간상 이상이었다"고 말했다. 변요한은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F09%2Filgansports%2F20211009213436243mqcy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[변요한 "멜로 장르 욕심도..이젠 자신 있어"[26회 BIFF]]]></title>
-            <link>https://movie.v.daum.net/v/20211010005041052</link>
-            <guid>https://movie.v.daum.net/v/20211010005041052</guid>
-            <pubDate>Sat, 09 Oct 2021 17:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠한국 조은애 기자] 배우 변요한이 멜로 장르에 대한 욕심을 드러냈다. 9일 오후 부산 해운대구 KNN시어터에서 제26회 부산국제영화제(BIFF) 스페셜 토크 프로그램 '액터스 하우스'가 진행됐다. 이 자리에는 최근 영화 '보이스'로 스크린 컴백한 배우 변요한이 참석해 관객들과 다양한 이야기를 나눴다. 이날 변요한은 앞으로의 10년에 대해 묻는 질문]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F10%2FSpoHankook%2F20211010005042875rllg.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[조진웅 "야구 틀어놓고 대본봤더니 어느새 5회 말..딱 좋다는 뜻" [BIFF]]]></title>
+            <link>https://movie.v.daum.net/v/20211009173105364</link>
+            <guid>https://movie.v.daum.net/v/20211009173105364</guid>
+            <pubDate>Sat, 09 Oct 2021 09:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[(부산=뉴스1) 고승아 기자 = 롯데 자이언츠 야구 팬으로 유명한 배우 조진웅이 야구를 보면서 대본을 본 적이 있다고 밝혔다. 조진웅은 9일 오후 5시 부산 해운대구 KNN시어터에서 진행된 제26회 부산국제영화제 액터스 하우스에서 연기 고민이 있냐는 질문에 "그건 작품을 만났을 때 하는 고민이다"라며 "살면서는 아예 대본도 안 보고 집에서는 아예 아무것]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F09%2FNEWS1%2F20211009173105655rtcj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
