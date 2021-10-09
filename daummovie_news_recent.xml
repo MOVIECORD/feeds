@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-10-09T15:16:36.248Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 09 Oct 2021 16:23:56 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[변요한 "멜로 장르 욕심도..이젠 자신 있어"[26회 BIFF]]]></title>
+            <link>https://v.daum.net/v/20211010005041052</link>
+            <guid>https://v.daum.net/v/20211010005041052</guid>
+            <pubDate>Sat, 09 Oct 2021 16:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 조은애 기자] 배우 변요한이 멜로 장르에 대한 욕심을 드러냈다. 9일 오후 부산 해운대구 KNN시어터에서 제26회 부산국제영화제(BIFF) 스페셜 토크 프로그램 '액터스 하우스'가 진행됐다. 이 자리에는 최근 영화 '보이스'로 스크린 컴백한 배우 변요한이 참석해 관객들과 다양한 이야기를 나눴다. 이날 변요한은 앞으로의 10년에 대해 묻는 질문]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F10%2FSpoHankook%2F20211010005042875rllg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
