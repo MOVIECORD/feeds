@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-10T18:18:27.262Z</updated>
+    <updated>2021-10-10T20:17:11.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["일본 명예보다 위안부 피해자 명예 회복이 더 중요"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000634228</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000634228"/>
+        <updated>2021-10-10T20:15:38.245Z</updated>
+        <content type="html"><![CDATA[우에무라 다카시 전 아사히신문 기자는 1991년 위안부 피해자 문제를 일본 최초로 보도했다. 그의 보도가 있은 후 일본 언론이 앞다퉈 위안부 문제를 다뤘고, 1993년 고노 담화(일본 정부의 위안부 피해자에 대한 사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["스스로 기특해" 류승룡, 10년 지나도 특별한 '모든것' [BIFF](종합)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005649125</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005648672"/>
         <updated>2021-10-10T09:14:30.756Z</updated>
         <content type="html"><![CDATA[(부산=뉴스1) 고승아 기자 = 레오스 카락스 감독이 무성영화를 많이 보며 영화에 대한 꿈을 키웠다고 밝혔다. 카락스 감독은 10일 오후 부산 해운대구 KNN시어터에서 열린 '마스터 클래스 : 레오스 카락스, 그는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[발언하는 허문영 집행위원장]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012667794</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012667794"/>
-        <updated>2021-10-10T09:14:30.756Z</updated>
-        <content type="html"><![CDATA[(부산=연합뉴스) 강민지 기자 = 10일 오후 부산 해운대구 KNN시어터에서 열린 제26회 부산국제영화제 '마스터클래스: 레오스 카락스, 그는 영화다'에서 허문영 부산국제영화제 집행위원장이 발언하고 있다. 2021.]]></content>
     </entry>
 </feed>
