@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Oct 2021 16:23:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Oct 2021 17:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -215,20 +215,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff09b6fed698932a9258208f8cc4d041ac95efbbd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 포켓몬스터: 정글의 아이, 코코 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=147088</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=147088</guid>
-            <pubDate>Wed, 15 Sep 2021 00:49:01 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc607318ce0a60a7d8b8e540ea599f588751df07e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 짱구는 못말려: 격돌! 낙서왕국과 얼추 네 명의 용사들 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=144508</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=144508</guid>
             <pubDate>Wed, 15 Sep 2021 00:49:01 GMT</pubDate>
             <content:encoded><![CDATA[21.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ab42f8d99b9b6a6bceb169917a3a0c2c222e942" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 포켓몬스터: 정글의 아이, 코코 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=147088</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=147088</guid>
+            <pubDate>Wed, 15 Sep 2021 00:49:01 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc607318ce0a60a7d8b8e540ea599f588751df07e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[피어썸 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -247,20 +247,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ad31d50eedd1586704f0af288025b3f85917fdb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[쁘띠 마망 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=148314</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=148314</guid>
-            <pubDate>Thu, 30 Sep 2021 06:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F594684f7726d7e5d8ac0af59fbdb1c4ce32833fc" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[샹치와 텐 링즈의 전설 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=129706</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=129706</guid>
             <pubDate>Wed, 01 Sep 2021 00:53:08 GMT</pubDate>
             <content:encoded><![CDATA[21.09.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a64941e61f5a3fbcad8ef6bbf7edb073b35c01a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[쁘띠 마망 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148314</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148314</guid>
+            <pubDate>Thu, 30 Sep 2021 06:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F594684f7726d7e5d8ac0af59fbdb1c4ce32833fc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[매직 스쿨: 초보마법사 아우라의 대모험 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -559,20 +559,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F10%2FNEWS1%2F20211010212822404wjvx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[이정재X박해수도 홀렸다..'오징어 게임' 세트장 클래스 [★비하인드] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211010120003081</link>
-            <guid>https://movie.v.daum.net/v/20211010120003081</guid>
-            <pubDate>Sun, 10 Oct 2021 04:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 이정재, 박해수 /사진제공=넷플릭스넷플릭스 시리즈 '오징어 게임'이 글로벌 인기를 누리고 있는 가운데, 세계관을 구현한 세트장도 관심이 집중되고 있다. '오징어 게임'은 456억 원의 상금이 걸린 의문의 서바이벌에 참가한 사람들이 최후의 승자가 되기 위해 목숨을 걸고 극한의 게임에 도전하는 이야기다. 456명의 참가자가 게임을 펼]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F10%2Fstarnews%2F20211010120004170ogkg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[단독]30대의 송중기가 떠올린 20대의 송중기 "늙었다? 열심히 살았다!" [인터뷰②] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211010100005353</link>
             <guid>https://movie.v.daum.net/v/20211010100005353</guid>
             <pubDate>Sun, 10 Oct 2021 02:00:42 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 부산국제영화제=김미화 기자] ━제26회 부산국제영화제서 만난 배우 송중기 배우 송중기 /사진=부산=김창현 기자배우 송중기(36)가 오랜만에 부산국제영화제를 찾았다. 2012년 영화 '늑대소년'(감독 조성희)으로 부산국제영화제를 찾았던 송중기는 10년 만에 다시 조성희 감독과 '승리호'를 타고 부산으로 왔다.  송중기는 올해 제 26회 부산국제영화]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F10%2Fstarnews%2F20211010120820623slrx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이정재X박해수도 홀렸다..'오징어 게임' 세트장 클래스 [★비하인드] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211010120003081</link>
+            <guid>https://movie.v.daum.net/v/20211010120003081</guid>
+            <pubDate>Sun, 10 Oct 2021 04:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 이정재, 박해수 /사진제공=넷플릭스넷플릭스 시리즈 '오징어 게임'이 글로벌 인기를 누리고 있는 가운데, 세계관을 구현한 세트장도 관심이 집중되고 있다. '오징어 게임'은 456억 원의 상금이 걸린 의문의 서바이벌에 참가한 사람들이 최후의 승자가 되기 위해 목숨을 걸고 극한의 게임에 도전하는 이야기다. 456명의 참가자가 게임을 펼]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F10%2Fstarnews%2F20211010120004170ogkg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[박찬욱 "'금자씨' 이영애, 어떻게 해도 망가질 수 없는 아름다움 있더라" [BIFF] (다음영화 뉴스 ─ 인기)]]></title>
@@ -583,20 +583,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F10%2FNEWS1%2F20211010133701543azed.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[부산국제영화제, 해외 게스트 일정 잇단 차질.. 기자간담회 15분 전 취소도 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211010154419564</link>
-            <guid>https://movie.v.daum.net/v/20211010154419564</guid>
-            <pubDate>Sun, 10 Oct 2021 07:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] 제26회 부산국제영화제(BIFF)가 지난 6일 개막한 이래 코로나19 속에서도 다양한 오프라인 행사가 벌어지고 있지만, 해외 게스트들의 일정이 차질을 빚는 일이 잇따르고 있다. 10일 부산국제영화제 측에 따르면 이날 예정됐던 한국계 미국인 감독 겸 배우 저스틴 전의 온라인 기자간담회가 15분 전 갑자기 취소됐다. 그는 이번에 연출은 물론]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F10%2Fseouleconomy%2F20211010155405095bwzx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[26회 BIFF] '내 아내의 모든 것' 민규동 감독 "임수정 '그만두고 싶다' 말하기도" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211010214734268</link>
             <guid>https://movie.v.daum.net/v/20211010214734268</guid>
             <pubDate>Sun, 10 Oct 2021 13:19:46 GMT</pubDate>
             <content:encoded><![CDATA[민규동 감독이 '내 아내의 모든 것' 촬영 비하인드 스토리를 전했다. 10일 부산 중구 비프광장로 롯데시네마 대영에서 열린 제26회 부산국제영화제(BIFF·부국제) 영화 '내 아내의 모든 것(민규동 감독)' 커뮤니티비프 마스터톡에서 민규동 감독은 "임수정 배우가 이전에는 싱글 꽃미남들과만 연기를 하다가 이 작품을 통해 두 유부남(류승룡, 이선균)과 호흡]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F10%2Filgansports%2F20211010214737863ztzo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[부산국제영화제, 해외 게스트 일정 잇단 차질.. 기자간담회 15분 전 취소도 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211010154419564</link>
+            <guid>https://movie.v.daum.net/v/20211010154419564</guid>
+            <pubDate>Sun, 10 Oct 2021 07:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] 제26회 부산국제영화제(BIFF)가 지난 6일 개막한 이래 코로나19 속에서도 다양한 오프라인 행사가 벌어지고 있지만, 해외 게스트들의 일정이 차질을 빚는 일이 잇따르고 있다. 10일 부산국제영화제 측에 따르면 이날 예정됐던 한국계 미국인 감독 겸 배우 저스틴 전의 온라인 기자간담회가 15분 전 갑자기 취소됐다. 그는 이번에 연출은 물론]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F10%2Fseouleconomy%2F20211010155405095bwzx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[26회 BIFF] '내 아내의 모든 것' 류승룡 "10년만 재관람 '철들었구나' 기특" (다음영화 뉴스 ─ 인기)]]></title>
@@ -607,14 +607,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F10%2Filgansports%2F20211010212137922tjxo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[민규동 감독 "'내 아내의 모든 것' 류승룡·임수정·이선균 운명적 만남" [BIFF] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211010214346218</link>
-            <guid>https://movie.v.daum.net/v/20211010214346218</guid>
-            <pubDate>Sun, 10 Oct 2021 14:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[(부산=뉴스1) 고승아 기자 = 민규동 감독이 임수정, 이선균, 류승룡의 캐스팅이 '운명적'이었다고 회상했다. 10일 오후 부산 중구 롯데시네마 대영에서 '2021 커뮤니티비프 - 마스터톡'이 열려 영화 '내 아내의 모든 것'에 대해 배우 류승룡과 민규동 감독이 이야기를 나눴다. 이날 민규동 감독은 "그때 (임수정이) 유부남과 처음한 건데 특히 현장에서]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F10%2FNEWS1%2F20211010214347660eovg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[26회 BIFF] '내 아내의 모든 것' 민규동 감독 "투자사가 반대했던 류승룡, 없었다면 아찔" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211010213704136</link>
             <guid>https://movie.v.daum.net/v/20211010213704136</guid>
@@ -623,12 +615,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F10%2Filgansports%2F20211010213706808gsmb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[단독]송중기 "10년만에 다시 온 BIFF..관객과 만남 뭉클해" [인터뷰①] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211010100002346</link>
-            <guid>https://movie.v.daum.net/v/20211010100002346</guid>
-            <pubDate>Sun, 10 Oct 2021 02:00:42 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 부산국제영화제=김미화 기자] ━제26회 부산국제영화제서 만난 배우 송중기 배우 송중기 /사진=부산=김창현 기자배우 송중기(36)가 오랜만에 부산국제영화제를 찾았다. 2012년 영화 '늑대소년'(감독 조성희)으로 부산국제영화제를 찾았던 송중기는 10년 만에 다시 조성희 감독과 '승리호'를 타고 부산으로 왔다.  송중기는 올해 부산국제영화제 개막식]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F10%2Fstarnews%2F20211010120921666qujg.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[민규동 감독 "'내 아내의 모든 것' 류승룡·임수정·이선균 운명적 만남" [BIFF] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211010214346218</link>
+            <guid>https://movie.v.daum.net/v/20211010214346218</guid>
+            <pubDate>Sun, 10 Oct 2021 14:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[(부산=뉴스1) 고승아 기자 = 민규동 감독이 임수정, 이선균, 류승룡의 캐스팅이 '운명적'이었다고 회상했다. 10일 오후 부산 중구 롯데시네마 대영에서 '2021 커뮤니티비프 - 마스터톡'이 열려 영화 '내 아내의 모든 것'에 대해 배우 류승룡과 민규동 감독이 이야기를 나눴다. 이날 민규동 감독은 "그때 (임수정이) 유부남과 처음한 건데 특히 현장에서]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F10%2FNEWS1%2F20211010214347660eovg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[류승룡, 10년 만에 '매일 그대와' 열창.."그때도 정말 힘들었다" [BIFF] (다음영화 뉴스 ─ 인기)]]></title>
@@ -639,20 +631,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F10%2FNEWS1%2F20211010215849067tyaa.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["미친 걸작"..칸 황금종려상 '티탄' 11월 국내 개봉[공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211010153301422</link>
-            <guid>https://movie.v.daum.net/v/20211010153301422</guid>
-            <pubDate>Sun, 10 Oct 2021 07:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 칸 영화제 황금종려 수상작 '티탄'이 11월 국내 개봉한다. 영화 '티탄'(감독 쥘리아 뒤쿠르노)은 어린 시절, 교통사고로 뇌에 티타늄을 심고 살아가던 여성이 기이한 욕망에 사로잡혀 일련의 사건에 휘말리다 10년 전 실종된 아들을 찾던 슬픈 아버지와 조우하게 되며 벌어지는 이야기를 담는다. 묵직한 드라마 장르가 주를 이뤄 온 기존 칸영화제 황금]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F10%2Fstartoday%2F20211010153303846ebgn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA["복수 3부작, 실제 의도는.." 박찬욱 밝힌 '친절한 금자씨' 비화 [BIFF](종합) (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211010140407795</link>
             <guid>https://movie.v.daum.net/v/20211010140407795</guid>
             <pubDate>Sun, 10 Oct 2021 06:18:06 GMT</pubDate>
             <content:encoded><![CDATA[(부산=뉴스1) 고승아 기자 = 박찬욱 감독이 '친절한 금자씨'에 얽힌 여러 비하인드를 풀어놓았다. 그는 '복수 3부작'에는 자신이 연출한 작품을 보게 하려는 의도가 있었다고 전하며 눈길을 끌기도 했다. 10일 오후 부산 중구 롯데시네마 대영에서 '2021 커뮤니티비프 - 리퀘스트 시네마'가 열려 ''금자씨'로 보는 광기의 형상'이라는 주제로 박찬욱 감]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F10%2FNEWS1%2F20211010140407841xohe.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독]송중기 "10년만에 다시 온 BIFF..관객과 만남 뭉클해" [인터뷰①] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211010100002346</link>
+            <guid>https://movie.v.daum.net/v/20211010100002346</guid>
+            <pubDate>Sun, 10 Oct 2021 02:00:42 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 부산국제영화제=김미화 기자] ━제26회 부산국제영화제서 만난 배우 송중기 배우 송중기 /사진=부산=김창현 기자배우 송중기(36)가 오랜만에 부산국제영화제를 찾았다. 2012년 영화 '늑대소년'(감독 조성희)으로 부산국제영화제를 찾았던 송중기는 10년 만에 다시 조성희 감독과 '승리호'를 타고 부산으로 왔다.  송중기는 올해 부산국제영화제 개막식]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F10%2Fstarnews%2F20211010120921666qujg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["미친 걸작"..칸 황금종려상 '티탄' 11월 국내 개봉[공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211010153301422</link>
+            <guid>https://movie.v.daum.net/v/20211010153301422</guid>
+            <pubDate>Sun, 10 Oct 2021 07:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 칸 영화제 황금종려 수상작 '티탄'이 11월 국내 개봉한다. 영화 '티탄'(감독 쥘리아 뒤쿠르노)은 어린 시절, 교통사고로 뇌에 티타늄을 심고 살아가던 여성이 기이한 욕망에 사로잡혀 일련의 사건에 휘말리다 10년 전 실종된 아들을 찾던 슬픈 아버지와 조우하게 되며 벌어지는 이야기를 담는다. 묵직한 드라마 장르가 주를 이뤄 온 기존 칸영화제 황금]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F10%2Fstartoday%2F20211010153303846ebgn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[레오스 카락스 "실제 아빠 되면서 '아네트' 이야기 더 의미 있어" [BIFF] (다음영화 뉴스 ─ 인기)]]></title>
