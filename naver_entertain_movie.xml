@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-10T12:24:07.807Z</updated>
+    <updated>2021-10-10T13:20:49.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["스스로 기특해" 류승룡, 10년 지나도 특별한 '모든것' [BIFF](종합)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005649125</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005649125"/>
+        <updated>2021-10-10T13:19:25.460Z</updated>
+        <content type="html"><![CDATA[(부산=뉴스1) 고승아 기자 = 배우 류승룡이 10여년 만에 '내 아내의 모든 것'을 다시 보고, 남다른 감회를 전했다. 10일 오후 부산 중구 롯데시네마 대영에서 '2021 커뮤니티비프 - 마스터톡'이 열려 영화]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[류승룡, 10년 만에 '매일 그대와' 열창…"그때도 정말 힘들었다" [BIFF]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005649118</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005649118"/>
+        <updated>2021-10-10T13:19:25.473Z</updated>
+        <content type="html"><![CDATA[(부산=뉴스1) 고승아 기자 = 배우 류승룡이 10여년 만에 '매일 그대와'를 다시 불렀다. 10일 오후 부산 중구 롯데시네마 대영에서 '2021 커뮤니티비프 - 마스터톡'이 열려 영화 '내 아내의 모든 것'에 대해]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[민규동 감독 "'내 아내의 모든 것' 류승룡·임수정·이선균 운명적 만남" [BIFF]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005649109</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005649109"/>
+        <updated>2021-10-10T13:19:25.474Z</updated>
+        <content type="html"><![CDATA[(부산=뉴스1) 고승아 기자 = 민규동 감독이 임수정, 이선균, 류승룡의 캐스팅이 '운명적'이었다고 회상했다. 10일 오후 부산 중구 롯데시네마 대영에서 '2021 커뮤니티비프 - 마스터톡'이 열려 영화 '내 아내의]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남편 없이 찾은 호텔, 이 장면에서 그만 펑펑 울고 말았다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002328974</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002328974"/>
+        <updated>2021-10-10T13:19:25.492Z</updated>
+        <content type="html"><![CDATA[[나를 키운 여자들] &lt;결혼 이야기&gt; 속 니콜 510호. 방문을 열었다. 남편도 아이도 없이 혼자 찾은 호텔. 도리스 레싱의 소설 &lt;19호실로 가다&gt; 속 네 아이 엄마 수잔처럼 혼자만의 시간이 간절하면서도 낯설었다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[류승룡 "9년만에 본 '내 아내~', 스스로 철들었다 생각 들어" [BIFF]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005649098</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005649098"/>
+        <updated>2021-10-10T13:19:25.492Z</updated>
+        <content type="html"><![CDATA[(부산=뉴스1) 고승아 기자 = 배우 류승룡이 '내 아내의 모든 것'을 9년 만에 다시 본 소감을 밝혔다. 10일 오후 부산 중구 롯데시네마 대영에서 '2021 커뮤니티비프 - 마스터톡'이 열려 영화 '내 아내의 모]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아네트, 과작, 팬데믹…레오스 카락스 "극장 위협받는 건 슬픈 현실" [BIFF](종합)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005648867</id>
@@ -144,40 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012667794"/>
         <updated>2021-10-10T09:14:30.756Z</updated>
         <content type="html"><![CDATA[(부산=연합뉴스) 강민지 기자 = 10일 오후 부산 해운대구 KNN시어터에서 열린 제26회 부산국제영화제 '마스터클래스: 레오스 카락스, 그는 영화다'에서 허문영 부산국제영화제 집행위원장이 발언하고 있다. 2021.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레오 카락스 감독 "감정 없는 3D 이미지 대신 꼭두각시로 아기 표현"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000634177</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000634177"/>
-        <updated>2021-10-10T09:14:30.756Z</updated>
-        <content type="html"><![CDATA[“24시간가량 비행기와 열차 등을 타고 부산에 오니 아직 뭐라 말할 수 없네요. 하지만 한국에 다시 오게 돼 기쁩니다.” 프랑스 유명 감독 레오 카락스(61)가 신작 ‘아네트’로 제26회 부산국제영화제를 찾았다. 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BIFF현장]'아네트' 레오스 카락스 "예전과 달리 영화 안봐..홍상수 감독작들은 봤다"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003485138</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003485138"/>
-        <updated>2021-10-10T08:17:19.953Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=부산, 이미지 기자] 레오스 카락스 감독이 홍상수 감독을 향한 팬심을 드러냈다. 제26회 부산국제영화제 갈라 프레젠테이션 '아네트' 기자회견이 10일 오후 부산 해운대구 KNN 시어터에서 열려 레오스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BIFF]레오스 카락스가 왔다…'아네트' 뒷이야기부터 한국행 24시간까지[종합]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000323022</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000323022"/>
-        <updated>2021-10-10T08:17:19.958Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=부산, 김현록 기자]프랑스의 거장 레오스 카락스 감독이 부산국제영화제를 찾았다. 제26회 부산국제영화제 개막 5일째인 10일 부산 KNN시어터에서 갈라 프레젠테이션 초청작 '아네트'의 기자회견이 열렸다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산영화제 2년 만에 대면 행사…영화인·관객 "기쁘고 반갑다"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012665427</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012665427"/>
-        <updated>2021-10-10T08:17:19.958Z</updated>
-        <content type="html"><![CDATA[첫 주말 야외무대 인사 등 이어져…축제 열기 코로나19 이전만 못 해 좌석 50% 거리두기, PCR 검사 확인, 방역수칙 영향으로 일부 빈자리 (부산=연합뉴스) 조정호 기자 = "이렇게 다시 야외무대에 올라 관객들을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[칸 감독상 작품 들고 온 레오스 카락스 "나쁜 아빠 이야기"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012665424</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012665424"/>
-        <updated>2021-10-10T08:17:19.958Z</updated>
-        <content type="html"><![CDATA[뮤지컬영화 '아네트' 감독 부산 방문…"홍상수 영화 많이 봤다" (부산=연합뉴스) 강애란 기자 = 제26회 부산국제영화제에 칸영화제 수상작 '아네트'를 들고 찾은 프랑스 출신 레오스 카락스 감독은 10일 해운대구 K]]></content>
     </entry>
 </feed>
