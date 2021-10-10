@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-10T09:15:54.144Z</updated>
+    <updated>2021-10-10T12:24:07.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아네트, 과작, 팬데믹…레오스 카락스 "극장 위협받는 건 슬픈 현실" [BIFF](종합)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005648867</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005648867"/>
+        <updated>2021-10-10T12:22:39.284Z</updated>
+        <content type="html"><![CDATA[(부산=뉴스1) 고승아 기자 = 프랑스 출신 거장인 레오스 카락스 감독이 부산을 찾았다. 그는 신작 '아네트'는 물론, 영화에 대한 확고한 소신을 전했다. 카락스 감독은 10일 오후 부산 해운대구 KNN시어터에서 열]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[레오스 카락스 "OTT 제안 온다면? 영화는 꼭 극장에서 만나야" [BIFF]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005648740</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005648740"/>
+        <updated>2021-10-10T12:22:39.284Z</updated>
+        <content type="html"><![CDATA[(부산=뉴스1) 고승아 기자 = 레오스 카락스 감독이 신종 코로나 바이러스 감염증(코로나19)와 극장의 어려움에 대해 솔직한 생각을 전했다. 카락스 감독은 10일 오후 부산 해운대구 KNN시어터에서 열린 '마스터 클]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[레오스 카락스 "실제 아빠 되면서 '아네트' 이야기 더 의미 있어" [BIFF]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005648730</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012665424"/>
         <updated>2021-10-10T08:17:19.958Z</updated>
         <content type="html"><![CDATA[뮤지컬영화 '아네트' 감독 부산 방문…"홍상수 영화 많이 봤다" (부산=연합뉴스) 강애란 기자 = 제26회 부산국제영화제에 칸영화제 수상작 '아네트'를 들고 찾은 프랑스 출신 레오스 카락스 감독은 10일 해운대구 K]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부국제 갈라 프레젠테이션 '드라이브 마이 카', 12월 개봉]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003561273</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003561273"/>
-        <updated>2021-10-10T08:17:19.958Z</updated>
-        <content type="html"><![CDATA[2021 제74회 칸영화제 각본상 수상에 이어 제26회 부산국제영화제를 찾은 하마구치 류스케 감독의 영화 '드라이브 마이 카'가 오는 12월 국내 극장 개봉한다. '드라이브 마이 카'는 죽은 아내에 대한 상처를 가진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BIFF]레오스 카락스 "딸 이름을 문신으로…'아네트'는 나쁜 아빠에 대한 이야기"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000323020</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000323020"/>
-        <updated>2021-10-10T08:17:19.963Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=부산, 김현록 기자]부산을 찾은 프랑스의 거장 레오스 카락스 감독이 신작 '아네트'에 대해 "나쁜 아빠에 대한 이야기"라고 말했다. 레오스 카락스 감독은 제26회 부산국제영화제 개막 5일째인 10일 부]]></content>
     </entry>
 </feed>
