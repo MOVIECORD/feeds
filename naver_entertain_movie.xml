@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-11T07:17:05.171Z</updated>
+    <updated>2021-10-11T08:19:36.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘007 노 타임 투 다이’ 2주 연속 박스오피스 정상… 100만 관객 돌파]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003627180</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003627180"/>
+        <updated>2021-10-11T08:18:08.513Z</updated>
+        <content type="html"><![CDATA[영화 ‘007 노 타임 투 다이’가 2주 연속 주말 박스오피스 정상을 차지하며 누적 관객 100만명을 돌파했다. 11일 영화진흥위원회 영화관입장권 통합전산망에 따르면 ‘007 노 타임 투 다이’는 지난 주말 사흘(8]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박찬욱 감독 “‘금자씨의 너나 잘하세요’ 는 내 경험에서 나온 것”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000766625</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002537063</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002537063"/>
         <updated>2021-10-11T05:14:05.501Z</updated>
-        <content type="html"><![CDATA[[데일리안= 류지윤 기자] 연상호 감독의 '지옥'이 제26회 부산국제영화제를 통해 첫 선을 보였다. 연상호 감독은 언제나 그랬듯 인간의 나약함과 두려움, 범죄로 인한 사회적 혼란스러움을 표현하는데 주저함이 없다. 지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최희서 '일상이 화보'[★포토]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002995694</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002995694"/>
-        <updated>2021-10-11T05:14:05.507Z</updated>
-        <content type="html"><![CDATA[배우 겸 감독 최희서가 제26회 부산국제영화제가 열리고 있는 영화의 전당에서 스타뉴스와 단독 인터뷰에 앞서 포즈를 취하고 있다. 최희서는 올해 하드컷 X 왓챠 숏필름 프로젝트 '언프레임드'의 단편 영화 감독으로 영화]]></content>
+        <content type="html"><![CDATA[[데일리안= 류지윤 기자] 연상호 감독의 '지옥'이 제26회 부산국제영화제를 통해 국내에서 첫 선을 보였다. 연상호 감독은 언제나 그랬듯 인간의 나약함과 두려움, 범죄로 인한 사회적 혼란스러움을 표현하는데 주저함이]]></content>
     </entry>
 </feed>

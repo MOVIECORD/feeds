@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 07:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Oct 2021 08:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘007 노 타임 투 다이’ 2주 연속 박스오피스 정상… 100만 관객 돌파 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003627180</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003627180</guid>
+            <pubDate>Mon, 11 Oct 2021 08:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘007 노 타임 투 다이’가 2주 연속 주말 박스오피스 정상을 차지하며 누적 관객 100만명을 돌파했다. 11일 영화진흥위원회 영화관입장권 통합전산망에 따르면 ‘007 노 타임 투 다이’는 지난 주말 사흘(8]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[박찬욱 감독 “‘금자씨의 너나 잘하세요’ 는 내 경험에서 나온 것” (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000766625</link>
@@ -173,14 +180,7 @@
             <link>https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002537063</link>
             <guid>https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002537063</guid>
             <pubDate>Mon, 11 Oct 2021 05:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[[데일리안= 류지윤 기자] 연상호 감독의 '지옥'이 제26회 부산국제영화제를 통해 첫 선을 보였다. 연상호 감독은 언제나 그랬듯 인간의 나약함과 두려움, 범죄로 인한 사회적 혼란스러움을 표현하는데 주저함이 없다. 지]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최희서 '일상이 화보'[★포토] (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002995694</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002995694</guid>
-            <pubDate>Mon, 11 Oct 2021 05:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[배우 겸 감독 최희서가 제26회 부산국제영화제가 열리고 있는 영화의 전당에서 스타뉴스와 단독 인터뷰에 앞서 포즈를 취하고 있다. 최희서는 올해 하드컷 X 왓챠 숏필름 프로젝트 '언프레임드'의 단편 영화 감독으로 영화]]></content:encoded>
+            <content:encoded><![CDATA[[데일리안= 류지윤 기자] 연상호 감독의 '지옥'이 제26회 부산국제영화제를 통해 국내에서 첫 선을 보였다. 연상호 감독은 언제나 그랬듯 인간의 나약함과 두려움, 범죄로 인한 사회적 혼란스러움을 표현하는데 주저함이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[007 노 타임 투 다이 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -255,20 +255,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a64941e61f5a3fbcad8ef6bbf7edb073b35c01a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[모가디슈 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=132564</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=132564</guid>
-            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.07.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F232a8d6e902c63036bbe2ae327d57e82585a639f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[미켈란젤로 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=122167</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=122167</guid>
             <pubDate>Fri, 08 Oct 2021 23:15:51 GMT</pubDate>
             <content:encoded><![CDATA[21.09.29]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F730c4e3667833980fb458e28dfc23964f8e0f23d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[모가디슈 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=132564</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=132564</guid>
+            <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.07.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F232a8d6e902c63036bbe2ae327d57e82585a639f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[그래비티 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -295,28 +295,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ab42f8d99b9b6a6bceb169917a3a0c2c222e942" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 포켓몬스터: 정글의 아이, 코코 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=147088</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=147088</guid>
-            <pubDate>Wed, 15 Sep 2021 00:49:01 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc607318ce0a60a7d8b8e540ea599f588751df07e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[화이트데이: 부서진 결계 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152123</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152123</guid>
             <pubDate>Wed, 29 Sep 2021 23:15:55 GMT</pubDate>
             <content:encoded><![CDATA[21.10.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e23e4bb9f868268f9d7b24b1dcdf1eccb506b12" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[수색자 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152491</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152491</guid>
-            <pubDate>Sun, 10 Oct 2021 08:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F99aa02686ae2d4412a264a7aa7b2b174ac548ef0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[다함께 여름! (다음영화 영화관 ─ 현재상영)]]></title>
@@ -335,12 +319,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feba7d4189d131ef30eb219975990938a34d54d54" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[극장판 포켓몬스터: 정글의 아이, 코코 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=147088</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=147088</guid>
+            <pubDate>Wed, 15 Sep 2021 00:49:01 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc607318ce0a60a7d8b8e540ea599f588751df07e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[매직 스쿨: 초보마법사 아우라의 대모험 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=144063</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=144063</guid>
             <pubDate>Thu, 30 Sep 2021 16:22:53 GMT</pubDate>
             <content:encoded><![CDATA[21.10.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2efd739e26421f26af03a3662f6526c1e6186551" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[부니베어: 애들이 줄었어요 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=118758</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=118758</guid>
+            <pubDate>Mon, 11 Oct 2021 08:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbeff1732414d02d782a70af00e43f48be59a2651" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[베놈 2: 렛 데어 비 카니지 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -519,20 +519,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F10%2Fohmynews%2F20211010213319864eeaj.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA[[단독]최희서 "'가을동화' 보고 자랐는데..송혜교와 호흡 기뻐" [인터뷰②] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211011110002761</link>
-            <guid>https://movie.v.daum.net/v/20211011110002761</guid>
-            <pubDate>Mon, 11 Oct 2021 02:05:05 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 부산국제영화제=김미화 기자] ━제 26회 부산국제영화제서 만난 배우 최희서 배우 최희서 /사진=부산=김창현 기자배우 최희서(35)가 다시 부산을 찾았다. 지난해, 조용히 진행됐던 부산국제영화제에도 참석해서 영화의 숲 조성행사 등에 참석했던 최희서는 올해 하드컷 X 왓챠 숏필름 프로젝트 '언프레임드'의 단편 영화 감독으로 영화제를 찾았다. '언프레]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F11%2Fstarnews%2F20211011110003350oica.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA["귀여움, SNS 덕분!"..'오징어 게임' 허성태, 악역 아쉬움 1도 없는 이유[★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211011130001920</link>
             <guid>https://movie.v.daum.net/v/20211011130001920</guid>
             <pubDate>Mon, 11 Oct 2021 04:20:01 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 강민경 기자] 허성태 /사진제공=한아름컴퍼니배우 허성태(44)가 넷플릭스 시리즈 '오징어 게임'을 통해 또 한 번 악역을 연기했지만 아쉬움은 단 1도 없다고 밝혔다. '오징어 게임'은 456억 원의 상금이 걸린 의문의 서바이벌에 참가한 사람들이 최후의 승자가 되기 위해 목숨을 걸고 극한의 게임에 도전하는 이야기다. 지난달 17일 넷플릭스를 통해]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F11%2Fstarnews%2F20211011130005910cmwb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독]최희서 "'가을동화' 보고 자랐는데..송혜교와 호흡 기뻐" [인터뷰②] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211011110002761</link>
+            <guid>https://movie.v.daum.net/v/20211011110002761</guid>
+            <pubDate>Mon, 11 Oct 2021 02:05:05 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 부산국제영화제=김미화 기자] ━제 26회 부산국제영화제서 만난 배우 최희서 배우 최희서 /사진=부산=김창현 기자배우 최희서(35)가 다시 부산을 찾았다. 지난해, 조용히 진행됐던 부산국제영화제에도 참석해서 영화의 숲 조성행사 등에 참석했던 최희서는 올해 하드컷 X 왓챠 숏필름 프로젝트 '언프레임드'의 단편 영화 감독으로 영화제를 찾았다. '언프레]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F11%2Fstarnews%2F20211011110003350oica.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[조재윤 "더럽게 건방졌던 나, '브라더' 통해 기본적인 배우 됐죠" [★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
@@ -567,14 +567,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F10%2Fmydaily%2F20211010070057561bwux.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["내가 나쁜 아빠 아닌지.." 프랑스 거장 움직이게 한 원동력 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211011095703108</link>
-            <guid>https://movie.v.daum.net/v/20211011095703108</guid>
-            <pubDate>Mon, 11 Oct 2021 02:05:05 GMT</pubDate>
-            <content:encoded><![CDATA[[이선필 기자] ▲ &nbsp;부산 해운대 KNN 씨어터에서 10일 오후 열린 기자 간담회에 참석한 레오스 카락스 감독.    ⓒ 부산국제영화제  &nbsp;레오스 카락스가 8년 만에 내놓은 신작은 음악을 전면에 내세운 뮤지컬 형식의 영화였다. 미국 인기 배우 아담 드라이버와 프랑스의 마리옹 꼬띠아르가 부부로 등장해 아네트라는 딸을 키우면서 어긋난 애정과 사랑]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F11%2Fohmynews%2F20211011095704254jdug.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[박찬욱 "'너나 잘하세요' 실제로 친구와 대화서 참다가 나온 말" [BIFF] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211010125259682</link>
             <guid>https://movie.v.daum.net/v/20211010125259682</guid>
@@ -583,20 +575,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F10%2FNEWS1%2F20211010125300919pnmw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA["내가 나쁜 아빠 아닌지.." 프랑스 거장 움직이게 한 원동력 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211011095703108</link>
+            <guid>https://movie.v.daum.net/v/20211011095703108</guid>
+            <pubDate>Mon, 11 Oct 2021 02:05:05 GMT</pubDate>
+            <content:encoded><![CDATA[[이선필 기자] ▲ &nbsp;부산 해운대 KNN 씨어터에서 10일 오후 열린 기자 간담회에 참석한 레오스 카락스 감독.    ⓒ 부산국제영화제  &nbsp;레오스 카락스가 8년 만에 내놓은 신작은 음악을 전면에 내세운 뮤지컬 형식의 영화였다. 미국 인기 배우 아담 드라이버와 프랑스의 마리옹 꼬띠아르가 부부로 등장해 아네트라는 딸을 키우면서 어긋난 애정과 사랑]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F11%2Fohmynews%2F20211011095704254jdug.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[유아인 한소희, 부산에 뜬 넷플릭스 아들 딸[26회 BIFF 중간결산①] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211011083007552</link>
             <guid>https://movie.v.daum.net/v/20211011083007552</guid>
             <pubDate>Mon, 11 Oct 2021 00:53:43 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스엔 배효주 기자] 넷플릭스 시리즈 '오징어 게임'이 전 세계서 신드롬을 일으키고 있는 가운데, 부산국제영화제는 올해부터 OTT 오리지널 작품들을 소개하는 '온 스크린 섹션'을 신설했다. 이 부문 특히 인기를 끌었던 작품은 '지옥'과 '마이네임'이었다. 연상호 감독의 새 넷플릭스 시리즈 '지옥'(연상호 연출/연상호, 최규석 극본)이 제26회 부산국제]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F11%2Fnewsen%2F20211011083010542fabl.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[홍상수 없는 홍상수 행사→학폭 논란 심은우 등장[26회 BIFF 중간결산②] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211011083012553</link>
-            <guid>https://movie.v.daum.net/v/20211011083012553</guid>
-            <pubDate>Mon, 11 Oct 2021 00:53:43 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 10월 6일 개막한 제26회 부산국제영화제가 오는 15일까지 부산광역시 해운대 영화의전당 일대에서 계속된다. 벌써 절반의 시간이 훌쩍 흐른 가운데, 봉준호 감독과 임권택 감독, 조진웅, 전여빈, 이혜영, 염혜란, 진선규, 이제훈, 박정민, 손석구, 최희서, 박소이, 한소희, 전종서, 한예리, 변요한 등 영화인들이 부산을 찾아 관객과]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F11%2Fnewsen%2F20211011083012286eozu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[벤 애플렉♥제니퍼 로페즈, 모두가 부러워하는 중년의 로맨스 "로맨틱 커플"[MD할리우드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -623,20 +615,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F11%2Fyonhap%2F20211011145521248adbi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[26회 BIFF] 박찬욱 감독 "이영애, 어떻게 해도 망가뜨릴 수 없는 아름다움 아쉬워" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211010135604635</link>
-            <guid>https://movie.v.daum.net/v/20211010135604635</guid>
-            <pubDate>Sun, 10 Oct 2021 05:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[박찬욱 감독이 이영애에 대한 아쉬움(?)을 표했다. 10일 부산 중구 비프광장로에 위치한 롯데시네마 대영에서 진행된 제26회 부산국제영화제(BIFF·부국제) 커뮤니티비프 리퀘스트시네마 - '금자씨'로 보는 광기의 형상 관객과의 대화(GV)에서 박찬욱 감독은 "오늘 영화를 다시 보고, 이야기를 나누다 보니 '이영애 씨가 연기를 진짜 잘하긴 잘한다'는 생각]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F10%2Filgansports%2F20211010135607154fert.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[레오 까락스 감독 부국제 내한 "살아있음을 느낀다!" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211011124948757</link>
-            <guid>https://movie.v.daum.net/v/20211011124948757</guid>
-            <pubDate>Mon, 11 Oct 2021 05:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 레오 까락스 감독 부국제 내한 “살아있음을 느낀다!” 칸영화제 개막작, 감독상을 수상한 레오 까락스 감독의 ‘아네트’가 제26회 부산국제영화제 갈라 프레젠테이션을 통해 국내에 첫 선을 보인 가운데, 10일이었던 어제 레오 까락스 감독이 마스터 클래스와 공식 상영에 참석해 관객들과 만났다. 프랑스의 천재 감독, 레오 까락스 감독의 신작 ‘]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F11%2Fsportsdonga%2F20211011124949946enkf.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[홍상수 없는 홍상수 행사→학폭 논란 심은우 등장[26회 BIFF 중간결산②] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211011083012553</link>
+            <guid>https://movie.v.daum.net/v/20211011083012553</guid>
+            <pubDate>Mon, 11 Oct 2021 00:53:43 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 10월 6일 개막한 제26회 부산국제영화제가 오는 15일까지 부산광역시 해운대 영화의전당 일대에서 계속된다. 벌써 절반의 시간이 훌쩍 흐른 가운데, 봉준호 감독과 임권택 감독, 조진웅, 전여빈, 이혜영, 염혜란, 진선규, 이제훈, 박정민, 손석구, 최희서, 박소이, 한소희, 전종서, 한예리, 변요한 등 영화인들이 부산을 찾아 관객과]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F11%2Fnewsen%2F20211011083012286eozu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[英 언론들 "한국 문화가 어떻게 세계를 정복했나" 조명 (다음영화 뉴스 ─ 인기)]]></title>
@@ -647,20 +631,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F11%2Filgansports%2F20211011144806482acvv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[공식] '007 노 타임 투 다이' 한글날 연휴 100만 돌파→2주 연속 주말 흥행 1위 수성 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211011102313835</link>
-            <guid>https://movie.v.daum.net/v/20211011102313835</guid>
-            <pubDate>Mon, 11 Oct 2021 02:05:05 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 액션 영화 '007 노 타임 투 다이'(캐리 후쿠나가 감독)가 한글날 연휴인 오늘(11일) 100만 관객 돌파와 함께 2주 연속 주말 박스오피스 1위를 수성해 뜨거운 흥행세를 이어가고 있다. 전 세계 박스오피스를 압도하고 있는 '007 노 타임 투 다이'가 영화진흥위원회 통합전산망 11일 오전 기준, 개봉 13일째]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F11%2FSpoChosun%2F20211011102313895lpgy.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[26회 BIFF] 박찬욱 감독 "이영애, 어떻게 해도 망가뜨릴 수 없는 아름다움 아쉬워" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211010135604635</link>
+            <guid>https://movie.v.daum.net/v/20211010135604635</guid>
+            <pubDate>Sun, 10 Oct 2021 05:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[박찬욱 감독이 이영애에 대한 아쉬움(?)을 표했다. 10일 부산 중구 비프광장로에 위치한 롯데시네마 대영에서 진행된 제26회 부산국제영화제(BIFF·부국제) 커뮤니티비프 리퀘스트시네마 - '금자씨'로 보는 광기의 형상 관객과의 대화(GV)에서 박찬욱 감독은 "오늘 영화를 다시 보고, 이야기를 나누다 보니 '이영애 씨가 연기를 진짜 잘하긴 잘한다'는 생각]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F10%2Filgansports%2F20211010135607154fert.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[류승룡 "9년만에 본 '내 아내~', 스스로 철들었다 생각 들어" [BIFF] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211010212821999</link>
-            <guid>https://movie.v.daum.net/v/20211010212821999</guid>
-            <pubDate>Sun, 10 Oct 2021 13:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[(부산=뉴스1) 고승아 기자 = 배우 류승룡이 '내 아내의 모든 것'을 9년 만에 다시 본 소감을 밝혔다. 10일 오후 부산 중구 롯데시네마 대영에서 '2021 커뮤니티비프 - 마스터톡'이 열려 영화 '내 아내의 모든 것'에 대해 배우 류승룡과 민규동 감독이 이야기를 나눴다. 이날 류승룡은 2012년 영화를 다시 본 것에 대해 "정말 새롭게 너무 잘봤다]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F10%2FNEWS1%2F20211010212822404wjvx.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[반환점 돈 부국제, 톱★ 총출동 반가운 영화제→일정 차질은 아쉬워[SS현장] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211011152212312</link>
+            <guid>https://movie.v.daum.net/v/20211011152212312</guid>
+            <pubDate>Mon, 11 Oct 2021 08:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 김선우기자] 오는 15일까지 진행되는 제26회 부산국제영화제(BIFF·부국제)가 반환점을 돌았다. 코로나 팬데믹으로 인해 지난해 대부분 온라인으로 진행됐지만, 2년여 만에 정상개최된 까닭에 영화제를 찾은 게스트들 역시 한껏 들뜬 모습이었다. ‘피 땀 눈물’ 쏟아가며 만든 영화를 선보이고, 관객들은 환호하고. 부산에서 다시]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F11%2FSPORTSSEOUL%2F20211011152215935ucxx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[레오 까락스 감독 부국제 내한 "살아있음을 느낀다!" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211011124948757</link>
+            <guid>https://movie.v.daum.net/v/20211011124948757</guid>
+            <pubDate>Mon, 11 Oct 2021 05:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 레오 까락스 감독 부국제 내한 “살아있음을 느낀다!” 칸영화제 개막작, 감독상을 수상한 레오 까락스 감독의 ‘아네트’가 제26회 부산국제영화제 갈라 프레젠테이션을 통해 국내에 첫 선을 보인 가운데, 10일이었던 어제 레오 까락스 감독이 마스터 클래스와 공식 상영에 참석해 관객들과 만났다. 프랑스의 천재 감독, 레오 까락스 감독의 신작 ‘]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F11%2Fsportsdonga%2F20211011124949946enkf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[최희서 '분위기 여신'[★포토] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211011133829528</link>
+            <guid>https://movie.v.daum.net/v/20211011133829528</guid>
+            <pubDate>Mon, 11 Oct 2021 08:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 부산=김창현 기자] 배우 겸 감독 최희서가 제26회 부산국제영화제가 열리고 있는 영화의 전당에서 스타뉴스와 단독 인터뷰에 앞서 포즈를 취하고 있다. 최희서는 올해 하드컷 X 왓챠 숏필름 프로젝트 '언프레임드'의 단편 영화 감독으로 영화제를 찾았다. '언프레임드'는 프레임에서 벗어나 새로운 가능성을 탐색하는 네 명의 아티스트(박정민, 손석구, 최]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F11%2Fstarnews%2F20211011133830728zjac.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[반환점 돈 부국제, 톱★ 총출동 반가운 영화제→일정 차질은 아쉬워[SS현장] (다음영화 뉴스 ─ 최신)]]></title>
@@ -1475,7 +1475,7 @@
             <link>https://tv.naver.com/v/22861476</link>
             <guid>https://tv.naver.com/v/22861476</guid>
             <pubDate>Fri, 08 Oct 2021 08:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211008_69/FOdaS_1633679400370zL4v8_JPEG/370ba0aa-280c-11ec-b07e-505dac8c38f5_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1483,7 +1483,7 @@
             <link>https://tv.naver.com/v/22860509</link>
             <guid>https://tv.naver.com/v/22860509</guid>
             <pubDate>Fri, 08 Oct 2021 08:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211008_12/15sEb_16336775244087HC9q_JPEG/e8d6679f-2807-11ec-8adb-a0369ff9545c_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1555,7 +1555,7 @@
             <link>https://tv.naver.com/v/22840054</link>
             <guid>https://tv.naver.com/v/22840054</guid>
             <pubDate>Thu, 07 Oct 2021 08:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211007_61/otyk0_1633594188566UuHTN_JPEG/df1dee5e-2745-11ec-8637-a0369ff95678_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1563,7 +1563,7 @@
             <link>https://tv.naver.com/v/22840041</link>
             <guid>https://tv.naver.com/v/22840041</guid>
             <pubDate>Thu, 07 Oct 2021 08:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211007_91/NLkuN_1633594150835jU1t7_JPEG/c6ff4ebb-2745-11ec-8adb-a0369ff9545c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1587,7 +1587,7 @@
             <link>https://tv.naver.com/v/22817718</link>
             <guid>https://tv.naver.com/v/22817718</guid>
             <pubDate>Wed, 06 Oct 2021 08:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211006_168/dm47S_1633506407416KRLCT_JPEG/67302799-2679-11ec-a8ac-505dac8c35ff_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1595,7 +1595,7 @@
             <link>https://tv.naver.com/v/22817407</link>
             <guid>https://tv.naver.com/v/22817407</guid>
             <pubDate>Wed, 06 Oct 2021 08:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211006_300/ovPNC_1633505789317rXUFH_JPEG/f9fe515b-2677-11ec-89ce-48df379ccacc_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
