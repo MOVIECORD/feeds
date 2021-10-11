@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-11T10:19:17.830Z</updated>
+    <updated>2021-10-11T11:14:20.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['국민 여동생' 신조어의 주인공, 관객 무장해제 시킨 비결]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002329025</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002329025"/>
+        <updated>2021-10-11T11:12:44.844Z</updated>
+        <content type="html"><![CDATA[[그 시절, 우리가 좋아했던 영화] 문근영이 '하드캐리'한 &lt;어린 신부&gt; 불과 십수년 전까지만 해도 남성은 만18세, 여성은 만16세가 넘으면 부모 또는 후견인의 동의를 받아 결혼이 가능했다. 여성의 경우 고등학교]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[의사 꿈꾸던 전여빈의 진솔한 고백, BIFF 관객 홀렸다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002329023</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012713871</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012713871"/>
         <updated>2021-10-11T07:15:38.054Z</updated>
-        <content type="html"><![CDATA[(부산=연합뉴스) 강민지 기자 = 제 26회 부산국제영화제 상영작인 영화 '여성 전용 객차에서' 감독 레바나 리즈 존이 11일 오전 부산 해운대구 영화의전당 시네마운틴에서 연합뉴스와 인터뷰하고 있다. 2021.10.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIFF 상영작 '여성 전용 객차에서' 레바나 리즈 존]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012713870</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012713870"/>
-        <updated>2021-10-11T07:15:38.055Z</updated>
         <content type="html"><![CDATA[(부산=연합뉴스) 강민지 기자 = 제 26회 부산국제영화제 상영작인 영화 '여성 전용 객차에서' 감독 레바나 리즈 존이 11일 오전 부산 해운대구 영화의전당 시네마운틴에서 연합뉴스와 인터뷰하고 있다. 2021.10.]]></content>
     </entry>
 </feed>
