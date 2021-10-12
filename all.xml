@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 16:25:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 17:20:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -199,14 +199,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8e13d8b219069a201605eb28f7a204583f0c64b4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[피어썸 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149724</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149724</guid>
-            <pubDate>Fri, 08 Oct 2021 03:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F02058907a37318ebe48b6bf7c7c3f9e750741576" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[보이스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137628</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137628</guid>
@@ -215,12 +207,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0643e2cd42252fb6d9018173e867fcd9612c115" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[스틸워터 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150471</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150471</guid>
-            <pubDate>Wed, 29 Sep 2021 23:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7e72bad76d59c13934515e5bc1a51e7f843183d1" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[피어썸 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149724</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149724</guid>
+            <pubDate>Fri, 08 Oct 2021 03:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F02058907a37318ebe48b6bf7c7c3f9e750741576" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[기적 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -229,6 +221,14 @@
             <pubDate>Wed, 15 Sep 2021 00:49:01 GMT</pubDate>
             <content:encoded><![CDATA[21.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff09b6fed698932a9258208f8cc4d041ac95efbbd" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스틸워터 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150471</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150471</guid>
+            <pubDate>Wed, 29 Sep 2021 23:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7e72bad76d59c13934515e5bc1a51e7f843183d1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[서유기: 재세요왕 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -263,6 +263,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc24b8adacb651651211cb925510fa804701d5074" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[그래비티 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=59546</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=59546</guid>
+            <pubDate>Wed, 29 Sep 2021 23:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc53f25fab367858eafb3fe1b319229f7ec019654" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[극장판 짱구는 못말려: 격돌! 낙서왕국과 얼추 네 명의 용사들 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=144508</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=144508</guid>
@@ -277,14 +285,6 @@
             <pubDate>Sun, 15 Aug 2021 15:59:35 GMT</pubDate>
             <content:encoded><![CDATA[21.07.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F232a8d6e902c63036bbe2ae327d57e82585a639f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[그래비티 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=59546</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=59546</guid>
-            <pubDate>Wed, 29 Sep 2021 23:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc53f25fab367858eafb3fe1b319229f7ec019654" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[미켈란젤로 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -606,14 +606,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F11%2Fstarnews%2F20211011110021059loys.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['듄' 티모시 샬라메, 이 영화 위해 태어난 듯..우주적 아름다움 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211012092100469</link>
-            <guid>https://movie.v.daum.net/v/20211012092100469</guid>
-            <pubDate>Tue, 12 Oct 2021 08:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 티모시 샬라메가 ‘듄’으로 역대급 비주얼을 선보일 전망이다. 10월 20일 개봉을 앞둔 영화 ‘듄’은 생명 유지 자원인 스파이스를 두고 아라키스 모래 행성 ‘듄’에서 악의 세력과 전쟁을 앞둔, 전 우주의 왕좌에 오를 운명으로 태어난 전설의 메시아 폴의 위대한 여정을 그린 작품이다. 드니 빌뇌브 감독이 메가폰을 잡고 티모시 샬라메부]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F12%2Fnewsen%2F20211012092100990rlsi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['슈퍼맨', 남자와 키스하다..양성애자 커밍아웃[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211012084026142</link>
             <guid>https://movie.v.daum.net/v/20211012084026142</guid>
@@ -622,12 +614,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F12%2Fmydaily%2F20211012084026385mxss.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['007 노 타임 투 다이' 북미 오프닝 박스오피스 압도적 1위 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211012153804909</link>
-            <guid>https://movie.v.daum.net/v/20211012153804909</guid>
-            <pubDate>Tue, 12 Oct 2021 14:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 현혜선 기자] '007 노 타임 투 다이'가 북미 오프닝 박스오피스 1위를 차지했다. 대한민국 100만 관객을 돌파한 흥행 신드롬의 주인공이자 전 세계 화제작 '007 노 타임 투 다이'가 압도적 북미 오프닝 박스오피스 1위에 등극하는 기염을 토했다. '007 노 타임 투 다이'가 대한민국 100만 관객 돌파에 이어 북미 개봉과 동시에 흥행]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F12%2Fsportstoday%2F20211012153806042rcuf.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['듄' 티모시 샬라메, 이 영화 위해 태어난 듯..우주적 아름다움 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211012092100469</link>
+            <guid>https://movie.v.daum.net/v/20211012092100469</guid>
+            <pubDate>Tue, 12 Oct 2021 08:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 티모시 샬라메가 ‘듄’으로 역대급 비주얼을 선보일 전망이다. 10월 20일 개봉을 앞둔 영화 ‘듄’은 생명 유지 자원인 스파이스를 두고 아라키스 모래 행성 ‘듄’에서 악의 세력과 전쟁을 앞둔, 전 우주의 왕좌에 오를 운명으로 태어난 전설의 메시아 폴의 위대한 여정을 그린 작품이다. 드니 빌뇌브 감독이 메가폰을 잡고 티모시 샬라메부]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F12%2Fnewsen%2F20211012092100990rlsi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['여성 전용 객차에서' 감독 "일상 속 여성들의 솔직한 이야기" (다음영화 뉴스 ─ 인기)]]></title>
@@ -638,12 +630,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F11%2Fyonhap%2F20211011145521248adbi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[노회찬 이후의 노회찬을 향한 첫 차, 출발한다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211011184801001</link>
-            <guid>https://movie.v.daum.net/v/20211011184801001</guid>
-            <pubDate>Mon, 11 Oct 2021 10:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[[김상목 기자] ▲ &nbsp;영화 &lt;노회찬 6411&gt; 포스터 이미지    ⓒ 시네마6411  &nbsp;2018년 7월 23일 고(故) 노회찬 의원이 세상을 떠난 지 3년이 지났다. 이것저것 기념사업과 추모행사가 계속 이어지는 가운데 2021년 5월, 전주국제영화제에서 고인에 대한 전기 다큐멘터리로 본 작품, &lt;노회찬6411&gt;이 첫 선을 보였고, 원래 개봉을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F11%2Fohmynews%2F20211011184804008zhnd.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['007 노 타임 투 다이' 북미 오프닝 박스오피스 압도적 1위 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211012153804909</link>
+            <guid>https://movie.v.daum.net/v/20211012153804909</guid>
+            <pubDate>Tue, 12 Oct 2021 14:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 현혜선 기자] '007 노 타임 투 다이'가 북미 오프닝 박스오피스 1위를 차지했다. 대한민국 100만 관객을 돌파한 흥행 신드롬의 주인공이자 전 세계 화제작 '007 노 타임 투 다이'가 압도적 북미 오프닝 박스오피스 1위에 등극하는 기염을 토했다. '007 노 타임 투 다이'가 대한민국 100만 관객 돌파에 이어 북미 개봉과 동시에 흥행]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F12%2Fsportstoday%2F20211012153806042rcuf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[박찬욱 감독 "'금자씨의 너나 잘하세요' 는 내 경험에서 나온 것" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211011161336227</link>
+            <guid>https://movie.v.daum.net/v/20211011161336227</guid>
+            <pubDate>Tue, 12 Oct 2021 16:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 박찬욱 감독이 제26회 부산국제영화제를 찾아 16년 전 개봉작인 ‘친절한 금자씨’(2005) 속 유명 대사인 “너나 잘하세요”에 얽힌 비하인드 스토리를 밝혔다. 박 감독은 10일 중구 롯데시네마대영에서 ‘금자씨로 보는 광기의 형상’이라는 주제로 열린 커뮤니티비프 행사에 참석했다. 그는 ‘친절한 금자씨’ 에서 배우 이영애가 감정이 느껴지지 않]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F11%2Fsportskhan%2F20211011173315666bleq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['오징어게임' 이정재 "할리우드서 연락 안왔다, 기회 오면 도전하고파"(美 버라이어티 인터뷰) (다음영화 뉴스 ─ 인기)]]></title>
@@ -654,12 +654,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F12%2Fmydaily%2F20211012151700325ozcx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[박찬욱 감독 "'금자씨의 너나 잘하세요' 는 내 경험에서 나온 것" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211011161336227</link>
-            <guid>https://movie.v.daum.net/v/20211011161336227</guid>
-            <pubDate>Tue, 12 Oct 2021 16:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 박찬욱 감독이 제26회 부산국제영화제를 찾아 16년 전 개봉작인 ‘친절한 금자씨’(2005) 속 유명 대사인 “너나 잘하세요”에 얽힌 비하인드 스토리를 밝혔다. 박 감독은 10일 중구 롯데시네마대영에서 ‘금자씨로 보는 광기의 형상’이라는 주제로 열린 커뮤니티비프 행사에 참석했다. 그는 ‘친절한 금자씨’ 에서 배우 이영애가 감정이 느껴지지 않]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F11%2Fsportskhan%2F20211011173315666bleq.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[노회찬 이후의 노회찬을 향한 첫 차, 출발한다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211011184801001</link>
+            <guid>https://movie.v.daum.net/v/20211011184801001</guid>
+            <pubDate>Mon, 11 Oct 2021 10:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[[김상목 기자] ▲ &nbsp;영화 &lt;노회찬 6411&gt; 포스터 이미지    ⓒ 시네마6411  &nbsp;2018년 7월 23일 고(故) 노회찬 의원이 세상을 떠난 지 3년이 지났다. 이것저것 기념사업과 추모행사가 계속 이어지는 가운데 2021년 5월, 전주국제영화제에서 고인에 대한 전기 다큐멘터리로 본 작품, &lt;노회찬6411&gt;이 첫 선을 보였고, 원래 개봉을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F11%2Fohmynews%2F20211011184804008zhnd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['장르만 로맨스' 류승룡 "조은지 감독과 호흡, 어찌나 조은지" (다음영화 뉴스 ─ 최신)]]></title>
@@ -1314,7 +1314,7 @@
             <link>https://tv.naver.com/v/22916041</link>
             <guid>https://tv.naver.com/v/22916041</guid>
             <pubDate>Tue, 12 Oct 2021 08:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211012_48/Rj6UA_1634025059774FQ20g_JPEG/ec97ab8d-2b30-11ec-a0d8-48df379ccacc_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1322,7 +1322,7 @@
             <link>https://tv.naver.com/v/22915476</link>
             <guid>https://tv.naver.com/v/22915476</guid>
             <pubDate>Tue, 12 Oct 2021 08:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211012_256/cvIgF_1634023855863TlzXd_JPEG/2bdfcce3-2b2e-11ec-9520-a0369ff94ec8_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1330,7 +1330,7 @@
             <link>https://tv.naver.com/v/22913502</link>
             <guid>https://tv.naver.com/v/22913502</guid>
             <pubDate>Tue, 12 Oct 2021 07:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211012_16/O1L12_16340189274047tjRn_JPEG/adad711a-2b22-11ec-a2d9-246e963a4708_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1338,7 +1338,7 @@
             <link>https://tv.naver.com/v/22912104</link>
             <guid>https://tv.naver.com/v/22912104</guid>
             <pubDate>Tue, 12 Oct 2021 07:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211012_127/tpYhC_1634015976004AU9Nv_JPEG/de31f52e-2b1b-11ec-88b9-505dac8c37f3_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1346,7 +1346,7 @@
             <link>https://tv.naver.com/v/22912079</link>
             <guid>https://tv.naver.com/v/22912079</guid>
             <pubDate>Tue, 12 Oct 2021 07:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211012_211/IyKLO_1634015915480BhtHu_JPEG/a96a2640-2b1b-11ec-bd3d-505dac8c3639_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1354,7 +1354,7 @@
             <link>https://tv.naver.com/v/22912043</link>
             <guid>https://tv.naver.com/v/22912043</guid>
             <pubDate>Tue, 12 Oct 2021 07:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211012_1/Iv69K_163401582576221MRg_JPEG/95378e61-2b1b-11ec-bc49-505dacfba98a_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1362,7 +1362,7 @@
             <link>https://tv.naver.com/v/22909981</link>
             <guid>https://tv.naver.com/v/22909981</guid>
             <pubDate>Tue, 12 Oct 2021 03:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211012_65/pC8ZE_1634008219273MH7pS_JPEG/1b373b95-2b08-11ec-af52-a0369ff95ec0_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1370,7 +1370,7 @@
             <link>https://tv.naver.com/v/22907859</link>
             <guid>https://tv.naver.com/v/22907859</guid>
             <pubDate>Tue, 12 Oct 2021 02:04:41 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211012_212/EXitX_1634001238336px5oA_PNG/1634001228982.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -1378,7 +1378,7 @@
             <link>https://tv.naver.com/v/22907809</link>
             <guid>https://tv.naver.com/v/22907809</guid>
             <pubDate>Tue, 12 Oct 2021 02:04:41 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211012_258/0TUOC_1634000946619EbJMg_JPEG/f15db966-2af8-11ec-a0d8-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1386,7 +1386,7 @@
             <link>https://tv.naver.com/v/22907766</link>
             <guid>https://tv.naver.com/v/22907766</guid>
             <pubDate>Tue, 12 Oct 2021 02:04:41 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211012_173/XGEYE_1634000769816B7kEd_JPEG/08a3eef0-2af8-11ec-92de-505dac8c3607_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
