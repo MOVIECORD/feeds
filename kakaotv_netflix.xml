@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 04:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 05:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 한소희, 두 개의 이름을 갖게 된 이유 | 마이 네임]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/423103652?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/423103652?act=clip</guid>
+            <pubDate>Fri, 15 Oct 2021 05:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:50]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvb9wkgprmtq13fdpmffl9gge%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33191183443%26signature%3DikyGmU0Yugs4I37ja0QNr5qtzI8%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 콜린: 흑과 백의 인생 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/423071078?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/422633125?act=clip</guid>
             <pubDate>Mon, 27 Sep 2021 02:34:33 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:36]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F731209006%2Fthumb%2F20210927111459" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F731209006%2Fthumb%2F20210927111459" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 브리저튼 | TUDUM: 시즌 2 퍼스트룩]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 17 Sep 2021 21:03:58 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:11]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1173270701%2Fthumb%2F20210916145406" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 마이 네임 | 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/422378642?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/422378642?act=clip</guid>
-            <pubDate>Mon, 20 Sep 2021 09:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:33]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1835225524%2Fthumb%2F20210916140151" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
