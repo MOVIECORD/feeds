@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-15T13:23:02.497Z</updated>
+    <updated>2021-10-15T14:15:44.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[매력적인 배우 이연]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012725781</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012725781"/>
+        <updated>2021-10-15T14:14:16.826Z</updated>
+        <content type="html"><![CDATA[(부산=연합뉴스) 강민지 기자 = 배우 이연이 15일 오후 부산 해운대구 영화의전당에서 열린 '제26회 부산국제영화제(BIFF)' 폐막식 포토월에 참석하고 있다. 2021.10.15 mjkang@yna.co.kr]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 '절해고도' 김미영 감독]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012725780</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012725780"/>
+        <updated>2021-10-15T14:14:16.826Z</updated>
+        <content type="html"><![CDATA[(부산=연합뉴스) 강민지 기자 = 김미영 감독이 15일 오후 부산 해운대구 영화의전당에서 열린 '제26회 부산국제영화제(BIFF)' 폐막식 포토월에 참석해 포즈를 취하고 있다. 2021.10.15 mjkang@yna]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영업 종료한 서울극장 곽승남 대표 별세, 향년 53세]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000767704</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012725590"/>
         <updated>2021-10-15T11:13:01.538Z</updated>
         <content type="html"><![CDATA[(부산=연합뉴스) 강민지 기자 = 레바나 리즈 존 감독이 15일 오후 부산 해운대구 영화의전당에서 열린 제26회 부산국제영화제(BIFF) 폐막식 포토월에 참석해 포즈를 취하고 있다. 2021.10.15 mjkang@]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 '경칩' 감독 송샨페이]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012725583</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012725583"/>
-        <updated>2021-10-15T11:13:01.539Z</updated>
-        <content type="html"><![CDATA[(부산=연합뉴스) 강민지 기자 = 송샨페이 감독이 15일 오후 부산 해운대구 영화의전당에서 열린 제26회 부산국제영화제(BIFF) 폐막식 포토월에 참석해 포즈를 취하고 있다. 2021.10.15 mjkang@yna.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 '다시 온 겨울' 감독 키란 슈레스타]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012725579</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012725579"/>
-        <updated>2021-10-15T11:13:01.540Z</updated>
-        <content type="html"><![CDATA[(부산=연합뉴스) 강민지 기자 = 키란 슈레스타 감독이 15일 오후 부산 해운대구 영화의전당에서 열린 제26회 부산국제영화제(BIFF) 폐막식 포토월에 참석해 포즈를 취하고 있다. 2021.10.15 mjkang@y]]></content>
     </entry>
 </feed>
