@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-16T03:17:13.338Z</updated>
+    <updated>2021-10-16T04:21:01.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['듄' 후속편을 위한 155분…새로운 SF 세계관의 탄생 [엑's 리뷰]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001360693</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001360693"/>
+        <updated>2021-10-16T04:19:36.767Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김예은 기자) 1억 6500만 달러의 제작비를 들인 대작 영화 '듄'(감독 드니 빌뇌브)이 새로운 세계관의 탄생을 알렸다. ‘듄’의 배경은 1만191년 우주 세계. 생명 유지 자원인 스파이스를 두고 아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美 골든글로브, 불통 행보…1월9일 시상식 강행]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000767770</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000767770"/>
+        <updated>2021-10-16T04:19:36.767Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 미국 영화시상식 골든글로브가 영화·TV업계의 보이콧과 생중계 중단 사태에도 시상식 개최 의지를 다졌다. 골든글로브를 주관하는 미국 할리우드외신기자협회(HFPA)는 15일(현지시각) 제79회 골든글로브]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정치에 무관심했던 나, 노회찬 '낡은 가방'에 목이 메었다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002329600</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012725882"/>
         <updated>2021-10-15T23:16:05.590Z</updated>
         <content type="html"><![CDATA[22∼30일 제6회 충무로영화제-감독주간…단편 경쟁 신설 (서울=연합뉴스) 한미희 기자 = 한국영화감독조합(DGK)과 중구문화재단이 함께 주최하는 제6회 충무로영화제-감독주간이 오는 22일부터 9일 동안 온·오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["기존 상류층 드라마와는 격 다른 작품 만들고 싶었죠"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012725880</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012725880"/>
-        <updated>2021-10-15T23:16:05.592Z</updated>
-        <content type="html"><![CDATA[tvN '하이클래스' 박재현 미술감독·오승철 촬영감독 인터뷰 (서울=연합뉴스) 김정진 기자 = "상류층 설정을 가진 다른 드라마보다 좀 더 입체적인 공간을 만들고자 했어요. 기존 작품들과는 '격이 다르다'는 반응을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 뚫은 ‘베놈2’, 개봉 첫 주말 흥행 폭주 예고[MK무비]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004865569</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004865569"/>
-        <updated>2021-10-15T23:16:05.592Z</updated>
-        <content type="html"><![CDATA[강력한 ‘다크 히어로’의 귀환이다. 영화 ‘베놈2'가 개봉 이틀 만에 30만이 넘는 관객을 동원하며 박스오피스를 점령한 가운데 첫 주말을 맞아 흥행에 가속도가 붙을 전망이다. 지난 15일 영화진흥위원회 영화관입장권]]></content>
     </entry>
 </feed>
