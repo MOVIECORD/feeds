@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Oct 2021 06:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 08:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["'이터널스', MCU에 엄청난 영향을 끼칠 작품" (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003563572</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003563572</guid>
+            <pubDate>Sat, 16 Oct 2021 08:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[MCU(마블시네마틱유니버스)의 새로운 시대를 열며 '어벤져스' 시리즈의 전설을 이어갈 영화 '이터널스'의 위대한 시작을 알리는 'MCU 비기닝 영상'이 공개됐다. 공개된 영상 속엔 촬영 비하인드를 시작으로 MCU의]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[한류·넷플릭스 금지된 중국서 ‘오징어게임’ 열풍, “달고나 가게 등장” (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003545755</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 영화 '베놈2: 렛 데어 비 카니지'가 3일 연속 박스오피스 1위를 차지했다. 16일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 '베놈2: 렛 데어 비 카니지'는 지난 15일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[내년 골든글로브 '파행'하나…생중계 중단에 스타 불참 가능성 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012725917</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012725917</guid>
-            <pubDate>Sat, 16 Oct 2021 00:56:02 GMT</pubDate>
-            <content:encoded><![CDATA[79회 시상식 일정 발표에 할리우드 냉랭…"보도자료 행사될 것" (로스앤젤레스=연합뉴스) 정윤섭 특파원 = 78년 역사를 자랑하는 미국의 영화 시상식 골드글로브가 파행할 것이라는 전망이 나왔다. 인종 차별과 부정부패]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[베놈 2: 렛 데어 비 카니지 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=129680</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=129680</guid>
@@ -215,20 +215,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0643e2cd42252fb6d9018173e867fcd9612c115" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[십개월의 미래 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=141859</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=141859</guid>
-            <pubDate>Wed, 06 Oct 2021 00:53:29 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F181a5fcef97d3f3084c4a69edb05cbd464af3b4f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[노회찬6411 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143260</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143260</guid>
             <pubDate>Tue, 05 Oct 2021 00:51:01 GMT</pubDate>
             <content:encoded><![CDATA[21.10.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6e48f5b593dc63aac8b452dba416570c21a7a3a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[십개월의 미래 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=141859</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=141859</guid>
+            <pubDate>Wed, 06 Oct 2021 00:53:29 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F181a5fcef97d3f3084c4a69edb05cbd464af3b4f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[타다: 대한민국 스타트업의 초상 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -263,28 +263,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F99aa02686ae2d4412a264a7aa7b2b174ac548ef0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[용과 주근깨 공주 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152198</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152198</guid>
-            <pubDate>Wed, 29 Sep 2021 00:48:40 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ad31d50eedd1586704f0af288025b3f85917fdb" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[고양이를 부탁해 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=3186</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=3186</guid>
-            <pubDate>Wed, 13 Oct 2021 00:51:45 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcaf0e113a9fccc8d6120a124d1c22d1e08c38434" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[서유기: 재세요왕 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149884</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149884</guid>
             <pubDate>Thu, 30 Sep 2021 00:55:08 GMT</pubDate>
             <content:encoded><![CDATA[21.09.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F70fb410e74f30d1019ae5a798a800b77fd1df73d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[용과 주근깨 공주 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152198</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152198</guid>
+            <pubDate>Wed, 29 Sep 2021 00:48:40 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ad31d50eedd1586704f0af288025b3f85917fdb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 짱구는 못말려: 격돌! 낙서왕국과 얼추 네 명의 용사들 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -301,6 +293,14 @@
             <pubDate>Wed, 29 Sep 2021 23:15:55 GMT</pubDate>
             <content:encoded><![CDATA[21.10.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc53f25fab367858eafb3fe1b319229f7ec019654" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[고양이를 부탁해 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=3186</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=3186</guid>
+            <pubDate>Wed, 13 Oct 2021 00:51:45 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcaf0e113a9fccc8d6120a124d1c22d1e08c38434" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아버지의 길 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -526,6 +526,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F15%2Fstarnews%2F20211015135518179dhxg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[스티븐 킹이 꼽은 '오징어게임' 명대사, "같이 좀 먹고 삽시다"..영어자막 "닥치고 계란 잡아"[MD할리우드] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211016143730013</link>
+            <guid>https://movie.v.daum.net/v/20211016143730013</guid>
+            <pubDate>Sat, 16 Oct 2021 06:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘호러의 제왕’ 스티븐 킹도 ‘오징어게임’에 푹 빠졌다. 그는 15일(현지시간) 트위터에 “‘오징어게임’에서 배운 교훈은 ‘입 닥치고 계란이나 잡아’”라고 썼다. 원래 장덕수의 한국어 대사는 “같이 좀 먹고 삽시다”이지만, 영어 자막은 ‘입 닥치고 계란이나 잡아’로 번역됐다. '오징어 게임'을 보는 동안에 '런닝맨'이 생]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F16%2Fmydaily%2F20211016143730816jiou.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[넷플릭스, '오징어게임' 253억원 제작비 유출한 직원 해고[MD할리우드] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211016133634349</link>
+            <guid>https://movie.v.daum.net/v/20211016133634349</guid>
+            <pubDate>Sat, 16 Oct 2021 05:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]넷플릭스가 ‘오징어게임’ 제작비를 유출한 직원을 해고했다고 15일(현지시간) NPR이 보도했다. 넷플릭스 대변인은 그 직원이 결국 블룸버그 기사에 실리게 된 "비밀적이고 상업적으로 민감한 정보"를 유출했다고 주장하며 해고 사실을 확인했다. ‘오징어게임’ 9회 분량의 제작비는 2140만 달러(253억원), 데이브 샤펠의 ‘더]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F16%2Fmydaily%2F20211016133634579smfs.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[한효주X변요한 출연 日영화 '태양은 움직이지 않는다', 강렬한 액션→볼거리 담은 역대급 스케일 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211015152810386</link>
             <guid>https://movie.v.daum.net/v/20211015152810386</guid>
@@ -550,14 +566,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F15%2Filgansports%2F20211015164036791idft.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[넷플릭스, '오징어게임' 253억원 제작비 유출한 직원 해고[MD할리우드] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211016133634349</link>
-            <guid>https://movie.v.daum.net/v/20211016133634349</guid>
-            <pubDate>Sat, 16 Oct 2021 05:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]넷플릭스가 ‘오징어게임’ 제작비를 유출한 직원을 해고했다고 15일(현지시간) NPR이 보도했다. 넷플릭스 대변인은 그 직원이 결국 블룸버그 기사에 실리게 된 "비밀적이고 상업적으로 민감한 정보"를 유출했다고 주장하며 해고 사실을 확인했다. ‘오징어게임’ 9회 분량의 제작비는 2140만 달러(253억원), 데이브 샤펠의 ‘더]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F16%2Fmydaily%2F20211016133634579smfs.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['밀당' 모르는 남자에 여배우가 날린 따끔한 충고 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211015111501799</link>
             <guid>https://movie.v.daum.net/v/20211015111501799</guid>
@@ -572,14 +580,6 @@
             <pubDate>Fri, 15 Oct 2021 08:18:39 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 강민경 기자] /사진=영화 '007 노 타임 투 다이' 비하인드 스틸영화 '007 노 타임 투 다이'의 현장 비하인드 스틸이 공개됐다. 15일 유니버설 픽쳐스는 전 세계 관객들의 뜨거운 사랑에 힘입어 촬영 현장의 리얼한 순간을 생생하게 담아낸 비하인드 스틸을 공개했다. '007 노 타임 투 다이'는 가장 강력한 운명의 적의 등장으로 죽음과 맞닿은]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F15%2Fstarnews%2F20211015150843389bgjf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[스티븐 킹이 꼽은 '오징어게임' 명대사, "같이 좀 먹고 삽시다"..영어자막 "닥치고 계란 잡아"[MD할리우드] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211016143730013</link>
-            <guid>https://movie.v.daum.net/v/20211016143730013</guid>
-            <pubDate>Sat, 16 Oct 2021 06:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘호러의 제왕’ 스티븐 킹도 ‘오징어게임’에 푹 빠졌다. 그는 15일(현지시간) 트위터에 “‘오징어게임’에서 배운 교훈은 ‘입 닥치고 계란이나 잡아’”라고 썼다. 원래 장덕수의 한국어 대사는 “같이 좀 먹고 삽시다”이지만, 영어 자막은 ‘입 닥치고 계란이나 잡아’로 번역됐다. '오징어 게임'을 보는 동안에 '런닝맨'이 생]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F16%2Fmydaily%2F20211016143730816jiou.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[깐부 할아버지 오영수의 신념, 저절로 박수 [강민경의 전지적 덕후시점] (다음영화 뉴스 ─ 인기)]]></title>
@@ -606,6 +606,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F16%2Fohmynews%2F20211016115108481puuu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['007' 다니엘 크레이그, "싸움 피하기 위해 게이바에 다녔다..여성도 만나" 논란[MD할리우드] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211015094534860</link>
+            <guid>https://movie.v.daum.net/v/20211015094534860</guid>
+            <pubDate>Sat, 16 Oct 2021 08:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘007 노 타임 투 다이’의 다니엘 크레이그가 오랜 시간 게이바에 다녔고, 미혼 시절에는 그곳에서 여성을 만났다고 고백했다. 14일(현지시간) 영국 가디언에 따르면, 다니엘 크레이그는 브루스와 팟캐스트 인터뷰에서 “오랜 시간 동안 게이바에 다녔다”면서 “그 이유 중 하나는 게이바에서 그렇게 자주 싸우지 않기 때문이다”라고]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F15%2Fmydaily%2F20211015094534717xkzz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[결정적 문제 노출한 '베놈2', 마지막 2분이 준 희망 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211015143601681</link>
+            <guid>https://movie.v.daum.net/v/20211015143601681</guid>
+            <pubDate>Fri, 15 Oct 2021 08:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[[원종빈 기자] *이 글에는 영화의 스포일러가 있습니다. '베놈'이&nbsp;살아있다는 사실을 숨기고&nbsp;지내던 '에디 브룩(톰 하디)'. 통제된 삶을 답답해하는 베놈과 충돌하고, 기자로서도 실패했으며, 전 여자 친구인 '앤(미셸 윌리엄스)'의 결혼 소식을 접하며&nbsp;괴로워하던&nbsp;그의 앞에 어느 날 수감된&nbsp;연쇄살인범 '클리터스 캐서디(우디 해럴슨)'가 만남을 요청한다.&nbsp;캐서]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F15%2Fohmynews%2F20211015143601859gzvz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA["호흡 걱정 無"..'강릉', 유오성X장혁의 '로맨틱 누아르' [종합] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211015122318262</link>
             <guid>https://movie.v.daum.net/v/20211015122318262</guid>
@@ -622,28 +638,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F16%2Fstarnews%2F20211016110003075rxqu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[결정적 문제 노출한 '베놈2', 마지막 2분이 준 희망 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211015143601681</link>
-            <guid>https://movie.v.daum.net/v/20211015143601681</guid>
-            <pubDate>Fri, 15 Oct 2021 08:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[[원종빈 기자] *이 글에는 영화의 스포일러가 있습니다. '베놈'이&nbsp;살아있다는 사실을 숨기고&nbsp;지내던 '에디 브룩(톰 하디)'. 통제된 삶을 답답해하는 베놈과 충돌하고, 기자로서도 실패했으며, 전 여자 친구인 '앤(미셸 윌리엄스)'의 결혼 소식을 접하며&nbsp;괴로워하던&nbsp;그의 앞에 어느 날 수감된&nbsp;연쇄살인범 '클리터스 캐서디(우디 해럴슨)'가 만남을 요청한다.&nbsp;캐서]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F15%2Fohmynews%2F20211015143601859gzvz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['베를린영화제 3관왕' 영화 '첫눈이 사라졌다'..감독은 누구? (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211015102323471</link>
             <guid>https://movie.v.daum.net/v/20211015102323471</guid>
             <pubDate>Fri, 15 Oct 2021 21:14:09 GMT</pubDate>
             <content:encoded><![CDATA[[서울=뉴시스]고다연 인턴 기자 = 제 77회 베니스국제영화제 경쟁 부문에 진출, 화제가 됐던 '첫눈이 사라졌다'가 오는 20일 개봉을 앞두고 감독에 대한 관심도 뜨겁다. '첫눈이 사라졌다'는 영혼을 깨우는 최면술사 '제니아'의 등장으로 폴란드 바르샤바의 부유한 마을 전체가 들썩이면서 벌어지는 이야기를 담은 판타지 아트버스터다. “77회 베니스국제영화]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F15%2Fnewsis%2F20211015102323684moma.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['듄' 후속편을 위한 155분..새로운 SF 세계관의 탄생 [엑's 리뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211016130003030</link>
-            <guid>https://movie.v.daum.net/v/20211016130003030</guid>
-            <pubDate>Sat, 16 Oct 2021 04:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 1억 6500만 달러의 제작비를 들인 대작 영화 '듄'(감독 드니 빌뇌브)이 새로운 세계관의 탄생을 알렸다.&nbsp; ‘듄’의 배경은 1만191년 우주 세계. 생명 유지 자원인 스파이스를 두고 아라키스 모래 행성 ‘듄’에서 악의 세력과 전쟁을 앞둔 전 우주의 왕좌에 오를 운명으로 태어난 전설의 메시아 폴(티모시 샬라메 분)의 위대한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F16%2Fxportsnews%2F20211016130007017ldfg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[BIFF, '위드 코로나' 속 성공적 개최..열흘간 7만 명 동원하며 폐막 (다음영화 뉴스 ─ 인기)]]></title>
@@ -654,12 +654,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F15%2FSBSfunE%2F20211015142702964cscv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['어나더 레코드' 신세경, 가을 서촌서 만난 사람들..아무도 몰랐던 이야기 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211016113005296</link>
-            <guid>https://movie.v.daum.net/v/20211016113005296</guid>
+            <title><![CDATA['듄' 후속편을 위한 155분..새로운 SF 세계관의 탄생 [엑's 리뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211016130003030</link>
+            <guid>https://movie.v.daum.net/v/20211016130003030</guid>
             <pubDate>Sat, 16 Oct 2021 04:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] /사진=영화 '어나더 레코드' 가을 시즈널 포스터seezn(시즌) 오리지널 영화 '어나더 레코드'(감독 김종관)의 시즈널 포스터가 공개됐다. 최근 seezn은 '어나더 레코드'의 가을 감성이 돋보이는 시즈널 포스터와 함께 서촌에서 특별한 7가지 이야기를 예고했다. '어나더 레코드'는 모두가 아는 신세경의 아무도 몰랐던 이야기를 다룬]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F16%2Fstarnews%2F20211016113008661jxdl.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 1억 6500만 달러의 제작비를 들인 대작 영화 '듄'(감독 드니 빌뇌브)이 새로운 세계관의 탄생을 알렸다.&nbsp; ‘듄’의 배경은 1만191년 우주 세계. 생명 유지 자원인 스파이스를 두고 아라키스 모래 행성 ‘듄’에서 악의 세력과 전쟁을 앞둔 전 우주의 왕좌에 오를 운명으로 태어난 전설의 메시아 폴(티모시 샬라메 분)의 위대한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F16%2Fxportsnews%2F20211016130007017ldfg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[뉴스초점] '베놈2' 50만 관객 목전..주말 극장가는? (다음영화 뉴스 ─ 최신)]]></title>
@@ -1466,7 +1466,7 @@
             <link>https://tv.naver.com/v/22984654</link>
             <guid>https://tv.naver.com/v/22984654</guid>
             <pubDate>Fri, 15 Oct 2021 10:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_201/l3jRs_1634290224274gQLAK_JPEG/5e274c65-2d9a-11ec-b39d-48df37ae3fca_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1474,7 +1474,7 @@
             <link>https://tv.naver.com/v/22984202</link>
             <guid>https://tv.naver.com/v/22984202</guid>
             <pubDate>Fri, 15 Oct 2021 09:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_72/xl30Z_16342890735780QotQ_JPEG/c15f69b4-2d97-11ec-ba2c-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1482,7 +1482,7 @@
             <link>https://tv.naver.com/v/22983312</link>
             <guid>https://tv.naver.com/v/22983312</guid>
             <pubDate>Fri, 15 Oct 2021 09:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_281/hPjzI_1634287200011xud1Q_JPEG/1634287197824.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1490,7 +1490,7 @@
             <link>https://tv.naver.com/v/22982925</link>
             <guid>https://tv.naver.com/v/22982925</guid>
             <pubDate>Fri, 15 Oct 2021 09:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_242/i8xQO_1634286494096E77Mf_JPEG/fb9daac8-2d8f-11ec-a331-48df379cca40_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1498,7 +1498,7 @@
             <link>https://tv.naver.com/v/22982295</link>
             <guid>https://tv.naver.com/v/22982295</guid>
             <pubDate>Fri, 15 Oct 2021 09:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_261/SdmQF_1634285687211Pj6GC_JPEG/ad010062-2d8f-11ec-b39d-48df37ae3fca_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1506,7 +1506,7 @@
             <link>https://tv.naver.com/v/22982158</link>
             <guid>https://tv.naver.com/v/22982158</guid>
             <pubDate>Fri, 15 Oct 2021 09:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_198/uS8L9_1634285524871LhHNH_JPEG/36906af8-2d8f-11ec-9ac7-505dac8c381b_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1514,7 +1514,7 @@
             <link>https://tv.naver.com/v/22982062</link>
             <guid>https://tv.naver.com/v/22982062</guid>
             <pubDate>Fri, 15 Oct 2021 08:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_288/ql3or_1634285389846Lvfet_JPEG/04620a64-2d8f-11ec-a331-48df379cca40_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1522,7 +1522,7 @@
             <link>https://tv.naver.com/v/22981028</link>
             <guid>https://tv.naver.com/v/22981028</guid>
             <pubDate>Fri, 15 Oct 2021 08:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_186/cxryP_1634284069375SzhME_JPEG/049704c8-2d8c-11ec-a331-48df379cca40_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1530,7 +1530,7 @@
             <link>https://tv.naver.com/v/22980354</link>
             <guid>https://tv.naver.com/v/22980354</guid>
             <pubDate>Fri, 15 Oct 2021 08:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_255/C0J86_1634283278830VyE9y_JPEG/3726344b-2d8a-11ec-b2c0-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1538,7 +1538,7 @@
             <link>https://tv.naver.com/v/22979312</link>
             <guid>https://tv.naver.com/v/22979312</guid>
             <pubDate>Fri, 15 Oct 2021 07:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_197/fEZkO_1634281854911aj8pP_JPEG/1634281852513.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1546,7 +1546,7 @@
             <link>https://tv.naver.com/v/22979194</link>
             <guid>https://tv.naver.com/v/22979194</guid>
             <pubDate>Fri, 15 Oct 2021 07:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_253/halaU_1634281620055cRIIv_JPEG/1634281616500.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1554,7 +1554,7 @@
             <link>https://tv.naver.com/v/22978704</link>
             <guid>https://tv.naver.com/v/22978704</guid>
             <pubDate>Fri, 15 Oct 2021 07:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_204/t7gZL_1634280788267tphwz_JPEG/6fd0ca9b-2d84-11ec-a979-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1562,7 +1562,7 @@
             <link>https://tv.naver.com/v/22978560</link>
             <guid>https://tv.naver.com/v/22978560</guid>
             <pubDate>Fri, 15 Oct 2021 07:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_38/InPHe_1634280542225xyEUm_JPEG/e31fcaf6-2d83-11ec-8e54-505dac8c37f3_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1570,7 +1570,7 @@
             <link>https://tv.naver.com/v/22977981</link>
             <guid>https://tv.naver.com/v/22977981</guid>
             <pubDate>Fri, 15 Oct 2021 07:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_9/9mvCC_1634279499952bgsdb_JPEG/62d9933e-2d81-11ec-9ac7-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1578,7 +1578,7 @@
             <link>https://tv.naver.com/v/22977824</link>
             <guid>https://tv.naver.com/v/22977824</guid>
             <pubDate>Fri, 15 Oct 2021 07:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_300/gkV8I_1634279200423kuzyM_JPEG/b430e60d-2d80-11ec-82c9-505dac8c35ff_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1586,7 +1586,7 @@
             <link>https://tv.naver.com/v/22977696</link>
             <guid>https://tv.naver.com/v/22977696</guid>
             <pubDate>Fri, 15 Oct 2021 07:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_23/muPJW_163427895198378Ezb_JPEG/1d073c77-2d80-11ec-b39d-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
