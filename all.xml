@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 14:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 15:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -191,20 +191,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4abb16fd8b2e51e518b7e0165633d4b9602f2495" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[노회찬6411 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=143260</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=143260</guid>
-            <pubDate>Tue, 05 Oct 2021 00:51:01 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6e48f5b593dc63aac8b452dba416570c21a7a3a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[007 노 타임 투 다이 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=119916</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=119916</guid>
             <pubDate>Wed, 29 Sep 2021 00:48:40 GMT</pubDate>
             <content:encoded><![CDATA[21.09.29]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F316e880b27c97eddd0b6f0a42aff0cf1fecd960a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[노회찬6411 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143260</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143260</guid>
+            <pubDate>Tue, 05 Oct 2021 00:51:01 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6e48f5b593dc63aac8b452dba416570c21a7a3a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[타다: 대한민국 스타트업의 초상 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -255,14 +255,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff09b6fed698932a9258208f8cc4d041ac95efbbd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[스피릿 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149510</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149510</guid>
-            <pubDate>Mon, 18 Oct 2021 09:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc24b8adacb651651211cb925510fa804701d5074" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[아버지의 길 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=139238</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=139238</guid>
@@ -295,14 +287,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc53f25fab367858eafb3fe1b319229f7ec019654" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[코다 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=147452</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=147452</guid>
-            <pubDate>Mon, 18 Oct 2021 09:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9db1b2ab48843490fa9705cbae8389e6c3bd9876" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[용과 주근깨 공주 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152198</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152198</guid>
@@ -325,6 +309,22 @@
             <pubDate>Sun, 17 Oct 2021 06:18:37 GMT</pubDate>
             <content:encoded><![CDATA[21.10.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1ab00001548e8fb26c193b8636455ab7799be2ca" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[코다 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=147452</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=147452</guid>
+            <pubDate>Mon, 18 Oct 2021 09:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9db1b2ab48843490fa9705cbae8389e6c3bd9876" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스피릿 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149510</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149510</guid>
+            <pubDate>Mon, 18 Oct 2021 09:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc24b8adacb651651211cb925510fa804701d5074" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 짱구는 못말려: 격돌! 낙서왕국과 얼추 네 명의 용사들 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -510,12 +510,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2FSpoChosun%2F20211018082813561sfgs.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
+            <title><![CDATA[20년 만의 귀환, 다섯 청춘들이 보여준 기이한 힘 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211018105402017</link>
+            <guid>https://movie.v.daum.net/v/20211018105402017</guid>
+            <pubDate>Mon, 18 Oct 2021 04:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[20년 만의 귀환, 다섯 소녀가 되살린 청춘의 불씨 20년 만의 귀환, 다섯 청춘들이 보여준 기이한 힘 &lt;편집자말&gt; [김상목 기자] * 이 글에는 영화의 스포일러가 포함돼 있습니다.&nbsp;        ▲ "고양이를 부탁해' 포스터&nbsp;영화 포스터 이미지    ⓒ 엣나인필름  &nbsp;1_아주 특별한 귀환 &lt;고양이를 부탁해&gt;와 재회하는 경험이란 아주 특별한 성격의 것이다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2Fohmynews%2F20211018105403796gxvp.jpg" length="0" type="image//thumb/S732x228/"/>
+        </item>
+        <item>
             <title><![CDATA[세계를 충격에 빠트린 최고의 반전 엔딩 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211018090601502</link>
             <guid>https://movie.v.daum.net/v/20211018090601502</guid>
             <pubDate>Mon, 18 Oct 2021 00:54:31 GMT</pubDate>
             <content:encoded><![CDATA[[양형석 기자] 엔딩 장면에서 충격적인 반전이 있는 영화는 방심하고 자리를 뜰 준비를 하던 관객들을 놀라게 한다. 초반에 보여준 설정으로 영화가 진행되다가 마지막에 지금까지 나왔던 이야기들이 모두 거짓이었음이 밝혀지면 관객들이 받는 충격은 더욱 커질 수밖에 없다. 하지만 영화가 주는 반전이 치밀할수록 관객들은 충격과 동시에 묘한 영화적 쾌감을 느끼게 된다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2Fohmynews%2F20211018090605275lwzc.jpg" length="0" type="image//thumb/S732x228/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2Fohmynews%2F20211018090605275lwzc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[홍종선의 캐릭터탐구⑲] 선한 인상의 배우가 '늦은 밤' 악역을 만났을 때 (다음영화 뉴스 ─ 인기)]]></title>
@@ -526,12 +534,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F17%2Fdailian%2F20211017112107277ujun.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[20년 만의 귀환, 다섯 청춘들이 보여준 기이한 힘 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211018105402017</link>
-            <guid>https://movie.v.daum.net/v/20211018105402017</guid>
-            <pubDate>Mon, 18 Oct 2021 04:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[20년 만의 귀환, 다섯 소녀가 되살린 청춘의 불씨 20년 만의 귀환, 다섯 청춘들이 보여준 기이한 힘 &lt;편집자말&gt; [김상목 기자] * 이 글에는 영화의 스포일러가 포함돼 있습니다.&nbsp;        ▲ "고양이를 부탁해' 포스터&nbsp;영화 포스터 이미지    ⓒ 엣나인필름  &nbsp;1_아주 특별한 귀환 &lt;고양이를 부탁해&gt;와 재회하는 경험이란 아주 특별한 성격의 것이다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2Fohmynews%2F20211018105403796gxvp.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[공식] 넷플릭스 마스터피스 '더 하더 데이 폴'→'돈 룩 업', 20일부터 극장 개봉 확정 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211018143404505</link>
+            <guid>https://movie.v.daum.net/v/20211018143404505</guid>
+            <pubDate>Mon, 18 Oct 2021 09:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 세계적인 인터넷 엔터테인먼트 서비스 넷플릭스가 오는 20일 '더 하더 데이 폴'을 시작으로 '틱, 틱... 붐!' '파워 오브 도그' '언포기버블' '신의 손' '돈 룩 업'의 극장 개봉을 확정 지었다. 넷플릭스 영화 여섯 편이 국내 극장 개봉을 확정 지었다. 넷플릭스 공개에 앞서 극장에서 먼저 만날 수 있는 작품은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2FSpoChosun%2F20211018143404893wxqk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[스물아홉, 계획에 없던 임신이 찾아왔다.. 이 여성의 선택 (다음영화 뉴스 ─ 인기)]]></title>
@@ -542,12 +550,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F17%2Fohmynews%2F20211017125701757bwho.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[공식] 넷플릭스 마스터피스 '더 하더 데이 폴'→'돈 룩 업', 20일부터 극장 개봉 확정 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211018143404505</link>
-            <guid>https://movie.v.daum.net/v/20211018143404505</guid>
+            <title><![CDATA['이터널스' 美보다 이틀 빠른 11월3일 개봉 러닝타임 157분 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211018121315635</link>
+            <guid>https://movie.v.daum.net/v/20211018121315635</guid>
             <pubDate>Mon, 18 Oct 2021 09:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 세계적인 인터넷 엔터테인먼트 서비스 넷플릭스가 오는 20일 '더 하더 데이 폴'을 시작으로 '틱, 틱... 붐!' '파워 오브 도그' '언포기버블' '신의 손' '돈 룩 업'의 극장 개봉을 확정 지었다. 넷플릭스 영화 여섯 편이 국내 극장 개봉을 확정 지었다. 넷플릭스 공개에 앞서 극장에서 먼저 만날 수 있는 작품은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2FSpoChosun%2F20211018143404893wxqk.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] 마블의 새로운 세계관을 열 화제작 ‘이터널스’가 11월3일 국내 개봉을 확정지었다. 미국, 영국, 일본보다 이틀 빠른 날짜다. 글로벌 영화 정보 사이트 IMDB는 11월3일 국내 개봉과 아울러 ‘이터널스’의 주요국별 개봉일을 발빠르게 업데이트했다. 현지시간으로 10월24일 이탈리아 로마에서 열리는 제16회 로마국제영화제 폐막작으로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2Fnewsen%2F20211018121318339aqcv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[SC리뷰]"155분간의 SF 혁명"..'듄' 어디서도 본적 없던 새로운 스페이스 오페라(종합) (다음영화 뉴스 ─ 인기)]]></title>
@@ -558,20 +566,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2FSpoChosun%2F20211018072229506pqcs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['이터널스' 美보다 이틀 빠른 11월3일 개봉 러닝타임 157분 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211018121315635</link>
-            <guid>https://movie.v.daum.net/v/20211018121315635</guid>
-            <pubDate>Mon, 18 Oct 2021 09:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] 마블의 새로운 세계관을 열 화제작 ‘이터널스’가 11월3일 국내 개봉을 확정지었다. 미국, 영국, 일본보다 이틀 빠른 날짜다. 글로벌 영화 정보 사이트 IMDB는 11월3일 국내 개봉과 아울러 ‘이터널스’의 주요국별 개봉일을 발빠르게 업데이트했다. 현지시간으로 10월24일 이탈리아 로마에서 열리는 제16회 로마국제영화제 폐막작으로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2Fnewsen%2F20211018121318339aqcv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['장르만 로맨스' 김희원의 출구 없는 반전 매력 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211018151728190</link>
             <guid>https://movie.v.daum.net/v/20211018151728190</guid>
             <pubDate>Mon, 18 Oct 2021 09:16:23 GMT</pubDate>
             <content:encoded><![CDATA[[티브이데일리 최하나 기자] '장르만 로맨스'가 출판사 대표 순모 캐릭터 스틸을 공개했다. 영화 '장르만 로맨스'(감독 조은지·제작 비리프)는 평범하지 않은 로맨스로 얽힌 이들과 만나 일도 인생도 꼬여가는 베스트셀러 작가의 버라이어티한 사생활을 그린 영화다. 방탄유리 신드롬을 탄생시킨 '아저씨'를 시작으로 '아재 케미'를 선보였던 '담보'까지, 출연하는]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2Ftvdaily%2F20211018151729239dvml.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['노회찬6411' 리뷰 포스터 공개 "이 다큐가 시작이길" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211018095327404</link>
+            <guid>https://movie.v.daum.net/v/20211018095327404</guid>
+            <pubDate>Mon, 18 Oct 2021 09:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 영화 '노회찬6411' 관객들의 애정 넘치는 리뷰가 담긴 '감동 손글씨 리뷰 포스터'가 공개됐다. '노회찬6411'(감독 민환기·제작 명필름)은 용접공에서 진보 정치인이 되기까지, 우리가 몰랐던 노회찬 의원의 진짜 이야기를 담은 다큐멘터리다. 이와 관련 18일 공개된 '노회찬6411' 리뷰 포스터에는 환한 웃음을 짓고 있는 노회]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2Ftvdaily%2F20211018095329016meel.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[산골 할머니의 구수한 일상, 지친이들에게 힐링 (다음영화 뉴스 ─ 인기)]]></title>
@@ -582,12 +590,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2Fsportsdonga%2F20211018065728784cuol.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['노회찬6411' 리뷰 포스터 공개 "이 다큐가 시작이길" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211018095327404</link>
-            <guid>https://movie.v.daum.net/v/20211018095327404</guid>
-            <pubDate>Mon, 18 Oct 2021 09:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 영화 '노회찬6411' 관객들의 애정 넘치는 리뷰가 담긴 '감동 손글씨 리뷰 포스터'가 공개됐다. '노회찬6411'(감독 민환기·제작 명필름)은 용접공에서 진보 정치인이 되기까지, 우리가 몰랐던 노회찬 의원의 진짜 이야기를 담은 다큐멘터리다. 이와 관련 18일 공개된 '노회찬6411' 리뷰 포스터에는 환한 웃음을 짓고 있는 노회]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2Ftvdaily%2F20211018095329016meel.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['듄', 파트2 제작 긍정적..내년 가을 촬영 돌입 예정 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211018160411026</link>
+            <guid>https://movie.v.daum.net/v/20211018160411026</guid>
+            <pubDate>Mon, 18 Oct 2021 13:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '듄'(감독 드니 빌뇌브)이 금주 개봉을 앞두고 예매율 1위에 올라 흥행 청신호를 밝힌 가운데, 이미 미국에서는 파트2 제작이 긍정적으로 검토되고 있다. 18일 오전 영화관입장권 통합전산망의 집계에 따르면 영화 '듄'은 실시간 예매율 50% 이상을 넘어서며 예매순위 1위를 차지했다. '듄'은 지난주 일본, 인도네시]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2FNEWS1%2F20211018160411560lcoq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[아이콘 구준회, 영화배우 데뷔..'죽어도 다시 한 번' 캐스팅 (다음영화 뉴스 ─ 인기)]]></title>
@@ -604,14 +612,6 @@
             <pubDate>Mon, 18 Oct 2021 00:54:31 GMT</pubDate>
             <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 마블 영화 '이터널스'(감독 클로이 자오)가 오는 11월3일 개봉을 확정했다. 월트디즈니컴퍼니 코리아는 18일 '이터널스'의 11월3일 개봉 소식과 함께 태초의 히어로 이터널스 군단의 강렬한 매력을 담아낸 캐릭터 포스터를 공개했다. MCU의 새로운 미래를 열 작품으로 뜨거운 관심을 모으고 있는 영화 '이터널스'는 오는 1]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2FNEWS1%2F20211018085024357qmug.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['듄', 파트2 제작 긍정적..내년 가을 촬영 돌입 예정 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211018160411026</link>
-            <guid>https://movie.v.daum.net/v/20211018160411026</guid>
-            <pubDate>Mon, 18 Oct 2021 13:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '듄'(감독 드니 빌뇌브)이 금주 개봉을 앞두고 예매율 1위에 올라 흥행 청신호를 밝힌 가운데, 이미 미국에서는 파트2 제작이 긍정적으로 검토되고 있다. 18일 오전 영화관입장권 통합전산망의 집계에 따르면 영화 '듄'은 실시간 예매율 50% 이상을 넘어서며 예매순위 1위를 차지했다. '듄'은 지난주 일본, 인도네시]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2FNEWS1%2F20211018160411560lcoq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['고속도로 가족' 라미란·정일우·김슬기·백현진 출연..15일 크랭크인 (다음영화 뉴스 ─ 인기)]]></title>
@@ -638,22 +638,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2FSpoChosun%2F20211018084039860eqzw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 노래 '친구' 마블 신작 '이터널스' OST에 수록 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211018172458464</link>
-            <guid>https://movie.v.daum.net/v/20211018172458464</guid>
-            <pubDate>Mon, 18 Oct 2021 12:24:54 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] 마블의 새로운 세계관을 열 화제작 ‘이터널스’에 방탄소년단 노래가 배경음악으로 삽입된 것으로 확인됐다. 한국 노래가 할리우드 블록버스터 OST로 채택되기는 싸이 이후 두번째다. 북미 연예 전문 매체 더 다이렉트는 10월18일 방탄소년단이 2020년 발표한 앨범 ‘맵 오브 더 소울:7’(MAP OF THE SOUL:7) 수록곡 ‘친]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2Fnewsen%2F20211018172502002pscs.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['베놈' 심폐소생 한 속편.. '골룸' 엔디 서키스의 흔적 보인다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211017131201269</link>
-            <guid>https://movie.v.daum.net/v/20211017131201269</guid>
-            <pubDate>Mon, 18 Oct 2021 00:54:31 GMT</pubDate>
-            <content:encoded><![CDATA[[김동근 기자] &nbsp;        ▲ &nbsp;영화 &lt;베놈2:렛 데어 비 카니지&gt; 포스터    ⓒ 소니 픽처스  &nbsp;갑자기 누군가와 만나 시작된 관계는 생각대로 흘러가지 않는다. 친구사이가 될 수도 있고, 연인이 되거나 원수 같은 관계가 되기도 한다. 그 관계가 시작되는 시점에는 서로에 대해 알아가는 과정이 생긴다. 주도권을 주고받기도 하고, 감정과 생각을 주고받으며]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F17%2Fohmynews%2F20211017131202292ikkb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[김영민 합류, '크리스마스캐럴' 김동휘 허동원 호흡[공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211018145705429</link>
             <guid>https://movie.v.daum.net/v/20211018145705429</guid>
@@ -662,164 +646,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2Fstartoday%2F20211018145707122phaq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 노래 '친구' 마블 신작 '이터널스' OST에 수록 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211018172458464</link>
-            <guid>https://v.daum.net/v/20211018172458464</guid>
-            <pubDate>Mon, 18 Oct 2021 09:16:31 GMT</pubDate>
+            <title><![CDATA[방탄소년단 노래 '친구' 마블 신작 '이터널스' OST에 수록 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211018172458464</link>
+            <guid>https://movie.v.daum.net/v/20211018172458464</guid>
+            <pubDate>Mon, 18 Oct 2021 12:24:54 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스엔 허민녕 기자] 마블의 새로운 세계관을 열 화제작 ‘이터널스’에 방탄소년단 노래가 배경음악으로 삽입된 것으로 확인됐다. 한국 노래가 할리우드 블록버스터 OST로 채택되기는 싸이 이후 두번째다. 북미 연예 전문 매체 더 다이렉트는 10월18일 방탄소년단이 2020년 발표한 앨범 ‘맵 오브 더 소울:7’(MAP OF THE SOUL:7) 수록곡 ‘친]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2Fnewsen%2F20211018172502002pscs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[죽음 앞에서 초연해진 여인, 홍상수가 말하는 삶이란 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211018172401431</link>
-            <guid>https://v.daum.net/v/20211018172401431</guid>
-            <pubDate>Mon, 18 Oct 2021 09:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[[장혜령 기자] ▲ &nbsp;영화 &lt;당신 얼굴 앞에서&gt;포스터    ⓒ (주) 영화제작전원사   죽음을 앞둔 사람의 초연함이 담겨 있다. 꽃 한 송이, 시원한 바람, 떨어지는 빗방울 하나마저도 소중하다. 지금 이 순간을 오롯이 즐기고만 싶다. 홍상수 감독의 26번째 영화인 &lt;당신 얼굴 앞에서&gt;는 밝은 톤으로 감싸 포근히 감싸 안는다. 마치 요즘같이 쌀]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2Fohmynews%2F20211018172403565nydd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[애프터스크리닝] 힙하고 스타일리쉬하고 감각적인 서부극 '더 하더 데이 폴' ★★★ (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211018170358771</link>
-            <guid>https://v.daum.net/v/20211018170358771</guid>
-            <pubDate>Mon, 18 Oct 2021 09:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[▶ 줄거리 황야의 무법자 냇 러브(조너선 메이저스)는 숙적 루퍼스 벅(이드리스 엘바)이 출소한다는 소식에 흩어졌던 팀을 불러 모아 미뤄뒀던 복수를 다시 시작한다. 이 계획에 함께 뛰어든 이들은 옛 연인 '역마차' 메리(자시 베츠), ‘왼팔이자 오른팔’인 성질 나쁜 빌 피켓(에디 가세기)과 빠른 총잡이 짐 벡워스(RJ 사일러) 그리고 어제의 적에서 오늘의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2FiMBC%2F20211018170359233hirh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[라미란X정일우 주연 '고속도로 가족', 크랭크인 [공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211018165415447</link>
-            <guid>https://v.daum.net/v/20211018165415447</guid>
-            <pubDate>Mon, 18 Oct 2021 09:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 배우 라미란, 정일우, 김슬기가 영화 ‘고속도로 가족’으로 뭉친다.제작사 설렘은 18일 “배우 라미란, 정일우 주연의 영화 ‘고속도로 가족’이 최근 촬영을 시작했다”고 밝혔다.‘고속도로 가족’은 고속도로 휴게소에서 캠핑 같은 노숙 생활을 하는 한 가족과 우연히 이 가족의 손을 잡게 된 부부가 만나 새로운 가족이 탄생하는 과정을 그려나간 작품]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2Fsportskhan%2F20211018165417223hcoi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[한인 애니메이션 감독의 고백 "디즈니? 럭셔리 감옥이죠" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211018165400436</link>
-            <guid>https://v.daum.net/v/20211018165400436</guid>
-            <pubDate>Mon, 18 Oct 2021 09:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[[변재성 기자] ▲ 진김(Gene Kim) 만화영화 감독&nbsp;뉴저지주에 살고 있는 진김(Gene Kim) 만화영화 감독을 프린스턴대학 캠퍼스에서 만나 인터뷰를 했다.    ⓒ 변재성  &nbsp;뉴욕대에서 만화영화제작을 전공한 뒤 디즈니사의 픽사(Pixar)에서 인턴을 거치고 블루 스카이 스튜디오(Disney's Blue Sky Studios)에서 에픽(]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2Fohmynews%2F20211018165405257gfyo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['듄', 파트2 제작 긍정적..내년 가을 촬영 돌입 예정 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211018160411026</link>
-            <guid>https://v.daum.net/v/20211018160411026</guid>
-            <pubDate>Mon, 18 Oct 2021 09:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '듄'(감독 드니 빌뇌브)이 금주 개봉을 앞두고 예매율 1위에 올라 흥행 청신호를 밝힌 가운데, 이미 미국에서는 파트2 제작이 긍정적으로 검토되고 있다. 18일 오전 영화관입장권 통합전산망의 집계에 따르면 영화 '듄'은 실시간 예매율 50% 이상을 넘어서며 예매순위 1위를 차지했다. '듄'은 지난주 일본, 인도네시]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2FNEWS1%2F20211018160411560lcoq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['고속도로 가족' 라미란·정일우·김슬기·백현진 출연..15일 크랭크인 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211018155516725</link>
-            <guid>https://v.daum.net/v/20211018155516725</guid>
-            <pubDate>Mon, 18 Oct 2021 09:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 라미란, 정일우, 김슬기, 백현진까지 믿고 보는 연기력의 배우진 주연의 영화 ‘고속도로 가족’이 지난 15일 크랭크인해 첫 촬영에 돌입했다. 영화 ‘고속도로 가족’은 고속도로 휴게소를 따라 캠핑 같은 노숙생활을 하는 한 가족과 우연히 그들의 손을 잡게 된 부부의 만남과 새로운 가족이 탄생하는 과정을 그려나간다. 차가운 현실 속]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2Fxportsnews%2F20211018155519379vfxx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[라미란·정일우·김슬기·백현진, '고속도로 가족' 호흡..15일 첫촬영 [공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211018153357795</link>
-            <guid>https://v.daum.net/v/20211018153357795</guid>
-            <pubDate>Mon, 18 Oct 2021 07:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 배우 라미란과 정일우, 김슬기, 백현진 등이 영화 '고속도로 가족'(감독 이상문) 출연을 확정하고 지난 15일부터 촬영에 돌입했다. 18일 영화사 설렘은 이 같은 소식을 전했다. '고속도로 가족'은 고속도로 휴게소를 따라 캠핑 같은 노숙생활을 하는 한 가족과 우연히 그들의 손을 잡게 된 부부의 만남과 새로운 가족이 탄생하는 과정을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2Fstarnews%2F20211018153359044yafx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['장르만 로맨스' 김희원의 출구 없는 반전 매력 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211018151728190</link>
-            <guid>https://v.daum.net/v/20211018151728190</guid>
-            <pubDate>Mon, 18 Oct 2021 09:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '장르만 로맨스'가 출판사 대표 순모 캐릭터 스틸을 공개했다. 영화 '장르만 로맨스'(감독 조은지·제작 비리프)는 평범하지 않은 로맨스로 얽힌 이들과 만나 일도 인생도 꼬여가는 베스트셀러 작가의 버라이어티한 사생활을 그린 영화다. 방탄유리 신드롬을 탄생시킨 '아저씨'를 시작으로 '아재 케미'를 선보였던 '담보'까지, 출연하는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2Ftvdaily%2F20211018151729239dvml.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[라미란·정일우·김슬기·백현진 '고속도로 가족' 15일 첫촬영[공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211018151507106</link>
-            <guid>https://v.daum.net/v/20211018151507106</guid>
-            <pubDate>Mon, 18 Oct 2021 06:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[라미란, 정일우, 김슬기, 백현진이 스크린에서 만난다. 영화 '고속도로 가족(이상문 감독)'은 라미란, 정일우, 김슬기, 백현진 캐스팅을 확정짓고 지난 15일 크랭크인, 첫 촬영에 돌입했다. '고속도로 가족’은 고속도로 휴게소를 따라 캠핑 같은 노숙생활을 하는 한 가족과 우연히 그들의 손을 잡게 된 부부의 만남과 새로운 가족이 탄생하는 과정을 그린다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2Filgansports%2F20211018151510191nlvm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['우정있는 설복'..가족과 사랑의 의미를 되새긴다 [김대호의 옛날영화] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211018150914888</link>
-            <guid>https://v.daum.net/v/20211018150914888</guid>
-            <pubDate>Mon, 18 Oct 2021 09:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[한 퀘이커교도 가정의 이야기를 담고 있지만 가족간의 믿음과 사랑의 진정한 의미를 생각하게 하는 가슴 뭉클한 영화다. 윌리엄 와일러 감독의 놀라운 연출력에 머리가 조아려질 수밖에 없다. &lt;우정있는 설복&gt;은 &lt;우리생애 최고의 해&gt; &lt;로마의 휴일&gt; &lt;벤허&gt;로 잘 알려진 윌리엄 와일러 감독이 1956년 만든 영화로 이듬해 칸영화제 황금종려상을 받았다. 남북전쟁이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2Fmksports%2F20211018150916903xiir.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[라미란X정일우, '고속도로 가족' 출연 확정 "15일 크랭크인" [공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211018150246649</link>
-            <guid>https://v.daum.net/v/20211018150246649</guid>
-            <pubDate>Mon, 18 Oct 2021 06:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 라미란, 정일우가 영화 '고속도로 가족'으로 뭉쳤다. '고속도로 가족' 측은 18일, "라미란·정일우부터 김슬기, 백현진까지 믿고 보는 캐스팅을 라인업을 확정하고 15일 크랭크인 했다"라고 밝혔다. '고속도로 가족'은 고속도로 휴게소를 따라 캠핑 같은 노숙생활을 하는 한 가족과 우연히 그들의 손을 잡게 된 부부의 만남과]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2Fmydaily%2F20211018150246159hedp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['고속도로 가족' 라미란X정일우 캐스팅 확전, 15일 크랭크인 [공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211018150108577</link>
-            <guid>https://v.daum.net/v/20211018150108577</guid>
-            <pubDate>Mon, 18 Oct 2021 06:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 현혜선 기자] ‘고속도로 가족’의 캐스팅이 확정됐다. 배우 라미란, 정일우, 김슬기, 백현진까지 믿고 보는 연기력의 배우진 주연의 영화 ‘고속도로 가족’이 지난 15일 크랭크인했다. ‘고속도로 가족’은 고속도로 휴게소를 따라 캠핑 같은 노숙생활을 하는 한 가족과 우연히 그들의 손을 잡게 된 부부의 만남과 새로운 가족이 탄생하는 과정을 그려나간]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2Fsportstoday%2F20211018150109189rptx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[김영민 합류, '크리스마스캐럴' 김동휘 허동원 호흡[공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211018145705429</link>
-            <guid>https://v.daum.net/v/20211018145705429</guid>
-            <pubDate>Mon, 18 Oct 2021 06:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[신선한 캐스팅 조합에 눈길이 간다. 배우 김영민, 김동휘, 허동원이 영화 '크리스마스캐럴'로 의기투합한다. 영화 '크리스마스캐럴'(감독 김성수, 제작 화인컷 블루플랜잇)은 쌍둥이 동생의 죽음에 복수하기 위해 스스로 소년원에 들어간 형이 동생의 죽음에 숨겨진 진실을 마주하는 이야기다. 영화 '야수', 드라마 '구해줘 1'의 김성수 감독이 각본을 쓰고 연출]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2Fstartoday%2F20211018145707122phaq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['베놈 2' 개봉 5일 만에 100만 돌파, 올해 외화 최고 흥행 경신할까 [무비노트] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211018145606391</link>
-            <guid>https://v.daum.net/v/20211018145606391</guid>
-            <pubDate>Mon, 18 Oct 2021 06:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '베놈2: 렛 데어 비 카니지'가 개봉 5일 만에 100만 관객을 돌파하며 무서운 흥행 돌풍을 일으키고 있다. 지난 13일 개봉된 영화 '베놈2: 렛 데어 비 카니지'(감독 앤디 서키스·배급 소니 픽쳐스)는 미워할 수 없는 빌런 히어로 베놈(톰 하디) 앞에 사상 최악의 빌런 카니지(우디 해럴슨)가 나타나 대혼돈의 시대를 예고하]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2Ftvdaily%2F20211018145609533dggz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[라미란·정일우·김슬기·백현진 '고속도로 가족' 캐스팅 [공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211018145121223</link>
-            <guid>https://v.daum.net/v/20211018145121223</guid>
-            <pubDate>Mon, 18 Oct 2021 06:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 라미란·정일우·김슬기·백현진 ‘고속도로 가족’ 캐스팅 [공식] 영화 ‘고속도로 가족’이 지난 15일 크랭크인해 첫 촬영에 돌입했다. ‘고속도로 가족’은 고속도로 휴게소를 따라 캠핑 같은 노숙생활을 하는 한 가족과 우연히 그들의 손을 잡게 된 부부의 만남과 새로운 가족이 탄생하는 과정을 그려나간다. 차가운 현실 속에도 여전히 존재하는 사람 사]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2Fsportsdonga%2F20211018145123076fzjz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['듄', 천재 감독 드니 빌뇌브의 스페이스 오페라 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211018144917137</link>
-            <guid>https://v.daum.net/v/20211018144917137</guid>
-            <pubDate>Mon, 18 Oct 2021 06:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[아이즈 ize 권구현(칼럼니스트)"이 책이 내 침대 옆 책장에 그토록 오랜 세월 동안 놓여 있던 이유가 있다" (드니 빌뇌브 감독)SF 소설의 최고봉으로 꼽히는 프랭크 하버트의 소설 '듄'(1965)은 판매부수 2000만 부를 자랑하는 세계적인 베스트셀러. 권위적인 SF 문학상 휴고상과 네뷸러상을 동시 수상했던 '듄'은 영화 '스타워즈' '에이리언' '매트]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2FIZE%2F20211018144920270jzxc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식]라미란·정일우·김슬기·백현진, 영화 '고속도로 가족' 캐스팅..15일 크랭크인 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211018144354912</link>
-            <guid>https://v.daum.net/v/20211018144354912</guid>
-            <pubDate>Mon, 18 Oct 2021 06:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이승미 기자]라미란, 정일우, 김슬기, 백현진까지 믿고 보는 연기력의 배우진 주연의 영화 '고속도로 가족'(이상문 감독, 영화사 설렘·고고스튜디오 제작)이 지난 15일 크랭크인해 첫 촬영에 돌입했다. 영화 '고속도로 가족'은 고속도로 휴게소를 따라 캠핑 같은 노숙생활을 하는 한 가족과 우연히 그들의 손을 잡게 된 부부의 만남과 새]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2FSpoChosun%2F20211018144354362syal.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[라미란 정일우 김슬기 백현진 '고속도로 가족' 출연 확정, 첫 촬영 돌입 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211018143446542</link>
-            <guid>https://v.daum.net/v/20211018143446542</guid>
-            <pubDate>Mon, 18 Oct 2021 06:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 배우 라미란, 정일우, 김슬기, 백현진이 '고속도로 가족'으로 뭉친다. 영화 ‘고속도로 가족’(감독 이상문)이 지난 15일 크랭크인해 첫 촬영에 돌입했다. ‘고속도로 가족’은 고속도로 휴게소를 따라 캠핑 같은 노숙생활을 하는 한 가족과 우연히 그들의 손을 잡게 된 부부의 만남과 새로운 가족이 탄생하는 과정을 그려나간다. 차가운 현]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2Fnewsen%2F20211018143446926vnyo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식] 넷플릭스 마스터피스 '더 하더 데이 폴'→'돈 룩 업', 20일부터 극장 개봉 확정 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211018143404505</link>
-            <guid>https://v.daum.net/v/20211018143404505</guid>
-            <pubDate>Mon, 18 Oct 2021 06:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 세계적인 인터넷 엔터테인먼트 서비스 넷플릭스가 오는 20일 '더 하더 데이 폴'을 시작으로 '틱, 틱... 붐!' '파워 오브 도그' '언포기버블' '신의 손' '돈 룩 업'의 극장 개봉을 확정 지었다. 넷플릭스 영화 여섯 편이 국내 극장 개봉을 확정 지었다. 넷플릭스 공개에 앞서 극장에서 먼저 만날 수 있는 작품은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2FSpoChosun%2F20211018143404893wxqk.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[넷플릭스 '지옥', 이번엔 지옥행 선고다..'오징어 게임' 열풍 이을까(리뷰)[SS무비] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211018075003920</link>
+            <guid>https://movie.v.daum.net/v/20211018075003920</guid>
+            <pubDate>Mon, 18 Oct 2021 15:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 김선우기자] 연상호 감독의 새로운 세계관 ‘지옥’의 문이 열렸다. 오는 11월 19일 공개를 앞둔 넷플릭스 ‘지옥’은 예고없이 등장한 지옥의 사자들에게 사람들이 지옥행 선고를 받는 초자연적 현상이 발생하고, 이 혼란을 틈타 부흥한 종교단체 새진리회와 사건의 실체를 밝히려는 이들이 얽히면서 벌어지는 이야기를 그린다. ‘부산]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2FSPORTSSEOUL%2F20211018075007476munm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<킬링 카인드> ‘안나’의 3 NO 무삭제 클립 영상 (우리 영화 볼래?)]]></title>
@@ -1466,7 +1306,7 @@
             <link>https://tv.naver.com/v/23026321</link>
             <guid>https://tv.naver.com/v/23026321</guid>
             <pubDate>Mon, 18 Oct 2021 09:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211018_279/sWbXu_1634543445800L0CGO_PNG/1634543407317.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -1474,7 +1314,7 @@
             <link>https://tv.naver.com/v/23026084</link>
             <guid>https://tv.naver.com/v/23026084</guid>
             <pubDate>Mon, 18 Oct 2021 09:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211018_233/5q2RZ_1634542916571UiMA8_JPEG/9fcabbee-2fe6-11ec-9dda-505dac8c3607_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1482,7 +1322,7 @@
             <link>https://tv.naver.com/v/23025905</link>
             <guid>https://tv.naver.com/v/23025905</guid>
             <pubDate>Mon, 18 Oct 2021 09:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211018_215/2CzBK_16345424447275PGhE_JPEG/04b32c0b-2fe5-11ec-a3dc-246e963a464c_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1490,7 +1330,7 @@
             <link>https://tv.naver.com/v/23025876</link>
             <guid>https://tv.naver.com/v/23025876</guid>
             <pubDate>Mon, 18 Oct 2021 09:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211018_184/W2ggr_1634542365800uH8Vx_JPEG/678cf584-2fe5-11ec-8140-a0369ff963bc_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1498,7 +1338,7 @@
             <link>https://tv.naver.com/v/23025707</link>
             <guid>https://tv.naver.com/v/23025707</guid>
             <pubDate>Mon, 18 Oct 2021 09:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211018_234/Bq105_1634541988545gvEUO_JPEG/98262ba8-2fe4-11ec-9e9c-48df379cc9e4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1506,7 +1346,7 @@
             <link>https://tv.naver.com/v/23025482</link>
             <guid>https://tv.naver.com/v/23025482</guid>
             <pubDate>Mon, 18 Oct 2021 09:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211018_210/8BfV1_16345415568078YmnG_JPEG/8cefccb9-2fe3-11ec-a74c-48df379ccacc_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1514,7 +1354,7 @@
             <link>https://tv.naver.com/v/23024988</link>
             <guid>https://tv.naver.com/v/23024988</guid>
             <pubDate>Mon, 18 Oct 2021 07:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211018_286/yHyyj_1634540556491RxRYw_JPEG/046a128b-2fe1-11ec-b0b6-246e963a4708_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1522,7 +1362,7 @@
             <link>https://tv.naver.com/v/23023375</link>
             <guid>https://tv.naver.com/v/23023375</guid>
             <pubDate>Mon, 18 Oct 2021 06:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211018_110/ViF2N_1634536745849pIsfd_JPEG/1634536679660.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1530,7 +1370,7 @@
             <link>https://tv.naver.com/v/23023033</link>
             <guid>https://tv.naver.com/v/23023033</guid>
             <pubDate>Mon, 18 Oct 2021 06:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211018_276/5TFJr_1634535722950pEXsD_JPEG/f28a6c24-2fd5-11ec-bc73-a0369ff968b0_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1538,7 +1378,7 @@
             <link>https://tv.naver.com/v/23022796</link>
             <guid>https://tv.naver.com/v/23022796</guid>
             <pubDate>Mon, 18 Oct 2021 06:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211018_186/mbgfB_1634535118970BHwXd_JPEG/99cfd791-2fd4-11ec-b2c0-505dac8c38f5_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1546,7 +1386,7 @@
             <link>https://tv.naver.com/v/23022605</link>
             <guid>https://tv.naver.com/v/23022605</guid>
             <pubDate>Mon, 18 Oct 2021 06:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211018_266/a0s0c_1634534668532ImwnJ_JPEG/74992109-2fd3-11ec-9970-a0369ff94ec8_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1554,7 +1394,7 @@
             <link>https://tv.naver.com/v/23022569</link>
             <guid>https://tv.naver.com/v/23022569</guid>
             <pubDate>Mon, 18 Oct 2021 06:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211018_10/ngpfB_1634534567389RLs7E_JPEG/54b3d8b2-2fd3-11ec-a713-a0369ff95ec0_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1562,7 +1402,7 @@
             <link>https://tv.naver.com/v/23022543</link>
             <guid>https://tv.naver.com/v/23022543</guid>
             <pubDate>Mon, 18 Oct 2021 06:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211018_121/Lz7QM_1634534510335iD0TF_JPEG/1f67bdb6-2fd3-11ec-b2c0-505dac8c38f5_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1570,7 +1410,7 @@
             <link>https://tv.naver.com/v/23019579</link>
             <guid>https://tv.naver.com/v/23019579</guid>
             <pubDate>Mon, 18 Oct 2021 03:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211018_40/H9ovp_1634525480477aM7ep_JPEG/1202ae48-2fbe-11ec-9e9c-48df379cc9e4_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1578,7 +1418,7 @@
             <link>https://tv.naver.com/v/23017704</link>
             <guid>https://tv.naver.com/v/23017704</guid>
             <pubDate>Mon, 18 Oct 2021 02:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211018_85/IqkS2_1634519025528ewMcj_JPEG/8010eb31-2fae-11ec-9a6e-246e963a49a8_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1586,7 +1426,7 @@
             <link>https://tv.naver.com/v/23017538</link>
             <guid>https://tv.naver.com/v/23017538</guid>
             <pubDate>Mon, 18 Oct 2021 00:55:05 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211018_259/cqyAq_1634518311340q60rz_JPEG/56406134-2fad-11ec-a74c-48df379ccacc_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
