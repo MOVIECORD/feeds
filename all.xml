@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 12:26:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 13:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CGV, '더 하더 데이 폴'·'돈 룩 업' 등 넷플릭스 영화 6편 극장 개봉(공식) (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003488555</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003488555</guid>
+            <pubDate>Tue, 19 Oct 2021 13:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드POP=이미지 기자] 다양한 콘텐츠를 스크린에 선보이기 위해 새로운 시도를 이어가고 있는 CGV가 넷플릭스와 손잡고 올해 말까지 6편의 영화를 극장에서 선보일 예정이다. CGV는 '더 하더 데이 폴' 등 넷플]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[노회찬 욕하는 분들께 이 티켓을 드리고 싶습니다 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002329923</link>
@@ -174,13 +181,6 @@
             <guid>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000324370</guid>
             <pubDate>Tue, 19 Oct 2021 08:18:46 GMT</pubDate>
             <content:encoded><![CDATA[[스포티비뉴스=김현록 기자]마블 스튜디오 신작을 비롯한 디즈니 영화들의 개봉일이 대거 연기됐다. 18일 외신에 따르면 디즈니는 '닥터 스트레인지2', '토르4', '블랙팬서2'를 비롯한 다수 MCU(마블 시네마틱 유]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마동석, 마블 ‘이터널스’ 美 행사 연인 예정화와 동행 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=020&amp;aid=0003388204</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=020&amp;aid=0003388204</guid>
-            <pubDate>Tue, 19 Oct 2021 08:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[배우 마동석이 마블 스튜디오 영화 ‘이터널스’ 월드 프리미어 행사에 참석했다. 마동석과 5년째 공개 열애 중인 방송인 배우 예정화도 이 자리에 함께 했다. 18일(현지시각) 미국 로스엔젤레스에 위치한 돌비 극장에서]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[베놈 2: 렛 데어 비 카니지 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -431,6 +431,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F30f1122eadc03b80771fbc73ac97ff66238f952c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[피치 오브 타임 극장판 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153632</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153632</guid>
+            <pubDate>Wed, 13 Oct 2021 23:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5226fcd810e4295035e794f31abe77f982a7a380" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[동백 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143264</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143264</guid>
@@ -470,14 +478,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc426feb884aa0784c993bfa4870656d7dd8a60c7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[피치 오브 타임 극장판 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153632</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153632</guid>
-            <pubDate>Wed, 13 Oct 2021 23:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5226fcd810e4295035e794f31abe77f982a7a380" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[바이크 솔저 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153808</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153808</guid>
@@ -510,20 +510,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F19%2Fmydaily%2F20211019150827853yxlj.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA[마동석, 6년째 ♥중 예정화와 '이터널스' 레드카펫 동행..졸리와 포옹[종합] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211019151647055</link>
-            <guid>https://movie.v.daum.net/v/20211019151647055</guid>
-            <pubDate>Tue, 19 Oct 2021 07:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 마동석이 '이터널스'로 할리우드 레드카펫에 당당히 섰다. 그와 6년째 열애 중인 예정화도 함께 했다. 마동석은 10월 18일(현지시간) 미국 캘리포니아 주 로스앤젤레스 할리우드 돌비극장에서 열린 영화 '이터널스'(감독 클로이 자오) 시사회에 참석, 레드카펫에서 현지 언론과의 인터뷰를 갖고 개봉을 앞둔 떨리는 마음을 전했다. 이날 현]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F19%2Fnewsen%2F20211019151648051vmtf.jpg" length="0" type="image//thumb/S732x228/"/>
-        </item>
-        <item>
             <title><![CDATA[이번엔 강릉에 별이 뜬다 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211019111619410</link>
             <guid>https://movie.v.daum.net/v/20211019111619410</guid>
             <pubDate>Tue, 19 Oct 2021 08:19:08 GMT</pubDate>
             <content:encoded><![CDATA[[서울경제] 올해로 3회째를 맞은 강릉국제영화제(GIFF2021, 이사장 김동호)가 오는 22일부터 강원 강릉 일대에서 10일 간의 일정으로 열린다. 코로나 19 탓에 힘들었던 지난 해와 달리 올해는 국내외 영화인들이 대거 강릉을 찾는다. 영화제 프로그램도 더 풍성해졌다. 개봉 20주년을 맞은 영화 ‘봄날은 간다’ 스페셜 토크, 아시아 영화 학술 포럼,]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F19%2Fseouleconomy%2F20211019111625286kpwe.jpg" length="0" type="image//thumb/S384x240/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F19%2Fseouleconomy%2F20211019111625286kpwe.jpg" length="0" type="image//thumb/S732x228/"/>
+        </item>
+        <item>
+            <title><![CDATA[마동석, 6년째 ♥중 예정화와 '이터널스' 레드카펫 동행..졸리와 포옹[종합] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211019151647055</link>
+            <guid>https://movie.v.daum.net/v/20211019151647055</guid>
+            <pubDate>Tue, 19 Oct 2021 07:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 마동석이 '이터널스'로 할리우드 레드카펫에 당당히 섰다. 그와 6년째 열애 중인 예정화도 함께 했다. 마동석은 10월 18일(현지시간) 미국 캘리포니아 주 로스앤젤레스 할리우드 돌비극장에서 열린 영화 '이터널스'(감독 클로이 자오) 시사회에 참석, 레드카펫에서 현지 언론과의 인터뷰를 갖고 개봉을 앞둔 떨리는 마음을 전했다. 이날 현]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F19%2Fnewsen%2F20211019151648051vmtf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[졸리, '연대생' 매덕스 등 5남매와 레드카펫..독특한 턱 장식 '여신美' (다음영화 뉴스 ─ 인기)]]></title>
@@ -542,14 +542,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F19%2Fohmynews%2F20211019151205358bjmg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[SC이슈]예정화, 연인 ♥마동석과 '이터널스' 월드프리미어 동행..남친 소개로 졸리와 포옹 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211019133906529</link>
-            <guid>https://movie.v.daum.net/v/20211019133906529</guid>
-            <pubDate>Tue, 19 Oct 2021 05:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이승미 기자] 예정화가 연인 마동석의 첫 할리우드 데뷔작 '이터널스'의 월드프리미어 행사에 참석, 6년째 굳건한 애정을 과시했다. 18일(현지시각) 미국 로스엔젤레스에 위치한 돌비 극장에서 마동석의 첫 할리우드 진출작이자 MCU(마블 시네마틱 유니버스) 최대 기대작인 '이터널스' 월드 프리미어 행사가 진행된 가운데, 마동석의 연인]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F19%2FSpoChosun%2F20211019151054579cekb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[최연소 빌리 아일리시도 통했다 '007 노 타임 투 다이' 뜨거운 오프닝 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211019085634257</link>
             <guid>https://movie.v.daum.net/v/20211019085634257</guid>
@@ -566,12 +558,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F19%2Fnewsis%2F20211019113150054mtng.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[종합] "돈 리 ♥연인으로 공식 초청 받아"..예정화, 마동석 손잡고 '이터널스' 美프리미어行 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211019145819270</link>
-            <guid>https://movie.v.daum.net/v/20211019145819270</guid>
-            <pubDate>Tue, 19 Oct 2021 06:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 방송인 예정화가 연인 마동석의 첫 마블 작품인 액션 영화 '이터널스'(클로이 자오 감독) 월드 프리미어 행사에 참석, 남자친구의 도전을 적극 지지하고 응원했다. '이터널스'는 18일 오후(현지 시각) 미국 로스엔젤레스에 위치한 돌비 극장에서 월드 프리미어를 개최, 올해 최대 기대작의 위용을 드러냈다. 이날 월드 프리]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F19%2FSpoChosun%2F20211019155814169ginl.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[SC이슈]예정화, 연인 ♥마동석과 '이터널스' 월드프리미어 동행..남친 소개로 졸리와 포옹 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211019133906529</link>
+            <guid>https://movie.v.daum.net/v/20211019133906529</guid>
+            <pubDate>Tue, 19 Oct 2021 05:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자] 예정화가 연인 마동석의 첫 할리우드 데뷔작 '이터널스'의 월드프리미어 행사에 참석, 6년째 굳건한 애정을 과시했다. 18일(현지시각) 미국 로스엔젤레스에 위치한 돌비 극장에서 마동석의 첫 할리우드 진출작이자 MCU(마블 시네마틱 유니버스) 최대 기대작인 '이터널스' 월드 프리미어 행사가 진행된 가운데, 마동석의 연인]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F19%2FSpoChosun%2F20211019151054579cekb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[전 세계 영화제를 사로잡은 괴물 같은 공포의 탄생! '보이 비하인드 도어' (다음영화 뉴스 ─ 인기)]]></title>
@@ -582,12 +574,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F19%2Fnewsen%2F20211019162123544vsrx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[넷플릭스 영화, 극장에서 본다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211019080002090</link>
-            <guid>https://movie.v.daum.net/v/20211019080002090</guid>
-            <pubDate>Tue, 19 Oct 2021 00:55:26 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 콘텐츠를 스크린에 선보이기 위해 새로운 시도를 이어가고 있는 CGV가 넷플릭스와 손잡고 올해 말까지 6편의 영화를 극장에서 선보인다. CGV 측은 지난 18일 '더 하더 데이 폴' 등 넷플릭스 영화 6편을 CGV를 비롯한 극장에서 개봉한다고  밝혔다. 이는 지난 9월 진행된 NETFIC(넷픽, NETFLIX IN CGV) 특별전에 이은 넷플릭스와의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F19%2Fhankooki%2F20211019080005418akow.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[종합] "돈 리 ♥연인으로 공식 초청 받아"..예정화, 마동석 손잡고 '이터널스' 美프리미어行 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211019145819270</link>
+            <guid>https://movie.v.daum.net/v/20211019145819270</guid>
+            <pubDate>Tue, 19 Oct 2021 06:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 방송인 예정화가 연인 마동석의 첫 마블 작품인 액션 영화 '이터널스'(클로이 자오 감독) 월드 프리미어 행사에 참석, 남자친구의 도전을 적극 지지하고 응원했다. '이터널스'는 18일 오후(현지 시각) 미국 로스엔젤레스에 위치한 돌비 극장에서 월드 프리미어를 개최, 올해 최대 기대작의 위용을 드러냈다. 이날 월드 프리]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F19%2FSpoChosun%2F20211019155814169ginl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[현실과 초현실을 넘나드는 기이한 잔혹동화..영화 '아네트' (다음영화 뉴스 ─ 인기)]]></title>
@@ -606,12 +598,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F19%2FSpoChosun%2F20211019095833029vyez.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['메이드 인 이태리' 리암 니슨, 친아들과 동반 출연 "아내 잃은 슬픔, 진짜 내 이야기" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211018201441964</link>
-            <guid>https://movie.v.daum.net/v/20211018201441964</guid>
+            <title><![CDATA[넷플릭스 영화, 극장에서 본다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211019080002090</link>
+            <guid>https://movie.v.daum.net/v/20211019080002090</guid>
             <pubDate>Tue, 19 Oct 2021 00:55:26 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 전 세계가 사랑하는 액션 마스터 리암 니슨이 전매특허 액션 장르가 아닌, 로맨틱 힐링 영화 '메이드 인 이태리'(감독 제임스 다시)로 돌아왔다. 할리우드 명장들을 사로잡았던 진정성 넘치는 열연으로 관객들과 만날 리암 니슨은 친아들이자 라이징 스타인 마이클 리처드슨과 아버지와 아들로 분해, 진짜 가족이 선보이는 조화를 예고하며]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2Fxportsnews%2F20211018201443083mhpx.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[다양한 콘텐츠를 스크린에 선보이기 위해 새로운 시도를 이어가고 있는 CGV가 넷플릭스와 손잡고 올해 말까지 6편의 영화를 극장에서 선보인다. CGV 측은 지난 18일 '더 하더 데이 폴' 등 넷플릭스 영화 6편을 CGV를 비롯한 극장에서 개봉한다고  밝혔다. 이는 지난 9월 진행된 NETFIC(넷픽, NETFLIX IN CGV) 특별전에 이은 넷플릭스와의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F19%2Fhankooki%2F20211019080005418akow.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['베놈2' 39개국 박스오피스 1위, 전세계 수익 2억8300만 달러 돌파 (다음영화 뉴스 ─ 인기)]]></title>
@@ -630,20 +622,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F19%2FSpoChosun%2F20211019131141909yuna.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[HI★초점]日 감독들의 이유 있는 한국 영화 제작 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211019091502950</link>
-            <guid>https://movie.v.daum.net/v/20211019091502950</guid>
+            <title><![CDATA['메이드 인 이태리' 리암 니슨, 친아들과 동반 출연 "아내 잃은 슬픔, 진짜 내 이야기" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211018201441964</link>
+            <guid>https://movie.v.daum.net/v/20211018201441964</guid>
             <pubDate>Tue, 19 Oct 2021 00:55:26 GMT</pubDate>
-            <content:encoded><![CDATA[미이케 다카시 감독부터 이시이 유야 감독, 고레에다 히로카즈 감독까지 일본 거장들과 국내 배우들의 협업이 계속 이뤄지고 있다. 특히 일본 감독이 한국에서 영화를 연출하는 드물었던 사례가 이어지는 중이다. 이는 한국 배우들의 높아진 위상 덕분이다. 언어와 문화의 차이를 넘어 전달되는 감정을 위해 일본 거장들과 국내 톱배우들이 만났다는 점에서 아시아를 넘어 전]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F19%2Fhankooki%2F20211019091504994gbbb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['고속도로 가족' 라미란x정일우x김슬기x백현진 출연 확정, 15일 크랭크인 [공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211019151407962</link>
-            <guid>https://movie.v.daum.net/v/20211019151407962</guid>
-            <pubDate>Tue, 19 Oct 2021 11:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 라미란, 정일우, 김슬기, 백현진까지 믿고 보는 연기력의 배우진 주연의 '고속도로 가족'이 지난 15일 크랭크인해 첫 촬영에 돌입했다. 영화 ‘고속도로 가족’(감독 이상문·제작 영화사 설렘)은 고속도로 휴게소를 따라 캠핑 같은 노숙생활을 하는 한 가족과 우연히 그들의 손을 잡게 된 부부의 만남과 새로운 가족이 탄생하는 과정을 그]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F19%2Ftvdaily%2F20211019151408204bahb.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 전 세계가 사랑하는 액션 마스터 리암 니슨이 전매특허 액션 장르가 아닌, 로맨틱 힐링 영화 '메이드 인 이태리'(감독 제임스 다시)로 돌아왔다. 할리우드 명장들을 사로잡았던 진정성 넘치는 열연으로 관객들과 만날 리암 니슨은 친아들이자 라이징 스타인 마이클 리처드슨과 아버지와 아들로 분해, 진짜 가족이 선보이는 조화를 예고하며]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F18%2Fxportsnews%2F20211018201443083mhpx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[공식]조진웅 내레이션 다큐 영화 '1984 최동원', 11월 11일 개봉 확정 (다음영화 뉴스 ─ 인기)]]></title>
@@ -654,12 +638,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F19%2FSpoChosun%2F20211019152357220ohfs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[마블 영화 늦어진다..'인디아나 존스' 5편 개봉 2023년으로 연기 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211019075543030</link>
-            <guid>https://movie.v.daum.net/v/20211019075543030</guid>
+            <title><![CDATA['고속도로 가족' 라미란x정일우x김슬기x백현진 출연 확정, 15일 크랭크인 [공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211019151407962</link>
+            <guid>https://movie.v.daum.net/v/20211019151407962</guid>
+            <pubDate>Tue, 19 Oct 2021 11:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 라미란, 정일우, 김슬기, 백현진까지 믿고 보는 연기력의 배우진 주연의 '고속도로 가족'이 지난 15일 크랭크인해 첫 촬영에 돌입했다. 영화 ‘고속도로 가족’(감독 이상문·제작 영화사 설렘)은 고속도로 휴게소를 따라 캠핑 같은 노숙생활을 하는 한 가족과 우연히 그들의 손을 잡게 된 부부의 만남과 새로운 가족이 탄생하는 과정을 그]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F19%2Ftvdaily%2F20211019151408204bahb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[HI★초점]日 감독들의 이유 있는 한국 영화 제작 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211019091502950</link>
+            <guid>https://movie.v.daum.net/v/20211019091502950</guid>
             <pubDate>Tue, 19 Oct 2021 00:55:26 GMT</pubDate>
-            <content:encoded><![CDATA[[한국경제TV 이영호 기자] 액션 모험 영화 시리즈 '인디아나 존스' 5편의 개봉 일정이 2023년으로 연기됐다. 또 '닥터 스트레인지', '토르', '블랙 팬서' 속편 등 마블 히어로 영화들의 출시 일정도 일제히 재조정됐다. 미국 영화 제작사 디즈니는 18일(현지시간) 이러한 내용의 신작 영화 개봉 일정을 새로 발표했다고 AP 통신 등이 보도했다. '인디]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F19%2Fkedtv%2F20211019075543532ollc.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[미이케 다카시 감독부터 이시이 유야 감독, 고레에다 히로카즈 감독까지 일본 거장들과 국내 배우들의 협업이 계속 이뤄지고 있다. 특히 일본 감독이 한국에서 영화를 연출하는 드물었던 사례가 이어지는 중이다. 이는 한국 배우들의 높아진 위상 덕분이다. 언어와 문화의 차이를 넘어 전달되는 감정을 위해 일본 거장들과 국내 톱배우들이 만났다는 점에서 아시아를 넘어 전]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F19%2Fhankooki%2F20211019091504994gbbb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['그런 사람은 미치거나 전설적으로 되죠'..'가을의 전설' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211019113907432</link>
+            <guid>https://movie.v.daum.net/v/20211019113907432</guid>
+            <pubDate>Tue, 19 Oct 2021 13:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]고다연 인턴 기자 = 영화 '가을의 전설'이 우드 스퀘어 이미지 2종을 공개했다. 오는 27일 재개봉하는 영화 '가을의 전설'이 영화 속 명장면과 명대사를 담은 우드 스퀘어 이미지 2종을 공개해 눈길을 끌었다. 공개된 우드 스퀘어 이미지에는 '러드로우' 가문의 세 형제와 '수잔나'의 행복한 모습, 그리고 말을 탄 '브래드 피트'의 모습이 일]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F19%2Fnewsis%2F20211019113907903dgfv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[노회찬 욕하는 분들께 이 티켓을 드리고 싶습니다 (다음영화 뉴스 ─ 최신)]]></title>
@@ -1466,7 +1466,7 @@
             <link>https://tv.naver.com/v/23049652</link>
             <guid>https://tv.naver.com/v/23049652</guid>
             <pubDate>Tue, 19 Oct 2021 09:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211019_173/RdhcE_1634633788793iVJGo_JPEG/38d4242c-30ba-11ec-ba2c-505dac8c385b_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1474,7 +1474,7 @@
             <link>https://tv.naver.com/v/23047941</link>
             <guid>https://tv.naver.com/v/23047941</guid>
             <pubDate>Tue, 19 Oct 2021 08:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211019_134/hV1KW_16346300800836cJVa_JPEG/977bf348-30b1-11ec-9a33-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1482,7 +1482,7 @@
             <link>https://tv.naver.com/v/23045731</link>
             <guid>https://tv.naver.com/v/23045731</guid>
             <pubDate>Tue, 19 Oct 2021 07:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211019_47/uvTFa_1634624895496GCTIy_JPEG/39b07c68-30a4-11ec-9ee0-a0369ff94ed0_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1490,7 +1490,7 @@
             <link>https://tv.naver.com/v/23044592</link>
             <guid>https://tv.naver.com/v/23044592</guid>
             <pubDate>Tue, 19 Oct 2021 06:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211019_36/SIvxf_1634622414028gUsTy_JPEG/da86bfe6-309f-11ec-9dda-505dac8c3607_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1498,7 +1498,7 @@
             <link>https://tv.naver.com/v/23044467</link>
             <guid>https://tv.naver.com/v/23044467</guid>
             <pubDate>Tue, 19 Oct 2021 06:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211019_295/8F5Nz_16346221309909oJr5_JPEG/2d6cf00c-309f-11ec-9e9c-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1506,7 +1506,7 @@
             <link>https://tv.naver.com/v/23044270</link>
             <guid>https://tv.naver.com/v/23044270</guid>
             <pubDate>Tue, 19 Oct 2021 06:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211019_274/PVT7L_1634621777967qRQps_JPEG/353cdd32-309e-11ec-a979-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1514,7 +1514,7 @@
             <link>https://tv.naver.com/v/23044109</link>
             <guid>https://tv.naver.com/v/23044109</guid>
             <pubDate>Tue, 19 Oct 2021 06:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211019_127/gPJiN_1634621419608FzOm0_JPEG/6a856b23-309d-11ec-b39d-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1522,7 +1522,7 @@
             <link>https://tv.naver.com/v/23043856</link>
             <guid>https://tv.naver.com/v/23043856</guid>
             <pubDate>Tue, 19 Oct 2021 06:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211019_36/Eg95y_1634620832110XTxKR_JPEG/f5ec22f1-309b-11ec-9b44-a0369ff95678_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1530,7 +1530,7 @@
             <link>https://tv.naver.com/v/23042500</link>
             <guid>https://tv.naver.com/v/23042500</guid>
             <pubDate>Tue, 19 Oct 2021 04:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211019_294/Em1mZ_1634617083199TxL6H_JPEG/6a7a52ff-3093-11ec-a74c-48df379ccacc_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1538,7 +1538,7 @@
             <link>https://tv.naver.com/v/23042476</link>
             <guid>https://tv.naver.com/v/23042476</guid>
             <pubDate>Tue, 19 Oct 2021 04:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211019_118/URf7k_1634617017759wFTzO_JPEG/4498c112-3093-11ec-a979-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1546,7 +1546,7 @@
             <link>https://tv.naver.com/v/23042378</link>
             <guid>https://tv.naver.com/v/23042378</guid>
             <pubDate>Tue, 19 Oct 2021 04:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211019_54/QP0wE_1634616659579bUJx3_JPEG/8096fdc1-3092-11ec-b2c0-505dac8c38f5_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1554,7 +1554,7 @@
             <link>https://tv.naver.com/v/23041041</link>
             <guid>https://tv.naver.com/v/23041041</guid>
             <pubDate>Tue, 19 Oct 2021 03:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211019_66/eSxIG_1634611721293nAKq6_JPEG/c22e2e1c-3086-11ec-9dda-505dac8c3607_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1562,7 +1562,7 @@
             <link>https://tv.naver.com/v/23038938</link>
             <guid>https://tv.naver.com/v/23038938</guid>
             <pubDate>Tue, 19 Oct 2021 02:03:54 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211019_216/SdoUy_1634605698921eSmuT_JPEG/b296f8c0-3078-11ec-9dda-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
