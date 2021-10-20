@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-20T20:17:30.638Z</updated>
+    <updated>2021-10-20T21:15:02.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국영화아카데미, 부천국제애니메이션페스티벌 특별전]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010782493</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010782493"/>
+        <updated>2021-10-20T21:13:41.920Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 김지은 기자 = 한국영화아카데미(KAFA)는 22일∼26일 제23회 부천국제애니메이션페스티벌(BIAF2021)에서 'BIAF2021 특별전: KAFA, 한국 영화(애니메이션)의 파수꾼'을 연다. 장·]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[키아누 리브스, 18년 만에 부활…'매트릭스4' 12월 개봉]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010782491</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000324578"/>
         <updated>2021-10-20T10:17:14.588Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]더욱 확장된 MCU의 새로운 시작을 알리며 '어벤져스' 시리즈의 전설을 이어갈 영화 '이터널스(ETERNALS)'가 지난 18일(현지 기준) LA에서 열린 월드 프리미어를 성황리에 개최,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김선호, '1박 2일' 하차 이어 영화 출연도 줄취소(종합2보)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012736283</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012736283"/>
-        <updated>2021-10-20T10:17:14.588Z</updated>
-        <content type="html"><![CDATA['도그 데이즈'·'2시의 데이트' 취소…'슬픈열대'는 배우 교체 고심바람 잘 날 없는 '1박 2일'…정준영 이어 또 출연자 사생활 논란 김선호[tvN 제공. 재판매 및 DB 금지] (서울=연합뉴스) 오보람 김정진 기자 = 낙태 종용 의혹에 휩싸인 배우 김선호가 고정 출연 중이던 예능 '1박 2일'에서 하차한 데 이어 영화...]]></content>
     </entry>
 </feed>
