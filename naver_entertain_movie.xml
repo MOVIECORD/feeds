@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-20T19:14:38.165Z</updated>
+    <updated>2021-10-20T20:17:30.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[키아누 리브스, 18년 만에 부활…'매트릭스4' 12월 개봉]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010782491</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010782491"/>
+        <updated>2021-10-20T20:16:05.238Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 김지은 기자 = 18년 만에 돌아오는 인기 SF 시리즈 '매트릭스'의 네 번째 이야기가 12월 국내에 상륙한다. '매트릭스' 시리즈는 미래세계를 배경으로 인간의 뇌를 지배하는 컴퓨터 프로그램이자 가상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[칸영화제 감독상 '아네트' 개봉...CGV, 레오스 카락스 감독전]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010782463</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012736283"/>
         <updated>2021-10-20T10:17:14.588Z</updated>
         <content type="html"><![CDATA['도그 데이즈'·'2시의 데이트' 취소…'슬픈열대'는 배우 교체 고심바람 잘 날 없는 '1박 2일'…정준영 이어 또 출연자 사생활 논란 김선호[tvN 제공. 재판매 및 DB 금지] (서울=연합뉴스) 오보람 김정진 기자 = 낙태 종용 의혹에 휩싸인 배우 김선호가 고정 출연 중이던 예능 '1박 2일'에서 하차한 데 이어 영화...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이정재, 정우성과 ‘투샷’에…팬들 “영화 ‘헌트’ 대박 느낌”]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001478355</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001478355"/>
-        <updated>2021-10-20T10:17:14.589Z</updated>
-        <content type="html"><![CDATA[배우 이정재가 정우성과 촬영 중인 영화 ‘헌트’의 현장 모습을 공개했다. 최근 ‘오징어 게임’ 인기몰이 후 SNS 계정을 오픈한 이정재는 본인의 인스타그램에 “#hunt #정우성”이라는 글과 함께 5장의 사진을 올렸]]></content>
     </entry>
 </feed>
