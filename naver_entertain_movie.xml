@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-20T16:25:27.814Z</updated>
+    <updated>2021-10-20T17:21:47.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[칸영화제 감독상 '아네트' 개봉...CGV, 레오스 카락스 감독전]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010782463</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010782463"/>
+        <updated>2021-10-20T17:20:22.914Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 김지은 기자 = 올해 칸국제영화제 개막작이자 감독상 수상작인 '아네트' 개봉을 기념해 레오스 카락스 감독전이 마련됐다. 예술영화 전용관은 아트나인은 10월의 월례 기획전 '영화의 원초적 감각:레오스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신세경, 日 칵테일바 우연 (‘어나더 레코드’)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000939724</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001478355"/>
         <updated>2021-10-20T10:17:14.589Z</updated>
         <content type="html"><![CDATA[배우 이정재가 정우성과 촬영 중인 영화 ‘헌트’의 현장 모습을 공개했다. 최근 ‘오징어 게임’ 인기몰이 후 SNS 계정을 오픈한 이정재는 본인의 인스타그램에 “#hunt #정우성”이라는 글과 함께 5장의 사진을 올렸]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고백부부'→'와이키키'→'심야카페'..이이경, 종횡무진 열일 중]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004494869</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004494869"/>
-        <updated>2021-10-20T10:17:14.589Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 배우 이이경이 영화 ‘심야카페’ 캐스팅을 확정 지었다. 2019년 MBC에서 방영된 드라마 ‘심야카페’를 원작으로 제작된 영화 ‘심야카페’는 부산 산복도로를 배경으로 지도에는 나오지 않는 시]]></content>
     </entry>
 </feed>
