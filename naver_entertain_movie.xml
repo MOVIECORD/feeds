@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-20T15:17:42.731Z</updated>
+    <updated>2021-10-20T16:25:27.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신세경, 日 칵테일바 우연 (‘어나더 레코드’)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000939724</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000939724"/>
+        <updated>2021-10-20T16:23:55.167Z</updated>
+        <content type="html"><![CDATA[배우 신세경과 김종관 감독의 특별한 우연이 공개된다. 신세경의 아무도 몰랐던 이야기를 다룬 시네마틱 리얼 다큐멘터리 영화 '어나더 레코드'가 배우 신세경과 김종관 감독이 경험한 특별하고 놀라운 우연에 대한 일화로 관]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘인천 영화 주간 2021’ 23일 개막식 이어 시네마콘서트 열린다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000768579</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004494869"/>
         <updated>2021-10-20T10:17:14.589Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 배우 이이경이 영화 ‘심야카페’ 캐스팅을 확정 지었다. 2019년 MBC에서 방영된 드라마 ‘심야카페’를 원작으로 제작된 영화 ‘심야카페’는 부산 산복도로를 배경으로 지도에는 나오지 않는 시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘한창나이 선녀님’, 관객들의 호평 릴레이 “진한 감동”]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000939629</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000939629"/>
-        <updated>2021-10-20T10:17:14.590Z</updated>
-        <content type="html"><![CDATA[20일 개봉한 다큐멘터리영화 ‘한창나이 선녀님’이 관객들의 호평을 받으면서 흥행에 시동을 걸고 있다. ‘한창나이 선녀님’은 강원도 산골 68세 임선녀 할머니의 일상을 담아 오늘을 살아낼 힘을 주는 산골짜기 ‘나 혼자]]></content>
     </entry>
 </feed>
