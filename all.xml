@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 11:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 12:27:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -319,14 +319,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc24b8adacb651651211cb925510fa804701d5074" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[용과 주근깨 공주 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152198</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152198</guid>
-            <pubDate>Thu, 21 Oct 2021 11:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ad31d50eedd1586704f0af288025b3f85917fdb" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[고양이를 부탁해 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=3186</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=3186</guid>
@@ -341,6 +333,14 @@
             <pubDate>Thu, 21 Oct 2021 08:18:50 GMT</pubDate>
             <content:encoded><![CDATA[21.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ab42f8d99b9b6a6bceb169917a3a0c2c222e942" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[그래비티 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=59546</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=59546</guid>
+            <pubDate>Thu, 21 Oct 2021 12:25:47 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc53f25fab367858eafb3fe1b319229f7ec019654" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[고장난 론 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -503,14 +503,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb4c394a1c06e3638e15f07608d8cf45f6e55c325" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA["송강호와 함께 하는 '도둑들', 이 세계에선 가능하다" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211020163904703</link>
-            <guid>https://movie.v.daum.net/v/20211020163904703</guid>
-            <pubDate>Thu, 21 Oct 2021 00:57:13 GMT</pubDate>
-            <content:encoded><![CDATA[[하성태 기자] &nbsp;        ▲ &nbsp;영화 &lt;레드 아이즈&gt;의 벤쿠버 국제영화제 포스터.    ⓒ  K'ARTS AT, 영화사진   &nbsp; 한국 영화 한 편이 지난 9일 폐막한 2021 밴쿠버 국제영화제에서 관객상을 수상했다. 한데 섹션이 무척이나 생소한 듯 또 얼핏 익숙하다. 이름 하여 '실감미디어' (VIFF Immersed- Cinematic Categor]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F20%2Fohmynews%2F20211020163905921rvhl.jpg" length="0" type="image//thumb/S732x228/"/>
-        </item>
-        <item>
             <title><![CDATA[이채영-정혜인 주연 '여타짜' 11월 개봉 확정[공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211021153722344</link>
             <guid>https://movie.v.daum.net/v/20211021153722344</guid>
@@ -519,12 +511,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F21%2Fnewsen%2F20211021153723052sruc.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA["북한으로 돌아가고파" 그녀의 과격하고 무모한 투쟁 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211020144201533</link>
-            <guid>https://movie.v.daum.net/v/20211020144201533</guid>
+            <title><![CDATA["송강호와 함께 하는 '도둑들', 이 세계에선 가능하다" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211020163904703</link>
+            <guid>https://movie.v.daum.net/v/20211020163904703</guid>
             <pubDate>Thu, 21 Oct 2021 00:57:13 GMT</pubDate>
-            <content:encoded><![CDATA[[이선필 기자] &nbsp;        ▲ &nbsp;다큐멘터리 영화 &lt;그림자 꽃&gt; 관련 이미지.    ⓒ 엣나인필름  &nbsp; 사람 대 사람이 아닌 이념과 체제를 들이대는 순간 모든 화해의 가능성은 사라질 것이다. 이 단순한 진리를 다들 알고 있음에도 분단된 한반도에서만큼은 쉽사리 통하질 않는다. 포로 귀환 문제, 간첩 조작 사건 등 그간 여러 다큐멘터리가 이런 현실을 조명했]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F20%2Fohmynews%2F20211020144202484psny.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[하성태 기자] &nbsp;        ▲ &nbsp;영화 &lt;레드 아이즈&gt;의 벤쿠버 국제영화제 포스터.    ⓒ  K'ARTS AT, 영화사진   &nbsp; 한국 영화 한 편이 지난 9일 폐막한 2021 밴쿠버 국제영화제에서 관객상을 수상했다. 한데 섹션이 무척이나 생소한 듯 또 얼핏 익숙하다. 이름 하여 '실감미디어' (VIFF Immersed- Cinematic Categor]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F20%2Fohmynews%2F20211020163905921rvhl.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
             <title><![CDATA[키아누 리브스, 18년 만에 부활..'매트릭스4' 12월 개봉 (다음영화 뉴스 ─ 인기)]]></title>
@@ -533,6 +525,14 @@
             <pubDate>Thu, 21 Oct 2021 08:19:04 GMT</pubDate>
             <content:encoded><![CDATA[[서울=뉴시스] 김지은 기자 = 18년 만에 돌아오는 인기 SF 시리즈 '매트릭스'의 네 번째 이야기가 12월 국내에 상륙한다. '매트릭스' 시리즈는 미래세계를 배경으로 인간의 뇌를 지배하는 컴퓨터 프로그램이자 가상현실 공간인 매트릭스에서 인공지능 컴퓨터와 이에 대항하는 인간들 사이의 대결을 그린 SF 액션 블록버스터다. 1999년 첫 등장해 센세이션]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F21%2Fnewsis%2F20211021050507209rzuh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["북한으로 돌아가고파" 그녀의 과격하고 무모한 투쟁 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211020144201533</link>
+            <guid>https://movie.v.daum.net/v/20211020144201533</guid>
+            <pubDate>Thu, 21 Oct 2021 00:57:13 GMT</pubDate>
+            <content:encoded><![CDATA[[이선필 기자] &nbsp;        ▲ &nbsp;다큐멘터리 영화 &lt;그림자 꽃&gt; 관련 이미지.    ⓒ 엣나인필름  &nbsp; 사람 대 사람이 아닌 이념과 체제를 들이대는 순간 모든 화해의 가능성은 사라질 것이다. 이 단순한 진리를 다들 알고 있음에도 분단된 한반도에서만큼은 쉽사리 통하질 않는다. 포로 귀환 문제, 간첩 조작 사건 등 그간 여러 다큐멘터리가 이런 현실을 조명했]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F20%2Fohmynews%2F20211020144202484psny.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['오징어게임' 이정재·이유미, 강릉국제영화제 개막식 불참[공식] (다음영화 뉴스 ─ 인기)]]></title>
@@ -551,14 +551,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F20%2Fohmynews%2F20211020111202308phns.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["아드레날린 폭발"..마동석 마블 입성작 '이터널스' 호평 세례 [종합] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211020171101942</link>
-            <guid>https://movie.v.daum.net/v/20211020171101942</guid>
-            <pubDate>Thu, 21 Oct 2021 00:57:13 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp;MCU의 새로운 시작을 알리며 '어벤져스'&nbsp;시리즈의 전설을 이어갈 영화 '이터널스'가 지난 18일(현지 기준) 미국 LA에서 열린 월드 프리미어를 성황리에 개최, 폭발적인 반응을 이끌며 화제를 모으고 있다. 오는 11월 3일 개봉을 확정한 영화 '이터널스'가 지난 18일(현지 기준) 미국 LA에서 열린 월드 프리미어를 성황리에 개최]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F20%2Fpoctan%2F20211020171101338xnbt.png" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['강릉' 유오성·장혁·오대환, 거친 남자들의 강렬한 액션 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211021153822388</link>
             <guid>https://movie.v.daum.net/v/20211021153822388</guid>
@@ -567,12 +559,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F21%2Fxportsnews%2F20211021153824560ezlc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['듄' 개봉 첫 날 6만, 1위..'베놈2' 밀어냈다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211021094306451</link>
-            <guid>https://movie.v.daum.net/v/20211021094306451</guid>
-            <pubDate>Thu, 21 Oct 2021 02:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=노규민 기자]SF 영화 '듄'이 '베놈2: 렛 데어 비 카니지'를 밀어내고 박스오피스 정상에 올랐다.21일 영화진흥위원회 영화관입장권 통합전산망에 따르면 지난 20일 개봉한 '듄'은 첫날 전국 6만 1331명을 모아 일일 박스오피스 1위를 차지했다.&nbsp;'듄'은 우주의 왕좌에 오를 운명으로 태어난 전설의 메시아 폴(티모시 샬라메)의 위대한 여정을 그]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F21%2F10asia%2F20211021094309164zaeg.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA["아드레날린 폭발"..마동석 마블 입성작 '이터널스' 호평 세례 [종합] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211020171101942</link>
+            <guid>https://movie.v.daum.net/v/20211020171101942</guid>
+            <pubDate>Thu, 21 Oct 2021 00:57:13 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp;MCU의 새로운 시작을 알리며 '어벤져스'&nbsp;시리즈의 전설을 이어갈 영화 '이터널스'가 지난 18일(현지 기준) 미국 LA에서 열린 월드 프리미어를 성황리에 개최, 폭발적인 반응을 이끌며 화제를 모으고 있다. 오는 11월 3일 개봉을 확정한 영화 '이터널스'가 지난 18일(현지 기준) 미국 LA에서 열린 월드 프리미어를 성황리에 개최]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F20%2Fpoctan%2F20211020171101338xnbt.png" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['듄' 보기 전 꼭 알아야 할 세계관 (다음영화 뉴스 ─ 인기)]]></title>
@@ -583,6 +575,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F21%2Fohmynews%2F20211021141502170firc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[한채아, 영화 '교토에서 온 편지'로 스크린 복귀 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211021144042826</link>
+            <guid>https://movie.v.daum.net/v/20211021144042826</guid>
+            <pubDate>Thu, 21 Oct 2021 08:19:04 GMT</pubDate>
+            <content:encoded><![CDATA['비정규직 특수요원' 이후 5년 만 [더팩트ㅣ이한림 기자] 배우 한채아가 스크린에 복귀한다. 21일 소속사 네버다이엔터테인먼트는 한채아의 영화 '교토에서 온 편지'에 출연한다고 밝혔다. 2017년 영화 '비정규직 특수요원' 이후 5년 만에 스크린 복귀다. '교토에서 온 편지'는 엄마의 과거를 알게 되며 변해가는 세 딸의 삶의 이야기를 그린 영화다. 특히]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F21%2FTHEFACT%2F20211021144045090xfjm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['듄' 개봉 첫 날 6만, 1위..'베놈2' 밀어냈다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211021094306451</link>
+            <guid>https://movie.v.daum.net/v/20211021094306451</guid>
+            <pubDate>Thu, 21 Oct 2021 02:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=노규민 기자]SF 영화 '듄'이 '베놈2: 렛 데어 비 카니지'를 밀어내고 박스오피스 정상에 올랐다.21일 영화진흥위원회 영화관입장권 통합전산망에 따르면 지난 20일 개봉한 '듄'은 첫날 전국 6만 1331명을 모아 일일 박스오피스 1위를 차지했다.&nbsp;'듄'은 우주의 왕좌에 오를 운명으로 태어난 전설의 메시아 폴(티모시 샬라메)의 위대한 여정을 그]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F21%2F10asia%2F20211021094309164zaeg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[한채아, 영화 '교토에서 온 편지' 캐스팅[공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211021084501354</link>
             <guid>https://movie.v.daum.net/v/20211021084501354</guid>
@@ -591,12 +599,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F21%2Fstartoday%2F20211021084503455kqeg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[한채아, 영화 '교토에서 온 편지'로 스크린 복귀 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211021144042826</link>
-            <guid>https://movie.v.daum.net/v/20211021144042826</guid>
-            <pubDate>Thu, 21 Oct 2021 08:19:04 GMT</pubDate>
-            <content:encoded><![CDATA['비정규직 특수요원' 이후 5년 만 [더팩트ㅣ이한림 기자] 배우 한채아가 스크린에 복귀한다. 21일 소속사 네버다이엔터테인먼트는 한채아의 영화 '교토에서 온 편지'에 출연한다고 밝혔다. 2017년 영화 '비정규직 특수요원' 이후 5년 만에 스크린 복귀다. '교토에서 온 편지'는 엄마의 과거를 알게 되며 변해가는 세 딸의 삶의 이야기를 그린 영화다. 특히]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F21%2FTHEFACT%2F20211021144045090xfjm.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA["연애는 싫은데 외로운 건 더 싫어", 전종서·손석구의 공감 백배 영화가 온다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211021100831678</link>
+            <guid>https://movie.v.daum.net/v/20211021100831678</guid>
+            <pubDate>Thu, 21 Oct 2021 09:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[배우 전종서와 손석구의 신선한 만남으로 기대를 모으는 영화 '연애 빠진 로맨스'가 다음 달 관객들을 만난다. '연애 빠진 로맨스'는 연애는 싫지만 외로운 건 더 싫은 자영(전종서)과 일도 연애도 뜻대로 안 풀리는 우리(손석구)의 아주 특별한 로맨스를 그린 영화다. 21일 오전 공개된  티저 포스터는 벤치에 나란히 함께 앉아 있는 전종서와 손석구의 매력적인]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F21%2Fhankooki%2F20211021100833519nfzd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['이터널스', 마동석→안젤리나 졸리까지 2차 보도 스틸 공개..강렬 [N컷] (다음영화 뉴스 ─ 인기)]]></title>
@@ -615,12 +623,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F21%2F10asia%2F20211021082007387lexu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["연애는 싫은데 외로운 건 더 싫어", 전종서·손석구의 공감 백배 영화가 온다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211021100831678</link>
-            <guid>https://movie.v.daum.net/v/20211021100831678</guid>
+            <title><![CDATA[홍수아, 영화 '감동의 나날' 주연 캐스팅 [공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211021112516441</link>
+            <guid>https://movie.v.daum.net/v/20211021112516441</guid>
             <pubDate>Thu, 21 Oct 2021 09:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[배우 전종서와 손석구의 신선한 만남으로 기대를 모으는 영화 '연애 빠진 로맨스'가 다음 달 관객들을 만난다. '연애 빠진 로맨스'는 연애는 싫지만 외로운 건 더 싫은 자영(전종서)과 일도 연애도 뜻대로 안 풀리는 우리(손석구)의 아주 특별한 로맨스를 그린 영화다. 21일 오전 공개된  티저 포스터는 벤치에 나란히 함께 앉아 있는 전종서와 손석구의 매력적인]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F21%2Fhankooki%2F20211021100833519nfzd.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[티브이데일리 박상후 기자] 배우 홍수아가 영화 '감동의 나날' 출연을 확정 지었다. 소속사 글로빅엔터테인먼트 측은 21일 "홍수아가 김우석 감독의 차기작인 영화 '감동의 나날' 주인공으로 캐스팅됐다"라고 밝혔다. 영화 '감동의 나날'은 감동하게 되면 생명이 위험해지는 병에 걸린 보영이 감동을 주는 따듯한 남자 철기를 만나게 되어 위기를 맞이하게 되는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F21%2Ftvdaily%2F20211021112517824yqyg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[여순 사건 다룬 '동백', 오늘 개봉..그날의 전말 (다음영화 뉴스 ─ 인기)]]></title>
@@ -631,12 +639,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F21%2Filgansports%2F20211021075705171dvto.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[홍수아, 영화 '감동의 나날' 주연 캐스팅 [공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211021112516441</link>
-            <guid>https://movie.v.daum.net/v/20211021112516441</guid>
-            <pubDate>Thu, 21 Oct 2021 09:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 박상후 기자] 배우 홍수아가 영화 '감동의 나날' 출연을 확정 지었다. 소속사 글로빅엔터테인먼트 측은 21일 "홍수아가 김우석 감독의 차기작인 영화 '감동의 나날' 주인공으로 캐스팅됐다"라고 밝혔다. 영화 '감동의 나날'은 감동하게 되면 생명이 위험해지는 병에 걸린 보영이 감동을 주는 따듯한 남자 철기를 만나게 되어 위기를 맞이하게 되는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F21%2Ftvdaily%2F20211021112517824yqyg.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA["시나리오부터 깜짝 놀라"..'장르만 로맨스' 류승룡→웃음 폭발 촬영 비하인드 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211021150706998</link>
+            <guid>https://movie.v.daum.net/v/20211021150706998</guid>
+            <pubDate>Thu, 21 Oct 2021 11:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '장르만 로맨스'(감독 조은지)가 유쾌한 분위기의 현장 비하인드가 담긴 버라이어티 제작기 영상을 공개했다. '장르만 로맨스'는 평범하지 않은 로맨스로 얽힌 이들과 만나 일도 인생도 꼬여가는 베스트셀러 작가의 버라이어티한 사생활을 그린 영화다. 먼저 첫 번째 키워드 '입담맛집'에서 7년째 슬럼프에 빠진 베스트셀러 작가 현]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F21%2Fxportsnews%2F20211021150708465rjfc.png" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[새로운 전설의 부활..'매트릭스:리저렉션' 12월 개봉 확정 [공식] (다음영화 뉴스 ─ 인기)]]></title>
@@ -647,20 +655,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F21%2Fstarnews%2F20211021081043576ckgj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[두렵잖은 죽음, 홍상수의 시선..'당신 얼굴 앞에서' [N리뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211020114623110</link>
-            <guid>https://movie.v.daum.net/v/20211020114623110</guid>
-            <pubDate>Thu, 21 Oct 2021 00:57:13 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = *영화의 주요 내용을 포함한 스포일러가 있을 수 있습니다. 홍상수 감독은 신작 '당신 얼굴 앞에서'에서 또 한 번 죽음에 대해 이야기한다. 일상 속 대화가 오가는 홍상수 감독 스타일의 장면들이 무심한듯 이어지다 한순간 집중하게 되는 흐름으로 이야기에 빠져들게 만든다. 배우로 활동했던 주인공의 뜻밖의 고백, 그리고 그의 호]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F20%2FNEWS1%2F20211020114623591nmtm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["시나리오부터 깜짝 놀라"..'장르만 로맨스' 류승룡→웃음 폭발 촬영 비하인드 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211021150706998</link>
-            <guid>https://movie.v.daum.net/v/20211021150706998</guid>
-            <pubDate>Thu, 21 Oct 2021 11:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '장르만 로맨스'(감독 조은지)가 유쾌한 분위기의 현장 비하인드가 담긴 버라이어티 제작기 영상을 공개했다. '장르만 로맨스'는 평범하지 않은 로맨스로 얽힌 이들과 만나 일도 인생도 꼬여가는 베스트셀러 작가의 버라이어티한 사생활을 그린 영화다. 먼저 첫 번째 키워드 '입담맛집'에서 7년째 슬럼프에 빠진 베스트셀러 작가 현]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F21%2Fxportsnews%2F20211021150708465rjfc.png" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['양성애자' 슈퍼맨, 새로운 모토 "더 나은 내일" 희망의 상징[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211021173751189</link>
+            <guid>https://movie.v.daum.net/v/20211021173751189</guid>
+            <pubDate>Thu, 21 Oct 2021 12:26:06 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]양성애자로 설정이 변경된 DC코믹스 히어로 슈퍼맨의 모토가 새롭게 변경됐다. DC코믹스는 최근 열린 온라인 이벤트 DC팬돔을 통해 슈퍼맨의 새 모토가 진실과 정의, 더 나은 내일(Truth, Justice and A Better Tomorrow)로 변경됐다고 발표했다. 지금까지 슈퍼맨의 모토는 ‘진실과 정의, 아메리칸 웨이(]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F21%2Fmydaily%2F20211021173751240jvve.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[국내 유일 충북 국제무예액션 영화제 개막 (다음영화 뉴스 ─ 최신)]]></title>
@@ -1467,7 +1467,7 @@
             <link>https://tv.naver.com/v/23094781</link>
             <guid>https://tv.naver.com/v/23094781</guid>
             <pubDate>Thu, 21 Oct 2021 08:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211021_262/uGmSn_1634803773951xdRDF_JPEG/2e11f1c4-3246-11ec-bc73-a0369ff968b0_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1475,7 +1475,7 @@
             <link>https://tv.naver.com/v/23090825</link>
             <guid>https://tv.naver.com/v/23090825</guid>
             <pubDate>Thu, 21 Oct 2021 06:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211021_182/9E4EB_1634795302202JwX1S_JPEG/ff6e2e96-3231-11ec-9e9c-48df379cc9e4_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1483,7 +1483,7 @@
             <link>https://tv.naver.com/v/23090523</link>
             <guid>https://tv.naver.com/v/23090523</guid>
             <pubDate>Thu, 21 Oct 2021 06:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211021_35/IZrQ8_1634794580614iI2IU_JPEG/bee80bf0-3230-11ec-92ae-a0369ff952f4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1491,7 +1491,7 @@
             <link>https://tv.naver.com/v/23090427</link>
             <guid>https://tv.naver.com/v/23090427</guid>
             <pubDate>Thu, 21 Oct 2021 06:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211021_150/Z2iIz_1634794325920x0uKq_PNG/1634794318801.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -1499,7 +1499,7 @@
             <link>https://tv.naver.com/v/23090262</link>
             <guid>https://tv.naver.com/v/23090262</guid>
             <pubDate>Thu, 21 Oct 2021 06:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211021_62/FJwl4_1634793950071KNrGg_JPEG/4aaa01e4-322f-11ec-a331-48df379cca40_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1507,7 +1507,7 @@
             <link>https://tv.naver.com/v/23087226</link>
             <guid>https://tv.naver.com/v/23087226</guid>
             <pubDate>Thu, 21 Oct 2021 04:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211021_144/VgMa1_1634785584813jfYup_JPEG/bac65a75-321b-11ec-a331-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1515,7 +1515,7 @@
             <link>https://tv.naver.com/v/23086941</link>
             <guid>https://tv.naver.com/v/23086941</guid>
             <pubDate>Thu, 21 Oct 2021 04:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211021_23/iVgmo_1634784807825dzmOr_JPEG/cdda9c4d-3219-11ec-9d5b-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1523,7 +1523,7 @@
             <link>https://tv.naver.com/v/23086561</link>
             <guid>https://tv.naver.com/v/23086561</guid>
             <pubDate>Thu, 21 Oct 2021 04:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211021_11/PJCLf_1634783904530QRoTe_JPEG/b0a96240-3217-11ec-a331-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1531,7 +1531,7 @@
             <link>https://tv.naver.com/v/23086232</link>
             <guid>https://tv.naver.com/v/23086232</guid>
             <pubDate>Thu, 21 Oct 2021 04:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211021_193/OhlXW_1634783084583OI0Ba_JPEG/a82b13ea-3215-11ec-8140-a0369ff963bc_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1539,7 +1539,7 @@
             <link>https://tv.naver.com/v/23085490</link>
             <guid>https://tv.naver.com/v/23085490</guid>
             <pubDate>Thu, 21 Oct 2021 02:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211021_248/0Bf41_1634781314986tPd71_JPEG/64ed792d-3211-11ec-a979-48df37ae3dc4_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
