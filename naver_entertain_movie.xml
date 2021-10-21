@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-21T20:19:00.762Z</updated>
+    <updated>2021-10-21T21:15:21.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제3회 강릉국제영화제, 오늘 개막식으로 포문…정우성·조인성 등 참석]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005673490</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005673490"/>
+        <updated>2021-10-21T21:13:50.491Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 제3회 강릉국제영화제(이사장 김동호, 예술감독 김홍준)가 22일 열리는 개막식으로 포문을 연다. 제3회 강릉국제영화제(GIFF 2021)는 이날부터 오는 31일까지 10일간 강원도 강]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘충무로영화제-감독주간’ 개막… CJ문화재단 “단편은 한국 영화의 뿌리, 지원 확대”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003630605</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003791980"/>
         <updated>2021-10-21T07:15:32.549Z</updated>
         <content type="html"><![CDATA[[스포츠조선 이승미 기자] 코로나19 확진 판정을 받았던 유태오가 완치 소식을 전했다. 씨제스엔터테인먼트 측은 21일 보도자료를 통해 "당사 소속배우 유태오가 완치 판정을 받고 오늘 오후 병원에서 퇴원했다"고 전했다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유태오, 코로나19 완치→일상 복귀 [공식]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002998499</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002998499"/>
-        <updated>2021-10-21T07:15:32.549Z</updated>
-        <content type="html"><![CDATA[배우 유태오가 코로나19 완치 판정을 받고 일상으로 복귀했다. 21일 씨제스엔터테인먼트는 "당사 당사 소속배우 유태오가 완치 판정을 받고 이날 오후 병원에서 퇴원했습니다"라고 밝혔다. 이어 "유태오는 지난 1일 미국]]></content>
     </entry>
 </feed>
