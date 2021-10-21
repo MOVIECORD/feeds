@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-21T21:15:21.952Z</updated>
+    <updated>2021-10-21T22:17:09.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['베놈2', 하루만 박스오피스 1위 탈환..130만 돌파 [★무비차트]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002998625</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002998625"/>
+        <updated>2021-10-21T22:15:45.480Z</updated>
+        <content type="html"><![CDATA[영화 '베놈2: 렛 데어 비 카니지'가 박스오피스 1위 자리를 탈환했다. 22일 영진위 영화관 입장권 통합전산망에 따르면 '베놈2: 렛 데어 비 카니지'는 지난 21일 4만 3230명을 동원했다. 누적관객수는 130]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알고 보면 더 재밌는 '듄' 캐릭터 사전 <상>]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003565964</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003565964"/>
+        <updated>2021-10-21T22:15:45.518Z</updated>
+        <content type="html"><![CDATA[프랭크 허버트가 창조한 방대한 세계에 펼쳐진 거대한 서사시가 드니 빌뇌브 감독의 손을 빌료 스크린으로 다시 태어났다. 20일 개봉한 영화 '듄'은 생명 유지 자원인 스파이스를 두고 아라키스 모래 행성 듄에서 악의 세]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제3회 강릉국제영화제, 오늘 개막식으로 포문…정우성·조인성 등 참석]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005673490</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000939868"/>
         <updated>2021-10-21T08:18:43.069Z</updated>
         <content type="html"><![CDATA[국내 콘텐츠가 명품은 명품인가보다. 명품이라는 온갖 ‘짝퉁’(모조품을 일컫는 말)을 만들어 파는 중국이 넷플릭스 ‘오징어 게임’을 대놓고 표절하는 예능프로그램을 제작해 눈살을 찌푸리게 한다. 중국 온라인 동영상 서비]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방송사·영화 배급사 “통신사업자, 불법 콘텐츠 차단해야”]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004867858</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004867858"/>
-        <updated>2021-10-21T08:18:43.069Z</updated>
-        <content type="html"><![CDATA[영화 배급사들이 방송사와 함께 콘텐츠 불법복제 등 온라인 상에서 난무하는 저작권 침해와 관련해 공동 대응에 나섰다. KBS는 방송사와 영화 배급사 등으로 구성된 ‘디지털콘텐츠보호위원회’(가칭)를 발족해 통신사업자에게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공식]유태오, 코로나19 완치→오늘(21일) 퇴원…"스케줄 정상 복귀"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003791980</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003791980"/>
-        <updated>2021-10-21T07:15:32.549Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 이승미 기자] 코로나19 확진 판정을 받았던 유태오가 완치 소식을 전했다. 씨제스엔터테인먼트 측은 21일 보도자료를 통해 "당사 소속배우 유태오가 완치 판정을 받고 오늘 오후 병원에서 퇴원했다"고 전했다]]></content>
     </entry>
 </feed>
