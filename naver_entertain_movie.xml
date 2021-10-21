@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-21T15:42:26.853Z</updated>
+    <updated>2021-10-21T16:36:23.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘충무로영화제-감독주간’ 개막… CJ문화재단 “단편은 한국 영화의 뿌리, 지원 확대”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003630605</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003630605"/>
+        <updated>2021-10-21T16:34:47.861Z</updated>
+        <content type="html"><![CDATA[‘제6회 충무로영화제-감독주간’이 22일 개막했다. 봉준호, 김보라, 이준익 등 감독들 박하선, 전종서, 이희준 등 배우들이 게스트로 참석해 자리를 빛낼 예정이다. 대한민국 대표 감독들이 참석해 기대를 모으고 있는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김승원 의원 “영화인들에 대한 KT알파 갑질, 문체부가 해결 해야”… “유연하게 적용, 상생 나설 것”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000768856</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002998499"/>
         <updated>2021-10-21T07:15:32.549Z</updated>
         <content type="html"><![CDATA[배우 유태오가 코로나19 완치 판정을 받고 일상으로 복귀했다. 21일 씨제스엔터테인먼트는 "당사 당사 소속배우 유태오가 완치 판정을 받고 이날 오후 병원에서 퇴원했습니다"라고 밝혔다. 이어 "유태오는 지난 1일 미국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김세영 작가 동명 만화 원작 '여타짜', 12월 개봉 확정]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005672580</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005672580"/>
-        <updated>2021-10-21T07:15:32.549Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 김세영 작가의 동명 만화를 원작으로 한 영화 '여타짜'(감독 이지승)가 오는 12월 개봉을 확정했다. 21일 배급사 BOXOO 엔터테인먼트에 따르면 이채영, 정혜인이 주연을 맡은 영화]]></content>
     </entry>
 </feed>
