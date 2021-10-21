@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-21T10:19:20.878Z</updated>
+    <updated>2021-10-21T11:14:38.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김승원 의원 “영화인들에 대한 KT알파 갑질, 문체부가 해결 해야”… “유연하게 적용, 상생 나설 것”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000768856</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000768856"/>
+        <updated>2021-10-21T11:13:16.365Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 국회 문화체육관광위원회 김승원 의원(더불어민주당, 수원시갑)이 21일 속개된 문체위 국정감사에서 KT알파의 투자계약 갑질과 관련해 문체부가 문제 해결에 직접 나서라고 주문했다. 김 의원이 이날 공개한]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내 유일 충북 국제무예액션 영화제 개막]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012739287</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012739287"/>
+        <updated>2021-10-21T11:13:16.365Z</updated>
+        <content type="html"><![CDATA[11개 부문 수상자 발표…닷새간 66편 상영 (청주=연합뉴스) 전창해 기자 = 제3회 충북국제무예액션영화제(약칭 CIMAFF)가 21일 청주 문화제조창 잔디광장에서 개막했다.[충북도 제공. 재판매 및 DB 금지] 신종 코로나바이러스 감염증(코로나19) 확산 방지를 위해 무관중으로 진행된 개막식에는 영화제 관계자와 영화인...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이채영 주연 ‘여타짜’, 오는 11월 개봉]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000768827</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005672580"/>
         <updated>2021-10-21T07:15:32.549Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 김세영 작가의 동명 만화를 원작으로 한 영화 '여타짜'(감독 이지승)가 오는 12월 개봉을 확정했다. 21일 배급사 BOXOO 엔터테인먼트에 따르면 이채영, 정혜인이 주연을 맡은 영화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이채영·정혜인 주연 '여타짜' 11월 개봉[공식]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004867837</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004867837"/>
-        <updated>2021-10-21T07:15:32.549Z</updated>
-        <content type="html"><![CDATA[국내 범죄 오락물의 레전드 ‘타짜’ 시리즈의 명성을 잇는 ‘여타짜’가 오는 11월 개봉한다. 영화 ‘여타짜’(감독 이지승)는 포커판에 뛰어든 ‘미미’가 미스터리한 타짜 ‘오자와’를 만난 뒤 일생일대의 거래를 위해 목]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마이 네임' 장률, 예상치 못한 新 빌런..소름돋는 비주얼+연기력]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002998495</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002998495"/>
-        <updated>2021-10-21T07:15:32.549Z</updated>
-        <content type="html"><![CDATA[배우 장률이 넷플릭스 시리즈 '마이 네임'에서 강렬한 존재감을 발산했다. '마이 네임'은 아버지를 죽인 범인을 찾기 위해 조직에 들어간 '지우'가 새로운 이름으로 경찰에 잠입한 후 마주하는 냉혹한 진실과 복수를 그린]]></content>
     </entry>
 </feed>
