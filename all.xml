@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 13:23:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 14:15:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -255,14 +255,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6e48f5b593dc63aac8b452dba416570c21a7a3a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[타다: 대한민국 스타트업의 초상 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152961</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152961</guid>
-            <pubDate>Wed, 06 Oct 2021 00:53:29 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffe9901b9a404a434b265c1e4c6fcfb23a2b855c5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[수색자 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152491</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152491</guid>
@@ -285,6 +277,14 @@
             <pubDate>Tue, 12 Oct 2021 23:15:40 GMT</pubDate>
             <content:encoded><![CDATA[21.10.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8cc2a0a4e74c2ec417170fe936d9b6bdf2292438" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[타다: 대한민국 스타트업의 초상 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152961</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152961</guid>
+            <pubDate>Wed, 06 Oct 2021 00:53:29 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffe9901b9a404a434b265c1e4c6fcfb23a2b855c5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 짱구는 못말려: 격돌! 낙서왕국과 얼추 네 명의 용사들 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -311,20 +311,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd407519e6675a2685a478585b2ad75625f9105b1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[방법: 재차의 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=139670</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=139670</guid>
-            <pubDate>Fri, 22 Oct 2021 09:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[21.07.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F076d1c40be99ec226f0b1a8eec8351034d7072f3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[당신얼굴 앞에서 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150931</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150931</guid>
             <pubDate>Fri, 22 Oct 2021 03:17:10 GMT</pubDate>
             <content:encoded><![CDATA[21.10.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F46428acd35c209d0e006b8dd227b3787a48ebae4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[용과 주근깨 공주 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152198</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152198</guid>
+            <pubDate>Fri, 22 Oct 2021 14:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ad31d50eedd1586704f0af288025b3f85917fdb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[고양이를 부탁해 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -559,6 +559,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F21%2Fohmynews%2F20211021063301648ebgh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[사투리 연기→이미지 변신..'색다른그녀' AOA 찬미, 스크린 데뷔 합격점 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211022093956667</link>
+            <guid>https://movie.v.daum.net/v/20211022093956667</guid>
+            <pubDate>Fri, 22 Oct 2021 08:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자]AOA 멤버이자 배우로 활동 중인 김찬미가 스크린 데뷔를 성공적으로 마쳤다. 김찬미는 지난 14일 개봉한 영화 '색다른 그녀'를 통해 첫 스크린 연기에 도전, 반전 매력으로 관객을 사로잡았다. '색다른 그녀'는 개성 넘치는 남녀들의 이색 로맨틱 코미디로 완벽주의자 완준(한상혁)과 그의 여자친구 지연(김찬미), 그리고]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F22%2FSpoChosun%2F20211022093956377xkql.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[단독] 한지은·이동휘 '모라동' 주인공 발탁..현실 연애 예고 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211022091701770</link>
             <guid>https://movie.v.daum.net/v/20211022091701770</guid>
@@ -575,12 +583,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F22%2FNEWS1%2F20211022093742364vnhx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[사투리 연기→이미지 변신..'색다른그녀' AOA 찬미, 스크린 데뷔 합격점 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211022093956667</link>
-            <guid>https://movie.v.daum.net/v/20211022093956667</guid>
-            <pubDate>Fri, 22 Oct 2021 08:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이승미 기자]AOA 멤버이자 배우로 활동 중인 김찬미가 스크린 데뷔를 성공적으로 마쳤다. 김찬미는 지난 14일 개봉한 영화 '색다른 그녀'를 통해 첫 스크린 연기에 도전, 반전 매력으로 관객을 사로잡았다. '색다른 그녀'는 개성 넘치는 남녀들의 이색 로맨틱 코미디로 완벽주의자 완준(한상혁)과 그의 여자친구 지연(김찬미), 그리고]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F22%2FSpoChosun%2F20211022093956377xkql.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[32년 만의 속편 '고스트버스터즈 라이즈', 12월 개봉 확정..티저 포스터 공개 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211022090747462</link>
+            <guid>https://movie.v.daum.net/v/20211022090747462</guid>
+            <pubDate>Fri, 22 Oct 2021 09:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자)&nbsp;어드벤처의 신세계를 열 '고스트버스터즈 라이즈'가 12월 개봉한다. 22일 소니 픽쳐스는 '고스트버스터즈 라이즈'의 티저 포스터를 공개하며 12월 개봉을 확정했다. '고스트버스터즈 라이즈'는 작은 마을에 정착한 한 가족이 전설의 ‘고스트버스터즈’와 얽힌 숨은 비밀을 알게 되고 세계를 뒤흔드는 고스트들에 맞서는 스릴 넘치는 이야]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F22%2Fxportsnews%2F20211022090749088ydbl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[알렉 볼드윈, 영화 촬영 중 소품총 발사 사고..촬영감독 사망 (다음영화 뉴스 ─ 인기)]]></title>
@@ -589,14 +597,6 @@
             <pubDate>Fri, 22 Oct 2021 05:14:34 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스엔 김노을 기자] 할리우드 배우 알렉 볼드윈이 영화 촬영 도중 실탄이 든 소품용 총을 발사해 촬영감독이 사망하는 사고가 발생했다. 10월 22일(현지시간) 뉴욕타임스 등 외신에 따르면 알렉 볼드윈은 19세기 뉴멕시코를 배경으로 한 서부영화 '러스트' 촬영 중이던 이날 오후 1시 50분께 소품용 총을 발사했다. 이에 촬영감독인 힐리나 허친스가 숨지고]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F22%2Fnewsen%2F20211022134705902oekh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[32년 만의 속편 '고스트버스터즈 라이즈', 12월 개봉 확정..티저 포스터 공개 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211022090747462</link>
-            <guid>https://movie.v.daum.net/v/20211022090747462</guid>
-            <pubDate>Fri, 22 Oct 2021 09:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자)&nbsp;어드벤처의 신세계를 열 '고스트버스터즈 라이즈'가 12월 개봉한다. 22일 소니 픽쳐스는 '고스트버스터즈 라이즈'의 티저 포스터를 공개하며 12월 개봉을 확정했다. '고스트버스터즈 라이즈'는 작은 마을에 정착한 한 가족이 전설의 ‘고스트버스터즈’와 얽힌 숨은 비밀을 알게 되고 세계를 뒤흔드는 고스트들에 맞서는 스릴 넘치는 이야]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F22%2Fxportsnews%2F20211022090749088ydbl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[전지현, 나이를 먹지 않네..40대 여배우의 20년 변천사 [TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -631,6 +631,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F22%2FSpoChosun%2F20211022132915048hacu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA["도전의 타이밍"..'어나더레코드', 신세경의 서촌 모험 다큐(종합) (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211022123859364</link>
+            <guid>https://movie.v.daum.net/v/20211022123859364</guid>
+            <pubDate>Fri, 22 Oct 2021 13:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 신세경이 새로운 도전에 나섰다. 자신을 주인공으로 한 다큐멘터리에 출연한 것. 연출자는 무려 영화 '조제' '더 테이블' 등을 연출한 김종관 감독이다. 신세경은 22일 오전 온라인으로 진행된 다큐멘터리 영화 '어나더레코드'(감독 김종관)의 제작보고회에서 "작품 취지가 너무 좋았다, 감독님과 함께 하는 작업이라고 하]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F22%2FNEWS1%2F20211022123900732ckjq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[뻔한 형사 콤비물? 두 남자의 활약이 바꾼 흥행 공식 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211022094201737</link>
             <guid>https://movie.v.daum.net/v/20211022094201737</guid>
@@ -647,20 +655,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F21%2FSBSfunE%2F20211021183609656pscr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["도전의 타이밍"..'어나더레코드', 신세경의 서촌 모험 다큐(종합) (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211022123859364</link>
-            <guid>https://movie.v.daum.net/v/20211022123859364</guid>
-            <pubDate>Fri, 22 Oct 2021 13:22:26 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 신세경이 새로운 도전에 나섰다. 자신을 주인공으로 한 다큐멘터리에 출연한 것. 연출자는 무려 영화 '조제' '더 테이블' 등을 연출한 김종관 감독이다. 신세경은 22일 오전 온라인으로 진행된 다큐멘터리 영화 '어나더레코드'(감독 김종관)의 제작보고회에서 "작품 취지가 너무 좋았다, 감독님과 함께 하는 작업이라고 하]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F22%2FNEWS1%2F20211022123900732ckjq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[안젤리나 졸리, 마동석 기자간담회 깜짝 등장→포옹 "믿을 수 없는 경험" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211022093834620</link>
-            <guid>https://movie.v.daum.net/v/20211022093834620</guid>
-            <pubDate>Fri, 22 Oct 2021 00:57:57 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 마동석, 안젤리나 졸리 /AFPBBNews=뉴스1할리우드 배우 안젤리나 졸리가 깜짝 등장, 마동석에 대한 팬심을 드러냈다. 마동석은 22일 오전 영화 '이터널스' 화상 기자 간담회를 개최했다. 그는 현재 '이터널스' 미국 월드 프리미어 후 현지에 머물고 있기에 온라인을 통해 취재진과 만났다. '이터널스'는 수천 년에 걸쳐 그 모습을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F22%2Fstarnews%2F20211022094147315vitv.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['오징어 게임' 이정재, 美 고담어워즈 후보..에단호크와 연기상 경쟁 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211022083105472</link>
+            <guid>https://movie.v.daum.net/v/20211022083105472</guid>
+            <pubDate>Fri, 22 Oct 2021 14:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 김노을 기자] 배우 이정재가 넷플릭스 시리즈 '오징어 게임'으로 미국 고담어워즈 후보에 올랐다. 10월 21일(현지시각) 미국 매체 데드라인, 버라이어티 등에 따르면 이정재는 제31회 고담어워즈의 '아웃스탠딩 퍼포먼스 인 어 뉴 시리즈(Outstanding Performance in a New Series)' 부문 후보에 이름을 올렸다. 연출을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F22%2Fnewsen%2F20211022083105642mqhs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["정우성·조인성·한예리·오지호" 제3회 강릉국제영화제, 개막식 개최 (다음영화 뉴스 ─ 최신)]]></title>
@@ -1467,7 +1467,7 @@
             <link>https://tv.naver.com/v/23119070</link>
             <guid>https://tv.naver.com/v/23119070</guid>
             <pubDate>Fri, 22 Oct 2021 10:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_197/2hV3H_16348947290935riIJ_JPEG/e409f762-3319-11ec-a331-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1483,7 +1483,7 @@
             <link>https://tv.naver.com/v/23118809</link>
             <guid>https://tv.naver.com/v/23118809</guid>
             <pubDate>Fri, 22 Oct 2021 09:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_100/pobPn_16348940826969R9Rv_JPEG/66bf7e3a-3318-11ec-8636-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1491,7 +1491,7 @@
             <link>https://tv.naver.com/v/23118692</link>
             <guid>https://tv.naver.com/v/23118692</guid>
             <pubDate>Fri, 22 Oct 2021 09:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_234/HoZHz_16348937781389dA6s_JPEG/8e290589-3317-11ec-a74c-48df379ccacc_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1499,7 +1499,7 @@
             <link>https://tv.naver.com/v/23118347</link>
             <guid>https://tv.naver.com/v/23118347</guid>
             <pubDate>Fri, 22 Oct 2021 09:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_72/aTsnK_16348930760409lcON_JPEG/099e774b-3316-11ec-a74c-48df379ccacc_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1507,7 +1507,7 @@
             <link>https://tv.naver.com/v/23118260</link>
             <guid>https://tv.naver.com/v/23118260</guid>
             <pubDate>Fri, 22 Oct 2021 09:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_188/D6tSN_1634892881432YzEMS_JPEG/8aa806e5-3315-11ec-9e9c-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1515,7 +1515,7 @@
             <link>https://tv.naver.com/v/23118130</link>
             <guid>https://tv.naver.com/v/23118130</guid>
             <pubDate>Fri, 22 Oct 2021 09:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_157/YaMe0_1634892634986GNlvD_JPEG/08004da1-3315-11ec-9524-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1523,7 +1523,7 @@
             <link>https://tv.naver.com/v/23118061</link>
             <guid>https://tv.naver.com/v/23118061</guid>
             <pubDate>Fri, 22 Oct 2021 09:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_180/Af3og_1634892454590LKj6z_JPEG/8579fee2-3314-11ec-a74c-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1531,7 +1531,7 @@
             <link>https://tv.naver.com/v/23117467</link>
             <guid>https://tv.naver.com/v/23117467</guid>
             <pubDate>Fri, 22 Oct 2021 09:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_127/1nzFB_1634891282548Rpoi4_JPEG/cd34c204-3311-11ec-9ac7-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1539,7 +1539,7 @@
             <link>https://tv.naver.com/v/23115979</link>
             <guid>https://tv.naver.com/v/23115979</guid>
             <pubDate>Fri, 22 Oct 2021 08:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_99/jzTtz_16348884602204kIwQ_JPEG/3ced8b09-330b-11ec-a74c-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1547,7 +1547,7 @@
             <link>https://tv.naver.com/v/23115877</link>
             <guid>https://tv.naver.com/v/23115877</guid>
             <pubDate>Fri, 22 Oct 2021 08:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_63/Q30by_1634888206481vAAKb_JPEG/a498a802-330a-11ec-8636-505dac8c3639_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1555,7 +1555,7 @@
             <link>https://tv.naver.com/v/23115697</link>
             <guid>https://tv.naver.com/v/23115697</guid>
             <pubDate>Fri, 22 Oct 2021 08:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_40/sF3q6_1634887791131iDsEL_JPEG/966498e2-3309-11ec-9524-505dacfbaa5c_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1563,7 +1563,7 @@
             <link>https://tv.naver.com/v/23113345</link>
             <guid>https://tv.naver.com/v/23113345</guid>
             <pubDate>Fri, 22 Oct 2021 07:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_233/hiQUp_1634882540499GP54p_JPEG/863ef45f-32fd-11ec-8140-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1571,7 +1571,7 @@
             <link>https://tv.naver.com/v/23113197</link>
             <guid>https://tv.naver.com/v/23113197</guid>
             <pubDate>Fri, 22 Oct 2021 07:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_40/CX5PY_1634882187066F5gl6_JPEG/bbbdd3db-32fc-11ec-a74c-48df379ccacc_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1579,7 +1579,7 @@
             <link>https://tv.naver.com/v/23113111</link>
             <guid>https://tv.naver.com/v/23113111</guid>
             <pubDate>Fri, 22 Oct 2021 07:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_21/kknjD_1634881956231fyf8p_JPEG/2d89dd8c-32fc-11ec-a74c-48df379ccacc_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1587,7 +1587,7 @@
             <link>https://tv.naver.com/v/23112853</link>
             <guid>https://tv.naver.com/v/23112853</guid>
             <pubDate>Fri, 22 Oct 2021 07:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_75/KuLSO_1634881418588SuFef_JPEG/f4ff7369-32f9-11ec-9ee0-a0369ff94ed0_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1595,7 +1595,7 @@
             <link>https://tv.naver.com/v/23112652</link>
             <guid>https://tv.naver.com/v/23112652</guid>
             <pubDate>Fri, 22 Oct 2021 07:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_56/W7bSE_1634880993492QnvGA_JPEG/c9e4e7e3-32f9-11ec-b39d-48df37ae3fca_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1603,7 +1603,7 @@
             <link>https://tv.naver.com/v/23112593</link>
             <guid>https://tv.naver.com/v/23112593</guid>
             <pubDate>Fri, 22 Oct 2021 07:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_182/iBINP_16348808860640o8DK_JPEG/9c1fd55d-32f9-11ec-a74c-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1611,7 +1611,7 @@
             <link>https://tv.naver.com/v/23111650</link>
             <guid>https://tv.naver.com/v/23111650</guid>
             <pubDate>Fri, 22 Oct 2021 05:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_200/f5Ke5_1634878393066Yj1ya_JPEG/ba3faf18-32f3-11ec-a713-a0369ff95ec0_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1619,7 +1619,7 @@
             <link>https://tv.naver.com/v/23108352</link>
             <guid>https://tv.naver.com/v/23108352</guid>
             <pubDate>Fri, 22 Oct 2021 02:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_1/Me6xO_1634867982495dtnG9_JPEG/93a78a3d-32db-11ec-9ac7-505dac8c381b_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1627,7 +1627,7 @@
             <link>https://tv.naver.com/v/23107311</link>
             <guid>https://tv.naver.com/v/23107311</guid>
             <pubDate>Fri, 22 Oct 2021 02:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_24/bitHD_16348647325928dNnU_JPEG/ad688869-32d3-11ec-9dda-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
