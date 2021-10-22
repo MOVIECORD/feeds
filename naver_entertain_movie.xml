@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-22T12:25:42.699Z</updated>
+    <updated>2021-10-22T13:23:29.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["정우성·조인성·한예리·오지호" 제3회 강릉국제영화제, 개막식 개최]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002998948</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002998948"/>
+        <updated>2021-10-22T13:22:03.753Z</updated>
+        <content type="html"><![CDATA[제3회 강릉국제영화제(Gangneung International Film Festival 2021, GIFF 2021, 이사장 김동호, 예술감독 김홍준)가 개막식을 성황리에 개최하며 본격적인 영화제 일정에 돌입했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['어나더 레코드' 신세경 "연예인으로서 딱히 큰 불편함 느낀 적 없어" [MD동영상]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003547937</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012741520"/>
         <updated>2021-10-22T12:24:20.166Z</updated>
         <content type="html"><![CDATA[(강릉=연합뉴스) 양지웅 기자 = 배우 오지호가 22일 강원 강릉아트센터에서 열린 제3회 강릉국제영화제 개막식 레드카펫 행사에 참석해 포즈를 취하고 있다. 강릉국제영화제는 이날 개막식을 시작으로 31일까지 열흘간 강]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강릉국제영화제 찾은 임원희]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012741518</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012741518"/>
-        <updated>2021-10-22T12:24:20.167Z</updated>
-        <content type="html"><![CDATA[(강릉=연합뉴스) 양지웅 기자 = 배우 임원희가 22일 강원 강릉아트센터에서 열린 제3회 강릉국제영화제 개막식 레드카펫 행사에 참석해 포즈를 취하고 있다. 강릉국제영화제는 이날 개막식을 시작으로 31일까지 열흘간 강]]></content>
     </entry>
 </feed>
