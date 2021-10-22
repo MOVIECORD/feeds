@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-10-22T18:19:45.586Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 22 Oct 2021 20:17:50 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['베놈2' 최단 기간 100만 돌파..호불호는 왜 갈리나 [N초점]]]></title>
+            <link>https://v.daum.net/v/20211023050032351</link>
+            <guid>https://v.daum.net/v/20211023050032351</guid>
+            <pubDate>Fri, 22 Oct 2021 20:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 할리우드 영화 '베놈2: 렛 데어 비 카니지'(이하 '베놈2')가 코로나19 시국 속 흥행 기세를 이어가고 있다. '베놈2'는 미워할 수 없는 빌런 히어로 베놈앞에 사상 최악의 빌런 카니지가 나타나 대혼돈의 시대를 예고하면서 그와 피할 수 없는 대결을 그린 액션 블록버스터로 지난 13일 국내 개봉했다. '베놈2'는 개봉]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F23%2FNEWS1%2F20211023050033287uvzj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
