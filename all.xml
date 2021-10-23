@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Oct 2021 16:23:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 17:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -223,6 +223,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7e72bad76d59c13934515e5bc1a51e7f843183d1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[보이스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137628</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137628</guid>
+            <pubDate>Wed, 15 Sep 2021 00:49:01 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0643e2cd42252fb6d9018173e867fcd9612c115" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[첫눈이 사라졌다 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143824</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143824</guid>
@@ -239,12 +247,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2f172ff45e840b9d656366c43072f302047e426f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[보이스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=137628</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=137628</guid>
+            <title><![CDATA[기적 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143697</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143697</guid>
             <pubDate>Wed, 15 Sep 2021 00:49:01 GMT</pubDate>
             <content:encoded><![CDATA[21.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0643e2cd42252fb6d9018173e867fcd9612c115" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff09b6fed698932a9258208f8cc4d041ac95efbbd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[노회찬6411 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -255,12 +263,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6e48f5b593dc63aac8b452dba416570c21a7a3a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[기적 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=143697</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=143697</guid>
-            <pubDate>Wed, 15 Sep 2021 00:49:01 GMT</pubDate>
+            <title><![CDATA[극장판 짱구는 못말려: 격돌! 낙서왕국과 얼추 네 명의 용사들 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144508</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144508</guid>
+            <pubDate>Fri, 22 Oct 2021 05:14:18 GMT</pubDate>
             <content:encoded><![CDATA[21.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff09b6fed698932a9258208f8cc4d041ac95efbbd" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ab42f8d99b9b6a6bceb169917a3a0c2c222e942" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[수색자 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -279,14 +287,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffe9901b9a404a434b265c1e4c6fcfb23a2b855c5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 짱구는 못말려: 격돌! 낙서왕국과 얼추 네 명의 용사들 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144508</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144508</guid>
-            <pubDate>Fri, 22 Oct 2021 05:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ab42f8d99b9b6a6bceb169917a3a0c2c222e942" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 포켓몬스터: 정글의 아이, 코코 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=147088</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=147088</guid>
@@ -301,14 +301,6 @@
             <pubDate>Tue, 12 Oct 2021 23:15:40 GMT</pubDate>
             <content:encoded><![CDATA[21.10.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8cc2a0a4e74c2ec417170fe936d9b6bdf2292438" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[모가디슈 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=132564</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=132564</guid>
-            <pubDate>Sat, 23 Oct 2021 09:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[21.07.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F232a8d6e902c63036bbe2ae327d57e82585a639f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[색다른 그녀 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -341,6 +333,14 @@
             <pubDate>Sat, 23 Oct 2021 15:15:47 GMT</pubDate>
             <content:encoded><![CDATA[21.10.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcaf0e113a9fccc8d6120a124d1c22d1e08c38434" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[모가디슈 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=132564</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=132564</guid>
+            <pubDate>Sat, 23 Oct 2021 09:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[21.07.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F232a8d6e902c63036bbe2ae327d57e82585a639f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[고장난 론 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -639,14 +639,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F22%2Ftvdaily%2F20211022144923532ttvd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[안젤리나 졸리, 마동석 인터뷰 현장 깜짝 등장 "韓 가고 싶었는데.." (이터널스)[종합] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211022145008950</link>
-            <guid>https://movie.v.daum.net/v/20211022145008950</guid>
-            <pubDate>Fri, 22 Oct 2021 07:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 마동석과 함께 '이터널스'에 출연한 할리우드 배우 안젤리나 졸리가 마동석의 국내 화상 기자간담회 현장에 깜짝 등장했다. 22일 온라인 생중계를 통해 영화 '이터널스'(감독 클로이 자오)에 출연한 배우 마동석의 화상 기자간담회가 진행됐다. 이 자리에는 마동석이 참석했다. '이터널스'는 수천 년에 걸쳐 그 모습을 드러내지 않고 살]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F22%2Fxportsnews%2F20211022145010486qkpu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[외할머니 유품 정리하러 간 곳에서 '어린 엄마'를 만났다 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211022134500680</link>
             <guid>https://movie.v.daum.net/v/20211022134500680</guid>
@@ -661,6 +653,14 @@
             <pubDate>Sat, 23 Oct 2021 15:16:01 GMT</pubDate>
             <content:encoded><![CDATA[히어로에 대한 국내 관객들의 애정은 역시 남다르다. 영화 '베놈 2: 렛 데어 비 카니지'가 쟁쟁한 신작 개봉에도 박스오피스 1위를 기록하며 개봉 11일째인 23일 오후 7시 누적관객수 150만 관객을 돌파했다.​ 특히 '베놈 2: 렛 데어 비 카니지'는 티모시 샬라메 주연의 '듄' 개봉에도 단 하루만에 박스오피스 정상을 탈환하며 적수 없는 흥행 강자]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F23%2Filgansports%2F20211023231406463xfcx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[안젤리나 졸리, 마동석 인터뷰 현장 깜짝 등장 "韓 가고 싶었는데.." (이터널스)[종합] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211022145008950</link>
+            <guid>https://movie.v.daum.net/v/20211022145008950</guid>
+            <pubDate>Fri, 22 Oct 2021 07:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 마동석과 함께 '이터널스'에 출연한 할리우드 배우 안젤리나 졸리가 마동석의 국내 화상 기자간담회 현장에 깜짝 등장했다. 22일 온라인 생중계를 통해 영화 '이터널스'(감독 클로이 자오)에 출연한 배우 마동석의 화상 기자간담회가 진행됐다. 이 자리에는 마동석이 참석했다. '이터널스'는 수천 년에 걸쳐 그 모습을 드러내지 않고 살]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F22%2Fxportsnews%2F20211022145010486qkpu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<연애 빠진 로맨스> 티저 예고편 (우리 영화 볼래?)]]></title>
