@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-23T03:17:49.841Z</updated>
+    <updated>2021-10-23T04:21:30.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[모래 위에 세워진 자본주의, 밀려난 사람들의 풍경화]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002330355</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002330355"/>
+        <updated>2021-10-23T04:19:50.444Z</updated>
+        <content type="html"><![CDATA[[독립예술영화 개봉신상 리뷰] &lt;사상&gt; ▲ 영화 &lt;사상&gt; 포스터 이미지 ⓒ 시네마달 박배일이라는 다큐멘터리 감독이 있다. 2011년 &lt;잔인한 계절&gt;로 서울환경영화제 한국환경영화 부문 우수상, &lt;나비와 바다&gt;로 부산국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오달수 "칩거 후 첫 촬영, 낯설지 않아…당연히 있어야 할 자리" [엑's 인터뷰②]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001363542</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000039893"/>
         <updated>2021-10-22T23:15:48.906Z</updated>
         <content type="html"><![CDATA[옹성우가 극과극 캐릭터를 넘나드는 심쿵 비주얼로 설렘 지수를 높이고 있다. 24일(일) 오후 5시 첫 공개되는 카카오TV 오리지널 &lt;커피 한잔 할까요?&gt;에서 초보 바리스타 ‘강고비’로 변신한 옹성우의 여심 자극 비주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오징어게임' 황동혁 감독의 전작들 '도가니'부터 '도굴'까지 [무비와치]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000502925</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000502925"/>
-        <updated>2021-10-22T23:15:48.914Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 글로벌 신드롬을 일으키고 있는 넷플릭스 오리지널 시리즈 '오징어 게임'. 시청자가 1억4천만 명을 넘어서고, 드라마 속 'K-전통 놀이'를 따라하기 바쁜 전 세계인들의 모습이 이채롭다. "45]]></content>
     </entry>
 </feed>
