@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-23T06:19:37.439Z</updated>
+    <updated>2021-10-23T07:16:34.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[알렉 볼드윈, 소품 총에서 실탄 발사→촬영 감독 사망.."비극적인 일" [종합]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002999069</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002999069"/>
+        <updated>2021-10-23T07:14:57.986Z</updated>
+        <content type="html"><![CDATA[할리우드 배우 겸 감독인 알렉 볼드윈이 영화 촬영 중 사용하던 소품총에서 실탄이 발사돼 촬영감독이 숨졌다. 이에 자신의 심경을 밝혔다. 알렉 볼드윈은 23일(한국시각) 자신의 SNS에 "아내이자 어머니이자 깊이 존경]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마블 '이터널스', 벌써 스포 금지령! [★날선무비]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002999056</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002999023"/>
         <updated>2021-10-23T00:54:19.870Z</updated>
         <content type="html"><![CDATA[한 주간 생생한 영화 소식을 전해드립니다. ○…아이돌그룹 갓세븐 출신 배우 진영과 김동휘, 김영민,허동원 등이 영화 '크리스마스캐럴'에서 호흡을 맞춘다. '크리스마스캐럴'은 쌍둥이 동생의 죽음에 복수하기 위해 스스로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알고 보면 더 재밌는 '듄' 캐릭터 사전 <하>]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003566301</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003566301"/>
-        <updated>2021-10-22T23:15:48.904Z</updated>
-        <content type="html"><![CDATA[프랭크 허버트가 창조한 방대한 세계에 펼쳐진 거대한 서사시가 드니 빌뇌브 감독의 손을 빌려 스크린으로 다시 태어났다. 20일 개봉한 영화 '듄'은 생명 유지 자원인 스파이스를 두고 아라키스 모래 행성 듄에서 악의 세]]></content>
     </entry>
 </feed>
