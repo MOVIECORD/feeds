@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-24T05:15:56.570Z</updated>
+    <updated>2021-10-24T06:19:35.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[1보] '한국 영화계 거목' 태흥영화사 설립자 이태원씨 별세]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012743030</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012743030"/>
+        <updated>2021-10-24T06:18:08.201Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[할리우드 촬영장 총기사고 비극…우리나라는 문제없나]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012742807</id>
@@ -172,12 +178,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000039927"/>
         <updated>2021-10-24T02:01:13.539Z</updated>
         <content type="html"><![CDATA[세기의 배우에서 FBI 음모의 희생양이 된 ‘진 세버그’의 이야기를 그린 할리우드 실화 스릴러 &lt;세버그&gt;가 11월 4일 개봉된다. ‘진 세버그’는 오토 프레민저 감독의 영화 &lt;성 잔 다르크&gt;에서 18,000 대 1의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TEN 피플] 김다미부터 장영남까지, 작지만 강한 엔터 '앤드마크'의 설계자 권오현 대표]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000507225</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000507225"/>
-        <updated>2021-10-24T02:01:13.540Z</updated>
-        <content type="html"><![CDATA[[텐아시아=노규민 기자] ≪노규민의 영화人싸≫ 노규민 텐아시아 영화팀장이 매주 일요일 오전 영화계 인물에 대한 이야기를 전합니다. 배우, 감독, 작가, 번역가, 제작사 등 영화 생태계 구성원들 가운데 오늘뿐 아니라]]></content>
     </entry>
 </feed>
