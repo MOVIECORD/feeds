@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 18:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 19:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F24%2Fohmynews%2F20211024105701776itxo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['연애 빠진 로맨스' 전종서, 마음만은 연애 은퇴..당돌한 새 캐릭터 변신]]></title>
+            <link>https://movie.v.daum.net/v/20211025154217601</link>
+            <guid>https://movie.v.daum.net/v/20211025154217601</guid>
+            <pubDate>Mon, 25 Oct 2021 18:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '연애 빠진 로맨스'(감독 정가영)의 배우 전종서가 마음만은 연애에서 은퇴한 스물아홉 자영 역으로 새로운 캐릭터 변신을 선보일 예정이다. '연애 빠진 로맨스'는 연애는 싫지만 외로운 건 더 싫은 자영(전종서 분)과 일도 연애도 뜻대로 안 풀리는 우리(손석구)가 이름, 이유, 마음을 다 감추고 시작한 아주 특별한 로맨스를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Fxportsnews%2F20211025154219056zjiw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['연애 빠진 로맨스' 전종서, '29살 연애 포기女'로 첫 로맨스 도전]]></title>
             <link>https://movie.v.daum.net/v/20211025090401129</link>
             <guid>https://movie.v.daum.net/v/20211025090401129</guid>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 25 Oct 2021 00:53:31 GMT</pubDate>
             <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = '대세 스타' 티모시 샬라메가 돌아왔다. 무려 두 편의 영화를 통해서다. 첫번째 영화는 지난 20일 개봉해 박스오피스 1위를 찍은 SF 대작 '듄'(감독 드니 빌뇌브)이고 또 다른 영화는 독특한 작품들로 한국에도 많은 팬들을 거느린 웨스 앤더스 감독의 신작 '프렌치 디스패치'다. 티모시 샬라메는 두 영화에서 상반된 매력을]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F24%2FNEWS1%2F20211024045007118uxxm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['연애 빠진 로맨스' 전종서, 마음만은 연애 은퇴..당돌한 새 캐릭터 변신]]></title>
-            <link>https://movie.v.daum.net/v/20211025154217601</link>
-            <guid>https://movie.v.daum.net/v/20211025154217601</guid>
-            <pubDate>Mon, 25 Oct 2021 18:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '연애 빠진 로맨스'(감독 정가영)의 배우 전종서가 마음만은 연애에서 은퇴한 스물아홉 자영 역으로 새로운 캐릭터 변신을 선보일 예정이다. '연애 빠진 로맨스'는 연애는 싫지만 외로운 건 더 싫은 자영(전종서 분)과 일도 연애도 뜻대로 안 풀리는 우리(손석구)가 이름, 이유, 마음을 다 감추고 시작한 아주 특별한 로맨스를]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Fxportsnews%2F20211025154219056zjiw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>

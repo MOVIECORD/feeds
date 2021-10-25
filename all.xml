@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 18:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 19:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -271,14 +271,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd407519e6675a2685a478585b2ad75625f9105b1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[스피릿 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149510</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149510</guid>
-            <pubDate>Mon, 25 Oct 2021 09:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc24b8adacb651651211cb925510fa804701d5074" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[휴가 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145284</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145284</guid>
@@ -293,6 +285,14 @@
             <pubDate>Sat, 23 Oct 2021 15:15:47 GMT</pubDate>
             <content:encoded><![CDATA[21.10.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcaf0e113a9fccc8d6120a124d1c22d1e08c38434" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스피릿 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149510</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149510</guid>
+            <pubDate>Mon, 25 Oct 2021 09:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc24b8adacb651651211cb925510fa804701d5074" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 포켓몬스터: 정글의 아이, 코코 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -631,6 +631,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F24%2Fohmynews%2F20211024105701776itxo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['연애 빠진 로맨스' 전종서, 마음만은 연애 은퇴..당돌한 새 캐릭터 변신 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211025154217601</link>
+            <guid>https://movie.v.daum.net/v/20211025154217601</guid>
+            <pubDate>Mon, 25 Oct 2021 18:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '연애 빠진 로맨스'(감독 정가영)의 배우 전종서가 마음만은 연애에서 은퇴한 스물아홉 자영 역으로 새로운 캐릭터 변신을 선보일 예정이다. '연애 빠진 로맨스'는 연애는 싫지만 외로운 건 더 싫은 자영(전종서 분)과 일도 연애도 뜻대로 안 풀리는 우리(손석구)가 이름, 이유, 마음을 다 감추고 시작한 아주 특별한 로맨스를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Fxportsnews%2F20211025154219056zjiw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['연애 빠진 로맨스' 전종서, '29살 연애 포기女'로 첫 로맨스 도전 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211025090401129</link>
             <guid>https://movie.v.daum.net/v/20211025090401129</guid>
@@ -653,14 +661,6 @@
             <pubDate>Mon, 25 Oct 2021 00:53:31 GMT</pubDate>
             <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = '대세 스타' 티모시 샬라메가 돌아왔다. 무려 두 편의 영화를 통해서다. 첫번째 영화는 지난 20일 개봉해 박스오피스 1위를 찍은 SF 대작 '듄'(감독 드니 빌뇌브)이고 또 다른 영화는 독특한 작품들로 한국에도 많은 팬들을 거느린 웨스 앤더스 감독의 신작 '프렌치 디스패치'다. 티모시 샬라메는 두 영화에서 상반된 매력을]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F24%2FNEWS1%2F20211024045007118uxxm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['연애 빠진 로맨스' 전종서, 마음만은 연애 은퇴..당돌한 새 캐릭터 변신 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211025154217601</link>
-            <guid>https://movie.v.daum.net/v/20211025154217601</guid>
-            <pubDate>Mon, 25 Oct 2021 18:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '연애 빠진 로맨스'(감독 정가영)의 배우 전종서가 마음만은 연애에서 은퇴한 스물아홉 자영 역으로 새로운 캐릭터 변신을 선보일 예정이다. '연애 빠진 로맨스'는 연애는 싫지만 외로운 건 더 싫은 자영(전종서 분)과 일도 연애도 뜻대로 안 풀리는 우리(손석구)가 이름, 이유, 마음을 다 감추고 시작한 아주 특별한 로맨스를]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Fxportsnews%2F20211025154219056zjiw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<가치 캅시다> 캐릭터 영상 (우리 영화 볼래?)]]></title>
@@ -1315,7 +1315,7 @@
             <link>https://tv.naver.com/v/23158987</link>
             <guid>https://tv.naver.com/v/23158987</guid>
             <pubDate>Mon, 25 Oct 2021 09:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_112/I9P4a_1635151045096EsT4L_JPEG/b1c6e77a-356e-11ec-8e54-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1323,7 +1323,7 @@
             <link>https://tv.naver.com/v/23158839</link>
             <guid>https://tv.naver.com/v/23158839</guid>
             <pubDate>Mon, 25 Oct 2021 09:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_76/LWxk1_1635150735710HVWJE_JPEG/dc653394-356d-11ec-8e54-505dac8c37f3_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1331,7 +1331,7 @@
             <link>https://tv.naver.com/v/23156934</link>
             <guid>https://tv.naver.com/v/23156934</guid>
             <pubDate>Mon, 25 Oct 2021 08:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_242/NuvUg_1635146884219g0WxN_JPEG/c734556c-3564-11ec-9ee0-a0369ff94ed0_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1339,7 +1339,7 @@
             <link>https://tv.naver.com/v/23156867</link>
             <guid>https://tv.naver.com/v/23156867</guid>
             <pubDate>Mon, 25 Oct 2021 08:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_157/guwdv_1635146741141k5qsd_JPEG/aeb93e7d-3564-11ec-9a6e-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1347,7 +1347,7 @@
             <link>https://tv.naver.com/v/23156842</link>
             <guid>https://tv.naver.com/v/23156842</guid>
             <pubDate>Mon, 25 Oct 2021 08:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_171/65kKt_1635146683690l6ziU_JPEG/9440d0f6-3564-11ec-9a33-505dac8c3721_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1355,7 +1355,7 @@
             <link>https://tv.naver.com/v/23156823</link>
             <guid>https://tv.naver.com/v/23156823</guid>
             <pubDate>Mon, 25 Oct 2021 08:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_51/8vXn2_1635146656821S90CL_JPEG/7786d6ed-3564-11ec-9dda-505dac8c3607_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1371,7 +1371,7 @@
             <link>https://tv.naver.com/v/23154773</link>
             <guid>https://tv.naver.com/v/23154773</guid>
             <pubDate>Mon, 25 Oct 2021 06:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_171/XJ0fh_1635140639288bAedo_JPEG/64c368a4-3556-11ec-917b-a0369ff9545c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1379,7 +1379,7 @@
             <link>https://tv.naver.com/v/23151973</link>
             <guid>https://tv.naver.com/v/23151973</guid>
             <pubDate>Mon, 25 Oct 2021 03:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_104/tO8NW_16351303282753DHpa_JPEG/55da313e-353e-11ec-9524-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1395,7 +1395,7 @@
             <link>https://tv.naver.com/v/23150357</link>
             <guid>https://tv.naver.com/v/23150357</guid>
             <pubDate>Mon, 25 Oct 2021 00:54:04 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_165/98EtE_1635122729668419Me_JPEG/8f2fcbd0-352c-11ec-9970-a0369ff94ec8_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
