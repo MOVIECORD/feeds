@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-10-25T19:14:34.051Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 25 Oct 2021 20:17:38 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['베놈 2:렛 데어 비 카니지' 170만 돌파 눈앞[박스오피스]]]></title>
+            <link>https://v.daum.net/v/20211026050637062</link>
+            <guid>https://v.daum.net/v/20211026050637062</guid>
+            <pubDate>Mon, 25 Oct 2021 20:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '베놈 2: 렛 데어 비 카니지'가 170만 돌파를 앞두고 있다. 10월 26일 영화진흥위원회 통합전산망 집계에 따르면 25일 영화 '베놈 2: 렛 데어 비 카니지'가 3만2,152명을 모아 전체 박스오피스 1위를 차지했다. 지난 13일 개봉한 '베놈 2: 렛 데어 비 카니지'의 누적 관객 수는 168만1,585명으로, 170만 돌]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2Fnewsen%2F20211026050638949gyib.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['서편제'·'취화선' 제작자 故 이태원 대표, 오늘 발인..韓 영화계 거목]]></title>
+            <link>https://v.daum.net/v/20211026050029954</link>
+            <guid>https://v.daum.net/v/20211026050029954</guid>
+            <pubDate>Mon, 25 Oct 2021 20:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 한국 영화계의 거목, 이태원 태흥영화사 전 대표의 발인식이 26일 거행된다. 이태원 대표는 지난 24일 오후 서울 서대문구 세브란스병원에서 세상을 떠났다. 향년 83세. 이 대표의 발인식은 26일 오전 진행될 예정이며 장지는 분당메모리얼파크다. 고인의 아들이자 영화제작자인 이효승씨는 앞서 뉴스1과 통화에서 이태원 전 대]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2FNEWS1%2F20211026050029753gsyh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[심재명 대표 "'태일이'는 수십 년 마음에 뒀던 기획"]]></title>
+            <link>https://v.daum.net/v/20211026043045683</link>
+            <guid>https://v.daum.net/v/20211026043045683</guid>
+            <pubDate>Mon, 25 Oct 2021 20:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[‘미다스의 손’으로 불렸다. 그럴 만도 했다. 영화 ‘접속’(1997)과 ‘공동경비구역 JSA’(2000), ‘우리 생애 최고의 순간’(2007), ‘건축학개론’(2012) 등 히트작이 열 손가락을 넘어간다. 의미와 재미를 놓치지 않는 영화들로 관객들의 사랑을 받았다. ‘마당을 나온 암탉’(2011)의 성과도 빼놓을 수 없다. 애니메이션 황무지나 다름없는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2Fhankooki%2F20211026043047720ikxe.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
