@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 13:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 15:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -215,20 +215,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F316e880b27c97eddd0b6f0a42aff0cf1fecd960a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[한창나이 선녀님 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152962</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152962</guid>
-            <pubDate>Wed, 20 Oct 2021 00:55:16 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2f172ff45e840b9d656366c43072f302047e426f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[보이스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137628</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137628</guid>
             <pubDate>Wed, 15 Sep 2021 00:49:01 GMT</pubDate>
             <content:encoded><![CDATA[21.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0643e2cd42252fb6d9018173e867fcd9612c115" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[한창나이 선녀님 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152962</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152962</guid>
+            <pubDate>Wed, 20 Oct 2021 00:55:16 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2f172ff45e840b9d656366c43072f302047e426f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[첫눈이 사라졌다 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -263,14 +263,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff09b6fed698932a9258208f8cc4d041ac95efbbd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[휴가 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145284</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145284</guid>
-            <pubDate>Tue, 12 Oct 2021 23:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8cc2a0a4e74c2ec417170fe936d9b6bdf2292438" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[색다른 그녀 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153866</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153866</guid>
@@ -287,12 +279,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc24b8adacb651651211cb925510fa804701d5074" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[휴가 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145284</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145284</guid>
+            <pubDate>Tue, 12 Oct 2021 23:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8cc2a0a4e74c2ec417170fe936d9b6bdf2292438" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[극장판 포켓몬스터: 정글의 아이, 코코 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=147088</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=147088</guid>
             <pubDate>Sat, 23 Oct 2021 06:18:05 GMT</pubDate>
             <content:encoded><![CDATA[21.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc607318ce0a60a7d8b8e540ea599f588751df07e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[용과 주근깨 공주 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152198</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152198</guid>
+            <pubDate>Mon, 25 Oct 2021 15:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ad31d50eedd1586704f0af288025b3f85917fdb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[노회찬6411 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -335,14 +343,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feba7d4189d131ef30eb219975990938a34d54d54" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 짱구는 못말려: 격돌! 낙서왕국과 얼추 네 명의 용사들 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144508</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144508</guid>
-            <pubDate>Mon, 25 Oct 2021 12:24:56 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ab42f8d99b9b6a6bceb169917a3a0c2c222e942" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[고장난 론 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151322</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151322</guid>
@@ -375,20 +375,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F468918ac6a625b748c2c14be159519533fd5beb3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[할로윈 킬즈 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138629</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138629</guid>
-            <pubDate>Tue, 19 Oct 2021 23:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F97c167b78606b8f5044b59d39f8b815523cb71e3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[가족의 색깔 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=124572</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=124572</guid>
             <pubDate>Thu, 21 Oct 2021 00:57:05 GMT</pubDate>
             <content:encoded><![CDATA[21.10.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbf91222e220046d38c772d421c8a8f215a949eda" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[할로윈 킬즈 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138629</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138629</guid>
+            <pubDate>Tue, 19 Oct 2021 23:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F97c167b78606b8f5044b59d39f8b815523cb71e3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[센코롤 커넥트 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -575,14 +575,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Filgansports%2F20211025143236530pght.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['서편제' '장군의 아들' 제작 충무로 거물 이태원 대표 별세 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211024180553007</link>
-            <guid>https://movie.v.daum.net/v/20211024180553007</guid>
-            <pubDate>Sun, 24 Oct 2021 09:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[국민영화 ‘서편제’(1993)와 ‘취화선’(2002), ‘장군의 아들’ 시리즈 등을 제작하며 한국 영화 재부흥의 발판을 마련했던 이태원 전 태흥영화 대표가 24일 별세했다. 향년 83세. 태흥영화에 따르면 이 전 대표는 이날 오후 서울 서대문구 세브란스병원에서 세상을 떠났다. 고인은 지난해 5월 낙상사고로 이 병원에 입원한 후 줄곧 치료를 받아왔다. 193]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F24%2Fhankooki%2F20211024180555682cicc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['듄' 월드와이드 흥행 수익 2억2000만 달러 돌파, IMAX 수익 팬데믹 이후 최고 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211025160808635</link>
             <guid>https://movie.v.daum.net/v/20211025160808635</guid>
@@ -597,6 +589,30 @@
             <pubDate>Mon, 25 Oct 2021 08:19:16 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠조선 조지영 기자] 마블 시리즈 사상 한국 최초 슈퍼 히어로 탄생이 임박했다. 개봉을 아흐레 남겨둔 올해 최고의 기대작인 액션 영화 '이터널스'(클로이 자오 감독)가 마동석 효과를 톡톡히 받으며 예매율 지붕킥에 나섰다. 25일 오전 11시께 영화진흥위원회 영화관입장권통합전상망의 실시간 예매율에 따르면 '이터널스'는 예매점유율 41.2%]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2FSpoChosun%2F20211025110816783merj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['서편제' '장군의 아들' 제작 충무로 거물 이태원 대표 별세 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211024180553007</link>
+            <guid>https://movie.v.daum.net/v/20211024180553007</guid>
+            <pubDate>Sun, 24 Oct 2021 09:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[국민영화 ‘서편제’(1993)와 ‘취화선’(2002), ‘장군의 아들’ 시리즈 등을 제작하며 한국 영화 재부흥의 발판을 마련했던 이태원 전 태흥영화 대표가 24일 별세했다. 향년 83세. 태흥영화에 따르면 이 전 대표는 이날 오후 서울 서대문구 세브란스병원에서 세상을 떠났다. 고인은 지난해 5월 낙상사고로 이 병원에 입원한 후 줄곧 치료를 받아왔다. 193]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F24%2Fhankooki%2F20211024180555682cicc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[TEN 인터뷰] '당신은 믿지 않겠지만' 최희서 "연기·연출·해외 진출까지, 저는 욕심 많은 도전자죠" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211025161505889</link>
+            <guid>https://movie.v.daum.net/v/20211025161505889</guid>
+            <pubDate>Mon, 25 Oct 2021 13:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=노규민 기자]"저 또한 배우로 주목 받았을 때가 있었고, 주목 받지 못할 때가 있었습니다. 데뷔한 지 12년이 됐는데, 주목 받지 못할 때가 훨씬 더 많았죠."한일 합작영화 '당신은 믿지 않겠지만'에서 아아돌 출신 무명가수 솔 역으로 열연한 배우 최희서가 극 중 인물과 자신이 비슷한 감정을 가지고 있다며 이렇게 말했다.&nbsp;최희서가 영화 '당신은 믿]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2F10asia%2F20211025161508954ullg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[할리우드 절친 맷 데이먼-벤 애플렉, 또 한번 뭉친 이유 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211024123822684</link>
+            <guid>https://movie.v.daum.net/v/20211024123822684</guid>
+            <pubDate>Mon, 25 Oct 2021 11:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] 할리우드의 대표적인 절친 맷 데이먼과 밴 애플렉이 24년 만에 다시 의기투합해 각본 작업을 함께 한 작품 ‘라스트 듀얼 : 최후의 결투’가 지난 20일 개봉했다. 두 사람이 신중하게 함께 써내려 간 각본에 거장 리들리 스콧 감독의 관록이 더해진 작품은 중세 실화를 통해 오늘의 문제에 경종을 울린다. 데이먼과 애플렉이 ‘굿 윌 헌팅’ 이후 24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F24%2Fseouleconomy%2F20211024124021254evyv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[충무로 액션장인들이 선사하는 통쾌한 '액션쾌감' (다음영화 뉴스 ─ 인기)]]></title>
@@ -623,6 +639,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F24%2FNEWS1%2F20211024045007118uxxm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['노회찬6411' 43명의 인터뷰이가 전하는 노회찬의 진심 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211025134309851</link>
+            <guid>https://movie.v.daum.net/v/20211025134309851</guid>
+            <pubDate>Mon, 25 Oct 2021 15:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 현혜선 기자] '노회찬6411' 인터뷰이들이 노회찬의 진심에 대해 전했다. 영화 '노회찬6411' 측은 25일 43명의 인터뷰이가 전하는 노회찬의 진심을 공개했다. ◆ "'대중 정치라는 게 이런 거구나. 우리도 이제 대중 정치를 시작하는구나' 이런 것들을 실감하게 해줬죠" 함께 잘 사는 나라를 만들기 위한 방법으로 진보 정치를 선택한 노회찬.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Fsportstoday%2F20211025134311101lgnm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['이터널스' MCU의 미래를 쓸 강력한 女 캐릭터 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211025081533028</link>
             <guid>https://movie.v.daum.net/v/20211025081533028</guid>
@@ -631,196 +655,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Filgansports%2F20211025081535149siun.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[할리우드 절친 맷 데이먼-벤 애플렉, 또 한번 뭉친 이유 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211024123822684</link>
-            <guid>https://movie.v.daum.net/v/20211024123822684</guid>
-            <pubDate>Mon, 25 Oct 2021 11:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] 할리우드의 대표적인 절친 맷 데이먼과 밴 애플렉이 24년 만에 다시 의기투합해 각본 작업을 함께 한 작품 ‘라스트 듀얼 : 최후의 결투’가 지난 20일 개봉했다. 두 사람이 신중하게 함께 써내려 간 각본에 거장 리들리 스콧 감독의 관록이 더해진 작품은 중세 실화를 통해 오늘의 문제에 경종을 울린다. 데이먼과 애플렉이 ‘굿 윌 헌팅’ 이후 24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F24%2Fseouleconomy%2F20211024124021254evyv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[TEN 인터뷰] '당신은 믿지 않겠지만' 최희서 "연기·연출·해외 진출까지, 저는 욕심 많은 도전자죠" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211025161505889</link>
-            <guid>https://movie.v.daum.net/v/20211025161505889</guid>
-            <pubDate>Mon, 25 Oct 2021 13:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=노규민 기자]"저 또한 배우로 주목 받았을 때가 있었고, 주목 받지 못할 때가 있었습니다. 데뷔한 지 12년이 됐는데, 주목 받지 못할 때가 훨씬 더 많았죠."한일 합작영화 '당신은 믿지 않겠지만'에서 아아돌 출신 무명가수 솔 역으로 열연한 배우 최희서가 극 중 인물과 자신이 비슷한 감정을 가지고 있다며 이렇게 말했다.&nbsp;최희서가 영화 '당신은 믿]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2F10asia%2F20211025161508954ullg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['지리산' 조한철 또 새로운 얼굴..캐릭터 맛 살려낸 열연 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211025101804398</link>
-            <guid>https://movie.v.daum.net/v/20211025101804398</guid>
-            <pubDate>Mon, 25 Oct 2021 02:02:03 GMT</pubDate>
-            <content:encoded><![CDATA['지리산' 조한철의 존재감이 빛났다. tvN 15주년 특별기획 '지리산'은 지리산 국립공원 최고의 레인저 서이강(전지현 분)과 말 못 할 비밀을 가진 신입 레인저 강현조(주지훈)가 산에서 일어나는 의문의 사고를 파헤치며 벌어지는 이야기를 그린 미스터리 드라마다. 극 중 조한철이 분한 박일해는 지리산국립공원 비담대피소 소속 수색1팀 레인저 팀장이다. 지]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Filgansports%2F20211025101806126blms.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[오다기리 조 "한일 정치 문제는 전혀 신경 쓰이지 않아요" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211025172310228</link>
             <guid>https://movie.v.daum.net/v/20211025172310228</guid>
             <pubDate>Mon, 25 Oct 2021 12:25:12 GMT</pubDate>
             <content:encoded><![CDATA[2000년대 중·후반 활발했던 한일 영화 교류는 양국 관계가 냉각되면서 사실상 끊긴 상태다. 우호와 협력을 입 밖에 내기 힘든 시기, 28일 개봉하는 ‘당신은 믿지 않겠지만’은 한일 영화인의 협업으로 탄생한 요즘 드문 영화다. 일본 영화 새 주역으로 꼽히는 이시이 유야 감독이 메가폰을 잡고, 한국 영화사 디오시네마가 제작 투자를 했다. ‘무산일기’(2011]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Fhankooki%2F20211025172313388gcst.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['내아모' 카사노바→'장르만 로맨스' 작가, 류승룡표 마성의 캐릭터4 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211025204235250</link>
-            <guid>https://v.daum.net/v/20211025204235250</guid>
-            <pubDate>Mon, 25 Oct 2021 12:25:20 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=하수정 기자]&nbsp;대한민국이 사랑하는 배우 류승룡이 '내 아내의 모든 것'의 카사노바, '극한직업'의 고반장, 넷플릭스 시리즈 '킹덤'의 조학주에 이어 '장르만 로맨스'의 베스트셀러 작가 현으로 인생 캐릭터를 갱신한다. 매 작품 살아 숨 쉬는 캐릭터 소화력으로 레전드 캐릭터를 탄생시켜온 배우 류승룡이 '장르만 로맨스'(감독 조은지, 제공배급 NEW,]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Fpoctan%2F20211025204237061qfqg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[최희서 "日 감독·배우들과 진심으로 소통..좋은 자신감 될 것" [인터뷰 종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211025175002052</link>
-            <guid>https://v.daum.net/v/20211025175002052</guid>
-            <pubDate>Mon, 25 Oct 2021 09:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) '당신은 믿지 않겠지만'으로 돌아온 최희서가 작품과 배우 활동에 대한 이야기를 전했다.  25일 오후 영화 '당신은 믿지 않겠지만' 최희서와의 화상 인터뷰가 진행됐다.  '당신은 믿지 않겠지만'은&nbsp;서로 다른 마음의 상처를 가진 일본과 한국의 가족이 서울에서 우연처럼 만나, 운명 같은 여정을 떠나는 힐링 미라클 드라마다.  이날]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Fxportsnews%2F20211025175004034hhyb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[오다기리 조 "한일 정치 문제는 전혀 신경 쓰이지 않아요" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211025172310228</link>
-            <guid>https://v.daum.net/v/20211025172310228</guid>
-            <pubDate>Mon, 25 Oct 2021 09:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[2000년대 중·후반 활발했던 한일 영화 교류는 양국 관계가 냉각되면서 사실상 끊긴 상태다. 우호와 협력을 입 밖에 내기 힘든 시기, 28일 개봉하는 ‘당신은 믿지 않겠지만’은 한일 영화인의 협업으로 탄생한 요즘 드문 영화다. 일본 영화 새 주역으로 꼽히는 이시이 유야 감독이 메가폰을 잡고, 한국 영화사 디오시네마가 제작 투자를 했다. ‘무산일기’(2011]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Fhankooki%2F20211025172313388gcst.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[지역에서 독립영화 불모지 개간중인 '목포독립영화제' (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211025171802055</link>
-            <guid>https://v.daum.net/v/20211025171802055</guid>
-            <pubDate>Mon, 25 Oct 2021 08:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[[성하훈 기자] ▲ &nbsp;10월 22일~24일까지 열린 목포국도1호선독립영화제. 폐막작 &lt;나는 조선사람입니다&gt; 상영 후 진행된 관객과의 대화.    ⓒ 성하훈  &nbsp;지역의 독립영화는 어떻게 생존해야 할까? 지난 10월 22일~24일까지 개최된 목포국도1호선독립영화제는 대도시권이 아닌 중소도시에서 독립영화인들이 어떻게 생존하고 있는지를 엿볼 수 있는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Fohmynews%2F20211025171804063gbbx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[st&인터뷰②] '오징어게임 유리공' 이상희의 '조연론'.."있는 듯 없는 듯 찰랑찰랑하게" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211025165901379</link>
-            <guid>https://v.daum.net/v/20211025165901379</guid>
-            <pubDate>Mon, 25 Oct 2021 08:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[[STN스포츠] 박재호 기자 = 넷플릭스 '오징어 게임' 시청자가 전 세계 1억 4000만명을 넘어서며 세계적 열풍이 근 한 달간 이어지고 있다. '오징어 게임' 매력 중 하나는 이정재ㆍ박해수 같은 주인공 외에 여러 조연ㆍ단역들이 함께 극을 이끌며 완벽한 작품 앙상블을 이뤄냈다는 점이다. 유튜브ㆍ인터넷에서는 '오징어 게임' 속 숨은 배우 찾기 콘텐츠가 늘어]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2FSTNSPORTS%2F20211025165902707xghi.png" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[시한부 선고를 받자 인생이 평온해졌다 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211025162102111</link>
-            <guid>https://v.daum.net/v/20211025162102111</guid>
-            <pubDate>Mon, 25 Oct 2021 08:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[[이정희 기자] &lt;죽는게 뭐라고&gt;에서 사노 요코는 자신의 삶이 이제 2년 정도 밖에 남지 않았다는 사실을 의사에게 통보받고 나자 10여 년간 자신을 괴롭히던 우울증이 단박에 사라졌다고 했다. 파도 위에 던져진 조각배처럼 우리를 괴롭히는 우울은 바로 삶의 불투명함으로부터 기인한다. 그런데 그 불투명한 미래에 '죽음'이란 도장이 꽝꽝 찍히니 더는 번민할 이유가]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Fohmynews%2F20211025162105966dbdu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[TEN 인터뷰] '당신은 믿지 않겠지만' 최희서 "연기·연출·해외 진출까지, 저는 욕심 많은 도전자죠" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211025161505889</link>
-            <guid>https://v.daum.net/v/20211025161505889</guid>
-            <pubDate>Mon, 25 Oct 2021 07:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=노규민 기자]"저 또한 배우로 주목 받았을 때가 있었고, 주목 받지 못할 때가 있었습니다. 데뷔한 지 12년이 됐는데, 주목 받지 못할 때가 훨씬 더 많았죠."한일 합작영화 '당신은 믿지 않겠지만'에서 아아돌 출신 무명가수 솔 역으로 열연한 배우 최희서가 극 중 인물과 자신이 비슷한 감정을 가지고 있다며 이렇게 말했다.&nbsp;최희서가 영화 '당신은 믿]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2F10asia%2F20211025161508954ullg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[日영화 주연 최희서 "일본어 시나리오 우리말 번역도 했어요" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211025161350831</link>
-            <guid>https://v.daum.net/v/20211025161350831</guid>
-            <pubDate>Mon, 25 Oct 2021 07:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 오보람 기자 = "각자 소통되지 않았던 두 가족이 우연히 만나서 큰 가족이 되는 이야기입니다." 일본 영화 '당신은 믿지 않겠지만' 주연 배우 최희서는 25일 온라인으로 열린 인터뷰에서 영화에 대해 이렇게 소개했다. 이시이 유야 감독이 연출한 영화는 한일 양국 배우들과 한국에서 올로케이션으로 촬영한 영화다. 형 토오루(오다기리 죠)의 말]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Fyonhap%2F20211025161351010ioop.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['듄' 월드와이드 흥행 수익 2억2000만 달러 돌파, IMAX 수익 팬데믹 이후 최고 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211025160808635</link>
-            <guid>https://v.daum.net/v/20211025160808635</guid>
-            <pubDate>Mon, 25 Oct 2021 08:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '듄'이 월드와이드 흥행 수익 2억2000만 달러를 돌파했다. 북미 영화 사이트인 박스오피스 모조 집계에 따르면 영화 '듄'(감독 드니 빌뇌브·배급 워너브러더스 코리아)이 북미에서 22일 개봉해 4010만 달러의 오프닝 수익을 거뒀다. 이중 22%가 IMAX에서 거둔 수익으로 이는 팬데믹 이후 최고 IMAX 흥행 기록에 달한다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Ftvdaily%2F20211025160809610koya.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['연애 빠진 로맨스' 전종서, 마음만은 연애 은퇴..당돌한 새 캐릭터 변신 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211025154217601</link>
-            <guid>https://v.daum.net/v/20211025154217601</guid>
-            <pubDate>Mon, 25 Oct 2021 08:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '연애 빠진 로맨스'(감독 정가영)의 배우 전종서가 마음만은 연애에서 은퇴한 스물아홉 자영 역으로 새로운 캐릭터 변신을 선보일 예정이다. '연애 빠진 로맨스'는 연애는 싫지만 외로운 건 더 싫은 자영(전종서 분)과 일도 연애도 뜻대로 안 풀리는 우리(손석구)가 이름, 이유, 마음을 다 감추고 시작한 아주 특별한 로맨스를]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Fxportsnews%2F20211025154219056zjiw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[아프간 남자와 결혼한 체코 여성.. 이건 예상치 못했다 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211025153901407</link>
-            <guid>https://v.daum.net/v/20211025153901407</guid>
-            <pubDate>Mon, 25 Oct 2021 07:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[[장혜령 기자] ▲ &nbsp;영화 &lt;마이 써니 마드&gt; 스틸컷    ⓒ 부천국제애니메이션페스티벌  &nbsp;체코의 대학에서 헤라는 운명처럼 아프가니스탄 남자 나자르와 사랑에 빠진다. 나지르의 가족은 할아버지, 어머니, 여동생의 부부와 조카가 함께 사는 대가족이었다. 체코에서의 삶에 미련이 없던 헬레나는 새로운 터전 아프가니스탄 카불로 떠나 가족을 꾸릴 마음에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Fohmynews%2F20211025153906324abhk.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰]안보현 "액션이든 멜로든 죽지 말고 살았으면" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211025153251104</link>
-            <guid>https://v.daum.net/v/20211025153251104</guid>
-            <pubDate>Mon, 25 Oct 2021 07:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[[아시아경제 이이슬 기자] 눈에 힘을 빼고 머리카락을 기르니 다른 사람이 됐다. 안보현은 장르와 장르 사이를 부드럽게 오가며 유연하게 얼굴을 바꾸는 배우다. 데뷔한 지 5년, 길지 않은 시간 동안 그는 이미 작품의 주연을 꿰찼다. 이번에는 형사가 됐다. 복싱선수로 활동한 경험치를 꺼내 쓸 기회가 온 것이다. 누아르도 꼭 맞는 신발처럼 소화하며 영역을 확장했]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Fakn%2F20211025153252652qfcx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['당신은 믿지 않겠지만' 최희서 "일본어 연기 없어서 선택" [인터뷰③] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211025150750212</link>
-            <guid>https://v.daum.net/v/20211025150750212</guid>
-            <pubDate>Mon, 25 Oct 2021 06:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 영화 '당신은 믿지 않겠지만'(감독 이시이 유야)의 주연배우 최희서가 25일 오후 진행된 온라인 라운드 인터뷰를 위해 포즈를 취하고 있다.  서로 다른 마음의 상처를 가진 일본과 한국의 가족이 서울에서 우연히 만나 운명 같은 여정을 떠나는 힐링 미라클 영화 '당신은 믿지 않겠지만'은 오는 28일 개봉된다. /사진제공=사람엔터테인먼트]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Fstarnews%2F20211025150751686abth.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['당신은..' 최희서 "한·일 관계 의식 NO, 이색적인 작업이었어요" [인터뷰 종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211025150200946</link>
-            <guid>https://v.daum.net/v/20211025150200946</guid>
-            <pubDate>Mon, 25 Oct 2021 06:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=연휘선 기자] 한국과 일본의 감독, 배우들이 만나 한국을 배경으로 한 작품을 만들었다. 그 중심에 있던 배우 최희서가 영화 '당신은 믿지 않겠지만'으로 일본 감독, 배우들과 협업한 소회를 밝혔다.&nbsp; 최희서는 28일 개봉하는 '당신은 믿지 않겠지만'(감독 이시이 유야, 제공제작 디오시네마 The Asian Angel Filmpartners, 이하]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Fpoctan%2F20211025150201846leqt.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰⑤] 최희서 "韓콘텐트 글로벌 인기 설레..美오디션 꾸준히 준비" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211025145348546</link>
-            <guid>https://v.daum.net/v/20211025145348546</guid>
-            <pubDate>Mon, 25 Oct 2021 06:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[최희서가 해외진출 계획과 함께 글로벌 인기를 한 몸에 받고 있는 국내 콘텐트에 대한 애정을 표했다. 영화 '당신은 믿지 않겠지만(이시이 유야 감독)' 개봉을 앞둔 최희서는 25일 진행된 화상 인터뷰에서 "요즘 한국 콘텐트가 해외에서 큰 사랑을 받고 있는데, 배우로서 다양한 작업에 대한 기회와 자긍심이 남다를 것 같다"는 말에 "'굉장히 좋은 시대에 살고]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Filgansports%2F20211025145349820dlrz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['당신은 믿지 않겠지만' 최희서 "무명가수 솔, 내 이야기 같았다" [MD인터뷰](종합) (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211025144223102</link>
-            <guid>https://v.daum.net/v/20211025144223102</guid>
-            <pubDate>Mon, 25 Oct 2021 06:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] "노래를 부르고 싶어 하는 솔의 이야기가 빨리 무대에서 연기하고 싶은 내 모습과 많이 닮았더라고요." 영화 '당신은 믿지 않겠지만'(감독 이시이 유야)에서 한때 잘나가던 아이돌 출신 무명가수 솔을 연기한 배우 최희서의 말이다. 최희서는 25일 오후 온라인으로 진행된 화상 인터뷰에서 "배우는 주목받지 못 하는 날이 더 길다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Fmydaily%2F20211025144223774bxph.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['당신은 믿지 않겠지만' 최희서 "日시나리오 번역 참여..사서 고생 했죠" [인터뷰②] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211025144005005</link>
-            <guid>https://v.daum.net/v/20211025144005005</guid>
-            <pubDate>Mon, 25 Oct 2021 06:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 영화 '당신은 믿지 않겠지만'(감독 이시이 유야)의 주연배우 최희서가 25일 오후 진행된 온라인 라운드 인터뷰를 위해 포즈를 취하고 있다.  서로 다른 마음의 상처를 가진 일본과 한국의 가족이 서울에서 우연히 만나 운명 같은 여정을 떠나는 힐링 미라클 영화 '당신은 믿지 않겠지만'은 오는 28일 개봉된다. /사진제공=사람엔터테인먼트]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Fstarnews%2F20211025145944429ohic.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['당신은..' 최희서 "이케마츠 소스케·오다기리 죠, 쉴 때도 내 연기 봐줘" [인터뷰③] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211025143331735</link>
-            <guid>https://v.daum.net/v/20211025143331735</guid>
-            <pubDate>Mon, 25 Oct 2021 06:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=연휘선 기자] (인터뷰②에 이어) 배우 최희서가 영화 '당신은 믿지 않겠지만'에서 일본 배우들과 호흡한 소감을 밝혔다. 최희서는 25일 국내 취재진과 영화 '당신은 믿지 않겠지만'에 대해 화상 인터뷰를 진행했다.&nbsp; '당신은 믿지 않겠지만'(감독 이시이 유야, 제공제작 디오시네마 The Asian Angel Filmpartners)은 서로 다른 마]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Fpoctan%2F20211025143332320amkj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['태양은 움직이지 않는다' 한효주X변요한 글로벌 스파이 변신 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211025143235672</link>
-            <guid>https://v.daum.net/v/20211025143235672</guid>
-            <pubDate>Mon, 25 Oct 2021 08:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[한효주와 변요한이 강렬한 연기 변신을 선보인다. 영화 '태양은 움직이지 않는다(하스미 에이이치로 감독)'는 24시간마다 다가오는 죽음의 위험을 안고, 전 세계에서 극비 정보들을 조사하는 AN 통신 요원들의 이야기를 담은 논스톱 스파이 액션 영화다. 이번 글로벌 프로젝트에서 한효주와 변요한은 비밀 스파이 요원으로 변신해 색다른 매력을 뽐낼 전망이다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Filgansports%2F20211025143236530pght.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰④] 최희서 "태도 훌륭한 日배우들 韓너무 좋아해, 힘 얻었다" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211025143204659</link>
-            <guid>https://v.daum.net/v/20211025143204659</guid>
-            <pubDate>Mon, 25 Oct 2021 06:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[최희서가 일본 배우들과 호흡맞춘 소감을 전했다. 영화 '당신은 믿지 않겠지만(이시이 유야 감독)' 개봉을 앞둔 최희서는 25일 진행된 화상 인터뷰에서 "언제 또 이렇게 한국에서 일본 배우들과 모여 가족이 되는 영화를 찍을 수 있을까 싶은 작업이었다. 이시이 유야 감독 눈으로 본 한국과 한국 친구들에 대한 애정이 가득해 영화의 개성도 뚜렷하지 않나 생각했]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Filgansports%2F20211025143206123msvf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<가치 캅시다> 캐릭터 영상 (우리 영화 볼래?)]]></title>
@@ -1467,7 +1307,7 @@
             <link>https://tv.naver.com/v/23160036</link>
             <guid>https://tv.naver.com/v/23160036</guid>
             <pubDate>Mon, 25 Oct 2021 10:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_161/iCtUh_1635153473893VOGUJ_JPEG/2c4b3ed2-3574-11ec-b0b6-246e963a4708_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1475,7 +1315,7 @@
             <link>https://tv.naver.com/v/23158987</link>
             <guid>https://tv.naver.com/v/23158987</guid>
             <pubDate>Mon, 25 Oct 2021 09:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_112/I9P4a_1635151045096EsT4L_JPEG/b1c6e77a-356e-11ec-8e54-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1483,7 +1323,7 @@
             <link>https://tv.naver.com/v/23158839</link>
             <guid>https://tv.naver.com/v/23158839</guid>
             <pubDate>Mon, 25 Oct 2021 09:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_76/LWxk1_1635150735710HVWJE_JPEG/dc653394-356d-11ec-8e54-505dac8c37f3_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1491,7 +1331,7 @@
             <link>https://tv.naver.com/v/23156934</link>
             <guid>https://tv.naver.com/v/23156934</guid>
             <pubDate>Mon, 25 Oct 2021 08:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_242/NuvUg_1635146884219g0WxN_JPEG/c734556c-3564-11ec-9ee0-a0369ff94ed0_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1499,7 +1339,7 @@
             <link>https://tv.naver.com/v/23156867</link>
             <guid>https://tv.naver.com/v/23156867</guid>
             <pubDate>Mon, 25 Oct 2021 08:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_157/guwdv_1635146741141k5qsd_JPEG/aeb93e7d-3564-11ec-9a6e-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1507,7 +1347,7 @@
             <link>https://tv.naver.com/v/23156842</link>
             <guid>https://tv.naver.com/v/23156842</guid>
             <pubDate>Mon, 25 Oct 2021 08:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_171/65kKt_1635146683690l6ziU_JPEG/9440d0f6-3564-11ec-9a33-505dac8c3721_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1515,7 +1355,7 @@
             <link>https://tv.naver.com/v/23156823</link>
             <guid>https://tv.naver.com/v/23156823</guid>
             <pubDate>Mon, 25 Oct 2021 08:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_51/8vXn2_1635146656821S90CL_JPEG/7786d6ed-3564-11ec-9dda-505dac8c3607_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1523,7 +1363,7 @@
             <link>https://tv.naver.com/v/23156666</link>
             <guid>https://tv.naver.com/v/23156666</guid>
             <pubDate>Mon, 25 Oct 2021 08:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_169/q3Ard_16351462781337tiak_JPEG/783cd5e5-3563-11ec-82c9-505dac8c35ff_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1531,7 +1371,7 @@
             <link>https://tv.naver.com/v/23154773</link>
             <guid>https://tv.naver.com/v/23154773</guid>
             <pubDate>Mon, 25 Oct 2021 06:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_171/XJ0fh_1635140639288bAedo_JPEG/64c368a4-3556-11ec-917b-a0369ff9545c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1539,7 +1379,7 @@
             <link>https://tv.naver.com/v/23151973</link>
             <guid>https://tv.naver.com/v/23151973</guid>
             <pubDate>Mon, 25 Oct 2021 03:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_104/tO8NW_16351303282753DHpa_JPEG/55da313e-353e-11ec-9524-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1547,7 +1387,7 @@
             <link>https://tv.naver.com/v/23150824</link>
             <guid>https://tv.naver.com/v/23150824</guid>
             <pubDate>Mon, 25 Oct 2021 02:02:35 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_14/QE0A0_1635124647645SzGYq_JPEG/25354369-3531-11ec-b2c0-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1555,7 +1395,7 @@
             <link>https://tv.naver.com/v/23150357</link>
             <guid>https://tv.naver.com/v/23150357</guid>
             <pubDate>Mon, 25 Oct 2021 00:54:04 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_165/98EtE_1635122729668419Me_JPEG/8f2fcbd0-352c-11ec-9970-a0369ff94ec8_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
