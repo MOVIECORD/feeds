@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-26T14:16:44.120Z</updated>
+    <updated>2021-10-26T15:18:57.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유해진, 다큐멘터리 영화 ‘에고이스트’ 목소리 재능 기부]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000826151</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000826151"/>
+        <updated>2021-10-26T15:17:34.874Z</updated>
+        <content type="html"><![CDATA[배우 유해진이 또 한 번의 목소리 재능 기부로 선한 영향력을 계속해서 이어간다. 유해진은 오는 11월 12일부터 14일까지 개최되는 국경없는영화제 개막작 다큐멘터리 영화 ‘에고이스트: 이기심과 이타심의 경계’ 한국어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[알렉 볼드윈 소품총 발사 사고, 스태프들 '오락' 목적 사용 목격담 제기]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000504155</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000940730"/>
         <updated>2021-10-26T09:15:54.681Z</updated>
         <content type="html"><![CDATA[‘살수’ 신현준→이문식 캐스팅 확정 [공식] 영화 ‘살수’가 신현준, 이문식 등 국내 최고 연기파 배우들의 캐스팅을 확정 짓고, 10월 26일(화) 전격 크랭크인 했다. 거스를 수 없는 운명 앞에 놓인 조선 최고의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봉준호&박정자가 추억하는 韓 최초 극장 이야기 그린 '보는 것을 사랑한다' 메인 예고편 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000504107</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000504107"/>
-        <updated>2021-10-26T08:18:55.117Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 정유진 기자] 인천 일대를 주름잡았던 대한민국 최초의 극장, ‘애관극장’을 기억하며 추억을 간직하는 사람들의 이야기를 담은 다큐멘터리 '보는 것을 사랑한다'(감독 윤기형)가 과거와 현재의 ‘애관극장’ 모습을]]></content>
     </entry>
 </feed>
