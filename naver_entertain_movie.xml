@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-26T17:21:30.508Z</updated>
+    <updated>2021-10-26T18:20:37.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["내년 전세계 박스오피스 25조원 전망…올해보다 80%↑"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012749194</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012749194"/>
+        <updated>2021-10-26T18:19:04.892Z</updated>
+        <content type="html"><![CDATA["중국의 글로벌 박스오피스 비중 34%로 커질 것" (로스앤젤레스=연합뉴스) 정윤섭 특파원 = 내년 전 세계 극장가의 박스오피스 수입이 올해보다 80% 증가한 25조 원이 될 것이라는 분석이 제기됐다. 글로벌 영화시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유해진, 다큐멘터리 영화 ‘에고이스트’ 목소리 재능 기부]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000826151</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003491157"/>
         <updated>2021-10-26T09:15:54.680Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=이미지 기자] '이터널스'에서 폭발적인 힘과 액션으로 관객들의 사랑을 받고 있는 ‘길가메시’ 마동석의 한국화 포스터가 공개됐다. 마블 스튜디오의 영화 '이터널스'는 수천 년에 걸쳐 그 모습을 드러내지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘살수’ 신현준→이문식 캐스팅 확정 [공식]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000940730</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000940730"/>
-        <updated>2021-10-26T09:15:54.681Z</updated>
-        <content type="html"><![CDATA[‘살수’ 신현준→이문식 캐스팅 확정 [공식] 영화 ‘살수’가 신현준, 이문식 등 국내 최고 연기파 배우들의 캐스팅을 확정 짓고, 10월 26일(화) 전격 크랭크인 했다. 거스를 수 없는 운명 앞에 놓인 조선 최고의]]></content>
     </entry>
 </feed>
