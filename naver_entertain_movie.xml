@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-29T12:25:44.895Z</updated>
+    <updated>2021-10-29T13:23:32.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[POP현장]'이터널스' 감독, 마동석 K-싸대기 넣은 사연 "헌사..사랑한다"(종합)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003492480</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003492480"/>
+        <updated>2021-10-29T13:22:00.161Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] 클로이 자오 감독이 마동석을 향한 팬심을 드러냈다. 영화 '이터널스'(배급 월트디즈니컴퍼니 코리아) 화상 기자 간담회가 29일 오후 열려 클로이 자오 감독과 배우 키트 해링턴이 참석했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['이터널스' 키트 해링턴 "데인, 흥미로운 캐릭터…MCU에 남고파" [종합]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001366197</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001366197"/>
+        <updated>2021-10-29T13:22:00.161Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '이터널스' 키트 해링턴이 마블 시네마틱 유니버스(MCU)에 계속해서 출연하고 싶다고 언급했다. 29일 오후 온라인 생중계를 통해 영화 '이터널스'에 출연한 배우 키트 해링턴과 감독 클로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[클로이 자오 감독 “마동석 출연 결정 후 환호했어요”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000638072</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003000684"/>
         <updated>2021-10-29T12:24:08.256Z</updated>
         <content type="html"><![CDATA['이터널스' 클로이 자오 감독이 마동석의 액션에 대해 감탄했다. 29일 오후 7시 마블 영화 '이터널스' 클로이 자오 감독과 키트 해링턴이 참석한 화상 기자간담회가 열렸다. '이터널스'는 수천년에 걸쳐 모습을 드러내]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이터널스' 감독X키트 해링턴, 전무후무 마블 세계관 어떨까(ft.마동석) [종합]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004500668</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004500668"/>
-        <updated>2021-10-29T12:24:08.257Z</updated>
-        <content type="html"><![CDATA[[OSEN=연휘선 기자] 영화 '이터널스’의 클로이 자오 감독과 키트 해링턴이 새로운 세계관에 대한 기대감과 자부심으로 출사표를 던졌다. 29일(한국 시간) '이터널스'(원제: ETERNALS, 감독: 클로이 자오,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SC현장] "마동석 출연에 '만세' 불러"…'이터널스' 클로이 자오X키트 해링턴이 애정한 'K-액션'(종합)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003795200</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003795200"/>
-        <updated>2021-10-29T12:24:08.259Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 타노스가 사라진 뒤 끝이 난 MCU의 페이즈3. 그리고 이제 클로이 자오 감독이 펼치는 새로운 MCU의 페이즈4의 서막이 열렸다. 수 천년에 걸쳐 그 모습을 드러내지 않고 살아온 불멸의 히]]></content>
     </entry>
 </feed>
