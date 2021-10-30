@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-30T02:30:20.542Z</updated>
+    <updated>2021-10-30T03:17:58.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최민식X장백지 '파이란', 20주년 리마스터링 재개봉..心 저린 이야기]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003000796</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003000796"/>
+        <updated>2021-10-30T03:16:30.426Z</updated>
+        <content type="html"><![CDATA[영화 '파이란'(감독 송해성)이 개봉 20주년을 맞아 디지털 리마스티링 버전으로 특별상영회를 확정 지었다. '파이란'은 막장 인생의 삼류 건달 강재(최민식 분)에게 한 번도 만난 적 없는 아내 파이란(장백지 분)의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘윤여정 경쟁자’ 아만다 사이프리드, “코로나 감염 숨겼다” 왜?[해외이슈]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003550415</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005690765"/>
         <updated>2021-10-29T21:13:45.315Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 고(故) 김주혁이 세상을 떠난지 4년째 되는 날이다. 김주혁은 지난 2017년 10월30일 서울 삼성동 영동대로 인근에서 발생한 차량 사고로 세상을 떠났다. 1972년생인 김주혁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이터널스' 대항 韓 영화는? NEW 로맨스vs CJ 로맨스 [N초점]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005690732</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005690732"/>
-        <updated>2021-10-29T20:16:27.998Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 마블 영화 '이터널스'(감독 클로이 자오)가 상륙을 앞두고 있다. 올해 7월 '블랙 위도우'와 '샹치와 텐 링즈의 전설'에 이어 마블이 선보이는 '이터널스'에 대한 관심이 높은 가운데]]></content>
     </entry>
 </feed>
