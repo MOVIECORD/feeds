@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-30T01:57:33.376Z</updated>
+    <updated>2021-10-30T02:30:20.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘윤여정 경쟁자’ 아만다 사이프리드, “코로나 감염 숨겼다” 왜?[해외이슈]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003550415</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003550415"/>
+        <updated>2021-10-30T02:28:54.383Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘맹크’로 아카데미 여우조연상 후보에 올랐던 할리우드 스타 아만다 사이프리드(35)가 코로나19 바이러스에 감염됐다는 사실을 털어놓았다. 아만다 사이프리드는 최근 방송한 미국 토크쇼 '레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘벤 애플렉 전 여친’ 아나 디 아르마스, ‘존윅’ 스핀오프 ‘발레리나’ 주연 확정[해외이슈]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003550413</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005690732"/>
         <updated>2021-10-29T20:16:27.998Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 마블 영화 '이터널스'(감독 클로이 자오)가 상륙을 앞두고 있다. 올해 7월 '블랙 위도우'와 '샹치와 텐 링즈의 전설'에 이어 마블이 선보이는 '이터널스'에 대한 관심이 높은 가운데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CGV, 11월1일부터 극장 정상화 시동..백신패스관 별도 운영(공식)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003492498</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003492498"/>
-        <updated>2021-10-29T16:23:56.865Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] CGV가 정부의 단계적 일상회복 지침에 맞춰 코로나19 이전의 모습을 되찾기 위한 힘찬 발걸음을 내딛는다. CGV는 심야 시간대 영화 편성 및 취식 가능 상영관을 마련하는 등 고객이 코로]]></content>
     </entry>
 </feed>
