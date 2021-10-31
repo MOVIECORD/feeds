@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-31T04:21:24.658Z</updated>
+    <updated>2021-10-31T06:19:42.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘촬영감독 사망’ 알렉 볼드윈 “그녀는 내 친구였다, 총기퇴출 적극 환영” 첫 입장[해외이슈]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003550751</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003550751"/>
+        <updated>2021-10-31T06:18:10.806Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 배우 알렉 볼드윈(63)이 할리나 허친스 촬영감독이 사망하고 조엘 소자 감독이 부상을 입은 영화 '러스트' 촬영장의 우발적인 총격사고 이후 처음으로 자신의 입장을 밝혔다. 회색]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[리뷰] '이터널스' 이전에 없던 新 MCU, 신선하거나 낯설거나]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0003979555</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004501556"/>
         <updated>2021-10-31T00:52:01.564Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 올해로 10회를 맞이한 국내 최대 규모 영상 콘텐츠 공모전인 롯데 크리에이티브 공모전이 3개 부문 총 7편의 수상작을 발표했다. 각 부문별 주요 실무 인사들이 독창성과 완성도, 제작 가능성]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알렉 볼드윈 "죽은 촬영감독, 내친구…1조번에 1번 날 사고였다"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012758946</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012758946"/>
-        <updated>2021-10-30T23:15:58.772Z</updated>
-        <content type="html"><![CDATA[(샌프란시스코=연합뉴스) 정성호 특파원 = 영화 촬영 리허설 중 총으로 촬영감독을 쏴 숨지게 한 할리우드 영화배우 알렉 볼드윈(63)이 30일(현지시간) 숨진 감독은 자신의 친구였다고 말했다. 연예 전문매체 TMZ와]]></content>
     </entry>
 </feed>
