@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 15:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 16:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -199,20 +199,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4abb16fd8b2e51e518b7e0165633d4b9602f2495" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아네트 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149842</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149842</guid>
-            <pubDate>Wed, 27 Oct 2021 00:49:43 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5548145a15a57370681229ae9060ab6ee88302b2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[고장난 론 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151322</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151322</guid>
             <pubDate>Wed, 27 Oct 2021 00:49:43 GMT</pubDate>
             <content:encoded><![CDATA[21.10.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fafd003ec7a90902c90275affff2457c727871aa7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아네트 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149842</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149842</guid>
+            <pubDate>Wed, 27 Oct 2021 00:49:43 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5548145a15a57370681229ae9060ab6ee88302b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[동백 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -591,12 +591,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F01%2FiMBC%2F20211101162512875eboa.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['태양은 움직이지 않는다' 韓日 배우들 "재미있는 작품, 마음 사로잡을 것" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211102060138379</link>
-            <guid>https://movie.v.daum.net/v/20211102060138379</guid>
-            <pubDate>Tue, 02 Nov 2021 00:54:36 GMT</pubDate>
-            <content:encoded><![CDATA[한국 배우와 일본 배우가 의기투합한 스파이 액션물이 찾아온다. 영화 '태양은 움직이지 않는다(하스미 에이이치로 감독)' 측은 1일 후지와라 타츠야, 타케우치 료마, 한효주, 변요한 등 주요 배우들의 비하인드 인터뷰 영상을 공개했다. '태양은 움직이지 않는다'는 24시간마다 다가오는 죽음의 위험을 안고, 전 세계에서 극비 정보들을 조사하는 AN통신 요원]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Filgansports%2F20211102060140458tjvh.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[공식]대만 거장 감독 에드워드 양 데뷔작 '해탄적일천', 39년만 국내 정식 개봉 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211102084228894</link>
+            <guid>https://movie.v.daum.net/v/20211102084228894</guid>
+            <pubDate>Tue, 02 Nov 2021 13:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자]에드워드 양,대만 뉴웨이브의 시작을 알린 데뷔작 '해탄적일천'이 오는 1월 개봉을 확정하며 캐릭터 포스터 2종을 공개했다. '해탄적일천'은어느 날 해변에서 남편의 실종 소식을 들은 자리와 13년 만에 유명 피아니스트가 되어 고향에 돌아온 웨이칭, 두 사람이 소녀에서 여인으로 성장해가는 시간을 그린 이야기. 타이페이 3]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2FSpoChosun%2F20211102084228843qsmp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['늑대사냥' 서인국x장동윤x최귀화x성동일 출연..올 연말 크랭크업[공식] (다음영화 뉴스 ─ 인기)]]></title>
@@ -607,20 +607,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F01%2Fpoctan%2F20211101140311521wpds.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[공식]대만 거장 감독 에드워드 양 데뷔작 '해탄적일천', 39년만 국내 정식 개봉 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211102084228894</link>
-            <guid>https://movie.v.daum.net/v/20211102084228894</guid>
-            <pubDate>Tue, 02 Nov 2021 13:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이승미 기자]에드워드 양,대만 뉴웨이브의 시작을 알린 데뷔작 '해탄적일천'이 오는 1월 개봉을 확정하며 캐릭터 포스터 2종을 공개했다. '해탄적일천'은어느 날 해변에서 남편의 실종 소식을 들은 자리와 13년 만에 유명 피아니스트가 되어 고향에 돌아온 웨이칭, 두 사람이 소녀에서 여인으로 성장해가는 시간을 그린 이야기. 타이페이 3]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2FSpoChosun%2F20211102084228843qsmp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[조진웅X김희애X이수경, '데드맨' 출연 확정..11월 1일 크랭크인[공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211102081517249</link>
-            <guid>https://movie.v.daum.net/v/20211102081517249</guid>
+            <title><![CDATA['태양은 움직이지 않는다' 韓日 배우들 "재미있는 작품, 마음 사로잡을 것" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211102060138379</link>
+            <guid>https://movie.v.daum.net/v/20211102060138379</guid>
             <pubDate>Tue, 02 Nov 2021 00:54:36 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] /사진제공=콘텐츠웨이브국내 OTT 웨이브(wavve)가 선보이는 두번째 오리지널 영화 '데드맨'(감독 하준원)이 첫 촬영에 돌입했다. 2일 콘텐츠 웨이브 측은 "웨이브 오리지널 영화 '데드맨'이 배우 조진웅, 김희애, 이수경 등 캐스팅을 확정하고 지난 11월 1일 크랭크인했다"라고 밝혔다. '데드맨'은 이름값으로 돈을 버는 일명]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Fstarnews%2F20211102081519096cknh.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[한국 배우와 일본 배우가 의기투합한 스파이 액션물이 찾아온다. 영화 '태양은 움직이지 않는다(하스미 에이이치로 감독)' 측은 1일 후지와라 타츠야, 타케우치 료마, 한효주, 변요한 등 주요 배우들의 비하인드 인터뷰 영상을 공개했다. '태양은 움직이지 않는다'는 24시간마다 다가오는 죽음의 위험을 안고, 전 세계에서 극비 정보들을 조사하는 AN통신 요원]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Filgansports%2F20211102060140458tjvh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[71년 전 엇갈린 운명, 티베트 비극은 현재진행형 (다음영화 뉴스 ─ 인기)]]></title>
@@ -629,6 +621,14 @@
             <pubDate>Tue, 02 Nov 2021 08:19:24 GMT</pubDate>
             <content:encoded><![CDATA[[김성호 기자] ▲ &nbsp;&lt;티벳에서의 7년&gt; 포스터    ⓒ TriStar Pictures  &nbsp;브래드 피트의 젊음이 빛을 발하는 1997년작 &lt;티벳에서의 7년&gt;은 사실 지금이라면 제작될 수 없었을 영화다.&nbsp;국경을 넘어, 존재하는 자본의 규율이 있기 때문이다. 영화의 배경은 제2차 세계대전 발발 뒤의 몇 년이다. 히말라야 최고 봉우리 중 하나인 낭]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Fohmynews%2F20211102164807150juki.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[조진웅X김희애X이수경, '데드맨' 출연 확정..11월 1일 크랭크인[공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211102081517249</link>
+            <guid>https://movie.v.daum.net/v/20211102081517249</guid>
+            <pubDate>Tue, 02 Nov 2021 00:54:36 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 강민경 기자] /사진제공=콘텐츠웨이브국내 OTT 웨이브(wavve)가 선보이는 두번째 오리지널 영화 '데드맨'(감독 하준원)이 첫 촬영에 돌입했다. 2일 콘텐츠 웨이브 측은 "웨이브 오리지널 영화 '데드맨'이 배우 조진웅, 김희애, 이수경 등 캐스팅을 확정하고 지난 11월 1일 크랭크인했다"라고 밝혔다. '데드맨'은 이름값으로 돈을 버는 일명]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Fstarnews%2F20211102081519096cknh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['우유 반죽 빵' 팔기.. 그들에게는 위험천만 사업인 이유 (다음영화 뉴스 ─ 인기)]]></title>
@@ -1307,7 +1307,7 @@
             <link>https://tv.naver.com/v/23301438</link>
             <guid>https://tv.naver.com/v/23301438</guid>
             <pubDate>Tue, 02 Nov 2021 09:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211102_257/a1zAV_1635841845557NOW4M_JPEG/14752c8e-3bb7-11ec-a3dc-246e963a464c_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1315,7 +1315,7 @@
             <link>https://tv.naver.com/v/23301285</link>
             <guid>https://tv.naver.com/v/23301285</guid>
             <pubDate>Tue, 02 Nov 2021 09:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211102_28/XrMNo_1635841515735u2udQ_JPEG/527049a4-3bb6-11ec-a331-48df379cca40_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1323,7 +1323,7 @@
             <link>https://tv.naver.com/v/23301177</link>
             <guid>https://tv.naver.com/v/23301177</guid>
             <pubDate>Tue, 02 Nov 2021 09:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211102_221/kbcIp_1635841294696HciVt_JPEG/c30952ad-3bb5-11ec-8636-505dac8c3639_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1331,7 +1331,7 @@
             <link>https://tv.naver.com/v/23300996</link>
             <guid>https://tv.naver.com/v/23300996</guid>
             <pubDate>Tue, 02 Nov 2021 08:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211102_125/H9ML9_16358410062478Vi4b_JPEG/2009df80-3bb5-11ec-a3dc-246e963a464c_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1339,7 +1339,7 @@
             <link>https://tv.naver.com/v/23300869</link>
             <guid>https://tv.naver.com/v/23300869</guid>
             <pubDate>Tue, 02 Nov 2021 08:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211102_193/lrhte_1635840757193E8qXt_JPEG/8c5d014b-3bb4-11ec-a331-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1347,7 +1347,7 @@
             <link>https://tv.naver.com/v/23299306</link>
             <guid>https://tv.naver.com/v/23299306</guid>
             <pubDate>Tue, 02 Nov 2021 08:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211102_156/35mgY_1635837467151veuAz_JPEG/797d6f70-3bac-11ec-8e54-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1355,7 +1355,7 @@
             <link>https://tv.naver.com/v/23298940</link>
             <guid>https://tv.naver.com/v/23298940</guid>
             <pubDate>Tue, 02 Nov 2021 07:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211102_164/spvyL_1635836584341aTf2U_JPEG/c9eb9076-3baa-11ec-9d5b-a0369ff94f34_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1363,7 +1363,7 @@
             <link>https://tv.naver.com/v/23298921</link>
             <guid>https://tv.naver.com/v/23298921</guid>
             <pubDate>Tue, 02 Nov 2021 07:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211102_83/uN1ru_16358365485964IxNP_JPEG/b8133bd4-3baa-11ec-9e9c-48df379cc9e4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1371,7 +1371,7 @@
             <link>https://tv.naver.com/v/23298909</link>
             <guid>https://tv.naver.com/v/23298909</guid>
             <pubDate>Tue, 02 Nov 2021 07:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211102_42/ABdOn_1635836518810jRVeX_JPEG/affc9e00-3baa-11ec-92ae-a0369ff952f4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1379,7 +1379,7 @@
             <link>https://tv.naver.com/v/23296741</link>
             <guid>https://tv.naver.com/v/23296741</guid>
             <pubDate>Tue, 02 Nov 2021 06:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211102_265/8NAD6_1635830700253odJ4F_JPEG/075cf6e5-3b9d-11ec-9ac7-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1387,7 +1387,7 @@
             <link>https://tv.naver.com/v/23296399</link>
             <guid>https://tv.naver.com/v/23296399</guid>
             <pubDate>Tue, 02 Nov 2021 05:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211102_36/9sozL_1635829695020nlVVB_JPEG/b259babe-3b9a-11ec-b39d-48df37ae3fca_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1395,7 +1395,7 @@
             <link>https://tv.naver.com/v/23296332</link>
             <guid>https://tv.naver.com/v/23296332</guid>
             <pubDate>Tue, 02 Nov 2021 05:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211102_269/erGjV_163582944672926yHB_JPEG/084bcb95-3b9a-11ec-b39d-48df37ae3fca_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1403,7 +1403,7 @@
             <link>https://tv.naver.com/v/23296146</link>
             <guid>https://tv.naver.com/v/23296146</guid>
             <pubDate>Tue, 02 Nov 2021 05:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211102_155/Bkfxi_1635828858986NBjBA_JPEG/b5ac2c18-3b98-11ec-9a6e-246e963a49a8_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1411,7 +1411,7 @@
             <link>https://tv.naver.com/v/23295954</link>
             <guid>https://tv.naver.com/v/23295954</guid>
             <pubDate>Tue, 02 Nov 2021 05:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211102_40/QTELR_1635828287876AtGtb_JPEG/68f32b36-3b97-11ec-a74c-48df379ccacc_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1419,7 +1419,7 @@
             <link>https://tv.naver.com/v/23294381</link>
             <guid>https://tv.naver.com/v/23294381</guid>
             <pubDate>Tue, 02 Nov 2021 03:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211102_183/a6DoO_1635822207468YJUv6_JPEG/5005d3bb-3b89-11ec-9b44-a0369ff95678_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1427,7 +1427,7 @@
             <link>https://tv.naver.com/v/23293988</link>
             <guid>https://tv.naver.com/v/23293988</guid>
             <pubDate>Tue, 02 Nov 2021 03:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211102_159/PQmEF_1635820888312SxQOD_JPEG/9213fa46-3b83-11ec-ba2c-505dac8c385b_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1435,7 +1435,7 @@
             <link>https://tv.naver.com/v/23292389</link>
             <guid>https://tv.naver.com/v/23292389</guid>
             <pubDate>Tue, 02 Nov 2021 02:02:52 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211102_92/helRY_1635815539673suWOh_JPEG/8e17846f-3b79-11ec-9b44-a0369ff95678_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
