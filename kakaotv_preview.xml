@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 00:51:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 02:01:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<노 맨 오브 갓> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/423661309?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/423661309?act=clip</guid>
+            <pubDate>Fri, 05 Nov 2021 02:00:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:56]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvq4tuqnrn57ft5lwhh1k02j8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192982683%26signature%3DMULWRS8QOHclB9xLI%252BoRNDByg90%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<1984 최동원> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/423660932?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/423609284?act=clip</guid>
             <pubDate>Wed, 03 Nov 2021 02:31:04 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:27]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpizegr1e9vvhpaeghi4cgn5%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192814198%26signature%3D8ISaM0uDTc26bRbU6yu5%252FpDWcb8%253D%26ts%3D1635905398" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpizegr1e9vvhpaeghi4cgn5%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192814198%26signature%3D8ISaM0uDTc26bRbU6yu5%252FpDWcb8%253D%26ts%3D1635905398" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<디어 에반 핸슨> 'You Will Be Found' 한국어 버전 MV 풀버전]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 01 Nov 2021 02:38:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:13]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvutng3jy5wlwd7jzbi1gwm7a%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192641757%26signature%3DQY%252BZeEiA66CYs8UweGZbTgZTAPs%253D%26ts%3D1635732957" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<사악한 쾌락 : 킬러들의 험담> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/423551684?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/423551684?act=clip</guid>
-            <pubDate>Mon, 01 Nov 2021 02:38:15 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:18]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvqu0k4uhbev3s8skjp4cbs0j%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192641512%26signature%3Dgbx5vJlUckD2WYb8%252B9U0aiXMmhQ%253D%26ts%3D1635732712" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
