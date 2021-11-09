@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-11-09T12:27:07.255Z</updated>
+    <updated>2021-11-09T13:24:31.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['반미색' 짙은 중국영화 '장진호' 19일 미국서 개봉]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012781324</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012781324"/>
+        <updated>2021-11-09T13:22:52.266Z</updated>
+        <content type="html"><![CDATA[中 역대 최고흥행작 등극 눈앞 (베이징=연합뉴스) 조준형 특파원 = 6·25전쟁 중 미군과 중국군 간에 벌어진 가장 치열한 전투였던 장진호 전투를 소재로 한 중국 영화 '장진호(長津湖)'가 오는 19일 미국과 캐나다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['로키', 연대기 공개..톰 히들스턴 "깊고 넓은 감정도 표현됐다"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003496464</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003496405"/>
         <updated>2021-11-09T09:16:14.316Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=이미지 기자] '지옥'이 파격적인 설정에 현실감을 불어넣은 유아인, 김현주, 박정민, 원진아, 양익준의 캐릭터 스틸을 공개했다. '지옥'은 예고 없이 등장한 지옥의 사자들에게 사람들이 지옥행 선고를 받]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["희망은 나의 힘"…66년간 웃고 울린 송해, '송해1927'이 비춘 95년 인생[종합]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0004996836</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0004996836"/>
-        <updated>2021-11-09T09:16:14.318Z</updated>
-        <content type="html"><![CDATA["사랑합니다. 건강하세요. 여러분의 세상입니다." 95세 최고령 MC 송해는 양손에 하트를 번쩍 들며 이같이 외쳤다. 데뷔 66년 만에 처음으로 영화 주인공이 된 그의 각오는 남달랐다. 송해는 9일 오후 서울 광진구]]></content>
     </entry>
 </feed>
