@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-11-09T21:15:37.093Z</updated>
+    <updated>2021-11-09T22:17:58.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“‘오징어게임2’ 만든다”, 황동혁 감독 “이정재 돌아올 것”(외신 인터뷰)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003554048</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003554048"/>
+        <updated>2021-11-09T22:16:31.642Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘오징어게임’의 황동혁 감독이 시즌2의 가능성을 내비쳤다. 그는 9일(현지시간) 할리우드 리포터와 인터뷰에서 시즌2가 언제 제작되냐는 질문에 대해 “기본적인 스토리를 갖고 있다”고 답했다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["오징어게임 시즌 2 만들겠다" 황동혁 감독 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010822346</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010822346"/>
+        <updated>2021-11-09T22:16:31.664Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 '아직은 구상중…언제 나올진 모르지만 기훈이 돌아올 것' 미 로스앤젤레스에서 열린 홍보행사 참석 배우들 큰 인기 [로스앤젤레스=AP/뉴시스]강영진 기자 = 오징어게임 황동혁 감독이 오징어게임 후속 시리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[레오나르도 디카프리오, 900명 살인 종교리더 물망[해외이슈]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003554030</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000943866"/>
         <updated>2021-11-09T10:17:40.119Z</updated>
         <content type="html"><![CDATA[전종서♥손석구 ‘연애 빠진 로맨스’ 메인예고편 공개 ft.SP 전종서, 손석구의 신선한 만남으로 기대를 모으는 영화 ‘연애 빠진 로맨스’가 거침없는 매력의 캐릭터와 스토리를 담은 메인 예고편을 최초 공개했다. ‘연애]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유아인→박정민 ‘지옥’ 1차 캐릭터 스틸 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000943861</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000943861"/>
-        <updated>2021-11-09T09:16:14.300Z</updated>
-        <content type="html"><![CDATA[유아인→박정민 ‘지옥’ 1차 캐릭터 스틸 공개 ‘지옥’이 파격적인 설정에 현실감을 불어넣은 유아인, 김현주, 박정민, 원진아, 양익준의 캐릭터 스틸을 공개했다. ‘지옥’은 예고 없이 등장한 지옥의 사자들에게 사람들이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대체 뭐지 싶은데 어쨌든…유세윤 ‘이상존재’ 스틸 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000943860</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000943860"/>
-        <updated>2021-11-09T09:16:14.302Z</updated>
-        <content type="html"><![CDATA[대체 뭐지 싶은데 어쨌든…유세윤 ‘이상존재’ 스틸 공개 인기 개그맨 유세윤의 충격적 공포의 진실을 담은 영화 ‘이상존재’가 초자연적 현상을 포착한 보도스틸 10종을 전격 공개했다. 인기 개그맨 유세윤의 실존 영상 미]]></content>
     </entry>
 </feed>
