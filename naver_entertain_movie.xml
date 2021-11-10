@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-11-10T02:00:02.944Z</updated>
+    <updated>2021-11-10T02:35:06.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[웹툰 '유미의 세포들', 뮤지컬·애니로 만든다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010823227</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010823227"/>
+        <updated>2021-11-10T02:33:34.508Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 강진아 기자 = 총 누적 조회 수 34억뷰의 인기 웹툰 '유미의 세포들'이 드라마에 이어 뮤지컬과 애니메이션으로도 제작된다. 네이버웹툰은 '유미의 세포들'이 극장용 장편 애니메이션과 국내 뮤지컬로 제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 '오징어게임' 모방 학교폭력 우려에 교육당국 긴장]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012782313</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012782313"/>
+        <updated>2021-11-10T02:33:34.508Z</updated>
+        <content type="html"><![CDATA[부산교육청, 일선 학교에 시청 금지 공문…초등학교 주변 학생 무방비 노출 (부산=연합뉴스) 김선호 기자 = "한 초등학생이 '무궁화꽃이 피었습니다' 놀이를 하던 중 친구에게 '너 움직였잖아. 얼른 죽어'라고 말하는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나로 폐허된 영화관 '히어로'가 살렸다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010823013</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003003445"/>
         <updated>2021-11-10T01:58:40.377Z</updated>
         <content type="html"><![CDATA[시각특수효과(VFX) 및 콘텐츠 전문기업 (주)덱스터스튜디오(대표 김욱·강종익)가 버추얼 프로덕션 스튜디오를 런칭했다. 11일 덱스터스튜디오는 경기도 파주에 제1호 버추얼 프로덕션 스튜디오 'D1'(디원)을 런칭했다고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상희x서현우, '서울독립영화제2021' 폐막식 사회자 선정[공식]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004507669</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004507669"/>
-        <updated>2021-11-10T01:58:40.379Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 제47회 서울독립영화제의 개막식 사회자로 배우 권해효와 방송인 류시현, 폐막식 사회자로 배우 이상희와 서현우가 선정됐다. 올해로 47회를 맞은 독립영화 결산의 축제 '서울독립영화제 2021']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마동석, '이터널스' 이후 계속 마블 나올까…"美 본사 확인 거쳐야"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005082512</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005082512"/>
-        <updated>2021-11-10T01:58:40.379Z</updated>
-        <content type="html"><![CDATA[배우 마동석. (사진=월트디즈니컴퍼니코리아) [이데일리 스타in 김보영 기자] 배우 마동석이 ‘이터널스’(감독 클로이 자오) 이후에도 마블과 계속 함께할까. 영화 ‘이터널스’ 측 관계자는 10일 이데일리에 “마동석]]></content>
     </entry>
 </feed>
