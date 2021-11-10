@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-11-10T15:18:13.081Z</updated>
+    <updated>2021-11-10T16:25:59.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 ‘태일이’ 관람한 김재연 대선후보 “지금 시대 전태일들의 ‘전국민노동법’ 만들겠다”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000773552</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000773552"/>
+        <updated>2021-11-10T16:24:15.564Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 진보당 김재연 대선 후보가 지난 9일 광화문 씨네큐브에서 배달노동자들과 함께 전태일 열사의 생애를 담은 영화 ‘태일이’를 관람했다고 전했다. 김 후보는 영화 관람에 앞서 배달노동자들을 만나“‘근로기준법]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰]류승룡 "모두 치유받고 관계 속에 성장하기를"②]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000115488</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003554351"/>
         <updated>2021-11-10T12:24:53.033Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 김정수 기자] 배우 설경구와 문소리가 10일 오후 서울 중구 순화동에서 진행된 '제41회 영평상 시상식' 레드카펫 포토월 행사에 참석해 포토타임을 가졌다. [사진 = 송일섭 기자 andlyu@myda]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤일봉, 공로영화인상…건강상 문제로 불참[41회 영평상]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004877264</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004877264"/>
-        <updated>2021-11-10T12:24:53.035Z</updated>
-        <content type="html"><![CDATA[배우 윤일봉이 공로 영화인상을 받았다. 10일 오후 서울 중구 KG타워 하모니홀에서 제41회 영평상(한국영화평론가협회상) 시상식이 개최됐다. 사회는 배우 조한철과 아나운서 이다슬이 맡았다. 윤일봉은 건강상의 문제로]]></content>
     </entry>
 </feed>
