@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 11:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 12:26:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,6 +20,13 @@
             <guid>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004627956</guid>
             <pubDate>Fri, 12 Nov 2021 10:17:25 GMT</pubDate>
             <content:encoded><![CDATA[배우 유아인이 12일 오후 서울 영등포구 CGV 여의도점에서 열린 제42회 청룡영화상 핸드프린팅 행사에 참석했다. 유아인은 전년도 남우주연상 수상에 대해 "연기라는 게 정답이 없어 앞으로 어떻게 평가받을 지 모르겠지]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[에릭남, 이정재X박해수 옆 "내가 오징어"[스타IN★] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003004252</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003004252</guid>
+            <pubDate>Fri, 12 Nov 2021 12:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[가수 에릭남이 배우 이정재와 박해수 옆에서 오징어가 됐다고 밝혔다. 에릭남은 11일 자신의 인스타그램에 "I was 457. They killed me before I got on the screen. 너무나 좋으신]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[김지훈·고원희, 넷플릭스 '연애대전' 합류 (네이버TV연예 ─ 영화)]]></title>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[[스포티비뉴스=김현록 기자]영화 '장르만 로맨스'가 웃음과 공감까지, 11월 극장가를 사로잡을 매력 포인트를 콕 집어 공개했다. '장르만 로맨스'는 평범하지 않은 로맨스로 얽힌 이들과 만나 일도 인생도 꼬여가는 베스]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유아인 "나를 던지는 배우로 살아가고 싶다" [MD동영상] (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003554979</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003554979</guid>
-            <pubDate>Fri, 12 Nov 2021 08:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김정수 기자] 12일 오후 서울 영등포구 여의도동 CGV여의도에서 진행된 제42회 청룡영화상 핸드프린팅 행사에 참석한 배우 유아인이 청룡영화상 남우주연상 소감을 밝혔다. 한편, 제 42회 청룡영화상은]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[이터널스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=130908</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=130908</guid>
@@ -287,6 +287,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5548145a15a57370681229ae9060ab6ee88302b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[바다 탐험대 옥토넛 : 육지수호 대작전 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154025</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154025</guid>
+            <pubDate>Fri, 12 Nov 2021 02:35:37 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb3a440345ea826d42d6873975e8b3b8cdb8da66c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[기적 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143697</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143697</guid>
@@ -309,14 +317,6 @@
             <pubDate>Mon, 01 Nov 2021 00:52:49 GMT</pubDate>
             <content:encoded><![CDATA[21.11.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F52c34eadec26764596f5d636159a34957dc26cc5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[바다 탐험대 옥토넛 : 육지수호 대작전 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154025</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154025</guid>
-            <pubDate>Fri, 12 Nov 2021 02:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb3a440345ea826d42d6873975e8b3b8cdb8da66c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[나를 잡아줘 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -543,6 +543,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Filgansports%2F20211112092905424fefu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[마동석, '이터널스' 배우들과 다정 셀카..월드스타 인증 [인스타] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211112165142931</link>
+            <guid>https://movie.v.daum.net/v/20211112165142931</guid>
+            <pubDate>Fri, 12 Nov 2021 09:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[배우 마동석이 '이터널스' 출연진들과의 우정을 뽐냈다. 12일 마동석은 개인 인스타그램에 "Behind the scenes"라는 글과 함께 사진 여러 장을 게재했다. 공개된 사진들 속 마동석은 영화 '이터널스'에서 함께 호흡을 맞춘 안젤리나 졸리, 리차드 매든, 쿠마일 난지아니, 셀마 헤이엑, 젬마 찬 등과 다양한 포즈를 취하며 인증샷을 남기는 모습이다]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2FiMBC%2F20211112165146887pwmw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[공식] 유오성X장혁 '강릉', 이틀 연속 흥행 2위 수성..'이터널스' 1위 굳히기 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211112084256289</link>
             <guid>https://movie.v.daum.net/v/20211112084256289</guid>
@@ -559,12 +567,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Fhankooki%2F20211112073007706gjcz.gif" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[마동석, '이터널스' 배우들과 다정 셀카..월드스타 인증 [인스타] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211112165142931</link>
-            <guid>https://movie.v.daum.net/v/20211112165142931</guid>
+            <title><![CDATA[[무비차트TEN] '이터널스' 누가 밟고 올라설까..'강릉' '장르만 로맨스' 韓영화 개봉 러쉬 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211112140305957</link>
+            <guid>https://movie.v.daum.net/v/20211112140305957</guid>
+            <pubDate>Fri, 12 Nov 2021 08:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=노규민 기자]마블 영화 '이터널스'가 박스오피스 정상을 굳건히 지키고 있다. 개봉 이후 작품과 관련해 엇갈린 반응이 있었지만, 높은 예매율과 압도적인 관객 몰이로 흥행을 이어가고 있다. 이런 가운데 추석 대전 이후 이렇다할 흥행작이 없던 한국영화들이 11월 극장가에 줄줄이 개봉하며 경쟁을 예고하고 나섰다.영화진흥위원회 영화관 입장권 통합전산망에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2F10asia%2F20211112140309207efhv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[박정민 "주연상? 죽기 전 타봤으면..오래 살게요" (청룡)[종합] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211112165003873</link>
+            <guid>https://movie.v.daum.net/v/20211112165003873</guid>
             <pubDate>Fri, 12 Nov 2021 09:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[배우 마동석이 '이터널스' 출연진들과의 우정을 뽐냈다. 12일 마동석은 개인 인스타그램에 "Behind the scenes"라는 글과 함께 사진 여러 장을 게재했다. 공개된 사진들 속 마동석은 영화 '이터널스'에서 함께 호흡을 맞춘 안젤리나 졸리, 리차드 매든, 쿠마일 난지아니, 셀마 헤이엑, 젬마 찬 등과 다양한 포즈를 취하며 인증샷을 남기는 모습이다]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2FiMBC%2F20211112165146887pwmw.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 박정민이 청룡영화상 수상이 자신에게 준 의미를 되새기며 주연상 수상 희망에 대한 생각을 밝혔다. 12일 서울 CGV 여의도에서 청룡영화상 핸드프린팅 행사가 열렸다.&nbsp; 윤성은 영화평론가의 사회로 진행된 이 자리에는 지난해 수상자인 유아인('소리도 없이', 남우주연상)과 라미란('정직한 후보', 여우주연상), 박정민('다만]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Fxportsnews%2F20211112165005460iyzq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[리암 니슨 '메이드 인 이태리', 스페셜 포스터..토스카나의 따뜻한 순간 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211112140203915</link>
+            <guid>https://movie.v.daum.net/v/20211112140203915</guid>
+            <pubDate>Fri, 12 Nov 2021 08:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '메이드 인 이태리'(감독 제임스 디시)가 다채로운 매력을 담아낸 스페셜 포스터를 공개했다. '메이드 인 이태리'는 오래된 집을 팔기 위해 아름다운 토스카나에서 한 달간 머무르게 된 잭이 소원했던 아버지 로버트와 화해하고 새로운 사랑을 시작하게 되는 로맨틱 힐링 드라마다. 공개된 포스터는 그림 같은 이탈리아의 풍광과 함께]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Fxportsnews%2F20211112140205323zlrj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[씨네+] '마블리' 마동석을 놓칠리 없는 마블 (다음영화 뉴스 ─ 인기)]]></title>
@@ -573,14 +597,6 @@
             <pubDate>Fri, 12 Nov 2021 02:00:37 GMT</pubDate>
             <content:encoded><![CDATA[끝이 아닌 시작이다. 이제 막 '자기소개'를 마쳤을 뿐이다. 영화 '이터널스(클로이 자오 감독)'를 통해 국내 배우 최초 마블 히어로가 된 마동석이 첫 할리우드 진출 신고식을 무사히 마쳤다. 마블시네마틱유니버스(MCU) 페이지4의 새 역사를 알리는 신작에 대한 평가는 다소 엇갈렸지만, 극중 강력한 힘을 지닌 길가메시로 분한 마동석에 대해서는 기분 좋은]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2FJTBC%2F20211111172804945dnfr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[무비차트TEN] '이터널스' 누가 밟고 올라설까..'강릉' '장르만 로맨스' 韓영화 개봉 러쉬 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211112140305957</link>
-            <guid>https://movie.v.daum.net/v/20211112140305957</guid>
-            <pubDate>Fri, 12 Nov 2021 08:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=노규민 기자]마블 영화 '이터널스'가 박스오피스 정상을 굳건히 지키고 있다. 개봉 이후 작품과 관련해 엇갈린 반응이 있었지만, 높은 예매율과 압도적인 관객 몰이로 흥행을 이어가고 있다. 이런 가운데 추석 대전 이후 이렇다할 흥행작이 없던 한국영화들이 11월 극장가에 줄줄이 개봉하며 경쟁을 예고하고 나섰다.영화진흥위원회 영화관 입장권 통합전산망에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2F10asia%2F20211112140309207efhv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[11월 극장가, 관객은 즐겁다..활력 높일 기대작 봇물 [TF확대경] (다음영화 뉴스 ─ 인기)]]></title>
@@ -599,36 +615,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Fohmynews%2F20211112110602861wzcq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[리암 니슨 '메이드 인 이태리', 스페셜 포스터..토스카나의 따뜻한 순간 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211112140203915</link>
-            <guid>https://movie.v.daum.net/v/20211112140203915</guid>
-            <pubDate>Fri, 12 Nov 2021 08:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '메이드 인 이태리'(감독 제임스 디시)가 다채로운 매력을 담아낸 스페셜 포스터를 공개했다. '메이드 인 이태리'는 오래된 집을 팔기 위해 아름다운 토스카나에서 한 달간 머무르게 된 잭이 소원했던 아버지 로버트와 화해하고 새로운 사랑을 시작하게 되는 로맨틱 힐링 드라마다. 공개된 포스터는 그림 같은 이탈리아의 풍광과 함께]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Fxportsnews%2F20211112140205323zlrj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['이터널스' 오늘(12일) 200만 돌파..올해 개봉 영화 최단 속도 [공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211112141507300</link>
             <guid>https://movie.v.daum.net/v/20211112141507300</guid>
             <pubDate>Fri, 12 Nov 2021 07:16:11 GMT</pubDate>
             <content:encoded><![CDATA[(사진=월트디즈니컴퍼니코리아)[이데일리 스타in 김보영 기자] 마블 영화 ‘이터널스’(감독 클로이 자오)가 개봉 10일 만인 오늘(12일) 누적 관객수 200만 명을 돌파하면서, 올해 개봉 영화 전체 최단기간 200만 달성 기록을 경신했다. 12일 영화진흥위원회 영화관입장권 통합전산망 집계 결과에 따르면 ‘이터널스’는 이날 오전 9시 45분을 기준으로]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2FEdaily%2F20211112141514139bwsy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[박정민 "주연상? 죽기 전 타봤으면..오래 살게요" (청룡)[종합] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211112165003873</link>
-            <guid>https://movie.v.daum.net/v/20211112165003873</guid>
-            <pubDate>Fri, 12 Nov 2021 09:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 박정민이 청룡영화상 수상이 자신에게 준 의미를 되새기며 주연상 수상 희망에 대한 생각을 밝혔다. 12일 서울 CGV 여의도에서 청룡영화상 핸드프린팅 행사가 열렸다.&nbsp; 윤성은 영화평론가의 사회로 진행된 이 자리에는 지난해 수상자인 유아인('소리도 없이', 남우주연상)과 라미란('정직한 후보', 여우주연상), 박정민('다만]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Fxportsnews%2F20211112165005460iyzq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[윤시윤 "김대건 신부 로맨스? 브로맨스는 있다" (탄생)[종합] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211111185015100</link>
-            <guid>https://movie.v.daum.net/v/20211111185015100</guid>
-            <pubDate>Fri, 12 Nov 2021 02:00:38 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) '탄생' 박흥식 감독이 작품에 대한 이야기를 전했다. 11일 오후 서울 종로구 세종문화회관 S씨어터에서 영화 '탄생'의 제작발표회가 열렸다. 이날 현장에는&nbsp;배우 윤시윤, 이호원, 안성기, 이문식, 정유미, 송지연, 임현수, 하경, 박지훈, 자문위원 김홍신 작가, 투자자 남상원 회장, 제작자 박곡지 대표, 박흥식 감독 등이 참석]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Fxportsnews%2F20211111185016547ojqw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[한 치 앞 예측도 어려운 심리스릴러..영화 '파워 오브 도그' (다음영화 뉴스 ─ 인기)]]></title>
@@ -639,6 +631,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Fyonhap%2F20211112163937843dfzs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['불멸의 그들' 최동원·전태일·송해 영화관서 만난다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211112095400615</link>
+            <guid>https://movie.v.daum.net/v/20211112095400615</guid>
+            <pubDate>Fri, 12 Nov 2021 11:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[기사내용 요약 최동원 다큐 '1984 최동원' 전태일 애니메이션 '태일이' 송해 다큐 '송해1927' 개봉 [서울=뉴시스] 손정빈 기자 = 모두가 사랑해마지 않은 실존 인물을 다룬 영화 3편이 한꺼번에 관객을 찾는다. 다큐멘터리 영화 2편과 애니메이션 영화 1편이다. 이 작품들이 담고 있는 건 하나같이 불멸의 존재들이다. 야구선수 최동원, 노동운동가 전]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Fnewsis%2F20211112095400318umht.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[윤시윤 "김대건 신부 로맨스? 브로맨스는 있다" (탄생)[종합] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211111185015100</link>
+            <guid>https://movie.v.daum.net/v/20211111185015100</guid>
+            <pubDate>Fri, 12 Nov 2021 02:00:38 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) '탄생' 박흥식 감독이 작품에 대한 이야기를 전했다. 11일 오후 서울 종로구 세종문화회관 S씨어터에서 영화 '탄생'의 제작발표회가 열렸다. 이날 현장에는&nbsp;배우 윤시윤, 이호원, 안성기, 이문식, 정유미, 송지연, 임현수, 하경, 박지훈, 자문위원 김홍신 작가, 투자자 남상원 회장, 제작자 박곡지 대표, 박흥식 감독 등이 참석]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Fxportsnews%2F20211111185016547ojqw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['듄' 입소문의 힘, IMAX 재상영 확정 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211111173407370</link>
             <guid>https://movie.v.daum.net/v/20211111173407370</guid>
@@ -647,20 +655,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Ftvdaily%2F20211111173410433mhad.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['장르만 로맨스', 찰진 대사부터 6인 6색 환장 케미까지..관전 포인트 눈길 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211112092139449</link>
-            <guid>https://movie.v.daum.net/v/20211112092139449</guid>
-            <pubDate>Fri, 12 Nov 2021 02:00:37 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 영화 '장르만 로맨스'(감독 조은지)가&nbsp;관객을 발길을 잡아끌 공감과 웃음의 관전 포인트를 공개했다. 배우 조은지의 장편 영화 연출 데뷔작 '장르만 로맨스'는 평범하지 않은 로맨스로 얽힌 이들과 만나 일도 인생도 꼬여가는 베스트셀러 작가의 버라이어티한 사생활을 그린 작품이다.&nbsp;유쾌한 웃음과 관계에 대한 공감 스토리로 두 마리 토]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Fxportsnews%2F20211112092141239qmjc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['불멸의 그들' 최동원·전태일·송해 영화관서 만난다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211112095400615</link>
-            <guid>https://movie.v.daum.net/v/20211112095400615</guid>
-            <pubDate>Fri, 12 Nov 2021 11:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[기사내용 요약 최동원 다큐 '1984 최동원' 전태일 애니메이션 '태일이' 송해 다큐 '송해1927' 개봉 [서울=뉴시스] 손정빈 기자 = 모두가 사랑해마지 않은 실존 인물을 다룬 영화 3편이 한꺼번에 관객을 찾는다. 다큐멘터리 영화 2편과 애니메이션 영화 1편이다. 이 작품들이 담고 있는 건 하나같이 불멸의 존재들이다. 야구선수 최동원, 노동운동가 전]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Fnewsis%2F20211112095400318umht.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['핫블러드' 리얼 청춘의 삶 "휘몰아치는 맨몸 액션" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211112154634704</link>
+            <guid>https://movie.v.daum.net/v/20211112154634704</guid>
+            <pubDate>Fri, 12 Nov 2021 12:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[액션 거장과 차세대 액션 스타들이 만났다. 세상을 향한 거침없는 녀석들의 리얼 청춘 액션 영화 '핫 블러드(신재명 감독)'가 이정현, 최제헌, 정성호의 강렬한 액션이 돋보이는 액션 하이라이트 영상을 공개했다. '핫 블러드'는 현실의 벽에 부딪혀 인생의 방향을 잃은 세 명의 친구가 각자의 방식으로 부조리한 세상과 뜨겁게 맞서는 청춘의 이야기를 담아낸 리]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Filgansports%2F20211112154637310jvbt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['장르만 로맨스' 김희원 "이불 속에 있을 때 제일 행복하지만..꾸준히 연기하는 게 꿈" [MD인터뷰](종합) (다음영화 뉴스 ─ 최신)]]></title>
@@ -1467,7 +1467,7 @@
             <link>https://tv.naver.com/v/23493664</link>
             <guid>https://tv.naver.com/v/23493664</guid>
             <pubDate>Fri, 12 Nov 2021 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_220/c3QMr_1636709008735T3I7J_JPEG/d717efab-4399-11ec-a979-48df37ae3dc4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1475,7 +1475,7 @@
             <link>https://tv.naver.com/v/23493546</link>
             <guid>https://tv.naver.com/v/23493546</guid>
             <pubDate>Fri, 12 Nov 2021 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_230/Fz6Fg_1636708534884QJ5YX_JPEG/fba9c532-4398-11ec-a3dc-246e963a464c_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1483,7 +1483,7 @@
             <link>https://tv.naver.com/v/23489036</link>
             <guid>https://tv.naver.com/v/23489036</guid>
             <pubDate>Fri, 12 Nov 2021 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_197/UBC1i_1636698692768QmQub_JPEG/19cb0e0f-4382-11ec-a713-a0369ff95ec0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1491,7 +1491,7 @@
             <link>https://tv.naver.com/v/23488947</link>
             <guid>https://tv.naver.com/v/23488947</guid>
             <pubDate>Fri, 12 Nov 2021 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_161/omu4F_163669846686480QWD_JPEG/96f3b995-4381-11ec-9e9c-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1499,7 +1499,7 @@
             <link>https://tv.naver.com/v/23488846</link>
             <guid>https://tv.naver.com/v/23488846</guid>
             <pubDate>Fri, 12 Nov 2021 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_125/PZkn4_16366982429522zyRs_JPEG/0b03c055-4381-11ec-9d5b-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1507,7 +1507,7 @@
             <link>https://tv.naver.com/v/23488778</link>
             <guid>https://tv.naver.com/v/23488778</guid>
             <pubDate>Fri, 12 Nov 2021 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_289/yg252_1636698074144sxfa3_JPEG/84d6629d-4380-11ec-917b-a0369ff9545c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1515,7 +1515,7 @@
             <link>https://tv.naver.com/v/23488068</link>
             <guid>https://tv.naver.com/v/23488068</guid>
             <pubDate>Fri, 12 Nov 2021 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_296/Z4ib4_1636696265804BJ3SO_JPEG/4ab89884-437c-11ec-bc73-a0369ff968b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1523,7 +1523,7 @@
             <link>https://tv.naver.com/v/23487379</link>
             <guid>https://tv.naver.com/v/23487379</guid>
             <pubDate>Fri, 12 Nov 2021 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_221/URHHM_1636694257281Lvwjn_JPEG/b3f3eed1-4377-11ec-8e54-505dac8c37f3_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1531,7 +1531,7 @@
             <link>https://tv.naver.com/v/23484980</link>
             <guid>https://tv.naver.com/v/23484980</guid>
             <pubDate>Fri, 12 Nov 2021 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_41/dQwRB_1636685322677gILjf_JPEG/e6371c80-4362-11ec-a74c-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1539,7 +1539,7 @@
             <link>https://tv.naver.com/v/23484966</link>
             <guid>https://tv.naver.com/v/23484966</guid>
             <pubDate>Fri, 12 Nov 2021 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_268/A9qEh_1636685277836PRTtJ_JPEG/49b383fa-4362-11ec-bc73-a0369ff968b0_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1547,7 +1547,7 @@
             <link>https://tv.naver.com/v/23484589</link>
             <guid>https://tv.naver.com/v/23484589</guid>
             <pubDate>Fri, 12 Nov 2021 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_54/peqvX_1636683892611rBhF5_JPEG/67f7a6bb-435f-11ec-9e9c-48df379cc9e4_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1555,7 +1555,7 @@
             <link>https://tv.naver.com/v/23483934</link>
             <guid>https://tv.naver.com/v/23483934</guid>
             <pubDate>Fri, 12 Nov 2021 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_27/E7RkO_1636681563530y2GX9_JPEG/24ebbfe3-435a-11ec-ba2c-505dac8c385b_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1563,7 +1563,7 @@
             <link>https://tv.naver.com/v/23483750</link>
             <guid>https://tv.naver.com/v/23483750</guid>
             <pubDate>Fri, 12 Nov 2021 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_277/wZgIQ_1636680922355JWyrN_JPEG/7f3a691c-4358-11ec-a74c-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1571,7 +1571,7 @@
             <link>https://tv.naver.com/v/23483653</link>
             <guid>https://tv.naver.com/v/23483653</guid>
             <pubDate>Fri, 12 Nov 2021 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_140/BrhKZ_1636680479733RKruD_JPEG/9be5b0fd-4357-11ec-8e54-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1579,7 +1579,7 @@
             <link>https://tv.naver.com/v/23483584</link>
             <guid>https://tv.naver.com/v/23483584</guid>
             <pubDate>Fri, 12 Nov 2021 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_20/T9B4z_16366801691716Vhbq_JPEG/d09385df-4356-11ec-b39d-48df37ae3fca_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1627,7 +1627,7 @@
             <link>https://tv.naver.com/v/23470093</link>
             <guid>https://tv.naver.com/v/23470093</guid>
             <pubDate>Fri, 12 Nov 2021 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211111_11/wJC7J_1636614557790TzUUh_JPEG/11e03ae6-42be-11ec-9e9c-48df379cc9e4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1699,7 +1699,7 @@
             <link>https://tv.naver.com/v/23446902</link>
             <guid>https://tv.naver.com/v/23446902</guid>
             <pubDate>Fri, 12 Nov 2021 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211110_73/cmItt_16365289066577ac40_JPEG/77dc294a-41f6-11ec-ba2c-505dac8c385b_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
