@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 16:25:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 17:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -295,20 +295,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb3a440345ea826d42d6873975e8b3b8cdb8da66c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[기적 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=143697</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=143697</guid>
-            <pubDate>Thu, 11 Nov 2021 11:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff09b6fed698932a9258208f8cc4d041ac95efbbd" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[러브 어페어 : 우리가 말하는 것, 우리가 하는 것 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145242</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145242</guid>
             <pubDate>Thu, 11 Nov 2021 00:51:46 GMT</pubDate>
             <content:encoded><![CDATA[21.11.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F64b06e87ce720108b0b1ce6d10f7da50e3ce1d0d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[기적 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143697</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143697</guid>
+            <pubDate>Thu, 11 Nov 2021 11:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff09b6fed698932a9258208f8cc4d041ac95efbbd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[빌리 홀리데이 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -623,12 +623,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Fnewsis%2F20211112095400318umht.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[씨네+] '마블리' 마동석을 놓칠리 없는 마블 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211111172803155</link>
-            <guid>https://movie.v.daum.net/v/20211111172803155</guid>
-            <pubDate>Fri, 12 Nov 2021 02:00:37 GMT</pubDate>
-            <content:encoded><![CDATA[끝이 아닌 시작이다. 이제 막 '자기소개'를 마쳤을 뿐이다. 영화 '이터널스(클로이 자오 감독)'를 통해 국내 배우 최초 마블 히어로가 된 마동석이 첫 할리우드 진출 신고식을 무사히 마쳤다. 마블시네마틱유니버스(MCU) 페이지4의 새 역사를 알리는 신작에 대한 평가는 다소 엇갈렸지만, 극중 강력한 힘을 지닌 길가메시로 분한 마동석에 대해서는 기분 좋은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2FJTBC%2F20211111172804945dnfr.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['듄' 입소문의 힘, IMAX 재상영 확정 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211111173407370</link>
+            <guid>https://movie.v.daum.net/v/20211111173407370</guid>
+            <pubDate>Fri, 12 Nov 2021 02:00:38 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 백만 관객 고지를 넘어서며 여전히 뜨거운 사랑을 받고 있는 '듄'이 관객들의 열화와 같은 성원에 힘입어 IMAX 재상영이 확정되었다. 영화 '듄'(감독 드니 빌뇌브·배급 워너브러더스 코리아)의 IMAX 재상영은 17일부터 CGV IMAX 5개 지점(대전, 소풍, 수원, 왕십리, 판교)에서 시작하며 12월 1일부터는 12개 지점(]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Ftvdaily%2F20211111173410433mhad.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[강박장애 다룬 대만영화, 7년 전 한국과 어떻게 다를까 (다음영화 뉴스 ─ 인기)]]></title>
@@ -639,12 +639,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Fohmynews%2F20211112110602861wzcq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['듄' 입소문의 힘, IMAX 재상영 확정 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211111173407370</link>
-            <guid>https://movie.v.daum.net/v/20211111173407370</guid>
-            <pubDate>Fri, 12 Nov 2021 02:00:38 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 백만 관객 고지를 넘어서며 여전히 뜨거운 사랑을 받고 있는 '듄'이 관객들의 열화와 같은 성원에 힘입어 IMAX 재상영이 확정되었다. 영화 '듄'(감독 드니 빌뇌브·배급 워너브러더스 코리아)의 IMAX 재상영은 17일부터 CGV IMAX 5개 지점(대전, 소풍, 수원, 왕십리, 판교)에서 시작하며 12월 1일부터는 12개 지점(]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Ftvdaily%2F20211111173410433mhad.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[씨네+] '마블리' 마동석을 놓칠리 없는 마블 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211111172803155</link>
+            <guid>https://movie.v.daum.net/v/20211111172803155</guid>
+            <pubDate>Fri, 12 Nov 2021 02:00:37 GMT</pubDate>
+            <content:encoded><![CDATA[끝이 아닌 시작이다. 이제 막 '자기소개'를 마쳤을 뿐이다. 영화 '이터널스(클로이 자오 감독)'를 통해 국내 배우 최초 마블 히어로가 된 마동석이 첫 할리우드 진출 신고식을 무사히 마쳤다. 마블시네마틱유니버스(MCU) 페이지4의 새 역사를 알리는 신작에 대한 평가는 다소 엇갈렸지만, 극중 강력한 힘을 지닌 길가메시로 분한 마동석에 대해서는 기분 좋은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2FJTBC%2F20211111172804945dnfr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['핫블러드' 리얼 청춘의 삶 "휘몰아치는 맨몸 액션" (다음영화 뉴스 ─ 인기)]]></title>
@@ -1315,7 +1315,7 @@
             <link>https://tv.naver.com/v/23493546</link>
             <guid>https://tv.naver.com/v/23493546</guid>
             <pubDate>Fri, 12 Nov 2021 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_230/Fz6Fg_1636708534884QJ5YX_JPEG/fba9c532-4398-11ec-a3dc-246e963a464c_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1323,7 +1323,7 @@
             <link>https://tv.naver.com/v/23489036</link>
             <guid>https://tv.naver.com/v/23489036</guid>
             <pubDate>Fri, 12 Nov 2021 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_197/UBC1i_1636698692768QmQub_JPEG/19cb0e0f-4382-11ec-a713-a0369ff95ec0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1331,7 +1331,7 @@
             <link>https://tv.naver.com/v/23488947</link>
             <guid>https://tv.naver.com/v/23488947</guid>
             <pubDate>Fri, 12 Nov 2021 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_161/omu4F_163669846686480QWD_JPEG/96f3b995-4381-11ec-9e9c-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1347,7 +1347,7 @@
             <link>https://tv.naver.com/v/23488778</link>
             <guid>https://tv.naver.com/v/23488778</guid>
             <pubDate>Fri, 12 Nov 2021 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_289/yg252_1636698074144sxfa3_JPEG/84d6629d-4380-11ec-917b-a0369ff9545c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1355,7 +1355,7 @@
             <link>https://tv.naver.com/v/23488068</link>
             <guid>https://tv.naver.com/v/23488068</guid>
             <pubDate>Fri, 12 Nov 2021 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_296/Z4ib4_1636696265804BJ3SO_JPEG/4ab89884-437c-11ec-bc73-a0369ff968b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1363,7 +1363,7 @@
             <link>https://tv.naver.com/v/23487379</link>
             <guid>https://tv.naver.com/v/23487379</guid>
             <pubDate>Fri, 12 Nov 2021 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_221/URHHM_1636694257281Lvwjn_JPEG/b3f3eed1-4377-11ec-8e54-505dac8c37f3_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1371,7 +1371,7 @@
             <link>https://tv.naver.com/v/23484980</link>
             <guid>https://tv.naver.com/v/23484980</guid>
             <pubDate>Fri, 12 Nov 2021 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_41/dQwRB_1636685322677gILjf_JPEG/e6371c80-4362-11ec-a74c-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1379,7 +1379,7 @@
             <link>https://tv.naver.com/v/23484966</link>
             <guid>https://tv.naver.com/v/23484966</guid>
             <pubDate>Fri, 12 Nov 2021 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_268/A9qEh_1636685277836PRTtJ_JPEG/49b383fa-4362-11ec-bc73-a0369ff968b0_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1387,7 +1387,7 @@
             <link>https://tv.naver.com/v/23484589</link>
             <guid>https://tv.naver.com/v/23484589</guid>
             <pubDate>Fri, 12 Nov 2021 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_54/peqvX_1636683892611rBhF5_JPEG/67f7a6bb-435f-11ec-9e9c-48df379cc9e4_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1395,7 +1395,7 @@
             <link>https://tv.naver.com/v/23483934</link>
             <guid>https://tv.naver.com/v/23483934</guid>
             <pubDate>Fri, 12 Nov 2021 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_27/E7RkO_1636681563530y2GX9_JPEG/24ebbfe3-435a-11ec-ba2c-505dac8c385b_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1403,7 +1403,7 @@
             <link>https://tv.naver.com/v/23483750</link>
             <guid>https://tv.naver.com/v/23483750</guid>
             <pubDate>Fri, 12 Nov 2021 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_277/wZgIQ_1636680922355JWyrN_JPEG/7f3a691c-4358-11ec-a74c-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1411,7 +1411,7 @@
             <link>https://tv.naver.com/v/23483653</link>
             <guid>https://tv.naver.com/v/23483653</guid>
             <pubDate>Fri, 12 Nov 2021 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_140/BrhKZ_1636680479733RKruD_JPEG/9be5b0fd-4357-11ec-8e54-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1467,7 +1467,7 @@
             <link>https://tv.naver.com/v/23470093</link>
             <guid>https://tv.naver.com/v/23470093</guid>
             <pubDate>Fri, 12 Nov 2021 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211111_11/wJC7J_1636614557790TzUUh_JPEG/11e03ae6-42be-11ec-9e9c-48df379cc9e4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1539,7 +1539,7 @@
             <link>https://tv.naver.com/v/23446902</link>
             <guid>https://tv.naver.com/v/23446902</guid>
             <pubDate>Fri, 12 Nov 2021 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211110_73/cmItt_16365289066577ac40_JPEG/77dc294a-41f6-11ec-ba2c-505dac8c385b_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
