@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 15:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 16:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -263,14 +263,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2e84396a753c036b2fe00cc2544a02b55f3ec57b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[고양이에게 밥을 주지 마세요 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=143935</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=143935</guid>
-            <pubDate>Sun, 14 Nov 2021 02:00:05 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa2f2a1b54fdf9d34ff271afdc1d794b5c6d0931c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[1984 최동원 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=146030</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=146030</guid>
@@ -333,6 +325,14 @@
             <pubDate>Tue, 16 Nov 2021 08:19:11 GMT</pubDate>
             <content:encoded><![CDATA[21.11.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9fd2689f80e308d6156b363d4ce640cb852eb654" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[고양이에게 밥을 주지 마세요 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143935</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143935</guid>
+            <pubDate>Sun, 14 Nov 2021 02:00:05 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa2f2a1b54fdf9d34ff271afdc1d794b5c6d0931c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[가족의 색깔 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -415,14 +415,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ae35cb4d65268cc5c1be6427327a1db248119ce" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[어 굿 맨 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=146298</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=146298</guid>
-            <pubDate>Wed, 10 Nov 2021 23:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5169e1572a0ebd6df9c7c1dbacb5193e287f97cc" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[행복의 속도 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145328</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145328</guid>
@@ -437,6 +429,14 @@
             <pubDate>Wed, 10 Nov 2021 23:16:34 GMT</pubDate>
             <content:encoded><![CDATA[21.11.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd730751e6e18265633c7c5c261dae93f811a226f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[어 굿 맨 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=146298</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=146298</guid>
+            <pubDate>Wed, 10 Nov 2021 23:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5169e1572a0ebd6df9c7c1dbacb5193e287f97cc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[파이란 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -599,28 +599,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F16%2Ftvdaily%2F20211116105609721gtvv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['강릉' 씬스틸러 포스터..누아르에서 빛난 명품 조연 6인 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211116094103498</link>
-            <guid>https://movie.v.daum.net/v/20211116094103498</guid>
-            <pubDate>Tue, 16 Nov 2021 01:58:57 GMT</pubDate>
-            <content:encoded><![CDATA['강릉'이 연기 맛집의 면모를 뽐낸다. 개봉작 중 박스오피스 1위를 지키고 있는 영화 '강릉(윤영빈 감독)'이 개성 강한 조연진들의 명대사와 면면을 확인할 수 있는 3차 캐릭터 포스터를 공개했다. '강릉'은 강릉 최대의 리조트 건설을 둘러싼 서로 다른 조직의 야망과 음모, 그리고 배신을 그린 범죄 액션 영화다. 공식 개봉 전 '강릉'은 각 조직의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F16%2Filgansports%2F20211116094104843your.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[전종서X손석구, '연애 빠진 로맨스' 관람 추천영상 ..스트레스 날린다 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211116083811591</link>
             <guid>https://movie.v.daum.net/v/20211116083811591</guid>
             <pubDate>Tue, 16 Nov 2021 11:13:57 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='연애 빠진 로맨스'전종서, 손석구의 신선한 만남으로 기대를 모으는 영화 '연애 빠진 로맨스'가 일상 속 현실 공감을 자아내는 관람 추천 영상을 공개했다. '연애 빠진 로맨스'는 연애는 싫지만 외로운 건 더 싫은 '자영'(전종서 분)과 일도 연애도 뜻대로 안 풀리는 우리(손석구 분), 이름, 이유, 마음 다 감추고 시작한 그]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F16%2Fstarnews%2F20211116083812849rrwd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[여성 교도소 액션 '아수라장' 크랭크인..정영주 독보적 카리스마 예고[공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211116085501953</link>
-            <guid>https://movie.v.daum.net/v/20211116085501953</guid>
-            <pubDate>Tue, 16 Nov 2021 01:58:57 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 여성 액션 누아르 '아수라장'이 '스트릿 우먼 파이터'를 방불케 하는 캐스팅 조합을 완성하고 크랭크인했다. 11월 8일 크랭크인한 영화 '아수라장'(감독 윤여창)은 여성 재소자들이 모인 정애 교도소에 각기 다른 욕망을 지닌 빌런들이 입소하면서 벌어지는 반란을 그린 여성 액션 누아르. 제3회 한국뮤지컬어워즈 여우주연상에 빛나는 베테랑]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F16%2Fnewsen%2F20211116085502854mpwy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["대본부터 따뜻" '싸나희 순정' 전석호x박명훈, 힐링 전할 시골라이프(종합) (다음영화 뉴스 ─ 인기)]]></title>
@@ -631,12 +615,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F16%2FNEWS1%2F20211116163918946imye.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[화개장터는 조영남·여수는 장범준.. 중문단지는? (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211115101510732</link>
-            <guid>https://movie.v.daum.net/v/20211115101510732</guid>
+            <title><![CDATA['강릉' 씬스틸러 포스터..누아르에서 빛난 명품 조연 6인 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211116094103498</link>
+            <guid>https://movie.v.daum.net/v/20211116094103498</guid>
             <pubDate>Tue, 16 Nov 2021 01:58:57 GMT</pubDate>
-            <content:encoded><![CDATA[[김성호 기자] &nbsp;        ▲ 쉬리&nbsp;포스터    ⓒ 강제규필름  &nbsp;한국 영화사상 가장 특별한 영화 한 편을 꼽는다면 가장 많은 이들이 이 영화를 말할 것이다. 최초의 한국영화 나운규의 &lt;아리랑&gt;, 첫 100만 관객영화 &lt;서편제&gt;, 한국영화사상 전무후무한 명성을 얻은 &lt;기생충&gt;과 같은 상징적 작품이 여럿이지만 오늘 한국영화계의 부흥에 시작점이 된 영화가]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F15%2Fohmynews%2F20211115101511557quux.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA['강릉'이 연기 맛집의 면모를 뽐낸다. 개봉작 중 박스오피스 1위를 지키고 있는 영화 '강릉(윤영빈 감독)'이 개성 강한 조연진들의 명대사와 면면을 확인할 수 있는 3차 캐릭터 포스터를 공개했다. '강릉'은 강릉 최대의 리조트 건설을 둘러싼 서로 다른 조직의 야망과 음모, 그리고 배신을 그린 범죄 액션 영화다. 공식 개봉 전 '강릉'은 각 조직의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F16%2Filgansports%2F20211116094104843your.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[여성 교도소 액션 '아수라장' 크랭크인..정영주 독보적 카리스마 예고[공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211116085501953</link>
+            <guid>https://movie.v.daum.net/v/20211116085501953</guid>
+            <pubDate>Tue, 16 Nov 2021 01:58:57 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 여성 액션 누아르 '아수라장'이 '스트릿 우먼 파이터'를 방불케 하는 캐스팅 조합을 완성하고 크랭크인했다. 11월 8일 크랭크인한 영화 '아수라장'(감독 윤여창)은 여성 재소자들이 모인 정애 교도소에 각기 다른 욕망을 지닌 빌런들이 입소하면서 벌어지는 반란을 그린 여성 액션 누아르. 제3회 한국뮤지컬어워즈 여우주연상에 빛나는 베테랑]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F16%2Fnewsen%2F20211116085502854mpwy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[선택 장애 유발할 연말 극장가 '필람 대작' 4편 줄세웠다[무비와치] (다음영화 뉴스 ─ 인기)]]></title>
@@ -647,12 +639,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F16%2Fnewsen%2F20211116140621366swrl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['월클' 마동석, 졸리→햄스워스 '마블' 배우들과 찐우정 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211116092022718</link>
-            <guid>https://movie.v.daum.net/v/20211116092022718</guid>
+            <title><![CDATA[화개장터는 조영남·여수는 장범준.. 중문단지는? (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211115101510732</link>
+            <guid>https://movie.v.daum.net/v/20211115101510732</guid>
             <pubDate>Tue, 16 Nov 2021 01:58:57 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp;2021년 최단 흥행 파워를 보여주고 있는 영화 '이터널스'(클로이 자오 감독)에서 특유의 시그니처 액션으로 국내는 물론 전 세계 관객들을 사로잡으며 진정한 마블리(marvel)의 탄생을 알리고 있는 배우 마동석이 주연 배우들과의 특별한 케미가 돋보이는 비하인드 스틸을 전격 공개해 눈길을 끈다. 극 중 '길가메시'&nbsp;역을 맡은 마동석]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F16%2Fpoctan%2F20211116092022512quqk.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[김성호 기자] &nbsp;        ▲ 쉬리&nbsp;포스터    ⓒ 강제규필름  &nbsp;한국 영화사상 가장 특별한 영화 한 편을 꼽는다면 가장 많은 이들이 이 영화를 말할 것이다. 최초의 한국영화 나운규의 &lt;아리랑&gt;, 첫 100만 관객영화 &lt;서편제&gt;, 한국영화사상 전무후무한 명성을 얻은 &lt;기생충&gt;과 같은 상징적 작품이 여럿이지만 오늘 한국영화계의 부흥에 시작점이 된 영화가]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F15%2Fohmynews%2F20211115101511557quux.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['괴짜들의 로맨스', 대만 로맨스 흥행 잇는다..17일 개봉 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211116125902014</link>
+            <guid>https://movie.v.daum.net/v/20211116125902014</guid>
+            <pubDate>Tue, 16 Nov 2021 16:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 최혜진 기자] 류명의 감독 신작 '괴짜들의 로맨스'가 관객들을 만난다. 오는 17일 영화 '괴짜들의 로맨스'가 개봉된다. 메가박스에서 배급하는 이번 영화는 대만 자국 영화 박스오피스 1위를 기록하고, 대만 달러 4천 5백만 달러의 흥행 수익을 기록한 감성 로맨스 영화다. '괴짜들의 로맨스'는 강박증을 앓고 있는 두 남녀가 거울처럼 닮은 서로를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F16%2Fsportstoday%2F20211116125903758npjh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['강릉', 20만 고지 밟고 장기 레이스 시작 [필름:리포트] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1315,7 +1315,7 @@
             <link>https://tv.naver.com/v/23563342</link>
             <guid>https://tv.naver.com/v/23563342</guid>
             <pubDate>Tue, 16 Nov 2021 10:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211116_96/2zM5H_1637055928869bbPxb_JPEG/fac70f40-46bf-11ec-a979-48df37ae3dc4_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1323,7 +1323,7 @@
             <link>https://tv.naver.com/v/23562346</link>
             <guid>https://tv.naver.com/v/23562346</guid>
             <pubDate>Tue, 16 Nov 2021 09:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211116_297/2vFr3_1637052913465hCFAt_JPEG/b472b3b4-46ba-11ec-9dda-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1331,7 +1331,7 @@
             <link>https://tv.naver.com/v/23561998</link>
             <guid>https://tv.naver.com/v/23561998</guid>
             <pubDate>Tue, 16 Nov 2021 09:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211116_225/UKrJd_1637052162691XM7hA_JPEG/e9c8a44b-46b8-11ec-8e54-505dac8c37f3_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1339,7 +1339,7 @@
             <link>https://tv.naver.com/v/23561702</link>
             <guid>https://tv.naver.com/v/23561702</guid>
             <pubDate>Tue, 16 Nov 2021 09:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211116_292/wRNrd_1637051628143cyPWE_JPEG/dba07ca9-46b7-11ec-82c9-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1347,7 +1347,7 @@
             <link>https://tv.naver.com/v/23559941</link>
             <guid>https://tv.naver.com/v/23559941</guid>
             <pubDate>Tue, 16 Nov 2021 08:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211116_200/0oM9N_1637048566510BclUj_JPEG/abf9dd66-46b0-11ec-b39d-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1355,7 +1355,7 @@
             <link>https://tv.naver.com/v/23559901</link>
             <guid>https://tv.naver.com/v/23559901</guid>
             <pubDate>Tue, 16 Nov 2021 08:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211116_21/Y4hue_1637048504770phXWS_JPEG/933f9a77-46b0-11ec-b39d-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1363,7 +1363,7 @@
             <link>https://tv.naver.com/v/23559880</link>
             <guid>https://tv.naver.com/v/23559880</guid>
             <pubDate>Tue, 16 Nov 2021 08:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211116_299/slcJy_1637048466426F9KfX_JPEG/742d58c6-46b0-11ec-a331-48df379cca40_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1371,7 +1371,7 @@
             <link>https://tv.naver.com/v/23559873</link>
             <guid>https://tv.naver.com/v/23559873</guid>
             <pubDate>Tue, 16 Nov 2021 08:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211116_189/zJO2n_1637048458195rNtQL_JPEG/70777d2d-46b0-11ec-9e9c-48df379cc9e4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1379,7 +1379,7 @@
             <link>https://tv.naver.com/v/23559507</link>
             <guid>https://tv.naver.com/v/23559507</guid>
             <pubDate>Tue, 16 Nov 2021 08:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211116_117/v64Ee_1637047815146a446c_JPEG/ed769c7f-46ae-11ec-917b-a0369ff9545c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1387,7 +1387,7 @@
             <link>https://tv.naver.com/v/23559327</link>
             <guid>https://tv.naver.com/v/23559327</guid>
             <pubDate>Tue, 16 Nov 2021 08:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211116_208/uWUZw_163704753051721mDF_JPEG/3fb34618-46ae-11ec-a979-48df37ae3dc4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1395,7 +1395,7 @@
             <link>https://tv.naver.com/v/23559037</link>
             <guid>https://tv.naver.com/v/23559037</guid>
             <pubDate>Tue, 16 Nov 2021 08:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211116_252/k1n0s_16370470753475PIKI_JPEG/3c8701e6-46ad-11ec-9a33-505dac8c3721_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1403,7 +1403,7 @@
             <link>https://tv.naver.com/v/23557815</link>
             <guid>https://tv.naver.com/v/23557815</guid>
             <pubDate>Tue, 16 Nov 2021 07:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211116_63/pT0nz_1637045142957VTjtU_JPEG/b26583dd-46a8-11ec-9dda-505dac8c3607_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
