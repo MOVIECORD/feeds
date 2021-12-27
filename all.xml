@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 15:30:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 17:27:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -383,14 +383,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fba021bacaf87ba110d48e406408feccafb6f96a1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[원샷 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155487</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155487</guid>
-            <pubDate>Mon, 27 Dec 2021 15:29:30 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4654fb18ea620529ee10a13cb99a98b0077b919e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[웨스트 사이드 스토리 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=132759</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=132759</guid>
@@ -503,6 +495,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6e3388df02b15e188ee55ad47ccf7fa5fcb1ccfe" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[2솔져스: 배틀필드 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154042</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154042</guid>
+            <pubDate>Mon, 27 Dec 2021 17:26:13 GMT</pubDate>
+            <content:encoded><![CDATA[21.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5673172adeb26cccf7eb577dc6b681975f63c56e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA['해적2' 채수빈, 능청 사기꾼 변신..명사수 오세훈과 케미 예고 [N컷] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211227080856841</link>
             <guid>https://movie.v.daum.net/v/20211227080856841</guid>
@@ -575,14 +575,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2Fxportsnews%2F20211227171257015xodi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[강하늘, 조준영과 키스신.."내가 앗아가서 미안해" (해피뉴이어)[종합] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211227185002401</link>
-            <guid>https://movie.v.daum.net/v/20211227185002401</guid>
-            <pubDate>Mon, 27 Dec 2021 15:29:37 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 강하늘, 조준영이 유쾌한 키스신 비하인드를 전했다. 27일 오후 서울 용산구 CGV아이파크몰에서 영화 '해피 뉴 이어'(감독 곽재용) 언론시사회가 진행됐다. 이날 한지민, 이동욱, 강하늘, 임윤아, 원진아, 이혜영, 정진영, 김영광, 이광수, 고성희, 이진욱, 조준영, 원지안과 곽재용 감독이 참석했다.&nbsp; '해피 뉴 이어'는 저]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2Fxportsnews%2F20211227185006184pzzb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[오스카 예비후보 호러 '램' 개봉 전 예열..'랑종'과 평행이론 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211227094952528</link>
             <guid>https://movie.v.daum.net/v/20211227094952528</guid>
@@ -591,12 +583,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2Filgansports%2F20211227094953340ohdv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[인생멜로 '러브레터' 국내 개봉 23주년 기념 1월6일 재개봉 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211227095016546</link>
-            <guid>https://movie.v.daum.net/v/20211227095016546</guid>
+            <title><![CDATA[강하늘, 조준영과 키스신.."내가 앗아가서 미안해" (해피뉴이어)[종합] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211227185002401</link>
+            <guid>https://movie.v.daum.net/v/20211227185002401</guid>
             <pubDate>Mon, 27 Dec 2021 15:29:37 GMT</pubDate>
-            <content:encoded><![CDATA['러브레터'가 다시 돌아온다. 영화 '러브레터(이와이 슌지 감독)'는 국내 개봉 23주년을 기념해 오는 1월 6일 재개봉을 확정했다. '러브레터'는 히로코가 사고로 떠나보낸 연인 이츠키를 향한 그리움을 담아 보낸 편지에 또 다른 이츠키로부터 답장이 도착하면서 가슴속에 간직했던 첫사랑의 기억을 다시 꺼내보게 되는 이야기를 그린 클래식 멜로 영화다. 첫]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2Filgansports%2F20211227095018100pghn.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 강하늘, 조준영이 유쾌한 키스신 비하인드를 전했다. 27일 오후 서울 용산구 CGV아이파크몰에서 영화 '해피 뉴 이어'(감독 곽재용) 언론시사회가 진행됐다. 이날 한지민, 이동욱, 강하늘, 임윤아, 원진아, 이혜영, 정진영, 김영광, 이광수, 고성희, 이진욱, 조준영, 원지안과 곽재용 감독이 참석했다.&nbsp; '해피 뉴 이어'는 저]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2Fxportsnews%2F20211227185006184pzzb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[김윤석·조인성·설경구·변요한..극장가 지켰다 [2021 연말결산③] (다음영화 뉴스 ─ 인기)]]></title>
@@ -607,28 +599,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2Fstarnews%2F20211227110641945ljvh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[한지민 "짝사랑 경험 多..낯선 감정 아니었다" (해피뉴이어)[종합] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211227195002340</link>
-            <guid>https://movie.v.daum.net/v/20211227195002340</guid>
+            <title><![CDATA[인생멜로 '러브레터' 국내 개봉 23주년 기념 1월6일 재개봉 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211227095016546</link>
+            <guid>https://movie.v.daum.net/v/20211227095016546</guid>
             <pubDate>Mon, 27 Dec 2021 15:29:37 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 한지민이 전엔 보여주지 못했던, '짝사랑'의 감정을 관객들에게 전한다. 27일 오후 서울 용산구 CGV아이파크몰에서 영화 '해피 뉴 이어'(감독 곽재용) 언론시사회가 진행됐다. 이날 한지민, 이동욱, 강하늘, 임윤아, 원진아, 이혜영, 정진영, 김영광, 이광수, 고성희, 이진욱, 조준영, 원지안과 곽재용 감독이 참석했다.&nbsp; ']]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2Fxportsnews%2F20211227195004612kvtb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['해피 뉴 이어' 필수 관람 포인트 셋..캐스팅·로맨스·연말 감성 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211227103032300</link>
-            <guid>https://movie.v.daum.net/v/20211227103032300</guid>
-            <pubDate>Mon, 27 Dec 2021 15:29:37 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=강효진 기자] 올해의 마지막을 장식할 티빙 오리지널 영화 '해피 뉴 이어'가 놓쳐서는 안 될 필수 관람 포인트 세 가지를 공개했다. 영화 '해피 뉴 이어'는 저마다의 사연을 안고 호텔 엠로스를 찾은 사람들이 각자의 방식으로 자신만의 인연을 만들어가는 이야기. 첫번째 포인트는 연말연시를 어느 때보다 풍성하게 채워줄 버라이어티한 역대급 캐]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2Fspotvnews%2F20211227103033709vznj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 시리즈 '고요의 바다', 언리얼 엔진으로 만들었다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211227165841719</link>
-            <guid>https://movie.v.daum.net/v/20211227165841719</guid>
-            <pubDate>Mon, 27 Dec 2021 15:29:37 GMT</pubDate>
-            <content:encoded><![CDATA[웨스트월드, 언리얼 엔진으로 '고요의 바다' VFX 작업 진행 언리얼 엔진이 달을 배경으로 펼쳐지는 SF 스릴러 '고요의 바다' 제작에 한 축을 담당했다. 에픽게임즈 코리아(대표 박성철)는 넷플릭스 시리즈 '고요의 바다' 제작에 언리얼 엔진이 사용됐다고 27일 밝혔다. '고요의 바다'는 필수 자원이 고갈돼 황폐해진 가까운 미래의 지구를 배]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2FDAILYESPORTS%2F20211227165842412khti.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA['러브레터'가 다시 돌아온다. 영화 '러브레터(이와이 슌지 감독)'는 국내 개봉 23주년을 기념해 오는 1월 6일 재개봉을 확정했다. '러브레터'는 히로코가 사고로 떠나보낸 연인 이츠키를 향한 그리움을 담아 보낸 편지에 또 다른 이츠키로부터 답장이 도착하면서 가슴속에 간직했던 첫사랑의 기억을 다시 꺼내보게 되는 이야기를 그린 클래식 멜로 영화다. 첫]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2Filgansports%2F20211227095018100pghn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[한지민도 짝사랑을 한다.. 경험으로 완성한 '해피뉴이어' (다음영화 뉴스 ─ 인기)]]></title>
@@ -639,6 +615,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2Fhankooki%2F20211227200529713nqic.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['해피 뉴 이어' 필수 관람 포인트 셋..캐스팅·로맨스·연말 감성 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211227103032300</link>
+            <guid>https://movie.v.daum.net/v/20211227103032300</guid>
+            <pubDate>Mon, 27 Dec 2021 15:29:37 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=강효진 기자] 올해의 마지막을 장식할 티빙 오리지널 영화 '해피 뉴 이어'가 놓쳐서는 안 될 필수 관람 포인트 세 가지를 공개했다. 영화 '해피 뉴 이어'는 저마다의 사연을 안고 호텔 엠로스를 찾은 사람들이 각자의 방식으로 자신만의 인연을 만들어가는 이야기. 첫번째 포인트는 연말연시를 어느 때보다 풍성하게 채워줄 버라이어티한 역대급 캐]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2Fspotvnews%2F20211227103033709vznj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[한지민 "짝사랑 경험 多..낯선 감정 아니었다" (해피뉴이어)[종합] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211227195002340</link>
+            <guid>https://movie.v.daum.net/v/20211227195002340</guid>
+            <pubDate>Mon, 27 Dec 2021 15:29:37 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 한지민이 전엔 보여주지 못했던, '짝사랑'의 감정을 관객들에게 전한다. 27일 오후 서울 용산구 CGV아이파크몰에서 영화 '해피 뉴 이어'(감독 곽재용) 언론시사회가 진행됐다. 이날 한지민, 이동욱, 강하늘, 임윤아, 원진아, 이혜영, 정진영, 김영광, 이광수, 고성희, 이진욱, 조준영, 원지안과 곽재용 감독이 참석했다.&nbsp; ']]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2Fxportsnews%2F20211227195004612kvtb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['해피 뉴 이어' 이동욱 "원진아와 부부 연기도 해보고파" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211227201601692</link>
             <guid>https://movie.v.daum.net/v/20211227201601692</guid>
@@ -647,20 +639,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2Fhankooki%2F20211227201603999molf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[넷플릭스 시리즈 '고요의 바다', 언리얼 엔진으로 만들었다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211227165841719</link>
+            <guid>https://movie.v.daum.net/v/20211227165841719</guid>
+            <pubDate>Mon, 27 Dec 2021 15:29:37 GMT</pubDate>
+            <content:encoded><![CDATA[웨스트월드, 언리얼 엔진으로 '고요의 바다' VFX 작업 진행 언리얼 엔진이 달을 배경으로 펼쳐지는 SF 스릴러 '고요의 바다' 제작에 한 축을 담당했다. 에픽게임즈 코리아(대표 박성철)는 넷플릭스 시리즈 '고요의 바다' 제작에 언리얼 엔진이 사용됐다고 27일 밝혔다. '고요의 바다'는 필수 자원이 고갈돼 황폐해진 가까운 미래의 지구를 배]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2FDAILYESPORTS%2F20211227165842412khti.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[찬열·아이린, 2021 산딸기영화제 '최악의 연기' [편파적인 씨네리뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211227072204254</link>
+            <guid>https://movie.v.daum.net/v/20211227072204254</guid>
+            <pubDate>Mon, 27 Dec 2021 17:26:20 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 티켓값 1달러도 아까운 영화를 뽑는 ‘골든 라즈베리 어워즈’가 있다면 한국엔 ‘산딸기영화제’가 있다. 코로나19 장기 확산은 극장가에도 여러 변화를 가져왔다. 영화 대부분이 개봉 연기를 미루며 공백이 생긴 상영관에 ‘망작’들이 대범하게 ‘빈집털이’를 시도했다. 윤여정이 미국 아카데미 여우 조연상을 수상하고, ‘오징어게임’ 신드롬이 이는 등]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2Fsportskhan%2F20211227072205938nfyi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['해피 뉴 이어' 한지민 "15년 지기 남사친 짝사랑, 나라면 어떻게 했을까?" [MD현장] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211227180409611</link>
             <guid>https://movie.v.daum.net/v/20211227180409611</guid>
             <pubDate>Mon, 27 Dec 2021 15:29:37 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 배우 한지민이 '해피 뉴 이어'에서 프로페셔널한 호텔리어이자 사랑스러운 '여사친'의 반전 매력을 뽐냈다. 27일 오후 서울 용산구 CGV 용산아이파크몰에서 영화 '해피 뉴 이어' 언론 시사회 및 기자간담회가 열렸다. 행사에는 한지민을 비롯해 배우 이동욱, 강하늘, 임윤아, 원진아, 이혜영, 정진영, 김영광, 이광수, 고성희]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2Fmydaily%2F20211227180409169mepg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['해피 뉴 이어' 한지민 "짝사랑 연기는 처음, 흥미로워 작품 선택" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211227164307318</link>
-            <guid>https://movie.v.daum.net/v/20211227164307318</guid>
-            <pubDate>Mon, 27 Dec 2021 15:29:37 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 배우 한지민이 "짝사랑 캐릭터 처음 도전, 흥미로웠다"고 말했다. 27일 오후 서울 용산구 이촌동 CGV 용산아이파크몰에서 티빙 오리지널 영화 '해피 뉴 이어'(곽재용 감독, 하이브미디어코프 제작) 언론·배급 시사회가 열렸다. 이날 시사회에는 15년째 남사친에게 고백을 망설이는 호텔리어 소진 역의 한지민, 짝수 강박]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2FSpoChosun%2F20211227164307345ljsx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<씽2게더> 꿈의 스테이지 영상 (우리 영화 볼래?)]]></title>
@@ -1307,7 +1307,7 @@
             <link>https://tv.naver.com/v/24296427</link>
             <guid>https://tv.naver.com/v/24296427</guid>
             <pubDate>Mon, 27 Dec 2021 15:30:08 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211227_203/JTABZ_1640595239806JXTiv_JPEG/4909f21b-66f2-11ec-8a84-a0369ff963bc_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1315,7 +1315,7 @@
             <link>https://tv.naver.com/v/24296112</link>
             <guid>https://tv.naver.com/v/24296112</guid>
             <pubDate>Mon, 27 Dec 2021 15:30:08 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211227_163/yi7Dn_1640594572723KoBOo_JPEG/d72e6996-66f0-11ec-810a-505dac8c3607_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1323,7 +1323,7 @@
             <link>https://tv.naver.com/v/24295913</link>
             <guid>https://tv.naver.com/v/24295913</guid>
             <pubDate>Mon, 27 Dec 2021 15:30:08 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211227_135/Ji12p_1640594253199yaTKI_JPEG/fcdcfae0-66ef-11ec-9576-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1331,7 +1331,7 @@
             <link>https://tv.naver.com/v/24295345</link>
             <guid>https://tv.naver.com/v/24295345</guid>
             <pubDate>Mon, 27 Dec 2021 15:30:08 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211227_211/1Oc30_1640593173668pPqaA_JPEG/a91b661f-66ed-11ec-a831-48df379cca40_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1339,7 +1339,7 @@
             <link>https://tv.naver.com/v/24292782</link>
             <guid>https://tv.naver.com/v/24292782</guid>
             <pubDate>Mon, 27 Dec 2021 15:30:08 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211227_275/i4PDN_1640588337505hMsOh_JPEG/5bd7bcc2-66e2-11ec-b908-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1347,7 +1347,7 @@
             <link>https://tv.naver.com/v/24292667</link>
             <guid>https://tv.naver.com/v/24292667</guid>
             <pubDate>Mon, 27 Dec 2021 15:30:08 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211227_81/LF4xA_1640588133915GuDAg_JPEG/dddb640f-66e1-11ec-810a-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1355,7 +1355,7 @@
             <link>https://tv.naver.com/v/24292365</link>
             <guid>https://tv.naver.com/v/24292365</guid>
             <pubDate>Mon, 27 Dec 2021 15:30:08 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211227_267/vAqF4_16405875190032M2yi_JPEG/64aeafe0-66e0-11ec-93de-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1363,7 +1363,7 @@
             <link>https://tv.naver.com/v/24290200</link>
             <guid>https://tv.naver.com/v/24290200</guid>
             <pubDate>Mon, 27 Dec 2021 15:30:08 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211227_119/Yn4MA_1640583463074W3ugR_PNG/1640583455465.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -1371,7 +1371,7 @@
             <link>https://tv.naver.com/v/24289732</link>
             <guid>https://tv.naver.com/v/24289732</guid>
             <pubDate>Mon, 27 Dec 2021 15:30:08 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211227_137/4vSF2_1640582300145gu6EU_JPEG/33526374-66d4-11ec-8a04-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1379,7 +1379,7 @@
             <link>https://tv.naver.com/v/24289467</link>
             <guid>https://tv.naver.com/v/24289467</guid>
             <pubDate>Mon, 27 Dec 2021 15:30:08 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211227_8/ip2TS_1640581571664lyHc7_JPEG/940b0cde-66d2-11ec-895c-a0369ff94ed0_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1387,7 +1387,7 @@
             <link>https://tv.naver.com/v/24289328</link>
             <guid>https://tv.naver.com/v/24289328</guid>
             <pubDate>Mon, 27 Dec 2021 15:30:08 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211227_19/E5xc0_1640581273596f3jGW_JPEG/607ebfb4-66d1-11ec-9190-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1395,7 +1395,7 @@
             <link>https://tv.naver.com/v/24287269</link>
             <guid>https://tv.naver.com/v/24287269</guid>
             <pubDate>Mon, 27 Dec 2021 15:30:08 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211227_22/FvEgE_1640573927596wH1rN_JPEG/a2f211db-66c0-11ec-ad60-505dacfba98a_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1403,7 +1403,7 @@
             <link>https://tv.naver.com/v/24287104</link>
             <guid>https://tv.naver.com/v/24287104</guid>
             <pubDate>Mon, 27 Dec 2021 15:30:08 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211227_142/f9zBs_1640573406630MChpD_JPEG/6ad0381d-66bf-11ec-93de-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1411,7 +1411,7 @@
             <link>https://tv.naver.com/v/24286652</link>
             <guid>https://tv.naver.com/v/24286652</guid>
             <pubDate>Mon, 27 Dec 2021 15:30:08 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211227_265/t4HW1_1640572030853hHIVK_JPEG/6769e298-66bc-11ec-908e-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1419,7 +1419,7 @@
             <link>https://tv.naver.com/v/24286463</link>
             <guid>https://tv.naver.com/v/24286463</guid>
             <pubDate>Mon, 27 Dec 2021 15:30:08 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211227_216/AIFgl_1640571489558yLWcI_JPEG/ff288b79-66ba-11ec-9d44-48df37ae3dc4_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
