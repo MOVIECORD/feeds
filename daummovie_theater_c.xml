@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 02:38:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 03:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Mon, 27 Dec 2021 15:29:30 GMT</pubDate>
             <content:encoded><![CDATA[22.01.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb6943a9508e5f9dc4764c57aecc8654af3e24e8f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[미싱타는 여자들]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145234</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145234</guid>
+            <pubDate>Tue, 28 Dec 2021 03:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F03bec478df454a45412c8f6f665481cb39b71a34" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[트로트는 인생이다]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 27 Dec 2021 17:26:13 GMT</pubDate>
             <content:encoded><![CDATA[21.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5673172adeb26cccf7eb577dc6b681975f63c56e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[그레이트 샤크2]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156017</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156017</guid>
-            <pubDate>Tue, 28 Dec 2021 01:03:19 GMT</pubDate>
-            <content:encoded><![CDATA[21.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F509661cd10024873b1ffa551ca92fd52757d86b7" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
