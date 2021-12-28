@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 06:25:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 07:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F19cc9a14f6c04ba6983251eeb7f53cd058119647" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[씽2게더]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138207</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138207</guid>
+            <pubDate>Tue, 28 Dec 2021 07:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbee2664b519aa5520cba257b3e992fc1074c6b88" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[청춘적니]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151331</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151331</guid>
@@ -72,28 +80,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6ddd97f36e8a34f2f6b95cea5ba4f8d60ff472ae" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[하우스 오브 구찌]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=54204</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=54204</guid>
-            <pubDate>Mon, 27 Dec 2021 15:29:30 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb6943a9508e5f9dc4764c57aecc8654af3e24e8f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[미싱타는 여자들]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145234</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145234</guid>
             <pubDate>Tue, 28 Dec 2021 03:19:42 GMT</pubDate>
             <content:encoded><![CDATA[22.01.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F03bec478df454a45412c8f6f665481cb39b71a34" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[트로트는 인생이다]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155579</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155579</guid>
-            <pubDate>Mon, 27 Dec 2021 15:29:30 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fcb688eed0209a695695c381574aebcb1de8a0c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[메모리: 조작살인]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Mon, 27 Dec 2021 17:26:13 GMT</pubDate>
             <content:encoded><![CDATA[21.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5673172adeb26cccf7eb577dc6b681975f63c56e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[그레이트 샤크2]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156017</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156017</guid>
+            <pubDate>Tue, 28 Dec 2021 07:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[21.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F509661cd10024873b1ffa551ca92fd52757d86b7" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
