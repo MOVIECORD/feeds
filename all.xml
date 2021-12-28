@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 10:22:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 11:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -223,22 +223,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3eebe1c0e14021f0772f11361f8e6aa8ab48a207" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[엔칸토: 마법의 세계 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152081</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152081</guid>
-            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F28a2bbf1962b4f0a48c72f49957c5e4604ca9ccc" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[연애 빠진 로맨스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144054</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144054</guid>
-            <pubDate>Mon, 15 Nov 2021 23:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa0fcbda650c0e964ac945ebbe38c5ec8d2dc55ff" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[디어 에반 핸슨 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150692</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150692</guid>
@@ -255,12 +239,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fac3c7bf4d44a47b4023a0d7ecdd68bedfc7bb2fc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[마이 뉴욕 다이어리 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138748</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138748</guid>
+            <title><![CDATA[엔칸토: 마법의 세계 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152081</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152081</guid>
             <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7c4d4fe00a91718313cfe6e3f964af7e02b7951e" length="0" type="image//thumb/C408x596/"/>
+            <content:encoded><![CDATA[21.11.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F28a2bbf1962b4f0a48c72f49957c5e4604ca9ccc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[연애 빠진 로맨스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144054</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144054</guid>
+            <pubDate>Mon, 15 Nov 2021 23:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa0fcbda650c0e964ac945ebbe38c5ec8d2dc55ff" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[프렌치 디스패치 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -271,20 +263,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F143986c99895b2df85b359b06ebbe8f0ce12d5b9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[마이 뉴욕 다이어리 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138748</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138748</guid>
+            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7c4d4fe00a91718313cfe6e3f964af7e02b7951e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[극장판 소드 아트 온라인 -프로그레시브- 별 없는 밤의 아리아 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=155229</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=155229</guid>
             <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
             <content:encoded><![CDATA[21.12.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F08f419cbf4467bb2bd9ea59132a53e3fcffe52ba" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[유체이탈자 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=124768</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=124768</guid>
-            <pubDate>Tue, 28 Dec 2021 08:24:05 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2eee1b07783f3ae40b0446fdcc73851956299a6a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[티탄 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -341,6 +333,14 @@
             <pubDate>Tue, 28 Dec 2021 10:21:03 GMT</pubDate>
             <content:encoded><![CDATA[21.10.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6e48f5b593dc63aac8b452dba416570c21a7a3a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[유체이탈자 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=124768</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=124768</guid>
+            <pubDate>Tue, 28 Dec 2021 08:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2eee1b07783f3ae40b0446fdcc73851956299a6a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[해피 뉴 이어 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -511,20 +511,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Fjoongang%2F20211228120332865ctys.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA[[애프터스크리닝] 따뜻하고 훈훈한 연말연시, 딱 이맘때 봐야 할 영화 '해피 뉴 이어' ★★★ (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211227181914949</link>
-            <guid>https://movie.v.daum.net/v/20211227181914949</guid>
-            <pubDate>Tue, 28 Dec 2021 02:37:20 GMT</pubDate>
-            <content:encoded><![CDATA[▶ 줄거리 15년째 남사친에게 고백을 망설이는 호텔리어 ‘소진’. 그런 소진의 속도 모른 채 여자친구 ‘영주’ 와의 초고속 깜짝 결혼을 발표하는 ‘승효’. 모든 걸 다 가졌지만 짝수 강박증으로 고생하는 호텔 대표 ‘용진’. 뮤지컬 배우의 꿈을 접고 생활전선에 뛰어든 하우스키퍼 ‘이영’. 공무원 시험 낙방 5 년 차, 되는 일이 하나도 없는 호텔 투숙객 ‘]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2FiMBC%2F20211227181920130jbwo.png" length="0" type="image//thumb/S732x228/"/>
-        </item>
-        <item>
             <title><![CDATA['해적: 도깨비 깃발' 첫 스크린 도전 오세훈, 백발백중 명사수 '한궁'으로 변신! (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211228100823361</link>
             <guid>https://movie.v.daum.net/v/20211228100823361</guid>
             <pubDate>Tue, 28 Dec 2021 08:24:19 GMT</pubDate>
             <content:encoded><![CDATA[영화 '해적: 도깨비 깃발'의 오세훈이 백발백중의 명사수 ‘한궁’ 역으로 첫 스크린 도전에 나선다. [감독: 김정훈 | 제공/배급: 롯데엔터테인먼트 | 제작: 어뉴, 오스카10스튜디오] 한국 오락 블록버스터의 한 획을 그었던 ‘해적’의 귀환 '해적: 도깨비 깃발'은 흔적도 없이 사라진 왕실 보물의 주인이 되기 위해 바다로 모인 해적들의 스펙터클한 모험을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2FiMBC%2F20211228100828251ikpy.jpg" length="0" type="image//thumb/S384x240/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2FiMBC%2F20211228100828251ikpy.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
             <title><![CDATA[500만 돌파 '스파이더맨' 무삭제 영상, 닥터스트레인지와 극한 대립 (다음영화 뉴스 ─ 인기)]]></title>
@@ -533,6 +525,14 @@
             <pubDate>Tue, 28 Dec 2021 08:24:19 GMT</pubDate>
             <content:encoded><![CDATA[단순히 화려한 액션신을 넘어, 두 인물의 서로 다른 가치관을 녹여낸다. 팬데믹 이후 최고 흥행작으로 등극한 영화 '스파이더맨: 노 웨이 홈(존 왓츠 감독)'이 현란한 비주얼을 담은 무삭제 영상을 공개했다. '스파이더맨: 노 웨이 홈'은 정체가 탄로난 스파이더맨 피터 파커(톰 홀랜드)가 문제를 해결하기 위해 닥터 스트레인지(베네딕트 컴버배치)의]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Filgansports%2F20211228161537069nlgy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[애프터스크리닝] 따뜻하고 훈훈한 연말연시, 딱 이맘때 봐야 할 영화 '해피 뉴 이어' ★★★ (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211227181914949</link>
+            <guid>https://movie.v.daum.net/v/20211227181914949</guid>
+            <pubDate>Tue, 28 Dec 2021 02:37:20 GMT</pubDate>
+            <content:encoded><![CDATA[▶ 줄거리 15년째 남사친에게 고백을 망설이는 호텔리어 ‘소진’. 그런 소진의 속도 모른 채 여자친구 ‘영주’ 와의 초고속 깜짝 결혼을 발표하는 ‘승효’. 모든 걸 다 가졌지만 짝수 강박증으로 고생하는 호텔 대표 ‘용진’. 뮤지컬 배우의 꿈을 접고 생활전선에 뛰어든 하우스키퍼 ‘이영’. 공무원 시험 낙방 5 년 차, 되는 일이 하나도 없는 호텔 투숙객 ‘]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2FiMBC%2F20211227181920130jbwo.png" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['워낭소리' 이충렬 감독, 13년 만의 신작 '매미소리'..송가인 특별출연 (다음영화 뉴스 ─ 인기)]]></title>
@@ -559,6 +559,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2FSpoChosun%2F20211227091743373wgyj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[日 '드라이브 마이 카' 1만 관객 돌파 "적은 상영관 불구 입소문" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211227134434161</link>
+            <guid>https://movie.v.daum.net/v/20211227134434161</guid>
+            <pubDate>Tue, 28 Dec 2021 09:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[자신의 영역을 묵묵히 지키는 한 영화가 있다. 제74회 칸영화제 각본상을 수상한 '드라이브 마이 카(하마구치 류스케 감독)'가 개봉 5일 만에 1만 관객을 돌파했다. 개봉 스크린수가 50여 개로 많지 않은 상황 속에서, 극장 제한 상영 10시와 179분에 달하는 러닝타임을 뚫고 5일 만에 빠른 속도로 1만 관객을 넘어 눈길을 끈다. 또한 하마구치 류스]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2Filgansports%2F20211227134437664lkth.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[충무로 새해 소망..'기대작 대방출' 이뤄지나 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211228065726712</link>
             <guid>https://movie.v.daum.net/v/20211228065726712</guid>
@@ -575,20 +583,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2Ftvdaily%2F20211227101209552pxri.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[日 '드라이브 마이 카' 1만 관객 돌파 "적은 상영관 불구 입소문" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211227134434161</link>
-            <guid>https://movie.v.daum.net/v/20211227134434161</guid>
-            <pubDate>Tue, 28 Dec 2021 09:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[자신의 영역을 묵묵히 지키는 한 영화가 있다. 제74회 칸영화제 각본상을 수상한 '드라이브 마이 카(하마구치 류스케 감독)'가 개봉 5일 만에 1만 관객을 돌파했다. 개봉 스크린수가 50여 개로 많지 않은 상황 속에서, 극장 제한 상영 10시와 179분에 달하는 러닝타임을 뚫고 5일 만에 빠른 속도로 1만 관객을 넘어 눈길을 끈다. 또한 하마구치 류스]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2Filgansports%2F20211227134437664lkth.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[구원자 네오, 다시 '매트릭스'로 돌아온 이유 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211227110900961</link>
-            <guid>https://movie.v.daum.net/v/20211227110900961</guid>
-            <pubDate>Tue, 28 Dec 2021 02:37:20 GMT</pubDate>
-            <content:encoded><![CDATA[[김동근 기자] ▲ &nbsp;영화 &lt;매트릭스: 리저렉션&gt; 포스터    ⓒ 워너브러더스 코리아㈜  * 이 기사에는 영화의 주요 내용이 포함돼 있습니다.&nbsp; 우리가 살고 있는 세상은 어느 정도 균형이 잡혀있다. 이 균형은 사실 평등하게 구성되어 있지는 않다. 어떤 사람에게는 매우 열악한 조건일 것이고 어떤 사람에게는 만족스러운 조건일 것이다. 하지만 이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2Fohmynews%2F20211227110901718sgjf.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['스파이더맨: 노 웨이 홈' 팬데믹 최초 500만 관객 돌파, 2년 내 최고 스코어! (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211228101123545</link>
+            <guid>https://movie.v.daum.net/v/20211228101123545</guid>
+            <pubDate>Tue, 28 Dec 2021 08:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[12월 극장가를 사로잡으며 흥행 돌풍을 일으키고 있는 영화 '스파이더맨: 노 웨이 홈'이 팬데믹 이후 최초로 500만 관객을 돌파했다.​​ [제공/배급: 소니 픽쳐스 | 감독: 존 왓츠 | 출연: 톰 홀랜드, 젠데이아, 베네딕트 컴버배치, 제이콥 배덜런, 존 파브로 그리고 마리사 토메이 | 개봉: 2021년 12월 15일] 영화 '스파이더맨: 노 웨이 홈]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2FiMBC%2F20211228101124910zyex.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[테러범 잡은 조리상사, 그가 보여준 '만렙 군인' (다음영화 뉴스 ─ 인기)]]></title>
@@ -599,12 +599,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Fohmynews%2F20211228112101962qtag.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['스파이더맨: 노 웨이 홈' 팬데믹 최초 500만 관객 돌파, 2년 내 최고 스코어! (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211228101123545</link>
-            <guid>https://movie.v.daum.net/v/20211228101123545</guid>
-            <pubDate>Tue, 28 Dec 2021 08:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[12월 극장가를 사로잡으며 흥행 돌풍을 일으키고 있는 영화 '스파이더맨: 노 웨이 홈'이 팬데믹 이후 최초로 500만 관객을 돌파했다.​​ [제공/배급: 소니 픽쳐스 | 감독: 존 왓츠 | 출연: 톰 홀랜드, 젠데이아, 베네딕트 컴버배치, 제이콥 배덜런, 존 파브로 그리고 마리사 토메이 | 개봉: 2021년 12월 15일] 영화 '스파이더맨: 노 웨이 홈]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2FiMBC%2F20211228101124910zyex.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[구원자 네오, 다시 '매트릭스'로 돌아온 이유 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211227110900961</link>
+            <guid>https://movie.v.daum.net/v/20211227110900961</guid>
+            <pubDate>Tue, 28 Dec 2021 02:37:20 GMT</pubDate>
+            <content:encoded><![CDATA[[김동근 기자] ▲ &nbsp;영화 &lt;매트릭스: 리저렉션&gt; 포스터    ⓒ 워너브러더스 코리아㈜  * 이 기사에는 영화의 주요 내용이 포함돼 있습니다.&nbsp; 우리가 살고 있는 세상은 어느 정도 균형이 잡혀있다. 이 균형은 사실 평등하게 구성되어 있지는 않다. 어떤 사람에게는 매우 열악한 조건일 것이고 어떤 사람에게는 만족스러운 조건일 것이다. 하지만 이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2Fohmynews%2F20211227110901718sgjf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['킹스맨3' 매튜 본 감독, 1919년 배경 이유 "반전 메시지 담았다" (다음영화 뉴스 ─ 인기)]]></title>
@@ -615,14 +615,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Filgansports%2F20211228084037270nqpz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['탈주' 이제훈x구교환 캐스팅 확정, 2022년 크랭크인 [공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211228092521545</link>
-            <guid>https://movie.v.daum.net/v/20211228092521545</guid>
-            <pubDate>Tue, 28 Dec 2021 02:37:20 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '삼진그룹 영어토익반' 이종필 감독의 신작 '탈주'가 이제훈과 구교환으로 주연 캐스팅을 확정하고 본격적인 촬영 준비에 들어간다. 영화 '탈주'(감독 이종필·제작 더 램프)는 철책 반대편의, 내일이 있는 삶을 꿈꾸는 북한군 병사 규남과 그를 막아야 하는 보위부 장교 현상의 목숨을 건 탈주와 추격전을 그리는 영화다. 이제훈과 구교환]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Ftvdaily%2F20211228092524398qyer.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['하우스 오브 구찌' 캐릭터 포스터도 화보로 바꾸는 마법 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211228110533925</link>
             <guid>https://movie.v.daum.net/v/20211228110533925</guid>
@@ -631,12 +623,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Filgansports%2F20211228110534715qusb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[82살에 스타가 된 사진작가, 그가 세상에 남긴 유언 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211227140901979</link>
-            <guid>https://movie.v.daum.net/v/20211227140901979</guid>
-            <pubDate>Tue, 28 Dec 2021 01:03:26 GMT</pubDate>
-            <content:encoded><![CDATA[[김성호 기자] ▲ &nbsp;&lt;사울 레이터: 인 노 그레이트 허리&gt; 포스터    ⓒ GLINT  &nbsp;예술의 목적이 무엇일까. 누군가에게 감동을 주고 그의 삶을 조금이나마 변화시키는 것이 아닐까. 그렇다면 여기 한 사진가는 성공적인 예술가라고 불리기 충분하다. 일생을 뉴욕에서 활동해온 사진가 사울 레이터가 바로 그다. 레이터의 사진은 유럽의 눈 밝은 이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2Fohmynews%2F20211227140902197wtgz.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['탈주' 이제훈x구교환 캐스팅 확정, 2022년 크랭크인 [공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211228092521545</link>
+            <guid>https://movie.v.daum.net/v/20211228092521545</guid>
+            <pubDate>Tue, 28 Dec 2021 02:37:20 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '삼진그룹 영어토익반' 이종필 감독의 신작 '탈주'가 이제훈과 구교환으로 주연 캐스팅을 확정하고 본격적인 촬영 준비에 들어간다. 영화 '탈주'(감독 이종필·제작 더 램프)는 철책 반대편의, 내일이 있는 삶을 꿈꾸는 북한군 병사 규남과 그를 막아야 하는 보위부 장교 현상의 목숨을 건 탈주와 추격전을 그리는 영화다. 이제훈과 구교환]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Ftvdaily%2F20211228092524398qyer.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['해피 뉴이어' 짝사랑 한지민→취준생 강하늘..색다른 매력 발산 ② (다음영화 뉴스 ─ 인기)]]></title>
@@ -647,20 +639,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Fstarnews%2F20211228083544655xhxg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[엑소 세훈, '해적2'로 첫 스크린 연기 도전..백발백중 명사수로 팬心 정조준 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211228092431530</link>
-            <guid>https://movie.v.daum.net/v/20211228092431530</guid>
-            <pubDate>Tue, 28 Dec 2021 02:37:20 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 어드벤처 액션 영화 '해적: 도깨비 깃발'(이하 '해적2', 김정훈 감독, 어뉴·오스카10스튜디오·롯데엔터테인먼트 제작)의 오세훈이 백발백중의 명사수 '한궁' 역으로 첫 스크린 도전에 나선다. 최정상 아이돌 그룹 엑소(EXO)의 멤버로 전 세계 팬들의 마음을 사로잡은 데 이어, 드라마 '지금, 헤어지는 중입니다'에서]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2FSpoChosun%2F20211228092431720rixb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['경관의 피' 이규만 감독의 디테일 연출 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211228145921571</link>
             <guid>https://movie.v.daum.net/v/20211228145921571</guid>
             <pubDate>Tue, 28 Dec 2021 10:21:18 GMT</pubDate>
             <content:encoded><![CDATA[[티브이데일리 최하나 기자] '경관의 피'의 이규만 감독이 전작부터 이어온 남다른 디테일의 연출로 주목받고 있다. 영화 '경관의 피'(감독 이규만·제작 리양필름)는 출처불명의 막대한 후원금을 받으며 독보적인 검거실적을 자랑하는 광수대 에이스 강윤(조진웅)과 그를 비밀리에 감시하는 임무를 맡게 된 원칙주의자 경찰 민재(최우식)의 위험한 수사를 그린 범죄 드라]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Ftvdaily%2F20211228145922935vvqi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[시대를 초월한 황홀함, '웨스트 사이드 스토리'[한현정의 직구리뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211228163602329</link>
+            <guid>https://movie.v.daum.net/v/20211228163602329</guid>
+            <pubDate>Tue, 28 Dec 2021 11:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[“사랑이 너무 클 땐 옳고 그름이 의미가 없지. 생명이니까.” 높은 기대치를 뛰어 넘는, 뉴욕판 ‘로미오와 줄리엣’이다. 매혹적이고도 감미롭고, 뜨겁고도 아련하다. 전 세대를 아우를 만한, 시대 초월 웰메이드 뮤지컬 영화, ‘웨스트 사이드 스토리’(감독 스티븐 스필버그)이다. ‘웨스트 사이드 스토리’는 자신을 가둔 환경과 운명에 순응하지 않고 자신만의 세]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Fstartoday%2F20211228163604882xoen.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['타이거 마스크' 조한선 "배우로서 터닝 포인트? 매 순간"(일문일답) (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211227122702580</link>
+            <guid>https://movie.v.daum.net/v/20211227122702580</guid>
+            <pubDate>Tue, 28 Dec 2021 11:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[‘타이거 마스크’가 ‘건평’ 역을 맡은 배우 조한선의 인터뷰를 공개했다. 오는 30일 개봉되는 영화 ‘타이거 마스크’는 노잼인생으로 살아온 한 남자가 우연히 전설의 호랑이 마스크를 얻게 된 후 하루아침에 다른 사람이 되어 펼치는 K히어로 코믹액션이다. 이하 배우 조한선과의 인터뷰 전문. Q. 이전 작품들을 봤을 때, 캐릭터, 장르, 소재 등 차이가 있는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2Fmksports%2F20211227122705118rzya.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['해피뉴이어' 언론시사회 성료..군입대 서강준 아쉬운 불참 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211228192133359</link>
+            <guid>https://v.daum.net/v/20211228192133359</guid>
+            <pubDate>Tue, 28 Dec 2021 11:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[올해의 마지막을 장식할 연말 감성 무비가 찾아온다. 화려한 캐스팅으로 기대를 모으는 '해피 뉴 이어(곽재용 감독)'가 지난 27일 언론시사회를 성황리에 마무리하며 뜨거운 반응을 불러일으켰다. '해피 뉴 이어'는 저마다의 사연을 안고 호텔 엠로스를 찾은 사람들이 각자의 방식으로 자신만의 인연을 만들어가는 이야기를 그린 영화다. 이날 언론시사회는 한지민]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Filgansports%2F20211228192137099dtit.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[공개 D-1 '해피 뉴 이어' 로맨스 맛집다운 파스텔톤 러블리 포스터 (다음영화 뉴스 ─ 최신)]]></title>
@@ -813,14 +821,6 @@
             <pubDate>Tue, 28 Dec 2021 08:24:25 GMT</pubDate>
             <content:encoded><![CDATA[그 어떤 히어로보다 인간적인 면모를 지녀 사랑받는 전설, 배트맨이 돌아온다. 새해 첫 히어로 블록버스터 '더 배트맨(맷 리브스 감독)'이 국내 3월 개봉을 확정했다. IMDB가 꼽은 2022년 최고 기대작인 만큼 세계적인 기대감이 모이고 있다. '더 배트맨'은 선과 악의 기로에 선 자비 없는 배트맨과 그를 뒤흔드는 수수께끼 빌런 리들러와의 가장 강력한]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Filgansports%2F20211228170514939fljb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[SNS서 핫한 '특송 의뢰 CAR TALK' 참여자 1만명 돌파 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211228165827949</link>
-            <guid>https://v.daum.net/v/20211228165827949</guid>
-            <pubDate>Tue, 28 Dec 2021 08:24:25 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 참여자 수 1만 명을 돌파한 ‘특송의뢰 CAR TALK’ 이벤트가 화제다. 1월 12일 개봉하는 영화 '특송'(감독 박대민)은 성공률 100%의 특송 전문 드라이버 ‘은하’가 예기치 못한 배송사고에 휘말리면서 벌어지는 추격전을 그린 범죄 오락 액션이다. ‘특송의뢰 CAR TALK’ 카카오톡 인터랙티브 채팅 이벤트는 박소담이 분한 특]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Fnewsen%2F20211228165827484maey.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<필로포비아> [청불] 레드밴드 트레일러 (우리 영화 볼래?)]]></title>
@@ -1467,7 +1467,7 @@
             <link>https://tv.naver.com/v/24317254</link>
             <guid>https://tv.naver.com/v/24317254</guid>
             <pubDate>Tue, 28 Dec 2021 09:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_118/mCNxC_1640680353036Dc9U1_JPEG/546214b0-67b8-11ec-810a-505dac8c3607_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1475,7 +1475,7 @@
             <link>https://tv.naver.com/v/24317066</link>
             <guid>https://tv.naver.com/v/24317066</guid>
             <pubDate>Tue, 28 Dec 2021 09:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_209/sAWP9_1640679991945w4sTt_JPEG/a9594a53-67b7-11ec-bf52-a0369ff9545c_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1483,7 +1483,7 @@
             <link>https://tv.naver.com/v/24316977</link>
             <guid>https://tv.naver.com/v/24316977</guid>
             <pubDate>Tue, 28 Dec 2021 08:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_24/Zee5J_1640679747676NAj5F_JPEG/ed44f18e-67b6-11ec-b776-246e963a49a8_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1491,7 +1491,7 @@
             <link>https://tv.naver.com/v/24314324</link>
             <guid>https://tv.naver.com/v/24314324</guid>
             <pubDate>Tue, 28 Dec 2021 07:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_216/zGJN2_1640673520084n6A2b_JPEG/4d68c091-67a8-11ec-8a84-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1499,7 +1499,7 @@
             <link>https://tv.naver.com/v/24314096</link>
             <guid>https://tv.naver.com/v/24314096</guid>
             <pubDate>Tue, 28 Dec 2021 07:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_153/aLl5B_1640673144782DvVWt_JPEG/afcab747-67a7-11ec-a789-a0369ff94f34_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1507,7 +1507,7 @@
             <link>https://tv.naver.com/v/24313982</link>
             <guid>https://tv.naver.com/v/24313982</guid>
             <pubDate>Tue, 28 Dec 2021 07:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_200/mtPKH_1640672888543qrGBw_JPEG/10b26a65-67a7-11ec-84bc-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1523,7 +1523,7 @@
             <link>https://tv.naver.com/v/24313257</link>
             <guid>https://tv.naver.com/v/24313257</guid>
             <pubDate>Tue, 28 Dec 2021 06:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_264/eYwDM_1640671392284FQXFW_JPEG/7722284a-67a3-11ec-9005-a0369ff952f4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1531,7 +1531,7 @@
             <link>https://tv.naver.com/v/24312368</link>
             <guid>https://tv.naver.com/v/24312368</guid>
             <pubDate>Tue, 28 Dec 2021 06:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_221/UuRZd_16406780221661OUx1_JPEG/aedcacaa-67b2-11ec-908e-48df379cc9e4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1539,7 +1539,7 @@
             <link>https://tv.naver.com/v/24312347</link>
             <guid>https://tv.naver.com/v/24312347</guid>
             <pubDate>Tue, 28 Dec 2021 06:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_136/fMxlc_1640669367771bcPXg_JPEG/10d331fe-679f-11ec-8a04-505dac8c3639_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1547,7 +1547,7 @@
             <link>https://tv.naver.com/v/24312331</link>
             <guid>https://tv.naver.com/v/24312331</guid>
             <pubDate>Tue, 28 Dec 2021 06:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_108/CCWMR_1640669326004wtIDE_JPEG/f4c3a96c-679e-11ec-8a02-505dac8c35ff_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1555,7 +1555,7 @@
             <link>https://tv.naver.com/v/24312315</link>
             <guid>https://tv.naver.com/v/24312315</guid>
             <pubDate>Tue, 28 Dec 2021 06:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_255/vkd7l_16406692865168olI8_JPEG/dceee484-679e-11ec-8a02-505dac8c35ff_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1563,7 +1563,7 @@
             <link>https://tv.naver.com/v/24309128</link>
             <guid>https://tv.naver.com/v/24309128</guid>
             <pubDate>Tue, 28 Dec 2021 03:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_180/rQwuy_1640660199974PXdwa_JPEG/8172132c-6789-11ec-810a-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1571,7 +1571,7 @@
             <link>https://tv.naver.com/v/24308003</link>
             <guid>https://tv.naver.com/v/24308003</guid>
             <pubDate>Tue, 28 Dec 2021 02:37:56 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_42/PNVGd_1640656983016oSP5a_JPEG/bfca2207-6781-11ec-b8bc-246e963a4708_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1579,7 +1579,7 @@
             <link>https://tv.naver.com/v/24307048</link>
             <guid>https://tv.naver.com/v/24307048</guid>
             <pubDate>Tue, 28 Dec 2021 02:37:56 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_98/jrlio_1640654032413oAj6k_JPEG/d1de40be-6779-11ec-a831-48df379cca40_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1587,7 +1587,7 @@
             <link>https://tv.naver.com/v/24307011</link>
             <guid>https://tv.naver.com/v/24307011</guid>
             <pubDate>Tue, 28 Dec 2021 02:37:56 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_222/1CwNG_1640653894478u3MfM_JPEG/ab87fe58-677a-11ec-a42f-505dac8c3721_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
