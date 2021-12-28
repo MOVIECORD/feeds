@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 16:31:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 17:27:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['스파이더맨' 2주 만에 500만 돌파…최단 기간·최다 관객 동원 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004532761</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004532761</guid>
+            <pubDate>Tue, 28 Dec 2021 17:26:03 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자] 영화 ‘스파이더맨: 노 웨이 홈’이 500만 관객을 돌파했다. 29일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날 ‘스파이더맨: 노 웨이 홈’은 11만 8131명을 동원해 일별 박]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[해리포터 시리즈 주역들 “인생 전체, 영화와 연결” (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000783746</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 차인표가 코믹하게 변신한 모습을 공개했다. 28일 차인표는 자신의 인스타그램에 "1월 1일 쿠팡플레이의 SNL Korea에서 만나요~ SNL Korea. See you on Jan]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“오징어 게임, 시즌3도 논의 중” (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000783714</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000783714</guid>
-            <pubDate>Tue, 28 Dec 2021 09:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] ‘오징어게임’이 시즌2에 이어 3도 제작된다. 넷플릭스 오리지널 시리즈 ‘오징어게임’ 황동혁 감독은 28일 KBS와의 화상 인터뷰에서 “저희와 넷플릭스가 시즌2, 3에 대해서 같이 논의를 하고 있는 중]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[스파이더맨: 노 웨이 홈 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=146656</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=146656</guid>
@@ -215,20 +215,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[신데렐라 2: 마법에 걸린 왕자 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155463</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155463</guid>
-            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3eebe1c0e14021f0772f11361f8e6aa8ab48a207" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[엔칸토: 마법의 세계 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152081</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152081</guid>
             <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
             <content:encoded><![CDATA[21.11.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F28a2bbf1962b4f0a48c72f49957c5e4604ca9ccc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[신데렐라 2: 마법에 걸린 왕자 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155463</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155463</guid>
+            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3eebe1c0e14021f0772f11361f8e6aa8ab48a207" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아멜리에 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -319,14 +319,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b6e97a96e7580751875c5f93d691dfea78e85f6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[간호중 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=142558</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=142558</guid>
-            <pubDate>Mon, 27 Dec 2021 23:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.02]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdaf187a16c17e8ac5db0364ecd66b87b32a3d8cc" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[유체이탈자 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=124768</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=124768</guid>
@@ -341,6 +333,14 @@
             <pubDate>Tue, 28 Dec 2021 13:25:40 GMT</pubDate>
             <content:encoded><![CDATA[21.11.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36f5e140e8f8173d2f7e0e5a39b20ca507e9e0d7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[몬스타엑스 : 더 드리밍 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155029</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155029</guid>
+            <pubDate>Tue, 28 Dec 2021 17:26:11 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe9de9398fdbfde28ae3932ad32f8e1e79dfd8ffe" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[해피 뉴 이어 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -607,6 +607,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Filgansports%2F20211228091434648hizp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[2021 결산-영화] 코로나19로 여전한 침체기, 그럼에도 빛난 국내 영화인 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211228134850084</link>
+            <guid>https://movie.v.daum.net/v/20211228134850084</guid>
+            <pubDate>Tue, 28 Dec 2021 13:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 영향으로 사상 최악의 침체기를 겪었던 영화계, 올해 역시 코로나19 늪에서 빠져나오지 못한 채 영화 산업은 큰 타격을 맞았다. 신작은 개봉을 미루고, 제작은 중단되고, 관객수는 줄어드는 악순환이 계속되자 영화계는 안팎으로 정상화를 위해 노력했지만, 아직 갈 길이 멀다.그러나 국내 배우들의 국제적인 활약은 어느 때보다 빛났다. 윤여정이 영화 '미나]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Fdailian%2F20211228134852980hbzs.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['특송' 송새벽X염혜란, 극악무도 두 빌런 "박소담 300억 노린다" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211228082705003</link>
             <guid>https://movie.v.daum.net/v/20211228082705003</guid>
@@ -621,14 +629,6 @@
             <pubDate>Tue, 28 Dec 2021 01:03:26 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠조선 조지영 기자] 범죄 영화 '경관의 피'(이규만 감독, 리양필름 제작)가 그동안 한국 관객들의 인생작으로 꼽히는 '신세계' '내부자들' '독전'에 이어 범죄수사극의 새로운 패러다임을 쓸 것으로 기대를 모은다. '경관의 피'가 2022년 범죄수사극의 새로운 패러다임을 제시할 것으로 기대를 모은다. 경찰, 검찰 조직이 존재하는 한국만의]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2FSpoChosun%2F20211227091743373wgyj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[2021 결산-영화] 코로나19로 여전한 침체기, 그럼에도 빛난 국내 영화인 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211228134850084</link>
-            <guid>https://movie.v.daum.net/v/20211228134850084</guid>
-            <pubDate>Tue, 28 Dec 2021 13:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19 영향으로 사상 최악의 침체기를 겪었던 영화계, 올해 역시 코로나19 늪에서 빠져나오지 못한 채 영화 산업은 큰 타격을 맞았다. 신작은 개봉을 미루고, 제작은 중단되고, 관객수는 줄어드는 악순환이 계속되자 영화계는 안팎으로 정상화를 위해 노력했지만, 아직 갈 길이 멀다.그러나 국내 배우들의 국제적인 활약은 어느 때보다 빛났다. 윤여정이 영화 '미나]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Fdailian%2F20211228134852980hbzs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[충무로 새해 소망..'기대작 대방출' 이뤄지나 (다음영화 뉴스 ─ 인기)]]></title>
@@ -661,6 +661,14 @@
             <pubDate>Tue, 28 Dec 2021 02:37:20 GMT</pubDate>
             <content:encoded><![CDATA[[김동근 기자] ▲ &nbsp;영화 &lt;매트릭스: 리저렉션&gt; 포스터    ⓒ 워너브러더스 코리아㈜  * 이 기사에는 영화의 주요 내용이 포함돼 있습니다.&nbsp; 우리가 살고 있는 세상은 어느 정도 균형이 잡혀있다. 이 균형은 사실 평등하게 구성되어 있지는 않다. 어떤 사람에게는 매우 열악한 조건일 것이고 어떤 사람에게는 만족스러운 조건일 것이다. 하지만 이]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2Fohmynews%2F20211227110901718sgjf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['스파이더맨' 2주 만에 500만 돌파..최단 기간·최다 관객 동원 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211229015015867</link>
+            <guid>https://v.daum.net/v/20211229015015867</guid>
+            <pubDate>Tue, 28 Dec 2021 17:26:33 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘스파이더맨: 노 웨이 홈’이 500만 관객을 돌파했다. 29일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날 ‘스파이더맨: 노 웨이 홈’은 11만 8131명을 동원해 일별 박스오피스 1위를 차지했다. ‘스파이더맨: 노 웨이 홈’(감독 존 왓츠, 수입배급 월트디즈니컴퍼니 코리아)은 정체가 탄로난 스파이더맨 피터 파커(]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2Fpoctan%2F20211229015016669yutx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<필로포비아> [청불] 레드밴드 트레일러 (우리 영화 볼래?)]]></title>
@@ -1307,7 +1315,7 @@
             <link>https://tv.naver.com/v/24317254</link>
             <guid>https://tv.naver.com/v/24317254</guid>
             <pubDate>Tue, 28 Dec 2021 09:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_118/mCNxC_1640680353036Dc9U1_JPEG/546214b0-67b8-11ec-810a-505dac8c3607_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1315,7 +1323,7 @@
             <link>https://tv.naver.com/v/24317066</link>
             <guid>https://tv.naver.com/v/24317066</guid>
             <pubDate>Tue, 28 Dec 2021 09:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_209/sAWP9_1640679991945w4sTt_JPEG/a9594a53-67b7-11ec-bf52-a0369ff9545c_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1323,7 +1331,7 @@
             <link>https://tv.naver.com/v/24316977</link>
             <guid>https://tv.naver.com/v/24316977</guid>
             <pubDate>Tue, 28 Dec 2021 08:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_24/Zee5J_1640679747676NAj5F_JPEG/ed44f18e-67b6-11ec-b776-246e963a49a8_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1331,7 +1339,7 @@
             <link>https://tv.naver.com/v/24314324</link>
             <guid>https://tv.naver.com/v/24314324</guid>
             <pubDate>Tue, 28 Dec 2021 07:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_216/zGJN2_1640673520084n6A2b_JPEG/4d68c091-67a8-11ec-8a84-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1339,7 +1347,7 @@
             <link>https://tv.naver.com/v/24314096</link>
             <guid>https://tv.naver.com/v/24314096</guid>
             <pubDate>Tue, 28 Dec 2021 07:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_153/aLl5B_1640673144782DvVWt_JPEG/afcab747-67a7-11ec-a789-a0369ff94f34_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1355,7 +1363,7 @@
             <link>https://tv.naver.com/v/24313749</link>
             <guid>https://tv.naver.com/v/24313749</guid>
             <pubDate>Tue, 28 Dec 2021 06:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_164/yYsSh_1640672379605OYNoI_JPEG/b8cb791b-67a5-11ec-9d44-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1363,7 +1371,7 @@
             <link>https://tv.naver.com/v/24313257</link>
             <guid>https://tv.naver.com/v/24313257</guid>
             <pubDate>Tue, 28 Dec 2021 06:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_264/eYwDM_1640671392284FQXFW_JPEG/7722284a-67a3-11ec-9005-a0369ff952f4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1371,7 +1379,7 @@
             <link>https://tv.naver.com/v/24312368</link>
             <guid>https://tv.naver.com/v/24312368</guid>
             <pubDate>Tue, 28 Dec 2021 06:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_221/UuRZd_16406780221661OUx1_JPEG/aedcacaa-67b2-11ec-908e-48df379cc9e4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1403,7 +1411,7 @@
             <link>https://tv.naver.com/v/24309128</link>
             <guid>https://tv.naver.com/v/24309128</guid>
             <pubDate>Tue, 28 Dec 2021 03:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_180/rQwuy_1640660199974PXdwa_JPEG/8172132c-6789-11ec-810a-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1411,7 +1419,7 @@
             <link>https://tv.naver.com/v/24308003</link>
             <guid>https://tv.naver.com/v/24308003</guid>
             <pubDate>Tue, 28 Dec 2021 02:37:56 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_42/PNVGd_1640656983016oSP5a_JPEG/bfca2207-6781-11ec-b8bc-246e963a4708_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1419,7 +1427,7 @@
             <link>https://tv.naver.com/v/24307048</link>
             <guid>https://tv.naver.com/v/24307048</guid>
             <pubDate>Tue, 28 Dec 2021 02:37:56 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_98/jrlio_1640654032413oAj6k_JPEG/d1de40be-6779-11ec-a831-48df379cca40_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1427,7 +1435,7 @@
             <link>https://tv.naver.com/v/24307011</link>
             <guid>https://tv.naver.com/v/24307011</guid>
             <pubDate>Tue, 28 Dec 2021 02:37:56 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_222/1CwNG_1640653894478u3MfM_JPEG/ab87fe58-677a-11ec-a42f-505dac8c3721_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
