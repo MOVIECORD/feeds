@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 01:04:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 02:38:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,20 +40,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[신데렐라 2: 마법에 걸린 왕자]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155463</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155463</guid>
-            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3eebe1c0e14021f0772f11361f8e6aa8ab48a207" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[엔칸토: 마법의 세계]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152081</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152081</guid>
             <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
             <content:encoded><![CDATA[21.11.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F28a2bbf1962b4f0a48c72f49957c5e4604ca9ccc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[신데렐라 2: 마법에 걸린 왕자]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155463</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155463</guid>
+            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3eebe1c0e14021f0772f11361f8e6aa8ab48a207" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아멜리에]]></title>
@@ -104,14 +104,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0af94c0bd13ce470880fa3ab4ebd1fd22e2e4f06" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[해피 아워]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=95676</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=95676</guid>
-            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F05202322bd2aba53f64cde597dc6acf163752043" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[너에게 가는 길]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149618</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149618</guid>
@@ -126,14 +118,6 @@
             <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
             <content:encoded><![CDATA[21.12.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F146b470827e17334ff3c83755a61409db2072903" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[갱경 떡삥이]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155592</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155592</guid>
-            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbe909cf7e4c547c1e338718bf067561621927d7c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[노아의 방주 2: 새로운 세계로]]></title>
@@ -166,6 +150,22 @@
             <pubDate>Mon, 27 Dec 2021 23:19:40 GMT</pubDate>
             <content:encoded><![CDATA[21.10.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6e48f5b593dc63aac8b452dba416570c21a7a3a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[뱅드림! 필름 라이브 세컨드 스테이지]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153426</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153426</guid>
+            <pubDate>Tue, 28 Dec 2021 02:37:04 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36f5e140e8f8173d2f7e0e5a39b20ca507e9e0d7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[유체이탈자]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=124768</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=124768</guid>
+            <pubDate>Tue, 28 Dec 2021 02:37:04 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2eee1b07783f3ae40b0446fdcc73851956299a6a" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
