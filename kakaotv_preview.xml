@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 04:26:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 05:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<필로포비아> [청불] 레드밴드 트레일러]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/425117616?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/425117616?act=clip</guid>
+            <pubDate>Tue, 28 Dec 2021 05:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:42]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvf3d29y2z06fi5esldp8c5dw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33197577008%26signature%3DUUy4R93Fg2wPW0JsL7gweiAI4X8%253D%26ts%3D1640668208" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<노웨어 스페셜> 무삭제 클립(죽음에 대하여)]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/425113627?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/425003514?act=clip</guid>
             <pubDate>Mon, 27 Dec 2021 15:29:52 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2ii0hg11cvap06jtfy3i1i3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33197237867%26signature%3D68QpKV%252BUlyXosgp9eCb1uxq0ZCs%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2ii0hg11cvap06jtfy3i1i3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33197237867%26signature%3D68QpKV%252BUlyXosgp9eCb1uxq0ZCs%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<킹스맨: 퍼스트 에이전트> 리뷰 30초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 27 Dec 2021 15:29:52 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdek7reefrxpetkt3ddqbv3y%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33197131301%26signature%3DhzamWHbSttBtqPH1yeNDK1vzagw%253D%26ts%3D1640222501" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<킹덤스쿨-어둠 속의 그림자> 30초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/424945175?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/424945175?act=clip</guid>
-            <pubDate>Mon, 27 Dec 2021 15:29:52 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvsc3xhgs9pw4732o86oai419%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33197069948%26signature%3D14hT4l0Cyc9B46K8%252F4G6aqjW8uk%253D%26ts%3D1640161148" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
