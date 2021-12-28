@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 13:27:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 14:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -239,14 +239,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fac3c7bf4d44a47b4023a0d7ecdd68bedfc7bb2fc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[디어 에반 핸슨 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150692</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150692</guid>
-            <pubDate>Tue, 28 Dec 2021 04:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7412acf6a22c72b54b6ec01019c022bea4a877ca" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[연애 빠진 로맨스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=144054</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=144054</guid>
@@ -269,6 +261,14 @@
             <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
             <content:encoded><![CDATA[21.12.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7c4d4fe00a91718313cfe6e3f964af7e02b7951e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[디어 에반 핸슨 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150692</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150692</guid>
+            <pubDate>Tue, 28 Dec 2021 04:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7412acf6a22c72b54b6ec01019c022bea4a877ca" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 소드 아트 온라인 -프로그레시브- 별 없는 밤의 아리아 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -567,6 +567,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Filgansports%2F20211228091434648hizp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['하우스 오브 구찌' 캐릭터 포스터도 화보로 바꾸는 마법 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211228110533925</link>
+            <guid>https://movie.v.daum.net/v/20211228110533925</guid>
+            <pubDate>Tue, 28 Dec 2021 09:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[클래식한 의상으로 치명적인 분위기를 조성한다. 새해 극장가를 사로잡을 스릴러 영화 '하우스 오브 구찌(리들리 스콧 감독)'가 강렬한 분위기로 눈길을 사로잡는 캐릭터 포스터 5종을 공개했다. '하우스 오브 구찌'는 브랜드 구찌의 화려함 뒤에 숨겨진 치명적인 욕망과 탐욕 그리고 살인을 그린 작품이다. 이번에 공개된 캐릭터 포스터에는 패션 최상류층 구찌]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Filgansports%2F20211228110534715qusb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['특송' 송새벽X염혜란, 극악무도 두 빌런 "박소담 300억 노린다" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211228082705003</link>
             <guid>https://movie.v.daum.net/v/20211228082705003</guid>
@@ -583,36 +591,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2FSpoChosun%2F20211227091743373wgyj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[충무로 새해 소망..'기대작 대방출' 이뤄지나 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211228065726712</link>
-            <guid>https://movie.v.daum.net/v/20211228065726712</guid>
-            <pubDate>Tue, 28 Dec 2021 02:37:20 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘비상선언’. 사진｜쇼박스2004년 2월19일, 강우석 감독의 ‘실미도’가 1000만 관객을 돌파했다. 2003년 12월24일 성탄 및 연말연시 시즌을 겨냥해 극장에 간판을 내건 지 58일 만이었다. 그에 앞서 1999년 강제규 감독의 ‘쉬리’와 2000년 박찬욱 감독의 ‘공동경비구역 JSA’, 2000년 ‘친구’·‘신라의 달밤’·‘엽기적인 그녀’]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Fsportsdonga%2F20211228065727906wsku.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['하우스 오브 구찌' 캐릭터 포스터도 화보로 바꾸는 마법 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211228110533925</link>
-            <guid>https://movie.v.daum.net/v/20211228110533925</guid>
-            <pubDate>Tue, 28 Dec 2021 09:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[클래식한 의상으로 치명적인 분위기를 조성한다. 새해 극장가를 사로잡을 스릴러 영화 '하우스 오브 구찌(리들리 스콧 감독)'가 강렬한 분위기로 눈길을 사로잡는 캐릭터 포스터 5종을 공개했다. '하우스 오브 구찌'는 브랜드 구찌의 화려함 뒤에 숨겨진 치명적인 욕망과 탐욕 그리고 살인을 그린 작품이다. 이번에 공개된 캐릭터 포스터에는 패션 최상류층 구찌]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Filgansports%2F20211228110534715qusb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[시대를 초월한 황홀함, '웨스트 사이드 스토리'[한현정의 직구리뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211228163602329</link>
-            <guid>https://movie.v.daum.net/v/20211228163602329</guid>
+            <title><![CDATA['타이거 마스크' 조한선 "배우로서 터닝 포인트? 매 순간"(일문일답) (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211227122702580</link>
+            <guid>https://movie.v.daum.net/v/20211227122702580</guid>
             <pubDate>Tue, 28 Dec 2021 11:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[“사랑이 너무 클 땐 옳고 그름이 의미가 없지. 생명이니까.” 높은 기대치를 뛰어 넘는, 뉴욕판 ‘로미오와 줄리엣’이다. 매혹적이고도 감미롭고, 뜨겁고도 아련하다. 전 세대를 아우를 만한, 시대 초월 웰메이드 뮤지컬 영화, ‘웨스트 사이드 스토리’(감독 스티븐 스필버그)이다. ‘웨스트 사이드 스토리’는 자신을 가둔 환경과 운명에 순응하지 않고 자신만의 세]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Fstartoday%2F20211228163604882xoen.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['트로트는 인생이다' 1월 27일 개봉 확정, 메인 포스터 공개 '유쾌' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211227101206579</link>
-            <guid>https://movie.v.daum.net/v/20211227101206579</guid>
-            <pubDate>Tue, 28 Dec 2021 01:03:27 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김지하 기자] 힐링 뉴트로트 영화 '트로트는 인생이다'가 내년 1월 27일 개봉을 확정 짓고, 유쾌한 분위기를 담은 메인 포스터를 전격 공개했다. 공개된 메인 포스터는 화려한 조명이 비추는 무대 위, 반짝이는 의상을 입은 '뉴신하' 세 가수의 유쾌한 분위기를 보여주고 있다. 마이크와 탬버린을 손에 든 채로 관객들을 향해 웃어 보이는 이들의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2Ftvdaily%2F20211227101209552pxri.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[‘타이거 마스크’가 ‘건평’ 역을 맡은 배우 조한선의 인터뷰를 공개했다. 오는 30일 개봉되는 영화 ‘타이거 마스크’는 노잼인생으로 살아온 한 남자가 우연히 전설의 호랑이 마스크를 얻게 된 후 하루아침에 다른 사람이 되어 펼치는 K히어로 코믹액션이다. 이하 배우 조한선과의 인터뷰 전문. Q. 이전 작품들을 봤을 때, 캐릭터, 장르, 소재 등 차이가 있는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2Fmksports%2F20211227122705118rzya.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['해피 뉴이어' 짝사랑 한지민→취준생 강하늘..색다른 매력 발산 ② (다음영화 뉴스 ─ 인기)]]></title>
@@ -623,12 +607,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Fstarnews%2F20211228083544655xhxg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['타이거 마스크' 조한선 "배우로서 터닝 포인트? 매 순간"(일문일답) (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211227122702580</link>
-            <guid>https://movie.v.daum.net/v/20211227122702580</guid>
+            <title><![CDATA[시대를 초월한 황홀함, '웨스트 사이드 스토리'[한현정의 직구리뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211228163602329</link>
+            <guid>https://movie.v.daum.net/v/20211228163602329</guid>
             <pubDate>Tue, 28 Dec 2021 11:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[‘타이거 마스크’가 ‘건평’ 역을 맡은 배우 조한선의 인터뷰를 공개했다. 오는 30일 개봉되는 영화 ‘타이거 마스크’는 노잼인생으로 살아온 한 남자가 우연히 전설의 호랑이 마스크를 얻게 된 후 하루아침에 다른 사람이 되어 펼치는 K히어로 코믹액션이다. 이하 배우 조한선과의 인터뷰 전문. Q. 이전 작품들을 봤을 때, 캐릭터, 장르, 소재 등 차이가 있는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2Fmksports%2F20211227122705118rzya.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[“사랑이 너무 클 땐 옳고 그름이 의미가 없지. 생명이니까.” 높은 기대치를 뛰어 넘는, 뉴욕판 ‘로미오와 줄리엣’이다. 매혹적이고도 감미롭고, 뜨겁고도 아련하다. 전 세대를 아우를 만한, 시대 초월 웰메이드 뮤지컬 영화, ‘웨스트 사이드 스토리’(감독 스티븐 스필버그)이다. ‘웨스트 사이드 스토리’는 자신을 가둔 환경과 운명에 순응하지 않고 자신만의 세]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Fstartoday%2F20211228163604882xoen.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['경관의 피' 이규만 감독의 디테일 연출 (다음영화 뉴스 ─ 인기)]]></title>
@@ -639,12 +623,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Ftvdaily%2F20211228145922935vvqi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[구원자 네오, 다시 '매트릭스'로 돌아온 이유 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211227110900961</link>
-            <guid>https://movie.v.daum.net/v/20211227110900961</guid>
+            <title><![CDATA[충무로 새해 소망..'기대작 대방출' 이뤄지나 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211228065726712</link>
+            <guid>https://movie.v.daum.net/v/20211228065726712</guid>
             <pubDate>Tue, 28 Dec 2021 02:37:20 GMT</pubDate>
-            <content:encoded><![CDATA[[김동근 기자] ▲ &nbsp;영화 &lt;매트릭스: 리저렉션&gt; 포스터    ⓒ 워너브러더스 코리아㈜  * 이 기사에는 영화의 주요 내용이 포함돼 있습니다.&nbsp; 우리가 살고 있는 세상은 어느 정도 균형이 잡혀있다. 이 균형은 사실 평등하게 구성되어 있지는 않다. 어떤 사람에게는 매우 열악한 조건일 것이고 어떤 사람에게는 만족스러운 조건일 것이다. 하지만 이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2Fohmynews%2F20211227110901718sgjf.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[영화 ‘비상선언’. 사진｜쇼박스2004년 2월19일, 강우석 감독의 ‘실미도’가 1000만 관객을 돌파했다. 2003년 12월24일 성탄 및 연말연시 시즌을 겨냥해 극장에 간판을 내건 지 58일 만이었다. 그에 앞서 1999년 강제규 감독의 ‘쉬리’와 2000년 박찬욱 감독의 ‘공동경비구역 JSA’, 2000년 ‘친구’·‘신라의 달밤’·‘엽기적인 그녀’]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Fsportsdonga%2F20211228065727906wsku.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['트로트는 인생이다' 1월 27일 개봉 확정, 메인 포스터 공개 '유쾌' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211227101206579</link>
+            <guid>https://movie.v.daum.net/v/20211227101206579</guid>
+            <pubDate>Tue, 28 Dec 2021 01:03:27 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김지하 기자] 힐링 뉴트로트 영화 '트로트는 인생이다'가 내년 1월 27일 개봉을 확정 짓고, 유쾌한 분위기를 담은 메인 포스터를 전격 공개했다. 공개된 메인 포스터는 화려한 조명이 비추는 무대 위, 반짝이는 의상을 입은 '뉴신하' 세 가수의 유쾌한 분위기를 보여주고 있다. 마이크와 탬버린을 손에 든 채로 관객들을 향해 웃어 보이는 이들의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2Ftvdaily%2F20211227101209552pxri.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[2021 결산-영화] 코로나19로 여전한 침체기, 그럼에도 빛난 국내 영화인 (다음영화 뉴스 ─ 인기)]]></title>
@@ -655,12 +647,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Fdailian%2F20211228134852980hbzs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['킹스맨3' 매튜 본 감독, 1919년 배경 이유 "반전 메시지 담았다" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211228084035244</link>
-            <guid>https://movie.v.daum.net/v/20211228084035244</guid>
+            <title><![CDATA[구원자 네오, 다시 '매트릭스'로 돌아온 이유 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211227110900961</link>
+            <guid>https://movie.v.daum.net/v/20211227110900961</guid>
             <pubDate>Tue, 28 Dec 2021 02:37:20 GMT</pubDate>
-            <content:encoded><![CDATA[평화주의적인 메시지를 유쾌하게 녹였다. 스파이 액션 블록버스터 영화 '킹스맨: 퍼스트 에이전트'의 연출을 맡은 매튜 본 감독이 이번 작품의 배경을 100년 전으로 설정해야만 했던 이유를 밝혔다. 매튜 본 감독은 이번 작품을 통해 100년 전 과거로 거슬러 올라가 킹스맨 조직이 어떻게, 왜 등장하게 되었는지 그 기원을 다룬다. 그는 이번 작품에 대해]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Filgansports%2F20211228084037270nqpz.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[김동근 기자] ▲ &nbsp;영화 &lt;매트릭스: 리저렉션&gt; 포스터    ⓒ 워너브러더스 코리아㈜  * 이 기사에는 영화의 주요 내용이 포함돼 있습니다.&nbsp; 우리가 살고 있는 세상은 어느 정도 균형이 잡혀있다. 이 균형은 사실 평등하게 구성되어 있지는 않다. 어떤 사람에게는 매우 열악한 조건일 것이고 어떤 사람에게는 만족스러운 조건일 것이다. 하지만 이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F27%2Fohmynews%2F20211227110901718sgjf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['스파이더맨: 노 웨이 홈' 무삭제 영상..스파이더맨 vs닥터 스트레인지, 극한의 대립 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211228183003537</link>
+            <guid>https://movie.v.daum.net/v/20211228183003537</guid>
+            <pubDate>Tue, 28 Dec 2021 14:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '스파이더맨: 노 웨이 홈'(감독 존 왓츠)이 무삭제 영상을 공개했다. '스파이더맨: 노 웨이 홈'은 정체가 탄로난 스파이더맨 피터 파커(톰 홀랜드 분)가 문제를 해결하기 위해 닥터 스트레인지(베네딕트 컴버배치)의 도움을 받던 중 뜻하지 않게 멀티버스가 열리게 되고, 이를 통해 닥터 옥토퍼스(알프리드 몰리나) 등 각기 다]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Fxportsnews%2F20211228183005788wvfz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['해피뉴이어' 언론시사회 성료..군입대 서강준 아쉬운 불참 (다음영화 뉴스 ─ 최신)]]></title>
@@ -1467,7 +1467,7 @@
             <link>https://tv.naver.com/v/24317254</link>
             <guid>https://tv.naver.com/v/24317254</guid>
             <pubDate>Tue, 28 Dec 2021 09:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_118/mCNxC_1640680353036Dc9U1_JPEG/546214b0-67b8-11ec-810a-505dac8c3607_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1475,7 +1475,7 @@
             <link>https://tv.naver.com/v/24317066</link>
             <guid>https://tv.naver.com/v/24317066</guid>
             <pubDate>Tue, 28 Dec 2021 09:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_209/sAWP9_1640679991945w4sTt_JPEG/a9594a53-67b7-11ec-bf52-a0369ff9545c_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1491,7 +1491,7 @@
             <link>https://tv.naver.com/v/24314324</link>
             <guid>https://tv.naver.com/v/24314324</guid>
             <pubDate>Tue, 28 Dec 2021 07:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_216/zGJN2_1640673520084n6A2b_JPEG/4d68c091-67a8-11ec-8a84-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1499,7 +1499,7 @@
             <link>https://tv.naver.com/v/24314096</link>
             <guid>https://tv.naver.com/v/24314096</guid>
             <pubDate>Tue, 28 Dec 2021 07:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_153/aLl5B_1640673144782DvVWt_JPEG/afcab747-67a7-11ec-a789-a0369ff94f34_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1507,7 +1507,7 @@
             <link>https://tv.naver.com/v/24313982</link>
             <guid>https://tv.naver.com/v/24313982</guid>
             <pubDate>Tue, 28 Dec 2021 07:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_200/mtPKH_1640672888543qrGBw_JPEG/10b26a65-67a7-11ec-84bc-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1523,7 +1523,7 @@
             <link>https://tv.naver.com/v/24313257</link>
             <guid>https://tv.naver.com/v/24313257</guid>
             <pubDate>Tue, 28 Dec 2021 06:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_264/eYwDM_1640671392284FQXFW_JPEG/7722284a-67a3-11ec-9005-a0369ff952f4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1531,7 +1531,7 @@
             <link>https://tv.naver.com/v/24312368</link>
             <guid>https://tv.naver.com/v/24312368</guid>
             <pubDate>Tue, 28 Dec 2021 06:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_221/UuRZd_16406780221661OUx1_JPEG/aedcacaa-67b2-11ec-908e-48df379cc9e4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1539,7 +1539,7 @@
             <link>https://tv.naver.com/v/24312347</link>
             <guid>https://tv.naver.com/v/24312347</guid>
             <pubDate>Tue, 28 Dec 2021 06:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_136/fMxlc_1640669367771bcPXg_JPEG/10d331fe-679f-11ec-8a04-505dac8c3639_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1547,7 +1547,7 @@
             <link>https://tv.naver.com/v/24312331</link>
             <guid>https://tv.naver.com/v/24312331</guid>
             <pubDate>Tue, 28 Dec 2021 06:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_108/CCWMR_1640669326004wtIDE_JPEG/f4c3a96c-679e-11ec-8a02-505dac8c35ff_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1555,7 +1555,7 @@
             <link>https://tv.naver.com/v/24312315</link>
             <guid>https://tv.naver.com/v/24312315</guid>
             <pubDate>Tue, 28 Dec 2021 06:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_255/vkd7l_16406692865168olI8_JPEG/dceee484-679e-11ec-8a02-505dac8c35ff_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1563,7 +1563,7 @@
             <link>https://tv.naver.com/v/24309128</link>
             <guid>https://tv.naver.com/v/24309128</guid>
             <pubDate>Tue, 28 Dec 2021 03:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_180/rQwuy_1640660199974PXdwa_JPEG/8172132c-6789-11ec-810a-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1571,7 +1571,7 @@
             <link>https://tv.naver.com/v/24308003</link>
             <guid>https://tv.naver.com/v/24308003</guid>
             <pubDate>Tue, 28 Dec 2021 02:37:56 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_42/PNVGd_1640656983016oSP5a_JPEG/bfca2207-6781-11ec-b8bc-246e963a4708_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1579,7 +1579,7 @@
             <link>https://tv.naver.com/v/24307048</link>
             <guid>https://tv.naver.com/v/24307048</guid>
             <pubDate>Tue, 28 Dec 2021 02:37:56 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_98/jrlio_1640654032413oAj6k_JPEG/d1de40be-6779-11ec-a831-48df379cca40_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1587,7 +1587,7 @@
             <link>https://tv.naver.com/v/24307011</link>
             <guid>https://tv.naver.com/v/24307011</guid>
             <pubDate>Tue, 28 Dec 2021 02:37:56 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_222/1CwNG_1640653894478u3MfM_JPEG/ab87fe58-677a-11ec-a42f-505dac8c3721_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
