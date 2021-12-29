@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 20:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 21:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -207,20 +207,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F682f49a1be1b6c735b778efb8f5da94ec58a9c89" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[램 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150927</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150927</guid>
-            <pubDate>Mon, 27 Dec 2021 15:29:30 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F569f056e9ef23a5cb5722952e964c7d00df52893" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[매트릭스: 리저렉션 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137516</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137516</guid>
             <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
             <content:encoded><![CDATA[21.12.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4123c31005612fcdb4acaf7182d4397a9673b3f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[램 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150927</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150927</guid>
+            <pubDate>Mon, 27 Dec 2021 15:29:30 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F569f056e9ef23a5cb5722952e964c7d00df52893" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -559,14 +559,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2Ftvdaily%2F20211229111433859wayt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["꿈만 같은 영화"..'트로트는 인생이다' 시사회 성료 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211229165517391</link>
-            <guid>https://movie.v.daum.net/v/20211229165517391</guid>
-            <pubDate>Wed, 29 Dec 2021 10:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김지하 기자] 영화 '트로트는 인생이다'가 28일 서울 용산구에 위치한 CGV용산아이파크홀에서 연 언론 배급 시사회 및 기자감담회를 성공적으로 마쳤다. 이날 행사에는 투케이 감독, 김경진, 김동찬, 장소영, 김솔비, 장영, 김대윤, 이서현이 참석해 다양한 이야기를 나눴다. '트로트는 인생이다'는 데뷔를 꿈꾸는 3명의 가수 지망생들이 트로트]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2Ftvdaily%2F20211229165519666enqg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[관객 줄고, 예산 깎이고.. 코로나 시대 '위기의 한국영화' (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211229140000893</link>
             <guid>https://movie.v.daum.net/v/20211229140000893</guid>
@@ -575,12 +567,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2Fohmynews%2F20211229140003137mxbm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[단독] "동생 정연에게 멋진 언니 돼"..공승연, 20대 마지막 그리고 서른의 시작점 청룡(청룡영화상) (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211229072932161</link>
-            <guid>https://movie.v.daum.net/v/20211229072932161</guid>
-            <pubDate>Tue, 28 Dec 2021 23:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] "엄마, 아빠 연말에는 자주 떨어져 있자." 연기를 시작한 이후 9년간 켜켜이 쌓인 부모님을 향한 미안함을 마침내 청룡 무대에서 쏟아낸 배우 공승연(28)의 재치 있는 수상 소감이었다. 열정 하나로 연기를 시작한 치기 어렸던 스무 살, 천천히 자신만의 호흡으로 한 단계씩 성장한 공승연은 20대의 마지막 값진 수상으로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2FSpoChosun%2F20211229072932293oxux.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA["꿈만 같은 영화"..'트로트는 인생이다' 시사회 성료 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211229165517391</link>
+            <guid>https://movie.v.daum.net/v/20211229165517391</guid>
+            <pubDate>Wed, 29 Dec 2021 10:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김지하 기자] 영화 '트로트는 인생이다'가 28일 서울 용산구에 위치한 CGV용산아이파크홀에서 연 언론 배급 시사회 및 기자감담회를 성공적으로 마쳤다. 이날 행사에는 투케이 감독, 김경진, 김동찬, 장소영, 김솔비, 장영, 김대윤, 이서현이 참석해 다양한 이야기를 나눴다. '트로트는 인생이다'는 데뷔를 꿈꾸는 3명의 가수 지망생들이 트로트]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2Ftvdaily%2F20211229165519666enqg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[목포에서 베를린까지.. 분단과 입시 넘어 '다시 만난 세계' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211229104201716</link>
+            <guid>https://movie.v.daum.net/v/20211229104201716</guid>
+            <pubDate>Wed, 29 Dec 2021 10:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[[김상목 기자] ▲ &nbsp;영화 '사막을 건너 호수를 지나' 포스터    ⓒ 씨네소파  &nbsp;1_갈라파고스를 넘어&nbsp;한국은 섬나라다. 가깝고도 먼 옆 나라 일본이 아니고? 오히려 일본보다 더 고립된 상태라 해도 손색이 없다. 동·서·남쪽 삼면이 바다, 북쪽은 DMZ 비무장지대로 분리되어 있기 때문이다. 일본이 섬나라라지만 국토의 크기나 지정학적 조건 면]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2Fohmynews%2F20211229104204457hhso.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['웨스트 사이드 스토리' 거장의 노련함이 빚은 웰메이드 뮤지컬 영화 [엑's 리뷰] (다음영화 뉴스 ─ 인기)]]></title>
@@ -591,12 +591,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2Fxportsnews%2F20211229095006213ylkj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[목포에서 베를린까지.. 분단과 입시 넘어 '다시 만난 세계' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211229104201716</link>
-            <guid>https://movie.v.daum.net/v/20211229104201716</guid>
-            <pubDate>Wed, 29 Dec 2021 10:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[[김상목 기자] ▲ &nbsp;영화 '사막을 건너 호수를 지나' 포스터    ⓒ 씨네소파  &nbsp;1_갈라파고스를 넘어&nbsp;한국은 섬나라다. 가깝고도 먼 옆 나라 일본이 아니고? 오히려 일본보다 더 고립된 상태라 해도 손색이 없다. 동·서·남쪽 삼면이 바다, 북쪽은 DMZ 비무장지대로 분리되어 있기 때문이다. 일본이 섬나라라지만 국토의 크기나 지정학적 조건 면]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2Fohmynews%2F20211229104204457hhso.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[단독] "동생 정연에게 멋진 언니 돼"..공승연, 20대 마지막 그리고 서른의 시작점 청룡(청룡영화상) (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211229072932161</link>
+            <guid>https://movie.v.daum.net/v/20211229072932161</guid>
+            <pubDate>Tue, 28 Dec 2021 23:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] "엄마, 아빠 연말에는 자주 떨어져 있자." 연기를 시작한 이후 9년간 켜켜이 쌓인 부모님을 향한 미안함을 마침내 청룡 무대에서 쏟아낸 배우 공승연(28)의 재치 있는 수상 소감이었다. 열정 하나로 연기를 시작한 치기 어렸던 스무 살, 천천히 자신만의 호흡으로 한 단계씩 성장한 공승연은 20대의 마지막 값진 수상으로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2FSpoChosun%2F20211229072932293oxux.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[장 마크 발레 감독, 심장마비로 별세 "생전 건강관리 열정적"[Oh!llywood] (다음영화 뉴스 ─ 인기)]]></title>
@@ -661,6 +661,14 @@
             <pubDate>Wed, 29 Dec 2021 02:36:54 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘스파이더맨: 노 웨이 홈’이 500만 관객을 돌파했다. 29일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날 ‘스파이더맨: 노 웨이 홈’은 11만 8131명을 동원해 일별 박스오피스 1위를 차지했다. ‘스파이더맨: 노 웨이 홈’(감독 존 왓츠, 수입배급 월트디즈니컴퍼니 코리아)은 정체가 탄로난 스파이더맨 피터 파커(]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2Fpoctan%2F20211229015016669yutx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[올해 당신이 놓쳤을 한국영화 [2021 결산] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211230060203652</link>
+            <guid>https://v.daum.net/v/20211230060203652</guid>
+            <pubDate>Wed, 29 Dec 2021 21:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[올해 극장에서 어떤 한국영화를 봤을까. 대부분 관객들이 잘 기억하지 못하는 게 당연하다. 올해 한국영화 성적은 처참하다. 2021년 최다 관객 영화 10편 중 한국영화는 ‘모가디슈’ ‘싱크홀’ 두 편에 불과하다. 기대작들은 코로나바이러스감염증-19(코로나19) 여파로 개봉 타이밍을 잡지 못했다. 용기를 내 개봉해도 관객수는 턱없이 적다. 그럼에도 잊기엔]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F30%2Fkukinews%2F20211230060205216knmy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["더 나은 내일을 위해"..'여성들의 연대' 그린 작품 주목 [TF프리즘] (다음영화 뉴스 ─ 최신)]]></title>
@@ -1331,7 +1339,7 @@
             <link>https://tv.naver.com/v/24338327</link>
             <guid>https://tv.naver.com/v/24338327</guid>
             <pubDate>Wed, 29 Dec 2021 10:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211229_158/65t2G_1640768673895iNBai_JPEG/027c000b-6886-11ec-9d44-48df37ae3dc4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1339,7 +1347,7 @@
             <link>https://tv.naver.com/v/24337047</link>
             <guid>https://tv.naver.com/v/24337047</guid>
             <pubDate>Wed, 29 Dec 2021 08:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211229_149/u8fBp_1640765399258U3Uf4_JPEG/2a191e79-687e-11ec-a789-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1347,7 +1355,7 @@
             <link>https://tv.naver.com/v/24334680</link>
             <guid>https://tv.naver.com/v/24334680</guid>
             <pubDate>Wed, 29 Dec 2021 07:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211229_212/CmzO7_1640760412840EzrbO_JPEG/995b9870-6872-11ec-bf61-505dac8c381b_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1355,7 +1363,7 @@
             <link>https://tv.naver.com/v/24334475</link>
             <guid>https://tv.naver.com/v/24334475</guid>
             <pubDate>Wed, 29 Dec 2021 07:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211229_63/WNe9d_16407600087875VXWs_JPEG/c0292dbf-6871-11ec-9576-48df379ccacc_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1363,7 +1371,7 @@
             <link>https://tv.naver.com/v/24333440</link>
             <guid>https://tv.naver.com/v/24333440</guid>
             <pubDate>Wed, 29 Dec 2021 06:24:34 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211229_250/Uz7Gr_1640757539588BUN21_JPEG/59dc77c0-686c-11ec-bf52-a0369ff9545c_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1371,7 +1379,7 @@
             <link>https://tv.naver.com/v/24333424</link>
             <guid>https://tv.naver.com/v/24333424</guid>
             <pubDate>Wed, 29 Dec 2021 06:24:34 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211229_158/CF1N6_1640757503321Qz8Qs_JPEG/37cad935-686c-11ec-bf52-a0369ff9545c_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1379,7 +1387,7 @@
             <link>https://tv.naver.com/v/24333393</link>
             <guid>https://tv.naver.com/v/24333393</guid>
             <pubDate>Wed, 29 Dec 2021 06:24:34 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211229_261/Wzty3_1640757445534RYAPE_JPEG/176033db-686c-11ec-b8bc-246e963a4708_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1387,7 +1395,7 @@
             <link>https://tv.naver.com/v/24331838</link>
             <guid>https://tv.naver.com/v/24331838</guid>
             <pubDate>Wed, 29 Dec 2021 05:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211229_50/F3lt5_1640753575593xu9n1_JPEG/f5a0eaba-6862-11ec-9a83-a0369ff968b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1395,7 +1403,7 @@
             <link>https://tv.naver.com/v/24331756</link>
             <guid>https://tv.naver.com/v/24331756</guid>
             <pubDate>Wed, 29 Dec 2021 05:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211229_55/xNl10_1640753345299sW3AE_JPEG/5513d73a-6862-11ec-84bc-505dacfbaa5c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1403,7 +1411,7 @@
             <link>https://tv.naver.com/v/24327339</link>
             <guid>https://tv.naver.com/v/24327339</guid>
             <pubDate>Wed, 29 Dec 2021 02:37:33 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211229_234/o1HRs_1640740124571uxHp2_JPEG/8d583b96-6843-11ec-908e-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>

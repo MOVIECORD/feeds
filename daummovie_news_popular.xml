@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 20:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 21:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2Ftvdaily%2F20211229111433859wayt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["꿈만 같은 영화"..'트로트는 인생이다' 시사회 성료]]></title>
-            <link>https://movie.v.daum.net/v/20211229165517391</link>
-            <guid>https://movie.v.daum.net/v/20211229165517391</guid>
-            <pubDate>Wed, 29 Dec 2021 10:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김지하 기자] 영화 '트로트는 인생이다'가 28일 서울 용산구에 위치한 CGV용산아이파크홀에서 연 언론 배급 시사회 및 기자감담회를 성공적으로 마쳤다. 이날 행사에는 투케이 감독, 김경진, 김동찬, 장소영, 김솔비, 장영, 김대윤, 이서현이 참석해 다양한 이야기를 나눴다. '트로트는 인생이다'는 데뷔를 꿈꾸는 3명의 가수 지망생들이 트로트]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2Ftvdaily%2F20211229165519666enqg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[관객 줄고, 예산 깎이고.. 코로나 시대 '위기의 한국영화']]></title>
             <link>https://movie.v.daum.net/v/20211229140000893</link>
             <guid>https://movie.v.daum.net/v/20211229140000893</guid>
@@ -80,12 +72,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2Fohmynews%2F20211229140003137mxbm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[단독] "동생 정연에게 멋진 언니 돼"..공승연, 20대 마지막 그리고 서른의 시작점 청룡(청룡영화상)]]></title>
-            <link>https://movie.v.daum.net/v/20211229072932161</link>
-            <guid>https://movie.v.daum.net/v/20211229072932161</guid>
-            <pubDate>Tue, 28 Dec 2021 23:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] "엄마, 아빠 연말에는 자주 떨어져 있자." 연기를 시작한 이후 9년간 켜켜이 쌓인 부모님을 향한 미안함을 마침내 청룡 무대에서 쏟아낸 배우 공승연(28)의 재치 있는 수상 소감이었다. 열정 하나로 연기를 시작한 치기 어렸던 스무 살, 천천히 자신만의 호흡으로 한 단계씩 성장한 공승연은 20대의 마지막 값진 수상으로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2FSpoChosun%2F20211229072932293oxux.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA["꿈만 같은 영화"..'트로트는 인생이다' 시사회 성료]]></title>
+            <link>https://movie.v.daum.net/v/20211229165517391</link>
+            <guid>https://movie.v.daum.net/v/20211229165517391</guid>
+            <pubDate>Wed, 29 Dec 2021 10:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김지하 기자] 영화 '트로트는 인생이다'가 28일 서울 용산구에 위치한 CGV용산아이파크홀에서 연 언론 배급 시사회 및 기자감담회를 성공적으로 마쳤다. 이날 행사에는 투케이 감독, 김경진, 김동찬, 장소영, 김솔비, 장영, 김대윤, 이서현이 참석해 다양한 이야기를 나눴다. '트로트는 인생이다'는 데뷔를 꿈꾸는 3명의 가수 지망생들이 트로트]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2Ftvdaily%2F20211229165519666enqg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[목포에서 베를린까지.. 분단과 입시 넘어 '다시 만난 세계']]></title>
+            <link>https://movie.v.daum.net/v/20211229104201716</link>
+            <guid>https://movie.v.daum.net/v/20211229104201716</guid>
+            <pubDate>Wed, 29 Dec 2021 10:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[[김상목 기자] ▲ &nbsp;영화 '사막을 건너 호수를 지나' 포스터    ⓒ 씨네소파  &nbsp;1_갈라파고스를 넘어&nbsp;한국은 섬나라다. 가깝고도 먼 옆 나라 일본이 아니고? 오히려 일본보다 더 고립된 상태라 해도 손색이 없다. 동·서·남쪽 삼면이 바다, 북쪽은 DMZ 비무장지대로 분리되어 있기 때문이다. 일본이 섬나라라지만 국토의 크기나 지정학적 조건 면]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2Fohmynews%2F20211229104204457hhso.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['웨스트 사이드 스토리' 거장의 노련함이 빚은 웰메이드 뮤지컬 영화 [엑's 리뷰]]]></title>
@@ -96,12 +96,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2Fxportsnews%2F20211229095006213ylkj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[목포에서 베를린까지.. 분단과 입시 넘어 '다시 만난 세계']]></title>
-            <link>https://movie.v.daum.net/v/20211229104201716</link>
-            <guid>https://movie.v.daum.net/v/20211229104201716</guid>
-            <pubDate>Wed, 29 Dec 2021 10:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[[김상목 기자] ▲ &nbsp;영화 '사막을 건너 호수를 지나' 포스터    ⓒ 씨네소파  &nbsp;1_갈라파고스를 넘어&nbsp;한국은 섬나라다. 가깝고도 먼 옆 나라 일본이 아니고? 오히려 일본보다 더 고립된 상태라 해도 손색이 없다. 동·서·남쪽 삼면이 바다, 북쪽은 DMZ 비무장지대로 분리되어 있기 때문이다. 일본이 섬나라라지만 국토의 크기나 지정학적 조건 면]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2Fohmynews%2F20211229104204457hhso.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[단독] "동생 정연에게 멋진 언니 돼"..공승연, 20대 마지막 그리고 서른의 시작점 청룡(청룡영화상)]]></title>
+            <link>https://movie.v.daum.net/v/20211229072932161</link>
+            <guid>https://movie.v.daum.net/v/20211229072932161</guid>
+            <pubDate>Tue, 28 Dec 2021 23:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] "엄마, 아빠 연말에는 자주 떨어져 있자." 연기를 시작한 이후 9년간 켜켜이 쌓인 부모님을 향한 미안함을 마침내 청룡 무대에서 쏟아낸 배우 공승연(28)의 재치 있는 수상 소감이었다. 열정 하나로 연기를 시작한 치기 어렸던 스무 살, 천천히 자신만의 호흡으로 한 단계씩 성장한 공승연은 20대의 마지막 값진 수상으로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2FSpoChosun%2F20211229072932293oxux.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[장 마크 발레 감독, 심장마비로 별세 "생전 건강관리 열정적"[Oh!llywood]]]></title>
