@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 23:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 01:03:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,12 +160,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b6e97a96e7580751875c5f93d691dfea78e85f6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[사울 레이터: 인 노 그레이트 허리]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155134</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155134</guid>
-            <pubDate>Tue, 28 Dec 2021 23:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe9d91cdeb30408f5309a4356e3dba01f4a5975e8" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[간호중]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=142558</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=142558</guid>
+            <pubDate>Wed, 29 Dec 2021 01:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.02]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdaf187a16c17e8ac5db0364ecd66b87b32a3d8cc" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
