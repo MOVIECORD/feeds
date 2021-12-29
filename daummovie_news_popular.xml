@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 21:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 22:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,22 +64,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2Ftvdaily%2F20211229111433859wayt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[관객 줄고, 예산 깎이고.. 코로나 시대 '위기의 한국영화']]></title>
-            <link>https://movie.v.daum.net/v/20211229140000893</link>
-            <guid>https://movie.v.daum.net/v/20211229140000893</guid>
-            <pubDate>Wed, 29 Dec 2021 12:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[[성하훈 기자] ▲ &nbsp;영화진흥위원회    ⓒ 성하훈  2021년 대비 7% 감소한 2022년 영화진흥위원회(김영진 위원장, 아래 영진위) 예산은 코로나19 위기 속 한국영화의 모습을 보여준 상징적인 단면이었다. 최근 3년 동안 영진위 예산 증가율은 평균 24%였고, 새해 문체부 예산 증가율 8%인 것과 비교하면 현재 영진위가 예산 확보에 무기]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2Fohmynews%2F20211229140003137mxbm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["꿈만 같은 영화"..'트로트는 인생이다' 시사회 성료]]></title>
-            <link>https://movie.v.daum.net/v/20211229165517391</link>
-            <guid>https://movie.v.daum.net/v/20211229165517391</guid>
-            <pubDate>Wed, 29 Dec 2021 10:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김지하 기자] 영화 '트로트는 인생이다'가 28일 서울 용산구에 위치한 CGV용산아이파크홀에서 연 언론 배급 시사회 및 기자감담회를 성공적으로 마쳤다. 이날 행사에는 투케이 감독, 김경진, 김동찬, 장소영, 김솔비, 장영, 김대윤, 이서현이 참석해 다양한 이야기를 나눴다. '트로트는 인생이다'는 데뷔를 꿈꾸는 3명의 가수 지망생들이 트로트]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2Ftvdaily%2F20211229165519666enqg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[목포에서 베를린까지.. 분단과 입시 넘어 '다시 만난 세계']]></title>
             <link>https://movie.v.daum.net/v/20211229104201716</link>
             <guid>https://movie.v.daum.net/v/20211229104201716</guid>
@@ -94,6 +78,22 @@
             <pubDate>Wed, 29 Dec 2021 12:32:00 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 거장 스티븐 스필버그 감독의 노련함이 영화 '웨스트 사이드 스토리'를 통해 그 진가를 드러냈다. 청춘의 얼굴과 다양한 사회적 메시지, 원작 속 넘버들을 156분의 러닝타임 안에 알차게 채워넣으며 웰메이드 뮤지컬 영화의 탄생을 알렸다. '웨스트 사이드 스토리'는 자신을 가둔 환경과 운명에 순응하지 않고 자신만의 세상을 꿈꾸는 마]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2Fxportsnews%2F20211229095006213ylkj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["꿈만 같은 영화"..'트로트는 인생이다' 시사회 성료]]></title>
+            <link>https://movie.v.daum.net/v/20211229165517391</link>
+            <guid>https://movie.v.daum.net/v/20211229165517391</guid>
+            <pubDate>Wed, 29 Dec 2021 10:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김지하 기자] 영화 '트로트는 인생이다'가 28일 서울 용산구에 위치한 CGV용산아이파크홀에서 연 언론 배급 시사회 및 기자감담회를 성공적으로 마쳤다. 이날 행사에는 투케이 감독, 김경진, 김동찬, 장소영, 김솔비, 장영, 김대윤, 이서현이 참석해 다양한 이야기를 나눴다. '트로트는 인생이다'는 데뷔를 꿈꾸는 3명의 가수 지망생들이 트로트]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2Ftvdaily%2F20211229165519666enqg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[관객 줄고, 예산 깎이고.. 코로나 시대 '위기의 한국영화']]></title>
+            <link>https://movie.v.daum.net/v/20211229140000893</link>
+            <guid>https://movie.v.daum.net/v/20211229140000893</guid>
+            <pubDate>Wed, 29 Dec 2021 12:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[[성하훈 기자] ▲ &nbsp;영화진흥위원회    ⓒ 성하훈  2021년 대비 7% 감소한 2022년 영화진흥위원회(김영진 위원장, 아래 영진위) 예산은 코로나19 위기 속 한국영화의 모습을 보여준 상징적인 단면이었다. 최근 3년 동안 영진위 예산 증가율은 평균 24%였고, 새해 문체부 예산 증가율 8%인 것과 비교하면 현재 영진위가 예산 확보에 무기]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2Fohmynews%2F20211229140003137mxbm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[단독] "동생 정연에게 멋진 언니 돼"..공승연, 20대 마지막 그리고 서른의 시작점 청룡(청룡영화상)]]></title>
@@ -112,6 +112,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Fpoctan%2F20211228174726887ntsp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[올해 당신이 놓쳤을 한국영화 [2021 결산]]]></title>
+            <link>https://movie.v.daum.net/v/20211230060203652</link>
+            <guid>https://movie.v.daum.net/v/20211230060203652</guid>
+            <pubDate>Wed, 29 Dec 2021 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[올해 극장에서 어떤 한국영화를 봤을까. 대부분 관객들이 잘 기억하지 못하는 게 당연하다. 올해 한국영화 성적은 처참하다. 2021년 최다 관객 영화 10편 중 한국영화는 ‘모가디슈’ ‘싱크홀’ 두 편에 불과하다. 기대작들은 코로나바이러스감염증-19(코로나19) 여파로 개봉 타이밍을 잡지 못했다. 용기를 내 개봉해도 관객수는 턱없이 적다. 그럼에도 잊기엔]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F30%2Fkukinews%2F20211230060205216knmy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022 韓영화 라인업-롯데엔터테인먼트] '해적2'→'한산' 고퀄리티 사극 향연]]></title>
+            <link>https://movie.v.daum.net/v/20211230070050220</link>
+            <guid>https://movie.v.daum.net/v/20211230070050220</guid>
+            <pubDate>Wed, 29 Dec 2021 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 조은애 기자] 롯데엔터테인먼트는 올해 ‘모가디슈’(감독 류승완)로 사회적 거리두기 4단계 속에서도 뜨거운 흥행을 기록하며 고퀄리티 콘텐츠의 저력을 과시했다. 지난 7월 개봉한 ‘모가디슈’는 누적 361만 명의 관객을 동원하면서 올해 개봉한 한국 영화 중 최고 흥행작으로 등극했다. ‘모가디슈’ 외에도 박정민 주연의 ‘기적’(감독 이장훈), 김향]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F30%2FSpoHankook%2F20211230070051616ebct.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[韓X美서 뜨뜻미지근 '킹스맨: 퍼스트 에이전트', 해외서 반응↑ "韓X美 제외 해외 오프닝 1위"]]></title>
             <link>https://movie.v.daum.net/v/20211229083855324</link>
             <guid>https://movie.v.daum.net/v/20211229083855324</guid>
@@ -128,14 +144,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2FSpoHankook%2F20211229070052257tbbv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['해적2' 엑소 세훈에서 백발백중 명사수로..빛나는 스크린 데뷔]]></title>
-            <link>https://movie.v.daum.net/v/20211228181550249</link>
-            <guid>https://movie.v.daum.net/v/20211228181550249</guid>
-            <pubDate>Wed, 29 Dec 2021 01:02:47 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 엑소 멤버 세훈이 '해적: 도깨비 깃발'로 스크린 데뷔한다. 2022년 새해 개봉하는 영화 '해적: 도깨비 깃발'(감독 김정훈)은 흔적도 없이 사라진 왕실 보물의 주인이 되기 위해 바다로 모인 해적들의 스펙터클한 모험을 그린 작품이다. 아이돌 그룹 엑소 멤버 세훈(오세훈)이 '해적: 도깨비 깃발'에서 백발백중 명사수 ‘한궁’ 역]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Fnewsen%2F20211228181552820ddlz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA["백신 부스터샷까지 맞았는데, 확진" 휴 잭맨, '울버린'도 못 피한 코로나19 [종합]]]></title>
             <link>https://movie.v.daum.net/v/20211229093636160</link>
             <guid>https://movie.v.daum.net/v/20211229093636160</guid>
@@ -144,12 +152,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2Fmydaily%2F20211229093636570vzay.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[아카데미에 진심인 마블, '스파이더맨: 노 웨이 홈' 오스카 캠페인 돌입 [무비노트]]]></title>
-            <link>https://movie.v.daum.net/v/20211228180007900</link>
-            <guid>https://movie.v.daum.net/v/20211228180007900</guid>
+            <title><![CDATA['해적2' 엑소 세훈에서 백발백중 명사수로..빛나는 스크린 데뷔]]></title>
+            <link>https://movie.v.daum.net/v/20211228181550249</link>
+            <guid>https://movie.v.daum.net/v/20211228181550249</guid>
             <pubDate>Wed, 29 Dec 2021 01:02:47 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 마블이 '스파이더맨: 노 웨이홈'의 아카데미 작품상을 위한 캠페인을 벌인다. 상업 오락 영화에게 곁을 내주지 않았던 아카데미에 대한 마블의 열망이 더욱 열렬해지고 있다. 지난 24일(현지시간) 할리우드 리포터에 따르면 마블 영화 '스파이더맨: 노 웨이 홈'(감독 존 왓츠·배급 소니 픽쳐스)이 아카데미 수상을 위한 캠페인을 벌인]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Ftvdaily%2F20211228180008443xjyg.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 엑소 멤버 세훈이 '해적: 도깨비 깃발'로 스크린 데뷔한다. 2022년 새해 개봉하는 영화 '해적: 도깨비 깃발'(감독 김정훈)은 흔적도 없이 사라진 왕실 보물의 주인이 되기 위해 바다로 모인 해적들의 스펙터클한 모험을 그린 작품이다. 아이돌 그룹 엑소 멤버 세훈(오세훈)이 '해적: 도깨비 깃발'에서 백발백중 명사수 ‘한궁’ 역]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Fnewsen%2F20211228181552820ddlz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[박소담 '특송' 유럽, 아시아 등 47개국 선판매 [공식]]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 29 Dec 2021 18:23:02 GMT</pubDate>
             <content:encoded><![CDATA[[동아닷컴] 박소담 ‘특송’ 유럽, 아시아 등 47개국 선판매 [공식] 짜릿한 카체이싱 액션과 타격감 넘치는 맨몸 액션으로 기대를 모으는 범죄 오락 액션 영화 ‘특송’이 해외 47개국에 선판매 되는 쾌거를 달성한 것은 물론, 5개국 동시기 개봉을 확정해 전 세계 관객들을 사로잡을 예정이다. 성공률 100%의 특송 전문 드라이버 ‘은하’가 예기치 못한 배송]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2Fsportsdonga%2F20211229184847105yjkl.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['스파이더맨' 2주 만에 500만 돌파..최단 기간·최다 관객 동원]]></title>
-            <link>https://movie.v.daum.net/v/20211229015015867</link>
-            <guid>https://movie.v.daum.net/v/20211229015015867</guid>
-            <pubDate>Wed, 29 Dec 2021 02:36:54 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘스파이더맨: 노 웨이 홈’이 500만 관객을 돌파했다. 29일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날 ‘스파이더맨: 노 웨이 홈’은 11만 8131명을 동원해 일별 박스오피스 1위를 차지했다. ‘스파이더맨: 노 웨이 홈’(감독 존 왓츠, 수입배급 월트디즈니컴퍼니 코리아)은 정체가 탄로난 스파이더맨 피터 파커(]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2Fpoctan%2F20211229015016669yutx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
