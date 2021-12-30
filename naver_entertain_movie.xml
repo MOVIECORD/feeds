@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-30T12:32:28.686Z</updated>
+    <updated>2021-12-30T14:19:26.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정부, 코로나 피해 입은 영화·여행·관광업 등 고용지원 연장 검토]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000784248</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000784248"/>
+        <updated>2021-12-30T14:17:57.310Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 정부가 여행·관광업 등 코로나19로 어려움을 겪는 업종의 고용 여건 등을 고려해 지원 연장 여부를 검토하기로 했다. 30일 고용노동부에 따르면 정부는 이날 정부서울청사에서 제51차 비상경제 중앙대책본부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아들을 입양 보내야 하는 시한부 34살 한부모 아빠]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003652812</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000521479"/>
         <updated>2021-12-30T09:19:14.740Z</updated>
         <content type="html"><![CDATA[[텐아시아=김지원 기자] 걸크러쉬 박소담이 펼치는 파워풀한 드라이빙 액션이 짜릿한 쾌감을 선사한다. 영화 '특송'이다. '특송'은 성공률 100%의 특송 전문 드라이버 은하가 예기치 못한 배송사고에 휘말리면서 벌어지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["가슴 속을 뻥 뚫어주는 영화"…'특송', 2022년을 여는 짜릿한 질주[종합]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000335655</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000335655"/>
-        <updated>2021-12-30T08:23:20.160Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=강효진 기자] 영화 '특송'이 속시원한 카체이싱과 화끈한 액션으로 무장하고 자신있게 관객들 앞에 나선다. 영화 '특송'(감독 박대민) 언론시사회가 30일 오후 서울 광진구 롯데시네마 건대입구에서 열렸다]]></content>
     </entry>
 </feed>
