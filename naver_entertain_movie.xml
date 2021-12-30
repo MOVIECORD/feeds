@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-30T19:17:24.654Z</updated>
+    <updated>2021-12-30T20:21:43.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰]한지민 "이 영화가 저를 어둠 속에서 꺼내줬어요"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010919104</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010919104"/>
+        <updated>2021-12-30T20:20:11.666Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 영화 '해피 뉴 이어'서 소진 역 맡아 "촬영하면서 힐링받고 싶어서 선택" "자극 대신 편안 따뜻한 영화 원해" "힘들었던 시기 현장서 마음 치료" [서울=뉴시스] 손정빈 기자 = 영화 '해피 뉴 이어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“이 영화로 일상의 따뜻함, 밝은 기운을 드리고 싶다”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001495490</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0005023562"/>
         <updated>2021-12-30T09:19:14.735Z</updated>
         <content type="html"><![CDATA[배우 공유(공지철)가 '고요의 바다'가 품은 인문학적 주제에 동의한다며 양가적 감정과 마주했다고 말했다. 공유는 30일 진행된 화상 인터뷰에서 "'고요의 바다'는 인문학적인 작품이라고 바라보고 접근했다"고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[종합]"너무 멋있어"..'특송' 박소담, 김의성도 응원한 강렬한 액션 도전]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003515542</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003515542"/>
-        <updated>2021-12-30T09:19:14.735Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=천윤혜기자]박소담이 강렬한 액션 연기로 화끈한 변신에 성공했다. 30일 서울 광진구 자양동 롯데시네마 건대입구에서 영화 '특송' 언론배급시사회가 열려 배우 송새벽, 김의성, 정현준, 연우진, 염혜란,]]></content>
     </entry>
 </feed>
