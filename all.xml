@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 14:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 14:41:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -271,14 +271,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fac3c7bf4d44a47b4023a0d7ecdd68bedfc7bb2fc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[디어 에반 핸슨 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150692</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150692</guid>
-            <pubDate>Tue, 28 Dec 2021 04:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7412acf6a22c72b54b6ec01019c022bea4a877ca" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[프렌치 디스패치 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=129414</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=129414</guid>
@@ -287,12 +279,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F143986c99895b2df85b359b06ebbe8f0ce12d5b9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[마이 뉴욕 다이어리 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138748</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138748</guid>
-            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7c4d4fe00a91718313cfe6e3f964af7e02b7951e" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[디어 에반 핸슨 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150692</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150692</guid>
+            <pubDate>Tue, 28 Dec 2021 04:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7412acf6a22c72b54b6ec01019c022bea4a877ca" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[리틀 뱀파이어 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -317,6 +309,14 @@
             <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
             <content:encoded><![CDATA[21.12.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0af94c0bd13ce470880fa3ab4ebd1fd22e2e4f06" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[마이 뉴욕 다이어리 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138748</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138748</guid>
+            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7c4d4fe00a91718313cfe6e3f964af7e02b7951e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[사울 레이터: 인 노 그레이트 허리 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -663,6 +663,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F30%2Fkukinews%2F20211230060205216knmy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA["걱정마, 너 너무 멋있어!"..'특송' 박소담 응원의 날 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211230233234152</link>
+            <guid>https://v.daum.net/v/20211230233234152</guid>
+            <pubDate>Thu, 30 Dec 2021 14:40:05 GMT</pubDate>
+            <content:encoded><![CDATA['특송' 배우들이 박소담과 함께 호흡맞춘 소감과 응원의 마음을 전했다. 30일 서울 건대입구 롯데시네마에서 진행된 영화 '특송(박대민 감독)' 언론시사회에서 송새벽과 김의성, 정현준은 영화에서 원톱 주연으로 활약했지만 건강상 이유로 이날 자리에 함께 하지 못한 박소담에 대한 애정어린 말을 건넸다. 박소담은 '특송' 개봉을 준비 중이었던 지난 13일 소]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F30%2Filgansports%2F20211230233235487shqo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['특송' 박대민 감독 "박소담 열렬한 팬, 연기에 믿음 컸다" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211230233211150</link>
+            <guid>https://v.daum.net/v/20211230233211150</guid>
+            <pubDate>Thu, 30 Dec 2021 14:40:05 GMT</pubDate>
+            <content:encoded><![CDATA['특송' 박대민 감독이 박소담에 대한 남다른 애정을 표했다. 30일 서울 건대입구 롯데시네마에서 진행된 영화 '특송(박대민 감독)' 언론시사회에서 박대민 감독은 박소담 캐스팅 이유에 대해 "시나리오가 나오자마자 박소담 배우에게 전달했다. 열렬한 팬이었고, 이 역할을 잘 해내줄 것이라는 믿음이 컸다"고 말했다. 박대민 감독은 "장편 액션 영화를 처음 도]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F30%2Filgansports%2F20211230233212178aawo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[팬데믹에 지친 이들을 위한 위로.. 스크린 가득 번지는 흐뭇함 (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20211230211228619</link>
             <guid>https://v.daum.net/v/20211230211228619</guid>
@@ -805,22 +821,6 @@
             <pubDate>Thu, 30 Dec 2021 08:23:52 GMT</pubDate>
             <content:encoded><![CDATA[‘특송’의 배우들이 박소담에 대한 칭찬 릴레이를 펼쳤다. 훈훈한 팀워크, 그 응원이 아깝지 않을 연기를 펼친 박소담이다. 김의성은 30일 오후 서울 롯데시네마 건대입구점에서 진행된 범죄 액션물 '특송'(박대민 감독, 엠픽처스 제작) 언론·배급 시사회 및 기자간담회에서 "우리 영화를 박소담과 정현준이 아직 못 봤다. 현준이는 나이가 안돼 못 봤고 소담이는]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F30%2Fstartoday%2F20211230165708529dcvz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[SC현장] "너무 멋있어"..'특송' 모두가 기원한 박소담 쾌유, 2022년 新액션 여제 탄생(종합) (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211230165242847</link>
-            <guid>https://v.daum.net/v/20211230165242847</guid>
-            <pubDate>Thu, 30 Dec 2021 08:23:52 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 지금껏 본 적 없는 화끈하고 시원한 카체이싱 액션이 새해 극장에 등장했다. 몸을 아끼지 않은 극강의 액션을 완벽히 소화한 박소담. 그의 고군분투가 200% 녹아든 진정한 액션 여제의 탄생이다. 성공률 100%의 특송 전문 드라이버가 예기치 못한 배송사고에 휘말리면서 벌어지는 추격전을 그린 범죄 액션 영화 '특송'(]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F30%2FSpoChosun%2F20211230165242735mbxb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[E!현장] "女원톱, 질주하는 액션"..'특송' 박소담, 스크린 찢었다(종합) (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211230165233845</link>
-            <guid>https://v.daum.net/v/20211230165233845</guid>
-            <pubDate>Thu, 30 Dec 2021 08:23:52 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠한국 조은애 기자] 배우 박소담의 액션이 폭발한다. 영화 '특송'이 2022년 새해 극장가 흥행의 포문을 연다. 12월30일 오후 서울 롯데시네마 건대입구에서는 영화 '특송'(감독 박대민)의 언론배급시사회와 비대면 기자간담회가 진행됐다. 이 자리에는 배우 송새벽, 김의성, 정현준, 연우진, 염혜란, 한현민, 박대민 감독이 참석했다. 최근 갑상선 유]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F30%2FSpoHankook%2F20211230165234865drdq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<킹메이커> 리뷰 30초 영상 (우리 영화 볼래?)]]></title>
