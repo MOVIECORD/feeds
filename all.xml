@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 12:32:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 13:26:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,7 +50,7 @@
             <content:encoded><![CDATA[매해 연말 &lt;씨네21&gt;은 기자·평론가들을 대상으로 송년 베스트 설문을 실시한다. 2021년부터는 ‘시리즈’ 부문이 신설됐다. 시대의 흐름을 생각하면 지극히 당연한 변화다. 극장 중심에서 스트리밍 중심으로 영화를 보는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[(완)[무비가이드] 조진웅X최우식 '경관의 피', 새해 극장가 포문 여는 강렬한 범죄 수사극 (네이버TV연예 ─ 영화)]]></title>
+            <title><![CDATA[[무비가이드] 조진웅X최우식 '경관의 피', 새해 극장가 포문 여는 강렬한 범죄 수사극 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000521778</link>
             <guid>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000521778</guid>
             <pubDate>Fri, 31 Dec 2021 09:19:41 GMT</pubDate>
@@ -215,20 +215,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4123c31005612fcdb4acaf7182d4397a9673b3f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[램 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150927</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150927</guid>
-            <pubDate>Mon, 27 Dec 2021 15:29:30 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F569f056e9ef23a5cb5722952e964c7d00df52893" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151070</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151070</guid>
             <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
             <content:encoded><![CDATA[21.12.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[램 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150927</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150927</guid>
+            <pubDate>Mon, 27 Dec 2021 15:29:30 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F569f056e9ef23a5cb5722952e964c7d00df52893" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[엔칸토: 마법의 세계 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -263,14 +263,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F68f5102b7f5e04f97399636f44f612e14bcfadf9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[연애 빠진 로맨스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144054</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144054</guid>
-            <pubDate>Mon, 15 Nov 2021 23:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa0fcbda650c0e964ac945ebbe38c5ec8d2dc55ff" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[프렌치 디스패치 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=129414</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=129414</guid>
@@ -279,12 +271,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F143986c99895b2df85b359b06ebbe8f0ce12d5b9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[마이 뉴욕 다이어리 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138748</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138748</guid>
-            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7c4d4fe00a91718313cfe6e3f964af7e02b7951e" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[연애 빠진 로맨스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144054</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144054</guid>
+            <pubDate>Mon, 15 Nov 2021 23:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa0fcbda650c0e964ac945ebbe38c5ec8d2dc55ff" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 소드 아트 온라인 -프로그레시브- 별 없는 밤의 아리아 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -293,14 +285,6 @@
             <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
             <content:encoded><![CDATA[21.12.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F08f419cbf4467bb2bd9ea59132a53e3fcffe52ba" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[라스트 나잇 인 소호 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=129679</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=129679</guid>
-            <pubDate>Fri, 31 Dec 2021 09:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa3d67cc5d4db5a5a0ae7495e64178588c7929390" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[리틀 뱀파이어 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -319,14 +303,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fac3c7bf4d44a47b4023a0d7ecdd68bedfc7bb2fc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[유체이탈자 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=124768</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=124768</guid>
-            <pubDate>Fri, 31 Dec 2021 09:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2eee1b07783f3ae40b0446fdcc73851956299a6a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[티탄 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151808</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151808</guid>
@@ -335,12 +311,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0af94c0bd13ce470880fa3ab4ebd1fd22e2e4f06" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[사울 레이터: 인 노 그레이트 허리 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155134</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155134</guid>
+            <title><![CDATA[그림자꽃 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135414</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135414</guid>
+            <pubDate>Fri, 31 Dec 2021 13:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2e84396a753c036b2fe00cc2544a02b55f3ec57b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[마이 뉴욕 다이어리 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138748</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138748</guid>
+            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7c4d4fe00a91718313cfe6e3f964af7e02b7951e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[해피 아워 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=95676</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=95676</guid>
+            <pubDate>Fri, 31 Dec 2021 13:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F05202322bd2aba53f64cde597dc6acf163752043" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[라스트 나잇 인 소호 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=129679</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=129679</guid>
             <pubDate>Fri, 31 Dec 2021 09:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe9d91cdeb30408f5309a4356e3dba01f4a5975e8" length="0" type="image//thumb/C408x596/"/>
+            <content:encoded><![CDATA[21.12.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa3d67cc5d4db5a5a0ae7495e64178588c7929390" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[경관의 피 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -535,6 +535,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fyonhap%2F20211231114324675pjyy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['특송' 드라이버 박소담, 이게 걸크러쉬다 ② (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211231091143443</link>
+            <guid>https://movie.v.daum.net/v/20211231091143443</guid>
+            <pubDate>Fri, 31 Dec 2021 07:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='특송' 배우 박소담이 짜릿한 액션으로 스크린에 돌아왔다. 완벽한 카체이싱 액션이 관객을 빨아들인다. 영화 '특송'은 성공률 100%의 특송 전문 드라이버 은하가 예기치 못한 배송사고에 휘말리면서 벌어지는 추격전을 그린 범죄 오락 액션 영화다. '기생충'으로 전세계의 주목을 받은 박소담이 원톱 주연을 맡았다. 한국 영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fstarnews%2F20211231091144466hktw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['박소담의 하드캐리' 스릴 만점 액션에 재미까지 '특송'[영화보고서:리뷰] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211231070006033</link>
             <guid>https://movie.v.daum.net/v/20211231070006033</guid>
@@ -549,14 +557,6 @@
             <pubDate>Fri, 31 Dec 2021 07:18:36 GMT</pubDate>
             <content:encoded><![CDATA[윤계상은 '유체이탈자'에 "목숨을 걸었다"라고 자부할 수 있을 정도로 진심과 최선을 다했다. 스스로 확신할 수 있을 정도로 '유체이탈자' 속 윤계상의 액션 연기는 화려하고 단단했다. '유체이탈자'는 기억을 잃은 채 12시간마다 다른 사람의 몸에서 깨어나는 한 남자가 모두의 표적이 된 진짜 자신을 찾기 위해 사투를 벌이는 추적 액션이다. 해외 유수의 영화제]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fdailian%2F20211231125259092prec.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['특송' 드라이버 박소담, 이게 걸크러쉬다 ② (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211231091143443</link>
-            <guid>https://movie.v.daum.net/v/20211231091143443</guid>
-            <pubDate>Fri, 31 Dec 2021 07:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='특송' 배우 박소담이 짜릿한 액션으로 스크린에 돌아왔다. 완벽한 카체이싱 액션이 관객을 빨아들인다. 영화 '특송'은 성공률 100%의 특송 전문 드라이버 은하가 예기치 못한 배송사고에 휘말리면서 벌어지는 추격전을 그린 범죄 오락 액션 영화다. '기생충'으로 전세계의 주목을 받은 박소담이 원톱 주연을 맡았다. 한국 영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fstarnews%2F20211231091144466hktw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['샹치' 속편 만든다..크레턴 감독 각본·연출 (다음영화 뉴스 ─ 인기)]]></title>
@@ -591,6 +591,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F30%2Fsegye%2F20211230211300529lxvn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[가스사고로 돌아가신 부모님, 혼자 남은 아이의 성장 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211231174802540</link>
+            <guid>https://movie.v.daum.net/v/20211231174802540</guid>
+            <pubDate>Fri, 31 Dec 2021 11:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[[김형욱 기자] ▲ &nbsp;넷플릭스 오리지널 영화 &lt;신의 손&gt; 포스터.    ⓒ 넷플릭스  &nbsp; 1970년생으로&nbsp;어느덧 50줄에 접어든 파올로 소렌티노 감독은 2000년대 이후 이탈리아 영화계를 대표하는 감독군들 중에서도 단연 두각을 나타내며 꾸준히 좋은 작품들을 내놓았다. 칸 영화제 심사위원상을 받은 &lt;일 디보&gt;, 미국·영국 아카데미와 골든 글러브]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fohmynews%2F20211231174803979vbyb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[2022 韓영화 라인업-쇼박스] '비상선언''이상한 나라의 수학자', 흥행 예감 기대작 포진 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211231070020054</link>
             <guid>https://movie.v.daum.net/v/20211231070020054</guid>
@@ -607,6 +615,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F30%2Filgansports%2F20211230221305632yxze.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['특송' 박소담X송새벽, 액션+재미 다 잡았다..시사회 호평 릴레이 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211231171858638</link>
+            <guid>https://movie.v.daum.net/v/20211231171858638</guid>
+            <pubDate>Fri, 31 Dec 2021 12:31:17 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=연휘선 기자]&nbsp;기상천외한 드라이빙 테크닉과 박진감 넘치는 추격전으로 새해 극장가를 사로잡을 범죄 오락 액션 영화 '특송'이 성황리에 언론 시사회를 마치며 호평을 받고 있다.&nbsp; 영화 '특송'(감독 박대민, 제공배급 NEW, 공동제공 Library Pictures International, 제작 엠픽처스) 측은 30일 언론배급시사회를 개최하며&nbsp;2]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fpoctan%2F20211231171858410jpfe.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[2021 영화 결산]#개봉연기 #OTT 동시공개..코로나 2년째, 계속되는 극장위기 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211231080015780</link>
             <guid>https://movie.v.daum.net/v/20211231080015780</guid>
@@ -615,28 +631,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2FSPORTSSEOUL%2F20211231080016269hdhx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[가스사고로 돌아가신 부모님, 혼자 남은 아이의 성장 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211231174802540</link>
-            <guid>https://movie.v.daum.net/v/20211231174802540</guid>
-            <pubDate>Fri, 31 Dec 2021 11:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[[김형욱 기자] ▲ &nbsp;넷플릭스 오리지널 영화 &lt;신의 손&gt; 포스터.    ⓒ 넷플릭스  &nbsp; 1970년생으로&nbsp;어느덧 50줄에 접어든 파올로 소렌티노 감독은 2000년대 이후 이탈리아 영화계를 대표하는 감독군들 중에서도 단연 두각을 나타내며 꾸준히 좋은 작품들을 내놓았다. 칸 영화제 심사위원상을 받은 &lt;일 디보&gt;, 미국·영국 아카데미와 골든 글러브]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fohmynews%2F20211231174803979vbyb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[단독] "문소리 언니 수상, 내 수상보다 기뻐"..김선영, '세자매'가 선사한 완벽한 2021년(청룡영화상) (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211231085648921</link>
             <guid>https://movie.v.daum.net/v/20211231085648921</guid>
             <pubDate>Fri, 31 Dec 2021 01:05:33 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠조선 조지영 기자] 올해 최고의 신 스틸러의 탄생이다. 배우 김선영(45)이 온 마음과 진심을 쏟아부은 인생작, 인생 캐릭터로 최고의 황금기를 맞이했다. 김선영은 1995년 연극 '연극이 끝난 후에'로 무대에 뛰어들어 2005년 영화 '잠복근무'(05, 박광춘 감독)로 스크린에 데뷔한 베테랑 배우다. 올해 영화 데뷔 16년 차, 연기]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2FSpoChosun%2F20211231090650118bpoq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['특송' 박소담X송새벽, 액션+재미 다 잡았다..시사회 호평 릴레이 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211231171858638</link>
-            <guid>https://movie.v.daum.net/v/20211231171858638</guid>
-            <pubDate>Fri, 31 Dec 2021 12:31:17 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=연휘선 기자]&nbsp;기상천외한 드라이빙 테크닉과 박진감 넘치는 추격전으로 새해 극장가를 사로잡을 범죄 오락 액션 영화 '특송'이 성황리에 언론 시사회를 마치며 호평을 받고 있다.&nbsp; 영화 '특송'(감독 박대민, 제공배급 NEW, 공동제공 Library Pictures International, 제작 엠픽처스) 측은 30일 언론배급시사회를 개최하며&nbsp;2]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fpoctan%2F20211231171858410jpfe.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[흑과 백 경계에서 열일하는 '경관의 피' [쿡리뷰] (다음영화 뉴스 ─ 인기)]]></title>
@@ -663,7 +663,7 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F30%2Fsegye%2F20211230211228542cvbl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[(완)[무비가이드] 조진웅X최우식 '경관의 피', 새해 극장가 포문 여는 강렬한 범죄 수사극 (다음영화 뉴스 ─ 최신)]]></title>
+            <title><![CDATA[[무비가이드] 조진웅X최우식 '경관의 피', 새해 극장가 포문 여는 강렬한 범죄 수사극 (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20211231181503031</link>
             <guid>https://v.daum.net/v/20211231181503031</guid>
             <pubDate>Fri, 31 Dec 2021 09:20:15 GMT</pubDate>
@@ -1475,7 +1475,7 @@
             <link>https://tv.naver.com/v/24376850</link>
             <guid>https://tv.naver.com/v/24376850</guid>
             <pubDate>Fri, 31 Dec 2021 10:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_63/CTGhj_1640942607830qaXWd_JPEG/34441128-6a1b-11ec-ad60-505dacfba98a_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1483,7 +1483,7 @@
             <link>https://tv.naver.com/v/24375862</link>
             <guid>https://tv.naver.com/v/24375862</guid>
             <pubDate>Fri, 31 Dec 2021 08:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_79/587Qi_164093896759053Kfw_JPEG/ad83478a-6a12-11ec-8a04-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1491,7 +1491,7 @@
             <link>https://tv.naver.com/v/24375809</link>
             <guid>https://tv.naver.com/v/24375809</guid>
             <pubDate>Fri, 31 Dec 2021 08:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_242/G9LMw_1640938774040hafI3_JPEG/458a2702-6a12-11ec-8e73-505dac8c37f3_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1499,7 +1499,7 @@
             <link>https://tv.naver.com/v/24375762</link>
             <guid>https://tv.naver.com/v/24375762</guid>
             <pubDate>Fri, 31 Dec 2021 08:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_66/bjF7O_1640938592468n7GFA_JPEG/ce22110c-6a11-11ec-bf52-a0369ff9545c_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1507,7 +1507,7 @@
             <link>https://tv.naver.com/v/24375708</link>
             <guid>https://tv.naver.com/v/24375708</guid>
             <pubDate>Fri, 31 Dec 2021 08:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_95/hbsB8_1640938372388WoGiX_JPEG/56f5a47f-6a11-11ec-b8bc-246e963a4708_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1515,7 +1515,7 @@
             <link>https://tv.naver.com/v/24375279</link>
             <guid>https://tv.naver.com/v/24375279</guid>
             <pubDate>Fri, 31 Dec 2021 08:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_186/006LJ_1640936702958KXesg_JPEG/48138347-6a0d-11ec-b776-246e963a49a8_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1523,7 +1523,7 @@
             <link>https://tv.naver.com/v/24375205</link>
             <guid>https://tv.naver.com/v/24375205</guid>
             <pubDate>Fri, 31 Dec 2021 08:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_239/r0jYI_1640936430633ume10_JPEG/1640936265491.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1531,7 +1531,7 @@
             <link>https://tv.naver.com/v/24372767</link>
             <guid>https://tv.naver.com/v/24372767</guid>
             <pubDate>Fri, 31 Dec 2021 07:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_240/h34JN_1640928737412X2XUD_JPEG/9c17d239-69fa-11ec-bf61-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1539,7 +1539,7 @@
             <link>https://tv.naver.com/v/24372348</link>
             <guid>https://tv.naver.com/v/24372348</guid>
             <pubDate>Fri, 31 Dec 2021 05:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_233/OwxOZ_1640927456786Fjqaw_JPEG/9caacb2d-69f7-11ec-9576-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1547,7 +1547,7 @@
             <link>https://tv.naver.com/v/24370222</link>
             <guid>https://tv.naver.com/v/24370222</guid>
             <pubDate>Fri, 31 Dec 2021 03:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_243/GYLTy_1640919611608pdu7Y_JPEG/92f7bfb4-69e5-11ec-810a-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1555,7 +1555,7 @@
             <link>https://tv.naver.com/v/24370090</link>
             <guid>https://tv.naver.com/v/24370090</guid>
             <pubDate>Fri, 31 Dec 2021 03:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_91/Lf2DB_1640919275180wfgyy_JPEG/e34ac21e-69e4-11ec-8cee-a0369ff95678_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1563,7 +1563,7 @@
             <link>https://tv.naver.com/v/24368789</link>
             <guid>https://tv.naver.com/v/24368789</guid>
             <pubDate>Fri, 31 Dec 2021 02:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_22/BNoJW_1640915081671c6dww_JPEG/15a06439-69db-11ec-908e-48df379cc9e4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1579,7 +1579,7 @@
             <link>https://tv.naver.com/v/24368514</link>
             <guid>https://tv.naver.com/v/24368514</guid>
             <pubDate>Fri, 31 Dec 2021 02:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_182/VRKuP_1640913864393oid8e_JPEG/40399314-69d8-11ec-9576-48df379ccacc_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1587,7 +1587,7 @@
             <link>https://tv.naver.com/v/24368379</link>
             <guid>https://tv.naver.com/v/24368379</guid>
             <pubDate>Fri, 31 Dec 2021 02:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_142/1YdbR_1640913097196Ei6QL_JPEG/80e4aaaa-69d6-11ec-a831-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1595,7 +1595,7 @@
             <link>https://tv.naver.com/v/24368176</link>
             <guid>https://tv.naver.com/v/24368176</guid>
             <pubDate>Fri, 31 Dec 2021 01:06:05 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_57/D6aDk_1640912066368YrLoq_JPEG/f1ac2755-69d3-11ec-9d44-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
