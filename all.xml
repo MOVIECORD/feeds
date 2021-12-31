@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 14:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 15:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KBS 연기대상]'광자매' 윤주상→홍은희, 우수상.."전혜빈X고원희 감사해" (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003516117</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003516117</guid>
+            <pubDate>Fri, 31 Dec 2021 15:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드POP=정혜연 기자]윤주상, 홍은희, 박하나, 류진, 소이현, 한다감이 우수상을 수상했다. 31일 생방송된 '2021 KBS 연기대상'에서는 우수상 시상이 진행됐다. 우수상 장편드라마 부문은 '오케이 광자매']]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[TEN리뷰] 박소담 주연 '특송', 거침없는 질주…액션 쾌감은 '노리밋' (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000521930</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[[서울=뉴시스]고다연 인턴 기자 = 배우 권율이 '경관의 피'로 역대급 빌런 비주얼을 선보인다. 영화 '경관의 피'는 위법 수사도 개의치 않는 광수대 에이스 강윤(조진웅)과 그를 감시하게 된 언더커버 신입경찰 민재(]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한효주, 영화 '해피 뉴 이어' 홍보→한지민 "고마워" 애정 [스타IN★] (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003017338</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003017338</guid>
-            <pubDate>Fri, 31 Dec 2021 07:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[배우 한효주가 영화 '해피 뉴 이어'를 홍보하며 절친한 배우 한지민을 응원했다. 31일 한효주는 자신의 인스타그램에 "여러분 모두 해피 뉴 이어. 올 한해 정말 고생 많으셨습니다. 새해에는 건강하고 즐겁고 행복한 일]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[스파이더맨: 노 웨이 홈 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=146656</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=146656</guid>
@@ -247,14 +247,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3eebe1c0e14021f0772f11361f8e6aa8ab48a207" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[디어 에반 핸슨 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150692</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150692</guid>
-            <pubDate>Tue, 28 Dec 2021 04:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7412acf6a22c72b54b6ec01019c022bea4a877ca" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[노웨어 스페셜 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143893</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143893</guid>
@@ -285,6 +277,14 @@
             <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
             <content:encoded><![CDATA[21.12.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F08f419cbf4467bb2bd9ea59132a53e3fcffe52ba" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[디어 에반 핸슨 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150692</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150692</guid>
+            <pubDate>Tue, 28 Dec 2021 04:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7412acf6a22c72b54b6ec01019c022bea4a877ca" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[리틀 뱀파이어 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -543,20 +543,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fstarnews%2F20211231091144466hktw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['박소담의 하드캐리' 스릴 만점 액션에 재미까지 '특송'[영화보고서:리뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211231070006033</link>
-            <guid>https://movie.v.daum.net/v/20211231070006033</guid>
-            <pubDate>Fri, 31 Dec 2021 01:05:33 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] 좋은 프레임의 ‘변주’는 인기를 먹고 사는 상업영화로서 가장 안전한 ‘담보’라고도 할 수 있을 듯 하다. 이 변주가 매우 잘 계산되고, 요즘 언어에 맞게 윤색됐으며, 그리하여 전혀 새롭기까지 하다면 이건 ‘성공’인 거다. 예컨대 태초의 갤럭시나 아이폰이 아닌 3, 4 번호를 거듭한 ‘개선 버전’이 대흥행을 했듯이, 바로 이 영화 ‘]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fnewsen%2F20211231070006508lidp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[D:인터뷰] 한계 없는 윤계상 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211231125255894</link>
             <guid>https://movie.v.daum.net/v/20211231125255894</guid>
             <pubDate>Fri, 31 Dec 2021 07:18:36 GMT</pubDate>
             <content:encoded><![CDATA[윤계상은 '유체이탈자'에 "목숨을 걸었다"라고 자부할 수 있을 정도로 진심과 최선을 다했다. 스스로 확신할 수 있을 정도로 '유체이탈자' 속 윤계상의 액션 연기는 화려하고 단단했다. '유체이탈자'는 기억을 잃은 채 12시간마다 다른 사람의 몸에서 깨어나는 한 남자가 모두의 표적이 된 진짜 자신을 찾기 위해 사투를 벌이는 추적 액션이다. 해외 유수의 영화제]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fdailian%2F20211231125259092prec.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['박소담의 하드캐리' 스릴 만점 액션에 재미까지 '특송'[영화보고서:리뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211231070006033</link>
+            <guid>https://movie.v.daum.net/v/20211231070006033</guid>
+            <pubDate>Fri, 31 Dec 2021 01:05:33 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] 좋은 프레임의 ‘변주’는 인기를 먹고 사는 상업영화로서 가장 안전한 ‘담보’라고도 할 수 있을 듯 하다. 이 변주가 매우 잘 계산되고, 요즘 언어에 맞게 윤색됐으며, 그리하여 전혀 새롭기까지 하다면 이건 ‘성공’인 거다. 예컨대 태초의 갤럭시나 아이폰이 아닌 3, 4 번호를 거듭한 ‘개선 버전’이 대흥행을 했듯이, 바로 이 영화 ‘]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fnewsen%2F20211231070006508lidp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['샹치' 속편 만든다..크레턴 감독 각본·연출 (다음영화 뉴스 ─ 인기)]]></title>
@@ -583,20 +583,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2FSpoHankook%2F20211231082051530eneo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[아들을 입양 보내야 하는 시한부 34살 한부모 아빠 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211230211300623</link>
-            <guid>https://movie.v.daum.net/v/20211230211300623</guid>
-            <pubDate>Fri, 31 Dec 2021 01:05:33 GMT</pubDate>
-            <content:encoded><![CDATA[인생에서 가장 어려운 선택은 무엇일까. 하나를 꼬집어 말하긴 어렵지만, 사랑하는 사람의 운명을 좌지우지할 선택이 쉽지 않을 것은 분명하다. 영화 ‘노웨어 스페셜’(포스터)의 주인공 존(제임스 노튼) 역시 어린 아들의 미래를 위한 결정을 앞에 두고 어떤 것이 최선일지 깊은 고민에 빠진다. 존을 더욱 몰아세우는 것은 시간이다. 시한부 판정을 받은 34살 창]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F30%2Fsegye%2F20211230211300529lxvn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[가스사고로 돌아가신 부모님, 혼자 남은 아이의 성장 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211231174802540</link>
             <guid>https://movie.v.daum.net/v/20211231174802540</guid>
             <pubDate>Fri, 31 Dec 2021 11:17:39 GMT</pubDate>
             <content:encoded><![CDATA[[김형욱 기자] ▲ &nbsp;넷플릭스 오리지널 영화 &lt;신의 손&gt; 포스터.    ⓒ 넷플릭스  &nbsp; 1970년생으로&nbsp;어느덧 50줄에 접어든 파올로 소렌티노 감독은 2000년대 이후 이탈리아 영화계를 대표하는 감독군들 중에서도 단연 두각을 나타내며 꾸준히 좋은 작품들을 내놓았다. 칸 영화제 심사위원상을 받은 &lt;일 디보&gt;, 미국·영국 아카데미와 골든 글러브]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fohmynews%2F20211231174803979vbyb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[아들을 입양 보내야 하는 시한부 34살 한부모 아빠 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211230211300623</link>
+            <guid>https://movie.v.daum.net/v/20211230211300623</guid>
+            <pubDate>Fri, 31 Dec 2021 01:05:33 GMT</pubDate>
+            <content:encoded><![CDATA[인생에서 가장 어려운 선택은 무엇일까. 하나를 꼬집어 말하긴 어렵지만, 사랑하는 사람의 운명을 좌지우지할 선택이 쉽지 않을 것은 분명하다. 영화 ‘노웨어 스페셜’(포스터)의 주인공 존(제임스 노튼) 역시 어린 아들의 미래를 위한 결정을 앞에 두고 어떤 것이 최선일지 깊은 고민에 빠진다. 존을 더욱 몰아세우는 것은 시간이다. 시한부 판정을 받은 34살 창]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F30%2Fsegye%2F20211230211300529lxvn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[2022 韓영화 라인업-쇼박스] '비상선언''이상한 나라의 수학자', 흥행 예감 기대작 포진 (다음영화 뉴스 ─ 인기)]]></title>
@@ -615,6 +615,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fpoctan%2F20211231171858410jpfe.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[TEN리뷰] 박소담 주연 '특송', 거침없는 질주..액션 쾌감은 '노리밋' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211231224602337</link>
+            <guid>https://movie.v.daum.net/v/20211231224602337</guid>
+            <pubDate>Fri, 31 Dec 2021 14:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자] 속도감은 아찔하고 액션은 맹렬하다. 걸크러쉬 매력을 장착한 박소담의 거침없는 질주는 심장박동을 치솟게 한다. 짜릿한 드라이빙 액션이 매력적인 영화 '특송'이다. 폐차 처리 영업장으로 위장하고 있는 백강산업은 사실 돈만 되면 물건도 사람도 배송하는 '특송' 전문 회사. 백강산업의 에이스 배송기사 장은하(박소담 분)는 백사장(김의성]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2F10asia%2F20211231224606562aimz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA["죽어도 여한 없다"..'웨스트사이드스토리' 주역들, 스필버그 만난 찐소감 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211230221304505</link>
             <guid>https://movie.v.daum.net/v/20211230221304505</guid>
@@ -629,14 +637,6 @@
             <pubDate>Fri, 31 Dec 2021 14:20:29 GMT</pubDate>
             <content:encoded><![CDATA[새로울 게 없을 줄 알았는데 의외로 신선하다. 착한 전개에도 쫄깃함은 살아 있고, 뻔한 결말인데도 끝까지 확인하고 싶다. ‘액션퀸’으로 완벽 변신한 박소담, 제대로 긴장감을 불어넣은 송새벽의 탄탄한 시너지로 완성된, 영화 ‘특송’이다. 영화는 특송 전문 업체 백강 산업의 특송 전문 드라이버 은하(박소담)의 미션 임파서블이다. 성공률 100%를 자랑하는 드]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fstartoday%2F20211231180907580xtpv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[TEN리뷰] 박소담 주연 '특송', 거침없는 질주..액션 쾌감은 '노리밋' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211231224602337</link>
-            <guid>https://movie.v.daum.net/v/20211231224602337</guid>
-            <pubDate>Fri, 31 Dec 2021 14:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자] 속도감은 아찔하고 액션은 맹렬하다. 걸크러쉬 매력을 장착한 박소담의 거침없는 질주는 심장박동을 치솟게 한다. 짜릿한 드라이빙 액션이 매력적인 영화 '특송'이다. 폐차 처리 영업장으로 위장하고 있는 백강산업은 사실 돈만 되면 물건도 사람도 배송하는 '특송' 전문 회사. 백강산업의 에이스 배송기사 장은하(박소담 분)는 백사장(김의성]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2F10asia%2F20211231224606562aimz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[단독] "문소리 언니 수상, 내 수상보다 기뻐"..김선영, '세자매'가 선사한 완벽한 2021년(청룡영화상) (다음영화 뉴스 ─ 인기)]]></title>
@@ -661,166 +661,6 @@
             <pubDate>Fri, 31 Dec 2021 01:05:33 GMT</pubDate>
             <content:encoded><![CDATA[민재(최우식)는 강윤(조진웅)이 건넨 명품 정장과 시계를 착용하고 외제차를 운전한다. 불법주차 단속원은 경찰 배지를 보여주는 민재에게 “외제차 타는 경찰은 처음 본다”며 고개를 갸웃거린다. 이래도 되는지 싶은 민재에게 강윤은 상위 1% 상류층을 잡기 위해 필요한 유니폼이라 타이른다. 민재는 고급 빌라에서 호화로운 생활을 누리는 강윤의 돈이 어디에서 나온]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fkukinews%2F20211231062104071pznb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[TEN리뷰] 박소담 주연 '특송', 거침없는 질주..액션 쾌감은 '노리밋' (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211231224602337</link>
-            <guid>https://v.daum.net/v/20211231224602337</guid>
-            <pubDate>Fri, 31 Dec 2021 14:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자] 속도감은 아찔하고 액션은 맹렬하다. 걸크러쉬 매력을 장착한 박소담의 거침없는 질주는 심장박동을 치솟게 한다. 짜릿한 드라이빙 액션이 매력적인 영화 '특송'이다. 폐차 처리 영업장으로 위장하고 있는 백강산업은 사실 돈만 되면 물건도 사람도 배송하는 '특송' 전문 회사. 백강산업의 에이스 배송기사 장은하(박소담 분)는 백사장(김의성]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2F10asia%2F20211231224606562aimz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[무비가이드] 조진웅X최우식 '경관의 피', 새해 극장가 포문 여는 강렬한 범죄 수사극 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211231181503031</link>
-            <guid>https://v.daum.net/v/20211231181503031</guid>
-            <pubDate>Fri, 31 Dec 2021 09:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자] 조진웅, 최우식의 아슬아슬한 브로맨스 케미가 돋보이는 범죄 수사극 '경관의 피'가 새해를 여는 한국영화로 출격한다. 글로벌 히트 애니메이션 '씽'의 후속편으로, '슈퍼배드', '미니언즈' 제작진이 참여한 '씽2게더'가 관객들을 만난다. &nbsp;'경관의 피'-'원팀' 조진웅·최우식의 치열한 심리 싸움 감독 이규만 출연 조진웅, 최우]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2F10asia%2F20211231181506144orjl.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[잘봐, 박소담의 '특송'이다[한현정의 직구리뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211231180902975</link>
-            <guid>https://v.daum.net/v/20211231180902975</guid>
-            <pubDate>Fri, 31 Dec 2021 09:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[새로울 게 없을 줄 알았는데 의외로 신선하다. 착한 전개에도 쫄깃함은 살아 있고, 뻔한 결말인데도 끝까지 확인하고 싶다. ‘액션퀸’으로 완벽 변신한 박소담, 제대로 긴장감을 불어넣은 송새벽의 탄탄한 시너지로 완성된, 영화 ‘특송’이다. 영화는 특송 전문 업체 백강 산업의 특송 전문 드라이버 은하(박소담)의 미션 임파서블이다. 성공률 100%를 자랑하는 드]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fstartoday%2F20211231180907580xtpv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[가스사고로 돌아가신 부모님, 혼자 남은 아이의 성장 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211231174802540</link>
-            <guid>https://v.daum.net/v/20211231174802540</guid>
-            <pubDate>Fri, 31 Dec 2021 09:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[[김형욱 기자] ▲ &nbsp;넷플릭스 오리지널 영화 &lt;신의 손&gt; 포스터.    ⓒ 넷플릭스  &nbsp; 1970년생으로&nbsp;어느덧 50줄에 접어든 파올로 소렌티노 감독은 2000년대 이후 이탈리아 영화계를 대표하는 감독군들 중에서도 단연 두각을 나타내며 꾸준히 좋은 작품들을 내놓았다. 칸 영화제 심사위원상을 받은 &lt;일 디보&gt;, 미국·영국 아카데미와 골든 글러브]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fohmynews%2F20211231174803979vbyb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['특송' 박소담X송새벽, 액션+재미 다 잡았다..시사회 호평 릴레이 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211231171858638</link>
-            <guid>https://v.daum.net/v/20211231171858638</guid>
-            <pubDate>Fri, 31 Dec 2021 09:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=연휘선 기자]&nbsp;기상천외한 드라이빙 테크닉과 박진감 넘치는 추격전으로 새해 극장가를 사로잡을 범죄 오락 액션 영화 '특송'이 성황리에 언론 시사회를 마치며 호평을 받고 있다.&nbsp; 영화 '특송'(감독 박대민, 제공배급 NEW, 공동제공 Library Pictures International, 제작 엠픽처스) 측은 30일 언론배급시사회를 개최하며&nbsp;2]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fpoctan%2F20211231171858410jpfe.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[진하고 뜨거운! 조진웅-최우식 '경관의 피'[영화보고서:리뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211231170742708</link>
-            <guid>https://v.daum.net/v/20211231170742708</guid>
-            <pubDate>Fri, 31 Dec 2021 08:24:09 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] 선악 그 중에서도 악의 판단 기준에 대한 물음은 장르상 범죄, 스릴러 등으로 구분되는 영화의 제작 동기로 종종 쓰이곤 한다. 그 문제제기가 ‘So What’이 아닌 최소 논란거리가 된다면 해당 영화는 ‘웰 메이드’ 타이틀을 통상 달게 된다. 호불호가 다분히 주관적이라면 선악의 경우 사람과 사람 사실 ‘관계’에서 비롯됨으로 다수가]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fnewsen%2F20211231170743910iwwc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['경관의 피' 조진웅·최우식, '놀라운 토요일' 출격..케미 폭발 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211231170519027</link>
-            <guid>https://v.daum.net/v/20211231170519027</guid>
-            <pubDate>Fri, 31 Dec 2021 08:24:09 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 조진웅, 최우식 / 사진=tvN '경관의 피'의 두 주역 조진웅과 최우식이 '놀라운 토요일'에 출격해 영화 홍보에 나선다. 내년 1월 1일 영화 '경관의 피'의 주연 배우 조진웅, 최우식이 tvN 예능프로그램 '놀라운 토요일'에 출연해 예능감을 뽐낼 예정이다. 영화 '경관의 피'는 위법 수사도 개의치 않는 광수대 에이스 강윤]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fstarnews%2F20211231170522273fhmz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['사생활 논란' 엄태웅, 본격 복귀 시동 "내년엔 더 좋을 것" [이슈&톡] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211231162606189</link>
-            <guid>https://v.daum.net/v/20211231162606189</guid>
-            <pubDate>Fri, 31 Dec 2021 08:24:09 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 엄태웅이 사생활 논란 이후 5년 만에 근황을 전하며 본격적인 복귀 시동을 걸었다. 오랜 자숙 기간이 있었던 만큼 그는 물론 아내 윤혜진을 향한 누리꾼들의 응원 물결이 이어지고 있다. 아내의 유튜브 채널 '윤혜진의 What see TV'의 촬영 감독으로 활약하고 있는 엄태웅은 31일 공개된 '21년도 마지막 영상은 지극히 평범하]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Ftvdaily%2F20211231162609447tzbz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['특송' 박소담, 남자 도움 따윈 필요 없다(종합)[Oh!쎈 리뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211231153113183</link>
-            <guid>https://v.daum.net/v/20211231153113183</guid>
-            <pubDate>Fri, 31 Dec 2021 07:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;북한이탈주민 은하(박소담 분)는 특송 전문업체 백강산업의 에이스 직원. 백 사장(김의성 분)의 말을 잔소리로 무시하지만 가슴 속 깊숙이 그를 믿고 따른다.(※이 기사에 스포일러가 있습니다.) 백 사장은 위험성이 높지만 수익성이 좋은 배송건을 잡아오고, 이를 에이스 은하에게 맡긴다. 평소 그 어떤 배달이든 군말 없이 소화해온 그녀]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fpoctan%2F20211231153114195kyur.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["놓칠 부분 없어"..'웨스트 사이드 스토리' 최정원→차지연, 만장일치 추천 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211231142735984</link>
-            <guid>https://v.daum.net/v/20211231142735984</guid>
-            <pubDate>Fri, 31 Dec 2021 07:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '웨스트 사이드 스토리'(감독 스티븐 스필버그)가 레전드 뮤지컬의 귀환을 확인케 하는 만장일치 추천 영상을 공개했다. '웨스트 사이드 스토리'는 자신을 가둔 환경과 운명에 순응하지 않고 자신만의 세상을 꿈꾸는 마리아(레이첼 지글러 분)와 토니(안셀 엘고트)의 사랑과 용기를 그린 작품이다. "어메이징한 작품", "천재와]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fxportsnews%2F20211231142738160lzfv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[원진아X조준영 '해피 뉴 이어' 카카오 '음(mm)' 스페셜 GV 개최 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211231142655968</link>
-            <guid>https://v.daum.net/v/20211231142655968</guid>
-            <pubDate>Fri, 31 Dec 2021 07:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '해피 뉴 이어' 곽재용 감독과 원진아, 조준영이 카카오 ‘음(mm)’에서 오디오 GV로 관객들과 만난다. 12월 29일 공개와 동시에 한국영화 박스오피스 1위, 티빙 인기 영화 순위 1위를 차지한 영화 '해피 뉴 이어'(감독 곽재용)가 관객들의 뜨거운 성원에 보답하기 위해 2022년 1월 1일 오후 5시 카카오 ‘음(mm)’을 통]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fnewsen%2F20211231142655260qpzq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[차지연 "'웨스트 사이드 스토리' 손가락 끝까지 놓칠 부분이 없다" 호평 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211231141427735</link>
-            <guid>https://v.daum.net/v/20211231141427735</guid>
-            <pubDate>Fri, 31 Dec 2021 05:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '웨스트 사이드 스토리' 레전드 뮤지컬의 귀환을 확인케 하는 만장일치 추천 영상을 공개했다. 1월 12일 개봉하는 영화 '웨스트 사이드 스토리'(감독 스티븐 스필버그)는 자신을 가둔 환경과 운명에 순응하지 않고 자신만의 세상을 꿈꾸는 ‘마리아’(레이첼 지글러)와 ‘토니’(안셀 엘고트)의 사랑과 용기를 그린 작품. “어메이징한 작품]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fnewsen%2F20211231141428074fgim.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화관, 밤 10시 영업제한에서 '9시까지 입장'으로 변경 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211231140605557</link>
-            <guid>https://v.daum.net/v/20211231140605557</guid>
-            <pubDate>Fri, 31 Dec 2021 05:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[[성하훈 기자] ▲ &nbsp;연말을 맞은 서울시내 한 영화관 모습    ⓒ 성하훈  &nbsp; 코로나19에 따른 사회적 거리두기 강화가 1월 16일까지로 2주 연장된 가운데 영화관 상영제한은 사실상 원상회복됐다. 영화계의 강력한 요구를 정부가 받아들인 것이다. 권덕철 중앙재난안전대책본부(중대본) 1차장 겸 보건복지부 장관은 31일 오전 정부서울청사에서 열린]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fohmynews%2F20211231140606592uyif.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['경관의 피' 권율, 캐릭터 위해 12kg 증량→치명적 섹시 빌런 탄생 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211231140007390</link>
-            <guid>https://v.daum.net/v/20211231140007390</guid>
-            <pubDate>Fri, 31 Dec 2021 07:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[배우 권율이 ‘경관의 피’로 역대급 섹시 빌런 비주얼을 선보인다. 권율은 영화 ‘경관의 피’에서 상류층 출신 범죄자 나영빈 역할을 맡았다. 상위 1%와 교류하며 불법적인 사업을 추진하는 나영빈은 합법적으로 검거가 쉽지 않은 인물. 3년 전 박강윤(조진웅 분)이 체포했지만, 인맥과 배경을 동원해 빠져나간 전적이 있어 경찰들을 분노하게 만드는 범죄자다. 이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fmksports%2F20211231140012120ncsq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[이조로 변호사의 작품 속 법률산책 - '킹스맨:퍼스트 에이전트'의 유기죄 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211231135106183</link>
-            <guid>https://v.daum.net/v/20211231135106183</guid>
-            <pubDate>Fri, 31 Dec 2021 10:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘킹스맨:퍼스트 에이전트’(감독 매튜 본)는 ‘매너가 사람을 만든다(Manners maketh man)’라는 대사로 유명한 ‘킹스맨 시리즈’ 3번째 작품입니다. 원작은 만화가 마크 밀러와 데이브 기번스의 작품인 ‘시크릿 서비스((The Secret Service)’라고 합니다. 작품 속에서, 포로수용소에 구호품을 전달하러 간 옥]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Ffnnewsi%2F20211231135106609dqwa.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["천재와 뮤지컬의 만남"..'웨스트 사이드 스토리', 만장일치 추천 세례 화제 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211231135043168</link>
-            <guid>https://v.daum.net/v/20211231135043168</guid>
-            <pubDate>Fri, 31 Dec 2021 05:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 2022년, 새로운 세상을 꿈꾸는 모두에게 특별한 메시지를 선사할 영화 '웨스트 사이드 스토리'가 레전드 뮤지컬의 귀환을 확인케 하는 만장일치 추천 영상을 공개했다. 영화 '웨스트 사이드 스토리'가 김문정 음악 감독을 비롯해 다양한 분야에서 활약하는 셀럽들의 극찬을 담아낸 만장일치 추천 영상을 공개해 눈길을 끈다. '웨스트]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fmydaily%2F20211231135043508bsrp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["새해 여는 짜릿한 질주"..박소담 주연 '특송', 액션+쾌감 폭발 '호평 세례' (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211231134203987</link>
-            <guid>https://v.daum.net/v/20211231134203987</guid>
-            <pubDate>Fri, 31 Dec 2021 05:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자] 기상천외한 드라이빙 테크닉과 박진감 넘치는 추격전으로 새해 극장가를 사로잡을 범죄 오락 액션 '특송'이 지난 30일 언론배급시사회를 성황리에 마쳤다. '특송'은 성공률 100%의 특송 전문 드라이버 은하가 예기치 못한 배송사고에 휘말리면서 벌어지는 추격전을 그린 범죄 오락 액션 영화. 지난 30일 언론배급시사회를 개최해 2022]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2F10asia%2F20211231134205622kgog.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['웨스트 사이드 스토리' 스티븐 스필버그, 윤제균과 대담서 "'국제시장' 좋아해" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211231132821738</link>
-            <guid>https://v.daum.net/v/20211231132821738</guid>
-            <pubDate>Fri, 31 Dec 2021 05:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠한국 모신정 기자] 할리우드 영화 '웨스트 사이드 스토리'가 스티븐 스필버그 감독과 윤제균 감독의 특별 대담 영상을 공개했다. 오는 1월 12일 개봉을 앞둔 영화  '웨스트 사이드 스토리'의 스티븐 스필버그 감독과 '국제시장' '해운대' 윤제균 감독의 특별한 인터뷰가 공개됐다. 영화 '웨스트 사이드 스토리'는 자신을 가둔 환경과 운명에 순응하지]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2FSpoHankook%2F20211231132823203ceog.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['웨스트 사이드 스토리' 스티븐 스필버그X윤제균 감독, 특별 대담 인터뷰 공개 "세상에서 가장 존경" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211231132145616</link>
-            <guid>https://v.daum.net/v/20211231132145616</guid>
-            <pubDate>Fri, 31 Dec 2021 04:26:07 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 뮤지컬 음악 영화 '웨스트 사이드 스토리'(스티븐 스필버그 감독)가 스티븐 스필버그 감독과 윤제균 감독의 특별 대담 영상을 공개했다. 각각 할리우드와 충무로를 대표하는 영화인이자, 연출뿐 아니라 제작자로서도 뛰어난 활약을 펼치고 있는 두 감독, 스티븐 스필버그와 윤제균. 무엇보다도 필모그래피 사상 첫 뮤지컬 영화로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2FSpoChosun%2F20211231132146003slfq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[무비차트TEN] "영화관 9시까지"..'스파이더맨' 새해 600만 간다→'경관의 피' 흥행 청신호 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211231131601476</link>
-            <guid>https://v.daum.net/v/20211231131601476</guid>
-            <pubDate>Fri, 31 Dec 2021 04:26:07 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=노규민 기자] 영화 '스파이더맨: 노 웨이 홈'이 600만 돌파를 향해 거침없이 질주중이다. 개봉 이후 16일 동안 폭발적인 관객몰이로, 코로나 사태 이후 최고 흥행작이 됐다. 여기에 정부가 영화계의 호소에 응답, 영화관 운영 시간을 조정해 흥행에 탄력을 받게 됐다. 2022년 새해 개봉하는 한국영화 '경관의 피'까지 '스파이더맨: 노 웨이 홈']]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2F10asia%2F20211231131604584vbcc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<아이 스틸 빌리브> 뮤직 예고편 (우리 영화 볼래?)]]></title>
@@ -1467,7 +1307,7 @@
             <link>https://tv.naver.com/v/24376888</link>
             <guid>https://tv.naver.com/v/24376888</guid>
             <pubDate>Fri, 31 Dec 2021 10:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_136/YBF9f_1640942816301mMPKP_JPEG/b84e404a-6a1b-11ec-a789-a0369ff94f34_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1475,7 +1315,7 @@
             <link>https://tv.naver.com/v/24376850</link>
             <guid>https://tv.naver.com/v/24376850</guid>
             <pubDate>Fri, 31 Dec 2021 10:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_63/CTGhj_1640942607830qaXWd_JPEG/34441128-6a1b-11ec-ad60-505dacfba98a_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1483,7 +1323,7 @@
             <link>https://tv.naver.com/v/24375862</link>
             <guid>https://tv.naver.com/v/24375862</guid>
             <pubDate>Fri, 31 Dec 2021 08:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_79/587Qi_164093896759053Kfw_JPEG/ad83478a-6a12-11ec-8a04-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1491,7 +1331,7 @@
             <link>https://tv.naver.com/v/24375809</link>
             <guid>https://tv.naver.com/v/24375809</guid>
             <pubDate>Fri, 31 Dec 2021 08:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_242/G9LMw_1640938774040hafI3_JPEG/458a2702-6a12-11ec-8e73-505dac8c37f3_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1499,7 +1339,7 @@
             <link>https://tv.naver.com/v/24375762</link>
             <guid>https://tv.naver.com/v/24375762</guid>
             <pubDate>Fri, 31 Dec 2021 08:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_66/bjF7O_1640938592468n7GFA_JPEG/ce22110c-6a11-11ec-bf52-a0369ff9545c_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1507,7 +1347,7 @@
             <link>https://tv.naver.com/v/24375708</link>
             <guid>https://tv.naver.com/v/24375708</guid>
             <pubDate>Fri, 31 Dec 2021 08:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_95/hbsB8_1640938372388WoGiX_JPEG/56f5a47f-6a11-11ec-b8bc-246e963a4708_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1515,7 +1355,7 @@
             <link>https://tv.naver.com/v/24375279</link>
             <guid>https://tv.naver.com/v/24375279</guid>
             <pubDate>Fri, 31 Dec 2021 08:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_186/006LJ_1640936702958KXesg_JPEG/48138347-6a0d-11ec-b776-246e963a49a8_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1523,7 +1363,7 @@
             <link>https://tv.naver.com/v/24375205</link>
             <guid>https://tv.naver.com/v/24375205</guid>
             <pubDate>Fri, 31 Dec 2021 08:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_239/r0jYI_1640936430633ume10_JPEG/1640936265491.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1531,7 +1371,7 @@
             <link>https://tv.naver.com/v/24372767</link>
             <guid>https://tv.naver.com/v/24372767</guid>
             <pubDate>Fri, 31 Dec 2021 07:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_240/h34JN_1640928737412X2XUD_JPEG/9c17d239-69fa-11ec-bf61-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1539,7 +1379,7 @@
             <link>https://tv.naver.com/v/24372348</link>
             <guid>https://tv.naver.com/v/24372348</guid>
             <pubDate>Fri, 31 Dec 2021 05:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_233/OwxOZ_1640927456786Fjqaw_JPEG/9caacb2d-69f7-11ec-9576-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1547,7 +1387,7 @@
             <link>https://tv.naver.com/v/24370222</link>
             <guid>https://tv.naver.com/v/24370222</guid>
             <pubDate>Fri, 31 Dec 2021 03:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_243/GYLTy_1640919611608pdu7Y_JPEG/92f7bfb4-69e5-11ec-810a-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1555,7 +1395,7 @@
             <link>https://tv.naver.com/v/24370090</link>
             <guid>https://tv.naver.com/v/24370090</guid>
             <pubDate>Fri, 31 Dec 2021 03:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_91/Lf2DB_1640919275180wfgyy_JPEG/e34ac21e-69e4-11ec-8cee-a0369ff95678_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1563,7 +1403,7 @@
             <link>https://tv.naver.com/v/24368789</link>
             <guid>https://tv.naver.com/v/24368789</guid>
             <pubDate>Fri, 31 Dec 2021 02:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_22/BNoJW_1640915081671c6dww_JPEG/15a06439-69db-11ec-908e-48df379cc9e4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1571,7 +1411,7 @@
             <link>https://tv.naver.com/v/24368565</link>
             <guid>https://tv.naver.com/v/24368565</guid>
             <pubDate>Fri, 31 Dec 2021 02:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_86/SMEDb_1640914217772nu5VY_JPEG/0e099036-69d9-11ec-be2f-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1579,7 +1419,7 @@
             <link>https://tv.naver.com/v/24368514</link>
             <guid>https://tv.naver.com/v/24368514</guid>
             <pubDate>Fri, 31 Dec 2021 02:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_182/VRKuP_1640913864393oid8e_JPEG/40399314-69d8-11ec-9576-48df379ccacc_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1587,7 +1427,7 @@
             <link>https://tv.naver.com/v/24368379</link>
             <guid>https://tv.naver.com/v/24368379</guid>
             <pubDate>Fri, 31 Dec 2021 02:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_142/1YdbR_1640913097196Ei6QL_JPEG/80e4aaaa-69d6-11ec-a831-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1595,7 +1435,7 @@
             <link>https://tv.naver.com/v/24368176</link>
             <guid>https://tv.naver.com/v/24368176</guid>
             <pubDate>Fri, 31 Dec 2021 01:06:05 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_57/D6aDk_1640912066368YrLoq_JPEG/f1ac2755-69d3-11ec-9d44-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
