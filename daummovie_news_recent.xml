@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 09:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 10:22:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fmksports%2F20211231140012120ncsq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[이조로 변호사의 작품 속 법률산책 - '킹스맨:퍼스트 에이전트'의 유기죄]]></title>
+            <link>https://v.daum.net/v/20211231135106183</link>
+            <guid>https://v.daum.net/v/20211231135106183</guid>
+            <pubDate>Fri, 31 Dec 2021 10:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘킹스맨:퍼스트 에이전트’(감독 매튜 본)는 ‘매너가 사람을 만든다(Manners maketh man)’라는 대사로 유명한 ‘킹스맨 시리즈’ 3번째 작품입니다. 원작은 만화가 마크 밀러와 데이브 기번스의 작품인 ‘시크릿 서비스((The Secret Service)’라고 합니다. 작품 속에서, 포로수용소에 구호품을 전달하러 간 옥]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Ffnnewsi%2F20211231135106609dqwa.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA["천재와 뮤지컬의 만남"..'웨스트 사이드 스토리', 만장일치 추천 세례 화제]]></title>
             <link>https://v.daum.net/v/20211231135043168</link>
             <guid>https://v.daum.net/v/20211231135043168</guid>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 31 Dec 2021 04:26:07 GMT</pubDate>
             <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 기가 막히게 운전을 잘하는 주인공이 어떤 사건에 휘말려 격정적인 카체이싱 추격전을 벌이는 이야기는 영화 '택시' 시리즈나 '베이비 드라이버' 등에서 레퍼런스를 찾을 수 있다. '특송'은 그런 카체이싱 추격전에서 조금 더 나아가 쿨한 여자 주인공과 귀여운 아역을 내세웠고, 이를 통해 나름대로의 새로움과 신선함을 보여준다.]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2FNEWS1%2F20211231130004237qbxk.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[D:인터뷰] 한계 없는 윤계상]]></title>
-            <link>https://v.daum.net/v/20211231125255894</link>
-            <guid>https://v.daum.net/v/20211231125255894</guid>
-            <pubDate>Fri, 31 Dec 2021 07:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[윤계상은 '유체이탈자'에 "목숨을 걸었다"라고 자부할 수 있을 정도로 진심과 최선을 다했다. 스스로 확신할 수 있을 정도로 '유체이탈자' 속 윤계상의 액션 연기는 화려하고 단단했다. '유체이탈자'는 기억을 잃은 채 12시간마다 다른 사람의 몸에서 깨어나는 한 남자가 모두의 표적이 된 진짜 자신을 찾기 위해 사투를 벌이는 추적 액션이다. 해외 유수의 영화제]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fdailian%2F20211231125259092prec.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
