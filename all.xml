@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 08:24:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 09:21:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -263,6 +263,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F68f5102b7f5e04f97399636f44f612e14bcfadf9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[극장판 소드 아트 온라인 -프로그레시브- 별 없는 밤의 아리아 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155229</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155229</guid>
+            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F08f419cbf4467bb2bd9ea59132a53e3fcffe52ba" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[프렌치 디스패치 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=129414</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=129414</guid>
@@ -311,14 +319,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F19cc9a14f6c04ba6983251eeb7f53cd058119647" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 소드 아트 온라인 -프로그레시브- 별 없는 밤의 아리아 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155229</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155229</guid>
-            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F08f419cbf4467bb2bd9ea59132a53e3fcffe52ba" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[아멜리에 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=3188</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=3188</guid>
@@ -359,20 +359,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1021e3e3e714bc8ebf67f8c3e238a56ada885292" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[프랑스 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150559</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150559</guid>
-            <pubDate>Tue, 28 Dec 2021 23:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd73c8b8db17bf32ea113257ad68acb88fbed102f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[해탄적일천 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=2714</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=2714</guid>
             <pubDate>Tue, 28 Dec 2021 13:25:47 GMT</pubDate>
             <content:encoded><![CDATA[22.01.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd26d9eb682eda5d237bf3cd0bfc2bf36fcb97458" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[프랑스 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150559</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150559</guid>
+            <pubDate>Tue, 28 Dec 2021 23:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd73c8b8db17bf32ea113257ad68acb88fbed102f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[피드백 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -551,20 +551,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fnewsen%2F20211231070006508lidp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['샹치' 속편 만든다..크레턴 감독 각본·연출 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211231114819256</link>
-            <guid>https://movie.v.daum.net/v/20211231114819256</guid>
-            <pubDate>Fri, 31 Dec 2021 07:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 한미희 기자 = 마블의 첫 아시안 히어로 영화 '샹치와 텐 링즈의 전설'이 속편 제작에 들어간다. 7일 미국 연예 매체 데드라인에 따르면 디즈니는 데스틴 대니얼 크레턴 감독이 '샹치' 속편의 각본과 연출로 돌아온다고 공식 발표했다. 이와 함께 크레턴 감독은 디즈니의 마블 스튜디오, 훌루의 오닉스 콜렉티브와 다년간의 독점 계약을 맺고 디]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fyonhap%2F20211231114820034iaoo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[단독]"후배 아닌 친구 변요한, 공동수상 원했다"..설경구, '자산어보'로 19년만 들어올린 청룡 트로피('청룡영화상') (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220101103351254</link>
             <guid>https://movie.v.daum.net/v/20220101103351254</guid>
             <pubDate>Sat, 01 Jan 2022 02:41:21 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠조선 이승미 기자] "'자산어보', '박하사탕' 이후에 만난 나의 새로운 인생작." 설경구(54)를 언제나 따라 다니는 '믿고 보는 배우라는 수식어'라는 타이틀의 진정성은 꽉꽉 들어찬 그의 필모그래피를 들여다 보기만 해도 알 수 있다. 코믹 오락물, 서스펜스 넘치는 스릴러, 절절한 드라마, 누와르부터 액션까지 모든 장르에 착 달라붙어]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F01%2FSpoChosun%2F20220101103351943olnu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['샹치' 속편 만든다..크레턴 감독 각본·연출 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211231114819256</link>
+            <guid>https://movie.v.daum.net/v/20211231114819256</guid>
+            <pubDate>Fri, 31 Dec 2021 07:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 한미희 기자 = 마블의 첫 아시안 히어로 영화 '샹치와 텐 링즈의 전설'이 속편 제작에 들어간다. 7일 미국 연예 매체 데드라인에 따르면 디즈니는 데스틴 대니얼 크레턴 감독이 '샹치' 속편의 각본과 연출로 돌아온다고 공식 발표했다. 이와 함께 크레턴 감독은 디즈니의 마블 스튜디오, 훌루의 오닉스 콜렉티브와 다년간의 독점 계약을 맺고 디]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fyonhap%2F20211231114820034iaoo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[한 해 버텨낸 당신에게.. 위로 건네는 스크린 동화들 (다음영화 뉴스 ─ 인기)]]></title>
@@ -607,14 +607,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F01%2Fsisapress%2F20220101135507131rbko.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['특송''마녀2''밀수' 등..NEW, 女風 몰고 온다 [2022 신년특집] ⑤ (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220101090059392</link>
-            <guid>https://movie.v.daum.net/v/20220101090059392</guid>
-            <pubDate>Sat, 01 Jan 2022 01:05:57 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 김혜수, 라미란, 조민수, 박소담 /사진=스타뉴스 2022년 새로운 한국영화와 외화들이 스크린을 찾는다. 코로나 팬데믹으로 개봉을 연기한 영화들이 올해 순차적으로 관객을 만날 계획을 세우고 있다. 올해 관객과의 만남을 기다리고 있는 2022년 영화들을 미리 짚었다. ━박소담 '특송', 조민수 '마녀2', 김혜수 '밀수', 라미란]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F01%2Fstarnews%2F20220101090100312kaxh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[인터뷰] 연상호, 만화 좋아하던 소년에서 세계 주목받는 감독 되기까지 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220101170640470</link>
             <guid>https://movie.v.daum.net/v/20220101170640470</guid>
@@ -629,6 +621,14 @@
             <pubDate>Sat, 01 Jan 2022 04:25:46 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 통쾌하고 짜릿하다. 손에 땀을 쥐게 만드는 자동차 추격신과 화려한 액션을 버무린 영화 '특송'이 본격 흥행 시동을 건다. 오는 12일 개봉하는 '특송'은 성공률 100%의 '특송' 전문 드라이버 은하가 예기치 못한 배송 사고에 휘말리면서 벌어지는 이야기를 다룬 영화다. 박소담이 데뷔 9년 만에 처음 도전하는 액션 주연작이라]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F01%2Fmydaily%2F20220101121642887vedt.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['특송''마녀2''밀수' 등..NEW, 女風 몰고 온다 [2022 신년특집] ⑤ (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220101090059392</link>
+            <guid>https://movie.v.daum.net/v/20220101090059392</guid>
+            <pubDate>Sat, 01 Jan 2022 01:05:57 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 김혜수, 라미란, 조민수, 박소담 /사진=스타뉴스 2022년 새로운 한국영화와 외화들이 스크린을 찾는다. 코로나 팬데믹으로 개봉을 연기한 영화들이 올해 순차적으로 관객을 만날 계획을 세우고 있다. 올해 관객과의 만남을 기다리고 있는 2022년 영화들을 미리 짚었다. ━박소담 '특송', 조민수 '마녀2', 김혜수 '밀수', 라미란]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F01%2Fstarnews%2F20220101090100312kaxh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['해적:도깨비 깃발' 문 열고 '한산'까지..롯데 라인업 [2022 신년특집]③ (다음영화 뉴스 ─ 인기)]]></title>
@@ -647,20 +647,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F01%2Fstarnews%2F20220101090148123ibbf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['스파이더맨: 노 웨이 홈' 새해 벽두 공고한 1위 [박스오피스] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220101111413866</link>
+            <guid>https://movie.v.daum.net/v/20220101111413866</guid>
+            <pubDate>Sat, 01 Jan 2022 09:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 이기은 기자] 영화 '스파이더맨 : 노 웨이 홈'이 2022년 첫날 박스오피스를 장악하며 흥행 아이콘 반열에 올랐다. 1일 영화진흥위원회 영화관입장권 통합전산망에 따르면 '스파이더맨 : 노 웨이 홈'(감독 존 왓츠)은 전날인 지난해 12월 31일 19만 1178명의 관객을 모으며 굳건한 1위를 유지했다. 누적관객수는 559만 903명으로 집계]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F01%2Ftvdaily%2F20220101111416167nmnp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[대만 거장 에드워드 양 데뷔작, 39년 만에 선보인다 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220101103001164</link>
             <guid>https://movie.v.daum.net/v/20220101103001164</guid>
             <pubDate>Sat, 01 Jan 2022 02:41:21 GMT</pubDate>
             <content:encoded><![CDATA[[김성호 기자] ▲ &nbsp;&lt;해탄적일천&gt; 포스터    ⓒ (주)에이썸 픽쳐스  &nbsp; 허우 샤오시엔, 차이밍량과 함께 대만영화를 대표하는 감독으로 불렸던 에드워드 양의 데뷔작이 무려 39년 만에 개봉을 앞뒀다. 네 번째 작품 &lt;고령가 살인 사건&gt;이 아시아를 대표하는 영화제를 휩쓸며 거장의 반열에 올랐으나 그의 첫 작품은 한국에 선보인 적이 없었다. &lt;]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F01%2Fohmynews%2F20220101103005930tkfn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['비상선언''압구정 리포트''시민덕희' 등..쇼박스 라인업 [2022 신년특집] ④ (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220101090117405</link>
-            <guid>https://movie.v.daum.net/v/20220101090117405</guid>
-            <pubDate>Sat, 01 Jan 2022 08:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] '비상선언' 송강호, 이병헌 전도연 등 /사진=각 배급사, 소속사 제공 2022년 새로운 한국영화와 외화들이 스크린을 찾는다. 코로나 팬데믹으로 개봉을 연기한 영화들이 올해 순차적으로 관객을 만날 계획을 세우고 있다. 올해 관객과의 만남을 기다리고 있는 2022년 영화들을 미리 짚었다. ━'비상선언' 개봉박두..'압구정 리포트']]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F01%2Fstarnews%2F20220101090119105evsc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 연상호, 만화 좋아하던 소년에서 세계 주목받는 감독 되기까지 (다음영화 뉴스 ─ 최신)]]></title>
@@ -1467,7 +1467,7 @@
             <link>https://tv.naver.com/v/24376888</link>
             <guid>https://tv.naver.com/v/24376888</guid>
             <pubDate>Fri, 31 Dec 2021 10:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_136/YBF9f_1640942816301mMPKP_JPEG/b84e404a-6a1b-11ec-a789-a0369ff94f34_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1603,7 +1603,7 @@
             <link>https://tv.naver.com/v/24338327</link>
             <guid>https://tv.naver.com/v/24338327</guid>
             <pubDate>Wed, 29 Dec 2021 10:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211229_158/65t2G_1640768673895iNBai_JPEG/027c000b-6886-11ec-9d44-48df37ae3dc4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1683,7 +1683,7 @@
             <link>https://tv.naver.com/v/24317254</link>
             <guid>https://tv.naver.com/v/24317254</guid>
             <pubDate>Tue, 28 Dec 2021 09:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_118/mCNxC_1640680353036Dc9U1_JPEG/546214b0-67b8-11ec-810a-505dac8c3607_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1691,7 +1691,7 @@
             <link>https://tv.naver.com/v/24317066</link>
             <guid>https://tv.naver.com/v/24317066</guid>
             <pubDate>Tue, 28 Dec 2021 09:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_209/sAWP9_1640679991945w4sTt_JPEG/a9594a53-67b7-11ec-bf52-a0369ff9545c_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
