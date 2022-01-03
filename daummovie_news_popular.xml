@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 15:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 16:32:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F03%2Fxportsnews%2F20220103152119955eqvh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[송새벽 "9살 딸 위해 제주살이 중, 이효리→강산에 이웃사촌"[EN:인터뷰③]]]></title>
-            <link>https://movie.v.daum.net/v/20220103105643051</link>
-            <guid>https://movie.v.daum.net/v/20220103105643051</guid>
-            <pubDate>Mon, 03 Jan 2022 10:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 송새벽이 이효리, 제아, 강산에와 "제주도 이웃사촌"이라고 밝혔다. 영화 '특송'(감독 박대민)에 출연한 송새벽은 1월 3일 온라인으로 진행된 인터뷰를 통해 현재 제주 살이 중이라고 밝혀 이목을 끌었다. 오는 12일 개봉하는 '특송'은 성공률 100%의 특송 전문 드라이버 '은하'가 예기치 못한 배송사고에 휘말리면서 벌어지는 추격전]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F03%2Fnewsen%2F20220103105643348uklk.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[5시간 18분 '해피아워' 국내 3천명 돌파..씨네필 필람 무비]]></title>
             <link>https://movie.v.daum.net/v/20220103153705440</link>
             <guid>https://movie.v.daum.net/v/20220103153705440</guid>
@@ -86,6 +78,14 @@
             <pubDate>Mon, 03 Jan 2022 11:16:43 GMT</pubDate>
             <content:encoded><![CDATA[슈만의 ‘트로이메라이’(꿈)를 연주하는 맑은 피아노 소리가 울려퍼진다. 멀리서 포탄 떨어지는 소리, 총격전이 벌어지는 소리가 들려온다. 어두컴컴한 임시 숙소 어딘가에서 아기가 운다. 내전이 진행 중인 시리아의 세카, 젊은 피아니스트 카림(타렉 야쿱)은 절망 속에서 희망을 연주하고 있다. 자유를 원하면 나가서 싸우라고, 음악은 도움이 되지 않는다고 말리는 사]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F02%2Fkukminilbo%2F20220102180451041glay.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[송새벽 "9살 딸 위해 제주살이 중, 이효리→강산에 이웃사촌"[EN:인터뷰③]]]></title>
+            <link>https://movie.v.daum.net/v/20220103105643051</link>
+            <guid>https://movie.v.daum.net/v/20220103105643051</guid>
+            <pubDate>Mon, 03 Jan 2022 10:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 송새벽이 이효리, 제아, 강산에와 "제주도 이웃사촌"이라고 밝혔다. 영화 '특송'(감독 박대민)에 출연한 송새벽은 1월 3일 온라인으로 진행된 인터뷰를 통해 현재 제주 살이 중이라고 밝혀 이목을 끌었다. 오는 12일 개봉하는 '특송'은 성공률 100%의 특송 전문 드라이버 '은하'가 예기치 못한 배송사고에 휘말리면서 벌어지는 추격전]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F03%2Fnewsen%2F20220103105643348uklk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[리뷰] '경관의 피', 익숙한 재료로 만들어낸 새로운 케미의 맛]]></title>
@@ -128,20 +128,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F02%2Fstarnews%2F20220102120009408mlek.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[전 세계 16관왕 석권 '피그', 2차 포스터 공개]]></title>
-            <link>https://movie.v.daum.net/v/20220103153020080</link>
-            <guid>https://movie.v.daum.net/v/20220103153020080</guid>
-            <pubDate>Mon, 03 Jan 2022 10:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계 유수 시상식에서 16관왕을 차지하고 41개 부문에 노미네이트된 마스터피스 드라마 '피그'가 2차 포스터와 런칭 예고편을 공개했다. '피그'(감독 마이클 사노스키)는 이름을 버린 남자 롭이 사라진 트러플 돼지와 인생의 가장 소중한 것을 되찾기 위해 떠나는 여정을 담은 마스터피스 드라마다. 크리틱스 초이스 어워즈를 포함해 전 세계 41개 부문에 노미네]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F03%2Fnocut%2F20220103153023379uvbg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[자매와 한 남자의 편지가 전하는 따뜻한 위로]]></title>
             <link>https://movie.v.daum.net/v/20220103110300429</link>
             <guid>https://movie.v.daum.net/v/20220103110300429</guid>
             <pubDate>Mon, 03 Jan 2022 13:26:35 GMT</pubDate>
             <content:encoded><![CDATA[[김봉건 기자] 대학 입시 학원에 다니는 영호(강하늘)는 벌써 세 번째 대입에 도전 중이다. 하지만 공부는 뜻대로 되지 않았다. 학원과 집을 오가는 일상은 무료하고 단조롭기 짝이 없었다. 매사가 심드렁했다. 그러던 어느 날, 영호는 초등학교 재학 시절 당시의 한 사건을 떠올리게 된다.&nbsp; 달리기 시합 도중 넘어진 자신에게 손수건을 건넨, 같은 학년의 한 소녀]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F03%2Fohmynews%2F20220103110302986xqpx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[전 세계 16관왕 석권 '피그', 2차 포스터 공개]]></title>
+            <link>https://movie.v.daum.net/v/20220103153020080</link>
+            <guid>https://movie.v.daum.net/v/20220103153020080</guid>
+            <pubDate>Mon, 03 Jan 2022 10:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계 유수 시상식에서 16관왕을 차지하고 41개 부문에 노미네이트된 마스터피스 드라마 '피그'가 2차 포스터와 런칭 예고편을 공개했다. '피그'(감독 마이클 사노스키)는 이름을 버린 남자 롭이 사라진 트러플 돼지와 인생의 가장 소중한 것을 되찾기 위해 떠나는 여정을 담은 마스터피스 드라마다. 크리틱스 초이스 어워즈를 포함해 전 세계 41개 부문에 노미네]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F03%2Fnocut%2F20220103153023379uvbg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['안테벨룸'X'하우스 오브 구찌'X'나일 강의 죽음', 새해는 미스터리 영화 풍년]]></title>
