@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-04T21:18:21.764Z</updated>
+    <updated>2022-01-04T22:20:25.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송강호가 안긴 실망감, '남매' 최우식-박소담이 책임진다 [TEN스타필드]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000522701</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000522701"/>
+        <updated>2022-01-04T22:19:03.369Z</updated>
+        <content type="html"><![CDATA[[텐아시아=김지원 기자] 《김지원의 인서트》 영화 속 중요 포인트를 확대하는 인서트 장면처럼 김지원 텐아시아 기자가 매주 수요일 영화계 이슈를 집중 조명합니다. 입체적 시각으로 화젯거리의 앞과 뒤를 세밀하게 살펴보겠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플, 전도연 주연 ‘길복순’ 제작 확정 [연예뉴스 HOT]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000954533</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000954533"/>
+        <updated>2022-01-04T22:19:03.369Z</updated>
+        <content type="html"><![CDATA[배우 전도연·설경구가 영화 ‘길복순’의 주연으로 만난다. 4일 넷플릭스는 “전도연과 설경구·이솜·구교환 등이 ‘길복순’에 출연한다”고 밝혔다. 영화는 청부살인업계의 전설적인 킬러 길복순이 피할 수 없는 대결에 휘말리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“전 남편 톰 크루즈 질문은 명백한 성차별”, 니콜 키드먼 분노[해외이슈]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003567210</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001203988"/>
         <updated>2022-01-04T09:19:48.744Z</updated>
         <content type="html"><![CDATA[개봉일을 하루 앞둔 영화 '경관의 피'가 전체 예매율 1위에 등극하며 쾌조의 출발을 알렸다. 영화 '경관의 피'는 위법 수사도 개의치 않는 광수대 에이스 강윤(조진웅)과 그를 감시하게 된 언더커버 신입경찰 민재(최우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['블러드써스티' 1월 개봉 확정 "섬뜩한 그로테스크, 공포 마니아 취향 저격"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003567156</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003567156"/>
-        <updated>2022-01-04T09:19:48.745Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]제25회 부천국제판타스틱영화제 월드 판타스틱 레드 부문에 공식 초청되며 화제를 모은 바 있는 영화 '블러드써스티'가 오는 2022년 1월 국내 정식 개봉을 확정 지으며 메인 포스터를 공개]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['해피 뉴 이어' 조준영, 스크린 도전하자마자 눈도장..기대주 우뚝]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003517303</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003517303"/>
-        <updated>2022-01-04T08:23:54.487Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] 신예 조준영이 ‘해피 뉴 이어’로 관객들에게 확실히 눈도장을 찍었다. 조준영은 지난해 12월 29일 티빙과 전국 극장에 동시 공개된 영화 ‘해피 뉴 이어’(감독 곽재용)에서 소진(한지민]]></content>
     </entry>
 </feed>
