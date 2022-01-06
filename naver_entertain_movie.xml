@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-06T12:33:36.085Z</updated>
+    <updated>2022-01-06T14:19:19.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문소리, 김희애·조진웅 이어 ‘잠적’ 출연…나홀로 떠난다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000842262</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000842262"/>
+        <updated>2022-01-06T14:17:51.855Z</updated>
+        <content type="html"><![CDATA[지난해 트리플 크라운을 달성한 23년차 배우 문소리가 ‘잠적’ 출연을 확정했다. 문소리는 디스커버리 채널 코리아와 스카이티브이의 SKY채널이 공동 제작한 시네마틱 로드무비 ‘잠적’의 다섯 번째 출연자로 나서며 춘천과]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송새벽·김의성 “박소담 갑상선 유두암, 많이 호전” [종합]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000955002</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000955002"/>
+        <updated>2022-01-06T14:17:51.855Z</updated>
+        <content type="html"><![CDATA[배우 송새벽과 김의성이 박소담 갑상선 유두암 투병 근황을 전했다. 송새벽과 김의성은 6일 방송된 SBS 파워FM ‘박하선의 씨네타운’에 영화 ‘특송’ 홍보 차 출연했다. 이날 김의성은 악역을 연기하지 않은 것에 대한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[회색지대에 선 ‘투캅스’의 고뇌… 많이 봤는데도 새롭다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003655072</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=088&amp;aid=0000739486"/>
         <updated>2022-01-06T09:20:08.728Z</updated>
         <content type="html"><![CDATA[◆경관의 피 감독:이규만 출연:조진웅, 최우식, 박희순 일본 작가 사사키 조의 동명 소설을 원작으로 한 범죄 수사극. 위법 수사도 개의치 않는 광역수사대 반장과 그를 감시하는 젊은 형사의 추적을 그리고 있다. 광역수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['씽2게더' 새해 첫 개봉 외화 박스오피스 1위, "흥행 포문 열었다"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003567718</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003567718"/>
-        <updated>2022-01-06T09:20:08.729Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]'씽2게더'(수입/배급: 유니버설 픽쳐스)가 개봉 첫날 금주 외화 개봉작 박스오피스 1위에 등극하며 새해 극장가 흥행 포문을 제대로 열었다. '씽2게더'가 영화진흥위원회 통합전산망 기준]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[영상] 이정재 등 '오징어게임' 관계자들 골든글로브 시상식 불참]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012902705</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012902705"/>
-        <updated>2022-01-06T09:20:08.729Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 미국 영화·방송업계가 골든글로브 보이콧 움직임을 보이는 가운데 넷플릭스 한국 오리지널 드라마 '오징어 게임' 관계자들도 시상식에 불참하기로 했습니다. 6일 이정재 소속사 아티스트컴퍼니는 골든글로브 TV 시리즈-드라마 부문 남우주연상 후보에 오른 이정재가 오는 9일(현지시간) 열리는 시상식에 참석하지 않는...]]></content>
     </entry>
 </feed>
