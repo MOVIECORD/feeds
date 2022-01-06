@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-06T18:24:47.255Z</updated>
+    <updated>2022-01-06T19:17:50.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 ‘경관의 피’ 개봉과 함께 박스오피스 1위]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001497097</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001497097"/>
+        <updated>2022-01-06T19:16:25.798Z</updated>
+        <content type="html"><![CDATA[새해 개봉한 한국 영화 ‘경관의 피’(이규만 감독·포스터)가 개봉 1일 만에 ‘스파이더맨: 노 웨이 홈’을 제치고 박스오피스 1위에 올랐다. 6일 영화진흥위원회 영화관입장권 통합전산망에 따르면 전날 개봉한 ‘경관의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["오겡끼데스까~", '러브레터' 재개봉…'이와이 월드' 재조명 [TF프리즘]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000125990</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004537247"/>
         <updated>2022-01-06T09:20:08.726Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 비주얼과 예능적 입담을 갖춘 것으로도 유명한 배우 권율(41)이 이번엔 사악한 얼굴로 돌아왔다. ‘경관의 피’는 국내 최대 마약범들을 잡기 위해 자신만의 신념을 밀고 나가는 경찰들의 이야기를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TEN인터뷰] '경관의 피' 권율 "하루 7끼로 12kg 증량…욕설 뱉으며 연기 연습"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000523185</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000523185"/>
-        <updated>2022-01-06T09:20:08.727Z</updated>
-        <content type="html"><![CDATA[[텐아시아=김지원 기자] 선악이 공존하는 얼굴을 가졌다는 건 배우로서 폭넓은 연기를 펼쳐 보일 수 있다는 강점을 가지게 된다. 배우 권율은 드라마 '보이스' 시리즈에서는 악랄한 사이코패스 살인마 역으로 긴장감을 드높]]></content>
     </entry>
 </feed>
