@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 11:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 12:32:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['해적: 도깨비 깃발' 메인 예고편 최초 공개 '숨 쉴 틈 없는 몰입감' (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000842431</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000842431</guid>
+            <pubDate>Fri, 07 Jan 2022 12:31:26 GMT</pubDate>
+            <content:encoded><![CDATA['해적: 도깨비 깃발' 메인 예고편이 공개됐다. 한국 오락 블록버스터의 한 획을 그었던 '해적'의 귀환'해적: 도깨비 깃발'은 흔적도 없이 사라진 왕실 보물의 주인이 되기 위해 바다로 모인 해적들의 스펙터클한 모험을]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[로빈 윌리엄스의 유작…TBS, 영화 '앵그리스트맨' 방영 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010933290</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[영화진흥위원회가 박기용 단국대학교 문화예술대학원 영화학과 주임교수를 신임 위원장으로 선출했다고 알렸다. 7일 영진위는 이날 2022년 제1차 정기회의에서 호선을 통해 박기용 위원을 신임 위원장으로 선출했다고 밝혔다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독] '육아휴직자 왜 정규직 전환?' 영진위 사무국장 실언 뭇매 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002338329</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002338329</guid>
-            <pubDate>Fri, 07 Jan 2022 07:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[영진위 노조 반발에 사무국장 "부적절 발언 인정하지만, 취지는 그게 아냐" ▲ 영화진흥위원회(자료사진) ⓒ 오마이스타 영화진흥위원회(아래 영진위) 현 사무국장이 내부 직원 인사위원회에서 한 발언 때문에 내부구성원들이]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[스파이더맨: 노 웨이 홈 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=146656</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=146656</guid>
@@ -262,6 +262,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcacacddbb61b9024b49c9a18b7779202ff0694c5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[매트릭스: 리저렉션 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137516</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137516</guid>
+            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4123c31005612fcdb4acaf7182d4397a9673b3f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[램 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150927</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150927</guid>
@@ -284,14 +292,6 @@
             <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
             <content:encoded><![CDATA[21.12.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F08f419cbf4467bb2bd9ea59132a53e3fcffe52ba" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[매트릭스: 리저렉션 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=137516</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=137516</guid>
-            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4123c31005612fcdb4acaf7182d4397a9673b3f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[노웨어 스페셜 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -318,6 +318,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3eebe1c0e14021f0772f11361f8e6aa8ab48a207" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[엔칸토: 마법의 세계 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152081</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152081</guid>
+            <pubDate>Fri, 07 Jan 2022 12:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F28a2bbf1962b4f0a48c72f49957c5e4604ca9ccc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[아멜리에 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=3188</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=3188</guid>
@@ -332,14 +340,6 @@
             <pubDate>Wed, 10 Nov 2021 23:16:34 GMT</pubDate>
             <content:encoded><![CDATA[21.11.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F143986c99895b2df85b359b06ebbe8f0ce12d5b9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[틱, 틱... 붐! (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151311</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151311</guid>
-            <pubDate>Fri, 07 Jan 2022 04:26:02 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b6e97a96e7580751875c5f93d691dfea78e85f6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[웨스트 사이드 스토리 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -534,6 +534,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F07%2FEdaily%2F20220107154924061jzfb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['죽음의 도시, 살아남아야 한다'..'레지던트 이블: 라쿤시티' 메인 포스터·예고편 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220107155328351</link>
+            <guid>https://movie.v.daum.net/v/20220107155328351</guid>
+            <pubDate>Fri, 07 Jan 2022 09:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '레지던트 이블: 라쿤시티'(감독 요하네스 로버츠)가 메인 포스터와 메인 예고편을 공개했다. '레지던트 이블: 라쿤시티'는 엄브렐러의 철수 후 좀비 바이러스에 의해 지옥으로 돌변한 라쿤시티를 탈출하기 위한 클레어(카야 스코델라리오 분)와 생존자들의 사투를 그린 서바이벌 액션 호러다. 공개된 메인 포스터는 바이러스 감염]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F07%2Fxportsnews%2F20220107155330897pfsh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[반은 양, 반은 인간.. 아기를 받아들인 부부에게 생긴 일 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220107134200615</link>
             <guid>https://movie.v.daum.net/v/20220107134200615</guid>
@@ -558,12 +566,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F07%2Fmydaily%2F20220107084511476ixrk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['죽음의 도시, 살아남아야 한다'..'레지던트 이블: 라쿤시티' 메인 포스터·예고편 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220107155328351</link>
-            <guid>https://movie.v.daum.net/v/20220107155328351</guid>
+            <title><![CDATA['킹메이커' DJ 참모 엄창록 실화 "비누향 등 기상천외 선거 전략" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220107141733536</link>
+            <guid>https://movie.v.daum.net/v/20220107141733536</guid>
             <pubDate>Fri, 07 Jan 2022 09:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '레지던트 이블: 라쿤시티'(감독 요하네스 로버츠)가 메인 포스터와 메인 예고편을 공개했다. '레지던트 이블: 라쿤시티'는 엄브렐러의 철수 후 좀비 바이러스에 의해 지옥으로 돌변한 라쿤시티를 탈출하기 위한 클레어(카야 스코델라리오 분)와 생존자들의 사투를 그린 서바이벌 액션 호러다. 공개된 메인 포스터는 바이러스 감염]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F07%2Fxportsnews%2F20220107155330897pfsh.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[다가오는 선거 시즌, 더욱 뜨거운 관심을 받는다. 오는 26일 개봉하는 영화 '킹메이커(변성현 감독)'가 김대중 전 대통령과 그의 선거 전략가 엄창록의 스토리를 모티브로 해 관심을 모으고 있는 가운데, 지난 5일 방송한 SBS '당신이 혹하는 사이 3'에서 이를 소재로 이야기를 다뤘다. 방송된 '당신이 혹하는 사이 3'에서는 1960-70년대, 김대중]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F07%2Filgansports%2F20220107141734962oixj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["목숨 걸고 지키고 싶었다" '시다'였던 엄마의 고백 (다음영화 뉴스 ─ 인기)]]></title>
@@ -580,14 +588,6 @@
             <pubDate>Fri, 07 Jan 2022 01:10:59 GMT</pubDate>
             <content:encoded><![CDATA[영화계는 2년 동안 코로나19로 방역조치가 강화되며 관객들과 멀어졌다. 많은 관객들과 만나길 기대했던 신작들은 개봉을 미루거나 OTT로 향했다. 이 영향은 고스란히 극장이 받았다. 신작이 부재하니, 관객 수는 감소할 수 밖에 없었다. 2년 동안 이 같은 악순환이 이어지면서 영화 산업 전체는 벼랑 끝에 몰렸다. 영화진흥위원회에 따르면 2020년 전체 극장 관]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F06%2Fdailian%2F20220106115345611fird.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['킹메이커' DJ 참모 엄창록 실화 "비누향 등 기상천외 선거 전략" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220107141733536</link>
-            <guid>https://movie.v.daum.net/v/20220107141733536</guid>
-            <pubDate>Fri, 07 Jan 2022 09:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[다가오는 선거 시즌, 더욱 뜨거운 관심을 받는다. 오는 26일 개봉하는 영화 '킹메이커(변성현 감독)'가 김대중 전 대통령과 그의 선거 전략가 엄창록의 스토리를 모티브로 해 관심을 모으고 있는 가운데, 지난 5일 방송한 SBS '당신이 혹하는 사이 3'에서 이를 소재로 이야기를 다뤘다. 방송된 '당신이 혹하는 사이 3'에서는 1960-70년대, 김대중]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F07%2Filgansports%2F20220107141734962oixj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[맨해튼 두 갱단 사이에서 피어난 사랑 (다음영화 뉴스 ─ 인기)]]></title>
@@ -1466,7 +1466,7 @@
             <link>https://tv.naver.com/v/24490702</link>
             <guid>https://tv.naver.com/v/24490702</guid>
             <pubDate>Fri, 07 Jan 2022 09:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220107_214/5D5x6_1641546913394aMMSc_JPEG/3266d78d-6f9a-11ec-ad60-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1474,7 +1474,7 @@
             <link>https://tv.naver.com/v/24490612</link>
             <guid>https://tv.naver.com/v/24490612</guid>
             <pubDate>Fri, 07 Jan 2022 09:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220107_225/vtvwH_1641546685119uXJuA_JPEG/93fcf26a-6f99-11ec-8e73-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1482,7 +1482,7 @@
             <link>https://tv.naver.com/v/24489926</link>
             <guid>https://tv.naver.com/v/24489926</guid>
             <pubDate>Fri, 07 Jan 2022 09:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220107_51/eqiaa_1641544828035WuEBs_JPEG/2a24fd0e-6f95-11ec-8e73-505dac8c37f3_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1490,7 +1490,7 @@
             <link>https://tv.naver.com/v/24486042</link>
             <guid>https://tv.naver.com/v/24486042</guid>
             <pubDate>Fri, 07 Jan 2022 06:25:15 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220107_255/y59TG_1641534512724vHPkS_JPEG/4fbec4d7-6f7d-11ec-a831-48df379cca40_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1498,7 +1498,7 @@
             <link>https://tv.naver.com/v/24485971</link>
             <guid>https://tv.naver.com/v/24485971</guid>
             <pubDate>Fri, 07 Jan 2022 06:25:15 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220107_240/XDcmf_1641534303433s5k9I_JPEG/bb12ec95-6f7c-11ec-9190-505dac8c385b_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1506,7 +1506,7 @@
             <link>https://tv.naver.com/v/24485818</link>
             <guid>https://tv.naver.com/v/24485818</guid>
             <pubDate>Fri, 07 Jan 2022 06:25:15 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220107_200/K2CFF_1641533837058LIfSh_JPEG/bbbe15d2-6f7b-11ec-9005-a0369ff952f4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1514,7 +1514,7 @@
             <link>https://tv.naver.com/v/24483031</link>
             <guid>https://tv.naver.com/v/24483031</guid>
             <pubDate>Fri, 07 Jan 2022 04:26:56 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220107_183/MGRnB_1641524172858uKs55_JPEG/1641524149624.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1522,7 +1522,7 @@
             <link>https://tv.naver.com/v/24481340</link>
             <guid>https://tv.naver.com/v/24481340</guid>
             <pubDate>Fri, 07 Jan 2022 02:43:10 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220107_35/3JnA5_1641518863922bGqEQ_JPEG/9b9a5244-6f58-11ec-895c-a0369ff94ed0_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1530,7 +1530,7 @@
             <link>https://tv.naver.com/v/24481150</link>
             <guid>https://tv.naver.com/v/24481150</guid>
             <pubDate>Fri, 07 Jan 2022 02:43:10 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220107_218/4nDf7_164151825889259wB4_JPEG/2724e59c-6f57-11ec-9d44-48df37ae3dc4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
