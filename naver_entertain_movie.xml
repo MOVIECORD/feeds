@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-08T21:19:21.018Z</updated>
+    <updated>2022-01-08T22:22:41.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['특송', 악당 송새벽의 재발견 [N초점]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005833076</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005833076"/>
+        <updated>2022-01-08T22:21:10.399Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '방자전'(2010, 감독 김대우)이 나왔을 때, 주연 배우들 만큼이나 주목을 받았던 조연 배우가 있었다. 변학도 역할을 맡은 그는 고전소설 '춘향전' 속에서는 상상하기 어려웠던]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“요즘 후배들 액션 스턴트 못하고 열심히 일 안해”, 성룡 ‘라떼 발언’ 논란[해외이슈]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003568244</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000523501</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000523501"/>
         <updated>2022-01-08T06:23:11.643Z</updated>
-        <content type="html"><![CDATA[[텐아시아=조준원 기자]가수 겸 배우 진영이 8일 오후 서울 용산구 CGV용산점에서 열린 영화 '씽2게더' 무대인사에 참석해 관객에게 인사를 하고 있다. 조준원 기자 wizard333@tenasia.co.kr]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TEN 포토] 진영 '심쿵 눈맞춤']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000523500</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000523500"/>
-        <updated>2022-01-08T06:23:11.644Z</updated>
         <content type="html"><![CDATA[[텐아시아=조준원 기자]가수 겸 배우 진영이 8일 오후 서울 용산구 CGV용산점에서 열린 영화 '씽2게더' 무대인사에 참석해 관객에게 인사를 하고 있다. 조준원 기자 wizard333@tenasia.co.kr]]></content>
     </entry>
 </feed>
