@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 18:25:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 19:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F09%2Fstarnews%2F20220109100009632nssw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[클리셰 범벅인 '특송', 박소담의 고군분투 [씨네뷰]]]></title>
+            <link>https://movie.v.daum.net/v/20220110104206824</link>
+            <guid>https://movie.v.daum.net/v/20220110104206824</guid>
+            <pubDate>Mon, 10 Jan 2022 10:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 처음부터 끝까지 기시감이 느껴지는 장면들 투성이다. 홀로 분투한 박소담만 유일하게 기억에 남는 '특송'이다. 12일 개봉하는 영화 '특송'(감독 박대민·제작 엠픽처스)은 특송 전문 드라이버 은하(박소담)가 예상치 못한 배송사고로 걷잡을 수 없는 사건에 휘말리고, 경찰과 국정원의 타깃이 되어 도심 한복판에서 추격전을 벌이는 액션]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F10%2Ftvdaily%2F20220110104209427ocpj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[왕십리 앞 노점상에서 30년, 딸 잃은 그녀의 절규]]></title>
             <link>https://movie.v.daum.net/v/20220110163000374</link>
             <guid>https://movie.v.daum.net/v/20220110163000374</guid>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 10 Jan 2022 10:22:30 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='노웨어 스페셜' 영화 '노웨어 스페셜' 국내 관객들 울리며 뜨거운 입소문을 탔다. '노웨어 스페셜'은 살 날이 얼마 남지 않은 창문 청소부 '존'이 혼자 세상에 남겨질 4살짜리 아들 '마이클'을 위해 특별한 부모를 찾는 여정을 그린 영화다. '스틸 라이프'로 베니스국제영화제 4관왕의 영예를 안은 우베르토 파솔리니 감독의]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F09%2Fstarnews%2F20220109094703417sytd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[클리셰 범벅인 '특송', 박소담의 고군분투 [씨네뷰]]]></title>
-            <link>https://movie.v.daum.net/v/20220110104206824</link>
-            <guid>https://movie.v.daum.net/v/20220110104206824</guid>
-            <pubDate>Mon, 10 Jan 2022 10:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 처음부터 끝까지 기시감이 느껴지는 장면들 투성이다. 홀로 분투한 박소담만 유일하게 기억에 남는 '특송'이다. 12일 개봉하는 영화 '특송'(감독 박대민·제작 엠픽처스)은 특송 전문 드라이버 은하(박소담)가 예상치 못한 배송사고로 걷잡을 수 없는 사건에 휘말리고, 경찰과 국정원의 타깃이 되어 도심 한복판에서 추격전을 벌이는 액션]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F10%2Ftvdaily%2F20220110104209427ocpj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['깐부 옹' 오영수, 한국 배우 최초 골든글로브 남우조연상 수상..이정재는 불발 [종합]]]></title>
