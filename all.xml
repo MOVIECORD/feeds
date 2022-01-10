@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 15:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 17:29:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -262,14 +262,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd26d9eb682eda5d237bf3cd0bfc2bf36fcb97458" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[피드백 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=130332</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=130332</guid>
-            <pubDate>Wed, 05 Jan 2022 01:06:46 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcacacddbb61b9024b49c9a18b7779202ff0694c5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[매트릭스: 리저렉션 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137516</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137516</guid>
@@ -302,12 +294,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F586181860b9d00790ff7677378467edc744d4ac2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[엔칸토: 마법의 세계 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152081</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152081</guid>
+            <pubDate>Mon, 10 Jan 2022 17:28:32 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F28a2bbf1962b4f0a48c72f49957c5e4604ca9ccc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[노웨어 스페셜 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143893</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143893</guid>
             <pubDate>Mon, 27 Dec 2021 15:29:30 GMT</pubDate>
             <content:encoded><![CDATA[21.12.29]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F68f5102b7f5e04f97399636f44f612e14bcfadf9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[피드백 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=130332</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=130332</guid>
+            <pubDate>Wed, 05 Jan 2022 01:06:46 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcacacddbb61b9024b49c9a18b7779202ff0694c5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[프렌치 디스패치 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -332,14 +340,6 @@
             <pubDate>Mon, 10 Jan 2022 08:24:48 GMT</pubDate>
             <content:encoded><![CDATA[21.11.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa0fcbda650c0e964ac945ebbe38c5ec8d2dc55ff" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[타이거마스크 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155756</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155756</guid>
-            <pubDate>Sun, 09 Jan 2022 06:23:39 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F74b3cfb0dbf6cf6608512b1759bc08dc83009e8f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[특송 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -534,14 +534,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F10%2Ftvdaily%2F20220110170208245rubz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[왕십리 앞 노점상에서 30년, 딸 잃은 그녀의 절규 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220110163000374</link>
-            <guid>https://movie.v.daum.net/v/20220110163000374</guid>
-            <pubDate>Mon, 10 Jan 2022 10:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[[윤일희 기자] 할머니 허리는 반이 접혀있다시피 했다. 족히 구순은 넘어 보였다. 할머니는 당신의 텃밭에서 따왔음직한 푸성귀 등을 가로수 그늘 아래 늘어놓고 팔고 있었다. 그 길은 장터가 아닌 것은 물론이고 인적이 번다한 곳도 아니어서, 난전을 펼치기에 마땅한 곳은 아니었다. 수확한 농작물을 파는 노인들은 종종 목격되지만 이렇게 고령의 할머니는 처음이었다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F10%2Fohmynews%2F20220110163003511nhvx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['해적: 도깨비 깃발' 2022년 韓영화 블록버스터 시험대..운명은? (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220110115201933</link>
             <guid>https://movie.v.daum.net/v/20220110115201933</guid>
@@ -556,6 +548,14 @@
             <pubDate>Mon, 10 Jan 2022 10:22:30 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='도쿄 리벤저스' 영화 '도쿄 리벤저스'의 주연을 맡은 배우들이 만화를 찢고 나온 듯한 놀라운 싱크로율을 자랑한다. '도쿄 리벤저스'는 희망 없이 살아가던 청년 타케미치(키타무라 타쿠미 분)가 첫사랑 여자친구의 사망 사고 뉴스를 본 후 10년 전 과거로 돌아가 운명을 바꾸기 위한 인생 리벤지를 시작하는 타임리프 드라마. 누]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F09%2Fstarnews%2F20220109100009632nssw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[왕십리 앞 노점상에서 30년, 딸 잃은 그녀의 절규 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220110163000374</link>
+            <guid>https://movie.v.daum.net/v/20220110163000374</guid>
+            <pubDate>Mon, 10 Jan 2022 10:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[[윤일희 기자] 할머니 허리는 반이 접혀있다시피 했다. 족히 구순은 넘어 보였다. 할머니는 당신의 텃밭에서 따왔음직한 푸성귀 등을 가로수 그늘 아래 늘어놓고 팔고 있었다. 그 길은 장터가 아닌 것은 물론이고 인적이 번다한 곳도 아니어서, 난전을 펼치기에 마땅한 곳은 아니었다. 수확한 농작물을 파는 노인들은 종종 목격되지만 이렇게 고령의 할머니는 처음이었다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F10%2Fohmynews%2F20220110163003511nhvx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['노웨어 스페셜', 따뜻한 감동 실화..뜨거운 입소문 (다음영화 뉴스 ─ 인기)]]></title>
@@ -582,20 +582,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F10%2Fsportskhan%2F20220110115109404ymyk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[안젤리나 졸리♥위켄드, 15살 연상연하 커플 탄생하나 "그녀를 사랑했다"[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220110061504429</link>
-            <guid>https://movie.v.daum.net/v/20220110061504429</guid>
-            <pubDate>Mon, 10 Jan 2022 10:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 안젤리나 졸리(46)와 15살 연하 팝스타 위켄드(31)의 열애설이 또 다시 불거졌다. 할리우드 매체 인스타일은 8일(현지시간) 위켄드의 5번째 스튜디오 앨범 ‘Dawn FM’의 수록곡 ‘Here We Go…Again’이 안젤리나 졸리와의 열애를 암시한다고 보도했다 이 노래의 가사에서 “그리고 나의 새로운 여]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F10%2Fmydaily%2F20220110061504380booz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[제작비 10배 수익, '가성비 감독'의 감동 수작 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220110104500946</link>
             <guid>https://movie.v.daum.net/v/20220110104500946</guid>
             <pubDate>Mon, 10 Jan 2022 10:22:30 GMT</pubDate>
             <content:encoded><![CDATA[[양형석 기자] 한국은 지난 2010년 밴쿠버 동계올림픽에서 금메달 6개, 은메달 6개, 동메달 2개로 종합 5위(금메달 우선 기준)의 성적을 거뒀고 2018년에는 평창 동계올림픽을 개최했던 동계스포츠 강국이다. 물론 한국이 따낸 메달이 쇼트트랙에 집중돼 있는 것은 한국 동계스포츠의 숙제지만 1988년 캘거리 동계 올림픽까지만 해도 참가에 의의를 두던 한국]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F10%2Fohmynews%2F20220110104504238httx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[안젤리나 졸리♥위켄드, 15살 연상연하 커플 탄생하나 "그녀를 사랑했다"[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220110061504429</link>
+            <guid>https://movie.v.daum.net/v/20220110061504429</guid>
+            <pubDate>Mon, 10 Jan 2022 10:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 안젤리나 졸리(46)와 15살 연하 팝스타 위켄드(31)의 열애설이 또 다시 불거졌다. 할리우드 매체 인스타일은 8일(현지시간) 위켄드의 5번째 스튜디오 앨범 ‘Dawn FM’의 수록곡 ‘Here We Go…Again’이 안젤리나 졸리와의 열애를 암시한다고 보도했다 이 노래의 가사에서 “그리고 나의 새로운 여]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F10%2Fmydaily%2F20220110061504380booz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['구찌' 로고 명품 이면에.. 욕망으로 무너진 가문 있었다 (다음영화 뉴스 ─ 인기)]]></title>
@@ -606,28 +606,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F10%2Fmunhwa%2F20220110101033918lrlt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[오영수, 골든글로브 남우조연상 수상 소감 "세계 여러분에게 감사해"[전문] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220110164852950</link>
-            <guid>https://movie.v.daum.net/v/20220110164852950</guid>
-            <pubDate>Mon, 10 Jan 2022 11:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 배우 오영수가 제79회 골든글로브 시상식에서 TV드라마 남우조연상 수상에 기쁜 소감을 밝혔다. 오영수는 10일 넷플릭스를 통해 “수상 소식을 듣고, 생애 처음으로 내가 나에게 ‘괜찮은 놈이야’라고 말했다”고 벅찬 소감을 전했다. 그는 “이제 ‘세계 속의 우리’가 아니고 ‘우리 속의 세계’다. 우리 문화의 향기를 안고, 가족에 대한 사랑]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F10%2Fsportskhan%2F20220110164854006bjpb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[딸을 죽인 살인범에게, "고맙다"고 한 엄마의 속마음 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220109130300759</link>
-            <guid>https://movie.v.daum.net/v/20220109130300759</guid>
-            <pubDate>Sun, 09 Jan 2022 05:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[[이인미 기자] 1990년대가 시작될 때까지 프랑스인들은 '연쇄살인범'이라는 건 영국 또는 미국에나 있는 거라고 생각해왔다.&nbsp;아닌 게 아니라&nbsp;1970년대와&nbsp;1980년대 영국과 미국에선 이미 연쇄살인사건이 활발했고(?),&nbsp;그중 미국이 확실히 연쇄살인사건의 온상이었지만,&nbsp;프랑스에서는 그런 사건들이 전혀 일어나지 않았기 때문이었다.&nbsp; &nbsp;        ▲ 우먼 앤]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F09%2Fohmynews%2F20220109130301444cnlv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['오징어게임' 오영수가 빛났던 골든글로브가 주목한 다른 작품은? (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220110183948075</link>
-            <guid>https://movie.v.daum.net/v/20220110183948075</guid>
-            <pubDate>Mon, 10 Jan 2022 13:28:10 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] 넷플릭스 오리지널 시리즈 '오징어 게임'에서 ‘깐부 할아버지’ 오일남 역으로 출연한 배우 오영수(78)가 미국 골든글로브 시상식 트로피를 품에 안았다. 오영수는 10일(한국시간) 열린 제79회 골든글로브 시상식에서 TV부문 남우조연상을 받았다. 한국 배우가 골든글로브 시상식에서 수상의 영예를 안은 것은 이번이 처음이다. 할리우드 외신기]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F10%2Fseouleconomy%2F20220110183952127tjgy.png" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['킹메이커' 박인환→배종옥, 압도적인 열연에 주목하라 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220110083939379</link>
+            <guid>https://movie.v.daum.net/v/20220110083939379</guid>
+            <pubDate>Mon, 10 Jan 2022 15:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 영화 '킹메이커'가 배우 박인환, 김종수, 윤경호, 배종옥의 압도적인 열연으로 완성도를 높였다. '킹메이커'(감독 변성현)는 세상을 바꾸기 위해 도전하는 정치인 김운범(설경구)과 존재도 이름도 숨겨진 선거 전략가 서창대(이선균)가 치열한 선거판에 뛰어들며 시작되는 드라마를 그린 작품. 오늘(10일) 공개된 스틸에는 장르를 불]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F10%2Fmydaily%2F20220110083939496fuui.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['파워 오브 도그'·'웨스트 사이드 스토리', 美 골든글로브 작품상 양분(종합) (다음영화 뉴스 ─ 인기)]]></title>
@@ -638,20 +622,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F10%2FSBSfunE%2F20220110160905478bnnw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['킹메이커' 박인환→배종옥, 압도적인 열연에 주목하라 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220110083939379</link>
-            <guid>https://movie.v.daum.net/v/20220110083939379</guid>
-            <pubDate>Mon, 10 Jan 2022 15:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 영화 '킹메이커'가 배우 박인환, 김종수, 윤경호, 배종옥의 압도적인 열연으로 완성도를 높였다. '킹메이커'(감독 변성현)는 세상을 바꾸기 위해 도전하는 정치인 김운범(설경구)과 존재도 이름도 숨겨진 선거 전략가 서창대(이선균)가 치열한 선거판에 뛰어들며 시작되는 드라마를 그린 작품. 오늘(10일) 공개된 스틸에는 장르를 불]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F10%2Fmydaily%2F20220110083939496fuui.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[우연히 만난 두 친구, 살 떨리는 묘한 기분은 뭐지? (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220110151504526</link>
             <guid>https://movie.v.daum.net/v/20220110151504526</guid>
             <pubDate>Mon, 10 Jan 2022 13:28:10 GMT</pubDate>
             <content:encoded><![CDATA[[장혜령 기자] * 이 글은 스포일러를 포함하고 있습니다. &nbsp;        ▲ &nbsp;넷플릭스 &lt;패싱&gt; 스틸컷    ⓒ 넷플릭스  &nbsp; 테사 톰프슨, 루스 네가, 안드레이 홀런드 주연의 영화 &lt;패싱&gt;이 넷플릭스에서 방영 중이다. 제목을 상징하는 '패싱'은 백인과 비슷한 외모와 피부색을 가진 흑인이 백인 행세를 하는, 즉 정체성의 탈바꿈을 뜻한다. 겉으로는 백인처럼]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F10%2Fohmynews%2F20220110151505741joly.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[오영수, 골든글로브 남우조연상 수상 소감 "세계 여러분에게 감사해"[전문] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220110164852950</link>
+            <guid>https://movie.v.daum.net/v/20220110164852950</guid>
+            <pubDate>Mon, 10 Jan 2022 11:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 배우 오영수가 제79회 골든글로브 시상식에서 TV드라마 남우조연상 수상에 기쁜 소감을 밝혔다. 오영수는 10일 넷플릭스를 통해 “수상 소식을 듣고, 생애 처음으로 내가 나에게 ‘괜찮은 놈이야’라고 말했다”고 벅찬 소감을 전했다. 그는 “이제 ‘세계 속의 우리’가 아니고 ‘우리 속의 세계’다. 우리 문화의 향기를 안고, 가족에 대한 사랑]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F10%2Fsportskhan%2F20220110164854006bjpb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['오징어게임' 오영수가 빛났던 골든글로브가 주목한 다른 작품은? (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220110183948075</link>
+            <guid>https://movie.v.daum.net/v/20220110183948075</guid>
+            <pubDate>Mon, 10 Jan 2022 13:28:10 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] 넷플릭스 오리지널 시리즈 '오징어 게임'에서 ‘깐부 할아버지’ 오일남 역으로 출연한 배우 오영수(78)가 미국 골든글로브 시상식 트로피를 품에 안았다. 오영수는 10일(한국시간) 열린 제79회 골든글로브 시상식에서 TV부문 남우조연상을 받았다. 한국 배우가 골든글로브 시상식에서 수상의 영예를 안은 것은 이번이 처음이다. 할리우드 외신기]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F10%2Fseouleconomy%2F20220110183952127tjgy.png" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[딸을 죽인 살인범에게, "고맙다"고 한 엄마의 속마음 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220109130300759</link>
+            <guid>https://movie.v.daum.net/v/20220109130300759</guid>
+            <pubDate>Sun, 09 Jan 2022 05:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[[이인미 기자] 1990년대가 시작될 때까지 프랑스인들은 '연쇄살인범'이라는 건 영국 또는 미국에나 있는 거라고 생각해왔다.&nbsp;아닌 게 아니라&nbsp;1970년대와&nbsp;1980년대 영국과 미국에선 이미 연쇄살인사건이 활발했고(?),&nbsp;그중 미국이 확실히 연쇄살인사건의 온상이었지만,&nbsp;프랑스에서는 그런 사건들이 전혀 일어나지 않았기 때문이었다.&nbsp; &nbsp;        ▲ 우먼 앤]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F09%2Fohmynews%2F20220109130301444cnlv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[오영수, 골든글로브..이정재·이병헌→문재인 대통령 축하 물결 [종합] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1314,7 +1314,7 @@
             <link>https://tv.naver.com/v/24528614</link>
             <guid>https://tv.naver.com/v/24528614</guid>
             <pubDate>Mon, 10 Jan 2022 10:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220110_221/Lqafc_1641806862015oxrzO_JPEG/710fbbc5-71f7-11ec-9005-a0369ff952f4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1322,7 +1322,7 @@
             <link>https://tv.naver.com/v/24527512</link>
             <guid>https://tv.naver.com/v/24527512</guid>
             <pubDate>Mon, 10 Jan 2022 09:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220110_198/z1AJP_1641804119381T2tro_JPEG/e1e714ad-71f0-11ec-a789-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1330,7 +1330,7 @@
             <link>https://tv.naver.com/v/24524639</link>
             <guid>https://tv.naver.com/v/24524639</guid>
             <pubDate>Mon, 10 Jan 2022 07:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220110_234/W4DDs_16417970720114LzMX_JPEG/899e79bc-71e0-11ec-8a04-505dac8c3639_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1338,7 +1338,7 @@
             <link>https://tv.naver.com/v/24518751</link>
             <guid>https://tv.naver.com/v/24518751</guid>
             <pubDate>Mon, 10 Jan 2022 02:40:15 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220110_110/53kfc_1641778305561OtsMv_JPEG/1641778302050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1346,7 +1346,7 @@
             <link>https://tv.naver.com/v/24518668</link>
             <guid>https://tv.naver.com/v/24518668</guid>
             <pubDate>Mon, 10 Jan 2022 02:40:15 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220110_223/wg4gr_1641778004130R4Wpp_JPEG/f39c3c94-71b3-11ec-810a-505dac8c3607_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1354,7 +1354,7 @@
             <link>https://tv.naver.com/v/24518561</link>
             <guid>https://tv.naver.com/v/24518561</guid>
             <pubDate>Mon, 10 Jan 2022 02:40:15 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220110_70/Scykn_1641777590377lvXIC_JPEG/cacd926f-71b2-11ec-8a84-a0369ff963bc_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
