@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-10T10:23:45.982Z</updated>
+    <updated>2022-01-10T11:17:50.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오영수, 골든글로브..이정재·이병헌→문재인 대통령 축하 물결 [종합]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003020093</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003020093"/>
+        <updated>2022-01-10T11:16:20.269Z</updated>
+        <content type="html"><![CDATA[넷플릭스 오리지널 시리즈 '오징어 게임'의 '깐부 할아버지' 오영수가 골든글로브 남우조연상을 수상한 가운데 축하 물결이 이어지고 있다. 제 79회 골든글로브 시상식이 10일 오전(한국시간) 개최됐다. 이날 골든글로브]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오영수 깐부 이정재 "선생님과 함께한 모든 장면 영광"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010936844</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010936844"/>
+        <updated>2022-01-10T11:16:20.269Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 이정재 소셜미디어 통해 축하 인사 전해 함께 출연한 이병헌도 SNS로 "Bravo!" 문재인 대통령 "존경·감사의 마음 전해" 여야 정치권 한목소리로 "축하와 감사" [서울=뉴시스] 손정빈 기자 = 배]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['특송' 박대민 감독 "여성 액션, 한계를 극복하는 쾌감에 매력느껴" [인터뷰M]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000143324</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000143316"/>
         <updated>2022-01-10T08:24:40.812Z</updated>
         <content type="html"><![CDATA[2022년 새해 극장가에 시원한 액션 쾌감을 선사할 웰메이드 범죄 오락 액션 '특송'이 전체 예매율 1위를 기록하며 흥행 청신호를 밝혔다. [제공/배급: NEW | 공동제공: Library Pictures Inter]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 권율, 설정값을 뛰어넘는 배우 '경관의 피']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000042780</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000042780"/>
-        <updated>2022-01-10T08:24:40.812Z</updated>
-        <content type="html"><![CDATA[권율의 인생 캐릭터가 재탄생했다. 새해 첫 개봉 한국 영화이자 회색 지대에 선 비리 경찰의 이야기를 담은 영화 '경관의 피'(감독 이규만)에서 마약 공장의 나영빈 사장 역을 맡은 그는 함께 캐릭터를 다듬어간 이규만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[게시판] 11일 '차별금지법 있는 나라' 영화 상영]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012908995</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012908995"/>
-        <updated>2022-01-10T08:24:40.826Z</updated>
-        <content type="html"><![CDATA[▲이주민 단체인 이주민센터 친구와 인권운동사랑방, 장애인부모연대 등 13개 시민단체는 공동으로 11일 오후 7시 서울 영등포구 서남권NPO 지원센터 다목적홀에서 '차별금지법 있는 나라에서 우리가 만들 내일'이라는 주]]></content>
     </entry>
 </feed>
