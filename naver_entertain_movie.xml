@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-11T18:24:36.363Z</updated>
+    <updated>2022-01-11T19:17:24.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대선 40일 남짓 앞두고 찾아오는 ‘DJ 킹메이커’ 이야기]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001498130</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001498130"/>
+        <updated>2022-01-11T19:16:01.580Z</updated>
+        <content type="html"><![CDATA[세상을 바꾸고 싶어하는 정치인 김운범(설경구) 앞에 같은 꿈을 가진 선거전략가 서창대(이선균)가 나타난다. 뜻은 원대하지만 정치적 열세에 놓인 김운범에게 서창대는 강력한 무기가 된다. 세상에 존재도, 이름도 알려지지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘특송’ 박소담 “갑상선 유두암 진단, 많이 놀라고 두려웠다”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001634835</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000143434"/>
         <updated>2022-01-11T09:20:19.441Z</updated>
         <content type="html"><![CDATA[영화 '특송'에서 첫 원톱 액션에 도전한 박소담은 고난도 카체이싱과 타격감 넘치는 액션을 완벽 소화하며 놀라움을 안겼다. '특송'은 성공률 100%의 특송 전문 드라이버 ‘은하’가 예기치 못한 배송사고에 휘말리면서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고수X이희준 '방관자들', 청문회 도중 첨예 대립..1차포스터 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003519887</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003519887"/>
-        <updated>2022-01-11T08:24:01.757Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] ‘방관자들’이 1차 포스터를 공개했다. ‘방관자들’은 함성으로 가득했던 2002년, 월드컵에 가려졌던 최악의 국회 청문회에서 드러난 숨겨진 진실을 포착한 단편 영화. ‘생존’이라는 키워드]]></content>
     </entry>
 </feed>
