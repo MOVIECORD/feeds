@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-11T02:41:10.296Z</updated>
+    <updated>2022-01-11T03:23:23.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['풀 하우스' 밥 사겟, 호텔서 사망한 채 발견…향년 66세 [N해외연예]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005837445</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005837445"/>
+        <updated>2022-01-11T03:21:53.548Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 스탠드업 코미디언이자 90년대 미국 유명 시트콤 '풀 하우스'의 주인공 밥 사겟이 세상을 떠났다. 9일(현지시간) 버라이어티에 따르면 밥 사겟은 플로리다 올랜도에 있는 리츠 칼튼 호텔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['매트릭스: 리저렉션' 흥행참패…잘 나가는 '스파이더맨'과 대조]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012910335</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012910335"/>
+        <updated>2022-01-11T03:21:53.548Z</updated>
+        <content type="html"><![CDATA[국내 관객 21만…북미 수익도 예상치 훨씬 밑돌아 바로 전편이 19년 전, 2030 유인 못해…"감독·출연진 매력도 떨어져" (서울=연합뉴스) 오보람 기자 = 할리우드 최대 기대작으로 거론됐던 SF 액션 영화 '매트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['웨스트 사이드 스토리' 스티븐 스필버그-야누즈 카민스키 거장들이 전하는 뒷이야기]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003020237</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005837050"/>
         <updated>2022-01-11T02:39:25.203Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 오영수가 제79회 골든글로브 시상식에서 넷플릭스 드라마 '오징어 게임'으로 TV부문 남우조연상을 수상한 가운데, 외신들도 그의 수상에 주목했다. 미국 CBS는 10일(현지시간)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[괴테의 남자가 메피스토텔레스와 어떻게 우정을 쌓을까?]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002338617</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002338617"/>
-        <updated>2022-01-11T02:39:25.211Z</updated>
-        <content type="html"><![CDATA[[리뷰] 영화 &lt;피부를 판 남자&gt; *주의! 이 기사에는 영화의 스포일러가 포함돼 있습니다. "인간은 노력하는 한 방황한다." 요한 볼프강 폰 괴테의 대표작 ｢파우스트｣에 나오는 유명한 문구이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['웨스트 사이드 스토리', 스필버그가 직접 전한 비하인드 제작기]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000337300</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000337300"/>
-        <updated>2022-01-11T02:39:25.226Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]'웨스트 사이드 스토리'가 스티븐 스필버그와 야누즈 카민스키가 직접 촬영에 대한 비하인드를 전하는 제작기 영상을 공개했다. 자신을 가둔 환경과 운명에 순응하지 않고 자신만의 세상을 꿈꾸는]]></content>
     </entry>
 </feed>
