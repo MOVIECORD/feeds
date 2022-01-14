@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 13:28:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 15:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,20 +286,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F00ba41decdaf6df5ea47b8bbaf2a71bc0843998b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[유체이탈자 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=124768</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=124768</guid>
-            <pubDate>Tue, 04 Jan 2022 08:24:03 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2eee1b07783f3ae40b0446fdcc73851956299a6a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[러브레터 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=3262</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=3262</guid>
             <pubDate>Thu, 06 Jan 2022 01:10:54 GMT</pubDate>
             <content:encoded><![CDATA[22.01.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc723b1e188dbdcbbbbb5d9fc4d6cd757c5529f27" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[유체이탈자 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=124768</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=124768</guid>
+            <pubDate>Tue, 04 Jan 2022 08:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2eee1b07783f3ae40b0446fdcc73851956299a6a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 소드 아트 온라인 -프로그레시브- 별 없는 밤의 아리아 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -430,6 +430,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F25deee2592c6e3b9e6a4a60330d06314f0df4334" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[엔드게임: 나는 킬러다 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149363</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149363</guid>
+            <pubDate>Thu, 13 Jan 2022 06:24:06 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff7579ee3ba2608dcd081b01124279a4add22adec" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[금의위: 초능척살대 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=155571</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=155571</guid>
@@ -493,14 +501,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb29cc93c2f640a642b968ea1b318425eab7ac469" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[엔드게임: 나는 킬러다 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149363</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149363</guid>
-            <pubDate>Thu, 13 Jan 2022 06:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff7579ee3ba2608dcd081b01124279a4add22adec" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[질문 하나로 대통령 난처하게 만든 기자의 최후 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220114134801681</link>
             <guid>https://movie.v.daum.net/v/20220114134801681</guid>
@@ -509,20 +509,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Fohmynews%2F20220114134802575asij.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA[가족 몰살한 13살 막내아들의 '기막힌' 살해 동기 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220114082400260</link>
-            <guid>https://movie.v.daum.net/v/20220114082400260</guid>
-            <pubDate>Fri, 14 Jan 2022 01:07:16 GMT</pubDate>
-            <content:encoded><![CDATA[[이인미 기자] 통상의 범죄 다큐멘터리와는 아주,&nbsp;썩,&nbsp;상당히,&nbsp;완전히 다른 다큐멘터리 작품이 있다. 제목은&nbsp;&lt;더 모티브:&nbsp;왜 소년은 가족을 죽였나?&gt;다.&nbsp;제목에 '동기(the motive)'가 들어있지만,&nbsp;작품은 동기를 밝혀주지 않는다.&nbsp;동기를 밝혀주기는커녕 일부러 더 헷갈리게 만든다고 말해야 옳을 것 같다.&nbsp; 아닌 게 아니라 간단한 검색으로도 확인할 수]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Fohmynews%2F20220114082403114vltm.jpg" length="0" type="image//thumb/S732x228/"/>
-        </item>
-        <item>
             <title><![CDATA[할리우드에 K-할매 할배가 불어넣은 나비효과 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220114122454118</link>
             <guid>https://movie.v.daum.net/v/20220114122454118</guid>
             <pubDate>Fri, 14 Jan 2022 05:19:51 GMT</pubDate>
             <content:encoded><![CDATA[아이즈 ize 윤준호(칼럼니스트)지난해 배우 윤여정이 미국 아카데미 시상식에서 한국 배우 최초로 여우조연상을 받은 후 외신의 극찬이 쏟아졌다. 이런 상황 속에서 'K-할매'를 조명하는 기사 속속 등장했다.&nbsp;하지만 이는 수정돼야 하다. 지난 10일(한국시간) 배우 오영수가 넷플릭스 오리지널 '오징어 게임'으로 미국 골든글로브 시상식에서 남우조연상을 수상했기]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2FIZE%2F20220114122456812irod.jpg" length="0" type="image//thumb/S384x240/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2FIZE%2F20220114122456812irod.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
             <title><![CDATA[80년 전 히틀러를 조롱한 이 배우 (다음영화 뉴스 ─ 인기)]]></title>
@@ -533,12 +525,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Fohmynews%2F20220114160610821xifc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['타이타닉 대사 한 줄' 꼬마가 받은 돈은?..25년째 로열티 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220113201220979</link>
-            <guid>https://movie.v.daum.net/v/20220113201220979</guid>
+            <title><![CDATA[가족 몰살한 13살 막내아들의 '기막힌' 살해 동기 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220114082400260</link>
+            <guid>https://movie.v.daum.net/v/20220114082400260</guid>
             <pubDate>Fri, 14 Jan 2022 01:07:16 GMT</pubDate>
-            <content:encoded><![CDATA[1997년 영화 타이타닉에 출연했던 아역 배우가 개봉 당시 약 3500만 원의 출연료를 받은데 이어 25년 째 분기별로 로열티를 받고있는 것으로 알려져 화제다. 11일(현지시간) 영국 데일리메일 등에 따르면 타이타닉에 단역으로 출연한 리스 톰프슨(당시 5세·현재 30세)은 현재 미국 서부 유타주 소재 스키 시설인 브라이언 헤드 리조트에서 디지털 마케팅 총]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F13%2Fdonga%2F20220113201222276mbug.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[이인미 기자] 통상의 범죄 다큐멘터리와는 아주,&nbsp;썩,&nbsp;상당히,&nbsp;완전히 다른 다큐멘터리 작품이 있다. 제목은&nbsp;&lt;더 모티브:&nbsp;왜 소년은 가족을 죽였나?&gt;다.&nbsp;제목에 '동기(the motive)'가 들어있지만,&nbsp;작품은 동기를 밝혀주지 않는다.&nbsp;동기를 밝혀주기는커녕 일부러 더 헷갈리게 만든다고 말해야 옳을 것 같다.&nbsp; 아닌 게 아니라 간단한 검색으로도 확인할 수]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Fohmynews%2F20220114082403114vltm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[기상천외 코미디 '효자' 1월 27일 개봉 "좀비돼 돌아온 엄마" (다음영화 뉴스 ─ 인기)]]></title>
@@ -557,12 +549,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Fohmynews%2F20220114153012314frxl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['해적: 도깨비 깃발', 심상치 않은 흥행 조짐 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220113164830460</link>
-            <guid>https://movie.v.daum.net/v/20220113164830460</guid>
+            <title><![CDATA['타이타닉 대사 한 줄' 꼬마가 받은 돈은?..25년째 로열티 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220113201220979</link>
+            <guid>https://movie.v.daum.net/v/20220113201220979</guid>
             <pubDate>Fri, 14 Jan 2022 01:07:16 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=전동선 기자] 신선한 소재, 스펙터클한 볼거리, 충무로 대세 배우들의 만남으로 기대를 높이는 영화 '해적: 도깨비 깃발' 언론시사회를 성황리에 마치며 폭발적인 반응을 모으고 있다. 한국 오락 블록버스터의 한 획을 그었던 ‘해적’의 귀환 '해적: 도깨비 깃발'은 흔적도 없이 사라진 왕실 보물의 주인이 되기 위해 바다로 모인 해적들의 스펙터클한 모]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F13%2Ftvreport%2F20220113164833951ecbx.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[1997년 영화 타이타닉에 출연했던 아역 배우가 개봉 당시 약 3500만 원의 출연료를 받은데 이어 25년 째 분기별로 로열티를 받고있는 것으로 알려져 화제다. 11일(현지시간) 영국 데일리메일 등에 따르면 타이타닉에 단역으로 출연한 리스 톰프슨(당시 5세·현재 30세)은 현재 미국 서부 유타주 소재 스키 시설인 브라이언 헤드 리조트에서 디지털 마케팅 총]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F13%2Fdonga%2F20220113201222276mbug.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['라임크라임' 1만 돌파.. 힙합 영화의 가능성 열다 (다음영화 뉴스 ─ 인기)]]></title>
@@ -579,6 +571,14 @@
             <pubDate>Fri, 14 Jan 2022 02:40:15 GMT</pubDate>
             <content:encoded><![CDATA[[양형석 기자] 데뷔 초기 생활고에 시달릴 정도로 무명생활을 이어가던 르네 젤위거는 1996년 톰 크루즈와 함께 &lt;제리 맥과이어&gt;에 출연하며 주목을 받기 시작했다. 하지만 그녀를 진짜 스타로 만들어준 작품은 따로 있었다. 2500만 달러의 제작비로 만들어 세계적으로 무려 2억8100만 달러의 수익을 올린 &lt;브리짓 존스의 일기&gt;였다(박스오피스 모조 기준).]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Fohmynews%2F20220114102401560ncgz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['해적: 도깨비 깃발', 심상치 않은 흥행 조짐 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220113164830460</link>
+            <guid>https://movie.v.daum.net/v/20220113164830460</guid>
+            <pubDate>Fri, 14 Jan 2022 01:07:16 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=전동선 기자] 신선한 소재, 스펙터클한 볼거리, 충무로 대세 배우들의 만남으로 기대를 높이는 영화 '해적: 도깨비 깃발' 언론시사회를 성황리에 마치며 폭발적인 반응을 모으고 있다. 한국 오락 블록버스터의 한 획을 그었던 ‘해적’의 귀환 '해적: 도깨비 깃발'은 흔적도 없이 사라진 왕실 보물의 주인이 되기 위해 바다로 모인 해적들의 스펙터클한 모]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F13%2Ftvreport%2F20220113164833951ecbx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['해적:도깨비 깃발' 강하늘·한효주 티키타카→명불허전 이광수, 호평 쏟아지네 (다음영화 뉴스 ─ 인기)]]></title>
@@ -629,6 +629,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Fyonhap%2F20220114110254578bmul.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['전주국제영화제' 오프라인 개최..4월 28일 개막[공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220114132400115</link>
+            <guid>https://movie.v.daum.net/v/20220114132400115</guid>
+            <pubDate>Fri, 14 Jan 2022 13:27:21 GMT</pubDate>
+            <content:encoded><![CDATA[제23회 전주국제영화제(집행위원장 이준동)는 오프라인 대면 개최된다. 14일 전주국제영화제 측은 “지난해 말 이사회 의결을 통해 올해의 영화제는 오는 4월 28일부터 5월 7일까지 열흘간 열린다”고 밝혔다. 무엇보다 철저한 방역지침 준수와 함께 오프라인 대면 행사를 정상화하는데 집중할 방침이다. 코로나19의 유행 가운데 얻어낸 성과는 계승하되 영화제의 본]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Fstartoday%2F20220114132405080gdya.png" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[홍종선의 메모리즈㊸] 리틀 부다, 키아누 리브스, 377억 기부 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220114082839349</link>
             <guid>https://movie.v.daum.net/v/20220114082839349</guid>
@@ -651,174 +659,6 @@
             <pubDate>Fri, 14 Jan 2022 01:07:16 GMT</pubDate>
             <content:encoded><![CDATA[매일 기록을 경신한다. 제74회 칸영화제 각본상을 받은 영화 '드라이브 마이 카(하마구치 류스케 감독)'는 제17회 오스틴영화비평가협회상에서 각색상과 최우수 국제영화상을 받았다. 이와 함께 2022 영국 아카데미 감독상, 각색상, 외국어영화상 부문에 1차 후보로 선정됐다. 전세계 유수의 영화제에서 32개의 트로피를 들어 올린 '드라이브 마이 카'는 2]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F13%2Filgansports%2F20220113164306089jxuu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['전주국제영화제' 오프라인 개최..4월 28일 개막[공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220114132400115</link>
-            <guid>https://movie.v.daum.net/v/20220114132400115</guid>
-            <pubDate>Fri, 14 Jan 2022 13:27:21 GMT</pubDate>
-            <content:encoded><![CDATA[제23회 전주국제영화제(집행위원장 이준동)는 오프라인 대면 개최된다. 14일 전주국제영화제 측은 “지난해 말 이사회 의결을 통해 올해의 영화제는 오는 4월 28일부터 5월 7일까지 열흘간 열린다”고 밝혔다. 무엇보다 철저한 방역지침 준수와 함께 오프라인 대면 행사를 정상화하는데 집중할 방침이다. 코로나19의 유행 가운데 얻어낸 성과는 계승하되 영화제의 본]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Fstartoday%2F20220114132405080gdya.png" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[빅픽처] '하우스 오브 구찌', 신데렐라는 없다..가족 사업 뒤흔든 핏빛 비극 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220114181206738</link>
-            <guid>https://v.daum.net/v/20220114181206738</guid>
-            <pubDate>Fri, 14 Jan 2022 09:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 프랑스에 세계적 명품 브랜드 샤넬과 에르메스, 루이비통이 있다면 이탈리아에는 구찌와 페라가모가 있다. 창업자(구찌오 구찌)의 이름을 딴 구찌는 제2차 세계대전 이후 명품으로 각광받기 시작했고, 1970~80년대 세계적인 브랜드로 거듭났다. 한 번 보면 잊히지 않는 더블G 로고와 홀스빗 로퍼, 뱀부백, 재키백 등의 히트 아]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2FSBSfunE%2F20220114181209249wods.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["'기생충'과 전혀 다른 박소담"..'특송', 자동차극장 시사회 현장 전격 공개 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220114175414342</link>
-            <guid>https://v.daum.net/v/20220114175414342</guid>
-            <pubDate>Fri, 14 Jan 2022 09:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 개봉과 동시에 흥행의 판도를 바꾸며 이틀 연속 박스오피스 1위를 기록하고 있는 범죄 오락 액션 '특송'이 '흥행 질주 자동차 극장 시사회' 영상을 공개해 화제를 모은다. 성공률 100%의 특송 전문 드라이버 은하가 예기치 못한 배송사고에 휘말리면서 벌어지는 추격전을 그린 범죄 오락 액션 영화 '특송'이 지난 2일 CGV DR]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Fmydaily%2F20220114175414849hmii.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[새해를 맞이하며.. 이 짜증나는 인간에게 공감한 까닭 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220114173305757</link>
-            <guid>https://v.daum.net/v/20220114173305757</guid>
-            <pubDate>Fri, 14 Jan 2022 09:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[[참여사회] '뮤지컬'은 돈이 든다. 그 때문에 소자본·다양성 영화를 소개해 온 이 코너에 뮤지컬 영화 &lt;틱, 틱... 붐!&gt;(아래 &lt;틱틱붐&gt;)을 소개하는 것이 맞을지 고민됐다. 하지만 &lt;틱틱붐&gt;은 상대적으로 소박한 예산의 영화이며 아직 한국에서 대중적 인지도를 갖지 못했고, 불안한 청춘과 마이너리티 정체성을 가진 이들에 대한 작품인 데다가 무엇보다 이 코]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Fohmynews%2F20220114173306392thrf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] '킹메이커' 이선균 "설경구와 호흡 영광, 정치색은 NO" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220114163608993</link>
-            <guid>https://v.daum.net/v/20220114163608993</guid>
-            <pubDate>Fri, 14 Jan 2022 08:25:20 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이선균(47)이 엘리트 선거 전략가로 분했다. '킹메이커'에서 서창대 역을 맡아 완벽한 연기 변신에 성공, 시사회 이후 이선균의 연기 호평이 이어졌다. 오는 26일 개봉하는 영화 '킹메이커'(감독 변성현)는 세상에 도전하는 정치인 김운범(설경구 분)과 존재도 이름도 숨겨진 선거 전략가 서창대(이선균 분)가 치열한 선거판에 뛰어들며 시작되는 드라마]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Fstartoday%2F20220114163609982pbbm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[이선균 "복잡미묘한 관계를 섬세히 풀어낸 게 '킹메이커'의 힘" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220114163235879</link>
-            <guid>https://v.daum.net/v/20220114163235879</guid>
-            <pubDate>Fri, 14 Jan 2022 08:25:20 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 한미희 기자 = 영화 '킹메이커'는 김대중 전 대통령과 그의 선거 참모였던 엄창록을 모티브로 한 영화다. 김 전 대통령은 누구나 아는 인물이지만, 엄창록에 대해서는 존재조차 몰랐던 사람들이 더 많다. 당시를 기록한 책들에 짧게 등장하는 엄창록은 '선거판의 여우', '흑색선전의 귀재'로 묘사된다. 엄창록을 모티브로 한 서창대를 연기한 배]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Fyonhap%2F20220114163236070wuja.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["액션+코믹+러브라인"..'해적2' 실관람객 반응 보니 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220114163154870</link>
-            <guid>https://v.daum.net/v/20220114163154870</guid>
-            <pubDate>Fri, 14 Jan 2022 08:25:20 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '해적: 도깨비 깃발' 배우들이 완성한 다채로운 케미스트리가 개봉 전부터 폭발적인 반응을 모으고 있다. 1월 26일 영화 '해적: 도깨비 깃발'(감독 김정훈)은 흔적도 없이 사라진 왕실 보물의 주인이 되기 위해 바다로 모인 해적들의 스펙터클한 모험을 그린 작품이다. 극중 자칭 고려 제일검이자 의적단 두목 ‘무치’로 분한 강하늘과 바]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Fnewsen%2F20220114163154844qwiq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["韓영화 대열 이끌 선두주자"..'킹메이커' 극찬 담은 리뷰 포스터→유형별 관람 포인트 공개 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220114163118856</link>
-            <guid>https://v.daum.net/v/20220114163118856</guid>
-            <pubDate>Fri, 14 Jan 2022 08:25:20 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 정치 영화 '킹메이커'(변성현 감독, 씨앗필름 제작)가 언론의 극찬을 담은 리뷰 포스터와 유형별 관람 포인트로 기대감을 높인다. 언론과 평단의 만장일치 호평으로 예비 관객의 기대와 관심을 한 몸에 받고 있다. 이번에 공개된 리뷰 포스터는 김운범(설경구)이 속해 있는 신민당원의 단체 사진을 배경으로 존재도 이름도 숨겨]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2FSpoChosun%2F20220114163118465rfyp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[이조로 변호사의 작품 속 법률산책 - '경관의 피'의 수뢰죄 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220114161528362</link>
-            <guid>https://v.daum.net/v/20220114161528362</guid>
-            <pubDate>Fri, 14 Jan 2022 12:31:51 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘경관의 피’(감독 이규만)은 일본 작가 사사키 조의 3대에 걸친 경찰관 집안에 대한 소설을 영화화한 것입니다. 경찰을 소재로 하는 다른 작품들과는 달리 범인 검거보다는 경찰의 조건에 대해서 이야기하고 있는 것 같습니다. 작품 속에서, 광역수사대 반장 박강윤(조진웅 분)은 출처 불명의 막대한 후원금으로 범죄자들을 수사합니다. 경]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Ffnnewsi%2F20220114161528846tfek.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[한효주 "몇 년간 강인한 여성 연기..저까지 단단해진 기분" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220114161159238</link>
-            <guid>https://v.daum.net/v/20220114161159238</guid>
-            <pubDate>Fri, 14 Jan 2022 07:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 오보람 기자 = "몇 년간 강인한 여성 캐릭터를 연기하면서 개인적으로도 단단해진 느낌을 받았어요. 요즘의 제가 아주 마음에 들어요. 하하." 오는 26일 개봉하는 판타지 어드벤처 영화 '해적: 도깨비깃발'에서 단주 해랑 역을 맡은 배우 한효주는 14일 화상 인터뷰에서 이렇게 말했다. 탁월한 무술 실력을 겸비한 해랑은 남자 선원들을 이끌고]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Fyonhap%2F20220114161159357ccsx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['킹메이커' 이선균 "연기에 확신 NO, 고여있지 않으려 늘 고민" [MD인터뷰](종합) (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220114160957193</link>
-            <guid>https://v.daum.net/v/20220114160957193</guid>
-            <pubDate>Fri, 14 Jan 2022 07:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 이선균이 영화 '킹메이커'로 설날 극장가에 뜨거운 울림을 선사, 흥행 돌풍을 예고했다. 이선균은 14일 오후 마이데일리와 화상 온라인 인터뷰를 진행했다. 오는 26일 영화 '킹메이커'(감독 변성현)로 관객들을 찾아가며, 다양한 에피소드를 풀어냈다. '킹메이커'는 세상에 도전하는 정치인 김운범(설경구)과 존재도 이름도 숨]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Fmydaily%2F20220114160957765qywd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[80년 전 히틀러를 조롱한 이 배우 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220114160609078</link>
-            <guid>https://v.daum.net/v/20220114160609078</guid>
-            <pubDate>Fri, 14 Jan 2022 07:19:06 GMT</pubDate>
-            <content:encoded><![CDATA['안방극장'에선 처음 또는 다시 볼 만한 영화, 드라마, 애니메이션을 소개하고자 합니다. 세월의 흔적이 묻은 작품부터 아직 국내에 정식으로 소개되지 않은 작품까지 다양하게 다루려고 합니다. &lt;편집자말&gt; [이학후 기자] ▲ &nbsp;영화 &lt;위대한 독재자&gt; 포스터    ⓒ (주)엣나인필름  제1차 세계대전이 벌어지던 1918년 어느 전장. 토매니아 제국]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Fohmynews%2F20220114160610821xifc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[DJ 참모 실화 '킹메이커'..이선균 "미화도 정치색도 없어"(종합)[EN:인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220114160109902</link>
-            <guid>https://v.daum.net/v/20220114160109902</guid>
-            <pubDate>Fri, 14 Jan 2022 07:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 오는 3월 20대 대통령선거를 앞두고 시의적절하게 개봉하는 '킹메이커'. 스타일리시한 정치 드라마인 '킹메이커'에 대해 주연 이선균은 "특정한 정치색을 띤 영화도, 누군가를 미화하는 작품도 아니"라며 "뜨거운 선거 전쟁 그 자체를 보여준다"며 관람을 독려했다. 1월 26일 개봉하는 영화 '킹메이커'(감독 변성현)는 세상을 바꾸기 위]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Fnewsen%2F20220114160109349etfy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[HI★인터뷰] '해적2' 한효주, 전사 질문에 "설명하고 싶지 않아" 답한 이유 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220114155736767</link>
-            <guid>https://v.daum.net/v/20220114155736767</guid>
-            <pubDate>Fri, 14 Jan 2022 07:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[제가 생각한 해랑의 전사요? 관객분들에게 구체적으로 설명드리고 싶진 않아요. 배우 한효주는 '해적: 도깨비 깃발' 속 해랑의 전사에 대한 질문에 이렇게 답했다. 관객들이 해랑에 대해 궁금해하며 더 많은 상상을 하길 바란다는 게 이유였다. 그는  무치(강하늘)의 대사 중 '용왕의 딸'이라는 부분에 주목해 해랑의 과거를 떠올렸다는 약간의 힌트를 남기며 웃]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Fhankooki%2F20220114155739148hveg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[이선균 "선거 얘기지만 정치색 없어..2년 기다림" [인터뷰 종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220114155002526</link>
-            <guid>https://v.daum.net/v/20220114155002526</guid>
-            <pubDate>Fri, 14 Jan 2022 07:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 이선균이 '킹메이커'의 개봉을 기다리고 있는 마음과 함께 작품에 참여하며 느꼈던 점들을 털어놓았다. 이선균은 13일 오후 온라인으로 진행된 영화 '킹메이커'(감독 변성현) 인터뷰에서 다양한 이야기를 전했다. '킹메이커'는 세상에 도전하는 정치인 김운범(설경구 분)과 존재도 이름도 숨겨진 선거 전략가 서창대(이선균)가 치]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Fxportsnews%2F20220114155006384fvfv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['라임크라임' 1만 돌파.. 힙합 영화의 가능성 열다 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220114153303941</link>
-            <guid>https://v.daum.net/v/20220114153303941</guid>
-            <pubDate>Fri, 14 Jan 2022 08:25:20 GMT</pubDate>
-            <content:encoded><![CDATA[힙합을 좋아하는 두 소년의 사춘기를 담은, 유쾌하면서도 가슴 시린 힙합 성장 드라마 영화 ‘라임크라임’이 코로나19로 힘든 상황 속에서도 1만 관객을 돌파하며 한국형 힙합 영화의 가능성을 입증했다. 작품은 다세대촌에 살고 있는 소년 ‘송주’와 부촌 아파트에 살고 있는 소년 ‘주연’이 힙합 팀 ‘라임크라임’을 결성하며 고군분투하는 것을 그린 힙합 성장 드라]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Fstartoday%2F20220114153305891afpy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['해적:도깨비 깃발' 강하늘·한효주 티키타카→명불허전 이광수, 호평 쏟아지네 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220114153127895</link>
-            <guid>https://v.daum.net/v/20220114153127895</guid>
-            <pubDate>Fri, 14 Jan 2022 07:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=하수정 기자] 흥미진진한 전개와 유쾌한 재미, 압도적인 볼거리로 뜨거운 호평을 불러일으키고 있는 영화 '해적: 도깨비 깃발'이 배우들이 완성한 다채로운 케미스트리로 개봉 전부터 폭발적인 반응을 모으고 있다. 한국 오락 블록버스터의 한 획을 그었던 ‘해적’의 귀환 '해적: 도깨비 깃발'(감독&nbsp;김정훈,&nbsp;제공배급&nbsp;롯데엔터테인먼트, 제작&nbsp;어뉴·오스]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Fpoctan%2F20220114153128449eyrp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[암 판정 받은 학생과 결혼한 가수, 이 영화가 보여준 사랑 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220114153011832</link>
-            <guid>https://v.daum.net/v/20220114153011832</guid>
-            <pubDate>Fri, 14 Jan 2022 07:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[[김준모 기자] ▲ &nbsp;&lt;아이 스틸 빌리브&gt; 포스터    ⓒ (주)이놀미디어  종교영화의 특징 중 하나는 주로 실화를 바탕으로 한다는 점이다. 실화가 주는 기적과 감동은 종교를 향한 믿음을 더욱 강화한다. 동시에 철학적으로도 높은 단계의 메시지를 전달한다. 철학(philosophy)은 그리스어 필로소피아(philosophia)에서 유래한다. 필]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Fohmynews%2F20220114153012314frxl.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[무비차트TEN] 박소담 '특송' 정상 지킬까?..700만 앞둔 '스파이더맨' 예매율 1위 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220114152205581</link>
-            <guid>https://v.daum.net/v/20220114152205581</guid>
-            <pubDate>Fri, 14 Jan 2022 06:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=노규민 기자] 영화 '스파이더맨: 노 웨이 홈'이 700만 돌파를 앞두고 있다. 이런 가운데 박소담 주연 영화 '특송'이 개봉과 동시에 '스파이더맨: 노 웨이 홈'을 밀어내고 박스오피스 정상에 올랐다. 그러나 '스파이더맨: 노 웨이 홈'의 예매율은 여전히 높다. 또한 '싱2게더' '웨스트 사이드 스토리' 등 해외 영화의 기세가 만만치 않다. '특]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2F10asia%2F20220114152208356ewmx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['특송' 이틀 연속 1위 가능했던 불꽃 같은 액션 명장면들 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220114151523406</link>
-            <guid>https://v.daum.net/v/20220114151523406</guid>
-            <pubDate>Fri, 14 Jan 2022 06:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 영화 '특송'(감독 박대민)이 이틀 연속 전체 박스오피스 1위에 오른 가운데, 액션 명장면들을 공개했다. #1 안전벨트 꽉 조이세요! ‘김씨 특송’ 비하인드 영화 시작과 동시에 관객들을 '특송'의 짜릿한 세계로 이끈 일명 ‘김씨 특송’ 장면은 사전에 프리 비주얼 전문 업체와 3D 그래픽 작업을 통해 완성도 있게 탄생했다. 카메라의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Fnewsen%2F20220114151526272wntg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['킹메이커' 이선균 "'불한당'에 굴러들어온 돌 같았는데..'롤모델' 설경구만 봐도 영광" [인터뷰 종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220114150402077</link>
-            <guid>https://v.daum.net/v/20220114150402077</guid>
-            <pubDate>Fri, 14 Jan 2022 06:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=연휘선 기자] 복잡한 브로맨스로 미묘한 감정선을 풀어낸다. '킹메이커' 속 진정한 '연기 킹'이 된 남자, 이선균을 만나봤다. 26일 개봉하는 영화 '킹메이커'는 세상을 바꾸기 위해 도전하는 정치인 김운범(설경구)과 존재도 이름도 숨겨진 선거 전략가 서창대(이선균)가 치열한 선거판에 뛰어들며 시작되는 드라마를 그린 작품이다. 이 가운데 타이틀]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Fpoctan%2F20220114150402527qdqy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<인어가 잠든 집> 메인 예고편 (우리 영화 볼래?)]]></title>
@@ -1465,7 +1305,7 @@
             <link>https://tv.naver.com/v/24606201</link>
             <guid>https://tv.naver.com/v/24606201</guid>
             <pubDate>Fri, 14 Jan 2022 10:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220114_56/EKssd_1642153029038IcLv0_JPEG/5114eda8-751d-11ec-9cfd-505dacfba98a_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1473,7 +1313,7 @@
             <link>https://tv.naver.com/v/24605489</link>
             <guid>https://tv.naver.com/v/24605489</guid>
             <pubDate>Fri, 14 Jan 2022 09:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220114_295/RtJPm_1642150835013xVqvb_JPEG/35ee307f-7518-11ec-bf46-a0369ff95ec0_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1481,7 +1321,7 @@
             <link>https://tv.naver.com/v/24605024</link>
             <guid>https://tv.naver.com/v/24605024</guid>
             <pubDate>Fri, 14 Jan 2022 09:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220114_105/nAaN0_1642149670619zv0Jy_JPEG/7d2d5a59-7515-11ec-8355-246e963a4708_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1489,7 +1329,7 @@
             <link>https://tv.naver.com/v/24605038</link>
             <guid>https://tv.naver.com/v/24605038</guid>
             <pubDate>Fri, 14 Jan 2022 09:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220114_43/gGx6V_1642149698770JyVhr_JPEG/b3352419-7515-11ec-9f69-505dac8c3639_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1497,7 +1337,7 @@
             <link>https://tv.naver.com/v/24604892</link>
             <guid>https://tv.naver.com/v/24604892</guid>
             <pubDate>Fri, 14 Jan 2022 09:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220114_289/evo4r_1642149389200HHBww_JPEG/cbc47baf-7514-11ec-89ca-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1505,7 +1345,7 @@
             <link>https://tv.naver.com/v/24600585</link>
             <guid>https://tv.naver.com/v/24600585</guid>
             <pubDate>Fri, 14 Jan 2022 06:24:54 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220114_127/7F6jT_1642138636008GFP4V_JPEG/bca647f2-74fb-11ec-99fd-a0369ff94ed0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1513,7 +1353,7 @@
             <link>https://tv.naver.com/v/24600423</link>
             <guid>https://tv.naver.com/v/24600423</guid>
             <pubDate>Fri, 14 Jan 2022 06:24:54 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220114_54/SlAQw_1642138274009li4OO_JPEG/21b22990-74fb-11ec-b3d2-48df37ae3fca_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1521,7 +1361,7 @@
             <link>https://tv.naver.com/v/24600160</link>
             <guid>https://tv.naver.com/v/24600160</guid>
             <pubDate>Fri, 14 Jan 2022 05:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220114_249/rzY6M_1642137468459O1OSM_JPEG/186f2a89-74f9-11ec-a810-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1529,7 +1369,7 @@
             <link>https://tv.naver.com/v/24599900</link>
             <guid>https://tv.naver.com/v/24599900</guid>
             <pubDate>Fri, 14 Jan 2022 05:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220114_125/NsZV3_1642145900910FYmI5_JPEG/1642145898809.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1537,7 +1377,7 @@
             <link>https://tv.naver.com/v/24599713</link>
             <guid>https://tv.naver.com/v/24599713</guid>
             <pubDate>Fri, 14 Jan 2022 05:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220114_101/V3Mhk_16421363330094L23I_JPEG/74602f4e-74f6-11ec-89ca-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
