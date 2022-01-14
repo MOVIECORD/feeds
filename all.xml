@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 12:32:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 13:28:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -215,20 +215,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffcae40de78cb7e456e43032922b69001c94b1bf4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[하우스 오브 구찌 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=54204</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=54204</guid>
-            <pubDate>Wed, 12 Jan 2022 02:39:17 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb6943a9508e5f9dc4764c57aecc8654af3e24e8f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[경관의 피 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=136344</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=136344</guid>
             <pubDate>Wed, 05 Jan 2022 01:06:46 GMT</pubDate>
             <content:encoded><![CDATA[22.01.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6a40f6025e785344c32443ed10f7614960cf0c75" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[하우스 오브 구찌 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=54204</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=54204</guid>
+            <pubDate>Wed, 12 Jan 2022 02:39:17 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb6943a9508e5f9dc4764c57aecc8654af3e24e8f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[클리포드 더 빅 레드 독 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -302,28 +302,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc723b1e188dbdcbbbbb5d9fc4d6cd757c5529f27" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[해탄적일천 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=2714</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=2714</guid>
-            <pubDate>Thu, 06 Jan 2022 01:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd26d9eb682eda5d237bf3cd0bfc2bf36fcb97458" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[엔칸토: 마법의 세계 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152081</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152081</guid>
-            <pubDate>Fri, 14 Jan 2022 11:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F28a2bbf1962b4f0a48c72f49957c5e4604ca9ccc" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 소드 아트 온라인 -프로그레시브- 별 없는 밤의 아리아 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=155229</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=155229</guid>
             <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
             <content:encoded><![CDATA[21.12.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F08f419cbf4467bb2bd9ea59132a53e3fcffe52ba" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[해탄적일천 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=2714</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=2714</guid>
+            <pubDate>Thu, 06 Jan 2022 01:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd26d9eb682eda5d237bf3cd0bfc2bf36fcb97458" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[해피 뉴 이어 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -340,6 +332,14 @@
             <pubDate>Wed, 05 Jan 2022 23:20:05 GMT</pubDate>
             <content:encoded><![CDATA[22.01.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2c545acd0162e80f4af0192bb2e3c4f614f7d6a0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[비올레타 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=66302</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=66302</guid>
+            <pubDate>Fri, 14 Jan 2022 13:27:07 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7225f52615bb1065fbf41346dcfc24c9bc0f4c78" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[해적: 도깨비 깃발 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -549,20 +549,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Filgansports%2F20220114094613124zsjj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['해적: 도깨비 깃발', 심상치 않은 흥행 조짐 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220113164830460</link>
-            <guid>https://movie.v.daum.net/v/20220113164830460</guid>
-            <pubDate>Fri, 14 Jan 2022 01:07:16 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=전동선 기자] 신선한 소재, 스펙터클한 볼거리, 충무로 대세 배우들의 만남으로 기대를 높이는 영화 '해적: 도깨비 깃발' 언론시사회를 성황리에 마치며 폭발적인 반응을 모으고 있다. 한국 오락 블록버스터의 한 획을 그었던 ‘해적’의 귀환 '해적: 도깨비 깃발'은 흔적도 없이 사라진 왕실 보물의 주인이 되기 위해 바다로 모인 해적들의 스펙터클한 모]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F13%2Ftvreport%2F20220113164833951ecbx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[암 판정 받은 학생과 결혼한 가수, 이 영화가 보여준 사랑 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220114153011832</link>
             <guid>https://movie.v.daum.net/v/20220114153011832</guid>
             <pubDate>Fri, 14 Jan 2022 08:25:13 GMT</pubDate>
             <content:encoded><![CDATA[[김준모 기자] ▲ &nbsp;&lt;아이 스틸 빌리브&gt; 포스터    ⓒ (주)이놀미디어  종교영화의 특징 중 하나는 주로 실화를 바탕으로 한다는 점이다. 실화가 주는 기적과 감동은 종교를 향한 믿음을 더욱 강화한다. 동시에 철학적으로도 높은 단계의 메시지를 전달한다. 철학(philosophy)은 그리스어 필로소피아(philosophia)에서 유래한다. 필]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Fohmynews%2F20220114153012314frxl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['해적: 도깨비 깃발', 심상치 않은 흥행 조짐 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220113164830460</link>
+            <guid>https://movie.v.daum.net/v/20220113164830460</guid>
+            <pubDate>Fri, 14 Jan 2022 01:07:16 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=전동선 기자] 신선한 소재, 스펙터클한 볼거리, 충무로 대세 배우들의 만남으로 기대를 높이는 영화 '해적: 도깨비 깃발' 언론시사회를 성황리에 마치며 폭발적인 반응을 모으고 있다. 한국 오락 블록버스터의 한 획을 그었던 ‘해적’의 귀환 '해적: 도깨비 깃발'은 흔적도 없이 사라진 왕실 보물의 주인이 되기 위해 바다로 모인 해적들의 스펙터클한 모]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F13%2Ftvreport%2F20220113164833951ecbx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['라임크라임' 1만 돌파.. 힙합 영화의 가능성 열다 (다음영화 뉴스 ─ 인기)]]></title>
@@ -621,6 +621,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Fohmynews%2F20220114115709199psyd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA["청계피복노조 여성노동자 얘기로 역사 속 빈칸 채우고 싶었다" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220114110254662</link>
+            <guid>https://movie.v.daum.net/v/20220114110254662</guid>
+            <pubDate>Fri, 14 Jan 2022 11:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 오보람 기자 = "역사 속에서 빈칸으로 남아 있던 여성 노동자 이야기를 대중적인 기록으로 채우고 싶었습니다."(김정영 감독) 오는 20일 개봉하는 다큐멘터리 '미싱타는 여자들'은 전태일 열사의 분신 후 서울 동대문 평화시장 청계피복노동조합에서 활동한 여성 노동자들의 삶을 그린 작품이다. 재단사 보조인 '시다'로 일을 시작한 이들이 노동운]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Fyonhap%2F20220114110254578bmul.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[홍종선의 메모리즈㊸] 리틀 부다, 키아누 리브스, 377억 기부 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220114082839349</link>
             <guid>https://movie.v.daum.net/v/20220114082839349</guid>
@@ -637,14 +645,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2FTHEFACT%2F20220114060014778vgtc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["청계피복노조 여성노동자 얘기로 역사 속 빈칸 채우고 싶었다" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220114110254662</link>
-            <guid>https://movie.v.daum.net/v/20220114110254662</guid>
-            <pubDate>Fri, 14 Jan 2022 11:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 오보람 기자 = "역사 속에서 빈칸으로 남아 있던 여성 노동자 이야기를 대중적인 기록으로 채우고 싶었습니다."(김정영 감독) 오는 20일 개봉하는 다큐멘터리 '미싱타는 여자들'은 전태일 열사의 분신 후 서울 동대문 평화시장 청계피복노동조합에서 활동한 여성 노동자들의 삶을 그린 작품이다. 재단사 보조인 '시다'로 일을 시작한 이들이 노동운]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Fyonhap%2F20220114110254578bmul.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[日 '드라이브 마이 카' 오스틴영화 2관왕 추가 "트로피 32개" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220113164305287</link>
             <guid>https://movie.v.daum.net/v/20220113164305287</guid>
@@ -653,12 +653,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F13%2Filgansports%2F20220113164306089jxuu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[장민호 첫 단독 콘서트 실황, 영화관에서 본다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220114122454116</link>
-            <guid>https://movie.v.daum.net/v/20220114122454116</guid>
-            <pubDate>Fri, 14 Jan 2022 07:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[CGV, '장민호 드라마 최종회' 24일 단독 개봉 예고…17일 쇼케이스 [더팩트ㅣ이한림 기자] 가수 장민호의 전국 투어 콘서트가 영화관에서 공개된다. 14일 CGV에 따르면 장민호의 첫 단독 콘서트 실황을 담은 영화 '장민호 드라마 최종회'가 오는 24일 CGV에서 단독 개봉한다. '장민호 드라마 최종회'는 지난해 10월부터 서울 부산 대구 인천 울산]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2FTHEFACT%2F20220114122455303rlgo.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['전주국제영화제' 오프라인 개최..4월 28일 개막[공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220114132400115</link>
+            <guid>https://movie.v.daum.net/v/20220114132400115</guid>
+            <pubDate>Fri, 14 Jan 2022 13:27:21 GMT</pubDate>
+            <content:encoded><![CDATA[제23회 전주국제영화제(집행위원장 이준동)는 오프라인 대면 개최된다. 14일 전주국제영화제 측은 “지난해 말 이사회 의결을 통해 올해의 영화제는 오는 4월 28일부터 5월 7일까지 열흘간 열린다”고 밝혔다. 무엇보다 철저한 방역지침 준수와 함께 오프라인 대면 행사를 정상화하는데 집중할 방침이다. 코로나19의 유행 가운데 얻어낸 성과는 계승하되 영화제의 본]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F14%2Fstartoday%2F20220114132405080gdya.png" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[빅픽처] '하우스 오브 구찌', 신데렐라는 없다..가족 사업 뒤흔든 핏빛 비극 (다음영화 뉴스 ─ 최신)]]></title>
@@ -1465,7 +1465,7 @@
             <link>https://tv.naver.com/v/24606201</link>
             <guid>https://tv.naver.com/v/24606201</guid>
             <pubDate>Fri, 14 Jan 2022 10:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220114_56/EKssd_1642153029038IcLv0_JPEG/5114eda8-751d-11ec-9cfd-505dacfba98a_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1473,7 +1473,7 @@
             <link>https://tv.naver.com/v/24605489</link>
             <guid>https://tv.naver.com/v/24605489</guid>
             <pubDate>Fri, 14 Jan 2022 09:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220114_295/RtJPm_1642150835013xVqvb_JPEG/35ee307f-7518-11ec-bf46-a0369ff95ec0_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1481,7 +1481,7 @@
             <link>https://tv.naver.com/v/24605024</link>
             <guid>https://tv.naver.com/v/24605024</guid>
             <pubDate>Fri, 14 Jan 2022 09:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220114_105/nAaN0_1642149670619zv0Jy_JPEG/7d2d5a59-7515-11ec-8355-246e963a4708_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1489,7 +1489,7 @@
             <link>https://tv.naver.com/v/24605038</link>
             <guid>https://tv.naver.com/v/24605038</guid>
             <pubDate>Fri, 14 Jan 2022 09:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220114_43/gGx6V_1642149698770JyVhr_JPEG/b3352419-7515-11ec-9f69-505dac8c3639_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1497,7 +1497,7 @@
             <link>https://tv.naver.com/v/24604892</link>
             <guid>https://tv.naver.com/v/24604892</guid>
             <pubDate>Fri, 14 Jan 2022 09:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220114_289/evo4r_1642149389200HHBww_JPEG/cbc47baf-7514-11ec-89ca-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1505,7 +1505,7 @@
             <link>https://tv.naver.com/v/24600585</link>
             <guid>https://tv.naver.com/v/24600585</guid>
             <pubDate>Fri, 14 Jan 2022 06:24:54 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220114_127/7F6jT_1642138636008GFP4V_JPEG/bca647f2-74fb-11ec-99fd-a0369ff94ed0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1521,7 +1521,7 @@
             <link>https://tv.naver.com/v/24600160</link>
             <guid>https://tv.naver.com/v/24600160</guid>
             <pubDate>Fri, 14 Jan 2022 05:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220114_249/rzY6M_1642137468459O1OSM_JPEG/186f2a89-74f9-11ec-a810-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1529,7 +1529,7 @@
             <link>https://tv.naver.com/v/24599900</link>
             <guid>https://tv.naver.com/v/24599900</guid>
             <pubDate>Fri, 14 Jan 2022 05:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220114_125/NsZV3_1642145900910FYmI5_JPEG/1642145898809.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1537,7 +1537,7 @@
             <link>https://tv.naver.com/v/24599713</link>
             <guid>https://tv.naver.com/v/24599713</guid>
             <pubDate>Fri, 14 Jan 2022 05:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220114_101/V3Mhk_16421363330094L23I_JPEG/74602f4e-74f6-11ec-89ca-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
