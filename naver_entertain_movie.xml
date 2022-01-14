@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-14T09:21:43.568Z</updated>
+    <updated>2022-01-14T10:23:14.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘경관의 피’ 권율, 12㎏ 증량+태닝으로 만든 매력적 빌런 스틸 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000533360</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000533360"/>
+        <updated>2022-01-14T10:21:49.310Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 송오정 기자] '경관의 피' 나영빈을 연기한 권율이 독보적인 악역 매력으로 극장을 사로잡았다. 영화 '경관의 피'(감독 이규만)가 독보적인 악역의 탄생으로 주목받고 있는 권율의 빌런 스틸을 공개했다. 권율은]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팝인터뷰]'킹메이커' 이선균 "'불한당'팀에 굴러온 돌 될까 우려..설경구 옆 쾌감 느껴"(종합)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003521176</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003521176"/>
+        <updated>2022-01-14T10:21:49.311Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] 배우 이선균이 '불한당: 나쁜 놈들의 세상'팀에 합류, 다채로운 연기를 담아냈다. 이선균은 신작 '킹메이커'를 통해 전 세계를 사로잡은 바 있는 영화 '기생충' 이후 오랜만에 스크린 컴백]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['웨스트 사이드 스토리' 배우 레이첼 지글러 "마리아와 비슷한 변화를 겪고 있다"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046394</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046390"/>
         <updated>2022-01-14T07:18:37.410Z</updated>
         <content type="html"><![CDATA[“누가 내 돼지를 가져갔지?” 오리건주의 버려진 땅에서 오막살이를 하는 주인공 롭(니콜라스 케이지)은 황금빛깔의 돼지 한 마리와 단둘이 살아가고 있다. 푸드 바이어인 아미르(알렉스 울프)를 제외하곤 숲속에 파묻힌 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거장 고레에다 감독의 '그렇게 아버지…' TBS 방영]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010945449</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010945449"/>
-        <updated>2022-01-14T07:18:37.420Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]전재경 인턴 기자 = TBS '무비컬렉션'이 14일 오후 10시 30분 영화 '그렇게 아버지가 된다'를 방영한다. 2013년 개봉한 '그렇게 아버지가 된다'는 '어느 가족' '아무도 모른다' 등을 연출]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선균, 조우진에게 감탄한 이유 "뱀 같은 배우, 징글징글하게 연기"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000279083</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000279083"/>
-        <updated>2022-01-14T07:18:37.420Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 배우 이선균이 '킹메이커'로 처음 호흡을 맞춘 후배 조우진에게 감탄한 사연을 밝혔다. 14일 오후 기자들과 온라인 화상 인터뷰를 가진 이선균은 영화 중·후반부 흥미로운 장면을 탄생]]></content>
     </entry>
 </feed>
