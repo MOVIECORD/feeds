@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 11:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 12:31:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,20 +64,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F16%2Fstarnews%2F20220116130010916dcey.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[임영웅 '사랑은 늘 도망가' 영상, 총 조회수 3200만뷰 "촉촉한 감성"]]></title>
-            <link>https://movie.v.daum.net/v/20220116001355392</link>
-            <guid>https://movie.v.daum.net/v/20220116001355392</guid>
-            <pubDate>Sun, 16 Jan 2022 02:41:41 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]가수 임영웅의 첫 OST '사랑은 늘 도망가' 영상 총 조회수가 3200만 뷰를 돌파했다. 15일 임영웅의 '사랑은 늘 도망가' 뮤직비디오와 공식 오디오 영상, 가사 영상, 음원 영상이 총 3200만 뷰를 넘어섰다. '사랑은 늘 도망가'는 KBS2 주말드라마 '신사와 아가씨' 메인 OST다. 감성 발라더 이문세의 노래로 작]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F16%2Fmydaily%2F20220116001355192bojt.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[미리 보는] '도쿄 리벤저스' -'레지던트 이블 :라쿤시티'-'미싱타는 여자들']]></title>
             <link>https://movie.v.daum.net/v/20220116100004198</link>
             <guid>https://movie.v.daum.net/v/20220116100004198</guid>
             <pubDate>Sun, 16 Jan 2022 02:41:41 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진=각 영화 포스터 '경관의 피'에 이어 '특송'까지 한국영화가 차례로 출격하고 스티븐 스필버그 감독의 '웨스트 사이드 스토리'각 연초 극장가를 지키고 있는 가운데 새로운 영화들이 관객을 만난다. 개봉이 연기 됐다가 관객을 만나게 된 '도쿄 리벤저스'를 비롯해 '레지던트 이블 : 라쿤시티', '미싱타는 여자들' 등이 개봉한다.]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F16%2Fstarnews%2F20220116100005641ksmf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[임영웅 '사랑은 늘 도망가' 영상, 총 조회수 3200만뷰 "촉촉한 감성"]]></title>
+            <link>https://movie.v.daum.net/v/20220116001355392</link>
+            <guid>https://movie.v.daum.net/v/20220116001355392</guid>
+            <pubDate>Sun, 16 Jan 2022 02:41:41 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]가수 임영웅의 첫 OST '사랑은 늘 도망가' 영상 총 조회수가 3200만 뷰를 돌파했다. 15일 임영웅의 '사랑은 늘 도망가' 뮤직비디오와 공식 오디오 영상, 가사 영상, 음원 영상이 총 3200만 뷰를 넘어섰다. '사랑은 늘 도망가'는 KBS2 주말드라마 '신사와 아가씨' 메인 OST다. 감성 발라더 이문세의 노래로 작]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F16%2Fmydaily%2F20220116001355192bojt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[TEN피플]"'특송2', 박소담이 운전대 잡아줄까요?"..여성 액션 영화 '꿈' 이룬 박대민 감독]]></title>
@@ -96,12 +96,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F16%2Fohmynews%2F20220116120601421uiwn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[정현준, '특송' 빛낸 작은 거인의 힘 [★신스틸러]]]></title>
-            <link>https://movie.v.daum.net/v/20220116121700349</link>
-            <guid>https://movie.v.daum.net/v/20220116121700349</guid>
-            <pubDate>Sun, 16 Jan 2022 04:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 정현준 / 사진=NEW 될 성 부른 나무는 떡잎부터 알아본다. 영화 '특송'의 정현준이 작지만 큰 존재감을 뽐냈다. '특송'(감독 박대민)은 성공률 100%의 특송 전문 드라이버 '은하'(박소담 분)가 예기치 못한 배송사고에 휘말리면서 벌어지는 추격전을 그린 범죄 오락 액션 영화. 특송 전문 드라이버 '은하'는 얼떨결에 서원]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F16%2Fstarnews%2F20220116121702820pvla.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['해적: 도깨비 깃발', 강하늘X한효주→오세훈X채수빈 완벽 케미 '호평']]></title>
+            <link>https://movie.v.daum.net/v/20220116110001162</link>
+            <guid>https://movie.v.daum.net/v/20220116110001162</guid>
+            <pubDate>Sun, 16 Jan 2022 07:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 해적: 도깨비 깃발 / 사진=롯데엔터테인먼트 '해적: 도깨비 깃발'이 배우들이 완성한 다채로운 케미스트리가 이목을 집중시킨다. '해적: 도깨비 깃발'은 흔적도 없이 사라진 왕실 보물의 주인이 되기 위해 바다로 모인 해적들의 스펙터클한 모험을 그린 영화. '해적: 도깨비 깃발'에서 자칭 고려 제일검이자 의적단 두목 '무치'로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F16%2Fstarnews%2F20220116110003106txcm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[윤여정→오영수..70대 노배우들 열정, 뜨거운 감동을 전하다 [★날선무비]]]></title>
@@ -112,12 +112,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F15%2Fstarnews%2F20220115150002587ucph.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["책임감 실천" 박소담, 첫 원톱 주연의 자격 [★비하인드]]]></title>
-            <link>https://movie.v.daum.net/v/20220116110003168</link>
-            <guid>https://movie.v.daum.net/v/20220116110003168</guid>
-            <pubDate>Sun, 16 Jan 2022 07:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 박소담 / 사진=NEW배우 박소담이 '특송'에서 첫 원톱 주연을 맡아 필모그래피 사상 첫 액션에 도전했다. 안정적인 연기력은 물론 고난도 카체이싱부터 타격감 넘치는 액션까지. 박소담은 자신의 존재감을 드러내며 스스로 '원톱 주연'의 자격을 입증했다. 지난 12일 개봉한 영화 '특송'(감독 박대민)은 성공률 100%의 특송 전문]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F16%2Fstarnews%2F20220116110004862fpay.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[정현준, '특송' 빛낸 작은 거인의 힘 [★신스틸러]]]></title>
+            <link>https://movie.v.daum.net/v/20220116121700349</link>
+            <guid>https://movie.v.daum.net/v/20220116121700349</guid>
+            <pubDate>Sun, 16 Jan 2022 04:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 정현준 / 사진=NEW 될 성 부른 나무는 떡잎부터 알아본다. 영화 '특송'의 정현준이 작지만 큰 존재감을 뽐냈다. '특송'(감독 박대민)은 성공률 100%의 특송 전문 드라이버 '은하'(박소담 분)가 예기치 못한 배송사고에 휘말리면서 벌어지는 추격전을 그린 범죄 오락 액션 영화. 특송 전문 드라이버 '은하'는 얼떨결에 서원]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F16%2Fstarnews%2F20220116121702820pvla.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['킹메이커', 스페셜 포스터 공개.."가장 스타일리시한 정치 드라마"]]></title>
@@ -128,12 +128,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F16%2Fstarnews%2F20220116093006842ikfc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['해적: 도깨비 깃발', 강하늘X한효주→오세훈X채수빈 완벽 케미 '호평']]></title>
-            <link>https://movie.v.daum.net/v/20220116110001162</link>
-            <guid>https://movie.v.daum.net/v/20220116110001162</guid>
+            <title><![CDATA["책임감 실천" 박소담, 첫 원톱 주연의 자격 [★비하인드]]]></title>
+            <link>https://movie.v.daum.net/v/20220116110003168</link>
+            <guid>https://movie.v.daum.net/v/20220116110003168</guid>
             <pubDate>Sun, 16 Jan 2022 07:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 해적: 도깨비 깃발 / 사진=롯데엔터테인먼트 '해적: 도깨비 깃발'이 배우들이 완성한 다채로운 케미스트리가 이목을 집중시킨다. '해적: 도깨비 깃발'은 흔적도 없이 사라진 왕실 보물의 주인이 되기 위해 바다로 모인 해적들의 스펙터클한 모험을 그린 영화. '해적: 도깨비 깃발'에서 자칭 고려 제일검이자 의적단 두목 '무치'로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F16%2Fstarnews%2F20220116110003106txcm.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 박소담 / 사진=NEW배우 박소담이 '특송'에서 첫 원톱 주연을 맡아 필모그래피 사상 첫 액션에 도전했다. 안정적인 연기력은 물론 고난도 카체이싱부터 타격감 넘치는 액션까지. 박소담은 자신의 존재감을 드러내며 스스로 '원톱 주연'의 자격을 입증했다. 지난 12일 개봉한 영화 '특송'(감독 박대민)은 성공률 100%의 특송 전문]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F16%2Fstarnews%2F20220116110004862fpay.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 최우식 "'기생충' 이후 큰 부담..정답은 '과정'"①]]></title>
