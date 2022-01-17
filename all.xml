@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 17:29:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 19:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나에 ‘실종’됐던 한국 영화… 설 연휴 3편 대격돌 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=023&amp;aid=0003666919</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=023&amp;aid=0003666919</guid>
+            <pubDate>Mon, 17 Jan 2022 19:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[강하늘·한효주와 돌아온 ‘해적 2′ - 한겨울에 즐기는 해상 액션물 실화 바탕에 둔 정치극 ‘킹메이커’ - 선거판의 치열한 두뇌싸움 그려 박소담이 이끄는 K추격 액션 ‘특송’ - 창의적인 연출로 남다른 속도감 연말]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA['이터널스' 마동석, '길가메시' 한국어 더빙 참여..마블 사상 가장 자연스러운 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003522060</link>
@@ -174,13 +181,6 @@
             <guid>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003521917</guid>
             <pubDate>Mon, 17 Jan 2022 08:24:48 GMT</pubDate>
             <content:encoded><![CDATA[[헤럴드POP=이미지 기자] '도희야' 정주리 감독과 배우 배두나가 '다음 소희'를 통해 8년 만에 다시 뭉쳤다. 영화 '다음 소희'는 콜센터로 현장실습을 나가게 된 여고생 소희가 겪게 되는 사건과 이에 의문을 품는]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['장민호 드라마 최종회' 24일 개봉확정..순간 담은 30초 예고편 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003521914</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003521914</guid>
-            <pubDate>Mon, 17 Jan 2022 08:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=이미지 기자] '장민호 드라마 최종회'가 개봉일을 확정하고, ‘드라마’의 순간을 담은 30초 예고편을 공개했다. 영화 '장민호 드라마 최종회'는 아티스트 장민호의 첫 단독 콘서트 투어 '드라마'의 공연]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스파이더맨: 노 웨이 홈 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -558,14 +558,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F17%2Fohmynews%2F20220117102716034jmfb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["'아이언맨' 톰 크루즈 잘 어울려", 과연 '닥터 스트레인지2'에 나올까[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220116151045612</link>
-            <guid>https://movie.v.daum.net/v/20220116151045612</guid>
-            <pubDate>Sun, 16 Jan 2022 07:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘아이언맨’ 톰 크루즈의 아트워크가 공개됐다. 디지털 아티스트 pdrmnkyxii는 15일(현지시간) 인스타그램에 ‘아이언맨’으로 변신한 톰 크루즈의 이미지를 게재했다. 현재 미국에서는 변종 ‘아이언맨’(톰 크루즈)이 ‘닥터 스트레인지2’에 출연할 것이라는 루머가 무성하다. 앞서 ‘스파이더맨:노웨이홈’에서 멀티버스가 열렸]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F16%2Fmydaily%2F20220116151045723idvt.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[흥행 깃발 꽂은 '해적:도깨비 깃발' [성적표] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220117143700854</link>
             <guid>https://movie.v.daum.net/v/20220117143700854</guid>
@@ -580,6 +572,14 @@
             <pubDate>Mon, 17 Jan 2022 11:16:52 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]트로트 꽃사슴 장민호의 첫 단독 콘서트, 그 생생한 순간은 물론 인간 장민호의 진솔한 이야기를 담아낸 콘서트 무비 '장민호 드라마 최종회'(제작,배급: CGV, ICECON/ 제공: HO Entertainment, S27 Entertainment)가 1월 24일 개봉을 확정하고, ‘드라마’의 순간을 담은 30초 예고편을 공개했]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F17%2Fmydaily%2F20220117101920006wgrb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["'아이언맨' 톰 크루즈 잘 어울려", 과연 '닥터 스트레인지2'에 나올까[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220116151045612</link>
+            <guid>https://movie.v.daum.net/v/20220116151045612</guid>
+            <pubDate>Sun, 16 Jan 2022 07:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘아이언맨’ 톰 크루즈의 아트워크가 공개됐다. 디지털 아티스트 pdrmnkyxii는 15일(현지시간) 인스타그램에 ‘아이언맨’으로 변신한 톰 크루즈의 이미지를 게재했다. 현재 미국에서는 변종 ‘아이언맨’(톰 크루즈)이 ‘닥터 스트레인지2’에 출연할 것이라는 루머가 무성하다. 앞서 ‘스파이더맨:노웨이홈’에서 멀티버스가 열렸]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F16%2Fmydaily%2F20220116151045723idvt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[진선규, '킹메이커' 약방 농부로 카메오..'불한당' 인연 (다음영화 뉴스 ─ 인기)]]></title>
@@ -622,20 +622,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F16%2Fohmynews%2F20220116124201479dkvz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[인기 고공 행진하던 앵커, 뜻밖의 추락 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220116102401581</link>
-            <guid>https://movie.v.daum.net/v/20220116102401581</guid>
-            <pubDate>Sun, 16 Jan 2022 02:41:41 GMT</pubDate>
-            <content:encoded><![CDATA[[장혜령 기자] * 이 글에는 영화의 스포일러가 포함돼 있습니다. &nbsp;        ▲ &nbsp;영화 &lt;프랑스&gt; 스틸컷    ⓒ 엠엔엠인터내셔널(주)  &nbsp; 브뤼노 뒤몽의 영화가 개봉한다니 한걸음에 달려가 볼 수밖에 없었다. 자국에서는 모르겠지만 한국에서는 도무지 영화제가 아니고서야 볼 수 있는 기회가 없는 감독으로 유명해서다. 보는 사람에 따라 괴작과 수작 사이를]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F16%2Fohmynews%2F20220116102402397nluc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[음주예찬 영화? '어나더 라운드' 묘미는 따로 있다 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220117113600983</link>
             <guid>https://movie.v.daum.net/v/20220117113600983</guid>
             <pubDate>Mon, 17 Jan 2022 07:19:21 GMT</pubDate>
             <content:encoded><![CDATA[[김상목 기자] ▲ "어나더 라운드" 스틸&nbsp;영화 스틸 이미지    ⓒ (주)엣나인필름  &nbsp; 1_매즈 미켈슨과 위기의 중년들 &nbsp; 현재까지 수상목록이 운동장 몇 바퀴 가뿐히 돌고 올 기세의 영화 &lt;어나더 라운드&gt;를 봤다. 명성이 자자하면 기대치도 그만큼 올라가게 마련이다. 두근거림과 불안이 교차하며 영화를 보기 시작했다. 2시간을 거의 꽉 채우는]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F17%2Fohmynews%2F20220117113601482mmrv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[인기 고공 행진하던 앵커, 뜻밖의 추락 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220116102401581</link>
+            <guid>https://movie.v.daum.net/v/20220116102401581</guid>
+            <pubDate>Sun, 16 Jan 2022 02:41:41 GMT</pubDate>
+            <content:encoded><![CDATA[[장혜령 기자] * 이 글에는 영화의 스포일러가 포함돼 있습니다. &nbsp;        ▲ &nbsp;영화 &lt;프랑스&gt; 스틸컷    ⓒ 엠엔엠인터내셔널(주)  &nbsp; 브뤼노 뒤몽의 영화가 개봉한다니 한걸음에 달려가 볼 수밖에 없었다. 자국에서는 모르겠지만 한국에서는 도무지 영화제가 아니고서야 볼 수 있는 기회가 없는 감독으로 유명해서다. 보는 사람에 따라 괴작과 수작 사이를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F16%2Fohmynews%2F20220116102402397nluc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['컬투쇼' 이시언 "♥서지승과 결혼 3주 차, 아직도 여자친구 같아" (다음영화 뉴스 ─ 인기)]]></title>
@@ -646,20 +646,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F17%2Fstarnews%2F20220117150049528bvwk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[정현준, '특송' 빛낸 작은 거인의 힘 [★신스틸러] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220116121700349</link>
-            <guid>https://movie.v.daum.net/v/20220116121700349</guid>
-            <pubDate>Mon, 17 Jan 2022 01:06:33 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 정현준 / 사진=NEW 될 성 부른 나무는 떡잎부터 알아본다. 영화 '특송'의 정현준이 작지만 큰 존재감을 뽐냈다. '특송'(감독 박대민)은 성공률 100%의 특송 전문 드라이버 '은하'(박소담 분)가 예기치 못한 배송사고에 휘말리면서 벌어지는 추격전을 그린 범죄 오락 액션 영화. 특송 전문 드라이버 '은하'는 얼떨결에 서원]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F16%2Fstarnews%2F20220116121702820pvla.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[서현, 소녀시대 언니들 놀랄 파격 변신.."아찔 로맨스 '모럴센스', 2월 11일 공개" [공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220117100233810</link>
             <guid>https://movie.v.daum.net/v/20220117100233810</guid>
             <pubDate>Mon, 17 Jan 2022 14:18:41 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 그룹 소녀시대 멤버 겸 배우 서현의 넷플릭스 영화 '모럴센스'가 다음달 11일 공개된다. '모럴센스'는 모든 게 완벽하지만 남다른 성적 취향을 가진 지후와 그의 비밀을 알게 된 유능한 홍보팀 사원 지우의 아찔한 취향존중 로맨스를 그린 넷플릭스 영화다. 동명의 인기 웹툰을 원작으로 한 '모럴센스'는 현실 반영 로맨스로 공감을]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F17%2Fmydaily%2F20220117100233952rjbj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[정현준, '특송' 빛낸 작은 거인의 힘 [★신스틸러] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220116121700349</link>
+            <guid>https://movie.v.daum.net/v/20220116121700349</guid>
+            <pubDate>Mon, 17 Jan 2022 01:06:33 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 정현준 / 사진=NEW 될 성 부른 나무는 떡잎부터 알아본다. 영화 '특송'의 정현준이 작지만 큰 존재감을 뽐냈다. '특송'(감독 박대민)은 성공률 100%의 특송 전문 드라이버 '은하'(박소담 분)가 예기치 못한 배송사고에 휘말리면서 벌어지는 추격전을 그린 범죄 오락 액션 영화. 특송 전문 드라이버 '은하'는 얼떨결에 서원]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F16%2Fstarnews%2F20220116121702820pvla.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<유체이탈자> 카체이싱 영상 (우리 영화 볼래?)]]></title>
@@ -1306,7 +1306,7 @@
             <link>https://tv.naver.com/v/24648046</link>
             <guid>https://tv.naver.com/v/24648046</guid>
             <pubDate>Mon, 17 Jan 2022 09:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_194/YeiJT_1642411007974wGPfo_JPEG/fc9d9f7f-7775-11ec-bd70-505dac8c38f5_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1314,7 +1314,7 @@
             <link>https://tv.naver.com/v/24647788</link>
             <guid>https://tv.naver.com/v/24647788</guid>
             <pubDate>Mon, 17 Jan 2022 09:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_250/BGMKV_1642410219441clO0J_JPEG/e005bf0c-7773-11ec-8e85-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1322,7 +1322,7 @@
             <link>https://tv.naver.com/v/24647021</link>
             <guid>https://tv.naver.com/v/24647021</guid>
             <pubDate>Mon, 17 Jan 2022 09:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_198/hItka_1642408461549MiCON_JPEG/1c7e3c04-7770-11ec-bf63-505dac8c3721_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1330,7 +1330,7 @@
             <link>https://tv.naver.com/v/24643948</link>
             <guid>https://tv.naver.com/v/24643948</guid>
             <pubDate>Mon, 17 Jan 2022 07:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_287/aLtbF_1642400940386qqKEK_JPEG/9d61672f-775e-11ec-8e85-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1338,7 +1338,7 @@
             <link>https://tv.naver.com/v/24643832</link>
             <guid>https://tv.naver.com/v/24643832</guid>
             <pubDate>Mon, 17 Jan 2022 06:25:13 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_196/nY1kI_1642400602605eI6sC_JPEG/afab0fac-775d-11ec-9c62-505dac8c381b_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1346,7 +1346,7 @@
             <link>https://tv.naver.com/v/24643580</link>
             <guid>https://tv.naver.com/v/24643580</guid>
             <pubDate>Mon, 17 Jan 2022 06:25:13 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_47/neo2p_1642399868768gMWQQ_JPEG/18f3cc61-775c-11ec-8e85-48df379ccacc_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1354,7 +1354,7 @@
             <link>https://tv.naver.com/v/24643468</link>
             <guid>https://tv.naver.com/v/24643468</guid>
             <pubDate>Mon, 17 Jan 2022 06:25:13 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_168/McnmP_1642399592741CjDtr_JPEG/73f50780-775b-11ec-9f25-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1362,7 +1362,7 @@
             <link>https://tv.naver.com/v/24639553</link>
             <guid>https://tv.naver.com/v/24639553</guid>
             <pubDate>Mon, 17 Jan 2022 03:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_98/QZun9_1642387454448UBWsl_JPEG/1da2b467-773f-11ec-9c62-505dac8c381b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1370,7 +1370,7 @@
             <link>https://tv.naver.com/v/24639277</link>
             <guid>https://tv.naver.com/v/24639277</guid>
             <pubDate>Mon, 17 Jan 2022 02:41:37 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_23/xshNV_1642386422150jGGAD_JPEG/cd653e5f-773c-11ec-8e85-48df379ccacc_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
