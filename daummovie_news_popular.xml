@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 22:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 23:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,14 +40,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F17%2FSpoChosun%2F20220117105247380sbys.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] '특송' 송새벽의 빌런은 확실히 다르다]]></title>
-            <link>https://movie.v.daum.net/v/20220117140447557</link>
-            <guid>https://movie.v.daum.net/v/20220117140447557</guid>
-            <pubDate>Mon, 17 Jan 2022 08:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] 어느 영화에나 꼭 하나씩 있는 ‘빌런’이라고 하면 험상궂은 인상에 큰 덩치, 무게 잡는 말투가 떠오른다. 마치 설정값이 있는 것 같이 비슷한 캐릭터들의 연속이다. 하지만 배우 송새벽이 그린 빌런은 다르다. 무자비하고 악랄하지만 어눌한 말투와 왜소한 몸이 현실에 있을 만한 빌런 같다. 윽박지르지 않아도 악독한 눈빛으로 분위기를 압도하는 그의 연]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F17%2Fseouleconomy%2F20220117140456305nivv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[트로트 꽃사슴 '장민호 드라마 최종회', 1월 24일 개봉 확정]]></title>
             <link>https://movie.v.daum.net/v/20220117101919535</link>
             <guid>https://movie.v.daum.net/v/20220117101919535</guid>
@@ -56,12 +48,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F17%2Fmydaily%2F20220117101920006wgrb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[흥행 깃발 꽂은 '해적:도깨비 깃발' [성적표]]]></title>
-            <link>https://movie.v.daum.net/v/20220117143700854</link>
-            <guid>https://movie.v.daum.net/v/20220117143700854</guid>
+            <title><![CDATA[[인터뷰] '특송' 송새벽의 빌런은 확실히 다르다]]></title>
+            <link>https://movie.v.daum.net/v/20220117140447557</link>
+            <guid>https://movie.v.daum.net/v/20220117140447557</guid>
             <pubDate>Mon, 17 Jan 2022 08:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=전동선 기자] 흥미진진한 전개와 유쾌한 재미, 압도적인 볼거리로 뜨거운 호평을 불러일으키고 있는 영화 '해적: 도깨비 깃발'이 예매율 1위를 기록하며 흥행몰이를 예고하고 있다. 특히 개봉 9일 전인 17일 전체 예매율 1위에 등극하며 강력한 흥행세를 예감케 하고 있다. 한국 오락 블록버스터의 한 획을 그었던 ‘해적’의 귀환 '해적: 도깨비 깃]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F17%2Ftvreport%2F20220117143704117eoub.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[서울경제] 어느 영화에나 꼭 하나씩 있는 ‘빌런’이라고 하면 험상궂은 인상에 큰 덩치, 무게 잡는 말투가 떠오른다. 마치 설정값이 있는 것 같이 비슷한 캐릭터들의 연속이다. 하지만 배우 송새벽이 그린 빌런은 다르다. 무자비하고 악랄하지만 어눌한 말투와 왜소한 몸이 현실에 있을 만한 빌런 같다. 윽박지르지 않아도 악독한 눈빛으로 분위기를 압도하는 그의 연]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F17%2Fseouleconomy%2F20220117140456305nivv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[가면과 함께 11년 만에 돌아온 '스크림' 1위 등극]]></title>
@@ -72,20 +64,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F17%2Fohmynews%2F20220117102716034jmfb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['하우스 오브 구찌' 스타일이 무기, 2030 여성 관객 취향저격]]></title>
-            <link>https://movie.v.daum.net/v/20220117102305673</link>
-            <guid>https://movie.v.daum.net/v/20220117102305673</guid>
-            <pubDate>Mon, 17 Jan 2022 08:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[패션 영화인 만큼 높은 수준의 미술을 보여준다. 레이디 가가 주연의 영화 '하우스 오브 구찌(리들리 스콧 감독)'이 감각적인 비주얼과 파격적인 스토리로 2030 여성 관객들의 취향을 사로잡고 있다. '하우스 오브 구찌'는 구찌의 화려함 뒤에 숨겨진 치명적인 욕망과 탐욕 그리고 살인을 그린 작품이다. CGV 공식 홈페이지에 따르면 '하우스 오브 구찌']]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F17%2Filgansports%2F20220117102305589amhh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[진선규, '킹메이커' 약방 농부로 카메오..'불한당' 인연]]></title>
             <link>https://movie.v.daum.net/v/20220117094809245</link>
             <guid>https://movie.v.daum.net/v/20220117094809245</guid>
             <pubDate>Mon, 17 Jan 2022 09:21:06 GMT</pubDate>
             <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '킹메이커'(감독 변성현)에서 카메오로 깜짝 등장한 진선규의 출연이 화제를 모은다. 진선규는 웰메이드 작품으로 호평받는 영화 '킹메이커'에 우정 출연해 영화의 완성도를 높였다. '킹메이커'는 세상을 바꾸기 위해 도전하는 정치인 김운범과 존재도 이름도 숨겨진 선거 전략가 서창대가 치열한 선거판에 뛰어들며 시작되는 드라]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F17%2FNEWS1%2F20220117094810810hiwp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[흥행 깃발 꽂은 '해적:도깨비 깃발' [성적표]]]></title>
+            <link>https://movie.v.daum.net/v/20220117143700854</link>
+            <guid>https://movie.v.daum.net/v/20220117143700854</guid>
+            <pubDate>Mon, 17 Jan 2022 08:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=전동선 기자] 흥미진진한 전개와 유쾌한 재미, 압도적인 볼거리로 뜨거운 호평을 불러일으키고 있는 영화 '해적: 도깨비 깃발'이 예매율 1위를 기록하며 흥행몰이를 예고하고 있다. 특히 개봉 9일 전인 17일 전체 예매율 1위에 등극하며 강력한 흥행세를 예감케 하고 있다. 한국 오락 블록버스터의 한 획을 그었던 ‘해적’의 귀환 '해적: 도깨비 깃]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F17%2Ftvreport%2F20220117143704117eoub.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['하우스 오브 구찌' 스타일이 무기, 2030 여성 관객 취향저격]]></title>
+            <link>https://movie.v.daum.net/v/20220117102305673</link>
+            <guid>https://movie.v.daum.net/v/20220117102305673</guid>
+            <pubDate>Mon, 17 Jan 2022 08:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[패션 영화인 만큼 높은 수준의 미술을 보여준다. 레이디 가가 주연의 영화 '하우스 오브 구찌(리들리 스콧 감독)'이 감각적인 비주얼과 파격적인 스토리로 2030 여성 관객들의 취향을 사로잡고 있다. '하우스 오브 구찌'는 구찌의 화려함 뒤에 숨겨진 치명적인 욕망과 탐욕 그리고 살인을 그린 작품이다. CGV 공식 홈페이지에 따르면 '하우스 오브 구찌']]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F17%2Filgansports%2F20220117102305589amhh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[불치병 걸린 여인이 선택한 생애 마지막 권리]]></title>
@@ -96,12 +96,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F17%2Fohmynews%2F20220117112702901payk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['뉴스룸' 정호연 "톱모델→배우 변신, 절박함 속 호기심..더 노력할 것"]]></title>
+            <link>https://movie.v.daum.net/v/20220118074459790</link>
+            <guid>https://movie.v.daum.net/v/20220118074459790</guid>
+            <pubDate>Mon, 17 Jan 2022 23:20:09 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 배우 정호연이 15일 오전 온라인 생중계로 진행된 넷플릭스 '오징어 게임' 제작발표회에 참석해 포즈를 취하고 있다.  456억 원의 상금이 걸린 의문의 서바이벌에 참가한 사람들이 최후의 승자가 되기 위해 목숨을 걸고 극한의 게임에 도전하는 이야기를 담은 '오징어게임'은 오는 17일 공개된다. /사진제공=넷플릭스 2021.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fstarnews%2F20220118074913529ykmc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['웨스트 사이드 스토리', 새해 극장가 사로잡았다]]></title>
             <link>https://movie.v.daum.net/v/20220117100412894</link>
             <guid>https://movie.v.daum.net/v/20220117100412894</guid>
             <pubDate>Mon, 17 Jan 2022 11:16:52 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 영화 '웨스트 사이드 스토리'(감독 스티븐 스필버그)가 개봉 이후 관객들의 뜨거운 호평을 얻고 있다. 17일 오전 7시 기준 영화관입장권 통합전산망에 따르면 스티븐 스필버그 감독의 첫 번째 뮤지컬 '웨스트 사이드 스토리'가 개봉 첫 주말까지 누적 관객 수 7만8,492명을 기록했다. '웨스트 사이드 스토리'는 자신을 가둔 환]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F17%2Fxportsnews%2F20220117100414615oaee.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[음주예찬 영화? '어나더 라운드' 묘미는 따로 있다]]></title>
+            <link>https://movie.v.daum.net/v/20220117113600983</link>
+            <guid>https://movie.v.daum.net/v/20220117113600983</guid>
+            <pubDate>Mon, 17 Jan 2022 07:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[[김상목 기자] ▲ "어나더 라운드" 스틸&nbsp;영화 스틸 이미지    ⓒ (주)엣나인필름  &nbsp; 1_매즈 미켈슨과 위기의 중년들 &nbsp; 현재까지 수상목록이 운동장 몇 바퀴 가뿐히 돌고 올 기세의 영화 &lt;어나더 라운드&gt;를 봤다. 명성이 자자하면 기대치도 그만큼 올라가게 마련이다. 두근거림과 불안이 교차하며 영화를 보기 시작했다. 2시간을 거의 꽉 채우는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F17%2Fohmynews%2F20220117113601482mmrv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[서현, 소녀시대 언니들 놀랄 파격 변신.."아찔 로맨스 '모럴센스', 2월 11일 공개" [공식]]]></title>
+            <link>https://movie.v.daum.net/v/20220117100233810</link>
+            <guid>https://movie.v.daum.net/v/20220117100233810</guid>
+            <pubDate>Mon, 17 Jan 2022 14:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 그룹 소녀시대 멤버 겸 배우 서현의 넷플릭스 영화 '모럴센스'가 다음달 11일 공개된다. '모럴센스'는 모든 게 완벽하지만 남다른 성적 취향을 가진 지후와 그의 비밀을 알게 된 유능한 홍보팀 사원 지우의 아찔한 취향존중 로맨스를 그린 넷플릭스 영화다. 동명의 인기 웹툰을 원작으로 한 '모럴센스'는 현실 반영 로맨스로 공감을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F17%2Fmydaily%2F20220117100233952rjbj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["'아이언맨' 톰 크루즈 잘 어울려", 과연 '닥터 스트레인지2'에 나올까[해외이슈]]]></title>
@@ -120,14 +144,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fnewsen%2F20220118054149363zghq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[음주예찬 영화? '어나더 라운드' 묘미는 따로 있다]]></title>
-            <link>https://movie.v.daum.net/v/20220117113600983</link>
-            <guid>https://movie.v.daum.net/v/20220117113600983</guid>
-            <pubDate>Mon, 17 Jan 2022 07:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[[김상목 기자] ▲ "어나더 라운드" 스틸&nbsp;영화 스틸 이미지    ⓒ (주)엣나인필름  &nbsp; 1_매즈 미켈슨과 위기의 중년들 &nbsp; 현재까지 수상목록이 운동장 몇 바퀴 가뿐히 돌고 올 기세의 영화 &lt;어나더 라운드&gt;를 봤다. 명성이 자자하면 기대치도 그만큼 올라가게 마련이다. 두근거림과 불안이 교차하며 영화를 보기 시작했다. 2시간을 거의 꽉 채우는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F17%2Fohmynews%2F20220117113601482mmrv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['특송' 한국영화 1위 계속..25만↑ 훌쩍[박스오피스]]]></title>
             <link>https://movie.v.daum.net/v/20220118050905208</link>
             <guid>https://movie.v.daum.net/v/20220118050905208</guid>
@@ -136,36 +152,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fnewsen%2F20220118050906582orvv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[부모님 반대에 야반도주, 남편 실종이 불러온 파장]]></title>
-            <link>https://movie.v.daum.net/v/20220116122700431</link>
-            <guid>https://movie.v.daum.net/v/20220116122700431</guid>
-            <pubDate>Sun, 16 Jan 2022 04:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[[김상목 기자] 1_에드워드 양의 장편 데뷔작을 만나다 "어느 기분 좋은 새벽에 깨끗한 공기를 마시며 처음으로 소소한 행복을 느끼고 있었어. 그런데 경찰에서 전화가 왔어. 더웨이가 해변에서 발견됐다는 거야. 지금까지의 시간이 꿈만 같은 느낌이야...." 에드워드 양의 장편 데뷔작 &lt;해탄적일천&gt;은 이렇게 시작된다. 과연 무슨 일이 일어난 걸까? 13년 만에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F16%2Fohmynews%2F20220116122703817qtyr.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['스파이더맨' 3일 연속 1위..700만 관객 돌파 눈앞 [Nbox]]]></title>
+            <link>https://movie.v.daum.net/v/20220118072726568</link>
+            <guid>https://movie.v.daum.net/v/20220118072726568</guid>
+            <pubDate>Mon, 17 Jan 2022 23:20:09 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 안태현 기자 = 영화 '스파이더맨: 노 웨이 홈'(감독 존 왓츠)이 700만 관객 돌파를 앞두고 있다. 18일 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 '스파이더맨: 노 웨이 홈'은 지난 17일 2만4484명의 관객을 동원하며 박스오피스 1위에 올랐다. 누적관객수는 692만3355명이다. '스파이더맨: 노 웨이 홈'은 지난]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2FNEWS1%2F20220118072728403sern.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[서현, 소녀시대 언니들 놀랄 파격 변신.."아찔 로맨스 '모럴센스', 2월 11일 공개" [공식]]]></title>
-            <link>https://movie.v.daum.net/v/20220117100233810</link>
-            <guid>https://movie.v.daum.net/v/20220117100233810</guid>
-            <pubDate>Mon, 17 Jan 2022 14:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 그룹 소녀시대 멤버 겸 배우 서현의 넷플릭스 영화 '모럴센스'가 다음달 11일 공개된다. '모럴센스'는 모든 게 완벽하지만 남다른 성적 취향을 가진 지후와 그의 비밀을 알게 된 유능한 홍보팀 사원 지우의 아찔한 취향존중 로맨스를 그린 넷플릭스 영화다. 동명의 인기 웹툰을 원작으로 한 '모럴센스'는 현실 반영 로맨스로 공감을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F17%2Fmydaily%2F20220117100233952rjbj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[몰랐던 '스무 살' 엄마의 첫사랑, 사진 한 장이 준 여운]]></title>
-            <link>https://movie.v.daum.net/v/20220116124200602</link>
-            <guid>https://movie.v.daum.net/v/20220116124200602</guid>
-            <pubDate>Sun, 16 Jan 2022 04:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[[양형석 기자] 90년대 초·중반까지 안성기와 박중훈이라는 '양대산맥'에게 의존하던 한국 영화계는 90년대 후반부터 송강호와 최민식, 설경구 같은 연극배우 출신들이 대거 영화로 유입되면서 배우의 인재풀이 다양해졌다. 연극배우 출신들이 영화 쪽에서 대거 성공사례를 만들어내자 연극 또는 뮤지컬 배우를 꿈꾸던 많은 연기자 지망생 및 배우 유망주들이 영화 쪽으로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F16%2Fohmynews%2F20220116124201479dkvz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[인기 고공 행진하던 앵커, 뜻밖의 추락]]></title>
-            <link>https://movie.v.daum.net/v/20220116102401581</link>
-            <guid>https://movie.v.daum.net/v/20220116102401581</guid>
-            <pubDate>Sun, 16 Jan 2022 02:41:41 GMT</pubDate>
-            <content:encoded><![CDATA[[장혜령 기자] * 이 글에는 영화의 스포일러가 포함돼 있습니다. &nbsp;        ▲ &nbsp;영화 &lt;프랑스&gt; 스틸컷    ⓒ 엠엔엠인터내셔널(주)  &nbsp; 브뤼노 뒤몽의 영화가 개봉한다니 한걸음에 달려가 볼 수밖에 없었다. 자국에서는 모르겠지만 한국에서는 도무지 영화제가 아니고서야 볼 수 있는 기회가 없는 감독으로 유명해서다. 보는 사람에 따라 괴작과 수작 사이를]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F16%2Fohmynews%2F20220116102402397nluc.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['경관의 피' 조진웅x최우식→박명훈, 빈틈없는 연기..호평 포스터 공개]]></title>
+            <link>https://movie.v.daum.net/v/20220118080937197</link>
+            <guid>https://movie.v.daum.net/v/20220118080937197</guid>
+            <pubDate>Mon, 17 Jan 2022 23:20:09 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;새해 극장가에 한국영화의 저력을 보여주고 있는 '경관의 피'가 관객들의 압도적 호평을 담은 2차 리뷰 포스터를 공개했다. 새해 극장가 흥행 포문을 제대로 연 영화 '경관의 피'(감독 이규만, 제공배급 에이스메이커무비웍스, 제작 리양필름)가 관객들의 리얼한 호평을 담은 2차 리뷰 포스터를 공개했다. 먼저 수많은 관객들이&nbsp;“2시간이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fpoctan%2F20220118080937461lqio.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
