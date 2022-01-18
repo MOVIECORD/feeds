@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 15:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 16:32:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,7 +134,7 @@
             <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] '겟 아웃', '어스' 제작진의 신작 '안테벨룸'이 오는 2월 23일 국내 개봉을 확정했다. '안테벨룸'은 성공한 작가가 무언가에 의해 선택받은 뒤 누구의 도움도 바랄 수 없는 끔]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["정치인이 말하는 '각자의 정의'는 정말 다르더군요" (네이버TV연예 ─ 영화)]]></title>
+            <title><![CDATA[[인터뷰] 설경구 "정치인이 말하는 '각자의 정의'는 정말 다르더군요" (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004654425</link>
             <guid>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004654425</guid>
             <pubDate>Tue, 18 Jan 2022 09:20:15 GMT</pubDate>
@@ -566,20 +566,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2FSpoChosun%2F20220118094414680frbq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[코로나에 '실종'됐던 한국 영화.. 설 연휴 3편 대격돌 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220118030347328</link>
-            <guid>https://movie.v.daum.net/v/20220118030347328</guid>
-            <pubDate>Tue, 18 Jan 2022 01:07:19 GMT</pubDate>
-            <content:encoded><![CDATA[연말 연초 한국 극장가는 거미줄에 대롱대롱 매달린 신세였다. 영화 ‘스파이더맨: 노 웨이 홈’이 5주 연속 주말 흥행 1위를 기록하면서 관객 689만명을 돌파했다. 2020년 코로나 사태 직전에 개봉했던 ‘남산의 부장들’(475만명)을 뛰어넘은 유일한 영화이기도 했다. ‘스파이더맨’ 이외에도 ‘킹스맨: 퍼스트 에이전트’ ‘매트릭스: 리저렉션’까지 개봉 신작]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fchosun%2F20220118030352814kihz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['시실리안'..非情美 넘치는 명품 스릴러 [김대호의 옛날영화] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220118105706092</link>
             <guid>https://movie.v.daum.net/v/20220118105706092</guid>
             <pubDate>Tue, 18 Jan 2022 06:20:54 GMT</pubDate>
             <content:encoded><![CDATA[알랑 들롱의 참 멋은 비장함에 있다. 그가 출연한 대부분의 영화에서 마지막 장면은 비참한 최후다. &lt;볼사리노&gt; &lt;암흑가의 두사람&gt; &lt;미망인&gt; 등의 마지막 장면은 주인공 알랑 들롱의 죽음이다. &lt;지하실의 멜로디&gt;를 통해 명 콤비가 된 장 가방과 알랑 들롱 그리고 앙리 베르누이 감독이 다시 손을 잡았다. 1970년 작 &lt;시실리안&gt;은 운항 중인 비행기 안에서]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fmksports%2F20220118105709265rodt.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나에 '실종'됐던 한국 영화.. 설 연휴 3편 대격돌 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220118030347328</link>
+            <guid>https://movie.v.daum.net/v/20220118030347328</guid>
+            <pubDate>Tue, 18 Jan 2022 01:07:19 GMT</pubDate>
+            <content:encoded><![CDATA[연말 연초 한국 극장가는 거미줄에 대롱대롱 매달린 신세였다. 영화 ‘스파이더맨: 노 웨이 홈’이 5주 연속 주말 흥행 1위를 기록하면서 관객 689만명을 돌파했다. 2020년 코로나 사태 직전에 개봉했던 ‘남산의 부장들’(475만명)을 뛰어넘은 유일한 영화이기도 했다. ‘스파이더맨’ 이외에도 ‘킹스맨: 퍼스트 에이전트’ ‘매트릭스: 리저렉션’까지 개봉 신작]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fchosun%2F20220118030352814kihz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['듄' 극장에서 한 번 더? 아이맥스 재개봉 확정 (다음영화 뉴스 ─ 인기)]]></title>
@@ -1306,7 +1306,7 @@
             <link>https://tv.naver.com/v/24668443</link>
             <guid>https://tv.naver.com/v/24668443</guid>
             <pubDate>Tue, 18 Jan 2022 08:25:33 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220118_283/H8lJP_1642491692784bUrFi_JPEG/f5c0da8c-7831-11ec-b27b-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1314,7 +1314,7 @@
             <link>https://tv.naver.com/v/24668120</link>
             <guid>https://tv.naver.com/v/24668120</guid>
             <pubDate>Tue, 18 Jan 2022 08:25:33 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220118_3/TCNPx_1642491153101l3g95_JPEG/6a21b589-7830-11ec-bf63-505dac8c3721_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1322,7 +1322,7 @@
             <link>https://tv.naver.com/v/24666410</link>
             <guid>https://tv.naver.com/v/24666410</guid>
             <pubDate>Tue, 18 Jan 2022 07:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220118_230/40DA5_1642487798348i8oeM_JPEG/cc345791-7828-11ec-b3f1-505dacfbaa5c_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1330,7 +1330,7 @@
             <link>https://tv.naver.com/v/24664896</link>
             <guid>https://tv.naver.com/v/24664896</guid>
             <pubDate>Tue, 18 Jan 2022 06:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220118_15/kysep_1642484541275RvjFU_JPEG/2d1f917c-7821-11ec-b3d2-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1338,7 +1338,7 @@
             <link>https://tv.naver.com/v/24663881</link>
             <guid>https://tv.naver.com/v/24663881</guid>
             <pubDate>Tue, 18 Jan 2022 06:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220118_77/tdC7C_1642482127941PO9vl_JPEG/a03c500c-781b-11ec-8fb9-48df379cc9e4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
