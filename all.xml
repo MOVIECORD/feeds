@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 17:30:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 19:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["난 섹시한 60살"…미 코미디 스타 짐 캐리 환갑 맞아 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012926706</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012926706</guid>
+            <pubDate>Tue, 18 Jan 2022 19:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[(로스앤젤레스=연합뉴스) 정윤섭 특파원 = 미국에서 코미디 배우로 오랫동안 사랑을 받아온 할리우드 스타 짐 캐리가 환갑을 맞았다. 캐리는 변치 않는 유머 감각을 선보이며 예순번째 생일을 자축했다고 18일(현지시간)]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[강하늘X한효주→이광수X권상우 '해적2', 이유 있는 자신감 "반응 폭발적" [종합] (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003570583</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 설경구가 영화 '킹메이커'에서 故 김대중 전 대통령을 모티브로 한 인물을 연기한 소감을 밝혔다. 설경구는 18일 오후 마이데일리와 화상 온라인 인터뷰를 진행했다. 오는 26일 신작]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['듄', IMAX 재개봉 확정 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005129303</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005129303</guid>
-            <pubDate>Tue, 18 Jan 2022 09:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[[이데일리 스타in 박미애 기자] 영화 ‘듄’을 아이맥스( IMAX)로 다시 만난다. ‘듄’(감독 드니 빌뇌브)은 내달 9일 용산아이파크몰·왕십리·천호·판교·창원더시티 등을 비롯해 CGV 아이맥스 전국 17개 지점에]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[스파이더맨: 노 웨이 홈 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=146656</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=146656</guid>
@@ -223,19 +223,19 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb6943a9508e5f9dc4764c57aecc8654af3e24e8f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[비욘드라이브 더 무비 : 엔시티 레조넌스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155555</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155555</guid>
-            <pubDate>Thu, 06 Jan 2022 01:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.12]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[경관의 피 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=136344</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=136344</guid>
             <pubDate>Wed, 05 Jan 2022 01:06:46 GMT</pubDate>
             <content:encoded><![CDATA[22.01.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6a40f6025e785344c32443ed10f7614960cf0c75" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[비욘드라이브 더 무비 : 엔시티 레조넌스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155555</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155555</guid>
+            <pubDate>Thu, 06 Jan 2022 01:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.12]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[청춘적니 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -590,20 +590,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Filgansports%2F20220118085213361rsxx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[코로나에 '실종'됐던 한국 영화.. 설 연휴 3편 대격돌 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220118030347328</link>
-            <guid>https://movie.v.daum.net/v/20220118030347328</guid>
-            <pubDate>Tue, 18 Jan 2022 01:07:19 GMT</pubDate>
-            <content:encoded><![CDATA[연말 연초 한국 극장가는 거미줄에 대롱대롱 매달린 신세였다. 영화 ‘스파이더맨: 노 웨이 홈’이 5주 연속 주말 흥행 1위를 기록하면서 관객 689만명을 돌파했다. 2020년 코로나 사태 직전에 개봉했던 ‘남산의 부장들’(475만명)을 뛰어넘은 유일한 영화이기도 했다. ‘스파이더맨’ 이외에도 ‘킹스맨: 퍼스트 에이전트’ ‘매트릭스: 리저렉션’까지 개봉 신작]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fchosun%2F20220118030352814kihz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['해적: 도깨비 깃발' 덱스터스튜디오 참여..화려한 비주얼 완성 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220118074023735</link>
             <guid>https://movie.v.daum.net/v/20220118074023735</guid>
             <pubDate>Tue, 18 Jan 2022 01:07:19 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;흥미진진한 전개와 유쾌한 재미, 압도적인 볼거리로 뜨거운 호평을 불러일으키고 있는 영화 '해적: 도깨비 깃발'이 한층 압도적이고 화려한 비주얼을 선보인다. '신과 함께' 시리즈, '모가디슈' 등의 영화를 통해 대중과 평단으로부터 압도적인 기술력을 인정받은 덱스터스튜디오가 '해적: 도깨비 깃발'에 참여해&nbsp;완성도 높은 비주얼로 짜릿]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fpoctan%2F20220118074024682yflw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나에 '실종'됐던 한국 영화.. 설 연휴 3편 대격돌 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220118030347328</link>
+            <guid>https://movie.v.daum.net/v/20220118030347328</guid>
+            <pubDate>Tue, 18 Jan 2022 01:07:19 GMT</pubDate>
+            <content:encoded><![CDATA[연말 연초 한국 극장가는 거미줄에 대롱대롱 매달린 신세였다. 영화 ‘스파이더맨: 노 웨이 홈’이 5주 연속 주말 흥행 1위를 기록하면서 관객 689만명을 돌파했다. 2020년 코로나 사태 직전에 개봉했던 ‘남산의 부장들’(475만명)을 뛰어넘은 유일한 영화이기도 했다. ‘스파이더맨’ 이외에도 ‘킹스맨: 퍼스트 에이전트’ ‘매트릭스: 리저렉션’까지 개봉 신작]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fchosun%2F20220118030352814kihz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['특송' 송새벽, 느릿 말투→광기 눈빛..'온도차 빌런' 소름 (다음영화 뉴스 ─ 인기)]]></title>
@@ -638,6 +638,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F17%2Fxportsnews%2F20220117130901975icwa.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['해적' 한효주, 팀워크 자랑→권상우 "첫 사극+악역+승마 부담 없었다" [V라이브] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220118213731109</link>
+            <guid>https://movie.v.daum.net/v/20220118213731109</guid>
+            <pubDate>Tue, 18 Jan 2022 19:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=김은정 기자] 권상우가 '해적'을 통한 새로운 도전에 대해 이야기했다. 영화 '해적: 도깨비 깃발'(이하 '해적')팀이 18일 오후 네이버 무비토크 라이브를 개최했다. 배우 권상우, 강하늘, 한효주, 이광수, 김성오, 박지환이 참석한 가운데 진행은 방송인 박경림이 맡았다. 이날 한효주는 '해적'을 통한 4년 만의 스크린 복귀에 "이야기가 너무]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Ftvreport%2F20220118213737082cscf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[윤기 없는 중년의 삶, 술이 윤활유가 될까..영화 '어나더 라운드' [리뷰] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220117142734502</link>
             <guid>https://movie.v.daum.net/v/20220117142734502</guid>
@@ -646,20 +654,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F17%2Fkhan%2F20220117182616631wkng.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['안테벨룸' 2월 개봉, '겟 아웃'·'어스' 제작진의 충격 스릴러 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220118143604251</link>
-            <guid>https://movie.v.daum.net/v/20220118143604251</guid>
-            <pubDate>Tue, 18 Jan 2022 08:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 최혜진 기자] '겟 아웃' '어스' 제작진이 새 작품을 선보인다. 2월 23일 영화 '안테벨룸' 개봉을 확정 지었다. '안테벨룸'은 성공한 작가가 무언가에 의해 선택받은 뒤 누구의 도움도 바랄 수 없는 끔찍한 세계에 초대되면서 벌어지는 미스터리 충격 스릴러다. '겟 아웃' '어스' 제작진이 선사하는 새로운 작품이기도 하다. 개봉에 앞서 ']]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fsportstoday%2F20220118143605260jcue.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[제임스 건 "케빈 파이기, '가오갤3' 첫 영상 보고 흥분" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220117171124340</link>
-            <guid>https://movie.v.daum.net/v/20220117171124340</guid>
-            <pubDate>Tue, 18 Jan 2022 01:07:19 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 가디언즈 오브 갤럭시 / 사진=영화 포스터 제임스 건 감독이 마블 시네마틱 유니버스(MCU) 영화 '가디언즈 오브 더 갤럭시3' 첫 영상에 대한 마블 스튜디오 케빈 파이기 대표의 반응을 밝혔다. 16일(현지시간) 영화 '가디언즈 오브 더 갤럭시3'(이하 '가오갤3')의 제임스 건 감독은 HBO 시리즈 '피스메이커' 홍보를 위해]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F17%2Fstarnews%2F20220117171125349avtn.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[강하늘X한효주→이광수X권상우 '해적2', 이유 있는 자신감 "반응 폭발적" [종합] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220118221617677</link>
+            <guid>https://movie.v.daum.net/v/20220118221617677</guid>
+            <pubDate>Tue, 18 Jan 2022 19:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 영화 '해적: 도깨비 깃발'의 강하늘, 한효주 등 주역들이 남다른 팀워크를 과시하며 예비 관객들의 기대감을 높였다. '해적: 도깨비 깃발' 팀은 18일 오후 네이버 무비토크 V라이브를 진행했다. 배우 강하늘, 한효주, 이광수, 권상우, 김성오, 박지환 등 출연진이 참석했다. '해적: 도깨비 깃발'(이하 '해적2')은 흔적도]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fmydaily%2F20220118221617488brmg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<클리포드 더 빅 레드 독> 언론 호평 리뷰 영상 (우리 영화 볼래?)]]></title>
@@ -1306,7 +1306,7 @@
             <link>https://tv.naver.com/v/24668443</link>
             <guid>https://tv.naver.com/v/24668443</guid>
             <pubDate>Tue, 18 Jan 2022 08:25:33 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220118_283/H8lJP_1642491692784bUrFi_JPEG/f5c0da8c-7831-11ec-b27b-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1314,7 +1314,7 @@
             <link>https://tv.naver.com/v/24668120</link>
             <guid>https://tv.naver.com/v/24668120</guid>
             <pubDate>Tue, 18 Jan 2022 08:25:33 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220118_3/TCNPx_1642491153101l3g95_JPEG/6a21b589-7830-11ec-bf63-505dac8c3721_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1322,7 +1322,7 @@
             <link>https://tv.naver.com/v/24666410</link>
             <guid>https://tv.naver.com/v/24666410</guid>
             <pubDate>Tue, 18 Jan 2022 07:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220118_230/40DA5_1642487798348i8oeM_JPEG/cc345791-7828-11ec-b3f1-505dacfbaa5c_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1330,7 +1330,7 @@
             <link>https://tv.naver.com/v/24664896</link>
             <guid>https://tv.naver.com/v/24664896</guid>
             <pubDate>Tue, 18 Jan 2022 06:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220118_15/kysep_1642484541275RvjFU_JPEG/2d1f917c-7821-11ec-b3d2-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1338,7 +1338,7 @@
             <link>https://tv.naver.com/v/24663881</link>
             <guid>https://tv.naver.com/v/24663881</guid>
             <pubDate>Tue, 18 Jan 2022 06:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220118_77/tdC7C_1642482127941PO9vl_JPEG/a03c500c-781b-11ec-8fb9-48df379cc9e4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
