@@ -4,9 +4,17 @@
         <title>다음영화 뉴스 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 11:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 12:33:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[TEN인터뷰] 설경구 "'불한당' 신뢰로 선택한 '킹메이커', 처음엔 하기 싫었죠"]]></title>
+            <link>https://v.daum.net/v/20220118211201753</link>
+            <guid>https://v.daum.net/v/20220118211201753</guid>
+            <pubDate>Tue, 18 Jan 2022 12:32:43 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=노규민 기자] "'자산어보'의 정약전은 실존 인물이지만 많이 알려지지 않았습니다. 시나리오에 쓰여진대로, 이준익 감독과 소통하며 잘 만들어내면 그게 정약전이 될꺼라고 생각했죠. 그런데 이번엔 달랐습니다. '킹메이커'의 김운범은 고(故) 김대중 전 대통령을 모티브로 삼았습니다. 너무나 잘 알려진 분이어서 출연 제의를 받았을때부터 부담이 컸습니다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2F10asia%2F20220118211205820weqd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
         <item>
             <title><![CDATA[술 취하니 삶이 술술?.. 인생이 그리 간단할 리가]]></title>
             <link>https://v.daum.net/v/20220118200027570</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 18 Jan 2022 08:25:07 GMT</pubDate>
             <content:encoded><![CDATA[영화 ‘듄’이 2월 9일 CGV IMAX 전국 17개 지점에서 재개봉한다. ‘듄’은 IMAX 인증 디지털 Arri LF 카메라로 첫 촬영된 영화로 일반 영화들보다 가로, 세로가 확장된 1.43:1 비율의 풀화면이 한 시간 이상 나오기 때문에 IMAX 상영관의 인기가 대단했다. 지난해 10월 개봉 당시 IMAX 상영관은 연일 매진을 기록하고 취소 티켓을]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fstartoday%2F20220118152411023csmx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[SC인터뷰] "스트레스X부담多 "..'킹메이커' 설경구, 정약전→김대중이 된 '캐릭터 장인'의 도전(종합)]]></title>
-            <link>https://v.daum.net/v/20220118152040126</link>
-            <guid>https://v.daum.net/v/20220118152040126</guid>
-            <pubDate>Tue, 18 Jan 2022 07:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 실존 인물을 연기하고 낯선 정치 드라마에 온전히 내던지며 온몸으로 부담을 이겨내야 했던 배우 설경구(55). 쉽지 않았던 도전에도 한 가지 흔들리지 않았던 확신은 결국 함께한 동료들이었다. 정치 영화 '킹메이커'(변성현 감독, 씨앗필름 제작)에서 세상을 바꾸기 위해 도전하는 소신과 열정을 가진 정치인 김운범을 연기]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2FSpoChosun%2F20220118152040603zjvg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>

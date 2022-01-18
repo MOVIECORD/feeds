@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-18T11:18:02.536Z</updated>
+    <updated>2022-01-18T12:33:44.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[권상우 "'해적2' 한효주 첫 등장신, 韓영화 사상 역대급 아름다움" 찬사]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003570579</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003570579"/>
+        <updated>2022-01-18T12:32:13.384Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 김나라 기자] 배우 권상우가 영화 '해적: 도깨비 깃발' 속 한효주의 열연에 찬사를 보냈다. '해적: 도깨비 깃발' 팀은 18일 오후 네이버 무비토크 V라이브를 진행했다. 배우 강하늘, 한효주, 이광]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[TEN인터뷰] 설경구 "'불한당' 신뢰로 선택한 '킹메이커', 처음엔 하기 싫었죠"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000525624</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000525624"/>
+        <updated>2022-01-18T12:32:13.389Z</updated>
+        <content type="html"><![CDATA[[텐아시아=노규민 기자] "'자산어보'의 정약전은 실존 인물이지만 많이 알려지지 않았습니다. 시나리오에 쓰여진대로, 이준익 감독과 소통하며 잘 만들어내면 그게 정약전이 될꺼라고 생각했죠. 그런데 이번엔 달랐습니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한효주 "'해적: 도깨비 깃발', 확신 있었다…팀 분위기 최고"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003570576</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003570576"/>
+        <updated>2022-01-18T12:32:13.390Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 김나라 기자] 배우 한효주가 영화 '해적: 도깨비 깃발'로 4년 만에 스크린 컴백 소감을 밝혔다. '해적: 도깨비 깃발' 팀은 18일 오후 네이버 무비토크 V라이브를 진행했다. 배우 강하늘, 한효주,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[술 취하니 삶이 술술?… 인생이 그리 간단할 리가]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000653400</id>
@@ -158,26 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003022134"/>
         <updated>2022-01-18T08:24:35.478Z</updated>
         <content type="html"><![CDATA[배우 강하늘과 한효주가 극장서 관객을 만난다. 18일 롯데엔터테인먼트는 '해적'의 강하늘과 한효주가 오는 22일과 23일 서울 무대인사를 확정 했다고 밝혔다. '해적: 도깨비 깃발'은 흔적도 없이 사라진 왕실 보물의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설경구 "김대중 모티프 캐릭터 부담…이름 바꿔달라 졸랐죠"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012926260</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012926260"/>
-        <updated>2022-01-18T08:24:35.478Z</updated>
-        <content type="html"><![CDATA[영화 '킹메이커'서 정치인 김운범 역…"모사 없이 내 식으로 표현" 변성현 감독과 두 번째 호흡…"내 나이대 역할은 무조건 달라 했다" (서울=연합뉴스) 오보람 기자 = "솔직히 피하고 싶었던 캐릭터였어요. 너무나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['해적2', '신과 함께' 덱스터 스튜디오 참여…압도적 비주얼 완성]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001399714</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001399714"/>
-        <updated>2022-01-18T08:24:35.480Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예은 기자) 영화 '해적: 도깨비 깃발'(감독 김정훈)이 덱스터스튜디오의 참여로 한층 압도적인 비주얼을 선보인다. '해적: 도깨비 깃발'은 흔적도 없이 사라진 왕실 보물의 주인이 되기 위해 바다로 모]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['해적: 도깨비 깃발' 강하늘·한효주, 22일·23일 무대 인사 뜬다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005852344</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005852344"/>
-        <updated>2022-01-18T08:24:35.484Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '해적: 도깨비 깃발'(감독 김정훈)이 오는 22일과 23일 서울 지역 무대인사를 통해 관객들과 만난다. 18일 롯데엔터테인먼트에 따르면 '해적: 도깨비 깃발'은 관객들의 폭발적]]></content>
     </entry>
 </feed>
