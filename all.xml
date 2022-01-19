@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 17:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 18:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -318,20 +318,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F071b7d47acb1998d13e3f159cfd6523173bfa3d5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[걸즈 앤 판처 최종장 제3화 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149364</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149364</guid>
-            <pubDate>Wed, 12 Jan 2022 02:39:17 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F00ba41decdaf6df5ea47b8bbaf2a71bc0843998b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 소드 아트 온라인 -프로그레시브- 별 없는 밤의 아리아 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=155229</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=155229</guid>
             <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
             <content:encoded><![CDATA[21.12.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F08f419cbf4467bb2bd9ea59132a53e3fcffe52ba" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[걸즈 앤 판처 최종장 제3화 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149364</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149364</guid>
+            <pubDate>Wed, 12 Jan 2022 02:39:17 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F00ba41decdaf6df5ea47b8bbaf2a71bc0843998b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[해탄적일천 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -606,14 +606,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F19%2Filgansports%2F20220119091314507fszu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[대선 선거판 뒤집은 킹메이커, 그의 '획기적인' 전략 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220118104201357</link>
-            <guid>https://movie.v.daum.net/v/20220118104201357</guid>
-            <pubDate>Wed, 19 Jan 2022 00:59:21 GMT</pubDate>
-            <content:encoded><![CDATA[[김준모 기자] &nbsp;        ▲ &nbsp;&lt;킹메이커&gt; 포스터    ⓒ 메가박스중앙㈜플러스엠  &nbsp; &lt;불한당&gt;의 감독 변성현-배우 설경구 콤비가 뭉친 &lt;킹메이커&gt;는 대선 시기를 정조준한 영화다. 치열한 대선 후보들의 경쟁처럼 영화 속 두 주인공, 김운범과 서창대는 치열하게 맞서 싸운다. 그들이 싸우는 대상은 바로 군부독재정권이다. 변성현 감독은 이 시기를 배경으로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fohmynews%2F20220118104203266carl.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[홍상수·김민희 '소설가의 영화', 베를린영화제 경쟁부문 초청 [공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220119212757437</link>
             <guid>https://movie.v.daum.net/v/20220119212757437</guid>
@@ -622,12 +614,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F19%2FNEWS1%2F20220119212758849vetq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['소피의세계' 주목할 만한 韓 독립영화 등장 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220118172211759</link>
-            <guid>https://movie.v.daum.net/v/20220118172211759</guid>
+            <title><![CDATA[대선 선거판 뒤집은 킹메이커, 그의 '획기적인' 전략 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220118104201357</link>
+            <guid>https://movie.v.daum.net/v/20220118104201357</guid>
             <pubDate>Wed, 19 Jan 2022 00:59:21 GMT</pubDate>
-            <content:encoded><![CDATA[김보라의 '벌새'(2019), 이옥섭의 '메기'(2019), 윤단비의 '남매의 여름밤'(2020). 그해를 빛낸 데뷔작 계보를 잇는다. 오는 3월 개봉을 확정한 이제한 감독의 첫 장편영화 '소피의 세계'가 제26회 부산국제영화제, 제47회 서울독립영화제 관객의 호평 속에 올해를 빛낼 데뷔작으로 주목받고 있다. 부산국제영화제 정한석 프로그래머는 "여린]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Filgansports%2F20220118172212658mpxw.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[김준모 기자] &nbsp;        ▲ &nbsp;&lt;킹메이커&gt; 포스터    ⓒ 메가박스중앙㈜플러스엠  &nbsp; &lt;불한당&gt;의 감독 변성현-배우 설경구 콤비가 뭉친 &lt;킹메이커&gt;는 대선 시기를 정조준한 영화다. 치열한 대선 후보들의 경쟁처럼 영화 속 두 주인공, 김운범과 서창대는 치열하게 맞서 싸운다. 그들이 싸우는 대상은 바로 군부독재정권이다. 변성현 감독은 이 시기를 배경으로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fohmynews%2F20220118104203266carl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[홍상수X김민희 '소설가의 영화', 베를린영화제 경쟁부문 초청 (다음영화 뉴스 ─ 인기)]]></title>
@@ -636,6 +628,14 @@
             <pubDate>Wed, 19 Jan 2022 16:28:07 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠투데이 최혜진 기자] 홍상수 감독의 신작 '소설가의 영화'가 제72회 베를린국제영화제 공식 경쟁부문에 초청됐다. 19일(현지시간 기준) 영화 '소설가의 영화' 해외 배급사 측에 따르면 베를린국제영화제 집행위원회가 영화제 공식 경쟁부문에 홍상수 감독 신작 '소설가의 영화' 초청을 발표했다. 영화제 집행위원장 카를로 샤트리안은 "베를린 국제영화제가 사]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F19%2Fsportstoday%2F20220119234705490ksun.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['소피의세계' 주목할 만한 韓 독립영화 등장 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220118172211759</link>
+            <guid>https://movie.v.daum.net/v/20220118172211759</guid>
+            <pubDate>Wed, 19 Jan 2022 00:59:21 GMT</pubDate>
+            <content:encoded><![CDATA[김보라의 '벌새'(2019), 이옥섭의 '메기'(2019), 윤단비의 '남매의 여름밤'(2020). 그해를 빛낸 데뷔작 계보를 잇는다. 오는 3월 개봉을 확정한 이제한 감독의 첫 장편영화 '소피의 세계'가 제26회 부산국제영화제, 제47회 서울독립영화제 관객의 호평 속에 올해를 빛낼 데뷔작으로 주목받고 있다. 부산국제영화제 정한석 프로그래머는 "여린]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Filgansports%2F20220118172212658mpxw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['스파이더맨: 노 웨이 홈' 1위 수성, 670만 카운트다운 돌입 [박스오피스] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1306,7 +1306,7 @@
             <link>https://tv.naver.com/v/24688510</link>
             <guid>https://tv.naver.com/v/24688510</guid>
             <pubDate>Wed, 19 Jan 2022 08:22:13 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_267/uzReV_1642578410321FT3Se_JPEG/afdd8f16-78fb-11ec-8fb9-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1314,7 +1314,7 @@
             <link>https://tv.naver.com/v/24688441</link>
             <guid>https://tv.naver.com/v/24688441</guid>
             <pubDate>Wed, 19 Jan 2022 08:22:13 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_113/ZmHta_1642578178796srhzs_JPEG/2813e778-78fb-11ec-a810-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1322,7 +1322,7 @@
             <link>https://tv.naver.com/v/24688315</link>
             <guid>https://tv.naver.com/v/24688315</guid>
             <pubDate>Wed, 19 Jan 2022 08:22:13 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_197/RWivV_1642577870541PqJIq_JPEG/494fdb6c-78fa-11ec-8581-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1330,7 +1330,7 @@
             <link>https://tv.naver.com/v/24687671</link>
             <guid>https://tv.naver.com/v/24687671</guid>
             <pubDate>Wed, 19 Jan 2022 07:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_246/q6KDr_1642576296926waYNX_JPEG/63ce11eb-78f6-11ec-99fd-a0369ff94ed0_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1338,7 +1338,7 @@
             <link>https://tv.naver.com/v/24687148</link>
             <guid>https://tv.naver.com/v/24687148</guid>
             <pubDate>Wed, 19 Jan 2022 07:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_123/F4jWd_1642575175941t7ByA_JPEG/3b0fb122-78f4-11ec-bf63-505dac8c3721_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1346,7 +1346,7 @@
             <link>https://tv.naver.com/v/24686164</link>
             <guid>https://tv.naver.com/v/24686164</guid>
             <pubDate>Wed, 19 Jan 2022 06:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_37/Zrkyh_1642573003591p06BU_JPEG/f987d1b3-78ee-11ec-bf5d-a0369ff952f4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1354,7 +1354,7 @@
             <link>https://tv.naver.com/v/24685324</link>
             <guid>https://tv.naver.com/v/24685324</guid>
             <pubDate>Wed, 19 Jan 2022 06:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_10/LMuvY_1642571087233xwcvW_JPEG/a3851111-78ea-11ec-8e85-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1362,7 +1362,7 @@
             <link>https://tv.naver.com/v/24684108</link>
             <guid>https://tv.naver.com/v/24684108</guid>
             <pubDate>Wed, 19 Jan 2022 05:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_293/UHfyH_1642567637142Krua3_JPEG/6309eece-78e2-11ec-a810-505dac8c385b_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1370,7 +1370,7 @@
             <link>https://tv.naver.com/v/24682200</link>
             <guid>https://tv.naver.com/v/24682200</guid>
             <pubDate>Wed, 19 Jan 2022 03:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_210/VGsPq_16425600310844mpc1_JPEG/e8ff791b-78d0-11ec-9cfd-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1378,7 +1378,7 @@
             <link>https://tv.naver.com/v/24681964</link>
             <guid>https://tv.naver.com/v/24681964</guid>
             <pubDate>Wed, 19 Jan 2022 02:36:22 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_31/ztQSP_1642559283186tYKqR_JPEG/05821ff3-78cf-11ec-bf5d-a0369ff952f4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1386,7 +1386,7 @@
             <link>https://tv.naver.com/v/24681660</link>
             <guid>https://tv.naver.com/v/24681660</guid>
             <pubDate>Wed, 19 Jan 2022 02:36:22 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_255/BDewL_1642558226246oJmLJ_JPEG/ac898395-78cb-11ec-9cfd-505dacfba98a_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1394,7 +1394,7 @@
             <link>https://tv.naver.com/v/24681601</link>
             <guid>https://tv.naver.com/v/24681601</guid>
             <pubDate>Wed, 19 Jan 2022 02:36:22 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_32/96CNv_1642558046843kySG3_JPEG/3c75d725-78cc-11ec-955b-a0369ff95678_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1402,7 +1402,7 @@
             <link>https://tv.naver.com/v/24681501</link>
             <guid>https://tv.naver.com/v/24681501</guid>
             <pubDate>Wed, 19 Jan 2022 02:36:22 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_279/eioNx_1642557771963ysNrD_JPEG/b714a37d-78cb-11ec-9ab6-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1410,7 +1410,7 @@
             <link>https://tv.naver.com/v/24681424</link>
             <guid>https://tv.naver.com/v/24681424</guid>
             <pubDate>Wed, 19 Jan 2022 02:01:43 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_20/25JfS_16425575353969u3XX_JPEG/1425fa67-78cb-11ec-89ca-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1418,7 +1418,7 @@
             <link>https://tv.naver.com/v/24681211</link>
             <guid>https://tv.naver.com/v/24681211</guid>
             <pubDate>Wed, 19 Jan 2022 02:01:43 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_219/3CiyD_1642556883880aGTfe_JPEG/77b7170e-78c9-11ec-b282-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1426,7 +1426,7 @@
             <link>https://tv.naver.com/v/24680261</link>
             <guid>https://tv.naver.com/v/24680261</guid>
             <pubDate>Wed, 19 Jan 2022 00:59:54 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_98/VpPTg_1642553545743rJ3gb_JPEG/b3f0da8d-78c1-11ec-8e85-48df379ccacc_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
