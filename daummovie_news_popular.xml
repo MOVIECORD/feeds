@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 05:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 06:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F19%2FSPORTSSEOUL%2F20220119083528219weiv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[23편 '어벤져스' 신화의 시작.. 마약중독자 로다주의 변신]]></title>
-            <link>https://movie.v.daum.net/v/20220118100300705</link>
-            <guid>https://movie.v.daum.net/v/20220118100300705</guid>
-            <pubDate>Tue, 18 Jan 2022 08:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[[양형석 기자] 지난 1939년 설립된 마블코믹스는 디씨 코믹스와 함께 미국 만화산업계의 양대산맥으로 군림하고 있다. 스파이더맨과 엑스맨, 헐크 등 많은 히어로들의 원산지(?)가 바로 마블코믹스다. 특히 2000년대 들어서는 본격적으로 판권을 판매해 많은 히어로들이 영화로 제작됐고 그중 샘 레이미 감독의 &lt;스파이더맨&gt; 3부작은 세계적으로 24억 9400만]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fohmynews%2F20220118100305455knyr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[TEN인터뷰] 설경구 "'불한당' 신뢰로 선택한 '킹메이커', 처음엔 하기 싫었죠"]]></title>
             <link>https://movie.v.daum.net/v/20220118211201753</link>
             <guid>https://movie.v.daum.net/v/20220118211201753</guid>
@@ -88,6 +80,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fohmynews%2F20220118191801642ytde.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[23편 '어벤져스' 신화의 시작.. 마약중독자 로다주의 변신]]></title>
+            <link>https://movie.v.daum.net/v/20220118100300705</link>
+            <guid>https://movie.v.daum.net/v/20220118100300705</guid>
+            <pubDate>Tue, 18 Jan 2022 08:24:59 GMT</pubDate>
+            <content:encoded><![CDATA[[양형석 기자] 지난 1939년 설립된 마블코믹스는 디씨 코믹스와 함께 미국 만화산업계의 양대산맥으로 군림하고 있다. 스파이더맨과 엑스맨, 헐크 등 많은 히어로들의 원산지(?)가 바로 마블코믹스다. 특히 2000년대 들어서는 본격적으로 판권을 판매해 많은 히어로들이 영화로 제작됐고 그중 샘 레이미 감독의 &lt;스파이더맨&gt; 3부작은 세계적으로 24억 9400만]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fohmynews%2F20220118100305455knyr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['웨스트 사이드 스토리'로 '뮤지컬 명작 3년 주기설' 현실로]]></title>
             <link>https://movie.v.daum.net/v/20220118174755647</link>
             <guid>https://movie.v.daum.net/v/20220118174755647</guid>
@@ -96,20 +96,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fnewsen%2F20220118174755457xtaj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[술 취하니 삶이 술술?.. 인생이 그리 간단할 리가]]></title>
-            <link>https://movie.v.daum.net/v/20220118200027570</link>
-            <guid>https://movie.v.daum.net/v/20220118200027570</guid>
-            <pubDate>Wed, 19 Jan 2022 02:01:08 GMT</pubDate>
-            <content:encoded><![CDATA[덴마크 영화 ‘어나더 라운드’의 중년 남성 교사 마틴(마스 미켈센)은 무기력하다. 학교에서는 강의가 재미 없어 대입 진학에 도움이 안 된다고 학생들에게 항의를 받는다. 집에서는 가족들과 외출은커녕 제대로 대화를 나눈 지도 오래다. 한때는 전도유망했고, 단란한 가정을 꾸렸던 마틴이다. 인생의 터널을 마냥 걷는 듯했던 그는 어느 날 삶의 새 계기를 마련한다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fhankooki%2F20220118200031457xjvd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['킹메이커' 글로벌 포스터 '오스카의 남자' 이선균 남다른 포스]]></title>
             <link>https://movie.v.daum.net/v/20220119082011713</link>
             <guid>https://movie.v.daum.net/v/20220119082011713</guid>
             <pubDate>Wed, 19 Jan 2022 02:01:08 GMT</pubDate>
             <content:encoded><![CDATA[표정 하나, 대사 하나만으로도 좌중을 압도해 버린다. 설경구, 이선균의 열연으로 주목받는 영화 '킹메이커(변성현 감독)'가 글로벌 포스터와 예고편을 공개했다. '킹메이커'는 세상을 바꾸기 위해 도전하는 정치인 김운범과 존재도 이름도 숨겨진 선거 전략가 서창대가 치열한 선거판에 뛰어들며 시작되는 드라마를 그린 영화다. 공개된 글로벌 포스터에는 변성현]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F19%2Filgansports%2F20220119082015235eobv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[술 취하니 삶이 술술?.. 인생이 그리 간단할 리가]]></title>
+            <link>https://movie.v.daum.net/v/20220118200027570</link>
+            <guid>https://movie.v.daum.net/v/20220118200027570</guid>
+            <pubDate>Wed, 19 Jan 2022 02:01:08 GMT</pubDate>
+            <content:encoded><![CDATA[덴마크 영화 ‘어나더 라운드’의 중년 남성 교사 마틴(마스 미켈센)은 무기력하다. 학교에서는 강의가 재미 없어 대입 진학에 도움이 안 된다고 학생들에게 항의를 받는다. 집에서는 가족들과 외출은커녕 제대로 대화를 나눈 지도 오래다. 한때는 전도유망했고, 단란한 가정을 꾸렸던 마틴이다. 인생의 터널을 마냥 걷는 듯했던 그는 어느 날 삶의 새 계기를 마련한다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fhankooki%2F20220118200031457xjvd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[할리우드 영화, 전 세계 최초' 한국서 개봉하는 이유]]></title>
@@ -144,6 +144,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2FSPORTSSEOUL%2F20220118082008762tusd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[공식] 연우진X지안 파격 멜로 '인민을 위해 복무하라', 2월 개봉 확정]]></title>
+            <link>https://movie.v.daum.net/v/20220119091626388</link>
+            <guid>https://movie.v.daum.net/v/20220119091626388</guid>
+            <pubDate>Wed, 19 Jan 2022 06:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 멜로 영화 '인민을 위해 복무하라'(장철수 감독, 표범영화사 제작)가 오는 2월 개봉 소식과 함께 런칭 포스터를 공개했다. 국내 약 695만명 관객을 동원하며 흥행 메이커로 자리매김한 '은밀하게 위대하게' 장철수 감독의 9년 만의 작품 '인민을 위해 복무하라'가 오는 2월 개봉을 확정짓고 강렬하고 압도적인 분위기의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F19%2FSpoChosun%2F20220119091626914tsqy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['송해'·'한창나이 선녀님', 배리어프리버전 제작]]></title>
             <link>https://movie.v.daum.net/v/20220118103054856</link>
             <guid>https://movie.v.daum.net/v/20220118103054856</guid>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 19 Jan 2022 02:35:47 GMT</pubDate>
             <content:encoded><![CDATA[[텐아시아=김지원 기자] 《김지원의 인서트》 영화 속 중요 포인트를 확대하는 인서트 장면처럼 김지원 텐아시아 기자가 매주 수요일 영화계 이슈를 집중 조명합니다. 입체적 시각으로 화젯거리의 앞과 뒤를 세밀하게 살펴보겠습니다.섹드립(선정적 농담)을 밥 먹기보다 더 했던 '스물'의 김우빈, 강하늘, 이준호. 1989년생인 김우빈, 1990년생인 이준호와 강하늘]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F19%2F10asia%2F20220119105506491gidg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['해적2' 강하늘 "'스파이더맨' 흥행으로 작은 기대감 생겨, 한국영화 맘놓고 개봉하길" [MD인터뷰](종합)]]></title>
-            <link>https://movie.v.daum.net/v/20220118135809749</link>
-            <guid>https://movie.v.daum.net/v/20220118135809749</guid>
-            <pubDate>Tue, 18 Jan 2022 08:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] "'해적2'는 운 좋게 개봉하게 됐지만 개봉 못 한 한국 영화도 많아요. '스파이더맨: 노 웨이 홈'이 잘 되는 걸 보고 다행이라 느꼈죠. '관객 여러분이 좋은 작품은 극장에서 보려고 하시는구나'하는 작은 기대감이 생겼습니다." 영화 '해적: 도깨비 깃발'의 주역인 배우 강하늘(31)은 팬데믹 속 극장가를 찾는 소감을 묻자]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fmydaily%2F20220118135810054hdsk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
