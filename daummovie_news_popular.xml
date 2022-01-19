@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 23:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 01:00:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,14 +32,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2FNEWS1%2F20220118103055911lkoo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["팬데믹 후 최대 실적"..특수관, 위기 극장가 구원투수 [ST신년기획]]]></title>
-            <link>https://movie.v.daum.net/v/20220118104403438</link>
-            <guid>https://movie.v.daum.net/v/20220118104403438</guid>
-            <pubDate>Tue, 18 Jan 2022 09:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 최혜진 기자] 영화 한 편을 보더라도 제대로. 극장가 고급화 전략이 통했다. 높은 가격을 지불하더라도 고품질 영화를 즐기겠다는 니즈를 충족시켰다. 극장가는 팬데믹(감염병의 세계적 대유행) 도래 후 치명타를 입었다. 관객들의 발길은 줄었고, 매출은 급감했다. 그러나 위기의 극장가에서 뜻밖의 상황이 발생했다. 바로 특수관의 수요 증가다. 특수관이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fsportstoday%2F20220118104404808ttvr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['경관의 피' 권율 "12kg 증량+태닝, 힘든만큼 보람도 커"[SS인터뷰]]]></title>
             <link>https://movie.v.daum.net/v/20220118082003373</link>
             <guid>https://movie.v.daum.net/v/20220118082003373</guid>
@@ -56,6 +48,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fmydaily%2F20220118135810054hdsk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA["레이디가가 올랐는데"..'스펜서' 크리스틴 스튜어트 SAG 후보 탈락]]></title>
+            <link>https://movie.v.daum.net/v/20220118150609531</link>
+            <guid>https://movie.v.daum.net/v/20220118150609531</guid>
+            <pubDate>Wed, 19 Jan 2022 00:59:21 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 故다이애나 왕세자비를 연기한 크리스틴 스튜어트가 미국배우조합상 여우주연상 후보에 오르지 못했다. 지난 1월 12일(현지시간) 미국배우조합상(Screen Actors Guild Awards) 후보가 발표된 가운데, 영화 '스펜서'(감독 파블로 라라인)에서 열연한 크리스틴 스튜어트가 영화 부문 여우주연상 후보에 오르지 못했다. 해당]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fnewsen%2F20220118150609304iwvs.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["팬데믹 후 최대 실적"..특수관, 위기 극장가 구원투수 [ST신년기획]]]></title>
+            <link>https://movie.v.daum.net/v/20220118104403438</link>
+            <guid>https://movie.v.daum.net/v/20220118104403438</guid>
+            <pubDate>Tue, 18 Jan 2022 09:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 최혜진 기자] 영화 한 편을 보더라도 제대로. 극장가 고급화 전략이 통했다. 높은 가격을 지불하더라도 고품질 영화를 즐기겠다는 니즈를 충족시켰다. 극장가는 팬데믹(감염병의 세계적 대유행) 도래 후 치명타를 입었다. 관객들의 발길은 줄었고, 매출은 급감했다. 그러나 위기의 극장가에서 뜻밖의 상황이 발생했다. 바로 특수관의 수요 증가다. 특수관이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fsportstoday%2F20220118104404808ttvr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['경관의 피' 조진웅x최우식→박명훈, 빈틈없는 연기..호평 포스터 공개]]></title>
             <link>https://movie.v.daum.net/v/20220118080937197</link>
             <guid>https://movie.v.daum.net/v/20220118080937197</guid>
@@ -64,12 +72,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fpoctan%2F20220118080937461lqio.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["완벽한 살인, 범인은 누구?"..'나일 강의 죽음' 캐릭터 포스터→용의자 예고편 공개]]></title>
-            <link>https://movie.v.daum.net/v/20220118094414903</link>
-            <guid>https://movie.v.daum.net/v/20220118094414903</guid>
-            <pubDate>Tue, 18 Jan 2022 08:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 범죄 미스터리 추리 영화 '나일 강의 죽음'(케네스 브래너 감독)이 캐릭터 포스터 6종과 '포와로 VS 11명의 용의자' 60초 예고편을 전격 공개했다. 전 세계를 사로잡은 명품 배우들의 압도적 존재감과 석양이 지고 있는 이집트의 아름다운 배경으로 눈을 황홀하게 만드는 '나일 강의 죽음' 캐릭터 포스터 6종이 공개되]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2FSpoChosun%2F20220118094414680frbq.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[좀비 호러 '레지던트이블: 라쿤시티' 오늘(19일) 개봉]]></title>
+            <link>https://movie.v.daum.net/v/20220119091310260</link>
+            <guid>https://movie.v.daum.net/v/20220119091310260</guid>
+            <pubDate>Wed, 19 Jan 2022 00:59:21 GMT</pubDate>
+            <content:encoded><![CDATA[좀비계의 전설이 돌아온다. 동시기 개봉작 중 예매율 1위 자리를 지키고 있는 영화 '레지던트 이블: 라쿤시티(요하네스 로버츠 감독)'가 19일 개봉되는 가운데, 제작 비하인드를 공개했다. '레지던트 이블: 라쿤시티'는 엄브렐러의 철수 후 좀비 바이러스에 의해 지옥으로 돌변한 라쿤시티, 그 곳을 탈출하기 위한 클레어(카야 스코델라리오)와 생존자들의 사투]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F19%2Filgansports%2F20220119091314507fszu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[27일 개봉 '효자' 보도스틸, 동방예의좀비극 '기상천외 코미디']]></title>
@@ -80,12 +88,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Filgansports%2F20220118085213361rsxx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['듄' 극장에서 한 번 더? 아이맥스 재개봉 확정]]></title>
-            <link>https://movie.v.daum.net/v/20220118152407272</link>
-            <guid>https://movie.v.daum.net/v/20220118152407272</guid>
-            <pubDate>Tue, 18 Jan 2022 12:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘듄’이 2월 9일 CGV IMAX 전국 17개 지점에서 재개봉한다. ‘듄’은 IMAX 인증 디지털 Arri LF 카메라로 첫 촬영된 영화로 일반 영화들보다 가로, 세로가 확장된 1.43:1 비율의 풀화면이 한 시간 이상 나오기 때문에 IMAX 상영관의 인기가 대단했다. 지난해 10월 개봉 당시 IMAX 상영관은 연일 매진을 기록하고 취소 티켓을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fstartoday%2F20220118152411023csmx.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[대선 선거판 뒤집은 킹메이커, 그의 '획기적인' 전략]]></title>
+            <link>https://movie.v.daum.net/v/20220118104201357</link>
+            <guid>https://movie.v.daum.net/v/20220118104201357</guid>
+            <pubDate>Wed, 19 Jan 2022 00:59:21 GMT</pubDate>
+            <content:encoded><![CDATA[[김준모 기자] &nbsp;        ▲ &nbsp;&lt;킹메이커&gt; 포스터    ⓒ 메가박스중앙㈜플러스엠  &nbsp; &lt;불한당&gt;의 감독 변성현-배우 설경구 콤비가 뭉친 &lt;킹메이커&gt;는 대선 시기를 정조준한 영화다. 치열한 대선 후보들의 경쟁처럼 영화 속 두 주인공, 김운범과 서창대는 치열하게 맞서 싸운다. 그들이 싸우는 대상은 바로 군부독재정권이다. 변성현 감독은 이 시기를 배경으로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fohmynews%2F20220118104203266carl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["완벽한 살인, 범인은 누구?"..'나일 강의 죽음' 캐릭터 포스터→용의자 예고편 공개]]></title>
+            <link>https://movie.v.daum.net/v/20220118094414903</link>
+            <guid>https://movie.v.daum.net/v/20220118094414903</guid>
+            <pubDate>Tue, 18 Jan 2022 08:24:59 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 범죄 미스터리 추리 영화 '나일 강의 죽음'(케네스 브래너 감독)이 캐릭터 포스터 6종과 '포와로 VS 11명의 용의자' 60초 예고편을 전격 공개했다. 전 세계를 사로잡은 명품 배우들의 압도적 존재감과 석양이 지고 있는 이집트의 아름다운 배경으로 눈을 황홀하게 만드는 '나일 강의 죽음' 캐릭터 포스터 6종이 공개되]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2FSpoChosun%2F20220118094414680frbq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["검색해도 안 나오는, 9·9사건 실체 궁금했다"]]></title>
+            <link>https://movie.v.daum.net/v/20220118191800724</link>
+            <guid>https://movie.v.daum.net/v/20220118191800724</guid>
+            <pubDate>Wed, 19 Jan 2022 00:59:21 GMT</pubDate>
+            <content:encoded><![CDATA[[이선필 기자] &nbsp;        ▲ &nbsp;다큐멘터리 영화 &lt;미싱타는 여자들&gt;을 연출한 김정영, 이혁래 감독(왼쪽부터)    ⓒ 영화사 진진  &nbsp; 1970년, 그리고 80년대 민주화운동은 그야말로 우리 현대사의 굴곡을 상징하는 사건 중 하나일 것이다. 독재정권과 공권력의 폭압에 맞선 투사들의 이름을 사람들은 어느 정도 기억하고 있고, 그 주역들은 보이는 곳 혹]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fohmynews%2F20220118191801642ytde.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['시실리안'..非情美 넘치는 명품 스릴러 [김대호의 옛날영화]]]></title>
@@ -96,6 +120,38 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fmksports%2F20220118105709265rodt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['웨스트 사이드 스토리', 스필버그 감독이 'Somewhere'를 사랑하는 이유[곽명동의 씨네톡]]]></title>
+            <link>https://movie.v.daum.net/v/20220119070004195</link>
+            <guid>https://movie.v.daum.net/v/20220119070004195</guid>
+            <pubDate>Wed, 19 Jan 2022 00:59:21 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]스티븐 스필버그 감독은 최근 들어 ‘서로 다른 입장을 가진 사람들의 소통과 화합’에 온 힘을 기울이고 있다. 2013년 아카데미 12개 부문 후보에 오른 ‘링컨’은 링컨 대통령(다니엘 데이 루이스)이 반대파를 어렵게 설득하며 노예해방을 실천하는 이야기를 다뤘다. 2015년 ‘스파이 브릿지’는 보험 전문 변호사 제임스 도노반(톰]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F19%2Fmydaily%2F20220119070004623pewf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['스파이더맨: 노 웨이 홈' 1위 수성, 670만 카운트다운 돌입 [박스오피스]]]></title>
+            <link>https://movie.v.daum.net/v/20220119091010149</link>
+            <guid>https://movie.v.daum.net/v/20220119091010149</guid>
+            <pubDate>Wed, 19 Jan 2022 00:59:21 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 영화 '스파이더맨: 노 웨이 홈'이 박스오피스 1위를 수성했다. 19일 영화진흥위원회 통합전산망에 따르면 '스파이더맨: 노 웨이 홈'(감독 존 왓츠·배급 소니 픽쳐스)이 지난 18일 3만16명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적 관객수는 695만3364명이다. '스파이더맨: 노 웨이 홈'은 정체가 탄로난 스파이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F19%2Ftvdaily%2F20220119091011340vmkj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['소피의세계' 주목할 만한 韓 독립영화 등장]]></title>
+            <link>https://movie.v.daum.net/v/20220118172211759</link>
+            <guid>https://movie.v.daum.net/v/20220118172211759</guid>
+            <pubDate>Wed, 19 Jan 2022 00:59:21 GMT</pubDate>
+            <content:encoded><![CDATA[김보라의 '벌새'(2019), 이옥섭의 '메기'(2019), 윤단비의 '남매의 여름밤'(2020). 그해를 빛낸 데뷔작 계보를 잇는다. 오는 3월 개봉을 확정한 이제한 감독의 첫 장편영화 '소피의 세계'가 제26회 부산국제영화제, 제47회 서울독립영화제 관객의 호평 속에 올해를 빛낼 데뷔작으로 주목받고 있다. 부산국제영화제 정한석 프로그래머는 "여린]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Filgansports%2F20220118172212658mpxw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['경관의 피' 조진웅X최우식X박희순, 패션도 통했다]]></title>
+            <link>https://movie.v.daum.net/v/20220119083527102</link>
+            <guid>https://movie.v.daum.net/v/20220119083527102</guid>
+            <pubDate>Wed, 19 Jan 2022 00:59:21 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 남혜연기자]탄탄한 스토리와 배우들의 열연 여기에 스타일까지 모두 담았다. 영화 ‘경관의 피’(이규만 감독)가 새로운 범죄영화의 패러다임을 제시하며 화제작으로 떠올랐다. 여기에 룩북을 방불케 하는 스타일리시한 착장은 덤이다. ‘경관의 피’가 영화 속 배우들의 스타일리시한 의상으로 또 다른 화제를 모으고 있다. 영화는 상]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F19%2FSPORTSSEOUL%2F20220119083528219weiv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['해적: 도깨비 깃발' 덱스터스튜디오 참여..화려한 비주얼 완성]]></title>
             <link>https://movie.v.daum.net/v/20220118074023735</link>
             <guid>https://movie.v.daum.net/v/20220118074023735</guid>
@@ -104,68 +160,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fpoctan%2F20220118074024682yflw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['해적: 도깨비 깃발' 이토록 힘 빠지는 보물찾기 [쿡리뷰]]]></title>
-            <link>https://movie.v.daum.net/v/20220119065603146</link>
-            <guid>https://movie.v.daum.net/v/20220119065603146</guid>
-            <pubDate>Tue, 18 Jan 2022 22:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[오래도 걸렸다. 860만 관객을 모으며 흥행에 성공한 영화 ‘해적: 바다로 간 산적’(감독 이석훈) 후속편이 ‘해적: 도깨비 깃발’이란 이름으로 8년 만에 돌아왔다. 제목에 ‘해적’ 빼고 모든 걸 바꿨다. 각본을 쓴 천성일 작가 외에 감독과 배우, 캐릭터 다 바뀌어 새로운 이야기를 들려준다. 미지의 바다를 헤쳐 가는 모험의 재미와 인물들이 만들어내는 코]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F19%2Fkukinews%2F20220119065605017okbf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[SC인터뷰] '학교2021' 조이현 "첫 주연작, 대본에 분량많아 신기..김요한과 로맨스 케미는 100점"(종합)]]></title>
-            <link>https://movie.v.daum.net/v/20220119072322563</link>
-            <guid>https://movie.v.daum.net/v/20220119072322563</guid>
-            <pubDate>Tue, 18 Jan 2022 23:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 고재완 기자] 신인 배우 조이현이 자신의 인생 첫 지상파 드라마 주연작을 깔끔하게 마무리했다. 조이현이 주연 진지원을 연기한 KBS2 수목드라마 '학교 2021'이 지난 13일 종영했다. 극중 진지원은 친구들과 함께 폐교 반대 서명 운동을 이끄는 등 학교를 지켜내기 위해 능동적으로 나섰고, 건축 현장으로 실습을 나가는 등 자신의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F19%2FSpoChosun%2F20220119072322577fxqj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['해적2', 2021 최다관객 '모가디슈' 흥행 이을 새 블록버스터]]></title>
-            <link>https://movie.v.daum.net/v/20220119074448920</link>
-            <guid>https://movie.v.daum.net/v/20220119074448920</guid>
-            <pubDate>Tue, 18 Jan 2022 23:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '해적: 도깨비 깃발'이 국내 블록버스터 흥행 계보를 이어갈 것으로 기대를 모은다. 지난해 여름 개봉한 영화 '모가디슈'(감독 류승완)는 1991년 소말리아의 수도 모가디슈에서 발발한 내전으로 고립된 남북 공관원들의 탈출기를 그린 작품. 김윤석, 조인성, 구교환 등에 이르기까지 다채로운 캐스팅과 생존을 위해 의기투합한 이들의 찰떡같]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F19%2Fnewsen%2F20220119074448245jman.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[강하늘 "김남길과 비교불가..'스파이더맨' 흥행에 기대감도"[인터뷰]]]></title>
-            <link>https://movie.v.daum.net/v/20220119060008381</link>
-            <guid>https://movie.v.daum.net/v/20220119060008381</guid>
-            <pubDate>Tue, 18 Jan 2022 21:28:16 GMT</pubDate>
-            <content:encoded><![CDATA[[이데일리 스타in 박미애 기자] “김남길 선배가 해놓은 걸 따라갈 수 없었고 따라할 수도 없다고 생각했다.” 배우 강하늘이 김남길과 비교에 이 같은 말로 영화 ‘해적:도깨비 깃발’(감독 김정훈, 제작 어뉴·오스카10스튜디오)에 임했던 마음가짐을 설명했다. 강하늘은 18일 화상인터뷰에서 “(김남길이 남자 주인공이었던)‘해적:바다로 간 산적’이 큰 사랑을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F19%2FEdaily%2F20220119060011664dfge.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['해적2' 블록버스터 흥행작 '백두산'·'모가디슈' 계보 잇는다]]></title>
-            <link>https://movie.v.daum.net/v/20220119075134064</link>
-            <guid>https://movie.v.daum.net/v/20220119075134064</guid>
-            <pubDate>Tue, 18 Jan 2022 23:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[다가오는 설연휴, 극장가를 흠뻑 적신다. 한국판 해양 어드벤처 '해적: 도깨비 깃발(김정훈 감독)'이 '백두산', '모가디슈'에 이어 국내 블록버스터 흥행 계보를 이어갈 것으로 기대를 모은다. 2019년 백두산의 마지막 폭발을 막기 위한 이들의 사투를 그린 영화 '백두산'은 이병헌, 하정우, 마동석, 전혜진, 배수지의 믿고 보는 라인업은 물론 각기 다]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F19%2Filgansports%2F20220119075136185ekvz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[SC인터뷰] '해적2' 강하늘 "우리영화 강점은 '팀워크'"..'스파이더맨' 흥행 다행이라 느낀 이유]]></title>
-            <link>https://movie.v.daum.net/v/20220119072317561</link>
-            <guid>https://movie.v.daum.net/v/20220119072317561</guid>
-            <pubDate>Tue, 18 Jan 2022 23:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 고재완 기자] 배우 강하늘이 자칭 '고려 제일검'이 돼 스크린을 장악했다. 강하늘은 오는 26일 개봉하는 영화 '해적:도깨비 깃발'(이하 해적2)에서 자칭 고려 제일검이자 의적단을 이끄는 두목 무치 역을 맡아 열연을 펼쳤다. 무치는 유쾌하고 인간미가 녹아 있는 천방지축 캐릭터이지만 탁월한 검술 실력으로 독보적인 매력을 자랑하는 인]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F19%2FSpoChosun%2F20220119072317639zihx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스틴 스튜어트, 'SAG 탈락' 실트 장악..아카데미 주목되는 이유]]></title>
-            <link>https://movie.v.daum.net/v/20220118085733275</link>
-            <guid>https://movie.v.daum.net/v/20220118085733275</guid>
-            <pubDate>Tue, 18 Jan 2022 22:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] 故 다이애나 영국 왕세자비의 이야기를 다룬 영화 '스펜서'(파블로 라라인 감독)에서 뛰어난 연기를 펼쳐 아카데미 여우주연상 수상 유력 후보로 꼽히는&nbsp;크리스틴&nbsp;스튜어트가 지난 주 발표된 2022 배우조합상(Screen Actors Guild Awards) 여우주연상 후보 지명에 실패한 가운데, “이라는 현지 언론들의 반응이 쏟아지]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fpoctan%2F20220118085733910vvgx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나에 '실종'됐던 한국 영화.. 설 연휴 3편 대격돌]]></title>
-            <link>https://movie.v.daum.net/v/20220118030347328</link>
-            <guid>https://movie.v.daum.net/v/20220118030347328</guid>
-            <pubDate>Tue, 18 Jan 2022 01:07:19 GMT</pubDate>
-            <content:encoded><![CDATA[연말 연초 한국 극장가는 거미줄에 대롱대롱 매달린 신세였다. 영화 ‘스파이더맨: 노 웨이 홈’이 5주 연속 주말 흥행 1위를 기록하면서 관객 689만명을 돌파했다. 2020년 코로나 사태 직전에 개봉했던 ‘남산의 부장들’(475만명)을 뛰어넘은 유일한 영화이기도 했다. ‘스파이더맨’ 이외에도 ‘킹스맨: 퍼스트 에이전트’ ‘매트릭스: 리저렉션’까지 개봉 신작]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fchosun%2F20220118030352814kihz.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['듄' 극장에서 한 번 더? 아이맥스 재개봉 확정]]></title>
+            <link>https://movie.v.daum.net/v/20220118152407272</link>
+            <guid>https://movie.v.daum.net/v/20220118152407272</guid>
+            <pubDate>Tue, 18 Jan 2022 12:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘듄’이 2월 9일 CGV IMAX 전국 17개 지점에서 재개봉한다. ‘듄’은 IMAX 인증 디지털 Arri LF 카메라로 첫 촬영된 영화로 일반 영화들보다 가로, 세로가 확장된 1.43:1 비율의 풀화면이 한 시간 이상 나오기 때문에 IMAX 상영관의 인기가 대단했다. 지난해 10월 개봉 당시 IMAX 상영관은 연일 매진을 기록하고 취소 티켓을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F18%2Fstartoday%2F20220118152411023csmx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
