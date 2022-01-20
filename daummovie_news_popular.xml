@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 15:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 16:29:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,14 +48,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Fnewsen%2F20220120114735048ygqv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[권상우 "美 거주 ♥︎손태영 만나려 자가격리 4번..아들 룩희 사춘기"[인터뷰③]]]></title>
-            <link>https://movie.v.daum.net/v/20220120133338467</link>
-            <guid>https://movie.v.daum.net/v/20220120133338467</guid>
-            <pubDate>Thu, 20 Jan 2022 05:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=선미경 기자] (인터뷰②에 이어) 배우 권상우(46)가 가족들에 대한 애틋함을 전했다. 미국에 있는 아내와 두 자녀를 생각하며 작품에 더욱 열심히 임하고 있다고. 사춘기인 아들이 자신의 작품에 관심을 보이는 것에 기뻐하기도 했다. 권상우는 20일 오전 11시부터 온라인으로 진행된 영화 ‘해적: 도깨비 깃발’(감독 김정훈) 개봉 인터뷰에서 가족]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Fpoctan%2F20220120133339707tefs.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[이유리→김동완 '광대: 소리꾼' 2월24일 새개봉[공식]]]></title>
             <link>https://movie.v.daum.net/v/20220119183410746</link>
             <guid>https://movie.v.daum.net/v/20220119183410746</guid>
@@ -70,6 +62,14 @@
             <pubDate>Thu, 20 Jan 2022 09:19:05 GMT</pubDate>
             <content:encoded><![CDATA[거장들의 극찬 일색으로 기대감을 높인 영화, 그 이유가 오늘 공개된다. 1970년대 평화시장 소녀 미싱사들의 과거와 현재를 다시 그린 영화 '미싱타는 여자들(이혁래, 김정영 감독)'이 20일 개봉하는 가운데, 관람 포인트 3가지를 공개했다. '미싱타는 여자들'은 여자라서 혹은 가난하다는 이유로 공부 대신 미싱을 탈 수밖에 없었던 1970년대 평화시장]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Filgansports%2F20220120100817125uatr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[권상우 "美 거주 ♥︎손태영 만나려 자가격리 4번..아들 룩희 사춘기"[인터뷰③]]]></title>
+            <link>https://movie.v.daum.net/v/20220120133338467</link>
+            <guid>https://movie.v.daum.net/v/20220120133338467</guid>
+            <pubDate>Thu, 20 Jan 2022 05:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=선미경 기자] (인터뷰②에 이어) 배우 권상우(46)가 가족들에 대한 애틋함을 전했다. 미국에 있는 아내와 두 자녀를 생각하며 작품에 더욱 열심히 임하고 있다고. 사춘기인 아들이 자신의 작품에 관심을 보이는 것에 기뻐하기도 했다. 권상우는 20일 오전 11시부터 온라인으로 진행된 영화 ‘해적: 도깨비 깃발’(감독 김정훈) 개봉 인터뷰에서 가족]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Fpoctan%2F20220120133339707tefs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[추락한 한국 영화, 임인년 '꿈의 숫자 1000만'에 재도전하는 명장들]]></title>
@@ -88,12 +88,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Fpoctan%2F20220120143405214mimh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[권상우 "美에 있는 ♥손태영 보러 오가느라 자가격리만 4번"[EN:인터뷰④]]]></title>
-            <link>https://movie.v.daum.net/v/20220120115114205</link>
-            <guid>https://movie.v.daum.net/v/20220120115114205</guid>
-            <pubDate>Thu, 20 Jan 2022 04:23:34 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 권상우가 아내 손태영과 자녀들을 보기 위해 한국과 미국을 오가고 있다고 전했다. 영화 '해적: 도깨비 깃발'(감독 김정훈)에 출연한 권상우는 1월 20일 진행된 화상 인터뷰를 통해 미국과 한국을 열심히 오가느라 자가격리를 네 번이나 했다고 밝혀 눈길을 끌었다. 사랑꾼이며 가정적인 남편, 아버지로 유명한 권상우. 그는 "결혼 후 세상]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Fnewsen%2F20220120115114470xvju.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[팬데믹의 기적..'스파이더맨 노웨이홈' 북미 역대 흥행 4위 [무비노트]]]></title>
+            <link>https://movie.v.daum.net/v/20220120150806290</link>
+            <guid>https://movie.v.daum.net/v/20220120150806290</guid>
+            <pubDate>Thu, 20 Jan 2022 12:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 영화 '스파이더맨: 노 웨이 홈'의 기록 경신 행진이 한 달 내내 이어지고 있다. 전 세계 역대 흥행 순위 8위에 오른 데 이어 이번엔 '블랙 팬서'를 꺾고 북미 역대 흥행 4위에 올랐다. 넘어야 할 다음 산은 '아바타'다. '스파이더맨: 노 웨이 홈'(감독 존 왓츠·배급 소니 픽쳐스)는 미스테리오(제이크 질렌할)의 계략으로 세]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Ftvdaily%2F20220120150807577znii.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[장예모 감독이 필름에 바치는 헌사..영화 '원 세컨드']]></title>
@@ -104,12 +104,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Fyonhap%2F20220120115159751iivb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[팬데믹의 기적..'스파이더맨 노웨이홈' 북미 역대 흥행 4위 [무비노트]]]></title>
-            <link>https://movie.v.daum.net/v/20220120150806290</link>
-            <guid>https://movie.v.daum.net/v/20220120150806290</guid>
-            <pubDate>Thu, 20 Jan 2022 12:29:43 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 영화 '스파이더맨: 노 웨이 홈'의 기록 경신 행진이 한 달 내내 이어지고 있다. 전 세계 역대 흥행 순위 8위에 오른 데 이어 이번엔 '블랙 팬서'를 꺾고 북미 역대 흥행 4위에 올랐다. 넘어야 할 다음 산은 '아바타'다. '스파이더맨: 노 웨이 홈'(감독 존 왓츠·배급 소니 픽쳐스)는 미스테리오(제이크 질렌할)의 계략으로 세]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Ftvdaily%2F20220120150807577znii.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[권상우 "美에 있는 ♥손태영 보러 오가느라 자가격리만 4번"[EN:인터뷰④]]]></title>
+            <link>https://movie.v.daum.net/v/20220120115114205</link>
+            <guid>https://movie.v.daum.net/v/20220120115114205</guid>
+            <pubDate>Thu, 20 Jan 2022 04:23:34 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 권상우가 아내 손태영과 자녀들을 보기 위해 한국과 미국을 오가고 있다고 전했다. 영화 '해적: 도깨비 깃발'(감독 김정훈)에 출연한 권상우는 1월 20일 진행된 화상 인터뷰를 통해 미국과 한국을 열심히 오가느라 자가격리를 네 번이나 했다고 밝혀 눈길을 끌었다. 사랑꾼이며 가정적인 남편, 아버지로 유명한 권상우. 그는 "결혼 후 세상]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Fnewsen%2F20220120115114470xvju.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['기생충' 봉준호 차기작은 '트와일라잇' 로버트 패틴슨 주연 SF영화]]></title>
@@ -136,14 +136,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2FSpoChosun%2F20220120174400895tbty.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰③] 권상우 "'십오야' 나 못알아본 정우성에 '너무해' 연락"]]></title>
-            <link>https://movie.v.daum.net/v/20220120120015611</link>
-            <guid>https://movie.v.daum.net/v/20220120120015611</guid>
-            <pubDate>Thu, 20 Jan 2022 04:23:34 GMT</pubDate>
-            <content:encoded><![CDATA[권상우가 최근 정우성과 주고 받은 흥미로운 에피소드를 전했다. 영화 '해적: 바다로 간 산적(김정훈 감독)' 개봉을 앞두고 있는 권상우는 20일 진행된 화상 인터뷰에서 "얼마 전 '출장 십오야'에서 정우성 배우가 권상우의 사진을 보고 이름을 말하지 못했는데 혹시 시청했냐"는 질문에 크게 웃더니 "매니저가 말해줘서 바로 봤다"고 말했다. 권상우는 "그리]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Filgansports%2F20220120120018182jpar.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['드라이브 마이 카' 트로피 9개 추가 "국내 관객 4만 돌파"]]></title>
             <link>https://movie.v.daum.net/v/20220120113104177</link>
             <guid>https://movie.v.daum.net/v/20220120113104177</guid>
@@ -152,20 +144,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Filgansports%2F20220120113104932zucl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["자가격리 4번" 권상우, 여전히 ♥손태영 향해 직진하는 사랑꾼(종합)[EN:인터뷰]]]></title>
-            <link>https://movie.v.daum.net/v/20220120130009507</link>
-            <guid>https://movie.v.daum.net/v/20220120130009507</guid>
-            <pubDate>Thu, 20 Jan 2022 04:23:34 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 미국에서 머물고 있는 손태영과 자녀들을 보기 위해 한국과 미국을 정신없이 오가느라 "자가격리만 네 번 했다"고 고백한 권상우. 그는 가족들이야말로 "연기 원동력"이라 밝혔다. 오는 1월 26일 개봉하는 영화 '해적: 도깨비 깃발'(감독 김정훈)은 흔적도 없이 사라진 왕실 보물의 주인이 되기 위해 바다로 모인 해적들의 스펙터클한 모험]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Fnewsen%2F20220120130009925yrbc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['크리스마스 칸타타' 각색한 '포 언투 어스' 5개국 6개 독립영화제서 쾌거]]></title>
             <link>https://movie.v.daum.net/v/20220120144104991</link>
             <guid>https://movie.v.daum.net/v/20220120144104991</guid>
             <pubDate>Thu, 20 Jan 2022 15:18:56 GMT</pubDate>
             <content:encoded><![CDATA[그라시아스합창단의 공연 ‘크리스마스 칸타타’를 영화로 각색한 ‘포 언투 어스’(For Unto Us)가 미국, 이탈리아 등 5개국 독립 영화제에서 최우수 작품상을 잇달아 수상해 화제다. ‘포 언투 어스’는 최근 미국 뉴욕 독립 영화상에서 제10회 최우수 작품상을 받았고, 이탈리아 베수비우스 국제 영화 축제에서 2021년 최우수 작품상을 수상했다. 이 영화제]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Fseoul%2F20220120144105680dqvg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰③] 권상우 "'십오야' 나 못알아본 정우성에 '너무해' 연락"]]></title>
+            <link>https://movie.v.daum.net/v/20220120120015611</link>
+            <guid>https://movie.v.daum.net/v/20220120120015611</guid>
+            <pubDate>Thu, 20 Jan 2022 04:23:34 GMT</pubDate>
+            <content:encoded><![CDATA[권상우가 최근 정우성과 주고 받은 흥미로운 에피소드를 전했다. 영화 '해적: 바다로 간 산적(김정훈 감독)' 개봉을 앞두고 있는 권상우는 20일 진행된 화상 인터뷰에서 "얼마 전 '출장 십오야'에서 정우성 배우가 권상우의 사진을 보고 이름을 말하지 못했는데 혹시 시청했냐"는 질문에 크게 웃더니 "매니저가 말해줘서 바로 봤다"고 말했다. 권상우는 "그리]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Filgansports%2F20220120120018182jpar.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["자가격리 4번" 권상우, 여전히 ♥손태영 향해 직진하는 사랑꾼(종합)[EN:인터뷰]]]></title>
+            <link>https://movie.v.daum.net/v/20220120130009507</link>
+            <guid>https://movie.v.daum.net/v/20220120130009507</guid>
+            <pubDate>Thu, 20 Jan 2022 04:23:34 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 미국에서 머물고 있는 손태영과 자녀들을 보기 위해 한국과 미국을 정신없이 오가느라 "자가격리만 네 번 했다"고 고백한 권상우. 그는 가족들이야말로 "연기 원동력"이라 밝혔다. 오는 1월 26일 개봉하는 영화 '해적: 도깨비 깃발'(감독 김정훈)은 흔적도 없이 사라진 왕실 보물의 주인이 되기 위해 바다로 모인 해적들의 스펙터클한 모험]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Fnewsen%2F20220120130009925yrbc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
