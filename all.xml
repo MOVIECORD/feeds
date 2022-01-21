@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 15:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 16:26:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,20 +231,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffcae40de78cb7e456e43032922b69001c94b1bf4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[어나더 라운드 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=142798</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=142798</guid>
-            <pubDate>Fri, 31 Dec 2021 01:05:26 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1c6725b99746d3a2ad064f65305fb939065b2f4a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[킹스맨: 퍼스트 에이전트 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=125382</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=125382</guid>
             <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
             <content:encoded><![CDATA[21.12.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b8b6ca0acd78221f254f00954744005c99160fb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[어나더 라운드 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=142798</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=142798</guid>
+            <pubDate>Fri, 31 Dec 2021 01:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1c6725b99746d3a2ad064f65305fb939065b2f4a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[레지던트 이블: 라쿤시티 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -558,20 +558,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Fnewsen%2F20220120100613110ugth.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[종합IS] 거짓말 같은 울음바다, 죽은 엄마가 좀비돼 돌아오다 '효자' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220120175410852</link>
-            <guid>https://movie.v.daum.net/v/20220120175410852</guid>
-            <pubDate>Fri, 21 Jan 2022 02:04:07 GMT</pubDate>
-            <content:encoded><![CDATA[[일간스포츠 박상우]  걱정이 앞섰던 영화. 모두의 우려를 무너뜨리고 시사회를 한순간에 울음바다로 만들었다. '동방예의좀비극'이라는 정체불명의 수식어까지 탄생시키며 많은 이들의 호기심을 자극한 영화 '효자(이훈국 감독)'가 20일 서울 롯데시네마 건대입구점에서 열린 언론시사회를 통해 첫 공개됐다. '효자'는 장례를 치른 지 얼마 지나지 않아 좀비로 돌아온]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Filgansports%2F20220120175413180qyzh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[애니메이션 '보이지 않는 눈' 끌레르몽 페랑 영화제 국제경쟁 부문 초청 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220121154739598</link>
             <guid>https://movie.v.daum.net/v/20220121154739598</guid>
             <pubDate>Fri, 21 Jan 2022 10:19:49 GMT</pubDate>
             <content:encoded><![CDATA[정승희 감독 '보이지 않는 눈' /사진=서울산업진흥원   [파이낸셜뉴스] 서울시의 문화콘텐츠 산업 경쟁력을 만드는 중소기업 지원기관 서울산업진흥원(SBA)은 단편 애니메이션 제작지원작 '보이지 않는 눈'이 끌레르몽 페랑 영화제의 대표 공식 경쟁부문인 국제경쟁 부문에 공식 초청됐다고 21일 밝혔다. 끌레르몽 페랑 국제단편영화제는 단편영화제 중]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F21%2Ffnnewsi%2F20220121154740394tfhm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[종합IS] 거짓말 같은 울음바다, 죽은 엄마가 좀비돼 돌아오다 '효자' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220120175410852</link>
+            <guid>https://movie.v.daum.net/v/20220120175410852</guid>
+            <pubDate>Fri, 21 Jan 2022 02:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[[일간스포츠 박상우]  걱정이 앞섰던 영화. 모두의 우려를 무너뜨리고 시사회를 한순간에 울음바다로 만들었다. '동방예의좀비극'이라는 정체불명의 수식어까지 탄생시키며 많은 이들의 호기심을 자극한 영화 '효자(이훈국 감독)'가 20일 서울 롯데시네마 건대입구점에서 열린 언론시사회를 통해 첫 공개됐다. '효자'는 장례를 치른 지 얼마 지나지 않아 좀비로 돌아온]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Filgansports%2F20220120175413180qyzh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['킹스맨' 배우들, 과거 이력에 '깜짝'.."그때 그 사람이라고?" [TF프리즘] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1306,7 +1306,7 @@
             <link>https://tv.naver.com/v/24731026</link>
             <guid>https://tv.naver.com/v/24731026</guid>
             <pubDate>Fri, 21 Jan 2022 10:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220121_136/Foi4B_1642755751370KShg0_JPEG/5051ab77-7a98-11ec-bba8-a0369ff968b0_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1314,7 +1314,7 @@
             <link>https://tv.naver.com/v/24729677</link>
             <guid>https://tv.naver.com/v/24729677</guid>
             <pubDate>Fri, 21 Jan 2022 08:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220121_262/dP2Nj_1642752819138rxzeU_JPEG/e1c010f8-7a91-11ec-8fb9-48df379cc9e4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1322,7 +1322,7 @@
             <link>https://tv.naver.com/v/24726948</link>
             <guid>https://tv.naver.com/v/24726948</guid>
             <pubDate>Fri, 21 Jan 2022 07:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220121_37/Nqj1I_1642746827935VAd0d_JPEG/cc83b237-7a83-11ec-8e85-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1330,7 +1330,7 @@
             <link>https://tv.naver.com/v/24726803</link>
             <guid>https://tv.naver.com/v/24726803</guid>
             <pubDate>Fri, 21 Jan 2022 07:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220121_71/VMbnm_1642746515151sUBSA_JPEG/27a6581d-7a83-11ec-b282-48df37ae3dc4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1338,7 +1338,7 @@
             <link>https://tv.naver.com/v/24726646</link>
             <guid>https://tv.naver.com/v/24726646</guid>
             <pubDate>Fri, 21 Jan 2022 07:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220121_267/pIkj7_1642746186900eWyjJ_JPEG/7d45183f-7a82-11ec-b3f1-505dacfbaa5c_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1346,7 +1346,7 @@
             <link>https://tv.naver.com/v/24726438</link>
             <guid>https://tv.naver.com/v/24726438</guid>
             <pubDate>Fri, 21 Jan 2022 06:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220121_186/XYZLi_1642745771696WYSDF_JPEG/47e17345-7a81-11ec-b9f9-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1354,7 +1354,7 @@
             <link>https://tv.naver.com/v/24726302</link>
             <guid>https://tv.naver.com/v/24726302</guid>
             <pubDate>Fri, 21 Jan 2022 06:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220121_126/9zLUe_1642745485939cfIVL_JPEG/bd795218-7a80-11ec-b9f9-a0369ff94ec8_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1362,7 +1362,7 @@
             <link>https://tv.naver.com/v/24725483</link>
             <guid>https://tv.naver.com/v/24725483</guid>
             <pubDate>Fri, 21 Jan 2022 06:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220121_139/X2k8v_1642743694239uzztO_JPEG/afe7a5d7-7a7c-11ec-a810-505dac8c385b_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1370,7 +1370,7 @@
             <link>https://tv.naver.com/v/24722595</link>
             <guid>https://tv.naver.com/v/24722595</guid>
             <pubDate>Fri, 21 Jan 2022 03:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220121_23/u8zjy_1642734042981JIh85_JPEG/240b5d69-7a66-11ec-99fd-a0369ff94ed0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1378,7 +1378,7 @@
             <link>https://tv.naver.com/v/24721263</link>
             <guid>https://tv.naver.com/v/24721263</guid>
             <pubDate>Fri, 21 Jan 2022 02:04:41 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220121_123/DE9Qr_1642729558515g5upm_JPEG/8e06901e-7a5b-11ec-9f69-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1386,7 +1386,7 @@
             <link>https://tv.naver.com/v/24721070</link>
             <guid>https://tv.naver.com/v/24721070</guid>
             <pubDate>Fri, 21 Jan 2022 02:04:41 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220121_119/K4vSG_1642728904475f9uRA_JPEG/2edb4546-7a5a-11ec-bf63-505dac8c3721_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
