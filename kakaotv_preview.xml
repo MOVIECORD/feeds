@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 02:05:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 03:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<화여장: 꽃들의 전쟁> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/425742758?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/425742758?act=clip</guid>
+            <pubDate>Fri, 21 Jan 2022 03:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:29]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvww16rvyiqaav5z5ixeahm4d%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199639676%26signature%3Dsu98B26S%252BjPc9Bt77eQNqFMwkQI%253D%26ts%3D1642730876" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<클리포드 더 빅 레드 독> 알쓸클잡 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/425742212?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/425695219?act=clip</guid>
             <pubDate>Wed, 19 Jan 2022 07:14:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:10]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgwq08c942aux3quysigxc60%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199482995%26signature%3DcEgvh1krXRgESGNXBHIWTVg%252BG%252Fw%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgwq08c942aux3quysigxc60%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199482995%26signature%3DcEgvh1krXRgESGNXBHIWTVg%252BG%252Fw%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<미싱타는 여자들> 영화계 추천 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 17 Jan 2022 04:27:04 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:02]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4ntcwp39tq2wwq8hc435nez%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199299432%26signature%3DTym2tiUEhaN3S5LS6XKRkgn%252BzME%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<임신한 나무와 도깨비> 30초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/425636186?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/425636186?act=clip</guid>
-            <pubDate>Mon, 17 Jan 2022 04:27:04 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvt677olmohx3zmk79rwaef3e%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199299266%26signature%3DiGrkF56P3ZY%252BKDfb4Fk2JJNrcKw%253D" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
