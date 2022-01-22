@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 04:24:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 06:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오빠 대신 감옥 간 소녀의 고백... "심장이 시켰다" (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002339899</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002339899</guid>
+            <pubDate>Sat, 22 Jan 2022 06:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[[리뷰] 영화 &lt;안티고네&gt; 알제리를 떠나 캐나다에 정착한 안티고네(나에마 리치) 가족. 이들은 어두웠던 과거를 청산하고 낯선 환경에서 이어가게 될 새 삶에 대한 기대에 한껏 부풀어 있다. 온 가족이 모여 함께 음식을]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[여행honey] 영화 '파워 오브 도그' 속 절경…뉴질랜드의 명품 로케이션 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012934625</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[[OSEN=김보라 기자] 영화 '해적: 도깨비 깃발'이 예매율 1위를 차지했다. 22일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 이날 오전 8시를 기준으로 '해적: 도깨비 깃발'의 실시간 예매율은 24.5%]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['해적' 강하늘 "안 아픈데 아픈척하는 연기 힘들어" [인터뷰M] (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000144264</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000144264</guid>
-            <pubDate>Fri, 21 Jan 2022 23:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '해적: 도깨비 깃발'에서 날렵하고 매서운 검술 실력과 함께 단주 '해랑'에 대한 순정을 드러낸 귀여운 캐릭터로 변신한 강하늘을 만났다. 강하늘은 이번 영화에서 자칭 고려 제일검이자 의적단의 두목 '무치'를 연]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[스파이더맨: 노 웨이 홈 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=146656</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=146656</guid>
@@ -247,14 +247,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1c6725b99746d3a2ad064f65305fb939065b2f4a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[레지던트 이블: 라쿤시티 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154524</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154524</guid>
-            <pubDate>Wed, 12 Jan 2022 08:24:04 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff02b0574086980f6782b6c9e2a2911f1124331e0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[청춘적니 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151331</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151331</guid>
@@ -263,11 +255,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6ddd97f36e8a34f2f6b95cea5ba4f8d60ff472ae" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[비욘드라이브 더 무비 : 엔시티 레조넌스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155555</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155555</guid>
-            <pubDate>Thu, 06 Jan 2022 01:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.12]]></content:encoded>
+            <title><![CDATA[레지던트 이블: 라쿤시티 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154524</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154524</guid>
+            <pubDate>Wed, 12 Jan 2022 08:24:04 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff02b0574086980f6782b6c9e2a2911f1124331e0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[블루버스데이 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -278,12 +271,11 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F582408a9c34cc917383386c7b196d3ca79ab8fd1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[도쿄 리벤저스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152016</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152016</guid>
-            <pubDate>Thu, 13 Jan 2022 01:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0b8e6746fb9c79ca0b83092701601c518caaedbd" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[비욘드라이브 더 무비 : 엔시티 레조넌스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155555</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155555</guid>
+            <pubDate>Thu, 06 Jan 2022 01:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.12]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -302,12 +294,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff7579ee3ba2608dcd081b01124279a4add22adec" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[클리포드 더 빅 레드 독 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151925</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151925</guid>
-            <pubDate>Wed, 12 Jan 2022 02:39:17 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F071b7d47acb1998d13e3f159cfd6523173bfa3d5" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[도쿄 리벤저스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152016</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152016</guid>
+            <pubDate>Thu, 13 Jan 2022 01:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0b8e6746fb9c79ca0b83092701601c518caaedbd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[프랑스 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -324,6 +316,14 @@
             <pubDate>Tue, 18 Jan 2022 04:26:29 GMT</pubDate>
             <content:encoded><![CDATA[22.01.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F72d325e53b31484452635da25839b1f28762f426" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[클리포드 더 빅 레드 독 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151925</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151925</guid>
+            <pubDate>Wed, 12 Jan 2022 02:39:17 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F071b7d47acb1998d13e3f159cfd6523173bfa3d5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[미싱타는 여자들 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -366,6 +366,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F64e31dd2502a095db212e0e568d95fea72e1b4cf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[원 세컨드 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=128451</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=128451</guid>
+            <pubDate>Tue, 18 Jan 2022 08:24:51 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffb397d5dfbc6b8f241e7c87910738ac70945b811" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[시카리오: 나이트 오브 이스케이프 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149547</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149547</guid>
@@ -374,12 +382,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3c52914457fdb972312f199af95d5eefd9a8c437" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[원 세컨드 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=128451</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=128451</guid>
-            <pubDate>Tue, 18 Jan 2022 08:24:51 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffb397d5dfbc6b8f241e7c87910738ac70945b811" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[만년이 지나도 변하지 않는 게 있어 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151289</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151289</guid>
+            <pubDate>Fri, 21 Jan 2022 03:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69ca8c34d6cc98b2e4e1741ada46752738d65703" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[인어가 잠든 집 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -396,14 +404,6 @@
             <pubDate>Wed, 19 Jan 2022 10:19:34 GMT</pubDate>
             <content:encoded><![CDATA[22.02.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9265a1ffb8b226e85ffc8438d2ab77e479931148" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[만년이 지나도 변하지 않는 게 있어 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151289</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151289</guid>
-            <pubDate>Fri, 21 Jan 2022 03:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69ca8c34d6cc98b2e4e1741ada46752738d65703" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[임신한 나무와 도깨비 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -510,20 +510,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F21%2Fohmynews%2F20220121153304957xfgx.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] '해적' 강하늘 "앞뒤 재지 않고 확 뛰어드는 용기에 반했죠" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220120133705593</link>
-            <guid>https://movie.v.daum.net/v/20220120133705593</guid>
-            <pubDate>Fri, 21 Jan 2022 08:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[“해파리라뇨! 바람처럼 산다고 해주시면 안 되나요? 조곤조곤 마치 팬들과 영상미팅을 하듯 말을 이어가던 배우 강하늘이 훅하고 튀어 올랐다. “하하하” 크게 웃으며 “흐름대로 사는데 바람 같다고 해달라”더니 금세 “맞아요, 해파리에요”라고 수긍한다. 50분간의 인터뷰는 질문을 빙자한 칭찬과 그렇지 않다는 겸손의 대화가 핑퐁처럼 이어졌다. 강하늘이 오는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Filgansports%2F20220120133708730alww.jpg" length="0" type="image//thumb/S732x228/"/>
-        </item>
-        <item>
             <title><![CDATA['해적' 한효주 "여성 액션 넘어선 액션 배우로의 도전" [인터뷰M] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220121120131893</link>
             <guid>https://movie.v.daum.net/v/20220121120131893</guid>
             <pubDate>Fri, 21 Jan 2022 06:22:13 GMT</pubDate>
             <content:encoded><![CDATA[영화 '해적: 도깨비 깃발'로 로맨스 얼굴을 버리고 해양 액션 버라이어티의 해적 두목 얼굴로 돌아온 배우 한효주를 만났다. 한효주는 이번 영화에서 바다를 평정한 해적선의 주인 '해랑'을 연기했다. 정확한 판단력과 강인한 카리스마, 민첩한 무술 실력에 누구보다 단원들을 아끼는 따뜻한 마음까지 갖춘 완벽한 해적들의 리더 '해랑'은 극의 중심이 되어 이야기를 이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F21%2FiMBC%2F20220121120135552abfq.jpg" length="0" type="image//thumb/S384x240/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F21%2FiMBC%2F20220121120135552abfq.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
             <title><![CDATA[로버트 패틴슨 '더 배트맨', 러닝타임 2시간 47분 "'어벤져스:엔드게임'보다 짧아"[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
@@ -660,6 +652,30 @@
             <pubDate>Sat, 22 Jan 2022 02:36:22 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 한미희 기자 = 수영장에서 놀던 딸 미즈호가 사고로 뇌사 상태에 빠졌다. 의사는 조심스럽게 장기 기증 의사를 묻는다. 엄마 가오루코(시노하라 료코 분)는 네 잎 클로버를 발견한 아이가 '미즈호는 행복하니까 괜찮아. 다른 사람을 위해 여기 둘래'라고 한 말을 기억하며 어렵사리 장기 기증에 동의한다. 미즈호와 마지막 인사를 하는 자리에서]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F22%2Fyonhap%2F20220122080008247cavo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[돌변한 AI, 한국행을 결심한 부부 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220121175701367</link>
+            <guid>https://movie.v.daum.net/v/20220121175701367</guid>
+            <pubDate>Sat, 22 Jan 2022 06:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[[김형욱 기자] &nbsp;        ▲ &nbsp;넷플릭스 오리지널 영화 &lt;마더/안드로이드&gt; 포스터.    ⓒ 넷플릭스  &nbsp; 북미 박스오피스가 전통적으로 전 세계 영화 흥행 시장을 선도했었다면, 코로나 팬데믹 이후 서서히 넷플릭스 시청 순위가 그 자리를 대체하고 있다. 머지 않아 넷플릭스 시청 순위가 영화를 만드는 사람과 영화를 보는 사람의 인식 속에 굳건하게 자리잡지]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F21%2Fohmynews%2F20220121175702488qhjr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['스파이더맨' 팬데믹 최고 기록, 설 연휴 장전 [박스오피스] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220122143113604</link>
+            <guid>https://v.daum.net/v/20220122143113604</guid>
+            <pubDate>Sat, 22 Jan 2022 06:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 이기은 기자] 마블 브랜드가 수 달 째 전 세계 극장가를 들썩인다. '스파이더맨: 노 웨이 홈'이 700만 고지를 넘으며 독주를 이어가고 있다. 22일 영화진흥위원회 영화관입장권 통합전산망에 따르면 전날 '스파이더맨: 노 웨이 홈'(감독 존 왓츠)은 2만 6516명의 관객을 동원했다. 누적 관객수 700만 7487명을 돌파한 기록이다. 영화는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F22%2Ftvdaily%2F20220122143114694twtn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[오빠 대신 감옥 간 소녀의 고백.. "심장이 시켰다" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220122133600095</link>
+            <guid>https://v.daum.net/v/20220122133600095</guid>
+            <pubDate>Sat, 22 Jan 2022 06:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[[김봉건 기자] 알제리를 떠나 캐나다에 정착한 안티고네(나에마 리치) 가족. 이들은 어두웠던 과거를 청산하고 낯선 환경에서 이어가게 될 새 삶에 대한 기대에 한껏 부풀어 있다. 온 가족이 모여 함께 음식을 나누는 등 이들이 머무는 공간엔 모처럼 화기가 돌고 웃음꽃이 활짝 핀다. 안티고네의 새로운 학교 생활도 적응 기간이 끝난 듯 순조로웠다. 친구들과의 관계]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F22%2Fohmynews%2F20220122133602030qypa.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[첫 악역·첫 사극..'해적: 도깨비 깃발', 권상우의 변신 [★신스틸러] (다음영화 뉴스 ─ 최신)]]></title>
@@ -1450,7 +1466,7 @@
             <link>https://tv.naver.com/v/24731026</link>
             <guid>https://tv.naver.com/v/24731026</guid>
             <pubDate>Fri, 21 Jan 2022 10:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220121_136/Foi4B_1642755751370KShg0_JPEG/5051ab77-7a98-11ec-bba8-a0369ff968b0_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1458,7 +1474,7 @@
             <link>https://tv.naver.com/v/24729677</link>
             <guid>https://tv.naver.com/v/24729677</guid>
             <pubDate>Fri, 21 Jan 2022 08:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220121_262/dP2Nj_1642752819138rxzeU_JPEG/e1c010f8-7a91-11ec-8fb9-48df379cc9e4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1466,7 +1482,7 @@
             <link>https://tv.naver.com/v/24726948</link>
             <guid>https://tv.naver.com/v/24726948</guid>
             <pubDate>Fri, 21 Jan 2022 07:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220121_37/Nqj1I_1642746827935VAd0d_JPEG/cc83b237-7a83-11ec-8e85-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1474,7 +1490,7 @@
             <link>https://tv.naver.com/v/24726803</link>
             <guid>https://tv.naver.com/v/24726803</guid>
             <pubDate>Fri, 21 Jan 2022 07:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220121_71/VMbnm_1642746515151sUBSA_JPEG/27a6581d-7a83-11ec-b282-48df37ae3dc4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1482,7 +1498,7 @@
             <link>https://tv.naver.com/v/24726646</link>
             <guid>https://tv.naver.com/v/24726646</guid>
             <pubDate>Fri, 21 Jan 2022 07:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220121_267/pIkj7_1642746186900eWyjJ_JPEG/7d45183f-7a82-11ec-b3f1-505dacfbaa5c_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1490,7 +1506,7 @@
             <link>https://tv.naver.com/v/24726438</link>
             <guid>https://tv.naver.com/v/24726438</guid>
             <pubDate>Fri, 21 Jan 2022 06:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220121_186/XYZLi_1642745771696WYSDF_JPEG/47e17345-7a81-11ec-b9f9-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1498,7 +1514,7 @@
             <link>https://tv.naver.com/v/24726302</link>
             <guid>https://tv.naver.com/v/24726302</guid>
             <pubDate>Fri, 21 Jan 2022 06:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220121_126/9zLUe_1642745485939cfIVL_JPEG/bd795218-7a80-11ec-b9f9-a0369ff94ec8_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1506,7 +1522,7 @@
             <link>https://tv.naver.com/v/24725483</link>
             <guid>https://tv.naver.com/v/24725483</guid>
             <pubDate>Fri, 21 Jan 2022 06:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220121_139/X2k8v_1642743694239uzztO_JPEG/afe7a5d7-7a7c-11ec-a810-505dac8c385b_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1642,7 +1658,7 @@
             <link>https://tv.naver.com/v/24686164</link>
             <guid>https://tv.naver.com/v/24686164</guid>
             <pubDate>Wed, 19 Jan 2022 06:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_37/Zrkyh_1642573003591p06BU_JPEG/f987d1b3-78ee-11ec-bf5d-a0369ff952f4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1650,7 +1666,7 @@
             <link>https://tv.naver.com/v/24685324</link>
             <guid>https://tv.naver.com/v/24685324</guid>
             <pubDate>Wed, 19 Jan 2022 06:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_10/LMuvY_1642571087233xwcvW_JPEG/a3851111-78ea-11ec-8e85-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1658,7 +1674,7 @@
             <link>https://tv.naver.com/v/24684108</link>
             <guid>https://tv.naver.com/v/24684108</guid>
             <pubDate>Wed, 19 Jan 2022 05:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_293/UHfyH_1642567637142Krua3_JPEG/6309eece-78e2-11ec-a810-505dac8c385b_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
