@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 16:29:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 17:23:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,20 +152,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F24%2Fsportskhan%2F20220124080844700rtyu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["한효주와 티키타카.. 천방지축 제대로 떨었죠"]]></title>
-            <link>https://movie.v.daum.net/v/20220124180523131</link>
-            <guid>https://movie.v.daum.net/v/20220124180523131</guid>
-            <pubDate>Mon, 24 Jan 2022 14:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[배우 강하늘이 의로운 해적이 되어 스크린으로 돌아왔다. 강하늘이 의적단 두목 우무치로 열연한 '해적: 도깨비 깃발'은 해적들의 스펙터클한 모험을 그린 한국판 해양 블록버스터다. 롯데엔터테인먼트 제공          '우무치'역의 강하늘(왼쪽)과 '해랑'역의 한효주   "대본이 너무 좋았어요. 제가 맡은 '우무치'라는 캐릭터도 좋았지만 한효주 배]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F24%2Ffnnewsi%2F20220124181714112kaah.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[홍종선의 배우발견⑯] 설경구, 사실주의 연기 끝에서 돋은 섹시]]></title>
             <link>https://movie.v.daum.net/v/20220123144635022</link>
             <guid>https://movie.v.daum.net/v/20220123144635022</guid>
             <pubDate>Mon, 24 Jan 2022 01:00:39 GMT</pubDate>
             <content:encoded><![CDATA[배우 설경구는 언제부터 ‘섹시’했을까. 최근 출연하는 영화마다 어떤 배역을 맡든 섹시하다. 여기서 섹시라 함은, 단지 육체미라든가 성적 매력을 얘기하는 것은 아니다. 돋보인다, 관객의 마음을 끌어 유심히 보게 하는 힘이 있다는 뜻이다. 설경구는 분명 장년일 때보다 잘 생겨 보이고, 과거에는 성별이 느껴지지 않았는데 되레 요즘 들어 남자라는 특성이 눈에 들]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F23%2Fdailian%2F20220123144638734tfxy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["한효주와 티키타카.. 천방지축 제대로 떨었죠"]]></title>
+            <link>https://movie.v.daum.net/v/20220124180523131</link>
+            <guid>https://movie.v.daum.net/v/20220124180523131</guid>
+            <pubDate>Mon, 24 Jan 2022 14:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[배우 강하늘이 의로운 해적이 되어 스크린으로 돌아왔다. 강하늘이 의적단 두목 우무치로 열연한 '해적: 도깨비 깃발'은 해적들의 스펙터클한 모험을 그린 한국판 해양 블록버스터다. 롯데엔터테인먼트 제공          '우무치'역의 강하늘(왼쪽)과 '해랑'역의 한효주   "대본이 너무 좋았어요. 제가 맡은 '우무치'라는 캐릭터도 좋았지만 한효주 배]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F24%2Ffnnewsi%2F20220124181714112kaah.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
