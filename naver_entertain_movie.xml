@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-25T10:21:38.012Z</updated>
+    <updated>2022-01-25T11:17:08.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[권상우 "마음은 여전히 28살, 액션배우 타이틀 뺏기고 싶지 않아" [인터뷰M]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000144565</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000144565"/>
+        <updated>2022-01-25T11:15:40.015Z</updated>
+        <content type="html"><![CDATA[영화 '해적: 도깨비 깃발'에서 첫 사극 도전, 첫 악역 도전에 성공한 배우 권상우를 만났다. 권상우는 '해적: 도깨비 깃발'에서 왕실의 사라진 보물을 노리는 '부흥수'로 신출귀물한 무술 실력과 목표를 위해서라면 수]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['킹메이커' 설경구x이선균, 가슴에 남을 명대사3]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004546715</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004546715"/>
+        <updated>2022-01-25T11:15:40.016Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '킹메이커'가 예비 관객들의 가슴을 울릴 명장면과 명대사를 공개했다. #1."이 서창대가 제일 싫어하는 말이 뭔지 아슈? 졌지만 잘 싸웠다" 설 연휴 최고의 기대작 '킹메이커'(감독 변]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['355' 제시카 차스테인→루피타 뇽오, 파리·영국 넘나든 액션 블록버스터]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004546712</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003023762"/>
         <updated>2022-01-25T07:17:39.691Z</updated>
         <content type="html"><![CDATA[배우 키아누 리브스가 티베트 자선 행사에 참여한다는 사실이 알려지며 중국에서 거센 비판을 받고 있다. 최근 대만 중앙통신에 따르면 배우 키아누 리브스가 오는 3월 3일 열리는 티베트 하우스 미국 자선 콘서트 참석을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강다니엘 채수빈, 파란만장 '경찰수업' 시작합니다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000043333</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000043333"/>
-        <updated>2022-01-25T07:17:39.693Z</updated>
-        <content type="html"><![CDATA[강다니엘, 채수빈의 만만치 않은 경찰대학교 입성기가 시작된다. 디즈니+의 오리지널 시리즈 ‘너와 나의 경찰수업’ 제작진이 ‘수석 입학생’ 위승현(강다니엘 분)과 ‘추가 합격생’ 고은강(채수빈 분)의 극과 극 캠퍼스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[덱스터픽쳐스, 투유드림과 MOU체결..'그날, 그곳에서' 등 영상·웹툰 제작]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003023753</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003023753"/>
-        <updated>2022-01-25T07:17:39.695Z</updated>
-        <content type="html"><![CDATA[덱스터픽쳐스가 웹툰 콘텐츠 전문기업 투유드림과 손잡고 영상 및 웹툰 제작에 나선다. 25일 덱스터스튜디오는 자회사 덱스터픽쳐스와 투유드림이 지난 24일 영상화, 웹툰 콘텐츠 기획 제작 및 사업공동 개발을 위한 MOU]]></content>
     </entry>
 </feed>
