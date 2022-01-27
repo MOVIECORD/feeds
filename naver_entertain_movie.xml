@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-27T18:24:27.337Z</updated>
+    <updated>2022-01-27T20:19:49.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[극장에선 한국영화, 집에선 OTT 정주행…설엔 뭘 볼까]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010971618</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010971618"/>
+        <updated>2022-01-27T20:18:24.765Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 극장·집에서 즐길 만한 작품 추천 [서울=뉴시스] 손정빈 기자 = 닷새 간 설 연휴가 시작된다. 올해 설에도 코로나 사태가 이어지고 오미크론 변이가 확산하면서 마음 편하게 고향에 갈 수도, 나들이를 가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[설연휴 새영화]왕실 보물 찾아 위험천만 모험에 나서는 해적들]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000879954</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000527383"/>
         <updated>2022-01-27T08:21:43.353Z</updated>
         <content type="html"><![CDATA[[텐아시아=김지원 기자] 리얼한 카체이싱 액션이 인상적인 범죄 오락 액션 '특송'이 제 24회 이탈리아 우디네 극동 영화제에 공식 초청됐다. '특송'은 성공률 100% 특송 전문 드라이버 은하(박소담 분)가 예기치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Y이슈] 브래드 피트 영화 '파이트 클럽'… 中 문화 검열로 결말 바뀌어]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=052&amp;aid=0001695049</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=052&amp;aid=0001695049"/>
-        <updated>2022-01-27T08:21:43.353Z</updated>
-        <content type="html"><![CDATA[브래드 피트가 주연을 맡고 데이비드 핀처 감독이 연출한 할리우드 유명 영화 '파이트 클럽(Fight Club)'이 중국 당국의 검열로 인해 중국에서는 전혀 다른 결말로 서비스되고 있다는 사실이 알려졌다. 26일 홍콩]]></content>
     </entry>
 </feed>
