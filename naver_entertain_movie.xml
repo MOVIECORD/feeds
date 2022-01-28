@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-28T19:15:39.953Z</updated>
+    <updated>2022-01-28T20:20:00.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주말의 OTT]좀비와 함께하는 설 연휴]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010973430</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010973430"/>
+        <updated>2022-01-28T20:18:32.151Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 손정빈 기자 = 넷플릭스·디즈니+·왓챠·웨이브에서 볼 만한 영화·드라마·다큐멘터리를 추렸다. 고교 좀비 액션…지금 우리 학교는(넷플릭스) '지금 우리 학교는'은 좀비 바이러스가 시작된 학교에 고립돼]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[설 특집] 새 영화 16편 개봉… 극장에 가면 명절이 즐겁다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000655465</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000655465"/>
+        <updated>2022-01-28T20:18:32.152Z</updated>
+        <content type="html"><![CDATA[한국 영화 ‘킹메이커’와 ‘해적: 도깨비 깃발(해적2)’은 설 연휴 극장가 ‘빅2’다. 제작에 100억 원 이상이 들어갔고, 유명 배우들이 호연을 펼친다. 두 영화가 가장 두드러지지만 이 밖에도 명절 대목을 겨냥해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“길이라곤 철로뿐인 마을에 기차역을”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001502238</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005874962"/>
         <updated>2022-01-28T09:19:31.122Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 압도적 스코어로 박스오피스 1위를 기록하며 새해 극장가 흥행 돌풍을 불러일으키고 있는 영화 '해적: 도깨비 깃발'이 관객들의 폭발적인 호응에 힘입어 개봉 2주 차 무대인사도 확정했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매일 살해 당하는 남자, 이 장면이 보여준 미국의 현실]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002340711</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002340711"/>
-        <updated>2022-01-28T09:19:31.125Z</updated>
-        <content type="html"><![CDATA[[리뷰] 영화 &lt;낯설고 먼&gt; 페리(자리아)의 집에서 하룻밤을 묵은 제이스(조이 배드애스)는 집에 남겨 두고 온 반려견 지터가 눈에 밟힌다. 반려견에 식사를 제공하기 위해 페리의 집을 나선 그는 음악을 들으며 여유롭게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['장민호 드라마 최종회', 설 연휴 특별 상영 확정 "'걸그룹 댄스 메들리' 추가 버전" [공식]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003573189</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003573189"/>
-        <updated>2022-01-28T08:21:24.105Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 김나라 기자] 트로트 가수 장민호의 콘서트 무비 '장민호 드라마 최종회'가 설 연휴 단 3일간 특별 상영을 확정했다. '장민호 드라마 최종회'는 아티스트 장민호의 첫 단독 콘서트 투어 '드라마'의 공]]></content>
     </entry>
 </feed>
