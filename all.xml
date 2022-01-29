@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 16:27:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 17:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -351,20 +351,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0235b8e9c0048e4301f8c9c74da929863e33456" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[해리포터와 불사조 기사단 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=40878</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=40878</guid>
-            <pubDate>Wed, 26 Jan 2022 06:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F126F1B10AB8BAE5D51" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[덩케르크 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=103389</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=103389</guid>
             <pubDate>Thu, 27 Jan 2022 05:17:38 GMT</pubDate>
             <content:encoded><![CDATA[22.02.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F643b02b93e9de836850b9d09d680648b2114e41c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[해리포터와 불사조 기사단 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=40878</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=40878</guid>
+            <pubDate>Wed, 26 Jan 2022 06:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F126F1B10AB8BAE5D51" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 주술회전 0 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -614,20 +614,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F28%2Fohmynews%2F20220128104802047wzxu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['피그', 미국 감독 조합상→촬영감독 조합상 노미네이트 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220128122203570</link>
-            <guid>https://movie.v.daum.net/v/20220128122203570</guid>
-            <pubDate>Fri, 28 Jan 2022 16:27:05 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 서지현 기자] 영화 '피그'가 미국 감독 조합상, 촬영감독 조합상 후보에 연이어 지명되며 오스카에 한 걸음 더 가까워졌다. 배우 니콜라스 케이지가 연기상 13관왕을 석권한 화제작 '피그'가 미국 할리우드 직능 단체인 조합들이 수여하는 상의 후보로 잇달아 지명됐다. '피그'는 이름을 버린 남자 ‘롭’이 사라진 트러플 돼지와 인생의 가장 소중한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F28%2Fsportstoday%2F20220128122204551estb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['이혼남' 제이슨 모모아, '분노의 질주10' 캐스팅..빈 디젤과 갈등 [Oh!llywood] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220129195111486</link>
             <guid>https://movie.v.daum.net/v/20220129195111486</guid>
             <pubDate>Sat, 29 Jan 2022 16:26:16 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자] 배우 제이슨 모모아가 인기 시리즈 영화 ‘분노의 질주’ 10편에 캐스팅됐다. 이혼 후에도 휴식기 없이 꾸준히 작품 활동을 이어가고 있는 것. 영화 ‘아쿠아맨’(감독 제임스 완)으로 전 세계적 인기를 얻은 제이슨 모모아가 ‘분노의 질주’ 시리즈의 새 가족이 된 것으로 28일(현지 시간) 전해졌다. 제이슨 모모아는 도미닉 토레토(빈]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F29%2Fpoctan%2F20220129195112648goeg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['피그', 미국 감독 조합상→촬영감독 조합상 노미네이트 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220128122203570</link>
+            <guid>https://movie.v.daum.net/v/20220128122203570</guid>
+            <pubDate>Fri, 28 Jan 2022 16:27:05 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 서지현 기자] 영화 '피그'가 미국 감독 조합상, 촬영감독 조합상 후보에 연이어 지명되며 오스카에 한 걸음 더 가까워졌다. 배우 니콜라스 케이지가 연기상 13관왕을 석권한 화제작 '피그'가 미국 할리우드 직능 단체인 조합들이 수여하는 상의 후보로 잇달아 지명됐다. '피그'는 이름을 버린 남자 ‘롭’이 사라진 트러플 돼지와 인생의 가장 소중한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F28%2Fsportstoday%2F20220128122204551estb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[설 특집] "베일 속 '선거판의 여우'.. 덜 알려져 연기하기 자유로웠어요" (다음영화 뉴스 ─ 인기)]]></title>
