@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-29T20:20:29.028Z</updated>
+    <updated>2022-01-29T21:16:00.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“동성연인 약혼→오스카 여우주연 유력→양성애 소재 감독 데뷔” 크리스틴 스튜어트, 다 가진 여자[해외이슈]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003573370</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003573370"/>
+        <updated>2022-01-29T21:14:36.780Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]지난해 동성연인 딜런 메이어와 약혼한 크리스틴 스튜어트(32)가 ‘스펜서’로 아카데미 여우주연상 유력 후보로 거론되는 가운데 이제 감독 데뷔를 앞두고 있다. 그는 28일(현지시간) 버라이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강하늘·한효주 vs 설경구·이선균, 설 연휴 맞대결 관심 [N초점]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005875843</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005875843"/>
+        <updated>2022-01-29T21:14:36.781Z</updated>
+        <content type="html"><![CDATA[ㅇㄴ 주연 배우들의 호흡이 돋보이는 영화들의 흥행 대결이 설 연휴 극장가에서 본격적으로 펼쳐진다. 지난 26일 개봉한 영화 '해적: 도깨비 깃발'(감독 김정훈)과 '킹메이커'(감독 변성현)가 해당 작품들이다. 강하늘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지난해 라면 수출액 6억7천만달러…사상 최대]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012949977</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003526284"/>
         <updated>2022-01-29T04:22:41.796Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=이미지 기자] '언차티드'가 국내 개봉을 확정하고, 메인 예고편과 메인 포스터를 최초 공개했다. '스파이더맨: 노 웨이 홈'으로 팬데믹 흥행 신기록을 갈아치운 주역 톰 홀랜드가 선택한 새해 첫 액션 어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['메이의 새빨간 비밀', 3월 디즈니플러스 단독 공개..산드라 오 참여]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003024928</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003024928"/>
-        <updated>2022-01-29T04:22:41.796Z</updated>
-        <content type="html"><![CDATA['메이의 새빨간 비밀'이 3월 디즈니+(디즈니플러스)에서 공개된다. 당초 '메이의 새빨간 비밀'은 올해 봄 스크린에서 개봉할 예정이었으나 디즈니+에서 공개하게 됐다. '메이의 새빨간 비밀'은 빈틈없이 완벽하던 만능]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘앤트맨’ 여배우 “백신 강요하지마” VS 샹치 “코로나로 조부모 사망, 백신 맞아야”[해외이슈](종합)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003573300</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003573300"/>
-        <updated>2022-01-29T04:22:41.796Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]미국에서 코로나 백신을 둘러싼 논란이 이어지고 있는 가운데 마블영화 출연배우들이 상반된 입장을 내놓아 주목된다. ‘샹치’의 시무 리우는 28일(현지시간) 트위터에 “나는 지난해 COVID]]></content>
     </entry>
 </feed>
