@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 11:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 12:28:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어드벤처 '해적2' vs 드라마 '킹메이커'…설영화 뭐볼까 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005136950</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005136950</guid>
+            <pubDate>Sat, 29 Jan 2022 12:27:04 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 스타in 박미애 기자] 한국영화 두 편의 본격적인 설 연휴 관객몰이가 시작됐다. ‘해적:도깨비 깃발’(감독 김정훈)이 먼저 승기를 잡은 가운데 ‘킹메이커’(감독 변성현)가 반격에 나설지 관심이 쏠린다. ‘]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA['이혼남' 제이슨 모모아, '분노의 질주10' 캐스팅…빈 디젤과 갈등 [Oh!llywood] (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004548457</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[[헤럴드POP=이미지 기자] ‘파친코’ - Pachinko가 첫 스틸을 공개하며 드디어 베일을 벗은 가운데, 전 세계 공개일을 확정 지었다. 세계적 명성의 배우들이 대거 출연하는 Apple Original Serie]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['해적:도깨비깃발' vs '킹메이커' 설연휴 쌍끌이 예고 [주말흥행기상도] (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003024924</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003024924</guid>
-            <pubDate>Sat, 29 Jan 2022 02:28:41 GMT</pubDate>
-            <content:encoded><![CDATA['해적:도깨비깃발'과 '킹메이커' 설 연휴 쌍끌이로 흥행을 이끌 전망이다. 지난 26일 나란히 개봉한 두 영화는 이번 주말 '해적:도깨비깃발'이 누적 60만명을, '킹메이커'가 누적 30만명 가량을 동원할 것으로 예]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[해적: 도깨비 깃발 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=127223</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=127223</guid>
@@ -247,20 +247,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F18d1f6ee800263474c57c0bb2aa3240e664a689d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[장민호 드라마 최종회 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157110</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157110</guid>
-            <pubDate>Fri, 14 Jan 2022 06:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F64e31dd2502a095db212e0e568d95fea72e1b4cf" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[하우스 오브 구찌 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=54204</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=54204</guid>
             <pubDate>Wed, 12 Jan 2022 02:39:17 GMT</pubDate>
             <content:encoded><![CDATA[22.01.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb6943a9508e5f9dc4764c57aecc8654af3e24e8f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[장민호 드라마 최종회 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157110</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157110</guid>
+            <pubDate>Fri, 14 Jan 2022 06:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F64e31dd2502a095db212e0e568d95fea72e1b4cf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -287,22 +287,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb42c72550f6c76f3c0ab9906ba50aea889b8676a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[데드락: 라스트 리벤지 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156608</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156608</guid>
-            <pubDate>Wed, 26 Jan 2022 08:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0371ebaaaa98e6f6f273d90c7020b67c1c4b1bce" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[웨스트 사이드 스토리 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=132759</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=132759</guid>
-            <pubDate>Fri, 28 Jan 2022 03:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffcae40de78cb7e456e43032922b69001c94b1bf4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[킹스맨: 퍼스트 에이전트 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=125382</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=125382</guid>
@@ -311,12 +295,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b8b6ca0acd78221f254f00954744005c99160fb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[데드락: 라스트 리벤지 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156608</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156608</guid>
+            <pubDate>Wed, 26 Jan 2022 08:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0371ebaaaa98e6f6f273d90c7020b67c1c4b1bce" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[원 세컨드 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=128451</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=128451</guid>
             <pubDate>Tue, 18 Jan 2022 08:24:51 GMT</pubDate>
             <content:encoded><![CDATA[22.01.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffb397d5dfbc6b8f241e7c87910738ac70945b811" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[웨스트 사이드 스토리 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=132759</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=132759</guid>
+            <pubDate>Fri, 28 Jan 2022 03:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffcae40de78cb7e456e43032922b69001c94b1bf4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[엔드게임: 나는 킬러다 (다음영화 영화관 ─ 현재상영)]]></title>
