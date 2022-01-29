@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 12:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 16:27:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -199,20 +199,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F825baa1e98d8f33e4801d88b3a302739039c5cc4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[듄 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=130886</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=130886</guid>
-            <pubDate>Thu, 27 Jan 2022 05:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0235b8e9c0048e4301f8c9c74da929863e33456" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[스파이더맨: 노 웨이 홈 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=146656</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=146656</guid>
             <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
             <content:encoded><![CDATA[21.12.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fc5880afdb5b7c60161f34184e1f466814fec2d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[듄 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=130886</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=130886</guid>
+            <pubDate>Thu, 27 Jan 2022 05:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0235b8e9c0048e4301f8c9c74da929863e33456" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[씽2게더 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -239,20 +239,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1c6725b99746d3a2ad064f65305fb939065b2f4a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[인어가 잠든 집 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=122789</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=122789</guid>
-            <pubDate>Wed, 19 Jan 2022 23:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F18d1f6ee800263474c57c0bb2aa3240e664a689d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[하우스 오브 구찌 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=54204</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=54204</guid>
             <pubDate>Wed, 12 Jan 2022 02:39:17 GMT</pubDate>
             <content:encoded><![CDATA[22.01.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb6943a9508e5f9dc4764c57aecc8654af3e24e8f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[인어가 잠든 집 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=122789</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=122789</guid>
+            <pubDate>Wed, 19 Jan 2022 23:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F18d1f6ee800263474c57c0bb2aa3240e664a689d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[장민호 드라마 최종회 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -263,20 +263,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F64e31dd2502a095db212e0e568d95fea72e1b4cf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151070</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151070</guid>
-            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[특송 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=132303</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=132303</guid>
             <pubDate>Wed, 12 Jan 2022 02:39:17 GMT</pubDate>
             <content:encoded><![CDATA[22.01.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fba021bacaf87ba110d48e406408feccafb6f96a1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151070</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151070</guid>
+            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[태일이 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -319,14 +319,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffcae40de78cb7e456e43032922b69001c94b1bf4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[엔드게임: 나는 킬러다 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149363</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149363</guid>
-            <pubDate>Sat, 29 Jan 2022 06:21:26 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff7579ee3ba2608dcd081b01124279a4add22adec" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[경관의 피 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=136344</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=136344</guid>
@@ -343,6 +335,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F84163ca3fc7817e3321d4b290c9aef61407bb336" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[미싱타는 여자들 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145234</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145234</guid>
+            <pubDate>Sat, 29 Jan 2022 16:26:02 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F70deb49a1e0cda735262b62efad968bd0d3cfb58" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[듄 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=130886</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=130886</guid>
@@ -351,20 +351,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0235b8e9c0048e4301f8c9c74da929863e33456" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[덩케르크 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=103389</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=103389</guid>
-            <pubDate>Thu, 27 Jan 2022 05:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F643b02b93e9de836850b9d09d680648b2114e41c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[해리포터와 불사조 기사단 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=40878</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=40878</guid>
             <pubDate>Wed, 26 Jan 2022 06:22:30 GMT</pubDate>
             <content:encoded><![CDATA[22.02.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F126F1B10AB8BAE5D51" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[덩케르크 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=103389</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=103389</guid>
+            <pubDate>Thu, 27 Jan 2022 05:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F643b02b93e9de836850b9d09d680648b2114e41c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 주술회전 0 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -399,14 +399,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69ca8c34d6cc98b2e4e1741ada46752738d65703" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[더 마더 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=146731</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=146731</guid>
-            <pubDate>Thu, 27 Jan 2022 06:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbaf77f7a554227fbbded052634ac9d85f8e8ba33" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[리코리쉬 피자 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154397</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154397</guid>
@@ -436,6 +428,14 @@
             <pubDate>Fri, 28 Jan 2022 07:17:32 GMT</pubDate>
             <content:encoded><![CDATA[22.02.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7b41c3d7c6d2c849ef2eaa0a3f9299220d43382a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 마더 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=146731</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=146731</guid>
+            <pubDate>Thu, 27 Jan 2022 06:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbaf77f7a554227fbbded052634ac9d85f8e8ba33" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아웃브레이크 호텔 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -534,30 +534,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F28%2Fmydaily%2F20220128140739388fxax.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[애니메이션에 담긴 킬링필드 비극.. 세계가 공감했다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220128163001818</link>
-            <guid>https://movie.v.daum.net/v/20220128163001818</guid>
-            <pubDate>Fri, 28 Jan 2022 08:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[[이선필 기자] ▲ &nbsp;애니메이션 &lt;1975 킬링필드, 푸난&gt; 관련 이미지.    ⓒ 그린나래미디어  냉전 시대를 거치며 여러 국가는 이데올로기 대결에 신음했다. 어쩌면 외부 세력의 침략보다 무서울 내전, 쿠데타와 각종 정치 혁명은 무고한 시민의 수많은 죽음으로 이어지기 마련이었다. 캄보디아도 예외는 아니었다. 우리에겐 킬링필드라는 단어로 알려]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F28%2Fohmynews%2F20220128163004188sqyu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["동성연인과 결혼식 예정대로 진행" 크리스틴 스튜어트, 품절녀 임박[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220129061905796</link>
-            <guid>https://movie.v.daum.net/v/20220129061905796</guid>
-            <pubDate>Fri, 28 Jan 2022 22:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘트와일라잇’ 시리즈의 크리스틴 스튜어트(31)가 동성연인 딜런 메이어와 예정대로 결혼할 것이라고 말했다. 27일(현지시간) 피플에 따르면, 그는 CBS ‘선데이 모닝쇼’에 출연해 “결혼식 날짜는 아직 정해지지 않았지만 결혼식은 예정대로 진행될 것”이라고 말했다. 딜런 메이어와의 약혼 파티는 “너무 좋았다”고 만족감을 드러냈]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F29%2Fmydaily%2F20220129061905351ukjl.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[7년 걸려 완성한 기지촌 이야기.. 죽어도 못 떠나는 이유 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220128104800057</link>
-            <guid>https://movie.v.daum.net/v/20220128104800057</guid>
-            <pubDate>Fri, 28 Jan 2022 08:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[[김상목 기자] 1_모파상의 단편 &lt;비곗덩어리&gt;를 떠올리며 기 드 모파상의 작품 중 &lt;비곗덩어리&gt;라는 단편소설이 있다. 1870년 보불전쟁 당시 교외로 피난을 떠난 이들의 이야기다. 여객마차에 합승한 고귀한 귀족과 부르주아들은 일행 중 '비곗덩어리'라 자기들끼리 멸칭으로 부르는 한 여인이 불편하다. 유흥업에 종사하는 '비곗덩어리'는 붙임성 있고 친절한 성품]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F28%2Fohmynews%2F20220128104802047wzxu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['도쿄 리벤저스' 원작 만화에서 금방 튀어나온 비주얼 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220128113015073</link>
             <guid>https://movie.v.daum.net/v/20220128113015073</guid>
@@ -574,20 +550,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F28%2Filgansports%2F20220128103733816rfre.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[애니메이션에 담긴 킬링필드 비극.. 세계가 공감했다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220128163001818</link>
+            <guid>https://movie.v.daum.net/v/20220128163001818</guid>
+            <pubDate>Fri, 28 Jan 2022 08:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[[이선필 기자] ▲ &nbsp;애니메이션 &lt;1975 킬링필드, 푸난&gt; 관련 이미지.    ⓒ 그린나래미디어  냉전 시대를 거치며 여러 국가는 이데올로기 대결에 신음했다. 어쩌면 외부 세력의 침략보다 무서울 내전, 쿠데타와 각종 정치 혁명은 무고한 시민의 수많은 죽음으로 이어지기 마련이었다. 캄보디아도 예외는 아니었다. 우리에겐 킬링필드라는 단어로 알려]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F28%2Fohmynews%2F20220128163004188sqyu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["동성연인과 결혼식 예정대로 진행" 크리스틴 스튜어트, 품절녀 임박[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220129061905796</link>
+            <guid>https://movie.v.daum.net/v/20220129061905796</guid>
+            <pubDate>Fri, 28 Jan 2022 22:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘트와일라잇’ 시리즈의 크리스틴 스튜어트(31)가 동성연인 딜런 메이어와 예정대로 결혼할 것이라고 말했다. 27일(현지시간) 피플에 따르면, 그는 CBS ‘선데이 모닝쇼’에 출연해 “결혼식 날짜는 아직 정해지지 않았지만 결혼식은 예정대로 진행될 것”이라고 말했다. 딜런 메이어와의 약혼 파티는 “너무 좋았다”고 만족감을 드러냈]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F29%2Fmydaily%2F20220129061905351ukjl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['그 남자는 타이타닉을 보고 싶지 않았다', 독특한 점자 포스터..3월 개봉[공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220128102523064</link>
             <guid>https://movie.v.daum.net/v/20220128102523064</guid>
             <pubDate>Fri, 28 Jan 2022 08:21:46 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;제78회 베니스국제영화제에서 관객상을 수상한 영화 '그 남자는 타이타닉을 보고 싶지 않았다'가 3월 국내 개봉을 확정짓고 궁금증을 증폭시키는 론칭 포스터를 공개했다. '그 남자는 타이타닉을 보고 싶지 않았다'(감독 테무 니키, 수입배급 슈아픽처스)는 난치병으로 시력과 기동성을 잃은 야코가 천 킬로미터 떨어진 도시에 사는 연인을]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F28%2Fpoctan%2F20220128102524914zqhq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['킹메이커', 뜨거우면서도 아련한 브로맨스[곽명동의 씨네톡] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220128161409431</link>
-            <guid>https://movie.v.daum.net/v/20220128161409431</guid>
-            <pubDate>Fri, 28 Jan 2022 09:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]세상을 바꾸기 위해 도전하는 정치인 김운범(설경구) 앞에 그와 뜻을 함께하고자 선거 전략가 서창대(이선균)가 찾아온다. 열세인 상황 속에서 서창대는 아무도 상상하지 못한 선거 전략을 펼치고 김운범은 선거에 연이어 승리하며, 당을 대표하는 대통령 후보까지 올라서게 된다. 대통령 선거를 향한 본격적인 행보가 시작되고 그들은 당선을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F28%2Fmydaily%2F20220128161409916cheb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[오미크론 확산 속 방역지침 그대로..설 극장가 긴장·기대 교차 (다음영화 뉴스 ─ 인기)]]></title>
@@ -598,20 +582,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F28%2Fyonhap%2F20220128120224816dqbz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[오스카상 레이스에 나선 OTT 영화들 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220128122217577</link>
-            <guid>https://movie.v.daum.net/v/20220128122217577</guid>
-            <pubDate>Fri, 28 Jan 2022 04:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[아이즈 ize 홍수경(칼럼니스트)세상의 많은 분들이 스트리밍 드라마 시리즈에 빠져서 밤을 지새우고 있는 동안, 영화계도 두 시간 동안 관객에게 신선한 즐거움을 선사하기 위한 노력을 멈추지 않았다. &nbsp;지난해를&nbsp;돌아보면 박스오피스의 명예를 지킨 영화들은 마블 유니버스 신작이거나 '분노의 질주' 시리즈 정도였지만 스트리밍 영화 세계에서는 수익과 상관없이 용감한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F28%2FIZE%2F20220128122219719dpdt.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['355' 제시카 차스테인→루피타 뇽오, 5인5색 강렬 카리스마 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220128101111541</link>
-            <guid>https://movie.v.daum.net/v/20220128101111541</guid>
-            <pubDate>Fri, 28 Jan 2022 10:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;대형 액션 블록버스터 '355'가 최정예 블랙 에이전트 TEAM 355의 다섯 멤버를 소개하는 캐릭터 영상과 캐릭터 스틸 5종을 공개해 이목을 집중시킨다. 제시카 차스테인을 비롯한 월드클래스 스타들의 만남과 화끈한 엔터테이닝 액션으로 화제를 모으는 '355'(감독 사이먼 킨버그, 수입 조이앤시네마, 배급 스튜디오산타클로스 제이앤]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F28%2Fpoctan%2F20220128101111449oane.png" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['킹메이커', 뜨거우면서도 아련한 브로맨스[곽명동의 씨네톡] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220128161409431</link>
+            <guid>https://movie.v.daum.net/v/20220128161409431</guid>
+            <pubDate>Fri, 28 Jan 2022 09:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]세상을 바꾸기 위해 도전하는 정치인 김운범(설경구) 앞에 그와 뜻을 함께하고자 선거 전략가 서창대(이선균)가 찾아온다. 열세인 상황 속에서 서창대는 아무도 상상하지 못한 선거 전략을 펼치고 김운범은 선거에 연이어 승리하며, 당을 대표하는 대통령 후보까지 올라서게 된다. 대통령 선거를 향한 본격적인 행보가 시작되고 그들은 당선을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F28%2Fmydaily%2F20220128161409916cheb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['인사이드아웃' 제작진 '메이의새빨간비밀' 3월 디즈니+ 공개 (다음영화 뉴스 ─ 인기)]]></title>
@@ -622,20 +598,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F28%2Filgansports%2F20220128073308849sgun.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['안본 눈 찾습니다' 넷플 인기 영화 2년 연속 1위 '365일'[놀면 뭐보니③] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220129083006001</link>
-            <guid>https://movie.v.daum.net/v/20220129083006001</guid>
-            <pubDate>Sat, 29 Jan 2022 00:57:49 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] 2년 연속 1위는 좀 당황스럽다. ‘후방주의’ 대명사 ‘365일’이 수많은 신작들을 제치고 넷플릭스에서 가장 많이 본 영화 타이틀을, 그것도 해를 넘겨 ‘수성’할 줄은. 연휴가 오면 최소 1번 이상 접속해보게 되는 글로벌 OTT 넷플릭스에서 2021년 가장 많이 본 영화 10편을 정주행해보는 건 어떨까. 오피셜급 자료로 꼽히는 플]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F29%2Fnewsen%2F20220129083007568flpc.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['355' 제시카 차스테인→루피타 뇽오, 5인5색 강렬 카리스마 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220128101111541</link>
+            <guid>https://movie.v.daum.net/v/20220128101111541</guid>
+            <pubDate>Fri, 28 Jan 2022 10:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;대형 액션 블록버스터 '355'가 최정예 블랙 에이전트 TEAM 355의 다섯 멤버를 소개하는 캐릭터 영상과 캐릭터 스틸 5종을 공개해 이목을 집중시킨다. 제시카 차스테인을 비롯한 월드클래스 스타들의 만남과 화끈한 엔터테이닝 액션으로 화제를 모으는 '355'(감독 사이먼 킨버그, 수입 조이앤시네마, 배급 스튜디오산타클로스 제이앤]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F28%2Fpoctan%2F20220128101111449oane.png" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[설 특집] "베일 속 '선거판의 여우'.. 덜 알려져 연기하기 자유로웠어요" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220128111005053</link>
-            <guid>https://movie.v.daum.net/v/20220128111005053</guid>
-            <pubDate>Fri, 28 Jan 2022 16:27:05 GMT</pubDate>
-            <content:encoded><![CDATA[편집자주 설 연휴를 앞두고 한국 영화 ‘킹메이커’와 ‘해적: 도깨비 깃발(해적2)’이 26일 개봉했다. 총제작비가 100억 원(‘킹메이커’), 230억 원(‘해적2’)인 화제작이다. 똘똘한 한국 영화 2편이 동시에 선보인 건 지난 추석에 이어 4개월 만이다. 극장 볼거리가 오랜 만에 풍성하다. ‘킹메이커’는 정통 정치 드라마, ‘해적2’는 코믹 퓨전 사]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F28%2Fhankooki%2F20220128111008563yrss.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[7년 걸려 완성한 기지촌 이야기.. 죽어도 못 떠나는 이유 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220128104800057</link>
+            <guid>https://movie.v.daum.net/v/20220128104800057</guid>
+            <pubDate>Fri, 28 Jan 2022 08:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[[김상목 기자] 1_모파상의 단편 &lt;비곗덩어리&gt;를 떠올리며 기 드 모파상의 작품 중 &lt;비곗덩어리&gt;라는 단편소설이 있다. 1870년 보불전쟁 당시 교외로 피난을 떠난 이들의 이야기다. 여객마차에 합승한 고귀한 귀족과 부르주아들은 일행 중 '비곗덩어리'라 자기들끼리 멸칭으로 부르는 한 여인이 불편하다. 유흥업에 종사하는 '비곗덩어리'는 붙임성 있고 친절한 성품]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F28%2Fohmynews%2F20220128104802047wzxu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['피그', 미국 감독 조합상→촬영감독 조합상 노미네이트 (다음영화 뉴스 ─ 인기)]]></title>
@@ -646,180 +622,44 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F28%2Fsportstoday%2F20220128122204551estb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[웃음 빵빵 눈물 펑펑, 감동 대방출.. 국내외 신작 7편 출격 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220129090220345</link>
-            <guid>https://movie.v.daum.net/v/20220129090220345</guid>
-            <pubDate>Sat, 29 Jan 2022 00:57:49 GMT</pubDate>
-            <content:encoded><![CDATA[설 연휴 극장가는 여전히 기승을 부리는 신종 코로나바이러스 감염증(코로나19) 탓에 화려한 밥상을 차리진 못했다. 역병이 다소 수그러든 이후에야 비로소 ‘야심작’을 풀어놓을 작정이기 때문이다. 그래도 한국 영화 두 편이 쌍끌이 대진표를 짰다. ‘킹메이커’와 ‘해적: 도깨비 깃발’이다.  &nbsp; ◆선거판 쥐락펴락, 돌아온 마타도어의 귀재 킹메이커 1960]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F29%2Fsegye%2F20220129090220681iuco.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['모가디슈'→'인질' 2021 韓영화 빅3 TV 동시 출격[놀면 뭐보니④] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220129083506061</link>
-            <guid>https://movie.v.daum.net/v/20220129083506061</guid>
-            <pubDate>Sat, 29 Jan 2022 00:57:49 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] 켜서 찾아보는 재미도 있지만, 시간 기다려 ‘본방 사수’하는 재미 또한 놓칠 수 없다. 연휴엔 TV 앞에 앉아 그야말로 ‘안방극장의 묘미’를 만끽해보는 건 어떨까. 1월29일부터 2월2일까지 무려 닷새동안 이어지는 이번 설 연휴, 케이블TV를 통해 특별 편성된 다양한 영화를 만날 수 있다. ★ 2021 韓영화 빅3 동시 출격 지]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F29%2Fnewsen%2F20220129083506287qmbv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['이혼남' 제이슨 모모아, '분노의 질주10' 캐스팅..빈 디젤과 갈등 [Oh!llywood] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220129195111486</link>
-            <guid>https://v.daum.net/v/20220129195111486</guid>
-            <pubDate>Sat, 29 Jan 2022 11:16:16 GMT</pubDate>
+            <title><![CDATA['이혼남' 제이슨 모모아, '분노의 질주10' 캐스팅..빈 디젤과 갈등 [Oh!llywood] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220129195111486</link>
+            <guid>https://movie.v.daum.net/v/20220129195111486</guid>
+            <pubDate>Sat, 29 Jan 2022 16:26:16 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자] 배우 제이슨 모모아가 인기 시리즈 영화 ‘분노의 질주’ 10편에 캐스팅됐다. 이혼 후에도 휴식기 없이 꾸준히 작품 활동을 이어가고 있는 것. 영화 ‘아쿠아맨’(감독 제임스 완)으로 전 세계적 인기를 얻은 제이슨 모모아가 ‘분노의 질주’ 시리즈의 새 가족이 된 것으로 28일(현지 시간) 전해졌다. 제이슨 모모아는 도미닉 토레토(빈]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F29%2Fpoctan%2F20220129195112648goeg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['강철부대' 육준서 연기 도전..'붉은 얼굴' 30일 유튜브 공개 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220129170000136</link>
-            <guid>https://v.daum.net/v/20220129170000136</guid>
-            <pubDate>Sat, 29 Jan 2022 08:20:58 GMT</pubDate>
+            <title><![CDATA[[설 특집] "베일 속 '선거판의 여우'.. 덜 알려져 연기하기 자유로웠어요" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220128111005053</link>
+            <guid>https://movie.v.daum.net/v/20220128111005053</guid>
+            <pubDate>Fri, 28 Jan 2022 16:27:05 GMT</pubDate>
+            <content:encoded><![CDATA[편집자주 설 연휴를 앞두고 한국 영화 ‘킹메이커’와 ‘해적: 도깨비 깃발(해적2)’이 26일 개봉했다. 총제작비가 100억 원(‘킹메이커’), 230억 원(‘해적2’)인 화제작이다. 똘똘한 한국 영화 2편이 동시에 선보인 건 지난 추석에 이어 4개월 만이다. 극장 볼거리가 오랜 만에 풍성하다. ‘킹메이커’는 정통 정치 드라마, ‘해적2’는 코믹 퓨전 사]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F28%2Fhankooki%2F20220128111008563yrss.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['강철부대' 육준서 연기 도전..'붉은 얼굴' 30일 유튜브 공개 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220129170000136</link>
+            <guid>https://movie.v.daum.net/v/20220129170000136</guid>
+            <pubDate>Sat, 29 Jan 2022 16:26:16 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자] ‘진실 2부작’의 에필로그 ‘붉은 얼굴’이 메인 포스터 2종과 예고편을 공개했다. 30일(일) 공개를 앞두고 있는&nbsp;‘붉은 얼굴’은 태이고 출신 작가 오준서(육준서 분)가 신작 ‘붉은 얼굴’에 담긴, 그가 겪었던 1997년 삼포조선(造船) 사택참사에 대한 기억을 돌아보는 인터뷰를 담은 모큐 멘터리.&nbsp;태이고 지역에서 벌어진 미스터리]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F29%2Fpoctan%2F20220129170001256ycat.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[시작된 설 연휴 '해적2'·'킹메이커' 3일 연속 박스오피스 1·2위 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220129134158379</link>
-            <guid>https://v.daum.net/v/20220129134158379</guid>
-            <pubDate>Sat, 29 Jan 2022 06:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '해적: 도깨비 깃발'과 '킹메이커'가 설 연휴 관객의 사랑을 듬뿍 받고 있다. 1월 29일 영화진흥위원회 통합전산망 집계에 따르면 28일 영화 '해적: 도깨비 깃발'(감독 김정훈)이 6만4,546명을 모으며 3일 연속 박스오피스 1위를 차지했다. 지난 26일 개봉한 '해적: 도깨비 깃발'의 누적 관객은 23만2,175명이다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F29%2Fnewsen%2F20220129134159649pgdz.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA["탄핵 제일 먼저 꺼낸 이재명, 급부상할 줄 알았다면.." (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220129180600819</link>
+            <guid>https://movie.v.daum.net/v/20220129180600819</guid>
+            <pubDate>Sat, 29 Jan 2022 16:26:16 GMT</pubDate>
+            <content:encoded><![CDATA[[이선필 기자] &nbsp;        ▲ &nbsp;다큐멘터리 영화 &lt;나의 촛불&gt; 공동 연출자인 배우 김의성과 주진우 기자.    ⓒ (유)주기자  두 사람에게도 2016년 늦가을부터 2017년 봄까지 이어진 촛불집회는 남다른 기억과 경험이었다. 누적 참가자 1600만 명, 당시 박근혜 정권 퇴진을 촉구하는 시민들의 목소리는 정치권을 움직였고 헌정 사상 초유의 대통령 탄]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F29%2Fohmynews%2F20220129180601559qmiy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[김정훈 감독 "'해적: 도깨비 깃발', 욕망 해소시켜준 작품이죠" [★FULL인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220129130000966</link>
-            <guid>https://v.daum.net/v/20220129130000966</guid>
-            <pubDate>Sat, 29 Jan 2022 04:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 김정훈 감독 / 사진=롯데엔터테인먼트김정훈 감독이 영화 '해적: 도깨비 깃발'은 자신의 욕망을 해소시켜준 작품이라고 밝혔다. 스타뉴스가 '해적: 도깨비 깃발'의 김정훈 감독과 화상 인터뷰를 통해 영화와 관련한 다양한 이야기를 나눴다. 김정훈 감독은 2010년 첫 장편 연출작 '쩨쩨한 로맨스'를 통해 남다른 완급 조절과 코믹]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F29%2Fstarnews%2F20220129130003673zhpk.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['해적2'vs'킹메이커', 극과극 명절 관객몰이 [박스오피스] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220129123407755</link>
-            <guid>https://v.daum.net/v/20220129123407755</guid>
-            <pubDate>Sat, 29 Jan 2022 04:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 이기은 기자] 연휴 주말의 시작점, 본격적인 가족 관객 몰이가 시작됐다. 설 시즌을 겨냥한 두 편의 한국 장르물이 올해도 어김없이 관객들의 입맛을 사로잡을까. 29일 영화진흥위원회 영화관입장권통합전산망에 따르면 ‘해적: 도깨비 깃발’(감독 김정훈·제작 어뉴)(이하 '해적2')은 지난 28일 6만4546명의 관객을 불러 모으며 박스오피스 1위를]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F29%2Ftvdaily%2F20220129123410149zhcq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['앤트맨' 여배우 "백신 강요하지마" VS 샹치 "코로나로 조부모 사망, 백신 맞아야"[해외이슈](종합) (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220129115422412</link>
-            <guid>https://v.daum.net/v/20220129115422412</guid>
-            <pubDate>Sat, 29 Jan 2022 04:23:11 GMT</pubDate>
+            <title><![CDATA['앤트맨' 여배우 "백신 강요하지마" VS 샹치 "코로나로 조부모 사망, 백신 맞아야"[해외이슈](종합) (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220129115422412</link>
+            <guid>https://movie.v.daum.net/v/20220129115422412</guid>
+            <pubDate>Sat, 29 Jan 2022 16:26:16 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]미국에서 코로나 백신을 둘러싼 논란이 이어지고 있는 가운데 마블영화 출연배우들이 상반된 입장을 내놓아 주목된다. ‘샹치’의 시무 리우는 28일(현지시간) 트위터에 “나는 지난해 COVID로 조부모님을 잃었다. 그들은 여전히 백신을 기다리고 있었다. 2주 전에 COVID에 걸렸을 때 이중 접종을 하고 기운을 차려서 다행이다.]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F29%2Fmydaily%2F20220129115422488btxg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[아쉬운 이야기, 그럼에도 보이는 이 영화의 장점 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220129105100744</link>
-            <guid>https://v.daum.net/v/20220129105100744</guid>
-            <pubDate>Sat, 29 Jan 2022 02:29:08 GMT</pubDate>
-            <content:encoded><![CDATA[[김동근 기자] ▲ &nbsp;영화 &lt;해적: 도깨비 깃발&gt; 포스터    ⓒ  롯데엔터테인먼트  &nbsp; 살아가면서 잠시 목적을 잃어버릴 때가 있다. 그건 외부 환경 때문일 수도 있고, 개인적인 문제 때문일 수도 있다. 어떤 특별한 계기가 생기지 않는다면 그냥 그대로 별다른 것을 하지 않고 시간만 보내게 되기도 한다. 어떤 집단도 마찬가지다 공통의 목표를 위]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F29%2Fohmynews%2F20220129105102328scru.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["우리 학교에 좀비가 왜 나와?" 십대들이 주인공인 K좀비 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220129103602564</link>
-            <guid>https://v.daum.net/v/20220129103602564</guid>
-            <pubDate>Sat, 29 Jan 2022 02:29:08 GMT</pubDate>
-            <content:encoded><![CDATA[[장혜령 기자] ▲ &nbsp;드라마 [지금 우리 학교는] 스틸컷    ⓒ 넷플릭스  &nbsp; 넷플릭스 오리지널 시리즈 &lt;지금 우리 학교는&gt;은 학교에 퍼진 바이러스를 통해 10대들 사이의 인간 군상을 들여다보는 좀비 장르 시리즈다. 근절되지 않는 학원 폭력과 왕따가 도사리고 있는 작은 사회, 고등학교를 배경으로 의심과 믿음, 협동과 성장을 함께하는 이야기다]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F29%2Fohmynews%2F20220129103605475ejqf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[설특집] 넷플릭스 뭐 볼까..K고딩 좀비의 출현! '지금 우리 학교는' (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220129100006052</link>
-            <guid>https://v.daum.net/v/20220129100006052</guid>
-            <pubDate>Sat, 29 Jan 2022 02:29:08 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진=넷플릭스 가족과 다 함께 모이기도, 어딘가에 나가기도 힘든 2022 설 연휴. 연휴도 긴 설 명절에 코로나19로 인해 집에 머무르는 당신을 위한 '지극히 주관적이면서 은근히 객관적인' OTT 프로그램 추천. ━ '지금 우리 학교는'은 좀비 바이러스가 시작된 학교에 고립되어 구조를 기다리는 학생들이 살아남기 위해 함께 손잡]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F29%2Fstarnews%2F20220129100007527qrgu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['해적: 도깨비 깃발' 호평 속 23만 돌파..개봉 3일째 압도적 1위 [Nbox] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220129091811567</link>
-            <guid>https://v.daum.net/v/20220129091811567</guid>
-            <pubDate>Sat, 29 Jan 2022 00:57:56 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 영화 '해적: 도깨비 깃발'이 23만 관객을 돌파했다. 29일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 '해적: 도깨비 깃발'은 지난 28일 1654개 스크린에서 6만4546명의 관객을 동원하며 누적관객수 23만2175명을 기록, 박스오피스 1위를 수성했다. 지난 26일 설 연휴를 앞두고 개봉한 '해적: 도]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F29%2FNEWS1%2F20220129091811534eqzw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[웃음 빵빵 눈물 펑펑, 감동 대방출.. 국내외 신작 7편 출격 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220129090220345</link>
-            <guid>https://v.daum.net/v/20220129090220345</guid>
-            <pubDate>Sat, 29 Jan 2022 00:57:56 GMT</pubDate>
-            <content:encoded><![CDATA[설 연휴 극장가는 여전히 기승을 부리는 신종 코로나바이러스 감염증(코로나19) 탓에 화려한 밥상을 차리진 못했다. 역병이 다소 수그러든 이후에야 비로소 ‘야심작’을 풀어놓을 작정이기 때문이다. 그래도 한국 영화 두 편이 쌍끌이 대진표를 짰다. ‘킹메이커’와 ‘해적: 도깨비 깃발’이다.  &nbsp; ◆선거판 쥐락펴락, 돌아온 마타도어의 귀재 킹메이커 1960]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F29%2Fsegye%2F20220129090220681iuco.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['킹메이커' 변성현 "설경구, 한국 남자배우 중 최고" [인터뷰M] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220129090113314</link>
-            <guid>https://v.daum.net/v/20220129090113314</guid>
-            <pubDate>Sat, 29 Jan 2022 00:57:56 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '킹메이커'로 '불한당' 이후 5년만에 신작을 선보이는 변성현 감독을 만났다. 영화 '킹메이커'는 세상을 바꾸기 위해 도전하는 정치인 ‘김운범’(설경구)과 존재도 이름도 숨겨진 선거 전략가 ‘서창대’(이선균)가 치열한 선거판에 뛰어들며 시작되는 드라마를 그린 작품이다. 변성현 감독은 배우 설경구와 '불한당'에 이어 '킹메이커' 차기작인 '길복순']]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F29%2FiMBC%2F20220129090114470arks.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['해적' 김정훈 감독 "영하 30도에도 열연해준 배우들에게 감사" [인터뷰M] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220129090108307</link>
-            <guid>https://v.daum.net/v/20220129090108307</guid>
-            <pubDate>Sat, 29 Jan 2022 00:57:56 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '쩨쩨한 로맨스', '탐정: 더 비기닝'에 이어 해양액션어드벤처 '해적: 도깨비 깃발'로 관객들에게 새로운 즐거움과 웃음을 전해줄 김정훈 감독을 만났다. 감각적인 코미디 연출력과 더불어 흥행성을 입증한 김정훈 감독의 신작 '해적: 도깨비 깃발'은 강하늘-한효주-이광수-권상우-채수빈-오세훈-김성오-박지환의 대세 배우들이 출연하여 찰진 호흡과 끈끈한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F29%2FiMBC%2F20220129090112803jdhs.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[설 연휴, 극장과 TV서 볼만한 영화는..'해적2'· '킹메이커' 등 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220129090107305</link>
-            <guid>https://v.daum.net/v/20220129090107305</guid>
-            <pubDate>Sat, 29 Jan 2022 00:57:56 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 신종 코로나바이러스 감염증(코로나19)로 인한 팬데믹이 지속되고 있지만 올해 설 연휴에도 다양한 영화들을 만날 수 있게 됐다. 극장은 관객을 위한 신작을, 각 방송사들은 '집콕'을 위한 영화를 준비했다. 이에 영화관에서는 팬데믹 최고 흥행작 '스파이더맨: 노 웨이 홈'을 비롯한 한국영화 신작 '해적: 도깨비 깃발' '킹메]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F29%2FNEWS1%2F20220129090109052zqxe.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] '킹메이커' 설경구, 누군가의 뮤즈가 된다는 것 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220129090054287</link>
-            <guid>https://v.daum.net/v/20220129090054287</guid>
-            <pubDate>Sat, 29 Jan 2022 00:57:56 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] 누군가의 뮤즈가 되는 것은 성장과 신뢰를 동반한다. 변성현 감독의 뮤즈가 된 배우 설경구는 요즘, 다시 성장하는 기분을 느끼고 있다. 감독을 향한 믿음을 밑거름으로 새로운 얼굴을 보여주는데 두렵지 않다. '킹메이커'(감독 변성현)는 독재를 타파하고 민주주의를 실현하기 위해 도전하는 정치인 김운범(설경구)과 그를 대통령에 당선시키기 위해 노력하]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F29%2Fseouleconomy%2F20220129090058001pguw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[설 특선 영화] 연휴의 시작 가볍게..'트롤: 월드 투어'→'파이프라인' 출격 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220129090001226</link>
-            <guid>https://v.daum.net/v/20220129090001226</guid>
-            <pubDate>Sat, 29 Jan 2022 00:57:56 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 사진=각 영화 포스터2022년 임인년 (壬寅年) 새해에도 여전히 코로나19는 기승을 부리고 있다. 여전히 가족들을 한자리에서 만나기 힘들어 아쉬움이 큰 설 연휴, 안방에서 즐길 수 있는 특선영화 라인업을 소개한다. ━설 연휴 첫 시작을 알리는 주말인 29일에는 다양한 장르의 영화가 안방을 찾아온다. 영화 '트롤: 월드 투어',]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F29%2Fstarnews%2F20220129090002371lkil.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['해적2'·'킹메이커', 3일 연속 나란히 1~2위..韓영화 쌍끌이[종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220129085111170</link>
-            <guid>https://v.daum.net/v/20220129085111170</guid>
-            <pubDate>Sat, 29 Jan 2022 00:57:56 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;한국영화 ‘해적’과 ‘킹메이커’가 나란히 박스오피스 1~2위를 지키고 있다. 29일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날(28일) ‘해적’은 6만 4546명이 들어 일별 박스오피스 1위에 올랐다. 이날까지 누적 관객수는 23만 2175명. 개봉 첫날인 26일부터 어제까지 3일 연속으로 왕좌를 차지하고 있다. ‘]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F29%2Fpoctan%2F20220129085111162wiph.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['모가디슈'→'인질' 2021 韓영화 빅3 TV 동시 출격[놀면 뭐보니④] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220129083506061</link>
-            <guid>https://v.daum.net/v/20220129083506061</guid>
-            <pubDate>Sat, 29 Jan 2022 00:57:56 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] 켜서 찾아보는 재미도 있지만, 시간 기다려 ‘본방 사수’하는 재미 또한 놓칠 수 없다. 연휴엔 TV 앞에 앉아 그야말로 ‘안방극장의 묘미’를 만끽해보는 건 어떨까. 1월29일부터 2월2일까지 무려 닷새동안 이어지는 이번 설 연휴, 케이블TV를 통해 특별 편성된 다양한 영화를 만날 수 있다. ★ 2021 韓영화 빅3 동시 출격 지]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F29%2Fnewsen%2F20220129083506287qmbv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[아이 손 잡고 극장 가볼까..가족·어린이 영화 '풍성' (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220129083025016</link>
-            <guid>https://v.daum.net/v/20220129083025016</guid>
-            <pubDate>Sat, 29 Jan 2022 00:57:56 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 오보람 기자 = 닷새간 이어지는 설 연휴 동안 가족 관객과 어린이들을 겨냥한 영화들이 극장가를 풍성하게 채운다. 개봉 첫날인 지난 26일 9만2천여 명의 관객을 모은 '해적: 도깨비깃발'이 선두를 점했다. '해적:바다로 간 산적' 후속작인 이 영화는 고려 왕실의 보물을 찾아 나선 해적들의 유쾌한 모험을 그렸다. 판타지 어드벤처물인 만큼]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F29%2Fyonhap%2F20220129083025111rawu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['안본 눈 찾습니다' 넷플 인기 영화 2년 연속 1위 '365일'[놀면 뭐보니③] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220129083006001</link>
-            <guid>https://v.daum.net/v/20220129083006001</guid>
-            <pubDate>Sat, 29 Jan 2022 00:57:56 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] 2년 연속 1위는 좀 당황스럽다. ‘후방주의’ 대명사 ‘365일’이 수많은 신작들을 제치고 넷플릭스에서 가장 많이 본 영화 타이틀을, 그것도 해를 넘겨 ‘수성’할 줄은. 연휴가 오면 최소 1번 이상 접속해보게 되는 글로벌 OTT 넷플릭스에서 2021년 가장 많이 본 영화 10편을 정주행해보는 건 어떨까. 오피셜급 자료로 꼽히는 플]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F29%2Fnewsen%2F20220129083007568flpc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<매미소리> 티저 예고편 (우리 영화 볼래?)]]></title>
