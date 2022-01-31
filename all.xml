@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 11:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 12:29:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한효주 "새로운 길 가다가 '해적2'까지" (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005137446</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005137446</guid>
+            <pubDate>Mon, 31 Jan 2022 12:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 스타in 박미애 기자] “‘해적:바다로 간 산적’이 워낙 많은 사랑을 받은 작품이었잖아요. 누가 되면 안 될 것 같았죠.” 지난 26일 개봉한 영화 ‘해적:도깨비 산적’에서 해적의 단주로 분한 한효주가 작]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[KT&G상상마당 홍대 시네마, 1월25일 재개관 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046500</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[[박스오피스] 지난 추석 이후 첫 한국영화 1~2위 ▲ &lt;해적: 도깨비 깃발&gt; 한 장면 ⓒ 롯데엔터테인먼트 설날 흥행 대목을 맞아 두 편의 한국영화가 선전하고 있다. 가벼운 코믹 오락영화와 진중한 정치영화의 대결에서]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[평화롭던 교정에 총성, 구급차에 실려 온 뜻밖의 인물 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002340847</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002340847</guid>
-            <pubDate>Mon, 31 Jan 2022 00:59:59 GMT</pubDate>
-            <content:encoded><![CDATA[[리뷰] 영화 &lt;앰뷸런스&gt; 벨기에 브뤼셀에 위치한 한 고등학교. 평화롭던 교정에 갑자기 총성이 울린다. 비명소리와 함께 아수라장으로 돌변하는 학교. 테러가 발생했다. 이슬람 근본주의자로 보이는 두 사람의 테러 용의자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[해적: 도깨비 깃발 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=127223</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=127223</guid>
@@ -287,20 +287,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffcae40de78cb7e456e43032922b69001c94b1bf4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[데드락: 라스트 리벤지 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156608</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156608</guid>
-            <pubDate>Wed, 26 Jan 2022 08:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0371ebaaaa98e6f6f273d90c7020b67c1c4b1bce" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[킹스맨: 퍼스트 에이전트 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=125382</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=125382</guid>
             <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
             <content:encoded><![CDATA[21.12.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b8b6ca0acd78221f254f00954744005c99160fb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[데드락: 라스트 리벤지 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156608</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156608</guid>
+            <pubDate>Wed, 26 Jan 2022 08:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0371ebaaaa98e6f6f273d90c7020b67c1c4b1bce" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[엔드게임: 나는 킬러다 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -526,20 +526,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F30%2Fmydaily%2F20220130101551190whbj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[평화롭던 교정에 총성, 구급차에 실려 온 뜻밖의 인물 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220131092100209</link>
-            <guid>https://movie.v.daum.net/v/20220131092100209</guid>
-            <pubDate>Mon, 31 Jan 2022 06:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[[김봉건 기자] 벨기에 브뤼셀에 위치한 한 고등학교. 평화롭던 교정에 갑자기 총성이 울린다. 비명소리와 함께 아수라장으로 돌변하는 학교. 테러가 발생했다. 이슬람 근본주의자로 보이는 두 사람의 테러 용의자 중 한 사람은 소총으로 움직이는 학생을 향한 저격에 나섰고, 또 다른 한 사람은 알아들을 수 없는 주문을 외우며 자폭 테러를 기도하고 있었다. 이윽고 큰]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F31%2Fohmynews%2F20220131092102141akhz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[8살 때부터 사랑한 부인과 이혼→9억짜리 캠핑카 생활, 아쿠아맨의 초라한 일상[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220130063305026</link>
             <guid>https://movie.v.daum.net/v/20220130063305026</guid>
             <pubDate>Sat, 29 Jan 2022 23:17:03 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]최근 리사 보넷(54)과 이혼한 ‘아쿠아맨’ 제이슨 모모아(42)의 근황이 공개됐다. 연예매체 페이지식스는 28일(현지시간) 제이슨 모모아가 LA 친구 집에 주차된 값비싼 RV차에서 살고 있다고 전했다. 페이지식스가 공개한 사진에 따르면, 그는 ‘어스로머’의 75만달러(약 9억원)짜리 검은색 캠핑카 주변에서 편안한 모습을]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F30%2Fmydaily%2F20220130063305087fgzv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["동성연인 약혼→오스카 여우주연 유력→양성애 소재 감독 데뷔" 크리스틴 스튜어트, 다 가진 여자[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220130061306891</link>
+            <guid>https://movie.v.daum.net/v/20220130061306891</guid>
+            <pubDate>Sat, 29 Jan 2022 23:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]지난해 동성연인 딜런 메이어와 약혼한 크리스틴 스튜어트(32)가 ‘스펜서’로 아카데미 여우주연상 유력 후보로 거론되는 가운데 이제 감독 데뷔를 앞두고 있다. 그는 28일(현지시간) 버라이어티가 마련한 니콜 키드먼과의 대화에서 “너무가 간절히 감독을 하고 싶다”고 말했다. 크리스틴 스튜어트는 미국의 유명작가 라디아 유크나비치]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F30%2Fmydaily%2F20220130061306499rzxt.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[평화롭던 교정에 총성, 구급차에 실려 온 뜻밖의 인물 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220131092100209</link>
+            <guid>https://movie.v.daum.net/v/20220131092100209</guid>
+            <pubDate>Mon, 31 Jan 2022 06:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[[김봉건 기자] 벨기에 브뤼셀에 위치한 한 고등학교. 평화롭던 교정에 갑자기 총성이 울린다. 비명소리와 함께 아수라장으로 돌변하는 학교. 테러가 발생했다. 이슬람 근본주의자로 보이는 두 사람의 테러 용의자 중 한 사람은 소총으로 움직이는 학생을 향한 저격에 나섰고, 또 다른 한 사람은 알아들을 수 없는 주문을 외우며 자폭 테러를 기도하고 있었다. 이윽고 큰]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F31%2Fohmynews%2F20220131092102141akhz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] '해적2' 한효주, "청순 포기? 전 지금이 너무 좋아요" (다음영화 뉴스 ─ 인기)]]></title>
@@ -556,14 +564,6 @@
             <pubDate>Mon, 31 Jan 2022 02:01:22 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='에밀리 파리에 가다2'가족과 다 함께 모이기도, 어딘가에 나가기도 힘든 2022 설 연휴. 연휴도 긴 설 명절에 코로나19로 인해 집에 머무르는 당신을 위한 '지극히 주관적이면서 은근히 객관적인' OTT 프로그램 추천. ━ 넷플릭스 시리즈 '에밀리, 파리에 가다' 시즌2는 어느덧 낭만의 도시 파리에서의 삶이 익숙해진 에]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F31%2Fstarnews%2F20220131100003609cgfp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["동성연인 약혼→오스카 여우주연 유력→양성애 소재 감독 데뷔" 크리스틴 스튜어트, 다 가진 여자[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220130061306891</link>
-            <guid>https://movie.v.daum.net/v/20220130061306891</guid>
-            <pubDate>Sat, 29 Jan 2022 23:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]지난해 동성연인 딜런 메이어와 약혼한 크리스틴 스튜어트(32)가 ‘스펜서’로 아카데미 여우주연상 유력 후보로 거론되는 가운데 이제 감독 데뷔를 앞두고 있다. 그는 28일(현지시간) 버라이어티가 마련한 니콜 키드먼과의 대화에서 “너무가 간절히 감독을 하고 싶다”고 말했다. 크리스틴 스튜어트는 미국의 유명작가 라디아 유크나비치]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F30%2Fmydaily%2F20220130061306499rzxt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[좋은 사람인가 아닌가.. 결국 드러난 한 교사의 민낯 (다음영화 뉴스 ─ 인기)]]></title>
@@ -638,20 +638,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F31%2Fohmynews%2F20220131124504151deyx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[한효주 "새로운 길 가다가 '해적2'까지" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220131205006709</link>
+            <guid>https://movie.v.daum.net/v/20220131205006709</guid>
+            <pubDate>Mon, 31 Jan 2022 12:28:44 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 스타in 박미애 기자] “‘해적:바다로 간 산적’이 워낙 많은 사랑을 받은 작품이었잖아요. 누가 되면 안 될 것 같았죠.” 지난 26일 개봉한 영화 ‘해적:도깨비 산적’에서 해적의 단주로 분한 한효주가 작품에 대한 부담감을 내비치며 한 말이다. ‘해적:도깨비 깃발’은 지난 2014년 개봉해 866만 관객의 지지를 받으며 큰 흥행을 거뒀던 ‘해적]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F31%2FEdaily%2F20220131205012525qyrt.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[단독]오정세, 김지운 감독 '거미집' 합류..영화·OTT·드라마 맹활약 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220131084444637</link>
             <guid>https://movie.v.daum.net/v/20220131084444637</guid>
             <pubDate>Mon, 31 Jan 2022 01:00:22 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 전형화 기자] 배우 오정세가 김지운 감독의 신작 '거미집'에 출연한다. 31일 영화계에 따르면 오정세는 최근 '거미집' 출연을 결정하고 세부사항을 조율 중이다. '거미집'은 영화 속 영화에 대한 이야기. 김지운 감독이 메가폰을 잡고 앞서 송강호와 임수정 전여빈 등이 출연을 결정했다. 오정세는 김지운 감독에 대한 신뢰와 송강호 등 쟁쟁한 배우들]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F31%2Fstarnews%2F20220131084445776hxki.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['해적:도깨비 깃발', 압도적 흥행 질주 [성적표] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220131091800157</link>
-            <guid>https://movie.v.daum.net/v/20220131091800157</guid>
-            <pubDate>Mon, 31 Jan 2022 01:00:22 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=이윤희 기자] 압도적 박스오피스 1위를 기록하며 새해 극장가 흥행 돌풍을 불러일으키고 있는 영화 '해적: 도깨비 깃발'이 개봉 첫 주 박스오피스 정상에 올랐다. 육해를 총망라한 스펙터클한 볼거리 속 개성 넘치는 배우들의 유쾌한 케미로 새해 극장가를 사로잡고 있는 영화 '해적: 도깨비 깃발'이 개봉 첫 주 누적 관객수 49만4273명을 동원, 독]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F31%2Ftvreport%2F20220131091804793abfo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['해적2' 설 극장가 압도적 1위[MK박스오피스] (다음영화 뉴스 ─ 인기)]]></title>
