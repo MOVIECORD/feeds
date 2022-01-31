@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 07:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 09:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F30%2Fmydaily%2F20220130101551190whbj.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA[[설특집] 넷플릭스 뭐 볼까?..에밀리, 님아 그 강을 건너지 마오! '에밀리 파리에 가다2']]></title>
-            <link>https://movie.v.daum.net/v/20220131100002759</link>
-            <guid>https://movie.v.daum.net/v/20220131100002759</guid>
-            <pubDate>Mon, 31 Jan 2022 02:01:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='에밀리 파리에 가다2'가족과 다 함께 모이기도, 어딘가에 나가기도 힘든 2022 설 연휴. 연휴도 긴 설 명절에 코로나19로 인해 집에 머무르는 당신을 위한 '지극히 주관적이면서 은근히 객관적인' OTT 프로그램 추천. ━ 넷플릭스 시리즈 '에밀리, 파리에 가다' 시즌2는 어느덧 낭만의 도시 파리에서의 삶이 익숙해진 에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F31%2Fstarnews%2F20220131100003609cgfp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[평화롭던 교정에 총성, 구급차에 실려 온 뜻밖의 인물]]></title>
             <link>https://movie.v.daum.net/v/20220131092100209</link>
             <guid>https://movie.v.daum.net/v/20220131092100209</guid>
             <pubDate>Mon, 31 Jan 2022 06:21:59 GMT</pubDate>
             <content:encoded><![CDATA[[김봉건 기자] 벨기에 브뤼셀에 위치한 한 고등학교. 평화롭던 교정에 갑자기 총성이 울린다. 비명소리와 함께 아수라장으로 돌변하는 학교. 테러가 발생했다. 이슬람 근본주의자로 보이는 두 사람의 테러 용의자 중 한 사람은 소총으로 움직이는 학생을 향한 저격에 나섰고, 또 다른 한 사람은 알아들을 수 없는 주문을 외우며 자폭 테러를 기도하고 있었다. 이윽고 큰]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F31%2Fohmynews%2F20220131092102141akhz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[SC할리우드] '美USA출신' 흑인 변호사 첼시 크리스트, 60층 건물서 투신 충격]]></title>
+            <link>https://movie.v.daum.net/v/20220131151642030</link>
+            <guid>https://movie.v.daum.net/v/20220131151642030</guid>
+            <pubDate>Mon, 31 Jan 2022 07:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 2019년 미스 USA 출신 흑인 변호사 첼시 크리스트가 60층 건물에서 뛰어내려 사망했다. 뉴욕포스트, 피플을 비롯해 외신들은 30일(현지시각) 첼시 크리스트의 사망을 보도했다. 첼시 크리스트는 이날 오전 7시께 뉴욕 웨스트42번가 350번지에 위치한 60층 건물에서 극단적인 선택을 했다. 첼시 크리스트는 이 건물]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F31%2FSpoChosun%2F20220131151642984wvhx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[8살 때부터 사랑한 부인과 이혼→9억짜리 캠핑카 생활, 아쿠아맨의 초라한 일상[해외이슈]]]></title>
@@ -48,12 +48,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F30%2Fmydaily%2F20220130063305087fgzv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[좋은 사람인가 아닌가.. 결국 드러난 한 교사의 민낯]]></title>
-            <link>https://movie.v.daum.net/v/20220130124202030</link>
-            <guid>https://movie.v.daum.net/v/20220130124202030</guid>
-            <pubDate>Sun, 30 Jan 2022 06:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[[김봉건 기자] 고등학교 교사 경석(김태훈)이 담임을 맡은 학급에서 어느 날 도난 사건이 발생한다. 자백하는 아이들이 나오지 않자 경석은 돈을 잃어버린 당사자를 불러 분실한 금액과 동일한 액수의 돈을 손에 쥐어준다. 며칠 뒤 같은 학급의 세익(이효제)이 체육시간에 몰래 들어와 돈을 훔치는 장면을 목격했다는 아이가 나타난다. CCTV에도 비슷한 시간대에 교실]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F30%2Fohmynews%2F20220130124206544oryw.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[설특집] 넷플릭스 뭐 볼까?..에밀리, 님아 그 강을 건너지 마오! '에밀리 파리에 가다2']]></title>
+            <link>https://movie.v.daum.net/v/20220131100002759</link>
+            <guid>https://movie.v.daum.net/v/20220131100002759</guid>
+            <pubDate>Mon, 31 Jan 2022 02:01:22 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='에밀리 파리에 가다2'가족과 다 함께 모이기도, 어딘가에 나가기도 힘든 2022 설 연휴. 연휴도 긴 설 명절에 코로나19로 인해 집에 머무르는 당신을 위한 '지극히 주관적이면서 은근히 객관적인' OTT 프로그램 추천. ━ 넷플릭스 시리즈 '에밀리, 파리에 가다' 시즌2는 어느덧 낭만의 도시 파리에서의 삶이 익숙해진 에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F31%2Fstarnews%2F20220131100003609cgfp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] '해적2' 한효주, "청순 포기? 전 지금이 너무 좋아요"]]></title>
@@ -72,20 +72,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F30%2Fmydaily%2F20220130061306499rzxt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[SC할리우드] '美USA출신' 흑인 변호사 첼시 크리스트, 60층 건물서 투신 충격]]></title>
-            <link>https://movie.v.daum.net/v/20220131151642030</link>
-            <guid>https://movie.v.daum.net/v/20220131151642030</guid>
-            <pubDate>Mon, 31 Jan 2022 07:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 2019년 미스 USA 출신 흑인 변호사 첼시 크리스트가 60층 건물에서 뛰어내려 사망했다. 뉴욕포스트, 피플을 비롯해 외신들은 30일(현지시각) 첼시 크리스트의 사망을 보도했다. 첼시 크리스트는 이날 오전 7시께 뉴욕 웨스트42번가 350번지에 위치한 60층 건물에서 극단적인 선택을 했다. 첼시 크리스트는 이 건물]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F31%2FSpoChosun%2F20220131151642984wvhx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['해적:도깨비 깃발' 한효주x강하늘 통했다..개봉 첫 주 흥행 1위 [공식]]]></title>
-            <link>https://movie.v.daum.net/v/20220131081543364</link>
-            <guid>https://movie.v.daum.net/v/20220131081543364</guid>
-            <pubDate>Mon, 31 Jan 2022 01:00:22 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=하수정 기자] 압도적 박스오피스 1위를 기록하며 새해 극장가 흥행 돌풍을 불러일으키고 있는 영화 '해적: 도깨비 깃발'이 개봉 첫 주 박스오피스 정상에 올랐다. 한국 오락 블록버스터의 한 획을 그었던 ‘해적’의 귀환 '해적: 도깨비 깃발'(감독 김정훈, 제공배급 롯데엔터테인먼트, 제작 어뉴·오스카10스튜디오)은 흔적도 없이 사라진 왕실 보물의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F31%2Fpoctan%2F20220131081545075tctk.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[좋은 사람인가 아닌가.. 결국 드러난 한 교사의 민낯]]></title>
+            <link>https://movie.v.daum.net/v/20220130124202030</link>
+            <guid>https://movie.v.daum.net/v/20220130124202030</guid>
+            <pubDate>Sun, 30 Jan 2022 06:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[[김봉건 기자] 고등학교 교사 경석(김태훈)이 담임을 맡은 학급에서 어느 날 도난 사건이 발생한다. 자백하는 아이들이 나오지 않자 경석은 돈을 잃어버린 당사자를 불러 분실한 금액과 동일한 액수의 돈을 손에 쥐어준다. 며칠 뒤 같은 학급의 세익(이효제)이 체육시간에 몰래 들어와 돈을 훔치는 장면을 목격했다는 아이가 나타난다. CCTV에도 비슷한 시간대에 교실]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F30%2Fohmynews%2F20220130124206544oryw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["멍뭉미 대신 카리스마"..'신인 배우' 강다니엘, 성공적 데뷔 [별별연구]]]></title>
@@ -96,36 +88,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F31%2Fstarnews%2F20220131120006466bfgq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['런닝맨' 떠난 이광수, 스크린서도 독보적 존재감 [별별연구]]]></title>
-            <link>https://movie.v.daum.net/v/20220131100014778</link>
-            <guid>https://movie.v.daum.net/v/20220131100014778</guid>
-            <pubDate>Mon, 31 Jan 2022 02:01:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 배우 이광수가 26일 오후 서울 영등포구 여의도동 KBS홀에서 열린  42회 청룡영화상에 참석하고 있다. 2021.11.26 /사진=김창현 기자 chmt@배우 이광수는 이광수다. 다른 설명이 필요 없을 정도다. 11년간 함께한 '런닝맨'을 떠난 이후 그 존재감을 스크린으로 옮겨놓은 정도다. '런닝맨'에서의 달리기는 멈췄지만, 배우로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F31%2Fstarnews%2F20220131100015831sqgk.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[12살 연상 부인과 이혼→9억짜리 캠핑카→'분노의 질주10' 탑승, 아쿠아맨의 근황[해외이슈](종합)]]></title>
-            <link>https://movie.v.daum.net/v/20220130133245472</link>
-            <guid>https://movie.v.daum.net/v/20220130133245472</guid>
-            <pubDate>Sun, 30 Jan 2022 06:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]최근 리사 보넷(54)과 이혼한 ‘아쿠아맨’ 제이슨 모모아(42)가 ‘분노의 질주10’에 캐스팅됐다. 버라이어티는 29일(현지시간) 제이슨 모모아가 ‘분노의 질주10’에 캐스팅됐다고 확인했다. 어떤 역을 연기할지는 알려지지 않았다. 이 시리즈의 3편부터 6편까지 연출한 후 저스틴 린 감독은 ‘분노의 질주9’으로 돌아온 뒤]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F30%2Fmydaily%2F20220130133245363hldq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[보고싶다 김우빈, 6년만의 컴백을 기다리는 이유 [별별연구]]]></title>
-            <link>https://movie.v.daum.net/v/20220131110001554</link>
-            <guid>https://movie.v.daum.net/v/20220131110001554</guid>
-            <pubDate>Mon, 31 Jan 2022 03:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 배우 김우빈이 15일 오전 서울 동대문디자인프라자에서 진행된 예거 르쿨트르, The Sound Maker 전시회에 참석해 포즈를 취하고 있다. /사진=임성균 기자 tjdrbs23@ 오랜만에 스크린으로, 안방극장으로 돌아오는 배우 김우빈이 기대를 모은다. 그동안  건강상의 이유로 잠시 작품활동에서 멀어져 있던 김우빈이 건강을 회복한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F31%2Fstarnews%2F20220131110002653ijun.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[권상우 "'해적: 도깨비 깃발', 배우 인생 확장시켜준 작품이죠" [★FULL인터뷰]]]></title>
             <link>https://movie.v.daum.net/v/20220131140001176</link>
             <guid>https://movie.v.daum.net/v/20220131140001176</guid>
             <pubDate>Mon, 31 Jan 2022 05:16:32 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김나연 기자] 영화 '해적: 도깨비 깃발'(감독 김정훈)의 주연배우 강하늘이 18일 오전 진행된 인터뷰를 위해 포즈를 취하고 있다.  흔적도 없이 사라진 왕실 보물의 주인이 되기 위해 바다로 모인 해적들의 스펙터클한 모험을 그린 영화 '해적: 도깨비 깃발'은 오는 26일 개봉된다. /사진제공=티에이치컴퍼니 2022.01.18 /사진=이동훈 기자]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F31%2Fstarnews%2F20220131140002519yisu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['해적:도깨비 깃발' 한효주x강하늘 통했다..개봉 첫 주 흥행 1위 [공식]]]></title>
+            <link>https://movie.v.daum.net/v/20220131081543364</link>
+            <guid>https://movie.v.daum.net/v/20220131081543364</guid>
+            <pubDate>Mon, 31 Jan 2022 01:00:22 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=하수정 기자] 압도적 박스오피스 1위를 기록하며 새해 극장가 흥행 돌풍을 불러일으키고 있는 영화 '해적: 도깨비 깃발'이 개봉 첫 주 박스오피스 정상에 올랐다. 한국 오락 블록버스터의 한 획을 그었던 ‘해적’의 귀환 '해적: 도깨비 깃발'(감독 김정훈, 제공배급 롯데엔터테인먼트, 제작 어뉴·오스카10스튜디오)은 흔적도 없이 사라진 왕실 보물의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F31%2Fpoctan%2F20220131081545075tctk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[종합] 이정재, 2022년 1월 영화배우 브랜드 평판 1위..2위 최우식→3위 오일남 랭킹]]></title>
@@ -136,12 +112,44 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F31%2FSpoChosun%2F20220131111015090yzei.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['런닝맨' 떠난 이광수, 스크린서도 독보적 존재감 [별별연구]]]></title>
+            <link>https://movie.v.daum.net/v/20220131100014778</link>
+            <guid>https://movie.v.daum.net/v/20220131100014778</guid>
+            <pubDate>Mon, 31 Jan 2022 02:01:22 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 배우 이광수가 26일 오후 서울 영등포구 여의도동 KBS홀에서 열린  42회 청룡영화상에 참석하고 있다. 2021.11.26 /사진=김창현 기자 chmt@배우 이광수는 이광수다. 다른 설명이 필요 없을 정도다. 11년간 함께한 '런닝맨'을 떠난 이후 그 존재감을 스크린으로 옮겨놓은 정도다. '런닝맨'에서의 달리기는 멈췄지만, 배우로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F31%2Fstarnews%2F20220131100015831sqgk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[보고싶다 김우빈, 6년만의 컴백을 기다리는 이유 [별별연구]]]></title>
+            <link>https://movie.v.daum.net/v/20220131110001554</link>
+            <guid>https://movie.v.daum.net/v/20220131110001554</guid>
+            <pubDate>Mon, 31 Jan 2022 03:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 배우 김우빈이 15일 오전 서울 동대문디자인프라자에서 진행된 예거 르쿨트르, The Sound Maker 전시회에 참석해 포즈를 취하고 있다. /사진=임성균 기자 tjdrbs23@ 오랜만에 스크린으로, 안방극장으로 돌아오는 배우 김우빈이 기대를 모은다. 그동안  건강상의 이유로 잠시 작품활동에서 멀어져 있던 김우빈이 건강을 회복한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F31%2Fstarnews%2F20220131110002653ijun.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[12살 연상 부인과 이혼→9억짜리 캠핑카→'분노의 질주10' 탑승, 아쿠아맨의 근황[해외이슈](종합)]]></title>
+            <link>https://movie.v.daum.net/v/20220130133245472</link>
+            <guid>https://movie.v.daum.net/v/20220130133245472</guid>
+            <pubDate>Sun, 30 Jan 2022 06:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]최근 리사 보넷(54)과 이혼한 ‘아쿠아맨’ 제이슨 모모아(42)가 ‘분노의 질주10’에 캐스팅됐다. 버라이어티는 29일(현지시간) 제이슨 모모아가 ‘분노의 질주10’에 캐스팅됐다고 확인했다. 어떤 역을 연기할지는 알려지지 않았다. 이 시리즈의 3편부터 6편까지 연출한 후 저스틴 린 감독은 ‘분노의 질주9’으로 돌아온 뒤]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F30%2Fmydaily%2F20220130133245363hldq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[단독]오정세, 김지운 감독 '거미집' 합류..영화·OTT·드라마 맹활약]]></title>
             <link>https://movie.v.daum.net/v/20220131084444637</link>
             <guid>https://movie.v.daum.net/v/20220131084444637</guid>
             <pubDate>Mon, 31 Jan 2022 01:00:22 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 전형화 기자] 배우 오정세가 김지운 감독의 신작 '거미집'에 출연한다. 31일 영화계에 따르면 오정세는 최근 '거미집' 출연을 결정하고 세부사항을 조율 중이다. '거미집'은 영화 속 영화에 대한 이야기. 김지운 감독이 메가폰을 잡고 앞서 송강호와 임수정 전여빈 등이 출연을 결정했다. 오정세는 김지운 감독에 대한 신뢰와 송강호 등 쟁쟁한 배우들]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F31%2Fstarnews%2F20220131084445776hxki.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["셀프 언박싱 다큐멘터리" 이 실험의 결과]]></title>
+            <link>https://movie.v.daum.net/v/20220131124500608</link>
+            <guid>https://movie.v.daum.net/v/20220131124500608</guid>
+            <pubDate>Mon, 31 Jan 2022 09:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[[김상목 기자] 1_인스턴트 이미지 소비의 시대 '외모지상주의'의 폐해를 지적하는 일은 오래 전부터 있어 왔다. 후천적 관리로 상당부분 극복이 가능하긴 하지만 개인이 선택할 수 없는 선천적 외모로 차등 대우를 하는 건 '차별'에 속하는 행위임을 양식을 가진 이들이라면 모르지 않는다. 하지만 그 반면에 인간 뿐 아니라 동식물의 경우에도 상대적으로 보기 좋은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F31%2Fohmynews%2F20220131124504151deyx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['해적:도깨비 깃발', 압도적 흥행 질주 [성적표]]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 31 Jan 2022 01:00:22 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠조선 조지영 기자] 어드벤처 액션 영화 '해적: 도깨비 깃발'(이하 '해적2', 김정훈 감독, 어뉴·오스카10스튜디오·롯데엔터테인먼트 제작)이 개봉 첫 주 박스오피스 정상에 올랐다. 육해를 총망라한 스펙터클한 볼거리 속 개성 넘치는 배우들의 유쾌한 케미로 새해 극장가를 사로잡고 있는 '해적2'가 개봉 첫 주 누적 관객수 49만4273명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F31%2FSpoChosun%2F20220131083938280vzte.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["술 많이 사드렸다"..'킹메이커'로 뭉친 '불한당' 의리 [★비하인드]]]></title>
-            <link>https://movie.v.daum.net/v/20220131081250333</link>
-            <guid>https://movie.v.daum.net/v/20220131081250333</guid>
-            <pubDate>Mon, 31 Jan 2022 01:00:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 설경구 / 사진=각 영화 스틸컷 96만 명의 관객을 동원하며 극장가 흥행은 다소 부진했지만, '불한당원'이라는 열혈 팬덤을 일으킨 영화 '불한당: 나쁜 놈들의 세상' 제작진이 영화 '킹메이커'로 다시 뭉쳤다. 지난 26일 개봉한 '킹메이커'는 세상을 바꾸기 위해 도전하는 정치인 '김운범'(설경구 분)과 존재도 이름도 숨겨진 선거]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F31%2Fstarnews%2F20220131081251319fbtr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
