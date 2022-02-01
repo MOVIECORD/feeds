@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 17:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 18:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -303,14 +303,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffcae40de78cb7e456e43032922b69001c94b1bf4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[데드락: 라스트 리벤지 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156608</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156608</guid>
-            <pubDate>Wed, 26 Jan 2022 08:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0371ebaaaa98e6f6f273d90c7020b67c1c4b1bce" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[경관의 피 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=136344</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=136344</guid>
@@ -341,6 +333,14 @@
             <pubDate>Tue, 01 Feb 2022 15:18:55 GMT</pubDate>
             <content:encoded><![CDATA[22.01.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F70deb49a1e0cda735262b62efad968bd0d3cfb58" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[장민호 드라마 최종회 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157110</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157110</guid>
+            <pubDate>Tue, 01 Feb 2022 18:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F64e31dd2502a095db212e0e568d95fea72e1b4cf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[듄 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -519,20 +519,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F01%2Fohmynews%2F20220201124502395esde.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA[[단독]마동석, 길가메시로 돌아온다..올 여름 마블영화 해외 촬영 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220201083445206</link>
-            <guid>https://movie.v.daum.net/v/20220201083445206</guid>
-            <pubDate>Tue, 01 Feb 2022 01:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 배우 마동석이 길가메시로 마블영화에 돌아올 전망이다. 1일 영화계에 따르면 마동석은 올 여름 미국으로 출국해 마블영화를 찍는다. 마동석은 '황야' 등 올 상반기 한국에서 영화 촬영과 개봉하는 주연작 홍보 등으로 바쁜 나날을 보낸 뒤 올 여름 출국해 마블과 다시 호흡을 맞춘다. 다만 마동석이 찍을 마블영화가 '이터널스2'인지, 아]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F01%2Fstarnews%2F20220201083446670xflu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA["라틴 백설공주에 화가 난 사람들, 올바른 방향으로 사랑해야" 레이젤 지글러 "하고 싶은 일 할 것"[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220201143641201</link>
             <guid>https://movie.v.daum.net/v/20220201143641201</guid>
             <pubDate>Tue, 01 Feb 2022 06:21:43 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]디즈니 실사영화 ‘백설공주’ 주인공 레이첼 지글러(20)가 인종적 편견과 반발에 입장을 밝혔다. 그는 최근 배우 앤드류 가필드와 함께 버라이어티의 ‘액터즈 온 액터즈 라운드 테이블’에 출연, 라티나 백설공주로 캐스팅된 것과 관련한 엄청난 반발을 이야기했다. 지글러는 “내 캐스팅이 발표됐을 때 모든 사람이 화가 났다. 트위터]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F01%2Fmydaily%2F20220201143641220vcaa.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독]마동석, 길가메시로 돌아온다..올 여름 마블영화 해외 촬영 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220201083445206</link>
+            <guid>https://movie.v.daum.net/v/20220201083445206</guid>
+            <pubDate>Tue, 01 Feb 2022 01:04:49 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 배우 마동석이 길가메시로 마블영화에 돌아올 전망이다. 1일 영화계에 따르면 마동석은 올 여름 미국으로 출국해 마블영화를 찍는다. 마동석은 '황야' 등 올 상반기 한국에서 영화 촬영과 개봉하는 주연작 홍보 등으로 바쁜 나날을 보낸 뒤 올 여름 출국해 마블과 다시 호흡을 맞춘다. 다만 마동석이 찍을 마블영화가 '이터널스2'인지, 아]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F01%2Fstarnews%2F20220201083446670xflu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['결혼+임신' 이하늬, 일·사랑 다 잡은 '원더우먼' [별별연구] (다음영화 뉴스 ─ 인기)]]></title>
@@ -559,20 +559,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F31%2FTHEFACT%2F20220131070016380cmvn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[설특집] 넷플릭스 뭐 볼까?..에밀리, 님아 그 강을 건너지 마오! '에밀리 파리에 가다2' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220131100002759</link>
-            <guid>https://movie.v.daum.net/v/20220131100002759</guid>
-            <pubDate>Mon, 31 Jan 2022 02:01:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='에밀리 파리에 가다2'가족과 다 함께 모이기도, 어딘가에 나가기도 힘든 2022 설 연휴. 연휴도 긴 설 명절에 코로나19로 인해 집에 머무르는 당신을 위한 '지극히 주관적이면서 은근히 객관적인' OTT 프로그램 추천. ━ 넷플릭스 시리즈 '에밀리, 파리에 가다' 시즌2는 어느덧 낭만의 도시 파리에서의 삶이 익숙해진 에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F31%2Fstarnews%2F20220131100003609cgfp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['지금 우리 학교는'.. 청소년이 다시 보이기 시작했다 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220201112101398</link>
             <guid>https://movie.v.daum.net/v/20220201112101398</guid>
             <pubDate>Tue, 01 Feb 2022 03:18:21 GMT</pubDate>
             <content:encoded><![CDATA[[정건희 기자] &nbsp;"인간으로 죽느니 괴물이 돼서라도 살아남으라고." 과학교사 이병찬이 아들에게 한 말이다. 자살까지 시도할 정도의 심각한 왕따를 당하는 아들 문제를 해결하기 위해서 노력하지만, 가해자들의 '장난'이었다는 말이 기준이 되는 수준의 학교에 절망하게 된다. 아들의 학교폭력 피해를 해결할 수 없다는 고통에 빠진 이병찬은 쥐가 궁지에 몰렸을 때 고양]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F01%2Fohmynews%2F20220201112102600vkcw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[설특집] 넷플릭스 뭐 볼까?..에밀리, 님아 그 강을 건너지 마오! '에밀리 파리에 가다2' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220131100002759</link>
+            <guid>https://movie.v.daum.net/v/20220131100002759</guid>
+            <pubDate>Mon, 31 Jan 2022 02:01:22 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='에밀리 파리에 가다2'가족과 다 함께 모이기도, 어딘가에 나가기도 힘든 2022 설 연휴. 연휴도 긴 설 명절에 코로나19로 인해 집에 머무르는 당신을 위한 '지극히 주관적이면서 은근히 객관적인' OTT 프로그램 추천. ━ 넷플릭스 시리즈 '에밀리, 파리에 가다' 시즌2는 어느덧 낭만의 도시 파리에서의 삶이 익숙해진 에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F31%2Fstarnews%2F20220131100003609cgfp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[보고 싶은 현빈, '공조2'→'교섭'까지..열일 예고 [별별연구] (다음영화 뉴스 ─ 인기)]]></title>
@@ -623,6 +623,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F01%2Fstarnews%2F20220201110003020bywi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[설경구 "스트레스 심했던 '킹메이커', 또 한 번의 도전이었죠" [★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220201100005228</link>
+            <guid>https://movie.v.daum.net/v/20220201100005228</guid>
+            <pubDate>Tue, 01 Feb 2022 15:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 영화 '킹메이커'(감독 변성현)의 주연배우 설경구가 18일 오후 진행된 인터뷰를 위해 포즈를 취하고 있다.  세상을 바꾸기 위해 도전하는 정치인 김운범과 존재도 이름도 숨겨진 선거 전략가 '서창대'가 치열한 선거판에 뛰어들며 시작되는 드라마를 그린 영화 '킹메이커'는 오는 26일 개봉된다. /사진제공=메가박스중앙(주)플러스엠 202]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F01%2Fstarnews%2F20220201100006290pziq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[송새벽 "삶의 원동력, 우리 아이죠" [인터뷰 ③] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220201133058521</link>
             <guid>https://movie.v.daum.net/v/20220201133058521</guid>
@@ -637,14 +645,6 @@
             <pubDate>Tue, 01 Feb 2022 13:22:17 GMT</pubDate>
             <content:encoded><![CDATA[[김봉건 기자] 문예창작을 전공한 현실(김예은)은 시인 등단을 위해 공모전 출품을 준비 중인 이른바 시인 지망생이다. 총 5편의 시를 제출해야 하는데 그 가운데 4편을 완성하였고, 마지막 한 편을 창작 중이다. 반려견 호구와 함께 집에서 뒹굴거리며 싯구를 구상하거나 카페에 앉아 시상을 떠올리는 게 현실이 보내는 하루 일과의 대부분이다. 그런데 근래엔 글귀가]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F01%2Fohmynews%2F20220201113614155ojpf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[설경구 "스트레스 심했던 '킹메이커', 또 한 번의 도전이었죠" [★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220201100005228</link>
-            <guid>https://movie.v.daum.net/v/20220201100005228</guid>
-            <pubDate>Tue, 01 Feb 2022 15:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 영화 '킹메이커'(감독 변성현)의 주연배우 설경구가 18일 오후 진행된 인터뷰를 위해 포즈를 취하고 있다.  세상을 바꾸기 위해 도전하는 정치인 김운범과 존재도 이름도 숨겨진 선거 전략가 '서창대'가 치열한 선거판에 뛰어들며 시작되는 드라마를 그린 영화 '킹메이커'는 오는 26일 개봉된다. /사진제공=메가박스중앙(주)플러스엠 202]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F01%2Fstarnews%2F20220201100006290pziq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[송새벽 "'특송' 박소담, 에너지 넘치는 배우" [인터뷰 ①] (다음영화 뉴스 ─ 인기)]]></title>
