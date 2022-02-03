@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 11:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 13:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이탈리아 영화계 ‘아이콘’ 모니카 비티 별세, 향년 90세 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000790872</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000790872</guid>
+            <pubDate>Thu, 03 Feb 2022 13:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 이탈리아 영화계 ‘아이콘’이자 가장 사랑받는 여배우 가운데 한 명인 모니카 비티가 2일 오전(현지시간) 90세를 일기로 별세했다고 현지 언론이 전했다. 전직 로마시장이자 영화평론가 월터 벨트로니는 이날]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[설연휴 승자는 ‘해적’… 100만 동원은 실패 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003663436</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[A moviegoer was trapped inside a theater in multiplex chain CGV located in Jeonju, North Jeolla, after employees failed]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[K-크리처 끝판왕 '해적:도깨비 깃발'..흰수염고래→펭귄까지 '황홀' (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004550430</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004550430</guid>
-            <pubDate>Thu, 03 Feb 2022 07:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=하수정 기자] 압도적 박스오피스 1위를 기록하며 새해 극장가 흥행 돌풍을 불러일으키고 있는 영화 '해적: 도깨비 깃발'이 소부터 해파리, 흰수염고래, 펭귄까지 다채로운 동물 크리처로 화제를 모으고 있다.]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[해적: 도깨비 깃발 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=127223</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=127223</guid>
@@ -263,6 +263,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[킹스맨: 퍼스트 에이전트 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=125382</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=125382</guid>
+            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b8b6ca0acd78221f254f00954744005c99160fb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[웨스트 사이드 스토리 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=132759</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=132759</guid>
+            <pubDate>Fri, 28 Jan 2022 03:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffcae40de78cb7e456e43032922b69001c94b1bf4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[프리! 더 파이널 스트로크 전편 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154033</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154033</guid>
@@ -285,22 +301,6 @@
             <pubDate>Wed, 12 Jan 2022 02:39:17 GMT</pubDate>
             <content:encoded><![CDATA[22.01.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fba021bacaf87ba110d48e406408feccafb6f96a1" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[킹스맨: 퍼스트 에이전트 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=125382</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=125382</guid>
-            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b8b6ca0acd78221f254f00954744005c99160fb" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[웨스트 사이드 스토리 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=132759</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=132759</guid>
-            <pubDate>Fri, 28 Jan 2022 03:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffcae40de78cb7e456e43032922b69001c94b1bf4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[원 세컨드 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -415,14 +415,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6409063751c1662760b10d83406c7be116e61708" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[피그 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151551</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151551</guid>
-            <pubDate>Wed, 02 Feb 2022 05:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec5d488e21478c0b7d565bcbd75523719209bbb7" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[애니멀 체인지 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143295</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143295</guid>
@@ -445,6 +437,14 @@
             <pubDate>Thu, 03 Feb 2022 10:19:10 GMT</pubDate>
             <content:encoded><![CDATA[22.02.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc19dfdd279275c1aea9b0c4dba703474815cf470" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[피그 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151551</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151551</guid>
+            <pubDate>Wed, 02 Feb 2022 05:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec5d488e21478c0b7d565bcbd75523719209bbb7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아웃브레이크 호텔 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -511,20 +511,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F03%2Fohmynews%2F20220203114506137cjwa.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA[걸크러시 박소담·빌런 송새벽..'특송' 미공개 스틸 21종 대방출 [N컷] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220203155054996</link>
-            <guid>https://movie.v.daum.net/v/20220203155054996</guid>
-            <pubDate>Thu, 03 Feb 2022 09:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 범죄 오락 영화 '특송'(감독 박대민)이 주역 7인의 매력을 한눈에 확인할 수 있는 캐릭터 미공개 스틸 21종이 공개됐다. 배급사 NEW는 3일 '특송'의 미공개 스틸 21종을 공개했다. '특송'은 성공률 100% 특송 전문 드라이버 은하가 예기치 못한 배송사고에 휘말리면서 벌어지는 추격전을 그린 범죄 오락 액션 영화.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F03%2FNEWS1%2F20220203155055937fquu.jpg" length="0" type="image//thumb/S732x228/"/>
-        </item>
-        <item>
             <title><![CDATA[조용히 흥행중인 日영화 '드라이브 마이 카'..관객 5만명 돌파 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220201222916502</link>
             <guid>https://movie.v.daum.net/v/20220201222916502</guid>
             <pubDate>Thu, 03 Feb 2022 09:18:04 GMT</pubDate>
             <content:encoded><![CDATA[영화 '드라이브 마이 카'    [파이낸셜뉴스] 일본 영화감독 하마구치 류스케의 '드라이브 마이 카'가 조용히 질주하며 장기흥행을 이어가고 있다. 1일 영화관입장권통합전산망에 따르면 지난해 12월 23일 개봉한 '드라이브 마이 카'는 전날까지 누적관객 5만174명을 기록했다. 하마구치 류스케 감독은 이날 한국 수입사를 통해 5만 관객 돌파를]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F01%2Ffnnewsi%2F20220201222916178oxbd.jpg" length="0" type="image//thumb/S384x240/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F01%2Ffnnewsi%2F20220201222916178oxbd.jpg" length="0" type="image//thumb/S732x228/"/>
+        </item>
+        <item>
+            <title><![CDATA[걸크러시 박소담·빌런 송새벽..'특송' 미공개 스틸 21종 대방출 [N컷] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220203155054996</link>
+            <guid>https://movie.v.daum.net/v/20220203155054996</guid>
+            <pubDate>Thu, 03 Feb 2022 09:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 범죄 오락 영화 '특송'(감독 박대민)이 주역 7인의 매력을 한눈에 확인할 수 있는 캐릭터 미공개 스틸 21종이 공개됐다. 배급사 NEW는 3일 '특송'의 미공개 스틸 21종을 공개했다. '특송'은 성공률 100% 특송 전문 드라이버 은하가 예기치 못한 배송사고에 휘말리면서 벌어지는 추격전을 그린 범죄 오락 액션 영화.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F03%2FNEWS1%2F20220203155055937fquu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[오미크론 직격탄에 얼어붙은 극장가..한국 대작 실종 사태 (다음영화 뉴스 ─ 인기)]]></title>
@@ -533,6 +533,14 @@
             <pubDate>Thu, 03 Feb 2022 09:18:04 GMT</pubDate>
             <content:encoded><![CDATA[‘해적: 도깨비 깃발’ ‘킹메이커’ 포스터 © 뉴스1지난달 26일 설 연휴를 겨냥해 개봉한 ‘해적: 도깨비 깃발’ ‘킹메이커’ 등 한국영화 대작 2편을 두고 얼어붙은 극장가에 온풍을 불어넣을 것이란 기대가 높았다. 그러나 연휴 기간 오미크론 변이가 무서운 속도로 확산되면서 ‘해적’은 2일까지 관객 88만 여 명, ‘킹메이커’는 48만 여명을 동원하는데 그쳤]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F03%2Fdonga%2F20220203135921730kwqg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['극장판 주술회전 0' 옷코츠 유타→게토 스구루, 특급 주술사 3인 총출동 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220203163026596</link>
+            <guid>https://movie.v.daum.net/v/20220203163026596</guid>
+            <pubDate>Thu, 03 Feb 2022 09:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) '주술회전'의 첫 극장판 '극장판 주술회전 0'(감독 박성후)가 TV 애니메이션에서는 볼 수 없던 특별한 장면이 연출될 예정으로 팬들의 관심을 모으고 있다. 영화 '극장판 주술회전 0'는 백귀야행으로 주술고전을 위기에 빠뜨릴 강력한 주저사 게토 스구루에 맞선 주술사 옷코츠 유타의 다크 액션 판타지 블록버스터로 TV 애니메이션]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F03%2Fxportsnews%2F20220203163028490mhhr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[아이를 팔았다.. 무성영화라 더 무서운 '더 마더' (다음영화 뉴스 ─ 인기)]]></title>
@@ -551,22 +559,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F03%2Fohmynews%2F20220203111802704gdhc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['극장판 주술회전 0' 옷코츠 유타→게토 스구루, 특급 주술사 3인 총출동 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220203163026596</link>
-            <guid>https://movie.v.daum.net/v/20220203163026596</guid>
-            <pubDate>Thu, 03 Feb 2022 09:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) '주술회전'의 첫 극장판 '극장판 주술회전 0'(감독 박성후)가 TV 애니메이션에서는 볼 수 없던 특별한 장면이 연출될 예정으로 팬들의 관심을 모으고 있다. 영화 '극장판 주술회전 0'는 백귀야행으로 주술고전을 위기에 빠뜨릴 강력한 주저사 게토 스구루에 맞선 주술사 옷코츠 유타의 다크 액션 판타지 블록버스터로 TV 애니메이션]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F03%2Fxportsnews%2F20220203163028490mhhr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[스키점프 알린 '쌍천만' 감독.. 깨지지 않은 역대 최고기록 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220203113901171</link>
-            <guid>https://movie.v.daum.net/v/20220203113901171</guid>
-            <pubDate>Thu, 03 Feb 2022 05:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[[양형석 기자] 오는 4일 2022 베이징 동계올림픽이 개막한다. 한국은 4년 전 2018 평창 동계올림픽 개최국이었고 베이징은 한국과 시차가 1시간 밖에 나지 않는 가까운 곳이다. 인천공항에서 비행기를 타면 약 2시간이면 도착할 수 있는 가까운 거리에 있는 도시에서 다음 동계올림픽이 열린다. 하지만 올림픽을 앞둔 국내외의 열기는 지금까지 열렸던 여러 동계]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F03%2Fohmynews%2F20220203113909123plqc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[D:영화 뷰] 소소하지만 확실한 대만 청춘 영화, 코로나 시국에도 여전히 인기 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220203070823433</link>
             <guid>https://movie.v.daum.net/v/20220203070823433</guid>
@@ -581,6 +573,14 @@
             <pubDate>Thu, 03 Feb 2022 09:18:04 GMT</pubDate>
             <content:encoded><![CDATA[배우 권상우와 연기돌로 본격 행보를 알린 엑소(EXO) 세훈이 한 작품으로 잊지 못할 첫 경험을 했다. 지난 달 26일 개봉 후 7일 연속 박스오피스 1위에 오르며 설 스크린을 평정하고 있는 영화 '해적: 도깨비 깃발(김정훈 감독)'은 권상우에게 데뷔 이래 첫 사극과 악역에 도전할 수 있는 기회를 마련해준 작품, 세훈에게는 스크린 데뷔 신고식을 치르]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F02%2FJTBC%2F20220202132806826alqw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[스키점프 알린 '쌍천만' 감독.. 깨지지 않은 역대 최고기록 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220203113901171</link>
+            <guid>https://movie.v.daum.net/v/20220203113901171</guid>
+            <pubDate>Thu, 03 Feb 2022 05:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[[양형석 기자] 오는 4일 2022 베이징 동계올림픽이 개막한다. 한국은 4년 전 2018 평창 동계올림픽 개최국이었고 베이징은 한국과 시차가 1시간 밖에 나지 않는 가까운 곳이다. 인천공항에서 비행기를 타면 약 2시간이면 도착할 수 있는 가까운 거리에 있는 도시에서 다음 동계올림픽이 열린다. 하지만 올림픽을 앞둔 국내외의 열기는 지금까지 열렸던 여러 동계]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F03%2Fohmynews%2F20220203113909123plqc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[영화-인민을 위해 복무하라] 거역할 수 없는 위험한 유혹 (다음영화 뉴스 ─ 인기)]]></title>
@@ -599,6 +599,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F03%2Fxportsnews%2F20220203135526429ftte.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[김철휘 감독 '가리워진 길', 끌레르몽페랑영화제 국제 경쟁 진출 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220203093628708</link>
+            <guid>https://movie.v.daum.net/v/20220203093628708</guid>
+            <pubDate>Thu, 03 Feb 2022 09:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 김철휘 감독의 두 번째 단편 영화 '가리워진 길'이 프랑스 끌레르몽페랑국제단편영화제 국제경쟁 부문에 진출했다. 올해로 44회를 맞이한 끌레르몽페랑국제단편영화제는 단편영화제 중 세계에서 가장 규모가 큰 영화제로 '단편영화제의 칸'이라 불린다. 핀란드 탐페레국제단편영화제, 독일 오버하우젠국제단편영화제와 함께 세계 3대 단편영]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F03%2FSBSfunE%2F20220203093631333vapj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[시작은 10만 원, 수억 원 빼돌린 은행원의 뻔뻔함 [나를 키운 여자들] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220202202706201</link>
             <guid>https://movie.v.daum.net/v/20220202202706201</guid>
@@ -615,12 +623,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F02%2Fmydaily%2F20220202124129215iyxy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[김철휘 감독 '가리워진 길', 끌레르몽페랑영화제 국제 경쟁 진출 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220203093628708</link>
-            <guid>https://movie.v.daum.net/v/20220203093628708</guid>
-            <pubDate>Thu, 03 Feb 2022 09:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 김철휘 감독의 두 번째 단편 영화 '가리워진 길'이 프랑스 끌레르몽페랑국제단편영화제 국제경쟁 부문에 진출했다. 올해로 44회를 맞이한 끌레르몽페랑국제단편영화제는 단편영화제 중 세계에서 가장 규모가 큰 영화제로 '단편영화제의 칸'이라 불린다. 핀란드 탐페레국제단편영화제, 독일 오버하우젠국제단편영화제와 함께 세계 3대 단편영]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F03%2FSBSfunE%2F20220203093631333vapj.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[술과 인생의 관계는.. 덴마크 아재들의 흥미로운 실험 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220203194510380</link>
+            <guid>https://movie.v.daum.net/v/20220203194510380</guid>
+            <pubDate>Thu, 03 Feb 2022 13:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[독특한 에너지를 뿜어내는 ‘어나더 라운드’는 음주가 삶에 가져다 주는 빛과 그림자를 정면으로 다루지만 열린 결말로 관객 스스로의 답을 유도한다. 단순한 술 영화가 아니라 우리의 일상과 인생에 대해 이야기 한다. 로스크 제공  “수업을 진행하는 데는 아무런 문제가 없었어, 낮술 마시는 사람들은 우리 말고도 많아. 헤밍웨이는 다음 날 글 쓰는 데 지장 없]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F03%2Fsegye%2F20220203194510334mmwf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[D:인터뷰] 스크린의 '킹메이커' 이선균이 말하는 신념 (다음영화 뉴스 ─ 인기)]]></title>
@@ -629,6 +637,14 @@
             <pubDate>Thu, 03 Feb 2022 01:00:26 GMT</pubDate>
             <content:encoded><![CDATA[배우 이선균이 '킹메이커'로 '기생충' 이후 3년 만에 스크린에 돌아왔다. 변성현 감독의 신작 '킹메이커'에서 완벽한 선거 전략가지만 늘 그림자로 살 수밖에 없는 서창대로 분해 깊고 진한 얼굴과 연기력을 보여줬다. 26일 개봉한 '킹메이커'는 세상을 바꾸기 위해 도전하는 정치인 김운범(설경구 분)과 존재도 이름도 숨겨진 선거 전략가 서창대(이선균 분)가 치]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F02%2Fdailian%2F20220202102950603cxsm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[MK무비]홍상수·김민희, '베를린영화제' 함께..수상 가능성은? (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220203165402407</link>
+            <guid>https://movie.v.daum.net/v/20220203165402407</guid>
+            <pubDate>Thu, 03 Feb 2022 13:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[홍상수·김민희 커플이 '제72회 베를린 국제영화제’에 참석한다. 홍상수 감독의 신작이자 김민희가 배우 겸 제작실장으로 참여한 ‘소설가의 영화’가 경쟁 부문에 공식 초청됐기 때문이다. 두 사람 모두 이 시상식과 유난히 인연이 깊은 만큼 수상의 기쁨을 누릴 수 있을지 기대가 모아지고 있다. 제72회 베를린 국제영화제가 오는 10일(이하 현지시간)부터 20일까]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F03%2Fstartoday%2F20220203165405195bngd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['지금 우리 학교는' 믿고 보는 'K좀비'..54개국서 1위 질주 (다음영화 뉴스 ─ 인기)]]></title>
@@ -645,22 +661,6 @@
             <pubDate>Thu, 03 Feb 2022 01:00:26 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김나연 기자] 고현정 안재홍 염혜란 / 사진=넷플릭스 넷플릭스가 새로운 시리즈 '마스크걸'의 제작과 배우 고현정, 안재홍, 염혜란의 캐스팅을 공식화했다. 3일 넷플릭스에 따르면 개성 강한 캐릭터와 신선한 전개로 큰 인기를 모았던 웹툰 '마스크걸'이 넷플릭스 시리즈로 새롭게 태어난다. '마스크걸'은 외모 콤플렉스를 가진 평범한 직장인 김모미]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F03%2Fstarnews%2F20220203081657492vipr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["내게 온 것 기뻤다"..김혜수 움직이게 만든 '소년심판' 탄생 이유 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220203093846810</link>
-            <guid>https://movie.v.daum.net/v/20220203093846810</guid>
-            <pubDate>Thu, 03 Feb 2022 01:00:26 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 문지연 기자] 넷플릭스(Netflix)가 '소년심판'의 시작을 세상에 알렸다. 신예 김민석 작가가 오랫동안 품어온 이야기를 베테랑 홍종찬 감독이 균형 잡힌 시각으로 완성한 '소년심판'이 티저 포스터를 공개했다. '소년심판'은 소년범을 '혐오하는' 판사 심은석이 지방법원 소년부에 부임하면서 마주하게 되는 소년범죄와 그들을 담당하는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F03%2FSpoChosun%2F20220203093846850uvys.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[칸이 사랑한 감독..박찬욱→고레에다 히로카즈를 향한 기대 [별별연구] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220202100200892</link>
-            <guid>https://movie.v.daum.net/v/20220202100200892</guid>
-            <pubDate>Thu, 03 Feb 2022 01:00:26 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 박찬욱, 고레에다 히로카즈 /사진=스타뉴스 칸이 사랑한 감독, 한국이 사랑한 감독이 올해 신작 영화로 관객을 만난다. 박찬욱 감독은 2016년 개봉한 영화 '아가씨' 이후 6년 만에 신작 영화인 '헤어질 결심'을 공개한다. 헤어질 결심'은 산에서 벌어진 변사 사건을 수사하게 된 형사 해준(박해일 분)이 사망자의 아내 서래(탕웨이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F02%2Fstarnews%2F20220202100202064ypxd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[술과 인생의 관계는.. 덴마크 아재들의 흥미로운 실험 (다음영화 뉴스 ─ 최신)]]></title>
@@ -1467,7 +1467,7 @@
             <link>https://tv.naver.com/v/24915431</link>
             <guid>https://tv.naver.com/v/24915431</guid>
             <pubDate>Thu, 03 Feb 2022 09:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_8/cpf4f_1643879727704YBmVe_JPEG/ad802391-84d1-11ec-8e85-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1475,7 +1475,7 @@
             <link>https://tv.naver.com/v/24915133</link>
             <guid>https://tv.naver.com/v/24915133</guid>
             <pubDate>Thu, 03 Feb 2022 09:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_96/b34v4_1643879295217T1CR4_JPEG/a7f94dde-84d0-11ec-b3d2-48df37ae3fca_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1483,7 +1483,7 @@
             <link>https://tv.naver.com/v/24914913</link>
             <guid>https://tv.naver.com/v/24914913</guid>
             <pubDate>Thu, 03 Feb 2022 09:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_292/CFktd_1643878980346Mj0yi_JPEG/e6905ccc-84cf-11ec-abae-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1491,7 +1491,7 @@
             <link>https://tv.naver.com/v/24914580</link>
             <guid>https://tv.naver.com/v/24914580</guid>
             <pubDate>Thu, 03 Feb 2022 09:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_265/eVKll_1643878522688hn7DL_JPEG/f737c767-84ce-11ec-acdf-505dac8c3607_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1499,7 +1499,7 @@
             <link>https://tv.naver.com/v/24914012</link>
             <guid>https://tv.naver.com/v/24914012</guid>
             <pubDate>Thu, 03 Feb 2022 09:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_154/Wef8A_1643877728006mhfSw_JPEG/aa26d8a7-84cc-11ec-b282-48df37ae3dc4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1507,7 +1507,7 @@
             <link>https://tv.naver.com/v/24909004</link>
             <guid>https://tv.naver.com/v/24909004</guid>
             <pubDate>Thu, 03 Feb 2022 06:22:32 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_59/CuHnW_16438690294310UXsW_JPEG/b6f79375-84b8-11ec-b9f9-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1515,7 +1515,7 @@
             <link>https://tv.naver.com/v/24908874</link>
             <guid>https://tv.naver.com/v/24908874</guid>
             <pubDate>Thu, 03 Feb 2022 06:22:32 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_80/5hQdl_1643868634292WfDNA_JPEG/92e07e04-84b7-11ec-8fb9-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1523,7 +1523,7 @@
             <link>https://tv.naver.com/v/24908085</link>
             <guid>https://tv.naver.com/v/24908085</guid>
             <pubDate>Thu, 03 Feb 2022 06:22:32 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_161/q8KHP_1643866339738PgWYI_JPEG/6b3ce23a-84b2-11ec-b11b-246e963a464c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1531,7 +1531,7 @@
             <link>https://tv.naver.com/v/24907585</link>
             <guid>https://tv.naver.com/v/24907585</guid>
             <pubDate>Thu, 03 Feb 2022 05:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_6/ansPm_1643865034718rDXw0_JPEG/59b43c81-84af-11ec-8fb9-48df379cc9e4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1539,7 +1539,7 @@
             <link>https://tv.naver.com/v/24905494</link>
             <guid>https://tv.naver.com/v/24905494</guid>
             <pubDate>Thu, 03 Feb 2022 05:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_234/r7mMi_1643856463278zVzHe_JPEG/84dd36ce-849b-11ec-9c62-505dac8c381b_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1547,7 +1547,7 @@
             <link>https://tv.naver.com/v/24905381</link>
             <guid>https://tv.naver.com/v/24905381</guid>
             <pubDate>Thu, 03 Feb 2022 05:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_278/kmldL_1643856126791QAOPY_JPEG/b094bbca-849a-11ec-8581-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1555,7 +1555,7 @@
             <link>https://tv.naver.com/v/24905102</link>
             <guid>https://tv.naver.com/v/24905102</guid>
             <pubDate>Thu, 03 Feb 2022 05:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_17/QWm4l_1643855024271i4yRz_JPEG/ce2a4f04-8497-11ec-bd70-505dac8c38f5_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1563,7 +1563,7 @@
             <link>https://tv.naver.com/v/24904989</link>
             <guid>https://tv.naver.com/v/24904989</guid>
             <pubDate>Thu, 03 Feb 2022 05:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_2/vFNJa_1643854515948GbgJK_JPEG/eeaa9434-8496-11ec-8fb9-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1571,7 +1571,7 @@
             <link>https://tv.naver.com/v/24904889</link>
             <guid>https://tv.naver.com/v/24904889</guid>
             <pubDate>Thu, 03 Feb 2022 05:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_117/tIDru_16438540804062I9OX_JPEG/b840c9d6-8495-11ec-99fd-a0369ff94ed0_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1579,7 +1579,7 @@
             <link>https://tv.naver.com/v/24904795</link>
             <guid>https://tv.naver.com/v/24904795</guid>
             <pubDate>Thu, 03 Feb 2022 02:00:58 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_83/ZHYXT_16438536556504Xlhc_JPEG/1643853573611.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1587,7 +1587,7 @@
             <link>https://tv.naver.com/v/24904737</link>
             <guid>https://tv.naver.com/v/24904737</guid>
             <pubDate>Thu, 03 Feb 2022 02:00:58 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_267/8nDQ1_1643853364293bKmb9_JPEG/1643853277737.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1595,7 +1595,7 @@
             <link>https://tv.naver.com/v/24904297</link>
             <guid>https://tv.naver.com/v/24904297</guid>
             <pubDate>Thu, 03 Feb 2022 02:00:58 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_227/Kn0dw_1643851719723lFr6E_JPEG/4a667b80-8490-11ec-bf5d-a0369ff952f4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1603,7 +1603,7 @@
             <link>https://tv.naver.com/v/24904212</link>
             <guid>https://tv.naver.com/v/24904212</guid>
             <pubDate>Thu, 03 Feb 2022 02:00:58 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_206/8AW0U_1643851363692Llz40_JPEG/74ec5e02-848f-11ec-955b-a0369ff95678_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
