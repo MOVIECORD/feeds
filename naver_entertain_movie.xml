@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-04T01:54:55.109Z</updated>
+    <updated>2022-02-04T02:20:43.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서현X이준영 '모럴센스', 현실과 판타지 오가는 아슬아슬 로맨스]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003574383</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003574383"/>
+        <updated>2022-02-04T02:19:12.455Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 넷플릭스에서 박현진 감독이 선보일 새로운 로맨스 영화 '모럴센스'에 대한 시청자들의 궁금증이 커지고 있다. '모럴센스'는 모든 게 완벽하지만 남다른 성적 취향을 가진 지후와 그의 비밀을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봉준호X박찬욱 드라마 '설국열차', 오늘 TV 첫 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004917324</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012957199"/>
         <updated>2022-02-04T01:53:16.407Z</updated>
         <content type="html"><![CDATA[소니 픽처스와의 파트너십 두번째 작품 (서울=연합뉴스) 김보경 기자 = 현대자동차의 스포츠유틸리티차(SUV) 투싼이 할리우드 블록버스터에서 고객들과 만난다. 현대차는 오는 16일 국내에서 개봉되는 영화 '언차티드'(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봉준호·박찬욱 제작 드라마 '설국열차', 오늘 TV 첫 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010980078</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010980078"/>
-        <updated>2022-02-04T01:53:16.407Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 봉준호·박찬욱 감독의 제작으로 화제가 된 드라마 '설국열차'가 4일 오후 11시 OCN을 통해 TV 처음으로 공개된다. 봉 감독의 영화 '설국열차'(2013)의 10년 전 시점을]]></content>
     </entry>
 </feed>
