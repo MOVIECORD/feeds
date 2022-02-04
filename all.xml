@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 15:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 16:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -263,6 +263,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb42c72550f6c76f3c0ab9906ba50aea889b8676a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[킹스맨: 퍼스트 에이전트 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=125382</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=125382</guid>
+            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b8b6ca0acd78221f254f00954744005c99160fb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[프리! 더 파이널 스트로크 전편 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154033</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154033</guid>
@@ -277,14 +285,6 @@
             <pubDate>Wed, 12 Jan 2022 02:39:17 GMT</pubDate>
             <content:encoded><![CDATA[22.01.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fba021bacaf87ba110d48e406408feccafb6f96a1" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[킹스맨: 퍼스트 에이전트 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=125382</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=125382</guid>
-            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b8b6ca0acd78221f254f00954744005c99160fb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[웨스트 사이드 스토리 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -391,14 +391,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7b41c3d7c6d2c849ef2eaa0a3f9299220d43382a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[만년이 지나도 변하지 않는 게 있어 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151289</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151289</guid>
-            <pubDate>Fri, 21 Jan 2022 03:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69ca8c34d6cc98b2e4e1741ada46752738d65703" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[비틀즈 겟 백: 루프탑 콘서트 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157509</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157509</guid>
@@ -407,12 +399,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4f4cb722ef68ec2542df05e4eab6c90f0b272bd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[굿 보스 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154390</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154390</guid>
-            <pubDate>Thu, 03 Feb 2022 01:00:17 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb1af68ec1c62973dbd480b30717789a277341dfa" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[만년이 지나도 변하지 않는 게 있어 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151289</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151289</guid>
+            <pubDate>Fri, 21 Jan 2022 03:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69ca8c34d6cc98b2e4e1741ada46752738d65703" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[나의 촛불 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -421,6 +413,14 @@
             <pubDate>Tue, 01 Feb 2022 01:04:42 GMT</pubDate>
             <content:encoded><![CDATA[22.02.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6409063751c1662760b10d83406c7be116e61708" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[굿 보스 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154390</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154390</guid>
+            <pubDate>Thu, 03 Feb 2022 01:00:17 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb1af68ec1c62973dbd480b30717789a277341dfa" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[가슴이 떨리는 건 너 때문 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -615,20 +615,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F03%2Fohmynews%2F20220203171804660wapq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[술과 인생의 관계는.. 덴마크 아재들의 흥미로운 실험 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220203194510380</link>
-            <guid>https://movie.v.daum.net/v/20220203194510380</guid>
-            <pubDate>Fri, 04 Feb 2022 01:53:40 GMT</pubDate>
-            <content:encoded><![CDATA[독특한 에너지를 뿜어내는 ‘어나더 라운드’는 음주가 삶에 가져다 주는 빛과 그림자를 정면으로 다루지만 열린 결말로 관객 스스로의 답을 유도한다. 단순한 술 영화가 아니라 우리의 일상과 인생에 대해 이야기 한다. 로스크 제공  “수업을 진행하는 데는 아무런 문제가 없었어, 낮술 마시는 사람들은 우리 말고도 많아. 헤밍웨이는 다음 날 글 쓰는 데 지장 없]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F03%2Fsegye%2F20220203194510334mmwf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['행복의 나라' 조정석·이선균·유재명 크랭크업.."매 순간 행복했다"[공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220204212026661</link>
             <guid>https://movie.v.daum.net/v/20220204212026661</guid>
             <pubDate>Fri, 04 Feb 2022 15:16:06 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;조정석, 이선균, 유재명 등 믿고 보는 배우들의 만남으로 화제가 된 영화 '행복의 나라'(가제)가 지난달 29일 모든 촬영을 마쳤다. 현대사를 뒤흔든 사건 속에 휘말린 한 인물과 그를 살리기 위해 전력투구하는 변호사 이야기를 그린 영화 '행복의 나라'(감독 추창민, 제공배급 NEW,&nbsp;제작 파파스필름・오스카10스튜디오)가 4개월간]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F04%2Fpoctan%2F20220204212026121jrrg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[술과 인생의 관계는.. 덴마크 아재들의 흥미로운 실험 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220203194510380</link>
+            <guid>https://movie.v.daum.net/v/20220203194510380</guid>
+            <pubDate>Fri, 04 Feb 2022 01:53:40 GMT</pubDate>
+            <content:encoded><![CDATA[독특한 에너지를 뿜어내는 ‘어나더 라운드’는 음주가 삶에 가져다 주는 빛과 그림자를 정면으로 다루지만 열린 결말로 관객 스스로의 답을 유도한다. 단순한 술 영화가 아니라 우리의 일상과 인생에 대해 이야기 한다. 로스크 제공  “수업을 진행하는 데는 아무런 문제가 없었어, 낮술 마시는 사람들은 우리 말고도 많아. 헤밍웨이는 다음 날 글 쓰는 데 지장 없]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F03%2Fsegye%2F20220203194510334mmwf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[조정석X이선균, '행복의 나라' 4개월 대장정 마쳤다 "깊은 의미, 도전이 된 작품" [공식] (다음영화 뉴스 ─ 인기)]]></title>
@@ -639,14 +639,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F04%2Fmydaily%2F20220204085838679egsj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['콜드플레이' 크리스 마틴 띠동갑 여친, '스파이더맨' 스핀오프 '마담 웹' 출연[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220204142016385</link>
-            <guid>https://movie.v.daum.net/v/20220204142016385</guid>
-            <pubDate>Fri, 04 Feb 2022 06:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]인기그룹 ‘콜드플레이’ 크리스 마틴(44)의 여친 다코타 존슨(32)이 소니픽쳐스의 ‘마담 웹’에 출연한다고 3일(현지시간) 데드라인이 보도했다 메가폰은 베테랑 TV 연출가 S.J. 클락슨이 잡는다. 각본은 맷 사자마와 버크 샤플리스가 쓸 예정이다. ‘마담 웹’ 캐릭터는 1980년 만화 ‘어메이징 스파이더맨’ 210호에서 처]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F04%2Fmydaily%2F20220204142016216zjgw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[조정석X이선균X유재명 '행복의나라' 크랭크업[공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220204153305779</link>
             <guid>https://movie.v.daum.net/v/20220204153305779</guid>
@@ -655,12 +647,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F04%2Fstartoday%2F20220204153308453htvv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[찬란한 가족愛 '매미소리' 진도 풍광 담은 메인포스터 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220203183610454</link>
-            <guid>https://movie.v.daum.net/v/20220203183610454</guid>
-            <pubDate>Fri, 04 Feb 2022 01:53:40 GMT</pubDate>
-            <content:encoded><![CDATA[따뜻함이 물씬 풍긴다. 영화 '매미소리(이충렬 감독)'가 따스한 풍광이 돋보이는 메인 포스터를 공개했다. '워낭소리' 이충렬 감독의 신작 '매미소리'는 는 삶과 죽음을 사이에 두고 20년 만에 비로소 서로를 마주하게 된 부녀의 깊은 갈등과 눈물나는 화해를 그린 휴먼 드라마다. 이번에 공개된 메인 포스터는 꽃이 흐드러지게 핀 배롱나무를 배경으로, 수남]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F03%2Filgansports%2F20220203183612056myhk.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['콜드플레이' 크리스 마틴 띠동갑 여친, '스파이더맨' 스핀오프 '마담 웹' 출연[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220204142016385</link>
+            <guid>https://movie.v.daum.net/v/20220204142016385</guid>
+            <pubDate>Fri, 04 Feb 2022 06:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]인기그룹 ‘콜드플레이’ 크리스 마틴(44)의 여친 다코타 존슨(32)이 소니픽쳐스의 ‘마담 웹’에 출연한다고 3일(현지시간) 데드라인이 보도했다 메가폰은 베테랑 TV 연출가 S.J. 클락슨이 잡는다. 각본은 맷 사자마와 버크 샤플리스가 쓸 예정이다. ‘마담 웹’ 캐릭터는 1980년 만화 ‘어메이징 스파이더맨’ 210호에서 처]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F04%2Fmydaily%2F20220204142016216zjgw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["10년전 프리퀄" 미드 '설국열차' 오늘(4일) TV 최초방영 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220204084811867</link>
+            <guid>https://movie.v.daum.net/v/20220204084811867</guid>
+            <pubDate>Fri, 04 Feb 2022 16:23:20 GMT</pubDate>
+            <content:encoded><![CDATA['설국열차' 미국 시리즈 리메이크판이 국내 최초 방영된다. 4일 오후 11시 첫 방송되는 2022년 OCN 첫 시리즈 '설국열차'는 종말 그 이후, 온 세상이 얼어붙어 폐허가 된 지구에서 인류 생존의 유일한 거처가 된 설국열차에서 벌어지는 일들을 그린 SF 미스터리 스릴러다. 원작 작품인 봉준호 감독이 연출한 영화 '설국열차'는 송강호, 고아성 외 크]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F04%2Filgansports%2F20220204084813988jwyz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<역으로 가는 길을 알려줘> 30초 예고편 (우리 영화 볼래?)]]></title>
@@ -1307,7 +1307,7 @@
             <link>https://tv.naver.com/v/24942364</link>
             <guid>https://tv.naver.com/v/24942364</guid>
             <pubDate>Fri, 04 Feb 2022 10:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220204_219/xO0lT_1643966373000DOOEM_JPEG/69450a6b-859b-11ec-b3f1-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1315,7 +1315,7 @@
             <link>https://tv.naver.com/v/24942271</link>
             <guid>https://tv.naver.com/v/24942271</guid>
             <pubDate>Fri, 04 Feb 2022 09:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220204_284/Ff2Yp_1643966021065iG4dM_JPEG/ab1c50a6-859a-11ec-955b-a0369ff95678_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1323,7 +1323,7 @@
             <link>https://tv.naver.com/v/24940762</link>
             <guid>https://tv.naver.com/v/24940762</guid>
             <pubDate>Fri, 04 Feb 2022 08:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220204_181/iIwc1_1643962491900xYeWB_JPEG/5b8eb0df-8592-11ec-bf46-a0369ff95ec0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1331,7 +1331,7 @@
             <link>https://tv.naver.com/v/24937120</link>
             <guid>https://tv.naver.com/v/24937120</guid>
             <pubDate>Fri, 04 Feb 2022 06:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220204_38/BLLOn_1643954442437fBcbR_JPEG/84d009c4-857f-11ec-bf63-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1339,7 +1339,7 @@
             <link>https://tv.naver.com/v/24935450</link>
             <guid>https://tv.naver.com/v/24935450</guid>
             <pubDate>Fri, 04 Feb 2022 05:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220204_244/BOt0x_1643951206755Wsoep_JPEG/26aa7e56-8578-11ec-9ab6-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1347,7 +1347,7 @@
             <link>https://tv.naver.com/v/24932458</link>
             <guid>https://tv.naver.com/v/24932458</guid>
             <pubDate>Fri, 04 Feb 2022 03:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220204_66/5qCqv_1643943441770psn1x_JPEG/e287bc37-8565-11ec-955b-a0369ff95678_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1355,7 +1355,7 @@
             <link>https://tv.naver.com/v/24932262</link>
             <guid>https://tv.naver.com/v/24932262</guid>
             <pubDate>Fri, 04 Feb 2022 03:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220204_53/O8V8P_1643942970713Rf86l_JPEG/ee896c61-8564-11ec-9f25-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1363,7 +1363,7 @@
             <link>https://tv.naver.com/v/24932077</link>
             <guid>https://tv.naver.com/v/24932077</guid>
             <pubDate>Fri, 04 Feb 2022 03:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220204_211/Cy82N_1643942564816mCFMp_JPEG/cb4e1083-8563-11ec-b3f1-505dacfbaa5c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1371,7 +1371,7 @@
             <link>https://tv.naver.com/v/24931743</link>
             <guid>https://tv.naver.com/v/24931743</guid>
             <pubDate>Fri, 04 Feb 2022 03:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220204_297/SJcDm_1643941727033mQX0i_JPEG/bbfe9b85-8561-11ec-9ab6-a0369ff963bc_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1379,7 +1379,7 @@
             <link>https://tv.naver.com/v/24931512</link>
             <guid>https://tv.naver.com/v/24931512</guid>
             <pubDate>Fri, 04 Feb 2022 02:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220204_82/wvb7F_1643941154571YqC4O_JPEG/a72113b9-8560-11ec-9f25-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1387,7 +1387,7 @@
             <link>https://tv.naver.com/v/24931389</link>
             <guid>https://tv.naver.com/v/24931389</guid>
             <pubDate>Fri, 04 Feb 2022 02:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220204_24/98sum_1643940646195h0Ygn_JPEG/5cf610ef-855f-11ec-8355-246e963a4708_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1395,7 +1395,7 @@
             <link>https://tv.naver.com/v/24931083</link>
             <guid>https://tv.naver.com/v/24931083</guid>
             <pubDate>Fri, 04 Feb 2022 01:54:16 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220204_162/huJ3I_1643939478216Ct3Vs_JPEG/9864a1a0-855c-11ec-9f25-246e963a49a8_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1403,7 +1403,7 @@
             <link>https://tv.naver.com/v/24930997</link>
             <guid>https://tv.naver.com/v/24930997</guid>
             <pubDate>Fri, 04 Feb 2022 01:54:16 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220204_108/emZLG_16439391148136z3Um_JPEG/dcdb99ad-855b-11ec-acdf-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1411,7 +1411,7 @@
             <link>https://tv.naver.com/v/24930803</link>
             <guid>https://tv.naver.com/v/24930803</guid>
             <pubDate>Fri, 04 Feb 2022 01:54:16 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220204_149/lAAxA_16439384329424Vozu_JPEG/64b2c1ad-855a-11ec-b27b-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
