@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-04T12:25:15.896Z</updated>
+    <updated>2022-02-04T13:17:34.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배우 황지연, 레트로 무협영화 ‘짬뽕비권’ 주연 아랑 역 출연]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000791088</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000791088"/>
+        <updated>2022-02-04T13:16:08.354Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 배우 황지연이 레트로 무협영화 ‘짬뽕비권’에 주연 ’아랑’역으로 출연했다고 소속사가 4일 전했다. 태기왕의 전설을 담으며 횡성 올로케이션으로 촬영 한 ‘짬뽕비권’은 레트로 감성액션과 코믹이 가미 된 무]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팽현숙, 남편 최양락 음주 사고 폭로 "대변 실수까지 했다"(결미야)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000847489</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000539427"/>
         <updated>2022-02-04T06:18:27.488Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] '씽2게더'가 올해 개봉한 외화 중 최고 스코어를 기록했다. 영화진흥위원회 통합전산망 집계에 따르면, 2월 4일 기준 영화 '씽2게더'가 누적 80만 관객을 돌파하며 식지 않는 장기 흥행 질주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['리코리쉬 피자' Back to the 1970's…데이비드 보위→폴 매카트니, 감성 OST]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001406134</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001406134"/>
-        <updated>2022-02-04T06:18:27.490Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '리코리쉬 피자'(감독 폴 토마스 앤더슨)가 1970년대의 감성으로 가득한 OST로 영화 팬들의 눈과 귀를 즐겁게 만든다. '리코리쉬 피자'는 사랑에 빠진 소년 개리와 불안한 20대]]></content>
     </entry>
 </feed>
