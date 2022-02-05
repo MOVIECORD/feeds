@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 00:55:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 01:42:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,12 +16,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F04%2Fseouleconomy%2F20220204070508163slyt.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
+            <title><![CDATA[[무비차트TEN] '해적2'·'킹메이커' 예매율도 '뚝'..2월 극장가 최악의 침체기]]></title>
+            <link>https://movie.v.daum.net/v/20220204135601508</link>
+            <guid>https://movie.v.daum.net/v/20220204135601508</guid>
+            <pubDate>Fri, 04 Feb 2022 08:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=노규민 기자] '해적: 도깨비 깃발' '킹메이커' 등 설 연휴 흥행을 노린 한국영화 두 편이 저조한 성적을 기록했다. 코로나 확진자 폭증으로 예매율까지 뚝 떨어졌다. 2월, 극장가 침체기가 극에 달 할 것으로 보인다.&nbsp; 영화진흥위원회 영화관 입장권 통합전산망에 따르면 1월 28일(금)부터 2월 3일(목)까지 박스오피스 순위에서 '해적: 도깨비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F04%2F10asia%2F20220204135604150ttkb.jpg" length="0" type="image//thumb/S732x228/"/>
+        </item>
+        <item>
             <title><![CDATA[봉준호 픽! '2021년 최고의 영화'..'돈 룩 업'·'미싱타는 여자들' 등]]></title>
             <link>https://movie.v.daum.net/v/20220204144256222</link>
             <guid>https://movie.v.daum.net/v/20220204144256222</guid>
             <pubDate>Fri, 04 Feb 2022 08:18:07 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 봉준호 감독이 꼽은 2021년 최고의 영화 리스트가 공개돼 눈길을 끈다. 4일 영화잡지 필로는 봉준호 감독이 꼽은 2021년 최고의 영화 리스트를 공개했다. 해당&nbsp;리스트에서 영화들은 순위 없이 무작위로 정렬되어 있었고, 지난해 개봉한 작품이 아닌 경우도 있었다. 리스트에 이름을 올린 작품들은 '미안해요 리키'(감독 켄 로치)]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F04%2Fxportsnews%2F20220204144258927wkeg.jpg" length="0" type="image//thumb/S732x228/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F04%2Fxportsnews%2F20220204144258927wkeg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['듄', 英 아카데미 11개 부문 최다 노미네이트..연기상 후보는 불발]]></title>
@@ -30,14 +38,6 @@
             <pubDate>Fri, 04 Feb 2022 08:18:07 GMT</pubDate>
             <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 드니 빌뇌브 감독의 SF 영화 '듄'이 영국 아카데미 시상식(이하 The British Academy of Film and Television Arts, BAFTA) 최다 부문에 노미네이트 됐다. 영국 아카데미 발표에 따르면 '듄'은 작품상을 비롯해 각색상, 음악상, 캐스팅상, 촬영상, 편집상, 미술상, 의상상, 분장상,]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F04%2FSBSfunE%2F20220204122704836vkxr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[무비차트TEN] '해적2'·'킹메이커' 예매율도 '뚝'..2월 극장가 최악의 침체기]]></title>
-            <link>https://movie.v.daum.net/v/20220204135601508</link>
-            <guid>https://movie.v.daum.net/v/20220204135601508</guid>
-            <pubDate>Fri, 04 Feb 2022 08:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=노규민 기자] '해적: 도깨비 깃발' '킹메이커' 등 설 연휴 흥행을 노린 한국영화 두 편이 저조한 성적을 기록했다. 코로나 확진자 폭증으로 예매율까지 뚝 떨어졌다. 2월, 극장가 침체기가 극에 달 할 것으로 보인다.&nbsp; 영화진흥위원회 영화관 입장권 통합전산망에 따르면 1월 28일(금)부터 2월 3일(목)까지 박스오피스 순위에서 '해적: 도깨비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F04%2F10asia%2F20220204135604150ttkb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[히틀러 막기 위해 이름 없는 외교관들이 벌인 전쟁]]></title>
@@ -64,12 +64,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F04%2Fyonhap%2F20220204131356129rddy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['설경구의 김대중'..감탄하게 되는 까닭은 [N초점]]]></title>
-            <link>https://movie.v.daum.net/v/20220205083008195</link>
-            <guid>https://movie.v.daum.net/v/20220205083008195</guid>
-            <pubDate>Sat, 05 Feb 2022 00:54:28 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 실존 인물을 연기하는 데는 언제나 부담이 따른다. 특히 현대사 속 인물들을 연기할 경우, 모델이 된 주인공을 기억하는 이들이 많기 때문에 그들조차 고개를 끄덕일만한 '그럴듯함'을 보여줘야만 작품의 재미가 보장된다. 그렇지 않다면 관객들의 몰입을 끌어내기 어렵다. 근래 실제 인물과 사건을 모티브로 한 영화들에서 이를 제대로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F05%2FNEWS1%2F20220205083009384xvhd.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[전세계 강타 '지금 우리 학교는' vs 오미크론 직격탄 설극장가 [업앤다운]]]></title>
+            <link>https://movie.v.daum.net/v/20220205100001122</link>
+            <guid>https://movie.v.daum.net/v/20220205100001122</guid>
+            <pubDate>Sat, 05 Feb 2022 01:41:11 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 넷플릭스 새 오리지널시리즈 '지금 우리 학교는'이 연일 세계적인 화제를 모으고 있는 반면 설극장가는 오미크론 확산으로 직격탄을 맞았다. 최고의 한주를 보낸 UP, 최악의 한주를 보낸 DOWN ▲▲ 넷플릭스 새 오리지널 시리즈 '지금 우리 학교는'이 '오징어 게임' '지옥'에 이어 또 한 번 세계적인 관심을 불러모으고 있다. OT]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F05%2Fstarnews%2F20220205100002454opxc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['지금 우리 학교는' 이유미, 짧지만 강하다..'눈물→분노 유발'  [★신스틸러]]]></title>
+            <link>https://movie.v.daum.net/v/20220205100004132</link>
+            <guid>https://movie.v.daum.net/v/20220205100004132</guid>
+            <pubDate>Sat, 05 Feb 2022 01:41:11 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 이유미 / 사진=넷플릭스배우 이유미가 '오징어게임'에 이어 '지금 우리 학교는'까지 연타석 흥행을 이끌고 있다. 짧은 분량에도 강력한 존재감이다. 지난달 28일 공개된 넷플릭스 오리지널 시리즈 '지금 우리 학교는'은 좀비 바이러스가 시작된 학교에 고립되어 구조를 기다리는 학생들이 살아남기 위해 함께 손잡고 사투를 벌이는 이야기를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F05%2Fstarnews%2F20220205100006027tcmp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['그리드' 이시영, 극 전체 관통하는 미스터리..압도적 존재감]]></title>
+            <link>https://movie.v.daum.net/v/20220205100525238</link>
+            <guid>https://movie.v.daum.net/v/20220205100525238</guid>
+            <pubDate>Sat, 05 Feb 2022 01:41:11 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 이시영 / 사진=디즈니플러스'그리드' 속 이시영의 정체가 예비 시청자들의 호기심을 자극하고 있다. 디즈니+(디즈니플러스)의 오리지널 시리즈 '그리드'(극본 이수연·연출 리건, 박철환)는 태양풍으로부터 인류를 구원한 방어막 '그리드'를 탄생시킨 채 사라진 미지의 존재 '유령'이 24년 만에 살인마의 공범으로 다시 나타난 후, 저마다]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F05%2Fstarnews%2F20220205100526723tgsm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['히가시데 마사히로와 불륜' 카라타 에리카, 신작 '블러디 프렌드'로 오늘(5일) 복귀[해외이슈]]]></title>
@@ -78,6 +94,14 @@
             <pubDate>Fri, 04 Feb 2022 21:14:17 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]2020년 1월 일본 배우 히가시데 마사히로(34)와 불륜 소동을 일으켰던 카라타 에리카(25)가 오늘(5일) 신작 ‘블러디 프렌드’로 복귀한다. 연예기획사 플람므는 1일 공식 채널을 통해 카라타 에리카의 신작 ‘블러디 프렌드(血ぃともだち)’가 5일 단 하루동안 공개된다고 발표했다. ‘블러디 프렌드’는 일본 애니메이션 거장]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F05%2Fmydaily%2F20220205060332672mtbc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['설경구의 김대중'..감탄하게 되는 까닭은 [N초점]]]></title>
+            <link>https://movie.v.daum.net/v/20220205083008195</link>
+            <guid>https://movie.v.daum.net/v/20220205083008195</guid>
+            <pubDate>Sat, 05 Feb 2022 00:54:28 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 실존 인물을 연기하는 데는 언제나 부담이 따른다. 특히 현대사 속 인물들을 연기할 경우, 모델이 된 주인공을 기억하는 이들이 많기 때문에 그들조차 고개를 끄덕일만한 '그럴듯함'을 보여줘야만 작품의 재미가 보장된다. 그렇지 않다면 관객들의 몰입을 끌어내기 어렵다. 근래 실제 인물과 사건을 모티브로 한 영화들에서 이를 제대로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F05%2FNEWS1%2F20220205083009384xvhd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['더 배트맨' 새로운 빌런 리들러 등판]]></title>
@@ -112,6 +136,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F05%2Fseouleconomy%2F20220205090052639ilqg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['해적:도깨비깃발' 10일 연속 1위..100만 눈앞 [★무비차트]]]></title>
+            <link>https://movie.v.daum.net/v/20220205081252103</link>
+            <guid>https://movie.v.daum.net/v/20220205081252103</guid>
+            <pubDate>Sat, 05 Feb 2022 00:54:28 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] '해적:도깨비깃발'이 10일 연속 박스오피스 정상을 지켰다. 5일 영진위 영화관입장권통합전산망에 따르면 '해적:도깨비깃발'은 4일 3만 4393명이 찾아 1위를 기록했다. 지난달 26일 개봉해 줄곧 1위를 유지하면서 누적 95만 5847명이다. 이번 주말 100만 돌파가 확실하다. '킹메이커'는 이날 2만 1649명이 찾아 2위]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F05%2Fstarnews%2F20220205081253930fpuf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['해적: 도깨비 깃발' 10일 연속 1위..100만 관객 눈앞 [Nbox]]]></title>
+            <link>https://movie.v.daum.net/v/20220205095538067</link>
+            <guid>https://movie.v.daum.net/v/20220205095538067</guid>
+            <pubDate>Sat, 05 Feb 2022 01:41:11 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 안태현 기자 = 영화 '해적: 도깨비 깃발'이 10일 연속 박스오피스 1위를 차지한 가운데, 100만 관객 돌파를 앞두고 있다. 5일 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 '해적: 도깨비 깃발'은 지난 4일 하루동안 3만4393명의 관객을 동원하며 박스오피스 1위에 올랐다. 누적관객수는 95만5847명이다. 지난달 26일]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F05%2FNEWS1%2F20220205095539016krev.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[MK무비]홍상수·김민희, '베를린영화제' 함께..수상 가능성은?]]></title>
             <link>https://movie.v.daum.net/v/20220203165402407</link>
             <guid>https://movie.v.daum.net/v/20220203165402407</guid>
@@ -126,46 +166,6 @@
             <pubDate>Fri, 04 Feb 2022 20:16:01 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;목이나 팔을 물리고, 복부 살이 뜯겨 나가 내장이 튀어 나온다. ‘지금 우리 학교는’도 기존의 좀비물처럼 인간이 좀비가 돼가는 과정은 같다. 하지만 코로나 팬데믹 시대를 반영한 ‘절비’는 완전히 새롭다.(※이 기사에 스포일러가 있습니다.) 한 번 공격을 당해 이미 좀비가 된 괴물이 인간처럼 말을 하고 생각까지 한다. 일명 ‘요나]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F05%2Fpoctan%2F20220205043258284jsrr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['해적:도깨비깃발' 10일 연속 1위..100만 눈앞 [★무비차트]]]></title>
-            <link>https://movie.v.daum.net/v/20220205081252103</link>
-            <guid>https://movie.v.daum.net/v/20220205081252103</guid>
-            <pubDate>Sat, 05 Feb 2022 00:54:28 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] '해적:도깨비깃발'이 10일 연속 박스오피스 정상을 지켰다. 5일 영진위 영화관입장권통합전산망에 따르면 '해적:도깨비깃발'은 4일 3만 4393명이 찾아 1위를 기록했다. 지난달 26일 개봉해 줄곧 1위를 유지하면서 누적 95만 5847명이다. 이번 주말 100만 돌파가 확실하다. '킹메이커'는 이날 2만 1649명이 찾아 2위]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F05%2Fstarnews%2F20220205081253930fpuf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['킹메이커', 빛이 커질수록 그림자는 짙어지니 [TF씨네리뷰]]]></title>
-            <link>https://movie.v.daum.net/v/20220205070014570</link>
-            <guid>https://movie.v.daum.net/v/20220205070014570</guid>
-            <pubDate>Sat, 05 Feb 2022 00:54:28 GMT</pubDate>
-            <content:encoded><![CDATA[탄탄한 기본기 갖춘 세련된 웰메이드 영화 [더팩트ㅣ이한림 기자] 두 사람이 같은 뜻을 품었지만 한 사람은 양지에서, 한 사람은 음지에서 활약한다. 뜻에 대한 해답에 가까워질수록 양지는 빛을 쬐고 음지는 더 짙어진 그림자에 고개를 떨군다. 영화 '킹메이커'(감독 변성현)는 우리나라 정치사 중 가장 뜨겁고 치열했던 1960~1970년대 3선 개헌 전후를 시]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F05%2FTHEFACT%2F20220205070017612gdlr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['해적2' 권상우 "어느덧 고참, 관리 잘해서 끝까지 액션 하고파"[SS인터뷰]]]></title>
-            <link>https://movie.v.daum.net/v/20220204080003813</link>
-            <guid>https://movie.v.daum.net/v/20220204080003813</guid>
-            <pubDate>Thu, 03 Feb 2022 23:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 김선우기자] 배우 권상우가 데뷔 첫 악역으로 영화 ‘해적: 도깨비 깃발(해적2)’을 택했다. 권상우는 설연휴 극장가를 사로 잡은 ‘해적2’에서 부흥수로 열연했다. 기존의 권상우에게서 볼 수 없었던 분장과 캐릭터다. 그러나 짙은 분장도 권상우의 액션을 가리진 못했다. 이번 작품 역시 화려한 액션 연기로 눈길을 모았다. 같은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F04%2FSPORTSSEOUL%2F20220204080007269cuje.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[조정석X이선균X유재명 '행복의나라' 크랭크업[공식]]]></title>
-            <link>https://movie.v.daum.net/v/20220204153305779</link>
-            <guid>https://movie.v.daum.net/v/20220204153305779</guid>
-            <pubDate>Fri, 04 Feb 2022 12:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[‘광해, 왕이 된 남자’ 추창민 감독의 신작 ‘행복의 나라’(가제)가 지난달 29일 크랭크업 했다. 조정석, 이선균, 유재명까지 믿고 보는 배우들이 총출동한 ‘행복의 나라’는 현대사를 뒤흔든 사건 속에 휘말린 한 인물과 그를 살리기 위해 전력투구하는 변호사 이야기를 그린다. 대한민국 현대사를 뒤흔든 사건 후 사람을 살리기 위해 전력을 다하는 변호사의 치]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F04%2Fstartoday%2F20220204153308453htvv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['행복의 나라' 조정석·이선균·유재명 크랭크업.."매 순간 행복했다"[공식]]]></title>
-            <link>https://movie.v.daum.net/v/20220204212026661</link>
-            <guid>https://movie.v.daum.net/v/20220204212026661</guid>
-            <pubDate>Fri, 04 Feb 2022 15:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;조정석, 이선균, 유재명 등 믿고 보는 배우들의 만남으로 화제가 된 영화 '행복의 나라'(가제)가 지난달 29일 모든 촬영을 마쳤다. 현대사를 뒤흔든 사건 속에 휘말린 한 인물과 그를 살리기 위해 전력투구하는 변호사 이야기를 그린 영화 '행복의 나라'(감독 추창민, 제공배급 NEW,&nbsp;제작 파파스필름・오스카10스튜디오)가 4개월간]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F04%2Fpoctan%2F20220204212026121jrrg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
