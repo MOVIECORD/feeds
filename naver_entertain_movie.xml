@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-06T07:18:14.620Z</updated>
+    <updated>2022-02-06T08:21:14.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['지금 우리 학교는' 8일째 전세계 1위..'오징어 게임'도 넘나 [종합]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003026344</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003026344"/>
+        <updated>2022-02-06T08:19:45.590Z</updated>
+        <content type="html"><![CDATA[넷플릭스 오리지널 시리즈 '지금 우리 학교는'이 넷플릭스 글로벌 차트에서 8일째 1위를 지키고 있다. 6일 글로벌 OTT 순위집계 사이트 플릭스패트롤에 따르면 '지금 우리 학교는'은 8일째 TV시리즈 비영어 부문에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오징어게임,지옥, 그리고 '지금 우리 학교는'까지 K-장르물 전세계 공략]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=654&amp;aid=0000001735</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003026289"/>
         <updated>2022-02-05T23:27:26.453Z</updated>
         <content type="html"><![CDATA[영화 '해적 : 도깨비 깃발'이 100만 관객을 돌파했다. 6일 영진위 영화관 입장권 통합전산망에 따르면 '해적 : 도깨비 깃발'은 지난 5일 6만 8277명의 관객을 모았다. 지난달 26일 개봉해 누적관객수 102]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷 리뷰]'무언'으로 쌓아올린 숭고한 잔혹동화 '더 마더']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003604985</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003604985"/>
-        <updated>2022-02-05T23:27:26.472Z</updated>
-        <content type="html"><![CDATA[※ 스포일러 주의 자신을 되찾으려 간절하게 기도하던 시간마저 잊고 그저 자신을 놓아버린 채 존재하는 이가 있다. 그에게 두려움을 마주할 시간과 그것을 극복할 두 번째 기회가 찾아온다. 허무에서 간절함으로 변해가는 이]]></content>
     </entry>
 </feed>
