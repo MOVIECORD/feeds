@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-08T20:20:29.125Z</updated>
+    <updated>2022-02-08T21:16:59.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대통령 선거 위해 팔까지 자른 남자, 이유가]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002341612</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002341612"/>
+        <updated>2022-02-08T21:15:31.155Z</updated>
+        <content type="html"><![CDATA[[드라마·영화로 보는 2022 대선] 드라마 &lt;아메리칸 호러 스토리&gt; 시즌 7 컬트 대선이 한 달 여 앞으로 다가왔습니다. 하지만 어쩐 일인지 대선후보들의 정책보다 정쟁이 인터넷을 달구고 있습니다. 상생보다는 공방으]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['나이트메어 앨리' 94회 아카데미 4개 부문 노미네이트..델 토로 작품상 탈까]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004553400</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004553400"/>
+        <updated>2022-02-08T21:15:31.164Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '나이트메어 앨리'가 제94회 아카데미 시상식에서 작품상을 포함해 4개 부문의 후보에 이름을 올렸다. 8일(현지 시각) 미국 아카데미 시상식 주최 측에서 발표한 공식 후보 명단 중 '나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤직영화 '코다', 오스카 작품상·남우조연상·각색상 노미네이트[공식]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004553389</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002578403"/>
         <updated>2022-02-08T11:16:14.818Z</updated>
         <content type="html"><![CDATA[물리적으로 고립된 공간에서 내부인에 의해 살인 사건이 일어나자 사설탐정은 읊조린다. “범인은 이 안에 있다.” 이 말을 빗대 쓴다. 범인은 이 글 안에 있다. 9일 개봉하는 영화 &lt;나일강의 죽음&gt;은, 추리소설의 설정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스페인 거장' 페드로 알모도바르 기획전…'그녀에게'부터 '브로큰 임브레이스'까지]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000279852</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000279852"/>
-        <updated>2022-02-08T11:16:14.820Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 스페인을 대표하는 세계적인 영화 거장 페드로 알모도바르 감독의 대표작 4편을 기획전을 통해 만나볼 수 있게 됐다. 아트나인 월례 기획전 '겟나인'이 스페인 영화계 거장 '페드로 알]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['해적:도깨비 깃발'·'지금 우리 학교는', K콘텐츠의 저력]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001206740</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001206740"/>
-        <updated>2022-02-08T09:18:42.130Z</updated>
-        <content type="html"><![CDATA[올해 개봉작 중 첫 100만 관객을 돌파하며 새해 극장가 흥행 돌풍을 불러일으키고 있는 영화 '해적: 도깨비 깃발'이 넷플릭스 오리지널 시리즈 '지금 우리 학교는'과 함께 풍성한 재미로 대중들을 사로잡고 있다. 한국]]></content>
     </entry>
 </feed>
