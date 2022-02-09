@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-09T10:21:17.680Z</updated>
+    <updated>2022-02-09T11:16:55.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피해자도 투사도 아닌 한 사람, 고(故) 김순악 씨의 82년 인생사]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012971325</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012971325"/>
+        <updated>2022-02-09T11:15:24.809Z</updated>
+        <content type="html"><![CDATA[다큐멘터리 '보드랍게'…"온전한 하나의 인간을 만날 수 있는 영화" (서울=연합뉴스) 김정진 기자 = 전쟁 폭력에 짓밟힌 소녀 또는 자신이 겪었던 피해를 세상에 소리 내 알린 투사. 일본군 '위안부' 피해자라는 말을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인민을 위해 복무하라' 연우진, 치명적 유혹에 빠지다…1차 예고편 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003575740</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002341740"/>
         <updated>2022-02-09T09:17:58.334Z</updated>
         <content type="html"><![CDATA[[넷플릭스 오리지널 리뷰] &lt;이것은 코미디가 아니다&gt; ▲ 넷플릭스 오리지널 영화 &lt;이것은 코미디가 아니다&gt; 포스터. ⓒ 넷플릭스 스탠딩 코미디언으로 활동하며 영화 대본을 쓰는, 곧 40세가 되는 남자 가브리엘 눈시오]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임재혁, ‘지금 우리 학교는’ 속 든든한 존재감]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000848168</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000848168"/>
-        <updated>2022-02-09T08:21:41.986Z</updated>
-        <content type="html"><![CDATA[배우 임재혁이 '지금 우리 학교는'으로 제대로 존재감을 드러냈다. 지난 28일 공개 후 글로벌 TOP 10 TV(비영어) 부문 1위에 이름을 올리며 흥행 돌풍을 일으키고 있는 넷플릭스 시리즈 '지금 우리 학교는'은]]></content>
     </entry>
 </feed>
