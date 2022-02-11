@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 18:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 19:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,20 +152,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F10%2Fohmynews%2F20220210171804764utze.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['품절남' KCM "♥반쪽 만나 더 열심히 살아야겠다 생각"(리프레쉬)]]></title>
-            <link>https://movie.v.daum.net/v/20220211183538196</link>
-            <guid>https://movie.v.daum.net/v/20220211183538196</guid>
-            <pubDate>Fri, 11 Feb 2022 14:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 글 배효주 기자/사진 이재하 기자] 최근 품절남이 된 KCM이 "아내는 내 밝은 에너지의 부스터"라며 애정을 전했다. KCM은 2월 11일 서울 용산구 CGV용산아이파크몰에서 열린 영화 '리프레쉬'(감독 김길영) 언론 시사회 후 간담회를 통해 최근 결혼한 소감을 밝혔다. 먼저 KCM은 "에너지의 원천이 무엇이냐"는 질문에 "세월"이라며 "원래는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F11%2Fnewsen%2F20220211183538248glun.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[애프터스크리닝] 가수 KCM이 전하는 위로와 공감의 메시지 '리프레쉬' ★★★]]></title>
             <link>https://movie.v.daum.net/v/20220211152945525</link>
             <guid>https://movie.v.daum.net/v/20220211152945525</guid>
             <pubDate>Fri, 11 Feb 2022 17:17:48 GMT</pubDate>
             <content:encoded><![CDATA[▶ 줄거리 한때 잘 나갔던 가수 'K' 하지만 지금은 밤무대에 한 번 서기도 힘들다. 매니저 형이 가져오는 일들은 죄다 엉망진창. 그런데 이번에는 환자들 음악 수업까지 하라고? 그 사람들은 치료가 필요한 사람들이야! 거기에 환자들을 데리고 뮤직 콘테스트까지..? 하지만 더 이상 갈 곳이 없다. 이 도전, 괜찮은걸까? ▶ 비포스크리닝 가수 KCM의]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F11%2FiMBC%2F20220211152946525pstv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['품절남' KCM "♥반쪽 만나 더 열심히 살아야겠다 생각"(리프레쉬)]]></title>
+            <link>https://movie.v.daum.net/v/20220211183538196</link>
+            <guid>https://movie.v.daum.net/v/20220211183538196</guid>
+            <pubDate>Fri, 11 Feb 2022 14:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 글 배효주 기자/사진 이재하 기자] 최근 품절남이 된 KCM이 "아내는 내 밝은 에너지의 부스터"라며 애정을 전했다. KCM은 2월 11일 서울 용산구 CGV용산아이파크몰에서 열린 영화 '리프레쉬'(감독 김길영) 언론 시사회 후 간담회를 통해 최근 결혼한 소감을 밝혔다. 먼저 KCM은 "에너지의 원천이 무엇이냐"는 질문에 "세월"이라며 "원래는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F11%2Fnewsen%2F20220211183538248glun.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
