@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 19:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 20:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주말의 OTT]제 성적 취향이 어때서요? (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010997430</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010997430</guid>
+            <pubDate>Fri, 11 Feb 2022 20:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스] 손정빈 기자 = 이번 주말 넷플릭스·디즈니플러스(+)·왓챠에서 볼 만한 영화·드라마를 추렸다. 그간 한국 작품으로는 드라마만 만들던 넷플릭스가 첫 한국영화 '모럴센스'를 선보인다. 디즈니+에선 올해]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA['배우 데뷔' KCM "밤업소 노래 장면, 만감이 교차했죠" (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000657756</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[[OSEN=김성락 기자] 11일 오전 서울 한강로 CGV 용산아이파크몰에서 영화 '리프레쉬' 언론배급 시사회가 열렸다. 가수 겸 배우 KCM(강창모)가 상영관으로 입장하고 있다. 2022.02.11 / ksl0919]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[TEN 포토] 명현만 '리플레쉬 사랑합니다' (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000530127</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000530127</guid>
-            <pubDate>Fri, 11 Feb 2022 10:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자]배우 명현만이 11일 오후 서울 용산구 한강로 용산 아이파크몰 용산 CGV에서 열린 영화 '리프레쉬' 언론시사회에 참석해 인사말을 하고 있다. 영화 &lt;리프레쉬&gt;는 한물 간 가수 ‘K’가 국립]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[나일 강의 죽음 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=117471</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=117471</guid>
@@ -247,20 +247,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69ca8c34d6cc98b2e4e1741ada46752738d65703" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[덩케르크 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=103389</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=103389</guid>
-            <pubDate>Thu, 27 Jan 2022 05:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F643b02b93e9de836850b9d09d680648b2114e41c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[스파이더맨: 노 웨이 홈 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=146656</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=146656</guid>
             <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
             <content:encoded><![CDATA[21.12.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fc5880afdb5b7c60161f34184e1f466814fec2d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[덩케르크 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=103389</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=103389</guid>
+            <pubDate>Thu, 27 Jan 2022 05:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F643b02b93e9de836850b9d09d680648b2114e41c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[씽2게더 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -599,20 +599,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F11%2Fnewsen%2F20220211184216103hxkc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[김새벽X곽민규, 영화 '소피의 세계' 개봉 확정 & 웰컴 기프트 공개 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220211080301335</link>
-            <guid>https://movie.v.daum.net/v/20220211080301335</guid>
-            <pubDate>Fri, 11 Feb 2022 02:33:19 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=유정민 기자] 사소한 오늘이 특별해지는 일상으로의 여행 '소피의 세계'가 3월 3일 개봉을 확정하고, 관객과의 반가운 만남을 고대하며 웰컴 기프트를 공개했다. 일상처럼 여행을 보낸 '소피', 여행처럼 일상을 보낸 '수영'과 '종구', 2년 전 그들이 함께한 나흘의 기록을 담은 영화 '소피의 세계'가 3월 3일 개봉을 확정했다. '소피의 세계]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F11%2F10asia%2F20220211080304473zsai.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['배우 데뷔' KCM "밤업소 노래 장면, 만감이 교차했죠" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220211220129893</link>
             <guid>https://movie.v.daum.net/v/20220211220129893</guid>
             <pubDate>Fri, 11 Feb 2022 16:24:32 GMT</pubDate>
             <content:encoded><![CDATA[가수 KCM이 자신의 이야기를 담은 '리프레쉬'를 통해 영화배우로 데뷔했다. 힘들 때 음악으로 치유받았다는 그는 이 작품이 관객들에게 힐링을 선사하길 바란다고 전했다. 11일 오후 서울 용산구 CGV용산아이파크몰에서 영화 '리프레쉬' 언론 시사회가 열렸다. 이 자리에는 KCM, 홍경인, 명현만, 김길영 감독이 참석했다. '리프레쉬'는 한물 간 가수 K가 국]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F11%2Fhankooki%2F20220211220132990aava.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[김새벽X곽민규, 영화 '소피의 세계' 개봉 확정 & 웰컴 기프트 공개 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220211080301335</link>
+            <guid>https://movie.v.daum.net/v/20220211080301335</guid>
+            <pubDate>Fri, 11 Feb 2022 02:33:19 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=유정민 기자] 사소한 오늘이 특별해지는 일상으로의 여행 '소피의 세계'가 3월 3일 개봉을 확정하고, 관객과의 반가운 만남을 고대하며 웰컴 기프트를 공개했다. 일상처럼 여행을 보낸 '소피', 여행처럼 일상을 보낸 '수영'과 '종구', 2년 전 그들이 함께한 나흘의 기록을 담은 영화 '소피의 세계'가 3월 3일 개봉을 확정했다. '소피의 세계]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F11%2F10asia%2F20220211080304473zsai.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[포커스] 영화계는 알았다..손예진·현빈, '협상' 오작교 타고 만난♥ (다음영화 뉴스 ─ 인기)]]></title>
@@ -1307,7 +1307,7 @@
             <link>https://tv.naver.com/v/25073742</link>
             <guid>https://tv.naver.com/v/25073742</guid>
             <pubDate>Fri, 11 Feb 2022 08:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220211_225/AACxw_16445647627511dP6q_JPEG/8e4fb71c-8b0c-11ec-bf63-505dac8c3721_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1315,7 +1315,7 @@
             <link>https://tv.naver.com/v/25072759</link>
             <guid>https://tv.naver.com/v/25072759</guid>
             <pubDate>Fri, 11 Feb 2022 07:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220211_66/iIQj5_1644563142531lXPHv_JPEG/c15ba33a-8b08-11ec-9f69-505dac8c3639_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1323,7 +1323,7 @@
             <link>https://tv.naver.com/v/25072500</link>
             <guid>https://tv.naver.com/v/25072500</guid>
             <pubDate>Fri, 11 Feb 2022 07:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220211_115/u2tho_1644562752235TFc3h_JPEG/051516d3-8b08-11ec-8e85-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1331,7 +1331,7 @@
             <link>https://tv.naver.com/v/25072252</link>
             <guid>https://tv.naver.com/v/25072252</guid>
             <pubDate>Fri, 11 Feb 2022 07:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220211_245/FtpsH_1644562314207pzWfI_JPEG/1074623c-8b06-11ec-b11b-246e963a464c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1339,7 +1339,7 @@
             <link>https://tv.naver.com/v/25071705</link>
             <guid>https://tv.naver.com/v/25071705</guid>
             <pubDate>Fri, 11 Feb 2022 07:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220211_125/Ht7L7_1644561474236OmRs2_JPEG/026a70b2-8b05-11ec-b282-48df37ae3dc4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1347,7 +1347,7 @@
             <link>https://tv.naver.com/v/25068991</link>
             <guid>https://tv.naver.com/v/25068991</guid>
             <pubDate>Fri, 11 Feb 2022 05:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220211_29/nSVSr_16445554139416rLpF_JPEG/8f0eeade-8af6-11ec-9f25-246e963a49a8_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1355,7 +1355,7 @@
             <link>https://tv.naver.com/v/25068755</link>
             <guid>https://tv.naver.com/v/25068755</guid>
             <pubDate>Fri, 11 Feb 2022 05:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220211_258/rWP4a_1644554908912NIPRX_JPEG/2c710e53-8af5-11ec-b282-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1363,7 +1363,7 @@
             <link>https://tv.naver.com/v/25066542</link>
             <guid>https://tv.naver.com/v/25066542</guid>
             <pubDate>Fri, 11 Feb 2022 03:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220211_261/e3YXO_1644547529363CCot7_JPEG/3b411491-8ae4-11ec-8e85-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1371,7 +1371,7 @@
             <link>https://tv.naver.com/v/25066467</link>
             <guid>https://tv.naver.com/v/25066467</guid>
             <pubDate>Fri, 11 Feb 2022 03:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220211_286/lBAQY_1644547169446fQaHN_JPEG/46ae9abb-8ae3-11ec-abae-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1379,7 +1379,7 @@
             <link>https://tv.naver.com/v/25065860</link>
             <guid>https://tv.naver.com/v/25065860</guid>
             <pubDate>Fri, 11 Feb 2022 02:33:53 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220211_252/xqbbV_1644545172165EK0FA_JPEG/d97d8fb7-8ade-11ec-8fb9-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1387,7 +1387,7 @@
             <link>https://tv.naver.com/v/25065692</link>
             <guid>https://tv.naver.com/v/25065692</guid>
             <pubDate>Fri, 11 Feb 2022 02:33:53 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220211_26/zTHHt_1644544705998ewPCI_JPEG/e51f9402-8add-11ec-bd70-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1395,7 +1395,7 @@
             <link>https://tv.naver.com/v/25065606</link>
             <guid>https://tv.naver.com/v/25065606</guid>
             <pubDate>Fri, 11 Feb 2022 02:33:53 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220211_143/U4t4q_1644544443593g6Xw9_JPEG/2a4393e2-8add-11ec-abae-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1403,7 +1403,7 @@
             <link>https://tv.naver.com/v/25065317</link>
             <guid>https://tv.naver.com/v/25065317</guid>
             <pubDate>Fri, 11 Feb 2022 02:33:53 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220211_195/0qFoq_16445433219684iM5U_JPEG/534ecf73-8ada-11ec-b3d2-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
