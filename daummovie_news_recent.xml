@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-02-13T20:20:50.031Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 13 Feb 2022 21:17:10 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[촛불시위 추억 소환, '나의 촛불' 흥행 불 붙었다]]></title>
+            <link>https://v.daum.net/v/20220214061501534</link>
+            <guid>https://v.daum.net/v/20220214061501534</guid>
+            <pubDate>Sun, 13 Feb 2022 21:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[[성하훈 기자] ▲ &nbsp;&lt;나의 촛불&gt; 한 장면    ⓒ  (유)주기자  &nbsp; 설날 이후 주목받는 개봉작이 나오지 않는 데다, 오미크론 변이로 인해 코로나19 확진자가 크게 증가하면서 극장을 찾은 관객들이 큰 폭으로 감소했다. 2월 말까지는 그나마 영화관이 관객이 드는 시기였으나, 일찍 시작된 춘궁기로 인해 3월 초까지는 극장이 다소 한산할 것으로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F14%2Fohmynews%2F20220214061504950hcbo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
