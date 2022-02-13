@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-13T08:22:01.969Z</updated>
+    <updated>2022-02-13T09:19:23.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[포토] 트와이스 정연, '건강 완벽히 회복한 모습']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=014&amp;aid=0004787138</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=014&amp;aid=0004787138"/>
+        <updated>2022-02-13T09:17:52.713Z</updated>
+        <content type="html"><![CDATA[[FN스타 이승훈 기자] 그룹 트와이스가 13일 네 번째 월드투어 "TWICE 4TH WORLD TOUR ‘Ⅲ’" 참석차 인천국제공항을 통해 미국으로 출국했다. totopurdy_star@fnnews.com fn스타]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이문원의 쇼비즈워치] ‘더 배트맨’은 176분…러닝타임이 늘어간다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000604626</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003608272"/>
         <updated>2022-02-13T01:08:11.650Z</updated>
         <content type="html"><![CDATA[※ 스포일러 주의 "조금이라도 이상해지면 그땐 내가 알아서 죽을게." 남라는 전교 1등이자 2학년 5반의 반장이다. 수업 시간 외에는 항상 이어폰을 착용하며 반 아이들과 소통하지 않는다. 그런 남라를 아이들 역시 반]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['언차티드'·'리코리쉬 피자', 2월에도 외화가 기대작 [N초점]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005900915</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005900915"/>
-        <updated>2022-02-13T01:08:11.650Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 2월 극장가에서도 외화 강세의 흐름이 이어질 전망이다. 지난 9일 개봉한 영화 '나일 강의 죽음'이 박스오피스 1위에 올라 정상을 지키고 있는 가운데 이달에 개봉할 새 외화들에도 관심]]></content>
     </entry>
 </feed>
