@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-14T14:18:47.041Z</updated>
+    <updated>2022-02-14T18:22:31.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['그리드' 김아중, 거대 미스터리 포문..살인범 김성균 놓치고 '당황']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003028410</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003028410"/>
+        <updated>2022-02-14T18:21:07.170Z</updated>
+        <content type="html"><![CDATA['그리드'의 김아중이 편의점 살인사건으로 미스터리의 포문을 연다. 16일 첫 공개되는 디즈니+의 오리지널 시리즈 '그리드'(극본 이수연·연출 리건, 박철환)는 태양풍으로부터 인류를 구원한 방어막 '그리드'를 탄생시킨]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘모럴센스’ 서현, ‘올라운더’다운 화려한 연기 변신 通했다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001642406</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001642406"/>
+        <updated>2022-02-14T18:21:07.181Z</updated>
+        <content type="html"><![CDATA[배우 서현이 변신의 귀재로 떠올랐다. 지난 11일 공개된 넷플릭스 영화 ‘모럴센스’ 속 서현의 새로운 연기 변신이 화제를 모으고 있다. 영화 ‘모럴센스’는 할 말은 하고 사는 유능한 홍보팀 사원 정지우(서현)가 은밀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스펜서' 크리스틴 스튜어트, 역대급 열연..다이애나 왕세자비 완벽변신]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003531065</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002579176"/>
         <updated>2022-02-14T12:28:51.900Z</updated>
         <content type="html"><![CDATA[졸업사진 촬영 장소에서 아르바이트를 하러 온 알라나(알라나 하임)를 보고 반한 10대 소년 개리(쿠퍼 호프먼)는, 알라나의 면박에도 데이트 신청을 하며 직진한다. 희망 없는 나날을 보내고 있던 알라나도 어린 개리의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SE★현장] '인민을 위해 복무하라' 연우진X지안, 신분의 벽을 뛰어넘은 파격 29금 멜로(종합)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004018716</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004018716"/>
-        <updated>2022-02-14T12:28:51.903Z</updated>
-        <content type="html"><![CDATA[[서울경제] 한 때 금서로 지정될 만큼 파격적인 이야기가 스크린에 펼쳐진다. 영화 '인민을 위해 복무하라'는 1970년대 가상의 사회주의 국가를 배경으로 모범병사와 사단장의 젊은 아내 사이 아슬아슬한 멜로를 통해 관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[슬씨네] 금지된 탐닉, 스크린에 피어난 中금서…연우진·지안 '복무하라']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0005044356</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0005044356"/>
-        <updated>2022-02-14T12:28:51.903Z</updated>
-        <content type="html"><![CDATA[금기시된 상대의 강렬한 유혹 앞에 갈등하는 위태로운 병사의 이야기가 늦겨울 스크린에 피어오른다. 농도 짙은 정사 장면과 배우들의 파격적인 연기가 상당히 강렬하다. 영화 '인민을 위해 복무하라'(감독 장철수)가 14일]]></content>
     </entry>
 </feed>
