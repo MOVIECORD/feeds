@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-14T18:22:31.666Z</updated>
+    <updated>2022-02-14T19:17:20.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[돼지 찾아나선 니콜라스 케이지, 제 2의 전성기도 찾았다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001505423</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001505423"/>
+        <updated>2022-02-14T19:15:54.415Z</updated>
+        <content type="html"><![CDATA[소중한 것을 잃은 상처를 극복하는 건 쉽지 않은 일이다. 때로는 슬픔으로, 때로는 분노와 집착으로 견뎌보지만 상실의 감정을 받아들이는 일은 고통스럽다. 15년 전 사랑했던 로리를 잃은 롭(니콜라스 케이지)은 숲속 오]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['그리드' 김아중, 거대 미스터리 포문..살인범 김성균 놓치고 '당황']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003028410</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005146349"/>
         <updated>2022-02-14T12:28:51.899Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 박미애 기자] 롯데컬처웍스(대표 최병환) 임직원들이 11일 대한적십자 남부혈액원과 함께 코로나19 극복을 위한 사랑의 헌혈 캠페인에 동참했다. 이번 헌혈 캠페인은 코로나19 오미크론 변이 바이러스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엉뚱·발랄 청춘의 싱그러운 풋사랑…영화 ‘리코리쉬 피자’]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002579176</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002579176"/>
-        <updated>2022-02-14T12:28:51.900Z</updated>
-        <content type="html"><![CDATA[졸업사진 촬영 장소에서 아르바이트를 하러 온 알라나(알라나 하임)를 보고 반한 10대 소년 개리(쿠퍼 호프먼)는, 알라나의 면박에도 데이트 신청을 하며 직진한다. 희망 없는 나날을 보내고 있던 알라나도 어린 개리의]]></content>
     </entry>
 </feed>
