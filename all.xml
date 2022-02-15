@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 10:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 11:16:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -113,7 +113,7 @@
             <content:encoded><![CDATA[영화 ‘언차티드’가 국내 개봉을 앞두고 스펙터클한 비주얼을 담은 스페셜 포스터를 15일 공개했다. 2022년 개봉 외화 최다 사전 예매량 및 글로벌 박스오피스 1위를 기록하며 흥행 스타트를 시작한 ‘언차티드’가 국내]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['더 배트맨' '시라노' '이상한 나라의…' 극장가 구원작 될까 (네이버TV연예 ─ 영화)]]></title>
+            <title><![CDATA['더 배트맨' '시라노' '이상한 나라의 …' 극장가 구원작 될까 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004663963</link>
             <guid>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004663963</guid>
             <pubDate>Tue, 15 Feb 2022 09:18:17 GMT</pubDate>
@@ -191,14 +191,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb6c357f9a1f7e93d228d67ef60e1185e25c56065" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[355 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=133360</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=133360</guid>
-            <pubDate>Fri, 28 Jan 2022 07:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F488ef6cf5f4db3f9bd6f53e307b5ad981f3a8813" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[나의 촛불 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=138913</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=138913</guid>
@@ -215,20 +207,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbaf8081db50faf38eec7a4001b81c201980e68a5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[355 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=133360</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=133360</guid>
+            <pubDate>Fri, 28 Jan 2022 07:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F488ef6cf5f4db3f9bd6f53e307b5ad981f3a8813" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[킹메이커 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=118715</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=118715</guid>
             <pubDate>Fri, 07 Jan 2022 07:18:53 GMT</pubDate>
             <content:encoded><![CDATA[22.01.26]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F825baa1e98d8f33e4801d88b3a302739039c5cc4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[듄 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=130886</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=130886</guid>
-            <pubDate>Thu, 27 Jan 2022 05:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0235b8e9c0048e4301f8c9c74da929863e33456" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스파이더맨: 노 웨이 홈 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -239,28 +231,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fc5880afdb5b7c60161f34184e1f466814fec2d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151070</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151070</guid>
-            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[태일이 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=125939</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=125939</guid>
             <pubDate>Fri, 28 Jan 2022 23:18:48 GMT</pubDate>
             <content:encoded><![CDATA[21.12.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb42c72550f6c76f3c0ab9906ba50aea889b8676a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[해리포터와 불사조 기사단 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=40878</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=40878</guid>
-            <pubDate>Wed, 26 Jan 2022 06:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F126F1B10AB8BAE5D51" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[씽2게더 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -271,14 +247,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1021e3e3e714bc8ebf67f8c3e238a56ada885292" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[만년이 지나도 변하지 않는 게 있어 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151289</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151289</guid>
-            <pubDate>Fri, 21 Jan 2022 03:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69ca8c34d6cc98b2e4e1741ada46752738d65703" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[굿 보스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154390</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154390</guid>
@@ -287,12 +255,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb1af68ec1c62973dbd480b30717789a277341dfa" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[어나더 라운드 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=142798</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=142798</guid>
-            <pubDate>Fri, 31 Dec 2021 01:05:26 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1c6725b99746d3a2ad064f65305fb939065b2f4a" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151070</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151070</guid>
+            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[듄 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=130886</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=130886</guid>
+            <pubDate>Thu, 27 Jan 2022 05:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0235b8e9c0048e4301f8c9c74da929863e33456" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[만년이 지나도 변하지 않는 게 있어 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151289</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151289</guid>
+            <pubDate>Fri, 21 Jan 2022 03:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69ca8c34d6cc98b2e4e1741ada46752738d65703" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 안녕 자두야: 제주도의 비밀 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -301,6 +285,14 @@
             <pubDate>Wed, 19 Jan 2022 23:18:37 GMT</pubDate>
             <content:encoded><![CDATA[22.01.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ee3e94ab72ab91fbb2dce546aa5a79152bb9901" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[어나더 라운드 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=142798</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=142798</guid>
+            <pubDate>Fri, 31 Dec 2021 01:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1c6725b99746d3a2ad064f65305fb939065b2f4a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[하우스 오브 구찌 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -325,6 +317,14 @@
             <pubDate>Sun, 13 Feb 2022 23:18:09 GMT</pubDate>
             <content:encoded><![CDATA[22.01.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F70deb49a1e0cda735262b62efad968bd0d3cfb58" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[해리포터와 불사조 기사단 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=40878</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=40878</guid>
+            <pubDate>Wed, 26 Jan 2022 06:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F126F1B10AB8BAE5D51" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[애니멀 체인지 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -511,20 +511,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F15%2Fohmynews%2F20220215110002764wyec.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA['닥터 스트레인지2'x'엑스맨', 마블 팬 오랜 염원 이뤄질까 [무비노트] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220214151014588</link>
-            <guid>https://movie.v.daum.net/v/20220214151014588</guid>
-            <pubDate>Tue, 15 Feb 2022 01:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 역대급 멀티버스 전쟁을 예고한 '닥터 스트레인지: 대혼돈의 멀티버스'에 '엑스맨' 세계관이 등장할지 팬들의 이목이 집중되고 있다. 영화 '닥터 스트레인지: 대혼돈의 멀티버스'(감독 샘 레이미·배급 월트디즈니컴퍼니 코리아)는 모든 것을 초월하는, 마블의 초강력 히어로 닥터 스트레인지(베네딕트 컴버배치)를 주인공으로 MCU의 모든]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F14%2Ftvdaily%2F20220214151015557bsvz.jpg" length="0" type="image//thumb/S732x228/"/>
-        </item>
-        <item>
             <title><![CDATA[이 영화에는 뭔가 특별한 게 있다 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220215102401758</link>
             <guid>https://movie.v.daum.net/v/20220215102401758</guid>
             <pubDate>Tue, 15 Feb 2022 08:22:02 GMT</pubDate>
             <content:encoded><![CDATA[[김형욱 기자] ▲ &nbsp;영화 &lt;프랑스&gt; 포스터.    ⓒ M&amp;M 인터내셔널  &nbsp; 2021년 제74회 칸 영화제 경쟁부문에는 총 24편이 올랐었다. 그중 자그마치 3편 &lt;프랑스&gt; &lt;프렌치 디스패치&gt; &lt;더 스토리 오브 마이 와이프&gt;의 주연을 '레아 세두'가 도맡았다. 정작 그녀는 코로나 무증상 양성 판정을 받는 바람에 참석하지 못했지만 말이다. 여]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F15%2Fohmynews%2F20220215102402796zfkd.jpg" length="0" type="image//thumb/S384x240/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F15%2Fohmynews%2F20220215102402796zfkd.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
             <title><![CDATA['뜨거운 피' 정우, 구암 실세 희수로 완벽 변신..깊어진 내면 연기 (다음영화 뉴스 ─ 인기)]]></title>
@@ -535,28 +527,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F15%2Fxportsnews%2F20220215142007544itom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[오스카 점령한 '넷플릭스 영화' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220215065714152</link>
-            <guid>https://movie.v.daum.net/v/20220215065714152</guid>
-            <pubDate>Tue, 15 Feb 2022 01:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[사진=게티이미지코리아 감염병의 세계적 대유행으로 전 세계 영화산업이 침체한 가운데 OTT(온라인 동영상 서비스)의 오리지널 영화는 더욱 힘을 발휘하고 있다. 특히 올해 미국 아카데미상의 작품상 등 주요 부문에 OTT 오리지널 영화가 다수 후보에 오르는 등 기염을 토하고 있다. 반면 한국 작품은 일부를 제외하고 세계시장에서 아직은 뚜렷한 성과를 내지 못해]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F15%2Fsportsdonga%2F20220215065716231avxs.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["딱딱한 수학영화 NO"..'이상한 나라의 수학자' 최민식·김동휘의 따뜻한 이야기[종합] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220215121200242</link>
-            <guid>https://movie.v.daum.net/v/20220215121200242</guid>
-            <pubDate>Tue, 15 Feb 2022 06:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[최민식 김동휘가 수학을 매개체로 한 따뜻한 드라마 ‘이상한 나라의 수학자’로 올봄 스크린을 찾는다. 15일 오전 영화 ‘이상한 나라의 수학자’ 온라인 제작보고회가 열렸다. 코로나19 여파로 온라인 중계된 가운데, 박동훈 감독과 배우 최민식 김동휘 박병은 박해준 조윤서가 참석했다. ‘이상한 나라의 수학자’는 신분을 감추고 고등학교 경비원으로 일하는 탈북한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F15%2Fstartoday%2F20220215121202813bjkf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[레이체 지글러♥조쉬 안드레스 리베라 커플탄생, '웨스트 사이드 스토리' 사랑 완성[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220215164716915</link>
             <guid>https://movie.v.daum.net/v/20220215164716915</guid>
             <pubDate>Tue, 15 Feb 2022 09:18:39 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘웨스트 사이드 스토리’의 레이첼 지글러(20)와 조쉬 안드레스 리베라(26)가 사랑에 빠졌다. E! 뉴스는 14일(현지시간) “레이첼 지글러가 ‘웨스트 사이드 스토리’의 공동 주연인 조쉬 안드레스 리베라와 열애 중”이라고 보도했다. 레이첼 지글러는 인스타그램에 로맨틱한 휴일을 언급하는 캡션과 함께 두 사람의 편안한]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F15%2Fmydaily%2F20220215164716291bblf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['닥터 스트레인지2'x'엑스맨', 마블 팬 오랜 염원 이뤄질까 [무비노트] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220214151014588</link>
+            <guid>https://movie.v.daum.net/v/20220214151014588</guid>
+            <pubDate>Tue, 15 Feb 2022 01:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 역대급 멀티버스 전쟁을 예고한 '닥터 스트레인지: 대혼돈의 멀티버스'에 '엑스맨' 세계관이 등장할지 팬들의 이목이 집중되고 있다. 영화 '닥터 스트레인지: 대혼돈의 멀티버스'(감독 샘 레이미·배급 월트디즈니컴퍼니 코리아)는 모든 것을 초월하는, 마블의 초강력 히어로 닥터 스트레인지(베네딕트 컴버배치)를 주인공으로 MCU의 모든]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F14%2Ftvdaily%2F20220214151015557bsvz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[오스카 점령한 '넷플릭스 영화' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220215065714152</link>
+            <guid>https://movie.v.daum.net/v/20220215065714152</guid>
+            <pubDate>Tue, 15 Feb 2022 01:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[사진=게티이미지코리아 감염병의 세계적 대유행으로 전 세계 영화산업이 침체한 가운데 OTT(온라인 동영상 서비스)의 오리지널 영화는 더욱 힘을 발휘하고 있다. 특히 올해 미국 아카데미상의 작품상 등 주요 부문에 OTT 오리지널 영화가 다수 후보에 오르는 등 기염을 토하고 있다. 반면 한국 작품은 일부를 제외하고 세계시장에서 아직은 뚜렷한 성과를 내지 못해]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F15%2Fsportsdonga%2F20220215065716231avxs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[KCM "자전적 영화 '리프레쉬', 첫 주연작 연기 힘들었다" [인터뷰M] (다음영화 뉴스 ─ 인기)]]></title>
@@ -567,28 +559,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F15%2FiMBC%2F20220215120133959heah.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA["딱딱한 수학영화 NO"..'이상한 나라의 수학자' 최민식·김동휘의 따뜻한 이야기[종합] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220215121200242</link>
+            <guid>https://movie.v.daum.net/v/20220215121200242</guid>
+            <pubDate>Tue, 15 Feb 2022 06:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[최민식 김동휘가 수학을 매개체로 한 따뜻한 드라마 ‘이상한 나라의 수학자’로 올봄 스크린을 찾는다. 15일 오전 영화 ‘이상한 나라의 수학자’ 온라인 제작보고회가 열렸다. 코로나19 여파로 온라인 중계된 가운데, 박동훈 감독과 배우 최민식 김동휘 박병은 박해준 조윤서가 참석했다. ‘이상한 나라의 수학자’는 신분을 감추고 고등학교 경비원으로 일하는 탈북한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F15%2Fstartoday%2F20220215121202813bjkf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[<리뷰톡> '리코리쉬 피자', 1970년대를 위한 첫사랑의 찬가 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220215145017209</link>
             <guid>https://movie.v.daum.net/v/20220215145017209</guid>
             <pubDate>Tue, 15 Feb 2022 08:22:02 GMT</pubDate>
             <content:encoded><![CDATA[영화 속에서 첫사랑에 빠진 청춘들이 공통적으로 하는 행동이 있다. 감미로운 키스신? 아니다. 젊은 에너지의 상징인 ‘달리기’다. 이런 장면이 익숙하지 않은가? 여자친구의 감정을 확인한 남자가 집으로 돌아가는 길에 펄쩍펄쩍 뛰거나, 남자친구에게 숨기고 싶은 비밀을 들켜버린 여자가 얼굴을 가리고 도망친다거나, 길거리 데이트 커플이 눈만 마주치면 약속이나 한]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F15%2Fmunhwa%2F20220215145018477yfnp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['뜨거운 피' 정우, 한층 깊어진 내면 연기 예고 "날 것의 느낌 살아있는 인물" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220215083746738</link>
-            <guid>https://movie.v.daum.net/v/20220215083746738</guid>
-            <pubDate>Tue, 15 Feb 2022 01:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 배우 정우가 범죄 액션 영화 '뜨거운 피'(천명관 감독, 고래픽처스 제작)의 희수 역으로 스크린에 컴백한다. 영화 '재심' '히말라야', 드라마 '응답하라 1994' 등 몰입감 높은 연기력과 인간적인 매력으로 사랑 받아온 정우가 이번엔 누아르 '뜨거운 피'로 돌아온다. 정우는 '뜨거운 피'에서 만리장 호텔의 지배인]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F15%2FSpoChosun%2F20220215083746649zxoh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['나일강의 죽음', 개봉 6일째 박스오피스 1위 [★무비차트] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220215071837474</link>
-            <guid>https://movie.v.daum.net/v/20220215071837474</guid>
-            <pubDate>Tue, 15 Feb 2022 01:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='나일강의 죽음''나일 강의 죽음'이 개봉 6일째 박스오피스 1위를 지켰다. 15일 영진위 영화관입장권통합전산망에 따르면 '나일 강의 죽음'은 지난 14일 1만 1840명의 관객을 동원했다. '나일 강의 죽음'은 지난 9일 개봉해 줄곧 1위를 지키면서 누적 15만 3038명을 기록했다. 2위는 '해적: 도깨비깃발'로 96]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F15%2Fstarnews%2F20220215071839117rogv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['나일 강의 죽음' 1위 수성, 15만 관객 돌파 [박스오피스] (다음영화 뉴스 ─ 인기)]]></title>
@@ -599,12 +583,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F15%2Ftvdaily%2F20220215091125665wkeh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['뜨거운 피' 정우, 한층 깊어진 내면 연기 예고 "날 것의 느낌 살아있는 인물" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220215083746738</link>
+            <guid>https://movie.v.daum.net/v/20220215083746738</guid>
+            <pubDate>Tue, 15 Feb 2022 01:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 배우 정우가 범죄 액션 영화 '뜨거운 피'(천명관 감독, 고래픽처스 제작)의 희수 역으로 스크린에 컴백한다. 영화 '재심' '히말라야', 드라마 '응답하라 1994' 등 몰입감 높은 연기력과 인간적인 매력으로 사랑 받아온 정우가 이번엔 누아르 '뜨거운 피'로 돌아온다. 정우는 '뜨거운 피'에서 만리장 호텔의 지배인]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F15%2FSpoChosun%2F20220215083746649zxoh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[최민식 "모닝 토스트·커피가 낙..이젠 끊어" (이상한나라의수학자)[종합] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220215143002263</link>
             <guid>https://movie.v.daum.net/v/20220215143002263</guid>
             <pubDate>Tue, 15 Feb 2022 07:17:28 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 최민식이 '이상한 나라의 수학자'를 촬영 중 토스트로 소소한 기쁨을 누렸던 순간을 전했다. 15일 온라인 생중계를 통해 영화 '이상한 나라의 수학자'(감독 박동훈) 온라인 제작보고회가 진행됐다. 이 자리에는 박동훈 감독과 배우 최민식, 김동휘, 박해준, 박병은, 조윤서가 참석했다. '이상한 나라의 수학자'는 신분을 감추고 고]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F15%2Fxportsnews%2F20220215143006786wtqj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['나일강의 죽음', 개봉 6일째 박스오피스 1위 [★무비차트] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220215071837474</link>
+            <guid>https://movie.v.daum.net/v/20220215071837474</guid>
+            <pubDate>Tue, 15 Feb 2022 01:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='나일강의 죽음''나일 강의 죽음'이 개봉 6일째 박스오피스 1위를 지켰다. 15일 영진위 영화관입장권통합전산망에 따르면 '나일 강의 죽음'은 지난 14일 1만 1840명의 관객을 동원했다. '나일 강의 죽음'은 지난 9일 개봉해 줄곧 1위를 지키면서 누적 15만 3038명을 기록했다. 2위는 '해적: 도깨비깃발'로 96]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F15%2Fstarnews%2F20220215071839117rogv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[유수경의 무비시크릿] '민식앓이' 이끈 최민식, '선배의 품격' (다음영화 뉴스 ─ 인기)]]></title>
@@ -615,12 +615,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F15%2Fhankooki%2F20220215144808767sjit.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[무리한 설정, 흐릿해진 로맨스..영화 '인민을 위해 복무하라' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220215140949429</link>
+            <guid>https://movie.v.daum.net/v/20220215140949429</guid>
+            <pubDate>Tue, 15 Feb 2022 09:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 오보람 기자 = 감독들은 무리해서라도 꼭 영화로 만들고 싶은 '꿈의 원작'이 하나씩은 있나 보다. 장철수 감독에겐 중국 작가 옌롄커의 소설 '인민을 위해 복무하라'가 그런 작품이었던 것 같다. "책을 읽는 순간 오랜 꿈을 실현해줄 것이라 믿었다"는 장 감독은 직접 각본을 쓰고 연출을 맡아 소설과 같은 이름의 멜로 영화로 내놨다. 문화대혁명]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F15%2Fyonhap%2F20220215140949885bpoo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[직장에선 상사, 퇴근하면 복종? 특별한 계약의 비밀 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220215114500214</link>
             <guid>https://movie.v.daum.net/v/20220215114500214</guid>
             <pubDate>Tue, 15 Feb 2022 06:22:12 GMT</pubDate>
             <content:encoded><![CDATA[[장혜령 기자] ▲ &nbsp;영화 &lt;모럴센스&gt; 스틸컷    ⓒ 넷플릭스  &nbsp; 넷플릭스가 한국에서 처음으로 제작에 참여한 영화 &lt;모럴센스&gt;는 겨울 작가의 동명 웹툰을 원작으로 한다. 몇 해 전 키득거리며 봤던 킬리플레져 웹툰을 영상으로 옮긴다는 소식에 들뜨면서도 걱정되었다. 소수 취향인 소재를 어떻게 영상화했을까 무척 궁금했다. 특히 넷플릭스라는 플랫]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F15%2Fohmynews%2F20220215114502103qlsl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[살인 용의자 11명.. 범인은 점점 과감해졌다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220215134205095</link>
+            <guid>https://movie.v.daum.net/v/20220215134205095</guid>
+            <pubDate>Tue, 15 Feb 2022 06:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[[원종빈 기자] ▲ &nbsp;영화 &lt;나일 강의 죽음&gt;의 한 장면.    ⓒ 월트디즈니컴퍼니 코리아  &nbsp; * 이 기사에는 영화 스포일러가 있습니다. &nbsp; 이집트 피라미드 앞에서 휴가를 즐기는 '에르큘 포와로(케네스 브래너)'. 그런 그의 앞에 친구 '부크(톰 베이트먼)'가 나타나고, 포와로는 부크 덕분에&nbsp;행복한&nbsp;신혼부부인 '리넷 도일(갤 가돗)'과 '사]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F15%2Fohmynews%2F20220215134206854etmk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['파워 오브 도그', 아카데미가 최다부문 몰아준 이유 (다음영화 뉴스 ─ 인기)]]></title>
@@ -637,22 +653,6 @@
             <pubDate>Tue, 15 Feb 2022 01:11:54 GMT</pubDate>
             <content:encoded><![CDATA[[서울경제] 인적 드문 숲 속의 오두막에서 사는 남자 롭(니콜라스 케이지)의 일상은 단조롭다. 새 소리와 아침 햇살에 눈을 뜨고 밤이 되면 잠을 청한다. 계곡에서 몸을 씻고, 직접 불을 피워 요리하는 그에게 텔레비전, 휴대폰은 언감생심이다. 카세트테이프 플레이어조차 건전지가 없어 사용하지 못한다. 외로워 보이는 삶이지만 외롭지 않다. 작은 돼지 한 마리가]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F15%2Fseouleconomy%2F20220215063024789lswx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[무리한 설정, 흐릿해진 로맨스..영화 '인민을 위해 복무하라' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220215140949429</link>
-            <guid>https://movie.v.daum.net/v/20220215140949429</guid>
-            <pubDate>Tue, 15 Feb 2022 09:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 오보람 기자 = 감독들은 무리해서라도 꼭 영화로 만들고 싶은 '꿈의 원작'이 하나씩은 있나 보다. 장철수 감독에겐 중국 작가 옌롄커의 소설 '인민을 위해 복무하라'가 그런 작품이었던 것 같다. "책을 읽는 순간 오랜 꿈을 실현해줄 것이라 믿었다"는 장 감독은 직접 각본을 쓰고 연출을 맡아 소설과 같은 이름의 멜로 영화로 내놨다. 문화대혁명]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F15%2Fyonhap%2F20220215140949885bpoo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[살인 용의자 11명.. 범인은 점점 과감해졌다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220215134205095</link>
-            <guid>https://movie.v.daum.net/v/20220215134205095</guid>
-            <pubDate>Tue, 15 Feb 2022 06:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[[원종빈 기자] ▲ &nbsp;영화 &lt;나일 강의 죽음&gt;의 한 장면.    ⓒ 월트디즈니컴퍼니 코리아  &nbsp; * 이 기사에는 영화 스포일러가 있습니다. &nbsp; 이집트 피라미드 앞에서 휴가를 즐기는 '에르큘 포와로(케네스 브래너)'. 그런 그의 앞에 친구 '부크(톰 베이트먼)'가 나타나고, 포와로는 부크 덕분에&nbsp;행복한&nbsp;신혼부부인 '리넷 도일(갤 가돗)'과 '사]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F15%2Fohmynews%2F20220215134206854etmk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[톰 홀랜드 활약 '언차티드', 글로벌 박스오피스 정상..15개국 257억 수익 (다음영화 뉴스 ─ 인기)]]></title>
@@ -1467,7 +1467,7 @@
             <link>https://tv.naver.com/v/25147475</link>
             <guid>https://tv.naver.com/v/25147475</guid>
             <pubDate>Tue, 15 Feb 2022 10:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[50분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220215_103/Y3QEE_1644917434055NSGp5_JPEG/a3a87ff1-8e41-11ec-8052-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1475,7 +1475,7 @@
             <link>https://tv.naver.com/v/25143840</link>
             <guid>https://tv.naver.com/v/25143840</guid>
             <pubDate>Tue, 15 Feb 2022 08:22:33 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220215_25/pjRD2_1644909969375dRoFu_JPEG/2e149d2f-8e30-11ec-87d4-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1491,7 +1491,7 @@
             <link>https://tv.naver.com/v/25143147</link>
             <guid>https://tv.naver.com/v/25143147</guid>
             <pubDate>Tue, 15 Feb 2022 07:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220215_119/Xwrg4_1644908432873pmkxh_JPEG/f4b42fa0-8e2b-11ec-bef7-505dac8c38f5_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1499,7 +1499,7 @@
             <link>https://tv.naver.com/v/25141625</link>
             <guid>https://tv.naver.com/v/25141625</guid>
             <pubDate>Tue, 15 Feb 2022 06:22:43 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220215_59/trrqN_1644905422180lyi34_JPEG/3e7a01e7-8e25-11ec-87d4-48df37ae3fca_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1507,7 +1507,7 @@
             <link>https://tv.naver.com/v/25139172</link>
             <guid>https://tv.naver.com/v/25139172</guid>
             <pubDate>Tue, 15 Feb 2022 05:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220215_98/9oeL9_1644899990033rzeYa_JPEG/079e164c-8e19-11ec-8ff6-505dac8c385b_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1515,7 +1515,7 @@
             <link>https://tv.naver.com/v/25136089</link>
             <guid>https://tv.naver.com/v/25136089</guid>
             <pubDate>Tue, 15 Feb 2022 02:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220215_204/iLRBd_1644891673280pi3JW_JPEG/9f5bd91f-8e05-11ec-8ff6-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1523,7 +1523,7 @@
             <link>https://tv.naver.com/v/25135552</link>
             <guid>https://tv.naver.com/v/25135552</guid>
             <pubDate>Tue, 15 Feb 2022 02:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220215_102/Pr4mC_1644890222307nBJ0l_JPEG/268d8403-8e02-11ec-9e68-a0369ff9545c_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1531,7 +1531,7 @@
             <link>https://tv.naver.com/v/25135361</link>
             <guid>https://tv.naver.com/v/25135361</guid>
             <pubDate>Tue, 15 Feb 2022 02:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220215_56/PuGx2_1644889705761KjWOM_JPEG/4523ac76-8e01-11ec-92eb-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1539,7 +1539,7 @@
             <link>https://tv.naver.com/v/25134859</link>
             <guid>https://tv.naver.com/v/25134859</guid>
             <pubDate>Tue, 15 Feb 2022 02:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220215_178/7gJyV_1644888311987HVjoJ_JPEG/d159aca7-8dfd-11ec-a565-48df379ccacc_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1547,7 +1547,7 @@
             <link>https://tv.naver.com/v/25134477</link>
             <guid>https://tv.naver.com/v/25134477</guid>
             <pubDate>Tue, 15 Feb 2022 01:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220215_156/u944J_1644887308457P8Psi_JPEG/ffe4d5a0-8dfa-11ec-a12c-505dac8c3721_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
