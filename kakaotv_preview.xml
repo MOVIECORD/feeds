@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 02:00:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 02:33:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<블랙폭스 - 폭렬닌자시대> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/426404638?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/426404638?act=clip</guid>
+            <pubDate>Thu, 17 Feb 2022 02:32:06 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv541khhsnqrihu1ex4ju3b0t%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201972136%26signature%3D%252Be4PvSxuiLTDlHiGcyKVFfA4C%252FA%253D%26ts%3D1645063336" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<극장판 주술회전 0> 사랑과 저주의 시작 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/426403394?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/426351101?act=clip</guid>
             <pubDate>Tue, 15 Feb 2022 02:35:24 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:19]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8964abtbx7wxdrv5vt1r0pw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201797286%26signature%3Dj58zS5S%252BDAvylwhHeDyXAQwuuA4%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8964abtbx7wxdrv5vt1r0pw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201797286%26signature%3Dj58zS5S%252BDAvylwhHeDyXAQwuuA4%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<나의 집은 어디인가> 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 11 Feb 2022 08:21:34 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:10]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzx0gug2yuplogw4eoecz689%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201476219%26signature%3DUrS3fFocbpBttYoloV76DNjpBUI%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 바다 탐험대 옥토넛 : 해저동굴 대탈출> 바나클의 어린 시절 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/426258280?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/426258280?act=clip</guid>
-            <pubDate>Fri, 11 Feb 2022 07:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:11]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwr5mpavvn9e8le6rm1okgrz%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201469420%26signature%3DAbMEumnbFV%252FMD6CTES%252FwxNCIvHo%253D" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
