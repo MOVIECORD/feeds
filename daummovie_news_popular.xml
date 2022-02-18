@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 07:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 08:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F18%2Fmydaily%2F20220218123533495ermw.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA['매미소리', 송가인 '무명배우' MV 공개..눈부신 화합의 울림]]></title>
-            <link>https://movie.v.daum.net/v/20220218075314628</link>
-            <guid>https://movie.v.daum.net/v/20220218075314628</guid>
-            <pubDate>Fri, 18 Feb 2022 01:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 매미소리 / 사진=자유로픽쳐스'매미소리'가 송가인의 '무명배우' 곡을 배경으로 갈등과 화해의 감동을 전하는 뮤직비디오를 전격 공개했다. 최근 자유로픽쳐스는 '매미소리'가 송가인의 애절한 목소리와 함께하는 뮤직비디오를 공개하며 이목을 집중시킨다. '매미소리'는 삶과 죽음을 사이에 두고 20년 만에 비로소 서로를 마주하게 된 부녀의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F18%2Fstarnews%2F20220218075315147dxqi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[100년 만에 멸종된 토종쌀, 이런 이유 때문이었구나]]></title>
             <link>https://movie.v.daum.net/v/20220218101801756</link>
             <guid>https://movie.v.daum.net/v/20220218101801756</guid>
             <pubDate>Fri, 18 Feb 2022 02:33:59 GMT</pubDate>
             <content:encoded><![CDATA[[김성호 기자] 쌀이 똑 떨어졌다. 10kg 포대에 든 쌀을 언제 다 먹었는지 금세 바닥이 보였다. 밥심으로 사는 한국인이 아닌가. 당장 마트에 가서 쌀 판매대 앞에 섰다. 경기부터 충청, 전라, 전국 방방곡곡 이름이 붙은 포대들이 한쪽에 가득 쌓여 있다. 쌀은 다 똑같은 쌀인데 뭐 이리 종류가 많담? 지난번엔 어떤 쌀을 사 먹었는지도 가물가물하다. 조금]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F18%2Fohmynews%2F20220218101804055hjno.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['매미소리', 송가인 '무명배우' MV 공개..눈부신 화합의 울림]]></title>
+            <link>https://movie.v.daum.net/v/20220218075314628</link>
+            <guid>https://movie.v.daum.net/v/20220218075314628</guid>
+            <pubDate>Fri, 18 Feb 2022 01:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 매미소리 / 사진=자유로픽쳐스'매미소리'가 송가인의 '무명배우' 곡을 배경으로 갈등과 화해의 감동을 전하는 뮤직비디오를 전격 공개했다. 최근 자유로픽쳐스는 '매미소리'가 송가인의 애절한 목소리와 함께하는 뮤직비디오를 공개하며 이목을 집중시킨다. '매미소리'는 삶과 죽음을 사이에 두고 20년 만에 비로소 서로를 마주하게 된 부녀의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F18%2Fstarnews%2F20220218075315147dxqi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[불륜 인정한 홍상수♥김민희, 뻔뻔한 사랑으로 완성한 세계 [TEN스타필드]]]></title>
@@ -64,14 +64,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F18%2FNEWS1%2F20220218083459825vndq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['더 배트맨' 역대급 번역 예고 '리들러 대가' 이규원 전격 합류[공식]]]></title>
-            <link>https://movie.v.daum.net/v/20220217165541305</link>
-            <guid>https://movie.v.daum.net/v/20220217165541305</guid>
-            <pubDate>Fri, 18 Feb 2022 01:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] ‘영화의 민족’ 대한민국 관객들의 높은 관람 수준을 방증하는 대목. 외화 번역 잘못 하면 바로 지적 들어간다. 올 상반기 최고 관심작 가운데 하나인 ‘더 배트맨’이 역대급 번역진을 구성, 가장 완성도 높은 번역을 예고해 화제가 될 전망이다. 새롭게 등장하는 캐릭터 ‘리들러’ 대사 번역을 위해 국내 최고 ‘리들러 실력자’로 정평이 난]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F17%2Fnewsen%2F20220217165541995gbym.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[62년간 26회 수상史..세계3대 영화제 호령하는 韓영화]]></title>
             <link>https://movie.v.daum.net/v/20220217183121671</link>
             <guid>https://movie.v.daum.net/v/20220217183121671</guid>
@@ -80,12 +72,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F17%2FSPORTSSEOUL%2F20220217183126821kqtx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["30년 전 한국 여성에게 하던 출산 강요, 달라진 게 없다"]]></title>
-            <link>https://movie.v.daum.net/v/20220218061800567</link>
-            <guid>https://movie.v.daum.net/v/20220218061800567</guid>
+            <title><![CDATA['더 배트맨' 역대급 번역 예고 '리들러 대가' 이규원 전격 합류[공식]]]></title>
+            <link>https://movie.v.daum.net/v/20220217165541305</link>
+            <guid>https://movie.v.daum.net/v/20220217165541305</guid>
             <pubDate>Fri, 18 Feb 2022 01:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[[이선필 기자] &nbsp;&nbsp;        ▲ &nbsp;영화 &lt;빠마&gt; 관련 이미지.    ⓒ 섹 알마문  &nbsp; 한국에 온 지 20년을 훌쩍 넘긴 그는 인생의 절반을 이주노동자 인권 운동으로 채웠다. 그리고 그중의 또 절반을 문화예술가로 살아오고 있었다. 2013년 첫 단편 영화 연출 이후 벌써 그가 발표한 영화만 10여 편이다. 방글라데시에서 태어나 2009년 귀화한 섹 알]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F18%2Fohmynews%2F20220218061802885xshh.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] ‘영화의 민족’ 대한민국 관객들의 높은 관람 수준을 방증하는 대목. 외화 번역 잘못 하면 바로 지적 들어간다. 올 상반기 최고 관심작 가운데 하나인 ‘더 배트맨’이 역대급 번역진을 구성, 가장 완성도 높은 번역을 예고해 화제가 될 전망이다. 새롭게 등장하는 캐릭터 ‘리들러’ 대사 번역을 위해 국내 최고 ‘리들러 실력자’로 정평이 난]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F17%2Fnewsen%2F20220217165541995gbym.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["故다이애나 왕세자비의 환생"..크리스틴 스튜어트 '스펜서' 3월16일 개봉]]></title>
+            <link>https://movie.v.daum.net/v/20220217225402851</link>
+            <guid>https://movie.v.daum.net/v/20220217225402851</guid>
+            <pubDate>Fri, 18 Feb 2022 08:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[고(故) 다이애나 왕세자비의 이야기를 그린 영화 '스펜서'(파블로 라라인 감독)가 3월 16일 개봉한다. 17일 ‘스펜서’ 측은 이 같은 소식과 함께 다이애나 왕세자비를 연기한 크리스틴 스튜어트의 아름다운 모습이 담긴 메인 포스터를 공개했다. 이날 공개된 포스터는 붉은색 터틀넥을 입고 어딘가를 지긋이 바라보는 크리스틴 스튜어트의 모습이 눈길을 끈다. 아름]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F17%2Fstartoday%2F20220217225405565tzhb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[신은경·엄기준·이지아·김소연, 주동민 감독 영화 데뷔작에 뭉쳤다 [공식]]]></title>
+            <link>https://movie.v.daum.net/v/20220218160213701</link>
+            <guid>https://movie.v.daum.net/v/20220218160213701</guid>
+            <pubDate>Fri, 18 Feb 2022 08:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 영화감독들의 단편 영화 제작기를 담은 티빙 오리지널 ‘전체관람가+: 숏버스터’에서 주동민 감독이 첫 단편 영화 데뷔 신고식을 치른다. 드라마 ‘펜트하우스’로 대한민국을 뒤흔든 주동민 감독이 ‘전체관람가+: 숏버스터’를 통해 단편 영화 감독에 도전한다. 주동민 감독은 코로나19 시대에 만연한 다양한 사회 군상을 여섯 개의 이야기로 나눠 블랙]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F18%2Fsportsdonga%2F20220218160215034sxzy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[로버트 패틴슨의 '더 배트맨'.."탐정 스토리, 다른 배트맨 영화와 구분"(종합)]]></title>
@@ -96,12 +104,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F18%2FNEWS1%2F20220218134109095ddtl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[박찬욱이 쓰는 韓영화계 또 하나의 기록 '일장춘몽' [종합]]]></title>
+            <link>https://movie.v.daum.net/v/20220218140530390</link>
+            <guid>https://movie.v.daum.net/v/20220218140530390</guid>
+            <pubDate>Fri, 18 Feb 2022 08:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=김명신 기자] 박찬욱 감독이 애플(Apple)과의 협업으로 탄생한 단편 영화 ‘일장춘몽’을 공개했다.&nbsp; 18일 박찬욱과 애플 아이폰이 함께 한 새 콜라보 프로젝트 ‘일장춘몽’의 기자간담회가 온라인으로 진행됐다.&nbsp; 이날 행사에는 박찬욱 감독을 비롯해 김우형 촬영 감독과 배우 유해진, 김옥빈, 박정민이 참석해 아이폰 13 프로로 촬영한 신작 단편]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F18%2Ftvreport%2F20220218140533824qtuq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['이상한 나라의 수학자' OST 파이(π) 송 등장..'수알못'에게도 흥미로운 세계]]></title>
             <link>https://movie.v.daum.net/v/20220217165002103</link>
             <guid>https://movie.v.daum.net/v/20220217165002103</guid>
             <pubDate>Fri, 18 Feb 2022 01:12:06 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '이상한 나라의 수학자'(감독 박동훈)가 수학을 색다른 방식으로 풀어낸 연출과 스토리를 예고해 기대를 모은다.&nbsp; '이상한 나라의 수학자'는 신분을 감추고 고등학교 경비원으로 일하는 탈북한 천재 수학자가 수학을 포기한 학생을 만나며 벌어지는 감동 드라마다. 먼저 '이상한 나라의 수학자'는 원주율을 음표 삼아 만들어진 음악]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F17%2Fxportsnews%2F20220217165004666zvqu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["30년 전 한국 여성에게 하던 출산 강요, 달라진 게 없다"]]></title>
+            <link>https://movie.v.daum.net/v/20220218061800567</link>
+            <guid>https://movie.v.daum.net/v/20220218061800567</guid>
+            <pubDate>Fri, 18 Feb 2022 01:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[[이선필 기자] &nbsp;&nbsp;        ▲ &nbsp;영화 &lt;빠마&gt; 관련 이미지.    ⓒ 섹 알마문  &nbsp; 한국에 온 지 20년을 훌쩍 넘긴 그는 인생의 절반을 이주노동자 인권 운동으로 채웠다. 그리고 그중의 또 절반을 문화예술가로 살아오고 있었다. 2013년 첫 단편 영화 연출 이후 벌써 그가 발표한 영화만 10여 편이다. 방글라데시에서 태어나 2009년 귀화한 섹 알]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F18%2Fohmynews%2F20220218061802885xshh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[단독] '갯마을 차차차' 강형석, 한국·싱가포르 합작영화 '아줌마' 출연]]></title>
@@ -128,44 +152,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F18%2Fxportsnews%2F20220218095220542arwj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[어제의 동지가 내일의 라이벌..'355' 차스테인vs크루즈, 아카데미서 경쟁]]></title>
-            <link>https://movie.v.daum.net/v/20220217181511231</link>
-            <guid>https://movie.v.daum.net/v/20220217181511231</guid>
-            <pubDate>Fri, 18 Feb 2022 01:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 액션 블록버스터 '355'의 두 주역이 오스카 트로피를 두고 경쟁을 펼친다. '어제의 동지가 내일의 라이벌'이 된 형국이다. 지난 8일 제94회 미국 아카데미 시상식의 각 부문 최종 후보가 발표돼 영화 팬들의 관심이 쏟아졌다. 시상식의 최대 관심사인 여우주연상 부문에는 '타미 페이의 눈' 제시카 차스테인, '페러렐 마더스]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F17%2FSBSfunE%2F20220217181513849wcnu.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['더 배트맨' 조이 크라비츠 "캣우먼으로 아직 완성되지 않은 인물 연기했다"]]></title>
+            <link>https://movie.v.daum.net/v/20220218131820239</link>
+            <guid>https://movie.v.daum.net/v/20220218131820239</guid>
+            <pubDate>Fri, 18 Feb 2022 08:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 고재완 기자] "캣우먼으로 아직 완성되지 않은 인물 연기했다." 할리우드 배우 조이 크라비츠가 18일 열린 영화 '더 배트맨' 화상 기자회견에 참석해 이같이 말했다. 크라비츠는 이날 "직접 서울에 가보지 못해서 아쉽다"며 "이번 작품에서는 샐레나 카일이라는 인물의 인간성을 표현하기 위해 노력했다. 다양한 인간이 표현됐는데 강력하지]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F18%2FSpoChosun%2F20220218131820473edcv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[할리우드 리포트] 거짓조차 믿게 하는 연기력, 오스카 품을까]]></title>
-            <link>https://movie.v.daum.net/v/20220218070029052</link>
-            <guid>https://movie.v.daum.net/v/20220218070029052</guid>
-            <pubDate>Fri, 18 Feb 2022 01:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] “똑딱거리는 시계 소리에 쫓기며 불면의 밤을 숱하게 보낸 ‘존’이 되어야 했죠. 불안한 미래에 꿈 하나를 붙잡고 살았던 시간들이 그립습니다.” 앤드류 가필드의 매력은 잘생김을 뚫고 나오는 연기력이다. 넷플릭스 영화 ‘틱, 틱...붐!’에서는 서른 살 생일을 목전에 둔 유망 작곡가 조너선 라슨에 빙의한 듯 피아노를 치고 노래와 춤까지 섭렵했다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F18%2Fseouleconomy%2F20220218070032763dmlv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['일장춘몽' 박찬욱, "유해진을 놓고 썼다"]]></title>
-            <link>https://movie.v.daum.net/v/20220218125305721</link>
-            <guid>https://movie.v.daum.net/v/20220218125305721</guid>
-            <pubDate>Fri, 18 Feb 2022 04:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 박찬욱 감독이 배우 유해진을 놓고 ‘일장춘몽’의 캐릭터를 그렸다고 고백했다. 18일 오전 온라인으로 진행된 박찬욱 감독·Apple(애플)의 새로운 컬래보레이션 영화 ‘일장춘몽’ 기자간담회에는 박찬욱 감독, 김우형 촬영감독, 유해진, 김옥빈, 박정민이 참석했다. 박찬욱 감독은 유해진에 대해 “‘공공의 적’ 때 처음 발견했다”며 “그때부터]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F18%2Fsportskhan%2F20220218125306733figx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[박찬욱 "'스우파' 모니카 안무감독 참여, 나만 아는 줄 알았는데.." (일장춘몽)[종합]]]></title>
-            <link>https://movie.v.daum.net/v/20220218153003519</link>
-            <guid>https://movie.v.daum.net/v/20220218153003519</guid>
-            <pubDate>Fri, 18 Feb 2022 07:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 박찬욱 감독이 단편 '일장춘몽'에 안무가로 참여한 안무가 모니카를 언급했다. 18일 온라인 생중계를 통해 Apple과 박찬욱 감독이 함께 한 새 콜라보 프로젝트 온라인 기자간담회가 진행됐다.&nbsp; 이 자리에서는 박찬욱 감독의 신작 단편영화 '일장춘몽'이 최초 공개됐고,&nbsp;이후 박찬욱 감독과 김우형 촬영 감독, 배우 유해진, 김옥빈]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F18%2Fxportsnews%2F20220218153006399zcax.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[정진운X신혜정X유빈X공민지X천둥 뮤지컬 영화 '러블리 보이스' 5월 개봉[공식]]]></title>
-            <link>https://movie.v.daum.net/v/20220218090332145</link>
-            <guid>https://movie.v.daum.net/v/20220218090332145</guid>
-            <pubDate>Fri, 18 Feb 2022 02:33:59 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 뮤지컬 영화 '러블리 보이스 : 더비기닝'에 정진운-신혜정-유빈-공민지-천둥이 출연한다. 2월 18일 제작사 에이치엘컴퍼니는 "OTT 뮤지컬 영화 '러블리 보이스 : 더비기닝'이 올해 5월 중 개봉될 예정이다"라고 밝혔다. 이날 크랭크인하는 영화 '러블리 보이스 : 더비기닝'(감독 박찬율)은 비정규직 교사 다정과 촉망받는 프로듀서였]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F18%2Fnewsen%2F20220218090332493flxu.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[부모 황혼 이혼에 혼란스러웠던 아들, 그의 선택은?]]></title>
+            <link>https://movie.v.daum.net/v/20220218134805875</link>
+            <guid>https://movie.v.daum.net/v/20220218134805875</guid>
+            <pubDate>Fri, 18 Feb 2022 08:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[[이선필 기자] &nbsp;        ▲ &nbsp;영화 &lt;우리가 사랑이라고 믿는 것&gt; 관련 이미지.    ⓒ 티캐스트  &nbsp; 일상과 순간의 감정을 공유하고 싶어하고 상대의 생각을 궁금해하는 한 여성이 있다. 누군가의 아내이자 한 아들의 어머니인 그는 말을 하면 할수록 외로워 보인다. 좀처럼 가족 내 그 누구도 정확히 그의 마음을 알아주려 하지 않는다고 느끼기 때문이다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F18%2Fohmynews%2F20220218134806285fvua.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
