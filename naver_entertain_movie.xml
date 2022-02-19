@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-19T10:21:11.947Z</updated>
+    <updated>2022-02-19T12:29:25.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['실화탐사대', 정창욱 유튜브 편집자 "폭행·폭언→임금 미지급" 폭로]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003029746</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003029746"/>
+        <updated>2022-02-19T12:27:54.865Z</updated>
+        <content type="html"><![CDATA[정창욱 셰프와 함께 일했던 편집자가 폭행과 폭언을 당한 것은 물론 돈을 한 푼도 받지 못했다고 밝혔다. 19일 방송된 MBC '실화탐사대'에서는 셰프 정창욱의 폭행 사건의 전말이 공개됐고, 정창욱 셰프를 고소한 유튜]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연우진 "깜깜한 극장에서 은밀하지만 솔직한 감정 느껴보시길" [인터뷰M]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000146533</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000146533"/>
+        <updated>2022-02-19T12:27:54.865Z</updated>
+        <content type="html"><![CDATA[‘금기된 사랑과 위험한 유혹’이라는 강렬한 소재와 청소년관람불가의 파격적인 장면으로 2022년 한국영화계의 새로운 시도를 알린 영화 '인민을 위해 복무하라'(장철수 감독)에서 위험한 유혹에 흔들리는 '신무광'을 연기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“내 아들은 괴물이다, 버려야겠다”...아빠는 갓 태어난 자식을 내던졌다 [씨네프레소]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004924164</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005917023"/>
         <updated>2022-02-19T05:15:59.662Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 톰 홀랜드 주연 액션 어드벤처 영화 '언차티드'(감독 루벤 플레셔)가 박스오피스 1위 자리를 재탈환했다. 19일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '언차티드'는 지난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윌리엄 니콜슨 감독 "부모의 이혼, 서른 살이던 나 역시 자책해"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012998691</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012998691"/>
-        <updated>2022-02-19T05:15:59.666Z</updated>
-        <content type="html"><![CDATA[자전적 영화 '우리가 사랑이라고 믿는 것'…"내 이야기여서 직접 연출" '글래디에이터'·'레미제라블' 각본가 출신…"빌 나이·아네트 베닝 연기 마법 같아" (서울=연합뉴스) 오보람 기자 = "부모가 이혼하면 아이는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인민을 위해' 연우진X지안, 금기 넘어선 사랑과 파국..2차 예고편 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003029652</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003029652"/>
-        <updated>2022-02-19T05:15:59.670Z</updated>
-        <content type="html"><![CDATA['인민을 위해 복무하라'가 숨 쉴 틈 없이 휘몰아치는 격정적 서사를 담은 2차 예고편을 공개했다. 최근 '인민을 위해 복무하라'가 금지된 사랑을 배경으로 예측불허한 전개를 암시하는 2차 예고편을 전격 공개했다. 영화]]></content>
     </entry>
 </feed>
