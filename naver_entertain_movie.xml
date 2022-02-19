@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-19T06:23:03.038Z</updated>
+    <updated>2022-02-19T07:17:50.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['지우학' 이유미, 세미 빌런 활약..월드 클래스로 우뚝]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003029706</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003029706"/>
+        <updated>2022-02-19T07:16:21.839Z</updated>
+        <content type="html"><![CDATA['지금 우리 학교는'의 이유미가 월드 클래스로 우뚝 섰다. 지난 1월 넷플릭스 시리즈 '지금 우리 학교는'이 베일을 벗었다. 넷플릭스가 집계하는 '넷플릭스 톱10'에서 3주 연속 글로벌 톱10 TV 비영어 부문 1위]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['드라이브 마이 카', 6만 관객 돌파..봉준호 "2021년 최고의 영화"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003029700</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003029700"/>
+        <updated>2022-02-19T07:16:21.840Z</updated>
+        <content type="html"><![CDATA[봉준호 감독의 극찬을 받은 '드라이브 마이 카'가 6만 관객을 돌파했다. 국내에서 지난해 12월 23일 개봉해 개봉 9주 차 6만 관객을 돌파한 '드라이브 마이 카'는 2022 아카데미 시상식 작품상, 감독상, 각색]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["연기 늘 즐거워" 유인수, '천생 배우'의 초심 [★FULL인터뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003029690</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004665434"/>
         <updated>2022-02-19T05:15:59.708Z</updated>
         <content type="html"><![CDATA[오미크론 변이 대유행으로 하루 확진자 10만 명 시대가 도래했다. 사회 곳곳에서 확진자가 속출하고 있는 가운데 극장가 또한 다시 보릿고개를 맞았다. 극장가 최대 대목인 설 연휴에도 큰 재미를 보지 못했다. 강하늘,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[OTT다방] 7년 전 개봉한 디스토피아 영화…딱 요즘 얘기네?]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004020621</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004020621"/>
-        <updated>2022-02-18T22:19:04.985Z</updated>
-        <content type="html"><![CDATA[[서울경제] 직접 맛보고 추천하는 향긋한 작품 한 잔! 세상의 OTT 다 보고싶은 ‘OTT다방’ 지난달 한 편지를 기점으로 성희롱, 살해 협박, 신상 털이로 고통받은 학생이 있었다. 최근 한 프로배구 선수와 인터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스크린 히어로, 톰 홀랜드[MK스타]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004924089</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004924089"/>
-        <updated>2022-02-18T22:19:04.990Z</updated>
-        <content type="html"><![CDATA['스파이더맨'→'언차티드' 승승장구 中 이젠 ‘믿고 보는’ 흥행 보증 수표다. 지난해 ‘스파이더맨’에 이어 올해에는 ‘언차티드‘로 암울한 극장가를 밝히고 있는 새로운 스크린 히어로, 톰 홀랜드를 두고 하는 말이다.]]></content>
     </entry>
 </feed>
