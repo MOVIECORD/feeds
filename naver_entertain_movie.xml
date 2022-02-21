@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-21T20:21:04.809Z</updated>
+    <updated>2022-02-21T21:17:42.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[톰 홀랜드 “‘언차티드’ 위해 바텐딩 학교 다녀, 술집에서 일하다 쫓겨나”[해외이슈]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003578790</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003578790"/>
+        <updated>2022-02-21T21:16:18.249Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘언차티드’의 톰 홀랜드가 캐릭터를 소화하기 위해 바텐딩 학교를 다녔다고 밝혔다. 그는 20일(현지시간) SiriusXM 인터뷰에서 “영화를 위해 바텐딩 수업을 들었다”고 말했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[톰 홀랜드 ‘언차티드’ 4일 연속 1위 유지‥누적 39만↑[박스오피스]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000544625</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000544625"/>
+        <updated>2022-02-21T21:16:18.255Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 톰 홀랜드 주연 '언차티드'가 4일 연속 박스오피스 1위를 차지했다. 2월 22일 영화진흥위원회 통합전산망 집계에 따르면 21일 외화 '언차티드'가 2만7,185명을 동원하며 전체 박스오피스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기대 이하 성적표 디즈니+…왜 유독 한국에서 부진할까]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011018441</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003578708"/>
         <updated>2022-02-21T08:22:23.552Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]폴 토마스 앤더슨 감독의 가장 낭만적인 마스터피스 '리코리쉬 피자'가 알고 보면 더 재미있는 TMI(Too Much Information) 리스트를 공개하며 관객들의 관람 욕구를 자극하고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CGV '2022 아카데미 기획전' "돈 룩 업, 듄!"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000044062</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000044062"/>
-        <updated>2022-02-21T08:22:23.552Z</updated>
-        <content type="html"><![CDATA[CGV가 23일부터 3월 30일까지 제94회 아카데미 시상식 후보에 오른 17개 작품을 상영하는 &lt;2022 아카데미 기획전&gt;을 개최한다. 제94회 아카데미 시상식은 미국 LA 할리우드 돌비 극장에서 3월 27일(현지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['드마카', 오스카 효과 더해져 6만 돌파…두 달째 장기 상영]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000280259</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000280259"/>
-        <updated>2022-02-21T08:22:23.562Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 오스카를 노리는 일본 영화 '드라이브 마이 카'가 국내 극장가에서도 조용한 돌풍을 일으키고 있다. 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '드라이브 마이 카'는 지난]]></content>
     </entry>
 </feed>
