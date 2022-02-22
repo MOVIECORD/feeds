@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-22T19:16:09.056Z</updated>
+    <updated>2022-02-22T20:20:38.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[톰 홀랜드 ‘언차티드’ 누적 41만 돌파[박스오피스]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000545118</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000545118"/>
+        <updated>2022-02-22T20:19:13.496Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 톰 홀랜드가 주연한 '언차티드'가 5일 연속 박스오피스 1위를 차지했다. 2월 23일 영화진흥위원회 통합전산망 집계에 따르면 22일 외화 '언차티드'가 2만4,291명을 동원하며 전체 박스오피]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화려한 영상미·치밀한 스토리… 어른들을 위한 잔혹동화]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001507284</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000962756"/>
         <updated>2022-02-22T09:18:27.700Z</updated>
         <content type="html"><![CDATA[마블 영화 ‘가디언즈 오브 갤럭시’를 연출한 미국 영화 감독 제임스 건(55)이 20세 연하 배우 제니퍼 홀랜드(35)와 약혼했다. 21일(현지시간) 미국 연예 매체 피플에 따르면 건 감독은 이날 자신의 인스타그램에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팀쿡, 박찬욱 '일장춘몽' 극찬…"韓 문화의 아름다움"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011020693</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011020693"/>
-        <updated>2022-02-22T09:18:27.705Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]유다연 인턴 기자 = 애플 팀 쿡 CEO가 한국의 멋을 알아차렸다. 22일 팀 쿡은 소셜미디어에 "박찬욱의 새로운 작품은 장르를 활용하고 촬영술에 통달한 모습을 보이는 동시에 한국 문화의 아름다움과 힘]]></content>
     </entry>
 </feed>
