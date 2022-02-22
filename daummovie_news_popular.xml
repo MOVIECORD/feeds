@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 16:28:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 17:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F22%2FSPORTSSEOUL%2F20220222091217996zhni.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[노컷 리뷰]'피그' 소중한 것을 잃은 자들의 숭고한 여정]]></title>
+            <link>https://movie.v.daum.net/v/20220222070300579</link>
+            <guid>https://movie.v.daum.net/v/20220222070300579</guid>
+            <pubDate>Tue, 22 Feb 2022 08:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[※ 스포일러 주의 과거도, 이름도, 나 자신조차도 잊고 살 수 있을 거라 생각하지만 상실의 아픔이란 그렇게 단순하지도 않고 가볍지도 않다. 이름도, 존재도 잊힌 채 모든 걸 버리고 숲에 사는 남자가 오랜 은둔을 깨고 나온다는 것은 어찌 보면 잊고 싶었던 모든 것을 다시 마주하겠다는 의미다. 이를 돼지 찾기 여정을 통해 보여주는 영화가 '피그'다. 이름을 버]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F22%2Fnocut%2F20220222070303311qokv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[故 이은주 17주기, 25세 요절한 독보적 여배우..'너무 일찍 진 별']]></title>
             <link>https://movie.v.daum.net/v/20220222094444446</link>
             <guid>https://movie.v.daum.net/v/20220222094444446</guid>
@@ -102,14 +110,6 @@
             <pubDate>Mon, 21 Feb 2022 23:18:52 GMT</pubDate>
             <content:encoded><![CDATA[영화 ‘정직한 후보’. 사진제공 | NEW1편의 흥행 성공에 힘입은 속편 영화가 올해 연이어 관객을 만난다. 설 연휴 개봉한 ‘해적:도깨비 깃발’(해적2)이 기대에 다소 미치지 못한 성과로 아쉬움을 자아내고 있지만, ‘형보다 나은 아우’를 꿈꾸는 또 다른 작품에 관심이 쏠린다. 2014년 866만 관객을 동원한 ‘해적:바다로 간 산적’의 속편인 ‘해적2’]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F22%2Fsportsdonga%2F20220222065718749csaa.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[노컷 리뷰]'피그' 소중한 것을 잃은 자들의 숭고한 여정]]></title>
-            <link>https://movie.v.daum.net/v/20220222070300579</link>
-            <guid>https://movie.v.daum.net/v/20220222070300579</guid>
-            <pubDate>Tue, 22 Feb 2022 08:22:47 GMT</pubDate>
-            <content:encoded><![CDATA[※ 스포일러 주의 과거도, 이름도, 나 자신조차도 잊고 살 수 있을 거라 생각하지만 상실의 아픔이란 그렇게 단순하지도 않고 가볍지도 않다. 이름도, 존재도 잊힌 채 모든 걸 버리고 숲에 사는 남자가 오랜 은둔을 깨고 나온다는 것은 어찌 보면 잊고 싶었던 모든 것을 다시 마주하겠다는 의미다. 이를 돼지 찾기 여정을 통해 보여주는 영화가 '피그'다. 이름을 버]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F22%2Fnocut%2F20220222070303311qokv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["오리지널 수포자" 최민식, 숫자로 전하는 담담한 위로(이상한 나라의 수학자)[종합]]]></title>
