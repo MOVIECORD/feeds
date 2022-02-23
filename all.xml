@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 17:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 18:23:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -271,6 +271,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fc5880afdb5b7c60161f34184e1f466814fec2d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[킹메이커 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=118715</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=118715</guid>
+            <pubDate>Fri, 07 Jan 2022 07:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F825baa1e98d8f33e4801d88b3a302739039c5cc4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[극장판 바다 탐험대 옥토넛 : 해저동굴 대탈출 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=141023</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=141023</guid>
@@ -293,14 +301,6 @@
             <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
             <content:encoded><![CDATA[21.12.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[킹메이커 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=118715</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=118715</guid>
-            <pubDate>Fri, 07 Jan 2022 07:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F825baa1e98d8f33e4801d88b3a302739039c5cc4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[씽2게더 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -639,28 +639,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F23%2Fstarnews%2F20220223074247153wjff.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[SC초점] "'스파이더맨' 이어 '언차티드'까지"..톰 홀랜드로 연명한 코시국 극장 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220223072137751</link>
-            <guid>https://movie.v.daum.net/v/20220223072137751</guid>
-            <pubDate>Tue, 22 Feb 2022 23:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[국내 극장가가 할리우드 스타 톰 홀랜드로 울고 웃었다. 홀랜드는 지난해 12월 마블 액션 블록버스터 '스파이더맨: 노 웨이 홈'(이하 노 웨이 홈)에 이어 지난 16일 액션 영화 '언차티드'를 연달아 공개하며 국내 관객을 만났다. 블록버스터 신작이 전멸한 코시국 극장 상황 속 홀랜드가 밀고 끄는 신작이 연이어 개봉하며 흥행을 주도, 죽어가는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F23%2FSpoChosun%2F20220223072138106qrxw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[화려한 영상미·치밀한 스토리.. 어른들을 위한 잔혹동화 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220223040709486</link>
-            <guid>https://movie.v.daum.net/v/20220223040709486</guid>
-            <pubDate>Wed, 23 Feb 2022 02:35:14 GMT</pubDate>
-            <content:encoded><![CDATA[“이건 내가 아냐.” 야수 같은 모습으로 철창에 갇혀 사람들의 구경거리가 된 기인(奇人)이 공포와 분노에 가득 찬 눈빛으로 혼잣말을 한다. 무일푼으로 떠돌아다니다 서커스에 오게 된 스탠턴(브래들리 쿠퍼)은 홀린 듯 기인을 바라보고 서 있다가 서커스단 주인 클렘(윌렘 데포)에게서 일자리를 제안받는다. 스탠턴은 서커스단에서 만난 독심술사 지나(토니 콜렛)와]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F23%2Fkukminilbo%2F20220223040710763oaqa.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['사전시상·인기상'..변화 꾀하는 오스카, 등 돌린 대중 잡을까 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220223151830881</link>
             <guid>https://movie.v.daum.net/v/20220223151830881</guid>
             <pubDate>Wed, 23 Feb 2022 17:20:05 GMT</pubDate>
             <content:encoded><![CDATA[사진=게티이미지코리아미국 최대 영화상인 아카데미 시상식이 멀어지고 있는 대중의 마음을 다시 붙잡기 위해 변화를 꾀하고 있다. 영화예술아카데미(AMPAS)는 23일(한국시간) “내달 27일 열리는 제95회시상식에서 총 23개의 시상 부문 중 8개 부문은 생중계로 방송하지 않는다”고 전했다. 8개 부문에 포함된 상은 다른 부문들에 비해 상대적으로 대중의 관심]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F23%2Fsportsdonga%2F20220223151833490ypwr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['4살 연상과 불륜→손예진의 새 남자' 연우진, '서른아홉'에 맞은 전환점 [TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220223070301533</link>
+            <guid>https://movie.v.daum.net/v/20220223070301533</guid>
+            <pubDate>Wed, 23 Feb 2022 18:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자] 《김지원의 인서트》 영화 속 중요 포인트를 확대하는 인서트 장면처럼 김지원 텐아시아 기자가 매주 수요일 영화계 이슈를 집중 조명합니다. 입체적 시각으로 화젯거리의 앞과 뒤를 세밀하게 살펴보겠습니다.배우에게 변신은 양날의 검이다. 자신의 또 다른 연기 영역을 선보여 호평 받는 묘수가 될 수도 있고, 맞지 않는 옷을 입었다는 혹평을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F23%2F10asia%2F20220223070304320azwo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[SC초점] "'스파이더맨' 이어 '언차티드'까지"..톰 홀랜드로 연명한 코시국 극장 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220223072137751</link>
+            <guid>https://movie.v.daum.net/v/20220223072137751</guid>
+            <pubDate>Tue, 22 Feb 2022 23:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[국내 극장가가 할리우드 스타 톰 홀랜드로 울고 웃었다. 홀랜드는 지난해 12월 마블 액션 블록버스터 '스파이더맨: 노 웨이 홈'(이하 노 웨이 홈)에 이어 지난 16일 액션 영화 '언차티드'를 연달아 공개하며 국내 관객을 만났다. 블록버스터 신작이 전멸한 코시국 극장 상황 속 홀랜드가 밀고 끄는 신작이 연이어 개봉하며 흥행을 주도, 죽어가는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F23%2FSpoChosun%2F20220223072138106qrxw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<만년이 지나도 변하지 않는 게 있어> 메이킹 필름 (우리 영화 볼래?)]]></title>
@@ -1307,7 +1307,7 @@
             <link>https://tv.naver.com/v/25303880</link>
             <guid>https://tv.naver.com/v/25303880</guid>
             <pubDate>Wed, 23 Feb 2022 09:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_272/Rz7WG_1645607149013qOzdo_JPEG/a289fa2f-9487-11ec-87d4-48df37ae3fca_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1315,7 +1315,7 @@
             <link>https://tv.naver.com/v/25303780</link>
             <guid>https://tv.naver.com/v/25303780</guid>
             <pubDate>Wed, 23 Feb 2022 09:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_253/8xdcM_1645606914384KrTdD_JPEG/f00683bb-9486-11ec-bcec-505dac8c35ff_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1323,7 +1323,7 @@
             <link>https://tv.naver.com/v/25303464</link>
             <guid>https://tv.naver.com/v/25303464</guid>
             <pubDate>Wed, 23 Feb 2022 09:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_17/hg9Lf_1645606189005xDUcp_JPEG/1d3175e6-9483-11ec-a565-48df379ccacc_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1331,7 +1331,7 @@
             <link>https://tv.naver.com/v/25300729</link>
             <guid>https://tv.naver.com/v/25300729</guid>
             <pubDate>Wed, 23 Feb 2022 08:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_18/Br83E_1645599898095z1TqT_JPEG/cc987cea-9476-11ec-92eb-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1339,7 +1339,7 @@
             <link>https://tv.naver.com/v/25300597</link>
             <guid>https://tv.naver.com/v/25300597</guid>
             <pubDate>Wed, 23 Feb 2022 08:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_280/ZIuoo_164559957617574739_JPEG/cf026da4-9475-11ec-a412-a0369ff95678_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1347,7 +1347,7 @@
             <link>https://tv.naver.com/v/25300435</link>
             <guid>https://tv.naver.com/v/25300435</guid>
             <pubDate>Wed, 23 Feb 2022 08:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_296/ZiS0F_1645599246475lO5Jm_JPEG/2bf31c69-9475-11ec-87d4-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1355,7 +1355,7 @@
             <link>https://tv.naver.com/v/25299482</link>
             <guid>https://tv.naver.com/v/25299482</guid>
             <pubDate>Wed, 23 Feb 2022 06:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_47/fZli9_1645596956797hDXCV_JPEG/da55cf5e-946f-11ec-92eb-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1363,7 +1363,7 @@
             <link>https://tv.naver.com/v/25293769</link>
             <guid>https://tv.naver.com/v/25293769</guid>
             <pubDate>Wed, 23 Feb 2022 02:35:50 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_166/BXbKS_1645578978710xmYTo_JPEG/1645578969491.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1371,7 +1371,7 @@
             <link>https://tv.naver.com/v/25293631</link>
             <guid>https://tv.naver.com/v/25293631</guid>
             <pubDate>Wed, 23 Feb 2022 02:35:50 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_139/YuRh2_1645578432575UETEV_JPEG/98d2ee88-9444-11ec-87d4-48df37ae3fca_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
