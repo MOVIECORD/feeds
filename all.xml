@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 12:32:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 13:23:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -215,20 +215,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcfb87a998ee56aa40424b98ff57417953704a6cd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[피그 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151551</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151551</guid>
-            <pubDate>Mon, 07 Feb 2022 10:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec5d488e21478c0b7d565bcbd75523719209bbb7" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[나이트메어 앨리 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150896</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150896</guid>
             <pubDate>Wed, 16 Feb 2022 16:25:20 GMT</pubDate>
             <content:encoded><![CDATA[22.02.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1f54e7248dbebea9649b47176f1f8dacdc2eb9eb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[피그 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151551</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151551</guid>
+            <pubDate>Mon, 07 Feb 2022 10:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec5d488e21478c0b7d565bcbd75523719209bbb7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[해적: 도깨비 깃발 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -263,6 +263,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb6c357f9a1f7e93d228d67ef60e1185e25c56065" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[스파이더맨: 노 웨이 홈 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=146656</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=146656</guid>
+            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fc5880afdb5b7c60161f34184e1f466814fec2d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[씽2게더 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=138207</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=138207</guid>
@@ -285,14 +293,6 @@
             <pubDate>Fri, 07 Jan 2022 07:18:53 GMT</pubDate>
             <content:encoded><![CDATA[22.01.26]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F825baa1e98d8f33e4801d88b3a302739039c5cc4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[스파이더맨: 노 웨이 홈 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=146656</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=146656</guid>
-            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fc5880afdb5b7c60161f34184e1f466814fec2d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 바다 탐험대 옥토넛 : 해저동굴 대탈출 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -319,6 +319,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0235b8e9c0048e4301f8c9c74da929863e33456" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[극장판 안녕 자두야: 제주도의 비밀 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156603</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156603</guid>
+            <pubDate>Wed, 23 Feb 2022 13:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ee3e94ab72ab91fbb2dce546aa5a79152bb9901" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[전투왕 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157081</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157081</guid>
@@ -333,14 +341,6 @@
             <pubDate>Sun, 20 Feb 2022 05:16:25 GMT</pubDate>
             <content:encoded><![CDATA[22.02.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F126F1B10AB8BAE5D51" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[나의 촛불 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138913</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138913</guid>
-            <pubDate>Wed, 23 Feb 2022 05:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6409063751c1662760b10d83406c7be116e61708" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[더 배트맨 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -535,14 +535,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F23%2Fpoctan%2F20220223113322794bknr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[백윤식, 9년 전 막장 로맨스의 악몽 되풀이.."법적 조치 검토" [종합] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220223133842062</link>
-            <guid>https://movie.v.daum.net/v/20220223133842062</guid>
-            <pubDate>Wed, 23 Feb 2022 05:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 12일 오후 서울 중구 메가박스 동대문점에서 열린 영화 '관상' 제작보고회 /사진=최부석 기자 my2eye@배우 백윤식(75)의 막장 로맨스 악몽이 되풀이 되는 모양새다. 백윤식과 9년 전 헤어진 30살 연하의 기자 출신 K씨가 에세이를 발간, 두 사람 사이에 있었던 이야기를 폭로했다. 이에 백윤식 측은 법적 조치를 검토 중이다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F23%2Fstarnews%2F20220223133843446txrs.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['닥터..' '더 배트맨'..히어로물 잔치 이어진다 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220222175501431</link>
             <guid>https://movie.v.daum.net/v/20220222175501431</guid>
@@ -551,20 +543,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F23%2Fked%2F20220223014205672iopg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[백윤식, 9년 전 막장 로맨스의 악몽 되풀이.."법적 조치 검토" [종합] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220223133842062</link>
+            <guid>https://movie.v.daum.net/v/20220223133842062</guid>
+            <pubDate>Wed, 23 Feb 2022 05:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 12일 오후 서울 중구 메가박스 동대문점에서 열린 영화 '관상' 제작보고회 /사진=최부석 기자 my2eye@배우 백윤식(75)의 막장 로맨스 악몽이 되풀이 되는 모양새다. 백윤식과 9년 전 헤어진 30살 연하의 기자 출신 K씨가 에세이를 발간, 두 사람 사이에 있었던 이야기를 폭로했다. 이에 백윤식 측은 법적 조치를 검토 중이다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F23%2Fstarnews%2F20220223133843446txrs.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[인종차별, 성차별은 없다? 유명 흑인작가의 증명 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220223103900863</link>
             <guid>https://movie.v.daum.net/v/20220223103900863</guid>
             <pubDate>Wed, 23 Feb 2022 09:16:26 GMT</pubDate>
             <content:encoded><![CDATA[[장혜령 기자] ▲ &nbsp;영화 &lt;안테벨룸&gt; 스틸컷    ⓒ (주)올스타엔터테인먼트  &nbsp; 지금도 끝나지 않고 있는 과거의 인종차별. 과거는 결코 죽지 않는다. 심지어 아직 다 지나가지도 않았다. 해결되지 못한 과거는 반드시 다시 나타난다. &lt;안테벨룸&gt;은 상징과 직설을 자유자재로 구사하며 인종차별과 여성차별의 목소리를 드높인다. 미스터리 스릴러의 성]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F23%2Fohmynews%2F20220223103903077lzps.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[청불 멜로 '인민을 위해', 오늘(23일) 개봉..韓 영화 예매율 1위 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220223074245006</link>
-            <guid>https://movie.v.daum.net/v/20220223074245006</guid>
-            <pubDate>Wed, 23 Feb 2022 02:35:14 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 인민을 위해 복무하라 / 사진=영화 포스터'인민을 위해 복무하라'가 개봉과 함께 동시기 개봉작 예매율 1위에 등극했다. '인민을 위해 복무하라'는 출세를 꿈꾸는 모범병사 '무광'(연우진)이 사단장의 젊은 아내 '수련'(지안)과의 만남으로 인해 넘어서는 안 될 신분의 벽과 빠져보고 싶은 위험한 유혹 사이에서 갈등하며 벌어지는 이야]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F23%2Fstarnews%2F20220223074247153wjff.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[영화인 503명, 위기 韓영화 정책 제안 "긴급예산 편성" [무비노트] (다음영화 뉴스 ─ 인기)]]></title>
@@ -583,6 +575,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F23%2Fstartoday%2F20220223161803155refl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[청불 멜로 '인민을 위해', 오늘(23일) 개봉..韓 영화 예매율 1위 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220223074245006</link>
+            <guid>https://movie.v.daum.net/v/20220223074245006</guid>
+            <pubDate>Wed, 23 Feb 2022 02:35:14 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 인민을 위해 복무하라 / 사진=영화 포스터'인민을 위해 복무하라'가 개봉과 함께 동시기 개봉작 예매율 1위에 등극했다. '인민을 위해 복무하라'는 출세를 꿈꾸는 모범병사 '무광'(연우진)이 사단장의 젊은 아내 '수련'(지안)과의 만남으로 인해 넘어서는 안 될 신분의 벽과 빠져보고 싶은 위험한 유혹 사이에서 갈등하며 벌어지는 이야]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F23%2Fstarnews%2F20220223074247153wjff.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[개봉 D-DAY '시라노', 타임리스 로맨스→피터 딘클리지 열연..필람 이유 셋 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220223115648573</link>
             <guid>https://movie.v.daum.net/v/20220223115648573</guid>
@@ -599,6 +599,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F23%2Fpoctan%2F20220223155230611cgde.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[수학도 잘하고 인생도 잘사는 법..영화 '이상한 나라의 수학자' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220223113916923</link>
+            <guid>https://movie.v.daum.net/v/20220223113916923</guid>
+            <pubDate>Wed, 23 Feb 2022 12:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 오보람 기자 = 대학의 '급'을 가장 크게 좌지우지하는 과목. 그래서 부모들이 쓰는 전체 사교육비 가운데 절반을 차지한다는 과목. 그런데도 수험생 3할 이상이 포기해버린다는 바로 그 과목. 수학을 잘하려면 대체 어떻게 해야 하는 걸까. 수학 내신 9등급 고등학생 지우(김동휘 분)는 머리가 타고나거나 노력을 엄청나게 하면 되지 않느냐고 반문]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F23%2Fyonhap%2F20220223113916403qnfd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['미인', 밀당의 시대 토종쌀 지키는 농부들 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220223154407028</link>
             <guid>https://movie.v.daum.net/v/20220223154407028</guid>
@@ -607,12 +615,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F23%2Ftvdaily%2F20220223154412022iksu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[수학도 잘하고 인생도 잘사는 법..영화 '이상한 나라의 수학자' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220223113916923</link>
-            <guid>https://movie.v.daum.net/v/20220223113916923</guid>
+            <title><![CDATA[다섯 커플의 임신, 다섯 번의 기적 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220223140900340</link>
+            <guid>https://movie.v.daum.net/v/20220223140900340</guid>
+            <pubDate>Wed, 23 Feb 2022 06:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[[김준모 기자] &nbsp;        ▲ &nbsp;&lt;세라비&gt; 포스터    ⓒ ㈜트리플픽쳐스  &nbsp; 프랑스어인 세라비(C'est la vie)는 '그것이 인생이다'라는 뜻을 지니고 있다. 독특한 점은 긍정적인 상황과 부정적인 상황에서 모두 사용이 가능하다는 점이다. 프랑스 영화 &lt;세라비: 다섯 번의 기적&gt;은 다섯 쌍의 커플이 '임신'을 소재로 엮인 옴니버스 드라마다. 생명]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F23%2Fohmynews%2F20220223140901736qlor.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['나의 히어로 아카데미아 더 무비' 3월9일 개봉..日애니 붐 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220223162753801</link>
+            <guid>https://movie.v.daum.net/v/20220223162753801</guid>
             <pubDate>Wed, 23 Feb 2022 12:31:11 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 오보람 기자 = 대학의 '급'을 가장 크게 좌지우지하는 과목. 그래서 부모들이 쓰는 전체 사교육비 가운데 절반을 차지한다는 과목. 그런데도 수험생 3할 이상이 포기해버린다는 바로 그 과목. 수학을 잘하려면 대체 어떻게 해야 하는 걸까. 수학 내신 9등급 고등학생 지우(김동휘 분)는 머리가 타고나거나 노력을 엄청나게 하면 되지 않느냐고 반문]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F23%2Fyonhap%2F20220223113916403qnfd.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 일본 애니메이션 '나의 히어로 아카데미아 더 무비: 월드 히어로즈 미션'이 3월 9일 개봉을 확정했다. 23일 배급사 스마일이엔티는 이 같은 소식을 전했다. '나의 히어로 아카데미아 더 무비: 월드 히어로즈 미션'은 총 인구의 80%가 개성이라는 초능력을 가진 세계에서 무개성 소년 미도리야 이즈쿠가 최고의 히어로가 되기 위해 성장]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F23%2Fstarnews%2F20220223162754744lojx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[SC초점] "'스파이더맨' 이어 '언차티드'까지"..톰 홀랜드로 연명한 코시국 극장 (다음영화 뉴스 ─ 인기)]]></title>
@@ -639,28 +655,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F22%2Fpoctan%2F20220222112406905ozkr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[다섯 커플의 임신, 다섯 번의 기적 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220223140900340</link>
-            <guid>https://movie.v.daum.net/v/20220223140900340</guid>
-            <pubDate>Wed, 23 Feb 2022 06:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[[김준모 기자] &nbsp;        ▲ &nbsp;&lt;세라비&gt; 포스터    ⓒ ㈜트리플픽쳐스  &nbsp; 프랑스어인 세라비(C'est la vie)는 '그것이 인생이다'라는 뜻을 지니고 있다. 독특한 점은 긍정적인 상황과 부정적인 상황에서 모두 사용이 가능하다는 점이다. 프랑스 영화 &lt;세라비: 다섯 번의 기적&gt;은 다섯 쌍의 커플이 '임신'을 소재로 엮인 옴니버스 드라마다. 생명]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F23%2Fohmynews%2F20220223140901736qlor.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["'언차티드' 개봉 첫주 1억불 돌파", 소니픽쳐스 회장 신났다..속편 청신호[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220222160610246</link>
-            <guid>https://movie.v.daum.net/v/20220222160610246</guid>
-            <pubDate>Wed, 23 Feb 2022 02:35:14 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]소니픽쳐스 회장 톰 로스먼이 톰 홀랜드 주연의 ‘언차티드’ 흥행 성공에 활짝 웃었다. 그는 21일(현지시간) 소니픽쳐스 전 직원에 이메일을 보내 ‘언차티드’의 성공은 팬데믹 상황에서도 극장 수요가 강력히 살아있다는 것을 증명한다고 강조했다. 롬 로스먼은 이메일을 통해 “친애하는 동료 여러분, 오늘은 미국의 대통령의 날이다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F22%2Fmydaily%2F20220222160610057bilr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['나의 히어로 아카데미아 더 무비' 3월9일 개봉..日애니 붐 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220223162753801</link>
-            <guid>https://movie.v.daum.net/v/20220223162753801</guid>
-            <pubDate>Wed, 23 Feb 2022 12:31:11 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 일본 애니메이션 '나의 히어로 아카데미아 더 무비: 월드 히어로즈 미션'이 3월 9일 개봉을 확정했다. 23일 배급사 스마일이엔티는 이 같은 소식을 전했다. '나의 히어로 아카데미아 더 무비: 월드 히어로즈 미션'은 총 인구의 80%가 개성이라는 초능력을 가진 세계에서 무개성 소년 미도리야 이즈쿠가 최고의 히어로가 되기 위해 성장]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F23%2Fstarnews%2F20220223162754744lojx.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[톰 홀랜드 '언차티드', 5일 연속 박스오피스 1위..40만 돌파 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220223111207547</link>
+            <guid>https://movie.v.daum.net/v/20220223111207547</guid>
+            <pubDate>Wed, 23 Feb 2022 13:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 톰 홀랜드 주연의 액션 영화 '언차티드'가 5일 연속 일일 박스오피스 1위를 차지했다.&nbsp; 23일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '언차티드'는 22일 전국 2만 4,295명의 관객을 동원했다. 누적 관객 수는 41만 6,570명. 지난 16일 개봉한 '언차티드'는 첫 날 관객 7만278명을 동원해 박스]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F23%2FSBSfunE%2F20220223111209157tzcw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['더 배트맨' 맷 리브스 감독도 만족한 'VENGEANCE' 뮤비 (다음영화 뉴스 ─ 최신)]]></title>
@@ -1467,7 +1467,7 @@
             <link>https://tv.naver.com/v/25303880</link>
             <guid>https://tv.naver.com/v/25303880</guid>
             <pubDate>Wed, 23 Feb 2022 09:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_272/Rz7WG_1645607149013qOzdo_JPEG/a289fa2f-9487-11ec-87d4-48df37ae3fca_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1475,7 +1475,7 @@
             <link>https://tv.naver.com/v/25303780</link>
             <guid>https://tv.naver.com/v/25303780</guid>
             <pubDate>Wed, 23 Feb 2022 09:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_253/8xdcM_1645606914384KrTdD_JPEG/f00683bb-9486-11ec-bcec-505dac8c35ff_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1483,7 +1483,7 @@
             <link>https://tv.naver.com/v/25303464</link>
             <guid>https://tv.naver.com/v/25303464</guid>
             <pubDate>Wed, 23 Feb 2022 09:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_17/hg9Lf_1645606189005xDUcp_JPEG/1d3175e6-9483-11ec-a565-48df379ccacc_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1491,7 +1491,7 @@
             <link>https://tv.naver.com/v/25300729</link>
             <guid>https://tv.naver.com/v/25300729</guid>
             <pubDate>Wed, 23 Feb 2022 08:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_18/Br83E_1645599898095z1TqT_JPEG/cc987cea-9476-11ec-92eb-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1499,7 +1499,7 @@
             <link>https://tv.naver.com/v/25300597</link>
             <guid>https://tv.naver.com/v/25300597</guid>
             <pubDate>Wed, 23 Feb 2022 08:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_280/ZIuoo_164559957617574739_JPEG/cf026da4-9475-11ec-a412-a0369ff95678_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1507,7 +1507,7 @@
             <link>https://tv.naver.com/v/25300435</link>
             <guid>https://tv.naver.com/v/25300435</guid>
             <pubDate>Wed, 23 Feb 2022 08:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_296/ZiS0F_1645599246475lO5Jm_JPEG/2bf31c69-9475-11ec-87d4-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1515,7 +1515,7 @@
             <link>https://tv.naver.com/v/25299482</link>
             <guid>https://tv.naver.com/v/25299482</guid>
             <pubDate>Wed, 23 Feb 2022 06:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_47/fZli9_1645596956797hDXCV_JPEG/da55cf5e-946f-11ec-92eb-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1523,7 +1523,7 @@
             <link>https://tv.naver.com/v/25293769</link>
             <guid>https://tv.naver.com/v/25293769</guid>
             <pubDate>Wed, 23 Feb 2022 02:35:50 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_166/BXbKS_1645578978710xmYTo_JPEG/1645578969491.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1531,7 +1531,7 @@
             <link>https://tv.naver.com/v/25293631</link>
             <guid>https://tv.naver.com/v/25293631</guid>
             <pubDate>Wed, 23 Feb 2022 02:35:50 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_139/YuRh2_1645578432575UETEV_JPEG/98d2ee88-9444-11ec-87d4-48df37ae3fca_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
