@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-27T13:21:50.818Z</updated>
+    <updated>2022-02-27T14:18:52.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA["내 남자친구야"..'스물다섯 스물하나' 김태리, 남주혁에 최태준 소개[★밤TView]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003031915</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003031915"/>
-        <updated>2022-02-27T13:20:27.387Z</updated>
-        <content type="html"><![CDATA['스물다섯 스물하나'의 김태리가 남주혁에게 자신의 남자친구인 최태준을 소개했다. 27일 방송된 tvN 토일드라마 '스물다섯 스물하나'에서는 6개월 만에 재회하는 나희도(김태리 분)와 백이진(남주혁 분)의 모습이 그려]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[김성호 감독·전양준 前부국제 집행위원장, 7회 울주산악영화제 심사위원 발탁[공식]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004564964</id>
@@ -179,5 +172,12 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002343893"/>
         <updated>2022-02-26T10:19:32.761Z</updated>
         <content type="html"><![CDATA[[나를 키운 여자들] &lt;아워바디&gt; 속 자영 근육이라고는 하나도 없는 팔, 거북이처럼 굽은 목과 어깨, 초점 없는 눈. 서른한 살 자영(최희서)은 8년째 행정고시를 준비하고 있다. 이제는 시험 당일 컨디션 조절만 잘하]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[순옥, 왈패, 사다코…‘위안부’ 피해자 김순악의 이름들]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002580728</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002580728"/>
+        <updated>2022-02-27T14:17:27.636Z</updated>
+        <content type="html"><![CDATA[☞무료 뉴스레터 구독하기 https://bit.ly/319DiiE “김순악, 김순옥, 왈패, 사다코, 데루코, 요시코, 마쓰다케, 위안부, 기생, 마마상, 식모, 엄마, 할매, 미친개, 술쟁이, 개잡년, 깡패할매,]]></content>
     </entry>
 </feed>
