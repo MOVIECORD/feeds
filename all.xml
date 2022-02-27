@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 15:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 16:27:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -215,20 +215,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8794ab82e2da32c0efa0187c65735d6249e37d43" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[해적: 도깨비 깃발 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=127223</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=127223</guid>
-            <pubDate>Thu, 06 Jan 2022 15:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbaf8081db50faf38eec7a4001b81c201980e68a5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[나이트메어 앨리 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150896</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150896</guid>
             <pubDate>Wed, 16 Feb 2022 16:25:20 GMT</pubDate>
             <content:encoded><![CDATA[22.02.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1f54e7248dbebea9649b47176f1f8dacdc2eb9eb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[해적: 도깨비 깃발 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=127223</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=127223</guid>
+            <pubDate>Thu, 06 Jan 2022 15:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbaf8081db50faf38eec7a4001b81c201980e68a5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[광대: 소리꾼 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -271,6 +271,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe81c662b5e2ccae35acceaa153a1fa31b59070b1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[시라노 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154521</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154521</guid>
+            <pubDate>Mon, 07 Feb 2022 09:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbad4d2ce30349f4eff5f095247d222550ed91c83" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[우리가 사랑이라고 믿는 것 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=134485</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=134485</guid>
@@ -285,14 +293,6 @@
             <pubDate>Fri, 28 Jan 2022 16:26:58 GMT</pubDate>
             <content:encoded><![CDATA[22.02.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb6c357f9a1f7e93d228d67ef60e1185e25c56065" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[시라노 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154521</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154521</guid>
-            <pubDate>Mon, 07 Feb 2022 09:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbad4d2ce30349f4eff5f095247d222550ed91c83" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 바다 탐험대 옥토넛 : 해저동굴 대탈출 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -622,6 +622,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F27%2Fnewsy%2F20220227144828261cfhj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[英가디언, "매드맥스 불화, 페미니즘 영화에서 나왔단 사실에 실망" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220226162014504</link>
+            <guid>https://movie.v.daum.net/v/20220226162014504</guid>
+            <pubDate>Sun, 27 Feb 2022 16:25:57 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘매드맥스: 분노의 도로’ 스틸컷. [스포츠서울 | 황혜정 인턴기자] 영국 ‘가디언’이 영화 ‘매드맥스: 분노의 도로’ 촬영 당시 있었던 샤를리즈 테론(46)과 톰 하디(44)의 불화에 대해 새로운 시각을 내놓았다. 최근 출간된 ‘매드맥스: 분노의 도로’ 영화 제작 여정을 담은 책 ‘Blood, Sweat, and Chrome: W]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F26%2FSPORTSSEOUL%2F20220226162338831pyvs.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[이준익 감독, 디렉터스컷 첫 수상 vs 백윤식, 전 연인 에세이 출간 [업앤다운] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220227100001495</link>
             <guid>https://movie.v.daum.net/v/20220227100001495</guid>
@@ -646,20 +654,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F26%2Filgansports%2F20220226211614073hplm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[극장가 끝없는 침체..'더 배트맨' 구원투수 될까 [N초점] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220227060028546</link>
-            <guid>https://movie.v.daum.net/v/20220227060028546</guid>
-            <pubDate>Sun, 27 Feb 2022 07:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 신종 코로나바이러스 감염증(코로나19) 변이 바이러스 오미크론의 확산세가 이어지면서 극장가 침체도 지속되고 있다. 지난해 11월 잠시 '위드 코로나'로 방역 체계가 전환되면서 극장 관객수가 회복세로 돌아설 수 있을지 기대하는 분위기가 있었다. 하지만 오미크론이 우세종이 되면서 기회로 여겨졌던 설 연휴 명절 특수도 사실상]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F27%2FNEWS1%2F20220227060028604slgw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['힘내, 봄!' 이기영 "방송서 번 돈으로 연극 올려..현실 슬프다" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220226212834673</link>
-            <guid>https://movie.v.daum.net/v/20220226212834673</guid>
-            <pubDate>Sun, 27 Feb 2022 15:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이기영이 안타까운 연극계 상황을 전했다. 26일 서울 동작구 동작대로 메가박스 아트나인 실내테라스에서 열린 '힐링 콘서트 - 힘내, 봄!' 행사에서 2부 토크 타임 스페셜 MC로 나선 더불어민주당 이재명 후보는 이기영에게 "세상사에 대한 생각 많은 것 같다"는 질문을 던졌다. 이에 이기영 "사실 공연, 예술을 하는 사람들은 좋아서 시작했고 좋으니]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F26%2Filgansports%2F20220226212837017mivt.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[순옥, 왈패, 사다코..'위안부' 피해자 김순악의 이름들 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220226160602303</link>
+            <guid>https://movie.v.daum.net/v/20220226160602303</guid>
+            <pubDate>Sun, 27 Feb 2022 16:25:57 GMT</pubDate>
+            <content:encoded><![CDATA[☞무료 뉴스레터 구독하기 https://bit.ly/319DiiE “김순악, 김순옥, 왈패, 사다코, 데루코, 요시코, 마쓰다케, 위안부, 기생, 마마상, 식모, 엄마, 할매, 미친개, 술쟁이, 개잡년, 깡패할매, 순악씨.” 셀 수 없이 많은 이름으로 불렸던 한 사람이 있었다. 우리에게는 일본군 ‘위안부’ 피해 생존자 김순악 할머니로 알려져 있는 이. 그]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F26%2Fhani%2F20220226160605115sryz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<블러디 빌리지> 예고편 (우리 영화 볼래?)]]></title>
