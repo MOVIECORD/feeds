@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 23:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 01:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,20 +56,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa14c44098029f19485400580d5b9bad9161bc9bb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[해적: 도깨비 깃발]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=127223</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=127223</guid>
-            <pubDate>Wed, 26 Jan 2022 01:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbaf8081db50faf38eec7a4001b81c201980e68a5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[피그]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151551</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151551</guid>
             <pubDate>Wed, 23 Feb 2022 02:35:00 GMT</pubDate>
             <content:encoded><![CDATA[22.02.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec5d488e21478c0b7d565bcbd75523719209bbb7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[해적: 도깨비 깃발]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=127223</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=127223</guid>
+            <pubDate>Wed, 26 Jan 2022 01:07:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbaf8081db50faf38eec7a4001b81c201980e68a5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스파이더맨: 노 웨이 홈]]></title>
@@ -128,14 +128,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb3047b13f3da6fa0f486ccd55269a11a2891356c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[리코리쉬 피자]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154397</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154397</guid>
-            <pubDate>Tue, 15 Feb 2022 23:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc19dfdd279275c1aea9b0c4dba703474815cf470" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[씽2게더]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=138207</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=138207</guid>
@@ -150,6 +142,14 @@
             <pubDate>Sat, 26 Feb 2022 08:21:11 GMT</pubDate>
             <content:encoded><![CDATA[22.02.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0235b8e9c0048e4301f8c9c74da929863e33456" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[리코리쉬 피자]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154397</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154397</guid>
+            <pubDate>Tue, 15 Feb 2022 23:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc19dfdd279275c1aea9b0c4dba703474815cf470" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[드라이브 마이 카]]></title>
