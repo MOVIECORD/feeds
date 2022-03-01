@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-01T07:19:18.410Z</updated>
+    <updated>2022-03-01T10:22:27.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[리뷰-영화 '시라노']연애편지를 대신 써준 남자, 편지 덕에 사랑에 빠진 여자… 진짜 사랑은 무엇일까]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004024545</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004024545"/>
+        <updated>2022-03-01T10:21:03.009Z</updated>
+        <content type="html"><![CDATA[[서울경제] 17세기 프랑스, 사랑하는 사람을 향해 연애편지를 보내는 남성이 있다. 하지만 그가 쓰는 연애편지는 다른 남자의 부탁을 받고 그 이름으로 대필한 것이다. 수신자인 여성은 본심을 남의 이름으로 담은 편지]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Actor Lee Young-ae donates 100 million won to Ukraine]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000021762</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000021762"/>
+        <updated>2022-03-01T10:21:03.010Z</updated>
+        <content type="html"><![CDATA[Actor Lee Young-ae donated 100 million won ($83,470) to Ukraine, according to a post on social media by the Ukrainian Am]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이영애, 우크라이나에 1억 기부 "전쟁의 참혹함 뼈저리게 느껴"[스타이슈]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003032309</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000044325"/>
         <updated>2022-02-28T23:19:26.655Z</updated>
         <content type="html"><![CDATA[이상희가 ‘소년심판’에서 남다른 존재감을 보여주고 있다. 넷플릭스 오리지널 ‘소년심판’은 소년범을 ‘혐오하는’ 판사 심은석(김혜수 분)이 지방법원 소년부에 부임하면서 마주하게 되는 소년범죄와 그들을 담당하는 판사들의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘더 배트맨’ 가장 완벽한 리셋 “이제는 조커와 헤어져도 될 시간”[영화보고서:리뷰]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000547261</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000547261"/>
-        <updated>2022-02-28T23:19:26.656Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 허민녕 기자] 모든 시리즈를 통틀어 가장 완벽한 ‘리셋’(Reset). ‘조커’는 이제 보내줘도 될 것 같다. 영화 ‘더 배트맨’이다. 이런 생각도 든다. 개봉을 지난 해 말로 조금 더 서둘렀더라면 히어로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[언차티드·태연·신사·스물다섯·소년심판, 1위 [한눈에 보는 엔터차트]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005937879</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005937879"/>
-        <updated>2022-02-28T23:19:26.660Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = ◆ 영화='언차티드' 1위(영화진흥위원회 영화관입장권통합전산망 2022년 2월25~27일) 2월 넷째주 주말 박스오피스 1위는 톰 홀랜드 주연의 영화 '언차티드'가 2주째 1위를 유지]]></content>
     </entry>
 </feed>
