@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-01T20:21:38.241Z</updated>
+    <updated>2022-03-01T21:18:54.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[슈퍼히어로·재난 대작 몰려온다…외화 강세 지속]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005157564</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005157564"/>
+        <updated>2022-03-01T21:17:21.801Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 박미애 기자]할리우드 영화가 지난해 이어 올해도 코로나19 시국의 극장가를 받친다. 3월 ‘더 배트맨’부터 ‘문폴’ ‘모비우스’ 등 슈퍼히어로 및 재난 블록버스터가 개봉을 대기중이다. 1일 개봉한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["따끈따끈한 신작 왔어요"…넷플릭스 최신 공개 작품들 [TF프리즘]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000135350</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013019939"/>
         <updated>2022-02-28T23:19:26.648Z</updated>
         <content type="html"><![CDATA[영화 '그 남자는 타이타닉을 보고 싶지 않았다'…베네치아 관객상 수상작 (서울=연합뉴스) 오보람 기자 = "프리덤!"(Freedom) 집을 나서 택시를 탄 남자 야코(페트리 포이콜라이넨 분)가 얼굴을 감싸는 햇살을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로버트 패틴슨과 다시 반복한 이야기 '더 배트맨' [시네마 프리뷰]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005937902</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005937902"/>
-        <updated>2022-02-28T23:19:26.648Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = DC코믹스의 배트맨이 새로운 스타와 함께 돌아왔다. 할리우드 배우 로버트 패틴슨이 주연을 맡은 '더 배트맨'이 극장가를 찾아온 것. 새로운 캐스팅의 '더 배트맨'은 176분이라는 긴]]></content>
     </entry>
 </feed>
