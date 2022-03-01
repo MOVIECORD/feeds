@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-01T06:24:53.134Z</updated>
+    <updated>2022-03-01T07:19:18.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이영애, 우크라이나에 1억 기부 "전쟁의 참혹함 뼈저리게 느껴"[스타이슈]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003032309</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003032309"/>
+        <updated>2022-03-01T07:17:53.786Z</updated>
+        <content type="html"><![CDATA[배우 이영애가 러시아 침공에 피해를 입고 있는 우크라이나를 응원하며 1억 원을 기부했다. 주한 우크라이나 대사 드미트로 포노마렌코는 1일 트위터에 "우크라이나를 지지하는 한국 여배우 이영애의 편지와 재정적 도움에 매]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이석준, ‘더데빌’ 성료 소감…“끝없이 발전할 터”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000605981</id>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[[20대 대선, 서사로 읽는 한국 정치 6] 로빈 윌리엄스의 풍자 코미디 &lt;맨 오브 더 이어&gt; 여러모로 역대급 대선입니다. 국내외 영화와 드라마, 다큐멘터리로 20대 대선과 한국정치를 읽습니다. 어떤 후보와 정당이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[댕기머리→"만세" 한국어 축하..이정재X정호연, 수상 비하인드 [★NEWSing]]]></title>
+        <title type="html"><![CDATA[댕기머리→"만세" 한국어 축하..이정재X정호연, 수상 비하인드 [★FOCUS]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003032285</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003032285"/>
         <updated>2022-03-01T06:23:22.805Z</updated>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005937879"/>
         <updated>2022-02-28T23:19:26.660Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = ◆ 영화='언차티드' 1위(영화진흥위원회 영화관입장권통합전산망 2022년 2월25~27일) 2월 넷째주 주말 박스오피스 1위는 톰 홀랜드 주연의 영화 '언차티드'가 2주째 1위를 유지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로버트 패틴슨의 '더 배트맨', 응원하게 되는 묘한 마력 [마데핫리뷰]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003580705</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003580705"/>
-        <updated>2022-02-28T23:19:26.660Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 서툴고 미숙하지만 올곧은 소신에 야심을 갖췄다. 시민의 안위를 위해서라면 기꺼이 몸을 던지는 희생정신도 뛰어나다. 영화 '더 배트맨'(감독 맷 리브스) 속 브루스 웨인(로버트 패틴슨)은]]></content>
     </entry>
 </feed>
