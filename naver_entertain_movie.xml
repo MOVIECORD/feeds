@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-02T10:22:17.076Z</updated>
+    <updated>2022-03-02T13:24:19.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KCM "영화 주연 발탁…힘들다"…최환희, 귀가 쫑긋]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011037404</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011037404"/>
+        <updated>2022-03-02T13:22:44.165Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]황지향 인턴 기자 = 故 최진실 아들, 최환희(지플랫)와 KCM이 서로를 놀라게 한다. 2일 오후 10시 40분에 방송하는 KBS 2TV 예능 프로그램 '新가족관계증명서 갓파더'(이하 '갓파더')에서는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국제영화비평가연맹, 러시아 문화행사 보이콧 선언]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004669788</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004669788"/>
+        <updated>2022-03-02T13:22:44.169Z</updated>
+        <content type="html"><![CDATA[국제영화비평가연맹(FIPRESCI·피프레시) 한국본부가 러시아의 우크라이나 침공을 규탄하며 러시아가 관계된 문화행사에 참여하지 않겠다고 선언했다. 피프레시 한국본부는 2일 ‘러시아의 우크라이나 침공 반대 성명’을 내]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[칸 영화제, 러시아 대표단 초청 않기로]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000796571</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000044368"/>
         <updated>2022-03-02T09:18:00.265Z</updated>
         <content type="html"><![CDATA[디즈니+의 첫 UHD 오리지널 시리즈 &lt;그리드&gt; 서강준과 김아중이 진실을 찾기 위해 '따로 또 같이' 공조를 시작한다. 디즈니+의 오리지널 시리즈 &lt;그리드&gt; 지난 2회에서 김새하(서강준)는 부국장 최선울(장소연)의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조던 필×스티븐 연 신작 ‘놉’ 7월 국내 개봉 확정]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000547823</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000547823"/>
-        <updated>2022-03-02T09:18:00.268Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 허민녕 기자] 한국 팬이 지어준 ‘한국어 애칭’으로 자신을 공개적으로 소개하는 사람. 이 정도면 그의 K-러브는 ‘진짜’가 아닐까. 할리우드 가장 주목하는 감독 조던 필 신작 ‘놉’(NOPE)이 7월 국내]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국제영화비평가연맹, 러시아 보이콧 동참…"우크라이나와 연대"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001416092</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001416092"/>
-        <updated>2022-03-02T09:18:00.268Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 전 세계 영화계가 우크라이나를 침공한 러시아에 대한 보이콧을 선언했다. 국제영화비평가연맹(FIPRESCI·피프레시) 한국본부는 2일 성명서를 통해 "'침묵하지 말라'고 호소하는 우크라이나]]></content>
     </entry>
 </feed>
