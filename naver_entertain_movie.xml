@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-02T19:17:04.259Z</updated>
+    <updated>2022-03-02T21:17:04.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“아이언맨·캡아 떠났다, 닥터 스트레인지가 MCU의 정신적 지주”, 마블 수장의 자신감[해외이슈]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003581222</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003581222"/>
+        <updated>2022-03-02T21:15:22.803Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘아이언맨’(로버트 다우니 주니어)와 ‘캡틴 아메리카’(크리스 에반스)가 떠난 MCU에서 새로운 리더는 누구일까. 마블의 수장 케빈 파이기(49)는 1일(현지시간) 버라이어티와 인터뷰에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[평창국제평화영화제 장편영화 기획개발 공모]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=654&amp;aid=0000003959</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000280597"/>
         <updated>2022-03-02T09:18:00.264Z</updated>
         <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 칸영화제 측이 러시아 보이콧 행렬에 동참했다. 칸영화제는 2일 공식 홈페이지를 통해 "칸 영화제는 우크라이나 국민과 그 영토에 있는 모든 사람들에게 지지를 표하고자 한다"라고 밝혔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[칸 영화제, 러시아 영화 전면 보이콧…"참석 허락 않겠다"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000135570</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000135570"/>
-        <updated>2022-03-02T09:18:00.265Z</updated>
-        <content type="html"><![CDATA[반정부 시위 벌이는 러시아 국적 영화인에게는 경의 세계 3대 영화제 중 하나로 꼽히는 프랑스 칸 영화제가 러시아 영화에 대한 전면 보이콧을 선언했다. 칸 영화제 조직위원회는 1일(현지시간) 러시아가 우크라이나에 대한]]></content>
     </entry>
 </feed>

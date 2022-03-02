@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 19:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 21:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“아이언맨·캡아 떠났다, 닥터 스트레인지가 MCU의 정신적 지주”, 마블 수장의 자신감[해외이슈] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003581222</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003581222</guid>
+            <pubDate>Wed, 02 Mar 2022 21:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘아이언맨’(로버트 다우니 주니어)와 ‘캡틴 아메리카’(크리스 에반스)가 떠난 MCU에서 새로운 리더는 누구일까. 마블의 수장 케빈 파이기(49)는 1일(현지시간) 버라이어티와 인터뷰에서]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[평창국제평화영화제 장편영화 기획개발 공모 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=654&amp;aid=0000003959</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 칸영화제 측이 러시아 보이콧 행렬에 동참했다. 칸영화제는 2일 공식 홈페이지를 통해 "칸 영화제는 우크라이나 국민과 그 영토에 있는 모든 사람들에게 지지를 표하고자 한다"라고 밝혔]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[칸 영화제, 러시아 영화 전면 보이콧…"참석 허락 않겠다" (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000135570</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000135570</guid>
-            <pubDate>Wed, 02 Mar 2022 09:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[반정부 시위 벌이는 러시아 국적 영화인에게는 경의 세계 3대 영화제 중 하나로 꼽히는 프랑스 칸 영화제가 러시아 영화에 대한 전면 보이콧을 선언했다. 칸 영화제 조직위원회는 1일(현지시간) 러시아가 우크라이나에 대한]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[더 배트맨 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=110137</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=110137</guid>
@@ -303,6 +303,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd615f49fe381ac00cd48f0f8789746e911af66b4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[축복의 집 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=141780</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=141780</guid>
+            <pubDate>Tue, 01 Mar 2022 04:24:26 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3b12e85d38027dc416a263802149312af174a2b1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[킹메이커 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=118715</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=118715</guid>
@@ -317,14 +325,6 @@
             <pubDate>Mon, 28 Feb 2022 15:21:37 GMT</pubDate>
             <content:encoded><![CDATA[22.02.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb6c357f9a1f7e93d228d67ef60e1185e25c56065" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[축복의 집 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=141780</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=141780</guid>
-            <pubDate>Tue, 01 Mar 2022 04:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3b12e85d38027dc416a263802149312af174a2b1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[해적: 도깨비 깃발 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -535,6 +535,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F02%2Fmunhwa%2F20220302102014756kegm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['드라이' 에릭 바나, "살인자에서 경찰로 돌아오다!"1차 포스터 공개 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220302161106203</link>
+            <guid>https://movie.v.daum.net/v/20220302161106203</guid>
+            <pubDate>Wed, 02 Mar 2022 09:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]'트로이' '시간 여행자의 아내' 등 장르를 넘나드는 활약으로 할리우드 대표 배우로 손꼽히는 에릭 바나 주연의 '드라이'가 강렬한 카리스마가 느껴지는 1차 포스터를 공개했다. 월드 와이드 베스트셀러를 원작으로 한 '드라이'가 1차 포스터를 공개하며 화제를 모았다. '드라이'는 불미스러운 사건으로 고향을 떠났던 연방 경찰 ‘에런]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F02%2Fmydaily%2F20220302161106857feha.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[돈 때문에 전셋집 내놓은 부부.. 외국인이 바라본 서울 풍경 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220302110000317</link>
             <guid>https://movie.v.daum.net/v/20220302110000317</guid>
@@ -549,14 +557,6 @@
             <pubDate>Wed, 02 Mar 2022 09:18:23 GMT</pubDate>
             <content:encoded><![CDATA[| 삼일절 개봉 1위…로버트 패틴슨 '더 배트맨' 리뷰 | '2년차 탐정'으로 활동하는 사회초년생 배트맨 활약상 | 판타지 고담시 배경으로 현실 범죄 주목 '피폐한 추리극' 출연: 로버트 패틴슨·폴 다노·조 크라비트·앤디 서키스·제프리 라이트·콜린 파렐 감독: 맷 리브스 장르: 액션·범죄·드라마 등급: 15세 관람가 러닝타임: 176분]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F02%2FJTBC%2F20220302154004653fawg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['드라이' 에릭 바나, "살인자에서 경찰로 돌아오다!"1차 포스터 공개 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220302161106203</link>
-            <guid>https://movie.v.daum.net/v/20220302161106203</guid>
-            <pubDate>Wed, 02 Mar 2022 09:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]'트로이' '시간 여행자의 아내' 등 장르를 넘나드는 활약으로 할리우드 대표 배우로 손꼽히는 에릭 바나 주연의 '드라이'가 강렬한 카리스마가 느껴지는 1차 포스터를 공개했다. 월드 와이드 베스트셀러를 원작으로 한 '드라이'가 1차 포스터를 공개하며 화제를 모았다. '드라이'는 불미스러운 사건으로 고향을 떠났던 연방 경찰 ‘에런]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F02%2Fmydaily%2F20220302161106857feha.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[파탄난 부모의 결혼, 아들 의외의 반응 (다음영화 뉴스 ─ 인기)]]></title>
@@ -599,12 +599,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F02%2FNEWS1%2F20220302181643957qwfc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[테러로 친구 잃은 검사, 그가 지목한 범인의 진짜 정체 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220301102701347</link>
-            <guid>https://movie.v.daum.net/v/20220301102701347</guid>
-            <pubDate>Wed, 02 Mar 2022 02:41:03 GMT</pubDate>
-            <content:encoded><![CDATA[[김봉건 기자] 변호사 낸시(조디 포스터)에게 어느 날 동료로부터 다급한 요청이 들어온다. 아프리카 서북부에 위치한 국가 모리타니 출신의 한 남성이 사라진 지 수 년이 지났으나 행방이 묘연하다면서 그의 어머니로부터&nbsp;9.11 테러 용의자들이 수감돼 있는 것으로 알려진 쿠바 관타나모 수용소에 갇혀 있는지의 여부를&nbsp;확인해 달라는 의뢰를 받았다는 내용이다. 확인]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F01%2Fohmynews%2F20220301102702305lyli.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['응사' 해태 첫사랑→'수학자' 주연..조윤서 "크레딧에 울컥" 눈물 [인터뷰 종합] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220302135005042</link>
+            <guid>https://movie.v.daum.net/v/20220302135005042</guid>
+            <pubDate>Wed, 02 Mar 2022 18:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 조윤서가 배우 생활 10년을 돌아보며 눈물을 보였다.&nbsp; 영화 '이상한 나라의 수학자'(감독 박동훈)는 신분을 감추고 고등학교 경비원으로 일하는 탈북한 천재 수학자가 수학을 포기한 학생을 만나며 벌어지는 감동 드라마다. 배우 최민식이 천재 수학자로 분하고, 신예 김동휘와 조윤서가 고등학생으로 변신해 함께 극을 이끈다.&nbsp; 조윤서]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F02%2Fxportsnews%2F20220302135006861xjeu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['수학자' 조윤서 "피아노 잘 친다 거짓말..하루에 7시간씩 연습"[EN:인터뷰③] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220302104546494</link>
+            <guid>https://movie.v.daum.net/v/20220302104546494</guid>
+            <pubDate>Wed, 02 Mar 2022 15:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 조윤서가 '이상한 나라의 수학자' 출연을 위해 거짓말까지 했다고 고백했다. 영화 '이상한 나라의 수학자'(감독 박동훈)에 출연한 조윤서는 오디션에서 "피아노를 잘 친다"고 거짓말을 했다고 털어놓았다. 오는 9일 개봉하는 '이상한 나라의 수학자'는 신분을 감추고 고등학교 경비원으로 일하는 탈북한 천재 수학자가 수학을 포기한 학생을 만]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F02%2Fnewsen%2F20220302104546420xxqi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['새 역사 쓴' 이정재, 美 SAG 트로피 들고 금의환향 [종합] (다음영화 뉴스 ─ 인기)]]></title>
@@ -615,12 +623,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F02%2Fstarnews%2F20220302174458898vqll.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['응사' 해태 첫사랑→'수학자' 주연..조윤서 "크레딧에 울컥" 눈물 [인터뷰 종합] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220302135005042</link>
-            <guid>https://movie.v.daum.net/v/20220302135005042</guid>
-            <pubDate>Wed, 02 Mar 2022 18:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 조윤서가 배우 생활 10년을 돌아보며 눈물을 보였다.&nbsp; 영화 '이상한 나라의 수학자'(감독 박동훈)는 신분을 감추고 고등학교 경비원으로 일하는 탈북한 천재 수학자가 수학을 포기한 학생을 만나며 벌어지는 감동 드라마다. 배우 최민식이 천재 수학자로 분하고, 신예 김동휘와 조윤서가 고등학생으로 변신해 함께 극을 이끈다.&nbsp; 조윤서]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F02%2Fxportsnews%2F20220302135006861xjeu.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[테러로 친구 잃은 검사, 그가 지목한 범인의 진짜 정체 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220301102701347</link>
+            <guid>https://movie.v.daum.net/v/20220301102701347</guid>
+            <pubDate>Wed, 02 Mar 2022 02:41:03 GMT</pubDate>
+            <content:encoded><![CDATA[[김봉건 기자] 변호사 낸시(조디 포스터)에게 어느 날 동료로부터 다급한 요청이 들어온다. 아프리카 서북부에 위치한 국가 모리타니 출신의 한 남성이 사라진 지 수 년이 지났으나 행방이 묘연하다면서 그의 어머니로부터&nbsp;9.11 테러 용의자들이 수감돼 있는 것으로 알려진 쿠바 관타나모 수용소에 갇혀 있는지의 여부를&nbsp;확인해 달라는 의뢰를 받았다는 내용이다. 확인]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F01%2Fohmynews%2F20220301102702305lyli.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['아쿠아맨' 의붓딸 조 크라비츠, '더 배트맨' 캣 우먼의 고혹적 드레스[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220302145425766</link>
+            <guid>https://movie.v.daum.net/v/20220302145425766</guid>
+            <pubDate>Wed, 02 Mar 2022 21:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘아쿠아맨’ 제이슨 모모아(42)의 의붓딸인 조 크라비츠(33)이 고혹적 드레스로 미모를 뽐냈다. 그는 1일(현지시간) 뉴욕에서 열린 맷 리브스 감독의 ‘더 배트맨’ 프리미어 시사회에 참석했다. 조 크라비츠는 검은색 드레스를 빼어나게 소화하며 시선을 끌었다. 배트맨 역을 맡은 로버트 패틴슨과도 포즈를 취했다. 조 크라비츠]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F02%2Fmydaily%2F20220302145425734kcmy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[그녀의 집까지 1천km..휠체어 탄 시각장애인의 고된 여정 (다음영화 뉴스 ─ 인기)]]></title>
@@ -629,14 +645,6 @@
             <pubDate>Wed, 02 Mar 2022 02:41:03 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 오보람 기자 = "프리덤!"(Freedom) 집을 나서 택시를 탄 남자 야코(페트리 포이콜라이넨 분)가 얼굴을 감싸는 햇살을 만끽하며 자유를 외친다. 다발 경화증을 앓는 그는 눈이 멀고 가슴 아래로 감각이 마비된 중증 장애인이라 내내 집에서만 생활하는 신세다. 누군가의 도움 없이는 일어설 수조차 없는 그가 고심 끝에 홀로 길을 나섰다.]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F01%2Fyonhap%2F20220301080007253dxag.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['수학자' 조윤서 "피아노 잘 친다 거짓말..하루에 7시간씩 연습"[EN:인터뷰③] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220302104546494</link>
-            <guid>https://movie.v.daum.net/v/20220302104546494</guid>
-            <pubDate>Wed, 02 Mar 2022 15:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 조윤서가 '이상한 나라의 수학자' 출연을 위해 거짓말까지 했다고 고백했다. 영화 '이상한 나라의 수학자'(감독 박동훈)에 출연한 조윤서는 오디션에서 "피아노를 잘 친다"고 거짓말을 했다고 털어놓았다. 오는 9일 개봉하는 '이상한 나라의 수학자'는 신분을 감추고 고등학교 경비원으로 일하는 탈북한 천재 수학자가 수학을 포기한 학생을 만]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F02%2Fnewsen%2F20220302104546420xxqi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['나의 히어로 아카데미아 더 무비: 월드 히어로즈 미션', 스페셜 포스터 공개 (다음영화 뉴스 ─ 인기)]]></title>
@@ -655,12 +663,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F02%2FTHEFACT%2F20220302050006922wztz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[리뷰-영화 '시라노']연애편지를 대신 써준 남자, 편지 덕에 사랑에 빠진 여자.. 진짜 사랑은 무엇일까 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220301181143556</link>
-            <guid>https://movie.v.daum.net/v/20220301181143556</guid>
-            <pubDate>Tue, 01 Mar 2022 10:21:24 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] 17세기 프랑스, 사랑하는 사람을 향해 연애편지를 보내는 남성이 있다. 하지만 그가 쓰는 연애편지는 다른 남자의 부탁을 받고 그 이름으로 대필한 것이다. 수신자인 여성은 본심을 남의 이름으로 담은 편지 속 아름다운 글을 읽고 사랑을 키워가게 된다. 그 여자가 사랑에 빠진 대상은 편지에 이름을 담은 발신자일까, 글을 대신 써준 남자일까. ‘오만]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F01%2Fseouleconomy%2F20220301181149935gnqx.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA["아이언맨·캡아 떠났다, 닥터 스트레인지가 MCU의 정신적 지주", 마블 수장의 자신감[해외이슈] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220303060705432</link>
+            <guid>https://v.daum.net/v/20220303060705432</guid>
+            <pubDate>Wed, 02 Mar 2022 21:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘아이언맨’(로버트 다우니 주니어)와 ‘캡틴 아메리카’(크리스 에반스)가 떠난 MCU에서 새로운 리더는 누구일까. 마블의 수장 케빈 파이기(49)는 1일(현지시간) 버라이어티와 인터뷰에서 “베네딕트 컴버배치는 역대 최고의 영화 6편 중 역사적인 3편에 등장하며 ‘닥터 스트레인지’ 캐릭터를 아이콘으로 만들었다. 꽤 긴 여정이었]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F03%2Fmydaily%2F20220303060705761iwmt.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[김동휘 "있는지도 몰랐던 오디션 후 주인공.. 실감 안 났죠" [쿠키인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220303055902093</link>
+            <guid>https://v.daum.net/v/20220303055902093</guid>
+            <pubDate>Wed, 02 Mar 2022 21:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[상위 1% 학생들이 모인 동훈고등학교에 한지우(김동휘)는 어울리지 않는 인물이다. 유독 수학에 약하거나 사회적 배려 대상자라 그런 건 아니다. 자신이 큰 손해를 보더라도 친구들과의 의리를 지키는 게 편하고, 선생님의 전학 권유가 부당한 걸 알면서도 거절하지 못한다. 엄마가 좋아하는 모습이 그가 동훈고에 머무는 가장 큰 이유다. 그런 그에게 정체불명의 야]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F03%2Fkukinews%2F20220303055903488wywv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<가무악칠재> 스팟 영상 (우리 영화 볼래?)]]></title>
@@ -1307,7 +1323,7 @@
             <link>https://tv.naver.com/v/25423016</link>
             <guid>https://tv.naver.com/v/25423016</guid>
             <pubDate>Wed, 02 Mar 2022 10:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220302_210/YgYxX_1646213258961elN3Y_JPEG/da4072d9-9a0a-11ec-94fc-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1315,7 +1331,7 @@
             <link>https://tv.naver.com/v/25422875</link>
             <guid>https://tv.naver.com/v/25422875</guid>
             <pubDate>Wed, 02 Mar 2022 10:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220302_215/Bs0Go_1646212950931N8bnp_JPEG/0febba39-9a0a-11ec-8052-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1323,7 +1339,7 @@
             <link>https://tv.naver.com/v/25422591</link>
             <guid>https://tv.naver.com/v/25422591</guid>
             <pubDate>Wed, 02 Mar 2022 09:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220302_253/R2V6v_16462123209792nHtG_JPEG/06f6dc3e-9a08-11ec-b145-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1331,7 +1347,7 @@
             <link>https://tv.naver.com/v/25422454</link>
             <guid>https://tv.naver.com/v/25422454</guid>
             <pubDate>Wed, 02 Mar 2022 09:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220302_19/hoybi_1646212011205gEPLn_JPEG/ca7841fd-9a07-11ec-a7bf-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1339,7 +1355,7 @@
             <link>https://tv.naver.com/v/25422215</link>
             <guid>https://tv.naver.com/v/25422215</guid>
             <pubDate>Wed, 02 Mar 2022 09:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220302_143/FHd7A_1646211482196UfV1Y_JPEG/a78168fb-9a06-11ec-a412-a0369ff95678_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1347,7 +1363,7 @@
             <link>https://tv.naver.com/v/25417583</link>
             <guid>https://tv.naver.com/v/25417583</guid>
             <pubDate>Wed, 02 Mar 2022 09:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220302_270/SPSUD_1646202325048DeEts_JPEG/6968b34b-99f1-11ec-b145-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1355,7 +1371,7 @@
             <link>https://tv.naver.com/v/25413436</link>
             <guid>https://tv.naver.com/v/25413436</guid>
             <pubDate>Wed, 02 Mar 2022 03:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220302_98/xy1NF_1646189145394PSNaS_JPEG/6e63aa29-99d2-11ec-a7bf-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1363,7 +1379,7 @@
             <link>https://tv.naver.com/v/25413310</link>
             <guid>https://tv.naver.com/v/25413310</guid>
             <pubDate>Wed, 02 Mar 2022 02:41:33 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220302_223/JTjO9_1646188649959foLSB_JPEG/7014d2df-99d1-11ec-8052-505dacfbaa5c_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1371,7 +1387,7 @@
             <link>https://tv.naver.com/v/25413105</link>
             <guid>https://tv.naver.com/v/25413105</guid>
             <pubDate>Wed, 02 Mar 2022 02:41:33 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220302_152/MNCtU_1646187828522IAdgV_JPEG/844fe0dc-99cf-11ec-8052-505dacfbaa5c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1379,7 +1395,7 @@
             <link>https://tv.naver.com/v/25412074</link>
             <guid>https://tv.naver.com/v/25412074</guid>
             <pubDate>Wed, 02 Mar 2022 02:41:33 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220302_268/MTdnZ_1646183686797N0Y0f_JPEG/fbb67b99-99c5-11ec-bcfb-246e963a464c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1395,7 +1411,7 @@
             <link>https://tv.naver.com/v/25387014</link>
             <guid>https://tv.naver.com/v/25387014</guid>
             <pubDate>Wed, 02 Mar 2022 02:41:33 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220228_101/Er9O2_1646041497899tRWQ0_JPEG/f59cf8cb-987a-11ec-92eb-48df379cca40_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
