@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 16:28:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 17:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -215,20 +215,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcfb87a998ee56aa40424b98ff57417953704a6cd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[인민을 위해 복무하라 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144815</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144815</guid>
-            <pubDate>Thu, 10 Feb 2022 18:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8794ab82e2da32c0efa0187c65735d6249e37d43" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[나이트메어 앨리 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150896</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150896</guid>
             <pubDate>Wed, 16 Feb 2022 16:25:20 GMT</pubDate>
             <content:encoded><![CDATA[22.02.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1f54e7248dbebea9649b47176f1f8dacdc2eb9eb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[인민을 위해 복무하라 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144815</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144815</guid>
+            <pubDate>Thu, 10 Feb 2022 18:23:33 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8794ab82e2da32c0efa0187c65735d6249e37d43" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[소피의 세계 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -623,6 +623,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Filgansports%2F20220304084609743lswx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA["믿을 수 없었다"..박서준, 英 가디언에 밝힌 '캡틴 마블2' 출연 소감 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220304063630537</link>
+            <guid>https://movie.v.daum.net/v/20220304063630537</guid>
+            <pubDate>Fri, 04 Mar 2022 12:31:32 GMT</pubDate>
+            <content:encoded><![CDATA[배우 박서준. (사진=어썸이엔티)[이데일리 스타in 김보영 기자] 영화 ‘캡틴 마블2’에 캐스팅된 배우 박서준이 마블과 작업하게 된 소감을 외신 인터뷰를 통해 털어놨다. 박서준은 지난 2일(현지시간) 영국 매체 가디언과 인터뷰를 통해 “마블 시네마틱 유니버스(MCU)가 나와 이야기를 나누고 싶어한다는 이야기를 들었을 때 난 정말 믿을 수가 없었다”고 운]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2FEdaily%2F20220304063634072xuoa.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[인터뷰] '인민을 위해 복무하라' 노출신 아래 가려진 지안의 진심 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220303102239271</link>
             <guid>https://movie.v.daum.net/v/20220303102239271</guid>
@@ -637,14 +645,6 @@
             <pubDate>Fri, 04 Mar 2022 14:17:36 GMT</pubDate>
             <content:encoded><![CDATA[4월 극장가에 유쾌한 에너지가 퍼진다. 영화 '스텔라(권수경 감독)'가 개봉을 확정하고, 티저 포스터와 티저 예고편을 공개했다. '스텔라'는 옵션은 없지만 사연은 많은 최대 시속 50km의 자율주행차 스텔라와 함께 보스의 사라진 슈퍼카를 쫓는 한 남자의 버라이어티 추격 코미디. 이번에 공개된 티저 포스터에서는 지금은 주변에서 찾아보기 힘든 1987년식]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Filgansports%2F20220304181108017jlqx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["믿을 수 없었다"..박서준, 英 가디언에 밝힌 '캡틴 마블2' 출연 소감 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220304063630537</link>
-            <guid>https://movie.v.daum.net/v/20220304063630537</guid>
-            <pubDate>Fri, 04 Mar 2022 12:31:32 GMT</pubDate>
-            <content:encoded><![CDATA[배우 박서준. (사진=어썸이엔티)[이데일리 스타in 김보영 기자] 영화 ‘캡틴 마블2’에 캐스팅된 배우 박서준이 마블과 작업하게 된 소감을 외신 인터뷰를 통해 털어놨다. 박서준은 지난 2일(현지시간) 영국 매체 가디언과 인터뷰를 통해 “마블 시네마틱 유니버스(MCU)가 나와 이야기를 나누고 싶어한다는 이야기를 들었을 때 난 정말 믿을 수가 없었다”고 운]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2FEdaily%2F20220304063634072xuoa.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[더 음울해진 미완성 히어로의 분투 '더 배트맨' [쿡리뷰] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1307,7 +1307,7 @@
             <link>https://tv.naver.com/v/25469366</link>
             <guid>https://tv.naver.com/v/25469366</guid>
             <pubDate>Fri, 04 Mar 2022 07:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_274/AOV0E_1646378263833PsAP4_JPEG/cccad6f9-9b8a-11ec-bbd8-d4f5ef5a9532_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1315,7 +1315,7 @@
             <link>https://tv.naver.com/v/25468739</link>
             <guid>https://tv.naver.com/v/25468739</guid>
             <pubDate>Fri, 04 Mar 2022 07:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_186/jFBNf_1646376966941UDlup_JPEG/d9fc8dc0-9b87-11ec-ba4e-505dac8c3607_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1331,7 +1331,7 @@
             <link>https://tv.naver.com/v/25466885</link>
             <guid>https://tv.naver.com/v/25466885</guid>
             <pubDate>Fri, 04 Mar 2022 07:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_210/IKIfR_1646371996423Idqyi_JPEG/1646371943967.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1339,7 +1339,7 @@
             <link>https://tv.naver.com/v/25466753</link>
             <guid>https://tv.naver.com/v/25466753</guid>
             <pubDate>Fri, 04 Mar 2022 07:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_152/eHvSN_1646371724163Wfys2_JPEG/1646371688832.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1347,7 +1347,7 @@
             <link>https://tv.naver.com/v/25464021</link>
             <guid>https://tv.naver.com/v/25464021</guid>
             <pubDate>Fri, 04 Mar 2022 03:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_175/mdX7i_1646362674892uh6wD_JPEG/fd48c77e-9b65-11ec-94fc-505dac8c3639_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1355,7 +1355,7 @@
             <link>https://tv.naver.com/v/25463131</link>
             <guid>https://tv.naver.com/v/25463131</guid>
             <pubDate>Fri, 04 Mar 2022 02:45:48 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_226/KNgiA_1646360111591fYLBX_JPEG/c5ada60d-9b60-11ec-8a3e-505dac8c381b_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
