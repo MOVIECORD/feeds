@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 14:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 16:28:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -335,12 +335,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F825baa1e98d8f33e4801d88b3a302739039c5cc4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[씽2게더 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138207</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138207</guid>
-            <pubDate>Fri, 04 Mar 2022 14:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1021e3e3e714bc8ebf67f8c3e238a56ada885292" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[극장판 안녕 자두야: 제주도의 비밀 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156603</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156603</guid>
+            <pubDate>Fri, 04 Mar 2022 16:27:07 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ee3e94ab72ab91fbb2dce546aa5a79152bb9901" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[이상한 나라의 수학자 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -391,14 +391,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F078788d56d0f8c82b1d3022d5ef05b14d951ac3d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[스펜서 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145181</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145181</guid>
-            <pubDate>Mon, 21 Feb 2022 04:24:51 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1672f6d3d5ff3c7fc0fc71c0e76a15eb80b85360" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[그 남자는 타이타닉을 보고 싶지 않았다 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153324</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153324</guid>
@@ -413,6 +405,14 @@
             <pubDate>Tue, 01 Mar 2022 01:19:13 GMT</pubDate>
             <content:encoded><![CDATA[22.03.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F37c7b1c61c83eb6ada6f6193afc56dc7c9881165" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스펜서 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145181</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145181</guid>
+            <pubDate>Mon, 21 Feb 2022 04:24:51 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1672f6d3d5ff3c7fc0fc71c0e76a15eb80b85360" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[어거스트 버진 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -527,14 +527,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2FJTBC%2F20220304155009045xkbx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[나쁜 놈, 착한 놈, 이상한 놈..할리우드 기인들 몰려온다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220303000405543</link>
-            <guid>https://movie.v.daum.net/v/20220303000405543</guid>
-            <pubDate>Fri, 04 Mar 2022 01:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[미국 영화 시상식 시즌에 맞춰 개성 강한 명감독들의 신작이 극장가를 찾아온다. 그중 지난달 23일 나란히 개봉한 ‘나이트메어 앨리’와 ‘시라노’, 그리고 ‘피그’의 독특한 캐릭터 열전이 눈길을 끈다. 차례로 ‘나쁜 놈’ ‘착한 놈’ ‘이상한 놈’에 빗댈 만하다. 낯선 삶에서 의미를 짚어내는 캐릭터를 연기하는 스타들의 도전이 볼거리다. ◆‘공포 거장’ 떠오]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F03%2Fjoongang%2F20220303000406926eupd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['인민을 위해 복무하라' 영화VS원작 비교 포인트 셋 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220304164734420</link>
             <guid>https://movie.v.daum.net/v/20220304164734420</guid>
@@ -567,20 +559,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Fmydaily%2F20220304061703588yymp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[한국 원작이었어? 하정우→이선균 주연, 넷플릭스 휩쓸었다 [TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220304105701966</link>
-            <guid>https://movie.v.daum.net/v/20220304105701966</guid>
-            <pubDate>Fri, 04 Mar 2022 02:45:14 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=태유나 기자] 《태유나의 넷추리》 태유나 텐아시아 기자가 수많은 콘텐츠로 가득한 넷플릭스 속 알맹이만 골라드립니다. 매주 금요일 저녁 꼭 봐야 할 '띵작'부터 기대되는 신작까지 주말에 방구석 1열에서 즐길 수 있는 작품들을 추천하겠습니다.'오징어 게임', '지금 우리 학교는' 등 한국 콘텐츠들이 전 세계 넷플릭스를 강타한 가운데, 한국 리메이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2F10asia%2F20220304105707699pxbb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[시민이 되려 뛰쳐나간 공주.. 세계가 감동한 이유 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220303175100946</link>
             <guid>https://movie.v.daum.net/v/20220303175100946</guid>
             <pubDate>Thu, 03 Mar 2022 12:31:47 GMT</pubDate>
             <content:encoded><![CDATA[[이선필 기자] ▲ &nbsp;영화 &lt;스펜서&gt; 관련 이미지.    ⓒ 그린나래미디어  영국 왕실을 대표하는 여러 인물 중 다이애나 왕세자비는 단연 영국인들이 사랑하는 아이콘이다. 30여 년의 짧은 생을 살았지만 누구보다 보통 사람들 가까이에 있으려 했고, 그 스스로 영국 왕실의 허상과 모순을 온몸으로 거부했기 때문이다. 다이애나 비를 다룬 여러 영화들]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F03%2Fohmynews%2F20220303175101498tfyq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[한국 원작이었어? 하정우→이선균 주연, 넷플릭스 휩쓸었다 [TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220304105701966</link>
+            <guid>https://movie.v.daum.net/v/20220304105701966</guid>
+            <pubDate>Fri, 04 Mar 2022 02:45:14 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=태유나 기자] 《태유나의 넷추리》 태유나 텐아시아 기자가 수많은 콘텐츠로 가득한 넷플릭스 속 알맹이만 골라드립니다. 매주 금요일 저녁 꼭 봐야 할 '띵작'부터 기대되는 신작까지 주말에 방구석 1열에서 즐길 수 있는 작품들을 추천하겠습니다.'오징어 게임', '지금 우리 학교는' 등 한국 콘텐츠들이 전 세계 넷플릭스를 강타한 가운데, 한국 리메이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2F10asia%2F20220304105707699pxbb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[나를 지키는 목숨 건 투쟁..'여성에 대한 억압과 속박' 두 영화 (다음영화 뉴스 ─ 인기)]]></title>
@@ -631,12 +623,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Filgansports%2F20220304084609743lswx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[더 음울해진 미완성 히어로의 분투 '더 배트맨' [쿡리뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220304062802450</link>
-            <guid>https://movie.v.daum.net/v/20220304062802450</guid>
-            <pubDate>Fri, 04 Mar 2022 03:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[수많은 할리우드산 히어로 가운데에서 배트맨이 차지하는 입지는 독특하다. 위기에 빠진 지구평화를 지키기 위해 동분서주하는 것도 중요하지만, 동시에 자신의 정체성을 끊임없이 고뇌하는 캐릭터다. 전반적인 분위기가 어둡고 선악 구분이 모호하다. 그리고 역대 가장 완성도 높은 히어로 영화로 손꼽히는 크리스토퍼 놀란 감독의 ‘다크 나이트’ 3부작 주인공이기도 하다]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Fkukinews%2F20220304062804183xkpw.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[인터뷰] '인민을 위해 복무하라' 노출신 아래 가려진 지안의 진심 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220303102239271</link>
+            <guid>https://movie.v.daum.net/v/20220303102239271</guid>
+            <pubDate>Fri, 04 Mar 2022 16:27:21 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] 대중의 큰 관심을 받는 노출신, 그 너머에는 배우 지안의 진심이 담겨 있다. 그는 자극적인 장면으로 주목받은 영화 '인민을 위해 복무하라'지만, 그 안에 있는 인물들의 감정과 서사가 더욱 중요하다고 강조했다. 베드신도 감정을 표현하기 위한 일부분일 뿐이라며. 사랑에 빠진 여자의 모습을 섬세하게 표현하기 위해 지안은 진심으로 노력했고, 눈빛 하]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F03%2Fseouleconomy%2F20220303125715428wrta.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[손호준·이규형·허성태 '스텔라' 4월 개봉..티저 공개 (다음영화 뉴스 ─ 인기)]]></title>
@@ -655,172 +647,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2FEdaily%2F20220304063634072xuoa.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[판타지 벗어던지고 돌아온 '더 배트맨' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220303195532485</link>
-            <guid>https://movie.v.daum.net/v/20220303195532485</guid>
-            <pubDate>Fri, 04 Mar 2022 01:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 배트맨이 등장했다. 1일 개봉한 올해 첫 히어로 블록버스터 ‘더 배트맨’(사진)은 DC에서 가장 인기 있는 캐릭터답게 화제를 모으고 있다. ‘더 배트맨’은 개봉 첫날 19만명의 관객을 동원하며 박스오피스 1위, 올해 최고 오프닝 성적을 기록했다. 로버트 패틴슨이 주연하고 맷 리브스 감독이 연출한 ‘더 배트맨’은 배트맨으로 활약한 지 2년 차인 브]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F03%2Fsegye%2F20220303195532168ycch.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[더 음울해진 미완성 히어로의 분투 '더 배트맨' [쿡리뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220304062802450</link>
+            <guid>https://movie.v.daum.net/v/20220304062802450</guid>
+            <pubDate>Fri, 04 Mar 2022 03:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[수많은 할리우드산 히어로 가운데에서 배트맨이 차지하는 입지는 독특하다. 위기에 빠진 지구평화를 지키기 위해 동분서주하는 것도 중요하지만, 동시에 자신의 정체성을 끊임없이 고뇌하는 캐릭터다. 전반적인 분위기가 어둡고 선악 구분이 모호하다. 그리고 역대 가장 완성도 높은 히어로 영화로 손꼽히는 크리스토퍼 놀란 감독의 ‘다크 나이트’ 3부작 주인공이기도 하다]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Fkukinews%2F20220304062804183xkpw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["'더 배트맨'이 '다크 나이트' 뛰어넘는다" 제작자, 크리스토퍼 놀란에 경고[해외이슈] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220304181905915</link>
-            <guid>https://v.daum.net/v/20220304181905915</guid>
-            <pubDate>Fri, 04 Mar 2022 11:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘더 배트맨’제작자 딜런 클라크가 크리스토퍼 놀란 감독의 ‘다크 나이트’를 뛰어넘겠다는 의지를 드러냈다. 그는 3일(현지시간) 영화매체 엠파이어 메거진과 인터뷰에서 “크리스토퍼 놀란에게 '우리는 배트맨을  역사상 최고의 인물로 만들기 위해 노력하고 있다. 당신의 ‘다크 나이트’를 뛰어 넘을 것이다'라고 말했다”고 전했다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Fmydaily%2F20220304181905435lhqy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[손호준·이규형·허성태 '스텔라' 4월 개봉..티저 공개 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220304181105773</link>
-            <guid>https://v.daum.net/v/20220304181105773</guid>
-            <pubDate>Fri, 04 Mar 2022 11:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[4월 극장가에 유쾌한 에너지가 퍼진다. 영화 '스텔라(권수경 감독)'가 개봉을 확정하고, 티저 포스터와 티저 예고편을 공개했다. '스텔라'는 옵션은 없지만 사연은 많은 최대 시속 50km의 자율주행차 스텔라와 함께 보스의 사라진 슈퍼카를 쫓는 한 남자의 버라이어티 추격 코미디. 이번에 공개된 티저 포스터에서는 지금은 주변에서 찾아보기 힘든 1987년식]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Filgansports%2F20220304181108017jlqx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[무비차트TEN] "영화관 11시까지"..최민식 '이상한 나라의 수학자' 예매율 2위, 출격 대기 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220304180701668</link>
-            <guid>https://v.daum.net/v/20220304180701668</guid>
-            <pubDate>Fri, 04 Mar 2022 11:16:08 GMT</pubDate>
+            <title><![CDATA[[무비차트TEN] "영화관 11시까지"..최민식 '이상한 나라의 수학자' 예매율 2위, 출격 대기 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220304180701668</link>
+            <guid>https://movie.v.daum.net/v/20220304180701668</guid>
+            <pubDate>Fri, 04 Mar 2022 16:27:21 GMT</pubDate>
             <content:encoded><![CDATA[[텐아시아=노규민 기자] 할리우드 영화와 일본 애니메이션이 박스오피스 상위권을 점령한 가운데, '대배우' 최민식을 주연으로 앞세운 '이상한 나라의 수학자'가 개봉을 앞두고 있다. 최악의 침체기를 맞고 있는 한국영화계에 단비가 되어 줄까. 영화진흥위원회 영화관 입장권 통합전산망에 따르면 2월 25일(금)부터 3월 3일(금)까지 박스오피스 순위에서 '더 배]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2F10asia%2F20220304180703939nvxb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스틴 스튜어트의 정점 '스펜서'[MK무비] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220304174811160</link>
-            <guid>https://v.daum.net/v/20220304174811160</guid>
-            <pubDate>Fri, 04 Mar 2022 11:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[배우 크리스틴 스튜어트가 고(故) 다이애나 왕세자비로 돌아왔다. 영화 ‘스펜서’(감독 파블로 라라인)는 전 영국 왕세자비 다이애나 스펜서의 이야기를 담았다. ‘세기의 아이콘’으로 불린 다이애나 왕세자비는 따뜻한 카리스마와 선한 영향력으로 영국인들의 사랑을 받았다. 하지만 불행한 결혼 생활 끝에 찰스 왕세자와 이혼 뒤, 파파라치의 추격을 피하다 자동차]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Fstartoday%2F20220304174814221obgb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['인민을 위해 복무하라' 영화VS원작 비교 포인트 셋 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220304164734420</link>
-            <guid>https://v.daum.net/v/20220304164734420</guid>
-            <pubDate>Fri, 04 Mar 2022 11:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '인민을 위해 복무하라(장철수 감독)'가 원작과 영화의 색다른 매력 비교 포인트를 공개했다. '인민을 위해 복무하라'는 출세를 꿈꾸는 모범병사 무광(연우진)이 사단장의 젊은 아내 수련(지안)과의 만남으로 인해 넘어서는 안 될 신분의 벽과 빠져보고 싶은 위험한 유혹 사이에서 갈등하며 벌어지는 이야기. 영화는 세계가 주목한 노벨문학상 후보이자, 중국]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Filgansports%2F20220304164737114snqh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[윤여정, 오스카 또 '윤며든다' [무비노트] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220304162807790</link>
-            <guid>https://v.daum.net/v/20220304162807790</guid>
-            <pubDate>Fri, 04 Mar 2022 11:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 배우 윤여정이 2년 연속 아카데미 시상식(오스카)에 출격한다. 이번엔 또 어떤 어록으로 현지 배우들과 보는 이들을 '윤며들게(윤여정+스며들게)' 할지 기대가 모아진다. 아카데미 시상식 측은 4일(한국시간) 공식 트위터를 통해 첫 번째 시상자 리스트를 공개했다. 해당 리스트에는 케빈 코스트너, 레이디 가가, 로지 페레즈, 크리스]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Ftvdaily%2F20220304162810393gcdq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[김혜수 "소년범죄에 대한 관심, 편협하고 감정적이었다" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220304161800489</link>
-            <guid>https://v.daum.net/v/20220304161800489</guid>
-            <pubDate>Fri, 04 Mar 2022 11:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 배우 김혜수가 넷플릭스 드라마 '소년심판'을 촬영하면서 느꼈던 감정에게 대해 솔직하게 털어놓았다. 4일 오후 언론 매체들과 온라인 인터뷰를 가진 김혜수는 "소년범들이 저지르는 성인 이상의 강력 범죄에 대해 평소 어떤 생각을 가졌었고, 이번 작품을 통해 그 생각에 어떠한 변화가 있었는지 궁금하다"라는 질문에 "이 작품을 만]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2FSBSfunE%2F20220304161803341hpph.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['뜨거운 피' 한국형 느와르 그 자체 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220304155946773</link>
-            <guid>https://v.daum.net/v/20220304155946773</guid>
-            <pubDate>Fri, 04 Mar 2022 07:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '뜨거운 피'가 한국형 느와르의 계보를 잇는다. 3월 23일 개봉하는 영화 '뜨거운 피'(감독 천명관)는 1993년, 더 나쁜 놈만이 살아남는 곳 부산 변두리 포구 ‘구암’의 실세 ‘희수’와 그곳에서 살아남기 위한 밑바닥 건달들의 치열한 생존 싸움을 그린 작품이다. '뜨거운 피'는 인물 중심의 한국형 느와르와 결은 같이 하면서도]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Fnewsen%2F20220304155948245zinq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[피플] '마블픽' 박서준, 확신의 터닝포인트 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220304155007433</link>
-            <guid>https://v.daum.net/v/20220304155007433</guid>
-            <pubDate>Fri, 04 Mar 2022 11:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[배우 박서준(35)이 연기 인생 전환점을 맞았다. 국내 뿐 아니라 해외로 활동 반경을 넓힌다. 박서준은 최근 신종 코로나바이러스 감염증(COVID/코로나19)에 확진돼 활동에 제동이 걸렸지만, 격리가 해제된 후 바쁜 나날을 이어가고 있다. 완치 후 첫 공식일정은 영화 '드림' 해외 촬영이다. 3일 소속사 어썸이엔티 측은 "박서준이 '드림' 해외 촬]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2FJTBC%2F20220304155009045xkbx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['해적2'→'이스케이프 룸 2', 넷플릭스 신작 공개 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220304154407217</link>
-            <guid>https://v.daum.net/v/20220304154407217</guid>
-            <pubDate>Fri, 04 Mar 2022 11:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '해적: 도깨비 깃발'부터 '이스케이프 룸 2: 노 웨이 아웃'까지 넷플릭스 신작 리스트가 공개됐다. OTT 플랫폼 넷플릭스 측은 4일 신작 리스트를 공개했다. 영화 '해적: 도깨비 깃발'은 2014년 866만 관객을 동원한 '해적'의 두 번째 이야기로, 흔적도 없이 사라진 왕실 보물의 주인이 되기 위해 바다로 모인 해적들]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Ftvdaily%2F20220304154411271glhc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[김혜수 "실제 어른스럽지 않아..스스로 성숙해지고 있다" [인터뷰③] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220304153253796</link>
-            <guid>https://v.daum.net/v/20220304153253796</guid>
-            <pubDate>Fri, 04 Mar 2022 07:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 배우 넷플릭스 오리지널 드라마 '소년심판'(감독 홍종찬)의 주연배우 김혜수가 4일 오전 진행된 화상 인터뷰를 위해 포즈를 취하고 있다.  '소년심판'은 소년범을 혐오하는 판사 심은석이 지방법원 소년부에 부임하면서 마주하게 되는 소년범죄와 그들을 둘러싼 이들의 이야기를 그린 드라마다. /사진제공=넷플릭스 2022.03.04 /사진=이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Fstarnews%2F20220304153254904agxy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[나를 지키는 목숨 건 투쟁..'여성에 대한 억압과 속박' 두 영화 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220304143632648</link>
-            <guid>https://v.daum.net/v/20220304143632648</guid>
-            <pubDate>Fri, 04 Mar 2022 07:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 한미희 기자 = '나'를 찾고 지키는 일은 때로 목숨을 건 투쟁이 된다. 사회적, 제도적 감시와 틀 속에 속박당한 여성일수록 그렇다. 프랑스 현대문학을 대표하는 작가 아니 에르노(82)와 영국의 전 왕세자비 다이애나 스펜서(1961∼1997)가 겪어야 했던 그 투쟁과 선택을 담은 영화 '레벤느망'과 '스펜서'가 잇달아 관객을 만난다. 포]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Fyonhap%2F20220304143632454nbok.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[곽윤기, '이상한 나라의 수학자' 진솔 감상평 "나 자신에 확신 들 것" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220304142119938</link>
-            <guid>https://v.daum.net/v/20220304142119938</guid>
-            <pubDate>Fri, 04 Mar 2022 07:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '이상한 나라의 수학자' 주역들과 쇼트트랙 국가대표 선수 곽윤기가 만난다. 3월 9일 개봉하는 영화 '이상한 나라의 수학자'(감독 박동훈)는 신분을 감추고 고등학교 경비원으로 일하는 탈북한 천재 수학자가 수학을 포기한 학생을 만나며 벌어지는 감동 드라마. 영화 주역들과 쇼트트랙 국가대표 선수 곽윤기의 만남이 뜨거운 주목을 받고 있다]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Fnewsen%2F20220304142120847hctf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['끝까지 간다' 佛 리메이크작, 5일 연속 넷플릭스 전세계 1위 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220304140909405</link>
-            <guid>https://v.daum.net/v/20220304140909405</guid>
-            <pubDate>Fri, 04 Mar 2022 07:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 영화 '끝까지 간다'의 프랑스 리메이크 영화 '레스틀리스'가 넷플릭스 영화 부문 1위를 차지했다. OTT 순위집계 사이트 플릭스패트롤에 따르면 '레스틀리스'는 지난 26일부터 5일 연속 전 세계 넷플릭스 영화 부문 1위에 올랐다. '레스틀리스'는 극단적인 방법으로 사건을 은폐해 버린 부패 경찰이 정체불명의 목격자로부터 협]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2FSBSfunE%2F20220304140911485ovda.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['뜨거운 피', 한국형 누아르 계보 잇는다..날것의 이야기 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220304131632625</link>
-            <guid>https://v.daum.net/v/20220304131632625</guid>
-            <pubDate>Fri, 04 Mar 2022 05:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 영화 '뜨거운 피'(감독 천명관)가 ㅌ한국형 누아르의 계보를 이어갈 전망이다.&nbsp; '뜨거운 피'는 1993년, 더 나쁜 놈만이 살아남는 곳 부산 변두리 포구 ‘구암’의 실세 ‘희수’와 그곳에서 살아남기 위한 밑바닥 건달들의 치열한 생존 싸움을 그린 영화이다. 영화 '비열한 거리', '해바라기', '우아한 세계' 등 인간적인 이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Fxportsnews%2F20220304131636279obbn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[손호준x이규형x허성태 '스텔라', 4월 개봉 확정 [공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220304124312807</link>
-            <guid>https://v.daum.net/v/20220304124312807</guid>
-            <pubDate>Fri, 04 Mar 2022 05:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '스텔라'가 개봉을 확정하고, 티저 포스터와 티저 예고편을 최초 공개했다. 영화 '스텔라'는 옵션은 없지만 사연은 많은 최대 시속 50km의 자율주행차 스텔라와 함께 보스의 사라진 슈퍼카를 쫓는 한 남자의 버라이어티 추격 코미디. 이번에 공개된 티저 포스터에서는 지금은 주변에서 찾아보기 힘든 1987년식 올드카 ‘스텔라’와 운]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Ftvdaily%2F20220304124313139rxmg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['소년심판' 김혜수 "김무열, 정말 좋은 배우..함께 연기하며 감동" [인터뷰②] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220304121001096</link>
-            <guid>https://v.daum.net/v/20220304121001096</guid>
-            <pubDate>Fri, 04 Mar 2022 03:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 배우 넷플릭스 오리지널 드라마 '소년심판'(감독 홍종찬)의 주연배우 김혜수가 4일 오전 진행된 화상 인터뷰를 위해 포즈를 취하고 있다.  '소년심판'은 소년범을 혐오하는 판사 심은석이 지방법원 소년부에 부임하면서 마주하게 되는 소년범죄와 그들을 둘러싼 이들의 이야기를 그린 드라마다. /사진제공=넷플릭스 2022.03.04 /사진=이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Fstarnews%2F20220304121002867vvjb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[손호준→허성태 '스텔라' 4월 개봉..'극한직업' 작가 각본[공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220304120202826</link>
-            <guid>https://v.daum.net/v/20220304120202826</guid>
-            <pubDate>Fri, 04 Mar 2022 03:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 손호준 이규형 허성태 주연 '스텔라'가 4월 개봉한다. 영화 '스텔라'(감독 권수경)는 옵션은 없지만 사연은 많은 최대 시속 50km의 자율주행차 스텔라와 함께 보스의 사라진 슈퍼카를 쫓는 한 남자의 버라이어티 추격 코미디. 3월 4일 공개된 티저 포스터에서는 지금은 주변에서 찾아보기 힘든 1987년식 올드카 ‘스텔라’와 운전석]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Fnewsen%2F20220304120203005nqgy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[오스카 거머 쥔 윤여정, 올해 아카데미 시상식로 나선다 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220304115936697</link>
-            <guid>https://v.daum.net/v/20220304115936697</guid>
-            <pubDate>Fri, 04 Mar 2022 05:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진=/AFPBBNews=뉴스1 배우 윤여정이 올해 열리는 제94회 아카데미 시상식(오스카)에 참석해 시상자로 무대에 오른다. 3일 아카데미 시상식은 공식 SNS에 올해 시상식의 시상자 명단을 게재했다. 이에 따르면 윤여정은 케빈 코스트너, 레이디 가가, 조 크라비츠, 로지 페레즈, 크리스 록과 함께 이번 시상식의 시상자로 나선]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Fstarnews%2F20220304170908782vdwe.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['소년심판' 김혜수 "책임감 큰 작품..진심으로 연기했다" [인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220304115434542</link>
-            <guid>https://v.daum.net/v/20220304115434542</guid>
-            <pubDate>Fri, 04 Mar 2022 03:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 배우 넷플릭스 오리지널 드라마 '소년심판'(감독 홍종찬)의 주연배우 김혜수가 4일 오전 진행된 화상 인터뷰를 위해 포즈를 취하고 있다.  '소년심판'은 소년범을 혐오하는 판사 심은석이 지방법원 소년부에 부임하면서 마주하게 되는 소년범죄와 그들을 둘러싼 이들의 이야기를 그린 드라마다. /사진제공=넷플릭스 2022.03.04 /사진=이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Fstarnews%2F20220304115435279hrfh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<드라이> 메인 예고편 (우리 영화 볼래?)]]></title>
@@ -1467,7 +1307,7 @@
             <link>https://tv.naver.com/v/25469366</link>
             <guid>https://tv.naver.com/v/25469366</guid>
             <pubDate>Fri, 04 Mar 2022 07:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_274/AOV0E_1646378263833PsAP4_JPEG/cccad6f9-9b8a-11ec-bbd8-d4f5ef5a9532_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1475,7 +1315,7 @@
             <link>https://tv.naver.com/v/25468739</link>
             <guid>https://tv.naver.com/v/25468739</guid>
             <pubDate>Fri, 04 Mar 2022 07:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_186/jFBNf_1646376966941UDlup_JPEG/d9fc8dc0-9b87-11ec-ba4e-505dac8c3607_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1483,7 +1323,7 @@
             <link>https://tv.naver.com/v/25467985</link>
             <guid>https://tv.naver.com/v/25467985</guid>
             <pubDate>Fri, 04 Mar 2022 07:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_50/62LzT_16463749654877WX21_JPEG/57a8966d-9b83-11ec-bcec-505dac8c35ff_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1491,7 +1331,7 @@
             <link>https://tv.naver.com/v/25466885</link>
             <guid>https://tv.naver.com/v/25466885</guid>
             <pubDate>Fri, 04 Mar 2022 07:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_210/IKIfR_1646371996423Idqyi_JPEG/1646371943967.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1499,7 +1339,7 @@
             <link>https://tv.naver.com/v/25466753</link>
             <guid>https://tv.naver.com/v/25466753</guid>
             <pubDate>Fri, 04 Mar 2022 07:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_152/eHvSN_1646371724163Wfys2_JPEG/1646371688832.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1507,7 +1347,7 @@
             <link>https://tv.naver.com/v/25464021</link>
             <guid>https://tv.naver.com/v/25464021</guid>
             <pubDate>Fri, 04 Mar 2022 03:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_175/mdX7i_1646362674892uh6wD_JPEG/fd48c77e-9b65-11ec-94fc-505dac8c3639_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1515,7 +1355,7 @@
             <link>https://tv.naver.com/v/25463131</link>
             <guid>https://tv.naver.com/v/25463131</guid>
             <pubDate>Fri, 04 Mar 2022 02:45:48 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_226/KNgiA_1646360111591fYLBX_JPEG/c5ada60d-9b60-11ec-8a3e-505dac8c381b_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
