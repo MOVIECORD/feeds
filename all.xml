@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 12:32:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 13:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -375,6 +375,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4533abe93340e36af540a7983d3dfc7f79ce0cb2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[벨파스트 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152920</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152920</guid>
+            <pubDate>Wed, 23 Feb 2022 05:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc869a2a1cc226fd7583c04588f60000ab433155e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[나의 집은 어디인가 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=147530</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=147530</guid>
@@ -389,14 +397,6 @@
             <pubDate>Mon, 21 Feb 2022 04:24:51 GMT</pubDate>
             <content:encoded><![CDATA[22.03.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1672f6d3d5ff3c7fc0fc71c0e76a15eb80b85360" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[벨파스트 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152920</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152920</guid>
-            <pubDate>Wed, 23 Feb 2022 05:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc869a2a1cc226fd7583c04588f60000ab433155e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[그 남자는 타이타닉을 보고 싶지 않았다 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -535,6 +535,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F03%2Fjoongang%2F20220303000406926eupd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['인민을 위해 복무하라' 영화VS원작 비교 포인트 셋 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220304164734420</link>
+            <guid>https://movie.v.daum.net/v/20220304164734420</guid>
+            <pubDate>Fri, 04 Mar 2022 11:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '인민을 위해 복무하라(장철수 감독)'가 원작과 영화의 색다른 매력 비교 포인트를 공개했다. '인민을 위해 복무하라'는 출세를 꿈꾸는 모범병사 무광(연우진)이 사단장의 젊은 아내 수련(지안)과의 만남으로 인해 넘어서는 안 될 신분의 벽과 빠져보고 싶은 위험한 유혹 사이에서 갈등하며 벌어지는 이야기. 영화는 세계가 주목한 노벨문학상 후보이자, 중국]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Filgansports%2F20220304164737114snqh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['뜨거운 피', 한국형 누아르 계보 잇는다..날것의 이야기 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220304131632625</link>
             <guid>https://movie.v.daum.net/v/20220304131632625</guid>
@@ -557,14 +565,6 @@
             <pubDate>Fri, 04 Mar 2022 05:18:24 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진=/AFPBBNews=뉴스1 배우 윤여정이 올해 열리는 제94회 아카데미 시상식(오스카)에 참석해 시상자로 무대에 오른다. 3일 아카데미 시상식은 공식 SNS에 올해 시상식의 시상자 명단을 게재했다. 이에 따르면 윤여정은 케빈 코스트너, 레이디 가가, 조 크라비츠, 로지 페레즈, 크리스 록과 함께 이번 시상식의 시상자로 나선]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Fstarnews%2F20220304170908782vdwe.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['인민을 위해 복무하라' 영화VS원작 비교 포인트 셋 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220304164734420</link>
-            <guid>https://movie.v.daum.net/v/20220304164734420</guid>
-            <pubDate>Fri, 04 Mar 2022 11:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '인민을 위해 복무하라(장철수 감독)'가 원작과 영화의 색다른 매력 비교 포인트를 공개했다. '인민을 위해 복무하라'는 출세를 꿈꾸는 모범병사 무광(연우진)이 사단장의 젊은 아내 수련(지안)과의 만남으로 인해 넘어서는 안 될 신분의 벽과 빠져보고 싶은 위험한 유혹 사이에서 갈등하며 벌어지는 이야기. 영화는 세계가 주목한 노벨문학상 후보이자, 중국]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Filgansports%2F20220304164737114snqh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[한국 원작이었어? 하정우→이선균 주연, 넷플릭스 휩쓸었다 [TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -599,20 +599,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Fxportsnews%2F20220304113901740ohvd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[KCM 자전적 이야기 담은 '리프레쉬', 극장 동시 VOD서비스 오픈 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220303234834402</link>
-            <guid>https://movie.v.daum.net/v/20220303234834402</guid>
-            <pubDate>Fri, 04 Mar 2022 01:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] 가수 KCM 주연의 영화 '리프레쉬'가 극장 동시 VOD 서비스를 오픈한다. '리프레쉬'(감독 김길영, 제작 케이엠글로벌미디어, 배급 이놀미디어)는&nbsp;한물 간 가수 K가 국립 마음 치유센터 환자들의 음악치료를 담당하게 되고 그들과 음악 경연 대회를 준비하면서 서로를 치유하는 명랑 힐링 무비. 3일(목)부터 극장 동시 VOD 서비스]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F03%2Fpoctan%2F20220303234835008gtay.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[주말극장가] 경쟁작 없는 분투 '더 배트맨' (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220304084459016</link>
             <guid>https://movie.v.daum.net/v/20220304084459016</guid>
             <pubDate>Fri, 04 Mar 2022 01:20:35 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 한미희 기자 = 올해 첫 히어로 블록버스터 '더 배트맨'이 주말 극장가를 노린다. 신종 코로나바이러스 감염증(코로나19) 확산으로 극장 관객 수가 눈에 띄게 줄어든 가운데 경쟁작 없이 홀로 분투할 것으로 보인다. 4일 영화진흥위원회 영화관입장권 통합전산망에 따르면 삼일절 휴일에 개봉해 19만2천여 명(매출액 점유율 74%)의 관객을 모은]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Fyonhap%2F20220304084459315svmk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[KCM 자전적 이야기 담은 '리프레쉬', 극장 동시 VOD서비스 오픈 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220303234834402</link>
+            <guid>https://movie.v.daum.net/v/20220303234834402</guid>
+            <pubDate>Fri, 04 Mar 2022 01:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자] 가수 KCM 주연의 영화 '리프레쉬'가 극장 동시 VOD 서비스를 오픈한다. '리프레쉬'(감독 김길영, 제작 케이엠글로벌미디어, 배급 이놀미디어)는&nbsp;한물 간 가수 K가 국립 마음 치유센터 환자들의 음악치료를 담당하게 되고 그들과 음악 경연 대회를 준비하면서 서로를 치유하는 명랑 힐링 무비. 3일(목)부터 극장 동시 VOD 서비스]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F03%2Fpoctan%2F20220303234835008gtay.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[임신 중절 원하는 여성, 47년 전 프랑스의 현실 (다음영화 뉴스 ─ 인기)]]></title>
@@ -639,20 +639,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Fkukinews%2F20220304062804183xkpw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[판타지 벗어던지고 돌아온 '더 배트맨' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220303195532485</link>
-            <guid>https://movie.v.daum.net/v/20220303195532485</guid>
-            <pubDate>Fri, 04 Mar 2022 01:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 배트맨이 등장했다. 1일 개봉한 올해 첫 히어로 블록버스터 ‘더 배트맨’(사진)은 DC에서 가장 인기 있는 캐릭터답게 화제를 모으고 있다. ‘더 배트맨’은 개봉 첫날 19만명의 관객을 동원하며 박스오피스 1위, 올해 최고 오프닝 성적을 기록했다. 로버트 패틴슨이 주연하고 맷 리브스 감독이 연출한 ‘더 배트맨’은 배트맨으로 활약한 지 2년 차인 브]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F03%2Fsegye%2F20220303195532168ycch.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA["믿을 수 없었다"..박서준, 英 가디언에 밝힌 '캡틴 마블2' 출연 소감 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220304063630537</link>
             <guid>https://movie.v.daum.net/v/20220304063630537</guid>
             <pubDate>Fri, 04 Mar 2022 12:31:32 GMT</pubDate>
             <content:encoded><![CDATA[배우 박서준. (사진=어썸이엔티)[이데일리 스타in 김보영 기자] 영화 ‘캡틴 마블2’에 캐스팅된 배우 박서준이 마블과 작업하게 된 소감을 외신 인터뷰를 통해 털어놨다. 박서준은 지난 2일(현지시간) 영국 매체 가디언과 인터뷰를 통해 “마블 시네마틱 유니버스(MCU)가 나와 이야기를 나누고 싶어한다는 이야기를 들었을 때 난 정말 믿을 수가 없었다”고 운]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2FEdaily%2F20220304063634072xuoa.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[판타지 벗어던지고 돌아온 '더 배트맨' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220303195532485</link>
+            <guid>https://movie.v.daum.net/v/20220303195532485</guid>
+            <pubDate>Fri, 04 Mar 2022 01:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 배트맨이 등장했다. 1일 개봉한 올해 첫 히어로 블록버스터 ‘더 배트맨’(사진)은 DC에서 가장 인기 있는 캐릭터답게 화제를 모으고 있다. ‘더 배트맨’은 개봉 첫날 19만명의 관객을 동원하며 박스오피스 1위, 올해 최고 오프닝 성적을 기록했다. 로버트 패틴슨이 주연하고 맷 리브스 감독이 연출한 ‘더 배트맨’은 배트맨으로 활약한 지 2년 차인 브]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F03%2Fsegye%2F20220303195532168ycch.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[조진웅 "피렌체 한국영화제, 작품 2편 경쟁 부문 초청 영광" (다음영화 뉴스 ─ 인기)]]></title>
@@ -1467,7 +1467,7 @@
             <link>https://tv.naver.com/v/25469366</link>
             <guid>https://tv.naver.com/v/25469366</guid>
             <pubDate>Fri, 04 Mar 2022 07:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_274/AOV0E_1646378263833PsAP4_JPEG/cccad6f9-9b8a-11ec-bbd8-d4f5ef5a9532_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1475,7 +1475,7 @@
             <link>https://tv.naver.com/v/25468739</link>
             <guid>https://tv.naver.com/v/25468739</guid>
             <pubDate>Fri, 04 Mar 2022 07:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_186/jFBNf_1646376966941UDlup_JPEG/d9fc8dc0-9b87-11ec-ba4e-505dac8c3607_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1491,7 +1491,7 @@
             <link>https://tv.naver.com/v/25466885</link>
             <guid>https://tv.naver.com/v/25466885</guid>
             <pubDate>Fri, 04 Mar 2022 07:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_210/IKIfR_1646371996423Idqyi_JPEG/1646371943967.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1507,7 +1507,7 @@
             <link>https://tv.naver.com/v/25464021</link>
             <guid>https://tv.naver.com/v/25464021</guid>
             <pubDate>Fri, 04 Mar 2022 03:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_175/mdX7i_1646362674892uh6wD_JPEG/fd48c77e-9b65-11ec-94fc-505dac8c3639_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1515,7 +1515,7 @@
             <link>https://tv.naver.com/v/25463131</link>
             <guid>https://tv.naver.com/v/25463131</guid>
             <pubDate>Fri, 04 Mar 2022 02:45:48 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_226/KNgiA_1646360111591fYLBX_JPEG/c5ada60d-9b60-11ec-8a3e-505dac8c381b_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
