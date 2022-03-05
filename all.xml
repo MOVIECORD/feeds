@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 19:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 21:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[집중 인터뷰]김혜수의 진심, 김혜수의 책임감 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011044652</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011044652</guid>
+            <pubDate>Sat, 05 Mar 2022 21:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[기사내용 요약 넷플릭스 '소년심판'서 판사 심은석 역 소년범 혐오 동시에 범죄 이면 고뇌해 "메시지에 최대한의 진정성 담아냈다" "무거운 책임 어떤 때보다 준비 철저" "소년범죄 단순한 논리로 해결 안 돼" "어른]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] '이나수' 조윤서, "영화 엔딩 크레딧 이름 뜰 때 눈물" (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000136122</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[[이데일리 스타in 박미애 기자] 개봉 영화를 소개합니다. ◇더 배트맨 어린 시절 겪은 부모의 죽음으로 인해 배트맨으로서 고담시의 범법자들을 응징하며 살아온지 2년째. 브루스 웨인(로버트 패틴슨 분)은, 시장 선거를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['엄마를 부탁해' 김영옥, 현역 최고령 주연..이순재·윤여정 기록 깼다 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003033393</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003033393</guid>
-            <pubDate>Sat, 05 Mar 2022 02:37:51 GMT</pubDate>
-            <content:encoded><![CDATA[관록의 대배우 김영옥이 65년 연기 인생 첫 주연을 맡았다. 대한민국 현역 최고령 여성 배우인 김영옥은 이 작품으로 스크린 현역 최고령 주연 배우로 등극했다. 김영옥 배우는 '미나리'로 한국배우 최초 미국 아카데미]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[더 배트맨 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=110137</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=110137</guid>
@@ -311,14 +311,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ee3e94ab72ab91fbb2dce546aa5a79152bb9901" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[스크림 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154526</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154526</guid>
-            <pubDate>Sat, 05 Mar 2022 05:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd615f49fe381ac00cd48f0f8789746e911af66b4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[킹메이커 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=118715</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=118715</guid>
@@ -341,6 +333,14 @@
             <pubDate>Mon, 07 Feb 2022 10:19:27 GMT</pubDate>
             <content:encoded><![CDATA[22.02.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec5d488e21478c0b7d565bcbd75523719209bbb7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[씽2게더 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138207</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138207</guid>
+            <pubDate>Sat, 05 Mar 2022 21:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1021e3e3e714bc8ebf67f8c3e238a56ada885292" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[이상한 나라의 수학자 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -567,14 +567,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Fxportsnews%2F20220304113901740ohvd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[더 음울해진 미완성 히어로의 분투 '더 배트맨' [쿡리뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220304062802450</link>
-            <guid>https://movie.v.daum.net/v/20220304062802450</guid>
-            <pubDate>Sat, 05 Mar 2022 02:38:13 GMT</pubDate>
-            <content:encoded><![CDATA[수많은 할리우드산 히어로 가운데에서 배트맨이 차지하는 입지는 독특하다. 위기에 빠진 지구평화를 지키기 위해 동분서주하는 것도 중요하지만, 동시에 자신의 정체성을 끊임없이 고뇌하는 캐릭터다. 전반적인 분위기가 어둡고 선악 구분이 모호하다. 그리고 역대 가장 완성도 높은 히어로 영화로 손꼽히는 크리스토퍼 놀란 감독의 ‘다크 나이트’ 3부작 주인공이기도 하다]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Fkukinews%2F20220304062804183xkpw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[임신 중절 원하는 여성, 47년 전 프랑스의 현실 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220304100000214</link>
             <guid>https://movie.v.daum.net/v/20220304100000214</guid>
@@ -591,6 +583,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Fyonhap%2F20220304084459315svmk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[더 음울해진 미완성 히어로의 분투 '더 배트맨' [쿡리뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220304062802450</link>
+            <guid>https://movie.v.daum.net/v/20220304062802450</guid>
+            <pubDate>Sat, 05 Mar 2022 02:38:13 GMT</pubDate>
+            <content:encoded><![CDATA[수많은 할리우드산 히어로 가운데에서 배트맨이 차지하는 입지는 독특하다. 위기에 빠진 지구평화를 지키기 위해 동분서주하는 것도 중요하지만, 동시에 자신의 정체성을 끊임없이 고뇌하는 캐릭터다. 전반적인 분위기가 어둡고 선악 구분이 모호하다. 그리고 역대 가장 완성도 높은 히어로 영화로 손꼽히는 크리스토퍼 놀란 감독의 ‘다크 나이트’ 3부작 주인공이기도 하다]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Fkukinews%2F20220304062804183xkpw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[70대 윤여정→20대 정호연, 아름다운 기록 그리고 기적 [김미화의 날선무비] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220305130105656</link>
             <guid>https://movie.v.daum.net/v/20220305130105656</guid>
@@ -599,20 +599,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F05%2Fstarnews%2F20220305130106465epzd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['이상한 나라의 수학자' 김동휘 "250대 1 경쟁률 뚫고 만난 최민식..빠져들었다" [★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220305150002730</link>
-            <guid>https://movie.v.daum.net/v/20220305150002730</guid>
-            <pubDate>Sat, 05 Mar 2022 06:22:40 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 영화 '이상한 나라의 수학자'(감독 박동훈)의 배우 김동휘가 25일 오전 진행된 화상 인터뷰를 위해 포즈를 취하고 있다.  신분을 감추고 고등학교 경비원으로 일하는 탈북한 천재 수학자가 수학을 포기한 학생을 만나며 벌어지는 영화 '이상한 나라의 수학자'는 내달 9일 개봉된다. /사진제공=쇼박스 2022.02.25 /사진=이동훈 기자]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F05%2Fstarnews%2F20220305150003506sdvk.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[최악이었던 내 얘기, 누군가의 블로그에 쓰여있다면? (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220305123600302</link>
             <guid>https://movie.v.daum.net/v/20220305123600302</guid>
             <pubDate>Sat, 05 Mar 2022 10:20:00 GMT</pubDate>
             <content:encoded><![CDATA[[장혜령 기자] ▲ &nbsp;영화 &lt;소피의 세계&gt; 스틸컷    ⓒ 소피의 세계  누구에게나 힘들었을 때가 있다. 이를 극복하면 훗날 추억으로 남아 웃으면서 이야기할 수 있다. 하지만 추억이란 단어는 어떨 때는 잔인기만 하다. 그 상황이 진행 중이라면 다시는 떠올리고 싶지 않은 씁쓸한 기억이 될 테니까. &lt;소피의 세계&gt;는 앞선 이유를 들어 필자에게 추]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F05%2Fohmynews%2F20220305123601875clxv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['이상한 나라의 수학자' 김동휘 "250대 1 경쟁률 뚫고 만난 최민식..빠져들었다" [★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220305150002730</link>
+            <guid>https://movie.v.daum.net/v/20220305150002730</guid>
+            <pubDate>Sat, 05 Mar 2022 06:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 영화 '이상한 나라의 수학자'(감독 박동훈)의 배우 김동휘가 25일 오전 진행된 화상 인터뷰를 위해 포즈를 취하고 있다.  신분을 감추고 고등학교 경비원으로 일하는 탈북한 천재 수학자가 수학을 포기한 학생을 만나며 벌어지는 영화 '이상한 나라의 수학자'는 내달 9일 개봉된다. /사진제공=쇼박스 2022.02.25 /사진=이동훈 기자]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F05%2Fstarnews%2F20220305150003506sdvk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[서효림→윤채경, 영화 '인드림' 캐스팅 확정 [공식] (다음영화 뉴스 ─ 인기)]]></title>
@@ -647,20 +647,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F05%2Fstarnews%2F20220305120003667pnha.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[이정재·정호연, 美SAG 남녀주연상→윤여정, 오스카 시상대 오른다 [위클리 무비] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220305080003447</link>
-            <guid>https://movie.v.daum.net/v/20220305080003447</guid>
-            <pubDate>Sat, 05 Mar 2022 02:38:13 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 한 주간 영화 뉴스 /사진=/AFPBBNews=뉴스1 ○...이정재 정호연이 넷플릭스 '오징어 게임'으로 미국 배우조합상 시상식( SAG Awards)에서 남녀주연상을 수상했다.  지난 2월 27일 저녁(미국시간, 한국시간으로 28일 오전) 미국 로스엔젤레스에서 열린 28회 배우조합상 시상식에서 이정재와 정호연은 각각 TV드라마]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F05%2Fstarnews%2F20220305080004482bdyi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['월클' 박서준 "한국에 보석 같은 작품 많아" 英 가디언 단독 인터뷰 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220304162030557</link>
             <guid>https://movie.v.daum.net/v/20220304162030557</guid>
             <pubDate>Sat, 05 Mar 2022 19:15:51 GMT</pubDate>
             <content:encoded><![CDATA[[TV리포트=박설이 기자]배우 박서준이 영국의 유력 일간지 가디언지(THE GUARDIAN)과 단독 인터뷰를 가졌다. 3일(현지시간) 영국 가디언지는 박서준을 MCU에 합류한 한국 배우라고 소개하며 그의 연기 인생과 작품 세계를 심도 있게 조명했다. 박서준 소속사 어썸이엔티 관계자는 “지난해 해외 촬영 중 가디언지 인터뷰 제안을 받았고, 귀국 후인 1월 초]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F04%2Ftvreport%2F20220304162031867ffjc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[OTT다방] 큐레이션 : 지금 안보면 곧 사라지는 넷플릭스·왓챠 추천작 6 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220305130053650</link>
+            <guid>https://movie.v.daum.net/v/20220305130053650</guid>
+            <pubDate>Sat, 05 Mar 2022 21:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] OTT 속 수많은 영화들, ‘다음에 봐야지’ 하며 체크만 해뒀다가는 놓치는 수가 있다. 모든 작품에는 서비스 종료 기한이 있기 때문. 사라지기 전에 서둘러 봐야 할 작품들을 알아보는 서울경제스타 ‘OTT다방 큐레이션’ 시간이 돌아왔다. 이번주에도 안 보면 사라지는 흥미로운 작품들이 많으니 빠르게 감상하도록 하자. ◆넷플릭스 | 10대 소녀들에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F05%2Fseouleconomy%2F20220305130125017dyud.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] '이나수' 조윤서, "영화 엔딩 크레딧 이름 뜰 때 눈물" (다음영화 뉴스 ─ 최신)]]></title>
