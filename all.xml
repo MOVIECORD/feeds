@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 18:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 19:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -415,20 +415,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3741882ac3d1e790de3cf934aaf4bd886c5565ea" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[도어맨 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144409</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144409</guid>
-            <pubDate>Tue, 01 Mar 2022 01:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F37c7b1c61c83eb6ada6f6193afc56dc7c9881165" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[스펜서 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145181</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145181</guid>
             <pubDate>Mon, 21 Feb 2022 04:24:51 GMT</pubDate>
             <content:encoded><![CDATA[22.03.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1672f6d3d5ff3c7fc0fc71c0e76a15eb80b85360" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[도어맨 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144409</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144409</guid>
+            <pubDate>Tue, 01 Mar 2022 01:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F37c7b1c61c83eb6ada6f6193afc56dc7c9881165" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아망떼 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -527,20 +527,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2Fstarnews%2F20220307095031574ddnt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[한소희, 母와 천륜은 못 끊어도 손절..단호한 결정은 잘한 일(종합)[Oh!쎈 초점] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220307193224331</link>
-            <guid>https://movie.v.daum.net/v/20220307193224331</guid>
-            <pubDate>Mon, 07 Mar 2022 11:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;배우 한소희가 그동안 친어머니의 빚을 대신 갚아야하는 상황에 여러 차례 놓였지만, 앞으로는 단호하게 대처해 나가겠다는 입장을 밝혔다. 어떠한 이유로든 어머니의 빚을 나서서 갚아주지 않겠다고 냉정한 태도를 보여준 것은 가슴 아프지만 응원받아야 마땅하다. 우리나라에서는 흔히 부모와 자식을 놓고 끊으려고 해도 끊을 수 없는 하늘의 도]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2Fpoctan%2F20220307193225799kyzc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[너의 정체가 무엇이더냐, '더 배트맨'이 던지는 176분짜리 질문 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220307155331008</link>
             <guid>https://movie.v.daum.net/v/20220307155331008</guid>
             <pubDate>Mon, 07 Mar 2022 10:21:07 GMT</pubDate>
             <content:encoded><![CDATA[[엔터미디어=정덕현의 네모난 세상] 브루스 웨인(로버트 패틴슨)은 자경단 2년차지만 자신이 누구냐는 질문에 "복수(vengeance)"라고 답한다. 그는 부모님이 피살된 후 분노에 가득 차 있다. 그래서 이 고담시의 악과 맞선다는 명분을 세우고 배트맨 가면을 쓴 채 자신을 부르는 곳으로 달려가 악당들과 싸우지만, 그 주먹에는 분노의 표출로서의 폭력이 스며들]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2Fentermedia%2F20220307155334225figh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[한소희, 母와 천륜은 못 끊어도 손절..단호한 결정은 잘한 일(종합)[Oh!쎈 초점] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220307193224331</link>
+            <guid>https://movie.v.daum.net/v/20220307193224331</guid>
+            <pubDate>Mon, 07 Mar 2022 11:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;배우 한소희가 그동안 친어머니의 빚을 대신 갚아야하는 상황에 여러 차례 놓였지만, 앞으로는 단호하게 대처해 나가겠다는 입장을 밝혔다. 어떠한 이유로든 어머니의 빚을 나서서 갚아주지 않겠다고 냉정한 태도를 보여준 것은 가슴 아프지만 응원받아야 마땅하다. 우리나라에서는 흔히 부모와 자식을 놓고 끊으려고 해도 끊을 수 없는 하늘의 도]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2Fpoctan%2F20220307193225799kyzc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[깊은 내면 연기에 외모 재현도 완벽.. 다시 빛난 '다이애나' (다음영화 뉴스 ─ 인기)]]></title>
@@ -567,20 +567,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2Fstarnews%2F20220307121747529hkwx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[우리에게 필요한 '이상한 나라의 수학자' [씨네뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220307111807936</link>
-            <guid>https://movie.v.daum.net/v/20220307111807936</guid>
-            <pubDate>Mon, 07 Mar 2022 08:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] '내게도 이런 선생이 있었다면 어땠을까'라는 생각이 절로 든다. '이상(異常)'한 수학자가 아닌 '이상(理想)'적인 수학자의 가르침으로 깊은 울림을 선사하는 영화 '이상한 나라의 수학자'다. 9일 개봉하는 '이상한 나라의 수학자'(감독 박동훈·제작 조이래빗)는 자신의 신분과 사연을 숨긴 채 상위 1%의 영재들이 모인 자사고의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2Ftvdaily%2F20220307111808287wang.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['뜨거운 피' 차원이 다른 날 것의 느와르 탄생 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220307111011583</link>
             <guid>https://movie.v.daum.net/v/20220307111011583</guid>
             <pubDate>Mon, 07 Mar 2022 08:23:29 GMT</pubDate>
             <content:encoded><![CDATA[[티브이데일리 최하나 기자] '뜨거운 피'가 2차 예고편을 공개했다. 영화 '뜨거운 피'(감독 천명관·제작 고래픽처스)는 1993년, 더 나쁜 놈만이 살아남는 곳 부산 변두리 포구 구암의 실세 희수(정우)와 그곳에서 살아남기 위한 밑바닥 건달들의 치열한 생존 싸움을 그린 작품이다. 이번에 공개된 2차 예고편은 나이 마흔, 건달 생활에 회의감을 느껴 다른]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2Ftvdaily%2F20220307111012422rjcj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[우리에게 필요한 '이상한 나라의 수학자' [씨네뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220307111807936</link>
+            <guid>https://movie.v.daum.net/v/20220307111807936</guid>
+            <pubDate>Mon, 07 Mar 2022 08:23:29 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김종은 기자] '내게도 이런 선생이 있었다면 어땠을까'라는 생각이 절로 든다. '이상(異常)'한 수학자가 아닌 '이상(理想)'적인 수학자의 가르침으로 깊은 울림을 선사하는 영화 '이상한 나라의 수학자'다. 9일 개봉하는 '이상한 나라의 수학자'(감독 박동훈·제작 조이래빗)는 자신의 신분과 사연을 숨긴 채 상위 1%의 영재들이 모인 자사고의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2Ftvdaily%2F20220307111808287wang.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[테니스 비너스·세리나 자매 父 이야기 '킹 리차드' 예고편 공개 (다음영화 뉴스 ─ 인기)]]></title>
@@ -631,14 +631,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2FSPORTSSEOUL%2F20220307175516197ymim.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['고양이 천국' 아파트가 헐린다..250마리 길냥이 피난의 기록 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220307160041317</link>
-            <guid>https://movie.v.daum.net/v/20220307160041317</guid>
-            <pubDate>Mon, 07 Mar 2022 08:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 오보람 기자 = 깡마른 눈과 겁에 질린 눈빛, 주춤주춤 사람을 피해 도망가는 걸음걸이. 대개 길에서 마주치는 고양이들의 모습은 이렇다. 그런데 서울 강동구 둔촌주공아파트에 터를 잡고 살아가는 고양이들은 영 딴판이다. 사람을 보면 반가운 듯 종아리에 머리를 비벼대고 배를 뒤집기도 한다. 수년, 수십 년간 주민들의 돌봄을 받아온 덕에 반 집고]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2Fyonhap%2F20220307160041101rqfo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[김은희 '시그널' 리메이크작 31일 개봉 [공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220307102100216</link>
             <guid>https://movie.v.daum.net/v/20220307102100216</guid>
@@ -647,20 +639,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2Fsportsdonga%2F20220307102102706ywsj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['고양이 천국' 아파트가 헐린다..250마리 길냥이 피난의 기록 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220307160041317</link>
+            <guid>https://movie.v.daum.net/v/20220307160041317</guid>
+            <pubDate>Mon, 07 Mar 2022 08:23:29 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 오보람 기자 = 깡마른 눈과 겁에 질린 눈빛, 주춤주춤 사람을 피해 도망가는 걸음걸이. 대개 길에서 마주치는 고양이들의 모습은 이렇다. 그런데 서울 강동구 둔촌주공아파트에 터를 잡고 살아가는 고양이들은 영 딴판이다. 사람을 보면 반가운 듯 종아리에 머리를 비벼대고 배를 뒤집기도 한다. 수년, 수십 년간 주민들의 돌봄을 받아온 덕에 반 집고]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2Fyonhap%2F20220307160041101rqfo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[마이클 베이 감독x제이크 질렌할 만난 '앰뷸런스', 4월 6일 국내 개봉[공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220307182933134</link>
+            <guid>https://movie.v.daum.net/v/20220307182933134</guid>
+            <pubDate>Mon, 07 Mar 2022 19:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자] '트랜스포머' 시리즈, '6언더그라운드' 등의 영화로 전세계 관객을&nbsp;사로잡은 마이클 베이 감독이 내달 액션 블록버스터 '앰뷸런스'로 국내 극장가를 찾는다. 새 영화 '앰뷸런스'(수입배급 유니버설 픽쳐스)는 인생 역전을 위해 완전 범죄를 설계한 형 대니와 아내를 살리기 위해 어쩔 수 없이 범죄에 가담한 동생 윌, 한치 앞도 알 수]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2Fpoctan%2F20220307182934241xiqb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[대종상 놓고 힘겨루기, 충무로 신구세력 갈등 폭발 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220307162101290</link>
             <guid>https://movie.v.daum.net/v/20220307162101290</guid>
             <pubDate>Mon, 07 Mar 2022 12:31:32 GMT</pubDate>
             <content:encoded><![CDATA[[성하훈 기자] ▲ &nbsp;1962년 시작된 1회 대종상영화제. 남우주연상을 수상한 신영균 배우    ⓒ 국가기록원(문체부)  &nbsp; 1990년대 들어 세력을 확대한 한국 영화운동이 기존 주류였던 충무로 구체제와 본격적으로 대립하게 된 계기는 대종상이었다. 기획영화를 통해 충무로의 신예로 부상한 영화운동은 차별화된 작품으로 흥행에도 두각을 나타내면서]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2Fohmynews%2F20220307162104451nddd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['소년심판', 그다음의 이야기..김혜수 "역할·책임에 대한 담론 던지는 작품" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220306095808866</link>
-            <guid>https://movie.v.daum.net/v/20220306095808866</guid>
-            <pubDate>Sun, 06 Mar 2022 02:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 소년심판 / 사진=트위터 블루룸 라이브넷플릭스 '소년심판'이 작품의 의미를 확장시키는 라이브 토크를 진행했다. 김지윤 박사의 진행으로 문을 연 트위터 블루룸 라이브에는 김혜수와 김민석 작가, 정재민 전 판사 겸 작가, 박지선 교수, 다니엘 린데만이 참석했다. 누적 시청자 82만 명을 돌파하며 뜨거운 관심 속 진행된 라이브 토크에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F06%2Fstarnews%2F20220306095809699wbon.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<뜨거운 피> 2차 예고편 (우리 영화 볼래?)]]></title>
@@ -1307,7 +1307,7 @@
             <link>https://tv.naver.com/v/25519261</link>
             <guid>https://tv.naver.com/v/25519261</guid>
             <pubDate>Mon, 07 Mar 2022 10:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_240/xeEU5_1646643277903AKEyQ_JPEG/10f9a5f7-9df4-11ec-9d42-d4f5ef58ad5e_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1315,7 +1315,7 @@
             <link>https://tv.naver.com/v/25517316</link>
             <guid>https://tv.naver.com/v/25517316</guid>
             <pubDate>Mon, 07 Mar 2022 08:24:03 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_146/gsqoj_16466392766979fA26_JPEG/b0949bd2-9dea-11ec-b69c-a0369ff94ed0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1323,7 +1323,7 @@
             <link>https://tv.naver.com/v/25517131</link>
             <guid>https://tv.naver.com/v/25517131</guid>
             <pubDate>Mon, 07 Mar 2022 08:24:03 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_4/UZbIx_1646638945751fLTWQ_JPEG/f3865a97-9de6-11ec-a7bf-48df37ae3dc4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1331,7 +1331,7 @@
             <link>https://tv.naver.com/v/25514255</link>
             <guid>https://tv.naver.com/v/25514255</guid>
             <pubDate>Mon, 07 Mar 2022 06:24:56 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_6/YfxER_1646633532732iIkxu_JPEG/13e70b59-9ddb-11ec-9e68-a0369ff9545c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1339,7 +1339,7 @@
             <link>https://tv.naver.com/v/25513576</link>
             <guid>https://tv.naver.com/v/25513576</guid>
             <pubDate>Mon, 07 Mar 2022 06:24:56 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_222/6aHHY_1646632157648hM9rz_JPEG/30f61e7e-9dda-11ec-bcec-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1347,7 +1347,7 @@
             <link>https://tv.naver.com/v/25509601</link>
             <guid>https://tv.naver.com/v/25509601</guid>
             <pubDate>Mon, 07 Mar 2022 03:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_68/JfZIr_1646622075216ju0c7_JPEG/221859d2-9dc2-11ec-a4b8-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1355,7 +1355,7 @@
             <link>https://tv.naver.com/v/25509323</link>
             <guid>https://tv.naver.com/v/25509323</guid>
             <pubDate>Mon, 07 Mar 2022 03:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_140/LFkX4_1646621433454QAOCi_JPEG/1646621429772.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1371,7 +1371,7 @@
             <link>https://tv.naver.com/v/25508314</link>
             <guid>https://tv.naver.com/v/25508314</guid>
             <pubDate>Mon, 07 Mar 2022 02:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_168/hH4El_1646618667672WTnTa_JPEG/3d26bfa3-9dba-11ec-b69c-a0369ff94ed0_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1379,7 +1379,7 @@
             <link>https://tv.naver.com/v/25507895</link>
             <guid>https://tv.naver.com/v/25507895</guid>
             <pubDate>Mon, 07 Mar 2022 02:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_222/kB3lo_1646617649158V0KRP_JPEG/6eafa285-9db8-11ec-aea6-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1387,7 +1387,7 @@
             <link>https://tv.naver.com/v/25507716</link>
             <guid>https://tv.naver.com/v/25507716</guid>
             <pubDate>Mon, 07 Mar 2022 02:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_209/bNT8M_1646617043753OBMU2_JPEG/bc4bde5b-9db6-11ec-b19d-505dacfba98a_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
