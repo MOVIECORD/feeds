@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 10:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 11:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한소희, 母와 천륜은 못 끊어도 손절…단호한 결정은 잘한 일(종합)[Oh!쎈 초점] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004568763</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004568763</guid>
+            <pubDate>Mon, 07 Mar 2022 11:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자] 배우 한소희가 그동안 친어머니의 빚을 대신 갚아야하는 상황에 여러 차례 놓였지만, 앞으로는 단호하게 대처해 나가겠다는 입장을 밝혔다. 어떠한 이유로든 어머니의 빚을 나서서 갚아주지 않겠다고]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[영상자료원 노조, 문체부 출신 인사 사무국장 임명 시도에 반발 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000797716</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[유력 대선후보의 B컷을 둘러싼 충격 스캔들을 다루고 있는 디지털 범죄 스릴러 ‘B컷’이 3월 30일 개봉 확정과 함께 캐릭터 포스터 3종을 공개했다. 일명 탐정까기로 한탕을 꿈꾸던 스마트폰 사설수리업자 승현이 유력]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유연석 ‘베니싱’, 3월30일 개봉 확정 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000797647</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000797647</guid>
-            <pubDate>Mon, 07 Mar 2022 07:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 배우 유연석의 새 영화 ‘베니싱: 미제사건’(감독 드니 데르쿠르)이 관객을 맞이한다. 공동배급사 제이앤씨미디어그룹 측은 7일 “‘베니싱: 미제사건’이 오는 30일 개봉한다”며 1차 메인 포스터를 공개했]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[더 배트맨 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=110137</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=110137</guid>
@@ -247,14 +247,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fc5880afdb5b7c60161f34184e1f466814fec2d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[우리가 사랑이라고 믿는 것 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=134485</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=134485</guid>
-            <pubDate>Thu, 24 Feb 2022 01:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F59f14769d01ff2e8ec75a72ce36be48c7a28d755" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[나이트 레이더스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=148354</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=148354</guid>
@@ -269,6 +261,14 @@
             <pubDate>Thu, 10 Feb 2022 18:23:33 GMT</pubDate>
             <content:encoded><![CDATA[22.02.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8794ab82e2da32c0efa0187c65735d6249e37d43" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[우리가 사랑이라고 믿는 것 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=134485</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=134485</guid>
+            <pubDate>Thu, 24 Feb 2022 01:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F59f14769d01ff2e8ec75a72ce36be48c7a28d755" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스크림 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -543,6 +543,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2Fstarnews%2F20220307121747529hkwx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[너의 정체가 무엇이더냐, '더 배트맨'이 던지는 176분짜리 질문 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220307155331008</link>
+            <guid>https://movie.v.daum.net/v/20220307155331008</guid>
+            <pubDate>Mon, 07 Mar 2022 10:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[[엔터미디어=정덕현의 네모난 세상] 브루스 웨인(로버트 패틴슨)은 자경단 2년차지만 자신이 누구냐는 질문에 "복수(vengeance)"라고 답한다. 그는 부모님이 피살된 후 분노에 가득 차 있다. 그래서 이 고담시의 악과 맞선다는 명분을 세우고 배트맨 가면을 쓴 채 자신을 부르는 곳으로 달려가 악당들과 싸우지만, 그 주먹에는 분노의 표출로서의 폭력이 스며들]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2Fentermedia%2F20220307155334225figh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[넷플릭스 "러 서비스 중단"..디즈니·워너·소니 "영화 개봉 No" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220307150253667</link>
             <guid>https://movie.v.daum.net/v/20220307150253667</guid>
@@ -557,14 +565,6 @@
             <pubDate>Mon, 07 Mar 2022 08:23:29 GMT</pubDate>
             <content:encoded><![CDATA[[티브이데일리 김종은 기자] '내게도 이런 선생이 있었다면 어땠을까'라는 생각이 절로 든다. '이상(異常)'한 수학자가 아닌 '이상(理想)'적인 수학자의 가르침으로 깊은 울림을 선사하는 영화 '이상한 나라의 수학자'다. 9일 개봉하는 '이상한 나라의 수학자'(감독 박동훈·제작 조이래빗)는 자신의 신분과 사연을 숨긴 채 상위 1%의 영재들이 모인 자사고의]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2Ftvdaily%2F20220307111808287wang.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[너의 정체가 무엇이더냐, '더 배트맨'이 던지는 176분짜리 질문 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220307155331008</link>
-            <guid>https://movie.v.daum.net/v/20220307155331008</guid>
-            <pubDate>Mon, 07 Mar 2022 10:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[[엔터미디어=정덕현의 네모난 세상] 브루스 웨인(로버트 패틴슨)은 자경단 2년차지만 자신이 누구냐는 질문에 "복수(vengeance)"라고 답한다. 그는 부모님이 피살된 후 분노에 가득 차 있다. 그래서 이 고담시의 악과 맞선다는 명분을 세우고 배트맨 가면을 쓴 채 자신을 부르는 곳으로 달려가 악당들과 싸우지만, 그 주먹에는 분노의 표출로서의 폭력이 스며들]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2Fentermedia%2F20220307155334225figh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['뜨거운 피' 차원이 다른 날 것의 느와르 탄생 (다음영화 뉴스 ─ 인기)]]></title>
@@ -589,6 +589,14 @@
             <pubDate>Mon, 07 Mar 2022 10:21:07 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠서울 | 황혜정 인턴기자] 영화 ‘킹 리차드’의 예고편이 공개됐다. ‘킹 리차드’는 무려 20여 년간 세계 최강의 테니스 제왕으로 군림한 비너스, 세레나 월리엄스 자매와 딸들을 키워낸 아버지 리차드 윌리엄스, 그리고 기꺼이 한 팀이 되어준 가족들의 감동적인 여정을 그린 실화 가족 드라마다. 타이틀롤은 배우 윌 스미스가 맡았다. 윌 스]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2FSPORTSSEOUL%2F20220307163257670aszn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[한소희, 母와 천륜은 못 끊어도 손절..단호한 결정은 잘한 일(종합)[Oh!쎈 초점] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220307193224331</link>
+            <guid>https://movie.v.daum.net/v/20220307193224331</guid>
+            <pubDate>Mon, 07 Mar 2022 11:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;배우 한소희가 그동안 친어머니의 빚을 대신 갚아야하는 상황에 여러 차례 놓였지만, 앞으로는 단호하게 대처해 나가겠다는 입장을 밝혔다. 어떠한 이유로든 어머니의 빚을 나서서 갚아주지 않겠다고 냉정한 태도를 보여준 것은 가슴 아프지만 응원받아야 마땅하다. 우리나라에서는 흔히 부모와 자식을 놓고 끊으려고 해도 끊을 수 없는 하늘의 도]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2Fpoctan%2F20220307193225799kyzc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["대한민국은 언제나 국민이 살렸다" (다음영화 뉴스 ─ 인기)]]></title>
@@ -639,28 +647,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F06%2Fstarnews%2F20220306161434223wioq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['이상한 나라의 수학자' 김동휘 "박정민·이병헌과 연기할 날 꿈꿔"[인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220306160927480</link>
-            <guid>https://movie.v.daum.net/v/20220306160927480</guid>
-            <pubDate>Sun, 06 Mar 2022 12:29:48 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] “30대는 박정민, 40대는 조승우, 50대는 이병헌, 60대는 최민식 선배가 롤모델이예요” 배우 김동휘는 드라마 ‘비밀의 숲2’에서 조승우, 영화 ‘이상한 나라의 수학자’에서 최민식 배우와 호흡을 맞췄다. 김동휘는 다음 작품에서는 박정민, 이병헌에게 배우고 싶다고 당찬 바람을 드러냈다. ‘이상한 나라의 수학자’에서 250대 1의 경]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F06%2Fsportskhan%2F20220306160928807cwwk.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[색계·화양연화 빗댄 '인민을 위해 복무하라'의 자신감은 어디에? 처참한 관객수[SS무비] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220307175513001</link>
+            <guid>https://movie.v.daum.net/v/20220307175513001</guid>
+            <pubDate>Mon, 07 Mar 2022 11:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 황혜정 인턴기자] 지난달 23일 개봉한 영화 ‘인민을 위해 복무하라’는 개봉 12일 차인 지난 6일 기준, 누적 관객수 6만7709명을 기록 중이다. 지난 1일 개봉한 영화 ‘더 배트맨’은 개봉 6일 만에 누적 관객수 50만명을 넘었다. 팬층이 두터운 할리우드 블록버스터와 비교하는 것은 무리가 있으니 어린이용으로 나온 애니메이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2FSPORTSSEOUL%2F20220307175516197ymim.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[이제훈, 1억 기부 "산불 진화·피해 복구 하루빨리 이뤄지길"[공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220306172454166</link>
-            <guid>https://movie.v.daum.net/v/20220306172454166</guid>
-            <pubDate>Sun, 06 Mar 2022 12:29:48 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] 배우 이제훈이 이병헌, 송강호에 이어 산불 피해자 긴급 모금에 동참했다. 6일 희망브리지 전국재해구호협회 측은 “이제훈이 산불 피해에 대한 지원과 긴급구호에 써달라며 1억 원을 전달했다”고 밝혔다. 이날 앞서 이병헌과 송강호도 순차적으로 1억 원을 쾌척했던 바. 이제훈도 선배들의 뜻을 이어 기부 행렬에 동참한 것으로 보인다. 희]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F06%2Fpoctan%2F20220306172454749sorw.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA["유력 대선후보의 휴대폰을 손에 넣었다"..'B컷' 이달 30일 개봉[공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220307174633612</link>
+            <guid>https://movie.v.daum.net/v/20220307174633612</guid>
+            <pubDate>Mon, 07 Mar 2022 11:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;유력 대선후보의 B컷을 둘러싼 충격 스캔들을 다루고 있는 디지털 범죄 스릴러 'B컷'이 이달 30일 개봉 확정과 함께 캐릭터 포스터 3종을 공개했다. 일명 '탐정까기'로 한탕을 꿈꾸던 스마트폰 사설수리업자 승현(김동완 분)이 유력 대선후보의 비밀이 담긴 핸드폰을 손에 넣으면서 벌어지는 디지털 범죄 스릴러 'B컷'(감독 김진영,]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2Fpoctan%2F20220307174633428mmks.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[대종상 놓고 힘겨루기, 충무로 신구세력 갈등 폭발 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220307162101290</link>
-            <guid>https://movie.v.daum.net/v/20220307162101290</guid>
-            <pubDate>Mon, 07 Mar 2022 08:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[[성하훈 기자] ▲ &nbsp;1962년 시작된 1회 대종상영화제. 남우주연상을 수상한 신영균 배우    ⓒ 국가기록원(문체부)  &nbsp; 1990년대 들어 세력을 확대한 한국 영화운동이 기존 주류였던 충무로 구체제와 본격적으로 대립하게 된 계기는 대종상이었다. 기획영화를 통해 충무로의 신예로 부상한 영화운동은 차별화된 작품으로 흥행에도 두각을 나타내면서]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2Fohmynews%2F20220307162104451nddd.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[한소희, 母와 천륜은 못 끊어도 손절..단호한 결정은 잘한 일(종합)[Oh!쎈 초점] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220307193224331</link>
+            <guid>https://v.daum.net/v/20220307193224331</guid>
+            <pubDate>Mon, 07 Mar 2022 11:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;배우 한소희가 그동안 친어머니의 빚을 대신 갚아야하는 상황에 여러 차례 놓였지만, 앞으로는 단호하게 대처해 나가겠다는 입장을 밝혔다. 어떠한 이유로든 어머니의 빚을 나서서 갚아주지 않겠다고 냉정한 태도를 보여준 것은 가슴 아프지만 응원받아야 마땅하다. 우리나라에서는 흔히 부모와 자식을 놓고 끊으려고 해도 끊을 수 없는 하늘의 도]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2Fpoctan%2F20220307193225799kyzc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[마이클 베이 감독x제이크 질렌할 만난 '앰뷸런스', 4월 6일 국내 개봉[공식] (다음영화 뉴스 ─ 최신)]]></title>
@@ -813,14 +821,6 @@
             <pubDate>Mon, 07 Mar 2022 06:24:28 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 그룹 신화 멤버 겸 배우 김동완 주연작 'B컷'이 오는 30일 개봉한다. 영화 'B컷'(감독 김진영)은 일명 탐정까기로 한탕을 꿈꾸던 스마트폰 사설수리업자 승현(김동완)이 유력 대선후보의 비밀이 담긴 핸드폰을 손에 넣으면서 벌어지는 디지털 범죄 스릴러다. 이달 30일 개봉을 확정한 가운데, 캐릭터 포스터 3종을 공개하며 관심]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2Fmydaily%2F20220307134032901decq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[김동완 'B컷', 30일 개봉 확정..대선 후보 휴대폰의 비밀 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220307133438808</link>
-            <guid>https://v.daum.net/v/20220307133438808</guid>
-            <pubDate>Mon, 07 Mar 2022 07:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 유력 대선후보의 B컷을 둘러싼 충격 스캔들을 다루고 있는 디지털 범죄 스릴러 'B컷'(감독 김진영)이 30일 개봉을 확정했다. 배급사 TCO㈜더콘텐츠온은 'B컷'의 30일 개봉 소식과 함께 김동완, 전세현, 김병옥의 얼굴이 들어간 캐릭터 포스터를 공개했다. 'B컷'은 일명 탐정까기로 한탕을 꿈꾸던 스마트폰 사설수리업자]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2FNEWS1%2F20220307133440607tyno.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<뜨거운 피> 2차 예고편 (우리 영화 볼래?)]]></title>
@@ -1467,7 +1467,7 @@
             <link>https://tv.naver.com/v/25519261</link>
             <guid>https://tv.naver.com/v/25519261</guid>
             <pubDate>Mon, 07 Mar 2022 10:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_240/xeEU5_1646643277903AKEyQ_JPEG/10f9a5f7-9df4-11ec-9d42-d4f5ef58ad5e_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1475,7 +1475,7 @@
             <link>https://tv.naver.com/v/25517316</link>
             <guid>https://tv.naver.com/v/25517316</guid>
             <pubDate>Mon, 07 Mar 2022 08:24:03 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_146/gsqoj_16466392766979fA26_JPEG/b0949bd2-9dea-11ec-b69c-a0369ff94ed0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1483,7 +1483,7 @@
             <link>https://tv.naver.com/v/25517131</link>
             <guid>https://tv.naver.com/v/25517131</guid>
             <pubDate>Mon, 07 Mar 2022 08:24:03 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_4/UZbIx_1646638945751fLTWQ_JPEG/f3865a97-9de6-11ec-a7bf-48df37ae3dc4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1491,7 +1491,7 @@
             <link>https://tv.naver.com/v/25514255</link>
             <guid>https://tv.naver.com/v/25514255</guid>
             <pubDate>Mon, 07 Mar 2022 06:24:56 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_6/YfxER_1646633532732iIkxu_JPEG/13e70b59-9ddb-11ec-9e68-a0369ff9545c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1499,7 +1499,7 @@
             <link>https://tv.naver.com/v/25513576</link>
             <guid>https://tv.naver.com/v/25513576</guid>
             <pubDate>Mon, 07 Mar 2022 06:24:56 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_222/6aHHY_1646632157648hM9rz_JPEG/30f61e7e-9dda-11ec-bcec-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1507,7 +1507,7 @@
             <link>https://tv.naver.com/v/25509601</link>
             <guid>https://tv.naver.com/v/25509601</guid>
             <pubDate>Mon, 07 Mar 2022 03:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_68/JfZIr_1646622075216ju0c7_JPEG/221859d2-9dc2-11ec-a4b8-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1515,7 +1515,7 @@
             <link>https://tv.naver.com/v/25509323</link>
             <guid>https://tv.naver.com/v/25509323</guid>
             <pubDate>Mon, 07 Mar 2022 03:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_140/LFkX4_1646621433454QAOCi_JPEG/1646621429772.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1531,7 +1531,7 @@
             <link>https://tv.naver.com/v/25508314</link>
             <guid>https://tv.naver.com/v/25508314</guid>
             <pubDate>Mon, 07 Mar 2022 02:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_168/hH4El_1646618667672WTnTa_JPEG/3d26bfa3-9dba-11ec-b69c-a0369ff94ed0_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1539,7 +1539,7 @@
             <link>https://tv.naver.com/v/25507895</link>
             <guid>https://tv.naver.com/v/25507895</guid>
             <pubDate>Mon, 07 Mar 2022 02:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_222/kB3lo_1646617649158V0KRP_JPEG/6eafa285-9db8-11ec-aea6-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1547,7 +1547,7 @@
             <link>https://tv.naver.com/v/25507716</link>
             <guid>https://tv.naver.com/v/25507716</guid>
             <pubDate>Mon, 07 Mar 2022 02:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_209/bNT8M_1646617043753OBMU2_JPEG/bc4bde5b-9db6-11ec-b19d-505dacfba98a_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
