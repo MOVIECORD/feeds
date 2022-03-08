@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 02:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 03:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2FSPORTSSEOUL%2F20220307175516197ymim.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[인터뷰] 김동휘,  최민식에도 밀리지 않는 괴물신인]]></title>
+            <link>https://movie.v.daum.net/v/20220308080638589</link>
+            <guid>https://movie.v.daum.net/v/20220308080638589</guid>
+            <pubDate>Tue, 08 Mar 2022 02:36:43 GMT</pubDate>
+            <content:encoded><![CDATA[아이즈 ize 최재욱기자"어디서 이런 배우를 찾아냈을까" 하는 궁금증이&nbsp;들 만큼 더할 나위 없는 적역 캐스팅이었다. 영화 '이상한 나라의 수학자'(감독 박동훈, 제작 ㈜조이래빗)로 화려하게 등장한 신인배우 김동휘는 영화를 보고 나면 마치 영재들만 다닌다는 자사고에 직접. 가서 캐스팅한 게 아닐까&nbsp;하는 생각이 들 정도로 주인공 한지우 그 자체였다. &nbsp;공부만]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F08%2FIZE%2F20220308080640016sybc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[산드라 오 끔찍한 두 얼굴..한국어 제목 공포물 '엄마' 3월18일 개봉]]></title>
             <link>https://movie.v.daum.net/v/20220307100551536</link>
             <guid>https://movie.v.daum.net/v/20220307100551536</guid>
@@ -48,14 +56,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2Fpoctan%2F20220307182934241xiqb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["대배우 최민식 경비복 입은 모습에 흥분..김동휘=젊은 맷데이먼"(종합)[EN:인터뷰]]]></title>
-            <link>https://movie.v.daum.net/v/20220307144257665</link>
-            <guid>https://movie.v.daum.net/v/20220307144257665</guid>
-            <pubDate>Mon, 07 Mar 2022 08:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 개봉까지 2년을 기다린 '이상한 나라의 수학자'가 드디어 베일을 벗는다. 박동훈 감독은 "어두운 터널을 지나고 있는 이들에게 우리 영화가 미세한 빛이 되기를 바란다"는 소망을 전했다. 영화 '이상한 나라의 수학자'를 연출한 박동훈 감독은 3월 7일 진행된 화상 인터뷰를 통해 영화 개봉을 앞둔 벅찬 소회를 전했다. 9일 개봉하는 '이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2Fnewsen%2F20220307144258918kags.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[할리우드의 'K콘텐츠 리메이크' 뭐가 달라졌나]]></title>
             <link>https://movie.v.daum.net/v/20220308065715524</link>
             <guid>https://movie.v.daum.net/v/20220308065715524</guid>
@@ -64,20 +64,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F08%2Fsportsdonga%2F20220308065717609zosb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] 김동휘,  최민식에도 밀리지 않는 괴물신인]]></title>
-            <link>https://movie.v.daum.net/v/20220308080638589</link>
-            <guid>https://movie.v.daum.net/v/20220308080638589</guid>
-            <pubDate>Tue, 08 Mar 2022 02:36:43 GMT</pubDate>
-            <content:encoded><![CDATA[아이즈 ize 최재욱기자"어디서 이런 배우를 찾아냈을까" 하는 궁금증이&nbsp;들 만큼 더할 나위 없는 적역 캐스팅이었다. 영화 '이상한 나라의 수학자'(감독 박동훈, 제작 ㈜조이래빗)로 화려하게 등장한 신인배우 김동휘는 영화를 보고 나면 마치 영재들만 다닌다는 자사고에 직접. 가서 캐스팅한 게 아닐까&nbsp;하는 생각이 들 정도로 주인공 한지우 그 자체였다. &nbsp;공부만]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F08%2FIZE%2F20220308080640016sybc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[OTT다방] 여자도 프로 야구에 입단할 수 있나요? '야구소녀']]></title>
             <link>https://movie.v.daum.net/v/20220308082302962</link>
             <guid>https://movie.v.daum.net/v/20220308082302962</guid>
             <pubDate>Tue, 08 Mar 2022 01:10:51 GMT</pubDate>
             <content:encoded><![CDATA[[서울경제] 직접 맛보고 추천하는 향긋한 작품 한 잔! 세상의 OTT 다 보고 싶은 ‘OTT다방’ 1908년 3월 8일, 이날은 미국의 한 섬유 공장에서 열악한 환경 속에 화재로 숨진 여성들을 기리며 미국 노동자들이 시위에 나섰던 역사적인 날이다. 이 날을 기념해 1975년 UN은 세계 여성의 지위 향상을 위해 3월 8일을 ‘세계 여성의 날’로 공식]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F08%2Fseouleconomy%2F20220308082308038gccq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["대배우 최민식 경비복 입은 모습에 흥분..김동휘=젊은 맷데이먼"(종합)[EN:인터뷰]]]></title>
+            <link>https://movie.v.daum.net/v/20220307144257665</link>
+            <guid>https://movie.v.daum.net/v/20220307144257665</guid>
+            <pubDate>Mon, 07 Mar 2022 08:23:29 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 개봉까지 2년을 기다린 '이상한 나라의 수학자'가 드디어 베일을 벗는다. 박동훈 감독은 "어두운 터널을 지나고 있는 이들에게 우리 영화가 미세한 빛이 되기를 바란다"는 소망을 전했다. 영화 '이상한 나라의 수학자'를 연출한 박동훈 감독은 3월 7일 진행된 화상 인터뷰를 통해 영화 개봉을 앞둔 벅찬 소회를 전했다. 9일 개봉하는 '이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2Fnewsen%2F20220307144258918kags.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[다이애나에게 영국 왕실은 공포였을까]]></title>
+            <link>https://movie.v.daum.net/v/20220308030226189</link>
+            <guid>https://movie.v.daum.net/v/20220308030226189</guid>
+            <pubDate>Tue, 08 Mar 2022 01:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[왕비가 될 수도 있었던 자리에서 물러난 뒤 비극적 교통사고로 유명을 달리한 여인. 영화보다 더 영화적인 삶을 살았기 때문일까. 다이애나(1961~1997) 왕세자빈은 영화와 드라마에서 언제나 사랑받는 인물이었다. 2013년 영화 ‘다이애나’부터 영국 왕실의 역사를 다룬 넷플릭스 드라마 ‘더 크라운’까지 모두 그랬다. 16일 개봉하는 ‘스펜서’(감독 파블로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F08%2Fchosun%2F20220308030229994hego.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[너의 정체가 무엇이더냐, '더 배트맨'이 던지는 176분짜리 질문]]></title>
@@ -96,12 +104,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F08%2Fstarnews%2F20220308083309261shos.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[다이애나에게 영국 왕실은 공포였을까]]></title>
-            <link>https://movie.v.daum.net/v/20220308030226189</link>
-            <guid>https://movie.v.daum.net/v/20220308030226189</guid>
+            <title><![CDATA[[D:영화 뷰] 독창적 형식으로 신선·몰입감 더하는 영화들]]></title>
+            <link>https://movie.v.daum.net/v/20220307114151912</link>
+            <guid>https://movie.v.daum.net/v/20220307114151912</guid>
             <pubDate>Tue, 08 Mar 2022 01:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[왕비가 될 수도 있었던 자리에서 물러난 뒤 비극적 교통사고로 유명을 달리한 여인. 영화보다 더 영화적인 삶을 살았기 때문일까. 다이애나(1961~1997) 왕세자빈은 영화와 드라마에서 언제나 사랑받는 인물이었다. 2013년 영화 ‘다이애나’부터 영국 왕실의 역사를 다룬 넷플릭스 드라마 ‘더 크라운’까지 모두 그랬다. 16일 개봉하는 ‘스펜서’(감독 파블로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F08%2Fchosun%2F20220308030229994hego.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[보편적인 영화와 다른 길을 택하며 독창적이고 파격적인 형식을 취한 영화들은 신선함을 배가시키고 몰입감을 중추 시키는 중추 역할을 한다. 관객들의 오감을 만족시키기 위해 도전을 불사한 영화들의 도전이 이어지며 관객들을 시청각적으로 만족시키기 위한 도전이 이어지고 있다. 개봉을 앞둔 제78회 베니스국제영화제 관객상 수상작 '그 남자는 타이타닉을 보고 싶지 않았]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2Fdailian%2F20220307114155374jjld.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[넷플릭스 "러 서비스 중단"..디즈니·워너·소니 "영화 개봉 No"]]></title>
@@ -120,12 +128,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2Fkukminilbo%2F20220307040518339azml.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[D:영화 뷰] 독창적 형식으로 신선·몰입감 더하는 영화들]]></title>
-            <link>https://movie.v.daum.net/v/20220307114151912</link>
-            <guid>https://movie.v.daum.net/v/20220307114151912</guid>
-            <pubDate>Tue, 08 Mar 2022 01:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[보편적인 영화와 다른 길을 택하며 독창적이고 파격적인 형식을 취한 영화들은 신선함을 배가시키고 몰입감을 중추 시키는 중추 역할을 한다. 관객들의 오감을 만족시키기 위해 도전을 불사한 영화들의 도전이 이어지며 관객들을 시청각적으로 만족시키기 위한 도전이 이어지고 있다. 개봉을 앞둔 제78회 베니스국제영화제 관객상 수상작 '그 남자는 타이타닉을 보고 싶지 않았]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2Fdailian%2F20220307114155374jjld.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[원치 않는 임신, '고통스러웠던' 그녀의 70일]]></title>
+            <link>https://movie.v.daum.net/v/20220308104202297</link>
+            <guid>https://movie.v.daum.net/v/20220308104202297</guid>
+            <pubDate>Tue, 08 Mar 2022 02:36:43 GMT</pubDate>
+            <content:encoded><![CDATA[[장혜령 기자] &nbsp;        ▲ &nbsp;영화 &lt;레벤느망&gt; 스틸컷    ⓒ (주)영화특별시SMC  &nbsp; 1960년대 프랑스, 문학을 전공하고 있는 안(아나마리아 바토로메이)은 촉망받는 대학생이다. 주변의 질투와 시기가 난무하지만 신경 쓰지 않는 강심장을 가진 철벽녀였다. 하지만 몇 주째 해야 할 생리를 하지 않자 불안감은 혈관을 타고 온몸을 휘감는다. 며칠 더]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F08%2Fohmynews%2F20220308104203794atlu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장가, 연출 거장들의 웰메이드 무비 행렬 [TF프리즘]]]></title>
+            <link>https://movie.v.daum.net/v/20220308050022970</link>
+            <guid>https://movie.v.daum.net/v/20220308050022970</guid>
+            <pubDate>Tue, 08 Mar 2022 02:36:43 GMT</pubDate>
+            <content:encoded><![CDATA[제94회 아카데미 작품상 후보작들 줄지어 개봉&nbsp; [더팩트｜원세나 기자] 거장들의 작품이 릴레이로 스크린에 걸리며 극장가를 풍성하게 하고 있다. 오는 27일 개최되는 제94회 아카데미 시상식의 최우수 작품상 후보에 오른 작품이자 거장들의 신작인 '듄', '웨스트 사이드 스토리', '나이트메어 앨리'가 차례로 국내 관객들을 만나며 영화 팬들의 기대를 충족]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F08%2FTHEFACT%2F20220308050023599ixyj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[한소희, 母와 천륜은 못 끊어도 손절..단호한 결정은 잘한 일(종합)[Oh!쎈 초점]]]></title>
@@ -142,22 +158,6 @@
             <pubDate>Mon, 07 Mar 2022 08:23:29 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 전형화 기자] 연예계에는 소녀가장이 많다. 소년가장보다 유독 소녀가장이 많다. 남자 연예인들은 사회적인 통념 덕분인지, 비교적 일찍 통장을 자기가 관리하기도 하고, 부모님이 관리하더라도 대체로 아들 몫은 잘 건드리지 않는다. 반면 소녀가장은 사정이 좀 다르다. 여자 연예인들은 통장을 부모님이 성인이 된 이후에도 한참 동안 관리하는 경우가 많을]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2Fstarnews%2F20220307121747529hkwx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[극장가, 연출 거장들의 웰메이드 무비 행렬 [TF프리즘]]]></title>
-            <link>https://movie.v.daum.net/v/20220308050022970</link>
-            <guid>https://movie.v.daum.net/v/20220308050022970</guid>
-            <pubDate>Tue, 08 Mar 2022 02:36:43 GMT</pubDate>
-            <content:encoded><![CDATA[제94회 아카데미 작품상 후보작들 줄지어 개봉&nbsp; [더팩트｜원세나 기자] 거장들의 작품이 릴레이로 스크린에 걸리며 극장가를 풍성하게 하고 있다. 오는 27일 개최되는 제94회 아카데미 시상식의 최우수 작품상 후보에 오른 작품이자 거장들의 신작인 '듄', '웨스트 사이드 스토리', '나이트메어 앨리'가 차례로 국내 관객들을 만나며 영화 팬들의 기대를 충족]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F08%2FTHEFACT%2F20220308050023599ixyj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[원치 않는 임신, '고통스러웠던' 그녀의 70일]]></title>
-            <link>https://movie.v.daum.net/v/20220308104202297</link>
-            <guid>https://movie.v.daum.net/v/20220308104202297</guid>
-            <pubDate>Tue, 08 Mar 2022 02:36:43 GMT</pubDate>
-            <content:encoded><![CDATA[[장혜령 기자] &nbsp;        ▲ &nbsp;영화 &lt;레벤느망&gt; 스틸컷    ⓒ (주)영화특별시SMC  &nbsp; 1960년대 프랑스, 문학을 전공하고 있는 안(아나마리아 바토로메이)은 촉망받는 대학생이다. 주변의 질투와 시기가 난무하지만 신경 쓰지 않는 강심장을 가진 철벽녀였다. 하지만 몇 주째 해야 할 생리를 하지 않자 불안감은 혈관을 타고 온몸을 휘감는다. 며칠 더]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F08%2Fohmynews%2F20220308104203794atlu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['이상한 나라의 수학자' '뜨거운 피' 등 3월 영화, 극장 보릿고개 넘을까]]></title>
