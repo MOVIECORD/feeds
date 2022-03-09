@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-09T01:17:44.782Z</updated>
+    <updated>2022-03-09T02:42:23.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['시라노' 사랑에 빠진 세 남녀의 가슴 울린 명대사]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004569444</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004569444"/>
+        <updated>2022-03-09T02:40:51.204Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] '로맨스 장인' 조 라이트 감독이 그리는 아름답고 황홀한 타임리스 뮤지컬 로맨스 영화 '시라노'가 진한 여운을 남기는 명대사를 공개했다. '시라노'(수입배급 유니버설 픽쳐스)는 사랑을 대신]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘블랙위도우’ 플로렌스 퓨, 티모시 샬라메 ‘듄2’ 합류[해외이슈]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003582986</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003582986"/>
+        <updated>2022-03-09T02:40:51.205Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘블랙위도우’ 플로렌스 퓨가 티모시 샬라메 주연의 ‘듄2’에 출연할 예정이다. 할리우드 리포터는 8일(현지시간) 플로렌스 퓨가 데니스 빌뇌브 감독의 ‘듄2’ 출연을 논의 중이라고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘이상한 나라의 수학자’ 개봉 [DA:투데이]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000965212</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004569366"/>
         <updated>2022-03-08T23:19:17.787Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '이상한 나라의 수학자'가 오늘(9일) 개봉한 가운데, 동시기 개봉작 예매율 1위에 등극하며 본격적인 흥행 행보의 시작을 알렸다. 대배우 최민식의 스크린 귀환으로 기대를 높이는 영화 ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 시국 위로되는 따뜻한 문과 감성 ‘이상한 나라의 수학자’[개봉작 리뷰]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000549968</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000549968"/>
-        <updated>2022-03-08T23:19:17.788Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 오일러 공식, 원주율, 리만 가설..그러나 따뜻한 문과 감성으로 가득찬 힐링영화 '이상한 나라의 수학자'가 개봉한다. 3월 9일 개봉하는 영화 '이상한 나라의 수학자'(감독 박동훈)는 신분을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오영이] '이상한 나라의 수학자' 세상이 나를 증명하라고 할 지라도]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004027597</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004027597"/>
-        <updated>2022-03-08T22:19:40.816Z</updated>
-        <content type="html"><![CDATA[[서울경제] 오늘 영화는 이거! '오영이' 세상은 늘 자신을 증명하라고 말한다. 어쩌면 인생은 능력, 성격, 외모를 증명하기 위해 꾸준히 노력하고 살아가는 것인지도 모른다. 과도한 증명은 경쟁을 부르고, 경쟁은]]></content>
     </entry>
 </feed>
