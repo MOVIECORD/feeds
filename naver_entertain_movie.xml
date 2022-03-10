@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-10T03:24:44.775Z</updated>
+    <updated>2022-03-10T04:26:11.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['모비우스' 스틸 공개…마블 최강 안티 히어로의 강렬한 비주얼]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001419052</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001419052"/>
+        <updated>2022-03-10T04:24:47.596Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '모비우스'(감독 다니엘 에스피노사)가 스틸을 공개했다. '모비우스'는 희귀 혈액병을 앓는 생화학자 모비우스(자레드 레토 분)가 흡혈박쥐를 이용해 치료제를 개발하는 과정에서 세상을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['블랙팬서' 감독, 현금인출 하려다 은행강도로 오인 '체포']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011055565</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000136838"/>
         <updated>2022-03-10T03:23:15.551Z</updated>
         <content type="html"><![CDATA[9일 7만 명 대 관객 동원…대선 공휴일·최민식 복귀 효과 톡톡 최민식 주연 한국영화 '이상한 나라의 수학자'가 개봉 첫날 쾌조의 출발을 보였다. 10일 영화진흥위원회 영화관 입장권 통합전산망에 따르면 영화 '이상한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SC초점] 1주 천하 끝난 '더 배트맨'→최민식 저력 입증 '이상한 나라의 수학자']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003840074</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003840074"/>
-        <updated>2022-03-10T03:23:15.551Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 일일 확진자 30만명을 돌파, 코로나19 유행이 최정점에 진입하면서 역대 최악의 비수기를 맞은 극장가에 반전의 지각변동이 일어났다. 올해 첫 번째 히어로 블록버스터로 화제를 모은 액션 영화]]></content>
     </entry>
 </feed>
