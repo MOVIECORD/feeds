@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 05:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 08:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어른 없는 시대…어른됨의 무게를 묻는 ‘이상한 나라의 수학자’ (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002582584</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002582584</guid>
+            <pubDate>Sat, 12 Mar 2022 08:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[[한겨레S] 손희정의 영화담(談) | 이상한 나라의 수학자 ☞한겨레 뉴스레터 구독하기 https://bit.ly/319DiiE 누가 어른인가? 어른의 역할은 무엇인가? 요즘 나를 사로잡고 있는 화두다. 여기서 ‘어른]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[송영애의 영화이야기] 선거에 영향 줄까 봐?… 1992년 3월 영화 ‘JFK’ 개봉 연기설 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003675354</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[박스 1위에도 관객수 1만대..최민식, 흥행 고전ing ‘국민 배우’ 최민식 주연 영화 '이상한 나라의 수학자'가 박스오피스 1위에도 저조한 관객수에 울상을 짓고 있다. 과연 개봉주 주말 특수로 반등할 수 있을까.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[리뷰&인터뷰] 독립영화관 - 무협은 이제 관뒀어 (감독: 장형윤) (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000044650</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000044650</guid>
-            <pubDate>Fri, 11 Mar 2022 10:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 밤 KBS 1TV [독립영화관]은 예측할 수 없는 기발하고 엉뚱한 이야기를 다룬 ‘무협은 이제 관뒀어’(감독: 장형윤), ‘소망어린이집 근무안내서’(감독: 김민지), ‘구조원들’(감독: 심현석) 등 3편의 단편]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[더 배트맨 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=110137</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=110137</guid>
@@ -215,20 +215,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff892fdb7534d4d9bbb743c90257eb3007bae86e2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[블랙라이트 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156957</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156957</guid>
-            <pubDate>Mon, 28 Feb 2022 19:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7bbd91ede7bdcd4d0073c1159e3c3dfb8a6ff048" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[안테벨룸 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137065</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137065</guid>
             <pubDate>Mon, 14 Feb 2022 08:22:00 GMT</pubDate>
             <content:encoded><![CDATA[22.02.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcfb87a998ee56aa40424b98ff57417953704a6cd" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙라이트 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156957</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156957</guid>
+            <pubDate>Mon, 28 Feb 2022 19:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7bbd91ede7bdcd4d0073c1159e3c3dfb8a6ff048" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[언차티드 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -255,14 +255,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[스파이더맨: 노 웨이 홈 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=146656</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=146656</guid>
-            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fc5880afdb5b7c60161f34184e1f466814fec2d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[나이트메어 앨리 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150896</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150896</guid>
@@ -277,6 +269,14 @@
             <pubDate>Fri, 11 Mar 2022 02:42:45 GMT</pubDate>
             <content:encoded><![CDATA[22.02.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8794ab82e2da32c0efa0187c65735d6249e37d43" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스파이더맨: 노 웨이 홈 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=146656</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=146656</guid>
+            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fc5880afdb5b7c60161f34184e1f466814fec2d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[우리가 사랑이라고 믿는 것 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -295,14 +295,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F24953039c163640cbb39f43dccb852f1df697783" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[리코리쉬 피자 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154397</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154397</guid>
-            <pubDate>Thu, 03 Feb 2022 10:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc19dfdd279275c1aea9b0c4dba703474815cf470" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 바다 탐험대 옥토넛 : 해저동굴 대탈출 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=141023</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=141023</guid>
@@ -317,6 +309,14 @@
             <pubDate>Thu, 10 Mar 2022 14:17:55 GMT</pubDate>
             <content:encoded><![CDATA[22.01.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1021e3e3e714bc8ebf67f8c3e238a56ada885292" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[리코리쉬 피자 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154397</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154397</guid>
+            <pubDate>Thu, 03 Feb 2022 10:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc19dfdd279275c1aea9b0c4dba703474815cf470" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[소피의 세계 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -559,14 +559,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F11%2Fxportsnews%2F20220311142216660kyir.png" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['이상한나라의수학자', '배트맨' 제치고 3일째 1위..최민식 직접 꼽은 명대사는? [공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220312074942609</link>
-            <guid>https://movie.v.daum.net/v/20220312074942609</guid>
-            <pubDate>Fri, 11 Mar 2022 23:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=하수정 기자] 3일 연속 전체 박스오피스 1위에 등극한 영화 '이상한 나라의 수학자'가 배우들이 직접 꼽은 영화 속 명장면과 명대사를 공개해 눈길을 끈다. #1. 최민식 PICK! “틀린 질문에서 옳은 답이 나올 수 없기 때문이지” '이상한 나라의 수학자'(감독 박동훈, 제공배급 ㈜쇼박스, 제작 ㈜조이래빗)는 신분을 감추고 고등학교 경비원으로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F12%2Fpoctan%2F20220312074942387ltvo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[돌아온 최민식, '이상한 나라의 수학자' 3일 연속 1위 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220312080137731</link>
             <guid>https://movie.v.daum.net/v/20220312080137731</guid>
@@ -583,28 +575,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F12%2F10asia%2F20220312085504163cakh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['이상한나라의수학자', '배트맨' 제치고 3일째 1위..최민식 직접 꼽은 명대사는? [공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220312074942609</link>
+            <guid>https://movie.v.daum.net/v/20220312074942609</guid>
+            <pubDate>Fri, 11 Mar 2022 23:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=하수정 기자] 3일 연속 전체 박스오피스 1위에 등극한 영화 '이상한 나라의 수학자'가 배우들이 직접 꼽은 영화 속 명장면과 명대사를 공개해 눈길을 끈다. #1. 최민식 PICK! “틀린 질문에서 옳은 답이 나올 수 없기 때문이지” '이상한 나라의 수학자'(감독 박동훈, 제공배급 ㈜쇼박스, 제작 ㈜조이래빗)는 신분을 감추고 고등학교 경비원으로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F12%2Fpoctan%2F20220312074942387ltvo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[어른 없는 시대..어른됨의 무게를 묻는 '이상한 나라의 수학자' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220312144602907</link>
+            <guid>https://movie.v.daum.net/v/20220312144602907</guid>
+            <pubDate>Sat, 12 Mar 2022 08:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[[한겨레S] 손희정의 영화담(談) | 이상한 나라의 수학자 ☞한겨레 뉴스레터 구독하기 https://bit.ly/319DiiE 누가 어른인가? 어른의 역할은 무엇인가? 요즘 나를 사로잡고 있는 화두다. 여기서 ‘어른’은 연령대로 규정 가능한 특정한 인구집단이라기보다는 문화적으로 구성된 공동체 내 위치에 가깝다. 자신뿐 아니라 주변의 사람과 생명, 사물을 돌]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F12%2Fhani%2F20220312151603937wvej.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['오겜' 열풍 계속..美 스피릿 어워즈 남우주연상→크리틱스 초이스 시상자 [위클리 무비] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220312090002211</link>
             <guid>https://movie.v.daum.net/v/20220312090002211</guid>
             <pubDate>Sat, 12 Mar 2022 01:08:55 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김미화 기자] 이정재 /사진=SAG ○...배우 이정재가 미국 인디펜던트 스피릿 어워즈 남우주연상을 수상했다. 이정재는 지난 6일(현지시각) 진행된 제37회 미국 인디펜던트 스피릿 어워즈 시상식에서 TV 부문 남우주연상을 수상했다. 이날 남우주연상을 수상한 이정재는 영상을 통해 소감을 전했다. 이정재는 "저에게 이렇게 의미 있는 상을 주셔서 너]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F12%2Fstarnews%2F20220312090005855lybc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[최민식X김동휘가 꼽은 '이상한 나라의 수학자' 명대사 '공감+힐링' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220312093000581</link>
-            <guid>https://movie.v.daum.net/v/20220312093000581</guid>
-            <pubDate>Sat, 12 Mar 2022 01:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트 = 하수나 기자]&nbsp;‘이상한 나라의 수학자’가 3일 연속 전체 박스오피스 1위에 등극했다. 또한 배우들이 직접 꼽은 영화 속 명장면과 명대사를 공개해 눈길을 끈다. 영화 ‘이상한 나라의 수학자;는 신분을 감추고 고등학교 경비원으로 일하는 탈북한 천재 수학자가 수학을 포기한 학생을 만나며 벌어지는 감동 드라마. 탈북한 천재 수학자 ‘이학성’으로 분]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F12%2Ftvreport%2F20220312093004051ruin.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['이상한 나라의 수학자', 일일 박스오피스 3일째 1위 [Nbox] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220312080528768</link>
-            <guid>https://movie.v.daum.net/v/20220312080528768</guid>
-            <pubDate>Fri, 11 Mar 2022 23:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 영화 '이상한 나라의 수학자'가 3일째 박스오피스 정상을 지켰다. 12일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 '이상한 나라의 수학자'는 지난 11일 1227개 스크린에서 2만1622명의 관객을 동원하며 누적관객수 12만7942명을 기록, 박스오피스 1위를 수성했다. '이상한 나라의 수학자'는 제20대]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F12%2FNEWS1%2F20220312080529169eohw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[K-휴먼극 순항, '이상한 나라의 수학자' [박스오피스] (다음영화 뉴스 ─ 인기)]]></title>
@@ -615,20 +607,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F12%2Ftvdaily%2F20220312110410171aezu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[최민식X김동휘가 꼽은 '이상한 나라의 수학자' 명대사 '공감+힐링' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220312093000581</link>
+            <guid>https://movie.v.daum.net/v/20220312093000581</guid>
+            <pubDate>Sat, 12 Mar 2022 01:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트 = 하수나 기자]&nbsp;‘이상한 나라의 수학자’가 3일 연속 전체 박스오피스 1위에 등극했다. 또한 배우들이 직접 꼽은 영화 속 명장면과 명대사를 공개해 눈길을 끈다. 영화 ‘이상한 나라의 수학자;는 신분을 감추고 고등학교 경비원으로 일하는 탈북한 천재 수학자가 수학을 포기한 학생을 만나며 벌어지는 감동 드라마. 탈북한 천재 수학자 ‘이학성’으로 분]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F12%2Ftvreport%2F20220312093004051ruin.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[송영애의 영화이야기] 선거에 영향 줄까 봐?.. 1992년 3월 영화 'JFK' 개봉 연기설 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220312140123391</link>
+            <guid>https://movie.v.daum.net/v/20220312140123391</guid>
+            <pubDate>Sat, 12 Mar 2022 05:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘JFK’(감독 올리버 스톤, 1991)의 한 장면. 네이버영화  &nbsp; 지난 1992년 5월2일 국내&nbsp;개봉한 영화 ‘JFK’(감독 올리버 스톤, 1991)의 개봉과 관련한 이야기를 해볼까 한다.&nbsp; 얼마 전 ‘지난 영화를 다시 보고 싶다’ 혹은 ‘작년 이맘때 어떤 영화를 봤더라?’라는 생각에서 출발해&nbsp;시간을 거슬러 올라가던 중&nbsp;호기심을 자극하는 2]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F12%2Fsegye%2F20220312140123474umab.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[OTT다방] 이상한 동네의 음악쌤, 20년전 최민식의 힐링영화 '꽃피는 봄이 오면' (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220312120220213</link>
             <guid>https://movie.v.daum.net/v/20220312120220213</guid>
             <pubDate>Sat, 12 Mar 2022 03:20:23 GMT</pubDate>
             <content:encoded><![CDATA[[서울경제] 직접 맛보고 추천하는 향긋한 작품 한 잔! 세상의 OTT 다 보고 싶은 'OTT다방' “정답보다 중요한 건 답을 찾는 과정이야.” 지난 9일 개봉한 한국영화 ‘이상한 나라의 수학자’에서 천재 수학자 이학성(최민식)이 고등학생 ‘수포자’ 한지우(김동휘)를 만나 한 말이다. 그저 빨리 풀고 싶어 공식 한 줄 외워 대입시키다 보니 문제가]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F12%2Fseouleconomy%2F20220312121159202gplg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니 "러시아서 모든 사업 중단", 마블영화 못봐서 어쩌나[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220312061705970</link>
-            <guid>https://movie.v.daum.net/v/20220312061705970</guid>
-            <pubDate>Fri, 11 Mar 2022 22:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]세계적인 스튜디오 디즈니가 우크라이나를 침공한 러시아에서의 사업을 전면 중단한다. 디즈니 대변인은 10일(현지시간) “우크라이나에 대한 끊임없는 공격과 고조되고 있는 인도주의적 위기를 고려하여, 우리는 러시아에서 다른 모든 사업들을 중단시키기 위한 조치를 취했다”고 말했다. 이어 “여기에는 콘텐츠 및 제품 라이선스, 디즈니]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F12%2Fmydaily%2F20220312061705292gyxl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[이토록 아름다운 불협화음 '스펜서' [쿡리뷰] (다음영화 뉴스 ─ 인기)]]></title>
@@ -647,20 +647,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F11%2Fstartoday%2F20220311173313591pxlk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[한·미 연예계가 우크라이나와 연대하는 방법 [N초점] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220312060017732</link>
-            <guid>https://movie.v.daum.net/v/20220312060017732</guid>
-            <pubDate>Sat, 12 Mar 2022 05:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 우크라이나에 대한 러시아의 무력 침공에 대한 비판이 갈수록 높아지고 있는 가운데, 전세계 유명인들도 자신들의 영향력을 활용해 우크라이나와 연대하고 있다. 유명인들이 우크라이나와 연대하는 방법은 여러가지다. 우리나라 연예인들의 경우 주로 우크라이나 대사관을 통한 기부에 적극 동참하고 있으며, 세계에서 가장 막강한 영향력을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F12%2FNEWS1%2F20220312060018642jiti.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['이상한 나라의 수학자', 일일 박스오피스 3일째 1위 [Nbox] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220312080528768</link>
+            <guid>https://movie.v.daum.net/v/20220312080528768</guid>
+            <pubDate>Fri, 11 Mar 2022 23:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 영화 '이상한 나라의 수학자'가 3일째 박스오피스 정상을 지켰다. 12일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 '이상한 나라의 수학자'는 지난 11일 1227개 스크린에서 2만1622명의 관객을 동원하며 누적관객수 12만7942명을 기록, 박스오피스 1위를 수성했다. '이상한 나라의 수학자'는 제20대]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F12%2FNEWS1%2F20220312080529169eohw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[송영애의 영화이야기] 선거에 영향 줄까 봐?.. 1992년 3월 영화 'JFK' 개봉 연기설 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220312140123391</link>
-            <guid>https://movie.v.daum.net/v/20220312140123391</guid>
-            <pubDate>Sat, 12 Mar 2022 05:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘JFK’(감독 올리버 스톤, 1991)의 한 장면. 네이버영화  &nbsp; 지난 1992년 5월2일 국내&nbsp;개봉한 영화 ‘JFK’(감독 올리버 스톤, 1991)의 개봉과 관련한 이야기를 해볼까 한다.&nbsp; 얼마 전 ‘지난 영화를 다시 보고 싶다’ 혹은 ‘작년 이맘때 어떤 영화를 봤더라?’라는 생각에서 출발해&nbsp;시간을 거슬러 올라가던 중&nbsp;호기심을 자극하는 2]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F12%2Fsegye%2F20220312140123474umab.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[디즈니 "러시아서 모든 사업 중단", 마블영화 못봐서 어쩌나[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220312061705970</link>
+            <guid>https://movie.v.daum.net/v/20220312061705970</guid>
+            <pubDate>Fri, 11 Mar 2022 22:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]세계적인 스튜디오 디즈니가 우크라이나를 침공한 러시아에서의 사업을 전면 중단한다. 디즈니 대변인은 10일(현지시간) “우크라이나에 대한 끊임없는 공격과 고조되고 있는 인도주의적 위기를 고려하여, 우리는 러시아에서 다른 모든 사업들을 중단시키기 위한 조치를 취했다”고 말했다. 이어 “여기에는 콘텐츠 및 제품 라이선스, 디즈니]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F12%2Fmydaily%2F20220312061705292gyxl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[어른 없는 시대..어른됨의 무게를 묻는 '이상한 나라의 수학자' (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220312144602907</link>
+            <guid>https://v.daum.net/v/20220312144602907</guid>
+            <pubDate>Sat, 12 Mar 2022 08:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[[한겨레S] 손희정의 영화담(談) | 이상한 나라의 수학자 ☞한겨레 뉴스레터 구독하기 https://bit.ly/319DiiE 누가 어른인가? 어른의 역할은 무엇인가? 요즘 나를 사로잡고 있는 화두다. 여기서 ‘어른’은 연령대로 규정 가능한 특정한 인구집단이라기보다는 문화적으로 구성된 공동체 내 위치에 가깝다. 자신뿐 아니라 주변의 사람과 생명, 사물을 돌]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F12%2Fhani%2F20220312151603937wvej.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[송영애의 영화이야기] 선거에 영향 줄까 봐?.. 1992년 3월 영화 'JFK' 개봉 연기설 (다음영화 뉴스 ─ 최신)]]></title>
@@ -1411,7 +1419,7 @@
             <link>https://tv.naver.com/v/25593715</link>
             <guid>https://tv.naver.com/v/25593715</guid>
             <pubDate>Fri, 11 Mar 2022 10:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220311_84/YeSb7_1646988180454dDEz1_JPEG/2da83255-a117-11ec-a12c-505dac8c3721_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1419,7 +1427,7 @@
             <link>https://tv.naver.com/v/25593485</link>
             <guid>https://tv.naver.com/v/25593485</guid>
             <pubDate>Fri, 11 Mar 2022 10:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220311_252/bo2sn_164698760772357tRH_JPEG/8bba731b-a115-11ec-8052-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1427,7 +1435,7 @@
             <link>https://tv.naver.com/v/25592726</link>
             <guid>https://tv.naver.com/v/25592726</guid>
             <pubDate>Fri, 11 Mar 2022 08:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220311_10/oS9re_1646985807278MGqh6_JPEG/a19ba27a-a111-11ec-a565-48df379ccacc_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1435,7 +1443,7 @@
             <link>https://tv.naver.com/v/25592528</link>
             <guid>https://tv.naver.com/v/25592528</guid>
             <pubDate>Fri, 11 Mar 2022 08:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220311_240/W5DuP_16469853764512H6U1_JPEG/929eec6f-a110-11ec-9fe3-505dac8c37f3_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1499,7 +1507,7 @@
             <link>https://tv.naver.com/v/25571742</link>
             <guid>https://tv.naver.com/v/25571742</guid>
             <pubDate>Thu, 10 Mar 2022 10:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220310_118/w5N3s_1646897923339uFvo2_JPEG/bd38f6be-a044-11ec-ab19-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1507,7 +1515,7 @@
             <link>https://tv.naver.com/v/25571424</link>
             <guid>https://tv.naver.com/v/25571424</guid>
             <pubDate>Thu, 10 Mar 2022 10:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220310_286/kyOLI_1646897358848M4Wns_JPEG/9f6a0114-a043-11ec-8ff6-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1515,7 +1523,7 @@
             <link>https://tv.naver.com/v/25571196</link>
             <guid>https://tv.naver.com/v/25571196</guid>
             <pubDate>Thu, 10 Mar 2022 10:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220310_159/UrlYc_1646896909025gARy1_JPEG/ac9f2837-a042-11ec-b19d-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1523,7 +1531,7 @@
             <link>https://tv.naver.com/v/25570342</link>
             <guid>https://tv.naver.com/v/25570342</guid>
             <pubDate>Thu, 10 Mar 2022 10:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220310_37/lfRp7_1646894875019NAWTQ_JPEG/e86c8d1b-a03d-11ec-a4b8-d4f5ef590144_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1531,7 +1539,7 @@
             <link>https://tv.naver.com/v/25570252</link>
             <guid>https://tv.naver.com/v/25570252</guid>
             <pubDate>Thu, 10 Mar 2022 10:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220310_43/5VjaK_1646894593931HDEbF_JPEG/2ccd3dd3-a03d-11ec-8ff6-505dac8c385b_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1539,7 +1547,7 @@
             <link>https://tv.naver.com/v/25569028</link>
             <guid>https://tv.naver.com/v/25569028</guid>
             <pubDate>Thu, 10 Mar 2022 06:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220310_135/Kouq1_1646891127967SsiNp_JPEG/e7e1c8bd-a034-11ec-8ff6-505dac8c385b_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1547,7 +1555,7 @@
             <link>https://tv.naver.com/v/25568880</link>
             <guid>https://tv.naver.com/v/25568880</guid>
             <pubDate>Thu, 10 Mar 2022 06:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220310_92/DdPkd_1646890768333XCxoh_JPEG/3b2e0da5-a034-11ec-94f6-246e963a49a8_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1555,7 +1563,7 @@
             <link>https://tv.naver.com/v/25568624</link>
             <guid>https://tv.naver.com/v/25568624</guid>
             <pubDate>Thu, 10 Mar 2022 06:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220310_277/4Y9Fy_1646890002985Wew0d_JPEG/4efe245f-a032-11ec-8ff6-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1563,7 +1571,7 @@
             <link>https://tv.naver.com/v/25568556</link>
             <guid>https://tv.naver.com/v/25568556</guid>
             <pubDate>Thu, 10 Mar 2022 06:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220310_86/tF1rr_1646889830363eBJGm_JPEG/0bcb897d-a032-11ec-baa2-a0369ff952f4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1603,7 +1611,7 @@
             <link>https://tv.naver.com/v/25540547</link>
             <guid>https://tv.naver.com/v/25540547</guid>
             <pubDate>Tue, 08 Mar 2022 08:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220308_266/A3aIZ_1646727313953w52ro_JPEG/affba159-9eb7-11ec-b69c-a0369ff94ed0_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1611,7 +1619,7 @@
             <link>https://tv.naver.com/v/25540434</link>
             <guid>https://tv.naver.com/v/25540434</guid>
             <pubDate>Tue, 08 Mar 2022 08:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220308_115/DOqBP_1646727086983k7RCJ_JPEG/465daa92-9eb7-11ec-8ff6-505dac8c385b_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1619,7 +1627,7 @@
             <link>https://tv.naver.com/v/25540255</link>
             <guid>https://tv.naver.com/v/25540255</guid>
             <pubDate>Tue, 08 Mar 2022 08:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220308_11/eUOQZ_1646726731018XGc4M_JPEG/72ee7801-9eb6-11ec-ab19-d4f5ef5906a4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1627,7 +1635,7 @@
             <link>https://tv.naver.com/v/25540198</link>
             <guid>https://tv.naver.com/v/25540198</guid>
             <pubDate>Tue, 08 Mar 2022 08:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220308_160/VRELB_1646726541573WfDd0_JPEG/f91f25ff-9eb5-11ec-9d42-d4f5ef58ad5e_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1635,7 +1643,7 @@
             <link>https://tv.naver.com/v/25540016</link>
             <guid>https://tv.naver.com/v/25540016</guid>
             <pubDate>Tue, 08 Mar 2022 08:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220308_75/TFrB8_1646726130445gKlir_JPEG/bfd3360c-9eb2-11ec-a565-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1643,7 +1651,7 @@
             <link>https://tv.naver.com/v/25539444</link>
             <guid>https://tv.naver.com/v/25539444</guid>
             <pubDate>Tue, 08 Mar 2022 08:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220308_269/sG0wO_1646724883997x72vh_JPEG/254ca59a-9eb2-11ec-aea6-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
