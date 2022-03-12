@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-12T20:21:48.138Z</updated>
+    <updated>2022-03-12T21:17:57.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘프리가이’ 감독 ‘데드풀3’ 연출 확정, “좀더 폭력적인 영화 될 것”[해외이슈]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003584050</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003584050"/>
+        <updated>2022-03-12T21:16:33.799Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘프리가이’와 넷플릭스 ‘애담 프로젝트’의 숀 레비 감독이 ‘데드풀3’ 연출을 맡는다. 할리우드 리포터는 11일(현지시간) 숀 레비 감독이 ‘데드풀3’ 메가폰을 잡는다고 보도했다. 1편과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["극장에서라도 BTS 콘서트 보자"…객석 수놓은 '아미밤' 파도]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013047472</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003619729"/>
         <updated>2022-03-11T22:19:43.931Z</updated>
         <content type="html"><![CDATA[대한민국 상위 1%인 명문 자사고 동훈 고등학교에 재학 중인 한지우는 넉넉하지 못한 형편에도 마음만은 누구보다 앞서가지만 고액 과외는 기본인 친구들 틈에서 성적은 늘 하위권이다. 특히 수학 과목은 지우의 최대 약점이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한·미 연예계가 우크라이나와 연대하는 방법 [N초점]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005964760</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005964760"/>
-        <updated>2022-03-11T22:19:43.932Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 우크라이나에 대한 러시아의 무력 침공에 대한 비판이 갈수록 높아지고 있는 가운데, 전세계 유명인들도 자신들의 영향력을 활용해 우크라이나와 연대하고 있다. 유명인들이 우크라이나와 연대하]]></content>
     </entry>
 </feed>

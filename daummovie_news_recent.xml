@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-03-12T20:21:48.115Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 12 Mar 2022 21:17:57 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['프리가이' 감독 '데드풀3' 연출 확정, "좀더 폭력적인 영화 될 것"[해외이슈]]]></title>
+            <link>https://v.daum.net/v/20220313060705510</link>
+            <guid>https://v.daum.net/v/20220313060705510</guid>
+            <pubDate>Sat, 12 Mar 2022 21:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘프리가이’와 넷플릭스 ‘애담 프로젝트’의 숀 레비 감독이 ‘데드풀3’ 연출을 맡는다. 할리우드 리포터는 11일(현지시간) 숀 레비 감독이 ‘데드풀3’ 메가폰을 잡는다고 보도했다. 1편과 2편의 각본을 썼던 레트 리즈와 폴 워닉이 3편의 시나리오도 작업한다. 라이언 레이놀즈는 이날 트위터에 “숀 레비 감독의 세 번째 영화는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fmydaily%2F20220313060705843ghkr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
