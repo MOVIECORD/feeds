@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-12T01:10:03.544Z</updated>
+    <updated>2022-03-12T02:36:05.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['모비우스', 압도적 힘+능력 갖춘 안티 히어로 탄생 '기대']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003035079</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003035079"/>
+        <updated>2022-03-12T02:34:35.798Z</updated>
+        <content type="html"><![CDATA[영화 '모비우스'가 통제 불가한 힘을 얻고 새로운 몸을 갖게 된 '모비우스'의 모습을 담은 안티 히어로 탄생 영상을 공개했다. '모비우스'는 희귀 혈액병을 앓는 생화학자 '모비우스'(자레드 레토 분)가 흡혈박쥐를 이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이정재·정호연, 美 AFI도 접수…앤드류 가필드와 인증샷 [N샷]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005964948</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005964948"/>
+        <updated>2022-03-12T02:34:35.804Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = '오징어 게임' 이정재, 정호연이 할리우드 스타 앤드류 가필드, 마가렛 퀄리와 사진을 찍었다. 이정재는 12일 자신의 인스타그램에 "Americanfilminstitute"라는 글과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['신비한 동물들과 덤블도어의 비밀', 3개 대륙·6개국 걸친 마법 전쟁 예고]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003035072</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003583647"/>
         <updated>2022-03-11T08:23:09.367Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]다이애나 왕세자비의 새로운 이야기를 그린 2022 아카데미 여우주연상 후보작 ‘스펜서’의 주인공 크리스틴 스튜어트가 오는 13일(현지시간) 열리는 美 크리틱스 초이스 시상식에서 여우주연상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주시 스몰렛, 흑인+동성애 혐오 범죄 자작극..150일 징역형]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003034923</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003034923"/>
-        <updated>2022-03-11T08:23:09.367Z</updated>
-        <content type="html"><![CDATA['엠파이어' 시리즈에 출연한 배우 주시 스몰렛이 자신에 대한 증오 범죄를 날조한 혐의로 150일의 징역형을 선고받았다. 10일(현지 시간) 미국 ABC뉴스 등에 따르면 이날 쿡 카운티 법원에서 주시 스몰렛은 150일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이조로 변호사의 작품 속 법률산책 - ‘더 배트맨’의 살인죄]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=014&amp;aid=0004801798</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=014&amp;aid=0004801798"/>
-        <updated>2022-03-11T08:23:09.371Z</updated>
-        <content type="html"><![CDATA[영화 ‘더 배트맨’(감독 맷 리브스)은 DC코믹스의 배트맨 시리즈를 원작으로 한 배트맨 실사영화 시리즈 중 열여섯 번째 작품이라고 합니다. 배트맨이 연쇄 살인범의 암호 메시지를 풀어나가는 과정을 그리고 있어 히어로보]]></content>
     </entry>
 </feed>
