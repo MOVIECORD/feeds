@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 14:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 16:28:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -215,14 +215,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7bbd91ede7bdcd4d0073c1159e3c3dfb8a6ff048" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151070</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151070</guid>
-            <pubDate>Tue, 01 Mar 2022 04:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[나의 히어로 아카데미아 더 무비: 월드 히어로즈 미션 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152908</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152908</guid>
@@ -231,20 +223,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff892fdb7534d4d9bbb743c90257eb3007bae86e2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151070</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151070</guid>
+            <pubDate>Tue, 01 Mar 2022 04:24:26 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[레벤느망 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153217</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153217</guid>
             <pubDate>Thu, 10 Mar 2022 03:23:23 GMT</pubDate>
             <content:encoded><![CDATA[22.03.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4533abe93340e36af540a7983d3dfc7f79ce0cb2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[안테벨룸 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=137065</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=137065</guid>
-            <pubDate>Mon, 14 Feb 2022 08:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcfb87a998ee56aa40424b98ff57417953704a6cd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[인민을 위해 복무하라 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -269,6 +261,14 @@
             <pubDate>Wed, 16 Feb 2022 16:25:20 GMT</pubDate>
             <content:encoded><![CDATA[22.02.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1f54e7248dbebea9649b47176f1f8dacdc2eb9eb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[안테벨룸 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137065</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137065</guid>
+            <pubDate>Mon, 14 Feb 2022 08:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcfb87a998ee56aa40424b98ff57417953704a6cd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스파이더맨: 노 웨이 홈 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -327,20 +327,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1021e3e3e714bc8ebf67f8c3e238a56ada885292" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[극장판 바다 탐험대 옥토넛 : 해저동굴 대탈출 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=141023</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=141023</guid>
+            <pubDate>Sun, 13 Mar 2022 16:26:56 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb3047b13f3da6fa0f486ccd55269a11a2891356c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[시라노 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154521</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154521</guid>
             <pubDate>Sun, 13 Mar 2022 04:24:58 GMT</pubDate>
             <content:encoded><![CDATA[22.02.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbad4d2ce30349f4eff5f095247d222550ed91c83" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[피그 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151551</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151551</guid>
-            <pubDate>Sun, 13 Mar 2022 04:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec5d488e21478c0b7d565bcbd75523719209bbb7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[문폴 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -375,20 +375,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4dc4721df05c4b46cfffc11f7859037956ec50d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[뜨거운 피 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=125271</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=125271</guid>
-            <pubDate>Fri, 11 Mar 2022 02:42:52 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc40ad380f429b74bc6559c555e43392706bf9c5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[벨파스트 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152920</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152920</guid>
             <pubDate>Wed, 23 Feb 2022 05:17:02 GMT</pubDate>
             <content:encoded><![CDATA[22.03.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc869a2a1cc226fd7583c04588f60000ab433155e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[뜨거운 피 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=125271</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=125271</guid>
+            <pubDate>Fri, 11 Mar 2022 02:42:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc40ad380f429b74bc6559c555e43392706bf9c5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[에펠 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -527,20 +527,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fohmynews%2F20220313132403287ogxy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['이상한 나라의 수학자' 4일 연속 1위..최민식x김동휘 케미 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220313131925635</link>
-            <guid>https://movie.v.daum.net/v/20220313131925635</guid>
-            <pubDate>Sun, 13 Mar 2022 05:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] 영화 ‘이상한 나라의 수학자’가 박스오피스 1위를 유지하고 있다. 13일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날(12일) ‘이상한 나라의 수학자’는 5만 6305명이 관람해 일별 박스오피스 1위를 차지했다. 이달 9일 개봉한 ‘이상한 나라의 수학자’(감독 박동훈, 배급 쇼박스, 제작 조이래빗)가 ‘더 배트맨’(감]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fpoctan%2F20220313131925336iytb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['AFI시상식' 정호연, 메릴 스트립 손잡고 환한 미소[종합] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220312165311349</link>
             <guid>https://movie.v.daum.net/v/20220312165311349</guid>
             <pubDate>Sat, 12 Mar 2022 09:18:23 GMT</pubDate>
             <content:encoded><![CDATA[메릴 스트립(왼쪽), 정호연. 캘리포니아|AFP연합뉴스    [스포츠서울 | 황혜정 인턴기자] ‘오징어 게임’ 정호연이 미국 영화시상식에서 할리우드 스타 메릴 스트립 등과 당당히 어께를 나란히 했다. 12일(현지시간)미국영화연구소(AFI) 시상식에 정호연은 ‘오징어 게임’으로 초청받아 참석했다. 다수의 외신은 이날 AFI 시상식 현장 분위기를]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F12%2FSPORTSSEOUL%2F20220312174307404nwtn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['이상한 나라의 수학자' 4일 연속 1위..최민식x김동휘 케미 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220313131925635</link>
+            <guid>https://movie.v.daum.net/v/20220313131925635</guid>
+            <pubDate>Sun, 13 Mar 2022 05:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자] 영화 ‘이상한 나라의 수학자’가 박스오피스 1위를 유지하고 있다. 13일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날(12일) ‘이상한 나라의 수학자’는 5만 6305명이 관람해 일별 박스오피스 1위를 차지했다. 이달 9일 개봉한 ‘이상한 나라의 수학자’(감독 박동훈, 배급 쇼박스, 제작 조이래빗)가 ‘더 배트맨’(감]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fpoctan%2F20220313131925336iytb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[김혜수 "좋은 어른? 저부터 성숙해지기를 바랄 뿐"[인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
@@ -565,6 +565,14 @@
             <pubDate>Sun, 13 Mar 2022 02:34:45 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김나연 기자] 배우 김무열이 8일 온라인으로 진행된 '소년심판' 출연 인터뷰에 앞서 포즈를 취하고 있다. 2022.03.08 &lt;사진=넥플릭스&gt; /사진=임성균 기자 tjdrbs23@배우 김무열이 '소년심판'을 통해 또 새로운 모습을 선보였다. "작품이 하고 싶은 이야기가 공감 된다면 어떤 작품이든 도전할 생각"이라는 김무열은 또 한 단계 성장했다.]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fstarnews%2F20220313100006889ulfq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[애니메이션계 아카데미 '제49회 애니 어워드' 승자는 '넷플릭스' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220313232110693</link>
+            <guid>https://movie.v.daum.net/v/20220313232110693</guid>
+            <pubDate>Sun, 13 Mar 2022 16:27:11 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 황혜정 인턴기자] 지난 12일(현지시간) 미국에서 열린 ‘제49회 연례 애니 어워드(annual Annie Awards)’의 승자는 ‘넷플릭스’(Netflix)였다. ‘제49회 애니 어워드’에서는 소니 픽쳐스의 ‘미첼 가족과 기계전쟁(The Mitchells vs. Machines)’, 인기 게임 ‘리그오브레전드(LOL)’을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2FSPORTSSEOUL%2F20220313232117223ukvw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[디즈니 OTT 플랫폼 장점 뭐냐고? 바로 '이 작품' (다음영화 뉴스 ─ 인기)]]></title>
@@ -599,14 +607,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2FiMBC%2F20220313150120758azqy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[손가락 욕부터 응원까지..'평화'를 기원하는 영화계 목소리 [김미화의 날선무비] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220313110501797</link>
-            <guid>https://movie.v.daum.net/v/20220313110501797</guid>
-            <pubDate>Sun, 13 Mar 2022 06:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] (서울=뉴스1) 황기선 기자 = 8일 오전 서울도서관 '서울꿈새김판'에 전쟁으로 고통받고 있는 우크라이나 국민을 향한 위로와 평화를 기원하는 메시지가 적혀있다.  서울시는 '꿈새김판'에 우크라이나 국기 색상을 사용해 푸른 하늘과 광활한 노란 밀밭으로 표현했고 중앙에는 ‘우크라이나 땅에 하루 빨리 평화가 깃들기를 기원합니다(PEACE]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fstarnews%2F20220313110502315csxg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['박스오피스 1위' '이상한 나라의 수학자' 최민식이 뽑은 명대사는? (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220313174510241</link>
             <guid>https://movie.v.daum.net/v/20220313174510241</guid>
@@ -615,12 +615,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Filgansports%2F20220313174512074rkng.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['손예진♥' 현빈, 카메라도 심장 떨어질 뻔한 '잘.생.김' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220313171935907</link>
-            <guid>https://movie.v.daum.net/v/20220313171935907</guid>
-            <pubDate>Sun, 13 Mar 2022 09:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 한해선 기자] /사진=VAST엔터테인먼트/사진=VAST엔터테인먼트/사진=VAST엔터테인먼트 배우 현빈이 물오른 미모를 자랑했다. 현빈 소속사 VAST엔터테인먼트는 12일 공식 채널에 '현빈, 오늘도 나(너,우리)의 심금을 울려버린'이란 제목으로 현빈의 광고 촬영 비하인드 사진을 대방출했다. 공개된 사진 속 현빈은 의류 브랜드 모델로 광고 촬영]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fstarnews%2F20220313171936878cqma.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[손가락 욕부터 응원까지..'평화'를 기원하는 영화계 목소리 [김미화의 날선무비] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220313110501797</link>
+            <guid>https://movie.v.daum.net/v/20220313110501797</guid>
+            <pubDate>Sun, 13 Mar 2022 06:26:24 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] (서울=뉴스1) 황기선 기자 = 8일 오전 서울도서관 '서울꿈새김판'에 전쟁으로 고통받고 있는 우크라이나 국민을 향한 위로와 평화를 기원하는 메시지가 적혀있다.  서울시는 '꿈새김판'에 우크라이나 국기 색상을 사용해 푸른 하늘과 광활한 노란 밀밭으로 표현했고 중앙에는 ‘우크라이나 땅에 하루 빨리 평화가 깃들기를 기원합니다(PEACE]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fstarnews%2F20220313110502315csxg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[지안 "5년 만 스크린 복귀.. '복무하라'는 베드신에도 인간의 심리가 담긴 작품" [인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220313182104729</link>
+            <guid>https://movie.v.daum.net/v/20220313182104729</guid>
+            <pubDate>Sun, 13 Mar 2022 16:27:11 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 이소연 기자] 5년 만에 스크린에 복귀한 지안이 스포츠투데이와의 전화 인터뷰를 통해 영화 '복무하라' 촬영 비하인드 스토리를 털어놨다. 지난 2월 23일 개봉한 '인민을 위해 복무하라'는 중국의 대표 작가 옌렌커의 동명 소설을 원작으로 만들어진 영화로 출세를 꿈꾸는 모범 병사 무광(연우진)이 사단장의 취사병으로 발령받고 그의 젊은 아내 수련(]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fsportstoday%2F20220313182105494gemm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[美감독조합상 감독상은 67세 '제인 캠피온'..역대 세 번째 女감독 수상 (다음영화 뉴스 ─ 인기)]]></title>
@@ -631,12 +639,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2FSPORTSSEOUL%2F20220313210406803ozvh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['프리가이' 감독 '데드풀3' 연출 확정, "좀더 폭력적인 영화 될 것"[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220313060705510</link>
-            <guid>https://movie.v.daum.net/v/20220313060705510</guid>
-            <pubDate>Sun, 13 Mar 2022 14:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘프리가이’와 넷플릭스 ‘애담 프로젝트’의 숀 레비 감독이 ‘데드풀3’ 연출을 맡는다. 할리우드 리포터는 11일(현지시간) 숀 레비 감독이 ‘데드풀3’ 메가폰을 잡는다고 보도했다. 1편과 2편의 각본을 썼던 레트 리즈와 폴 워닉이 3편의 시나리오도 작업한다. 라이언 레이놀즈는 이날 트위터에 “숀 레비 감독의 세 번째 영화는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fmydaily%2F20220313060705843ghkr.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['손예진♥' 현빈, 카메라도 심장 떨어질 뻔한 '잘.생.김' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220313171935907</link>
+            <guid>https://movie.v.daum.net/v/20220313171935907</guid>
+            <pubDate>Sun, 13 Mar 2022 09:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 한해선 기자] /사진=VAST엔터테인먼트/사진=VAST엔터테인먼트/사진=VAST엔터테인먼트 배우 현빈이 물오른 미모를 자랑했다. 현빈 소속사 VAST엔터테인먼트는 12일 공식 채널에 '현빈, 오늘도 나(너,우리)의 심금을 울려버린'이란 제목으로 현빈의 광고 촬영 비하인드 사진을 대방출했다. 공개된 사진 속 현빈은 의류 브랜드 모델로 광고 촬영]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fstarnews%2F20220313171936878cqma.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[문준용씨 특혜 논란 작품으로 일본 예술제서 수상 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220313205538225</link>
+            <guid>https://movie.v.daum.net/v/20220313205538225</guid>
+            <pubDate>Sun, 13 Mar 2022 16:27:11 GMT</pubDate>
+            <content:encoded><![CDATA[문재인 대통령 아들인 미디어 아티스트 문준용씨가 국내에서 특혜 논란이 일었던 작품으로 일본 문화청 주최 일본 미디어 예술제에서 우수상을 수상했다. 13일 제25회 일본 미디어 예술제 홈페이지 발표에 따르면 문씨는 작품 ‘어그멘티드 쉐도우-인사이드’로 예술 부문 우수상을 받았다. 문씨도 이날 페이스북 자신의 계정에 글을 올려 수상 사실을 알렸다. 일본 미디어]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fhankooki%2F20220313205541980xapa.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["책임감 큰 작품"..'소년심판' 향한 김혜수의 진심 [★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
@@ -645,182 +661,6 @@
             <pubDate>Sun, 13 Mar 2022 03:20:51 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김미화 기자] 배우 넷플릭스 오리지널 드라마 '소년심판'(감독 홍종찬)의 주연배우 김혜수가 4일 오전 진행된 화상 인터뷰를 위해 포즈를 취하고 있다.  '소년심판'은 소년범을 혐오하는 판사 심은석이 지방법원 소년부에 부임하면서 마주하게 되는 소년범죄와 그들을 둘러싼 이들의 이야기를 그린 드라마다. /사진제공=넷플릭스 2022.03.04 /사진=이]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fstarnews%2F20220313101507464zgtn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['시맨틱 에러' 감독 "BL 드라마, 쉬운 접근 위해 노력했죠"[★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220313110007666</link>
-            <guid>https://movie.v.daum.net/v/20220313110007666</guid>
-            <pubDate>Sun, 13 Mar 2022 09:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 시맨틱 에러 / 사진=본인 제공 그간 BL(Boys Love) 드라마는 '그들만의 세상'인 느낌이 강했다. 마니아층은 있지만 그 한계가 명확해 보였고, 벽이 존재하는 듯 보이기도 했다. 그러나 '시맨틱 에러'가 BL 팬들뿐만 아니라 처음 접해본 시청자까지 '몰입'시키며 그 벽을 부수고 있다. 연출을 맡은 김수정 감독은 치열한 고민]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fstarnews%2F20220313110008840jutr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[최민식도 배트맨도 '코로나+비수기'엔 힘에 부쳐 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220313113843297</link>
-            <guid>https://movie.v.daum.net/v/20220313113843297</guid>
-            <pubDate>Sun, 13 Mar 2022 08:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[[이데일리 스타in 박미애 기자] DC코믹스를 대표하는 캐릭터도, 국내 최고 흥행 기록을 보유한 최민식도 힘에 부치는 중이다. 영화관입장권통합전산망에 따르면, 12일 최민식 주연의 ‘이상한 나라의 수학자’(감독 박동훈)가 관객 5만 6307명으로 1위, ‘더 배트맨’(감독 맷 리브스)이 관객 4만 8001명으로 2위를 각각 차지했다. ‘이상한 나라의 수학]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2FEdaily%2F20220313113850361neyh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['수학자' 박동훈 감독 "최민식 존재의 부피감으로 영화의 밀도 꽉 채워" [인터뷰M] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220313180117469</link>
-            <guid>https://v.daum.net/v/20220313180117469</guid>
-            <pubDate>Sun, 13 Mar 2022 09:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 이후 3일 연속 박스오피스 1위를 차지하고 있는 영화 '이상한 나라의 수학자'의 박동훈 감독을 만났다. '이상한 나라의 수학자'는 신분을 감추고 고등학교 경비원으로 일하는 탈북한 천재 수학자가 수학을 포기한 학생을 만나며 벌어지는 이야기를 그린 영화다. 90년대부터 최민식의 굉장한 팬이었다는 박동훈 감독은 이 영화에 최민식을 캐스팅하며 존재만으로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2FiMBC%2F20220313180121381dqud.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['수학자' 박동훈 감독 "파이송, 칠판 뒤 앵글로 관객의 동참 끌어냈다" [인터뷰M] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220313150116732</link>
-            <guid>https://v.daum.net/v/20220313150116732</guid>
-            <pubDate>Sun, 13 Mar 2022 06:26:32 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 이후 3일 연속 박스오피스 1위를 차지하고 있는 영화 '이상한 나라의 수학자'의 박동훈 감독을 만났다. 신분을 감추고 고등학교 경비원으로 일하는 탈북한 천재 수학자가 수학을 포기한 학생을 만나며 벌어지는 이야기를 그린 영화 '이상한 나라의 수학자'를 최민식, 김동휘를 통해 세대를 불문하고 소통하는 영화로 만들어 낸 감독이다. 수학이라는 전국민적 공]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2FiMBC%2F20220313150120758azqy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[기대치 높았던 이 재난영화, 현직 소방관의 점수는? (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220313132400713</link>
-            <guid>https://v.daum.net/v/20220313132400713</guid>
-            <pubDate>Sun, 13 Mar 2022 04:25:19 GMT</pubDate>
-            <content:encoded><![CDATA[[이건 기자] 2012년 개봉한 영화 &lt;타워&gt;는 설경구, 손예진, 김상경, 안성기, 차인표 등 유명 배우들이 총출동한 블록버스터급 재난영화로 당시 500만 명이 넘는 관객을 동원했다.&nbsp; 이 영화는&nbsp;화재 현장을 사실감 있게 구현하기 위해&nbsp;대부분 진짜 불을 사용했기 때문에 유독가스로 인한 두통 등 부상 위험이 큰&nbsp;촬영들이 많았다고 알려져 있다.&nbsp;&nbsp; &nbsp;]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fohmynews%2F20220313132403287ogxy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['이상한 나라의 수학자' 4일 연속 1위..최민식x김동휘 케미 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220313131925635</link>
-            <guid>https://v.daum.net/v/20220313131925635</guid>
-            <pubDate>Sun, 13 Mar 2022 04:25:19 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] 영화 ‘이상한 나라의 수학자’가 박스오피스 1위를 유지하고 있다. 13일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날(12일) ‘이상한 나라의 수학자’는 5만 6305명이 관람해 일별 박스오피스 1위를 차지했다. 이달 9일 개봉한 ‘이상한 나라의 수학자’(감독 박동훈, 배급 쇼박스, 제작 조이래빗)가 ‘더 배트맨’(감]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fpoctan%2F20220313131925336iytb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['스펜서' 크리스틴 스튜어트, 얼마나 완벽할까..크레딧 포스터 공개 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220313122926116</link>
-            <guid>https://v.daum.net/v/20220313122926116</guid>
-            <pubDate>Sun, 13 Mar 2022 04:25:19 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] 다이애나 왕세자비로 변신하며 생애 첫 아카데미 여우주연상 후보에 오른 배우 크리스틴 스튜어트 주연의 올해 최고 화제작 '스펜서'가 크레딧 포스터를 공개했다. 크리스틴 스튜어트의 변신으로 신드롬급 화제를 불러일으키고 있는 영화 '스펜서'(감독 파블로 라라인, 수입공동배급&nbsp;그린나래미디어, 배급 영화특별시 SMC, 제공 인터파크)가&nbsp;]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fpoctan%2F20220313122927173bcnj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니 OTT 플랫폼 장점 뭐냐고? 바로 '이 작품' (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220313121200962</link>
-            <guid>https://v.daum.net/v/20220313121200962</guid>
-            <pubDate>Sun, 13 Mar 2022 03:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[[김준모 기자] &nbsp;        ▲ &nbsp;&lt;메이의 새빨간 비밀&gt; 포스터    ⓒ 디즈니플러스  &nbsp; 디즈니플러스의 오리지널 애니메이션 &lt;메이의 새빨간 비밀&gt;은 치열한 OTT 시장에서 디즈니플러스만이 지닌 장점이 무엇인지 보여주는 작품이다. 디즈니플러스는 디즈니 클래식 애니메이션과 픽사를 통해 키즈 콘텐츠 강자로 불리고 있다. 때문에 이 오리지널 애니메이션 공개를]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fohmynews%2F20220313121201452dgeg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[0.7% 차이의 승리 누가 도왔나.. '킹메이커'에서 얻은 힌트 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220313110900862</link>
-            <guid>https://v.daum.net/v/20220313110900862</guid>
-            <pubDate>Sun, 13 Mar 2022 02:34:53 GMT</pubDate>
-            <content:encoded><![CDATA[[주수원 기자] 대선이 끝났다. 0.7%로 승패가 갈렸다. 아바의 노래 'The Winner Take it All'처럼 승자 독식으로 마무리 되었다. 복잡한 마음을 달래고자 아껴두었던 영화 &lt;킹메이커&gt;를 보았다. 킹메이커는 김대중과 그를 도왔던 킹메이커 엄창록의 실화를 바탕으로 한 정치 영화다. 1960년대 세상을 바꾸기 위해 도전하는 네 번 낙선한 정치인]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fohmynews%2F20220313110900588zizd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[손가락 욕부터 응원까지..'평화'를 기원하는 영화계 목소리 [김미화의 날선무비] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220313110501797</link>
-            <guid>https://v.daum.net/v/20220313110501797</guid>
-            <pubDate>Sun, 13 Mar 2022 02:34:53 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] (서울=뉴스1) 황기선 기자 = 8일 오전 서울도서관 '서울꿈새김판'에 전쟁으로 고통받고 있는 우크라이나 국민을 향한 위로와 평화를 기원하는 메시지가 적혀있다.  서울시는 '꿈새김판'에 우크라이나 국기 색상을 사용해 푸른 하늘과 광활한 노란 밀밭으로 표현했고 중앙에는 ‘우크라이나 땅에 하루 빨리 평화가 깃들기를 기원합니다(PEACE]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fstarnews%2F20220313110502315csxg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['시맨틱 에러' 감독 "BL 드라마, 쉬운 접근 위해 노력했죠"[★FULL인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220313110007666</link>
-            <guid>https://v.daum.net/v/20220313110007666</guid>
-            <pubDate>Sun, 13 Mar 2022 02:34:53 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 시맨틱 에러 / 사진=본인 제공 그간 BL(Boys Love) 드라마는 '그들만의 세상'인 느낌이 강했다. 마니아층은 있지만 그 한계가 명확해 보였고, 벽이 존재하는 듯 보이기도 했다. 그러나 '시맨틱 에러'가 BL 팬들뿐만 아니라 처음 접해본 시청자까지 '몰입'시키며 그 벽을 부수고 있다. 연출을 맡은 김수정 감독은 치열한 고민]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fstarnews%2F20220313110008840jutr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['이상한 나라의 수학자' 4일 연속 1위..누적 18만 [Nbox] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220313101919075</link>
-            <guid>https://v.daum.net/v/20220313101919075</guid>
-            <pubDate>Sun, 13 Mar 2022 02:34:53 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = '이상한 나라의 수학자'(감독 박동훈)가 박스오피스 1위를 유지했다. 13일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 영화 '이상한 나라의 수학자'는 지난 12일 하루동안 5만6307명을 동원해 박스오피스 1위를 기록했다. 이로써 '이상한 나라의 수학자'는 지난 9일 개봉 첫날부터 이날까지 4일째 박스오피스 정]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2FNEWS1%2F20220313101919711fqus.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["책임감 큰 작품"..'소년심판' 향한 김혜수의 진심 [★FULL인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220313101506995</link>
-            <guid>https://v.daum.net/v/20220313101506995</guid>
-            <pubDate>Sun, 13 Mar 2022 02:34:53 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 배우 넷플릭스 오리지널 드라마 '소년심판'(감독 홍종찬)의 주연배우 김혜수가 4일 오전 진행된 화상 인터뷰를 위해 포즈를 취하고 있다.  '소년심판'은 소년범을 혐오하는 판사 심은석이 지방법원 소년부에 부임하면서 마주하게 되는 소년범죄와 그들을 둘러싼 이들의 이야기를 그린 드라마다. /사진제공=넷플릭스 2022.03.04 /사진=이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fstarnews%2F20220313101507464zgtn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['또 성장한' 김무열 "어떤 작품이든 도전하고파"[★FULL인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220313100005762</link>
-            <guid>https://v.daum.net/v/20220313100005762</guid>
-            <pubDate>Sun, 13 Mar 2022 01:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 배우 김무열이 8일 온라인으로 진행된 '소년심판' 출연 인터뷰에 앞서 포즈를 취하고 있다. 2022.03.08 &lt;사진=넥플릭스&gt; /사진=임성균 기자 tjdrbs23@배우 김무열이 '소년심판'을 통해 또 새로운 모습을 선보였다. "작품이 하고 싶은 이야기가 공감 된다면 어떤 작품이든 도전할 생각"이라는 김무열은 또 한 단계 성장했다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fstarnews%2F20220313100006889ulfq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['문나이트', 오스카 아이삭·에단 호크 열연→MCU 초월 액션..예고편 공개 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220313100001753</link>
-            <guid>https://v.daum.net/v/20220313100001753</guid>
-            <pubDate>Sun, 13 Mar 2022 01:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 문나이트 / 사진=디즈니플러스디즈니플러스가 선보이는 마블 오리지널 시리즈 '문나이트'가 3월 30일 글로벌 동시 공개를 확정한 가운데 '혼돈의 시작' 예고편을 공개했다. 3월 30일 글로벌 동시 공개를 확정한 디즈니오리지널 시리즈 '문나이트'는 악몽과 불면증에 시달리는 '스티븐'이 또다른 자아인 무자비한 용병 '마크 스펙터'의 존]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fstarnews%2F20220313100002781fmuh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[김혜수 "좋은 어른? 저부터 성숙해지기를 바랄 뿐"[인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220313091350060</link>
-            <guid>https://v.daum.net/v/20220313091350060</guid>
-            <pubDate>Sun, 13 Mar 2022 01:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] OTT플랫폼 넷플릭스 오리지널 ‘소년심판’이 묵직한 메시지와 날카로운 화두를 던지며 작품성을 인정받았다. 소년범죄를 다각도로 살피며 ‘아이들을 지키기 위한 좋은 어른은 어떤 사람인가’란 질문을 남긴 이 작품은 주연을 맡은 배우 김혜수에게도 여러모로 영향을 끼쳤다. ‘좋은 어른’이란 화두를 가슴에 지니게 된 것도 그 중 하나다. “실제 김]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fsportskhan%2F20220313091351370dghf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['스펜서'-'도어맨'-'아이돌레시피'[미리보는] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220313090035879</link>
-            <guid>https://v.daum.net/v/20220313090035879</guid>
-            <pubDate>Sun, 13 Mar 2022 01:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 사진=각 영화 포스터할리우드 블록버스터 '더 배트맨'이 북미 박스오피스에서 1억 3400만 달러라는 수익을 올리고, 세계 73개국 박스오피스 1위를 달성해 흥행 돌풍을 일으키고 있는 가운데, 국내에서는 개봉 10일째 62만 3704명의 관객을 동원하며 다소 주춤하고 있다. 이러한 상황 속 최민식 주연의 영화 '이상한 나라의 수학]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fstarnews%2F20220313090036619pfhs.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['문나이트', 마블값 할까[MK무비] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220313080307429</link>
-            <guid>https://v.daum.net/v/20220313080307429</guid>
-            <pubDate>Sat, 12 Mar 2022 23:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[마블의 새로운 히어로가 온다. 바로 ‘문나이트’다. 마블 오리지널 시리즈 ‘문나이트’가 오는 30일 디즈니+를 통해 전 세계에 동시 공개된다. 영화는 현실과 꿈을 구분하지 못하며 혼란에 빠진 ‘스티븐’이 악몽과 불면증에 시달리다 또 다른 자아인 무자비한 용병 ‘마크 스펙터’의 존재를 깨닫고, 어둠이 깨운 초월적 히어로 ‘문나이트’로 거듭나게 되는 과정을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fstartoday%2F20220313080310520mbwg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['이상한 나라의 수학자' 나흘째 박스오피스 1위 [★무비차트] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220313074929312</link>
-            <guid>https://v.daum.net/v/20220313074929312</guid>
-            <pubDate>Sat, 12 Mar 2022 23:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='이상한 나라의 수학자'영화 '이상한 나라의 수학자'가 개봉후 나흘 연속 1위를 지켰다. 13일 영진위 영화관 입장권 통합전산망에 따르면 '이상한 나라의 수학자'는 지난 12일 5만 6307명의 관객을 모았다. 누적관객수는 18만 4249명이다. '이상한 나라의 수학자'는 신분을 감추고 고등학교 경비원으로 일하는 탈북한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fstarnews%2F20220313074930667yhrk.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[정우·유연석·김동완, 3월 극장가 출격..활력 찾을까 [N초점] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220313070006860</link>
-            <guid>https://v.daum.net/v/20220313070006860</guid>
-            <pubDate>Sat, 12 Mar 2022 22:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 배우 정우 유연석 김동완이 3월 극장가에 출격한다. 각각 '뜨거운 피' '배니싱: 미제사건' 'B컷'으로 관객들과 만나는 것. '뜨거운 피'는 누아르 장르를, '배니싱: 미제사건'은 서스펜스 범죄 스릴러 장르를, 'B컷'은 디지털 범죄 스릴러 장르를 각각 표방하는 작품들로 이들 배우들이 각 영화에서 보여줄 연기 변신이 기]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2FNEWS1%2F20220313070007799yacy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["크리스틴 스튜어트, 동성결혼 임박" 약혼녀와 공식석상 첫 등장[해외이슈] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220313061705565</link>
-            <guid>https://v.daum.net/v/20220313061705565</guid>
-            <pubDate>Sat, 12 Mar 2022 22:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]아카데미 여우주연상 유력후보인 배우 크리스틴 스튜어트(32)가 동성 연인 딜런 메이어와 공식 석상에 등장했다. 이미 약혼식을 치른 이들의 동성결혼이 임박했다는 소문이 확산되고 있다. 크리스틴 스튜어트는 미국 매체 할리우드리포터가 지난 7일 주최한 아카데미상 후보들의 모임(Hollywood Reporter’s Nominees]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fmydaily%2F20220313061705497phgi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['프리가이' 감독 '데드풀3' 연출 확정, "좀더 폭력적인 영화 될 것"[해외이슈] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220313060705510</link>
-            <guid>https://v.daum.net/v/20220313060705510</guid>
-            <pubDate>Sat, 12 Mar 2022 21:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘프리가이’와 넷플릭스 ‘애담 프로젝트’의 숀 레비 감독이 ‘데드풀3’ 연출을 맡는다. 할리우드 리포터는 11일(현지시간) 숀 레비 감독이 ‘데드풀3’ 메가폰을 잡는다고 보도했다. 1편과 2편의 각본을 썼던 레트 리즈와 폴 워닉이 3편의 시나리오도 작업한다. 라이언 레이놀즈는 이날 트위터에 “숀 레비 감독의 세 번째 영화는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fmydaily%2F20220313060705843ghkr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<스펜서> 크리스틴 스튜어트 인터뷰 영상 (우리 영화 볼래?)]]></title>
