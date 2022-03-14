@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 10:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 12:33:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003540845</link>
             <guid>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003540845</guid>
             <pubDate>Mon, 14 Mar 2022 10:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=이미지 기자] 황동혁 감독이 스티븐 스필버그 감독과의 일화를 공개했다. 황동혁 감독은 13일(현지시간) 제27회 크리틱스 초이스 어워즈에 참석했다. 이날 레드카펫에서 진행된 버라이어티와의 인터뷰에서 황]]></content:encoded>
+            <content:encoded><![CDATA[[헤럴드POP=이미지 기자] 황동혁 감독이 스티븐 스필버그 감독과의 일화를 공개했다. 황동혁 감독은 13일(현지시간) 제27회 크리틱스 초이스 어워즈에 참석했다. 이날 레드카펫에서 진행된 미국 매체 버라이어티와의 인]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['차원 다른 어드벤처'…'수퍼 소닉2', 4월 6일 개봉 확정 (네이버TV연예 ─ 영화)]]></title>
@@ -191,20 +191,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8cc69ee37e41d9fed49935446d3a6697f7467df4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[이상한 나라의 수학자 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=139237</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=139237</guid>
-            <pubDate>Mon, 14 Feb 2022 12:29:07 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ca21642451e2e68e3eec5b9691c2aba33b47d70" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 주술회전 0 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156790</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156790</guid>
             <pubDate>Fri, 28 Jan 2022 11:15:55 GMT</pubDate>
             <content:encoded><![CDATA[22.02.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdec276db284e8c6d82f974cff11fa991ccd3f6b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[이상한 나라의 수학자 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139237</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139237</guid>
+            <pubDate>Mon, 14 Feb 2022 12:29:07 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ca21642451e2e68e3eec5b9691c2aba33b47d70" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[나의 히어로 아카데미아 더 무비: 월드 히어로즈 미션 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -231,6 +231,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[킹메이커 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=118715</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=118715</guid>
+            <pubDate>Mon, 14 Mar 2022 12:31:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F825baa1e98d8f33e4801d88b3a302739039c5cc4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[레벤느망 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153217</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153217</guid>
@@ -247,12 +255,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8794ab82e2da32c0efa0187c65735d6249e37d43" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[나이트메어 앨리 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150896</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150896</guid>
+            <pubDate>Wed, 16 Feb 2022 16:25:20 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1f54e7248dbebea9649b47176f1f8dacdc2eb9eb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[언차티드 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=61476</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=61476</guid>
             <pubDate>Tue, 08 Feb 2022 11:16:30 GMT</pubDate>
             <content:encoded><![CDATA[22.02.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa9ecc8ab020ca4129e7fc79a7f3a86fa328e63d0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스파이더맨: 노 웨이 홈 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=146656</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=146656</guid>
+            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fc5880afdb5b7c60161f34184e1f466814fec2d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[듄 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=130886</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=130886</guid>
+            <pubDate>Mon, 14 Mar 2022 09:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0235b8e9c0048e4301f8c9c74da929863e33456" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[안테벨룸 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -263,20 +295,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcfb87a998ee56aa40424b98ff57417953704a6cd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[나이트메어 앨리 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150896</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150896</guid>
-            <pubDate>Wed, 16 Feb 2022 16:25:20 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1f54e7248dbebea9649b47176f1f8dacdc2eb9eb" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[스파이더맨: 노 웨이 홈 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=146656</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=146656</guid>
-            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fc5880afdb5b7c60161f34184e1f466814fec2d" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[우리가 사랑이라고 믿는 것 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=134485</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=134485</guid>
+            <pubDate>Thu, 24 Feb 2022 01:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F59f14769d01ff2e8ec75a72ce36be48c7a28d755" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[리코리쉬 피자 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -293,22 +317,6 @@
             <pubDate>Thu, 10 Mar 2022 03:23:23 GMT</pubDate>
             <content:encoded><![CDATA[22.03.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F24953039c163640cbb39f43dccb852f1df697783" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[듄 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=130886</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=130886</guid>
-            <pubDate>Mon, 14 Mar 2022 09:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0235b8e9c0048e4301f8c9c74da929863e33456" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[우리가 사랑이라고 믿는 것 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=134485</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=134485</guid>
-            <pubDate>Thu, 24 Feb 2022 01:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F59f14769d01ff2e8ec75a72ce36be48c7a28d755" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 금빛 모자이크: 땡큐!! (다음영화 영화관 ─ 현재상영)]]></title>
@@ -333,14 +341,6 @@
             <pubDate>Sun, 13 Mar 2022 03:20:37 GMT</pubDate>
             <content:encoded><![CDATA[22.03.03]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F04dd4d9cec80ba1857d24f2b68cc4f97748c0b05" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[피그 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151551</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151551</guid>
-            <pubDate>Mon, 14 Mar 2022 05:37:53 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec5d488e21478c0b7d565bcbd75523719209bbb7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[문폴 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -391,20 +391,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3741882ac3d1e790de3cf934aaf4bd886c5565ea" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[벨파스트 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152920</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152920</guid>
-            <pubDate>Wed, 23 Feb 2022 05:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc869a2a1cc226fd7583c04588f60000ab433155e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[뜨거운 피 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=125271</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=125271</guid>
             <pubDate>Fri, 11 Mar 2022 02:42:52 GMT</pubDate>
             <content:encoded><![CDATA[22.03.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc40ad380f429b74bc6559c555e43392706bf9c5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[벨파스트 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152920</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152920</guid>
+            <pubDate>Wed, 23 Feb 2022 05:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc869a2a1cc226fd7583c04588f60000ab433155e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[유어 러브 송 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -415,20 +415,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F96a9baeced0424f6271b699e009e0d52dd166922" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[가무악칠채 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157999</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157999</guid>
-            <pubDate>Fri, 04 Mar 2022 03:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7c9ca998022a731e4419967b1b416e3cf67bfe68" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[킹 리차드 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152650</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152650</guid>
             <pubDate>Mon, 14 Mar 2022 05:38:01 GMT</pubDate>
             <content:encoded><![CDATA[22.03.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa44461b8b66480bfed5a5c458ee63f964c6794b4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[가무악칠채 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157999</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157999</guid>
+            <pubDate>Fri, 04 Mar 2022 03:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7c9ca998022a731e4419967b1b416e3cf67bfe68" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아망떼 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -567,14 +567,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F14%2Fnewsen%2F20220314134643782cpsi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[디즈니 OTT 플랫폼 장점 뭐냐고? 바로 '이 작품' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220313121200962</link>
-            <guid>https://movie.v.daum.net/v/20220313121200962</guid>
-            <pubDate>Sun, 13 Mar 2022 04:25:12 GMT</pubDate>
-            <content:encoded><![CDATA[[김준모 기자] &nbsp;        ▲ &nbsp;&lt;메이의 새빨간 비밀&gt; 포스터    ⓒ 디즈니플러스  &nbsp; 디즈니플러스의 오리지널 애니메이션 &lt;메이의 새빨간 비밀&gt;은 치열한 OTT 시장에서 디즈니플러스만이 지닌 장점이 무엇인지 보여주는 작품이다. 디즈니플러스는 디즈니 클래식 애니메이션과 픽사를 통해 키즈 콘텐츠 강자로 불리고 있다. 때문에 이 오리지널 애니메이션 공개를]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fohmynews%2F20220313121201452dgeg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['킹 리차드' 윌 스미스, 아카데미 최초 수상 예고 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220314085030559</link>
             <guid>https://movie.v.daum.net/v/20220314085030559</guid>
@@ -583,44 +575,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F14%2Fsportsdonga%2F20220314085032389ufjr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['프리가이' 감독 '데드풀3' 연출 확정, "좀더 폭력적인 영화 될 것"[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220313060705510</link>
-            <guid>https://movie.v.daum.net/v/20220313060705510</guid>
-            <pubDate>Mon, 14 Mar 2022 09:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘프리가이’와 넷플릭스 ‘애담 프로젝트’의 숀 레비 감독이 ‘데드풀3’ 연출을 맡는다. 할리우드 리포터는 11일(현지시간) 숀 레비 감독이 ‘데드풀3’ 메가폰을 잡는다고 보도했다. 1편과 2편의 각본을 썼던 레트 리즈와 폴 워닉이 3편의 시나리오도 작업한다. 라이언 레이놀즈는 이날 트위터에 “숀 레비 감독의 세 번째 영화는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fmydaily%2F20220313060705843ghkr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[탈북자와 남한 학생의 수학 공부, 정답보다 중요한 건 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220314113606356</link>
-            <guid>https://movie.v.daum.net/v/20220314113606356</guid>
-            <pubDate>Mon, 14 Mar 2022 09:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[[김동근 기자] ▲ &nbsp;영화 &lt;이상한 나라의 수학자&gt; 장면    ⓒ  ㈜쇼박스  &nbsp; 우리는&nbsp;성장하면서&nbsp;계속&nbsp;특정한&nbsp;목표를&nbsp;가지고&nbsp;있다.&nbsp;그&nbsp;목표를&nbsp;이루기&nbsp;위해&nbsp;노력하고&nbsp;또&nbsp;도전하면서&nbsp;원하는&nbsp;결과를&nbsp;얻기&nbsp;위해&nbsp;무척&nbsp;애쓴다.&nbsp;청소년&nbsp;시절에&nbsp;가장&nbsp;중요한&nbsp;목표는&nbsp;바로&nbsp;시험이다.&nbsp;중간고사와&nbsp;기말고사&nbsp;그리고&nbsp;궁극적으로&nbsp;가장&nbsp;큰&nbsp;목표인&nbsp;수학능력시험까지&nbsp;10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F14%2Fohmynews%2F20220314113608084ziqi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[웰메이드 파격 스릴러 '아망떼' 감독, "비극은 마치 행복처럼 돌아가게 되어있다" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220314112958025</link>
-            <guid>https://movie.v.daum.net/v/20220314112958025</guid>
-            <pubDate>Mon, 14 Mar 2022 09:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]제 77회 베니스 국제 영화제 초청작 웰메이드 파격 스릴러 '아망떼'가 다음주 17일(목) 개봉을 앞두고 니콜 가르시아 감독이 직접 밝힌 영화의 모든 것을 공개해 영화팬들의 이목을 집중시키고 있다. 세자르 여우 주연상 수상 출신의 배우 겸 감독 니콜 가르시아가 신작 '아망떼'를 통해 세 남녀의 아찔하고 위험한 사랑을 선사할 것]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F14%2Fmydaily%2F20220314112959076ejts.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['벨파스트' 제75회 영국 아카데미 시상식(BAFTA) 작품상 수상 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220314100613798</link>
-            <guid>https://movie.v.daum.net/v/20220314100613798</guid>
-            <pubDate>Mon, 14 Mar 2022 09:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 황혜정 인턴기자] 영화 ‘벨파스트’가 제75회 영국 아카데미 시상식(BAFTA)에서 영국 작품상을 수상했다. ‘벨파스트’는 벨파스트의 골목과 짝사랑하는 소녀와 가족이 세상의 전부였던 소년과 사랑스러운 한 가족의 이야기를 흑백 화면 속에 감성적으로 그려낸 작품이다. 실제 벨파스트에서 어린 시절을 보낸 케네스 브래너 감독의 자전]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F14%2FSPORTSSEOUL%2F20220314100616830kmlc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["크리스틴 스튜어트, 동성결혼 임박" 약혼녀와 공식석상 첫 등장[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220313061705565</link>
-            <guid>https://movie.v.daum.net/v/20220313061705565</guid>
-            <pubDate>Sat, 12 Mar 2022 22:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]아카데미 여우주연상 유력후보인 배우 크리스틴 스튜어트(32)가 동성 연인 딜런 메이어와 공식 석상에 등장했다. 이미 약혼식을 치른 이들의 동성결혼이 임박했다는 소문이 확산되고 있다. 크리스틴 스튜어트는 미국 매체 할리우드리포터가 지난 7일 주최한 아카데미상 후보들의 모임(Hollywood Reporter’s Nominees]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fmydaily%2F20220313061705497phgi.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[디즈니 OTT 플랫폼 장점 뭐냐고? 바로 '이 작품' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220313121200962</link>
+            <guid>https://movie.v.daum.net/v/20220313121200962</guid>
+            <pubDate>Sun, 13 Mar 2022 04:25:12 GMT</pubDate>
+            <content:encoded><![CDATA[[김준모 기자] &nbsp;        ▲ &nbsp;&lt;메이의 새빨간 비밀&gt; 포스터    ⓒ 디즈니플러스  &nbsp; 디즈니플러스의 오리지널 애니메이션 &lt;메이의 새빨간 비밀&gt;은 치열한 OTT 시장에서 디즈니플러스만이 지닌 장점이 무엇인지 보여주는 작품이다. 디즈니플러스는 디즈니 클래식 애니메이션과 픽사를 통해 키즈 콘텐츠 강자로 불리고 있다. 때문에 이 오리지널 애니메이션 공개를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fohmynews%2F20220313121201452dgeg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[베니스영화제 황금사자상 '레벤느망', 예술영화 '원픽 무비' (다음영화 뉴스 ─ 인기)]]></title>
@@ -631,6 +591,38 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F14%2Fpoctan%2F20220314162415913nssq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[웰메이드 파격 스릴러 '아망떼' 감독, "비극은 마치 행복처럼 돌아가게 되어있다" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220314112958025</link>
+            <guid>https://movie.v.daum.net/v/20220314112958025</guid>
+            <pubDate>Mon, 14 Mar 2022 09:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]제 77회 베니스 국제 영화제 초청작 웰메이드 파격 스릴러 '아망떼'가 다음주 17일(목) 개봉을 앞두고 니콜 가르시아 감독이 직접 밝힌 영화의 모든 것을 공개해 영화팬들의 이목을 집중시키고 있다. 세자르 여우 주연상 수상 출신의 배우 겸 감독 니콜 가르시아가 신작 '아망떼'를 통해 세 남녀의 아찔하고 위험한 사랑을 선사할 것]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F14%2Fmydaily%2F20220314112959076ejts.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[탈북자와 남한 학생의 수학 공부, 정답보다 중요한 건 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220314113606356</link>
+            <guid>https://movie.v.daum.net/v/20220314113606356</guid>
+            <pubDate>Mon, 14 Mar 2022 09:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[[김동근 기자] ▲ &nbsp;영화 &lt;이상한 나라의 수학자&gt; 장면    ⓒ  ㈜쇼박스  &nbsp; 우리는&nbsp;성장하면서&nbsp;계속&nbsp;특정한&nbsp;목표를&nbsp;가지고&nbsp;있다.&nbsp;그&nbsp;목표를&nbsp;이루기&nbsp;위해&nbsp;노력하고&nbsp;또&nbsp;도전하면서&nbsp;원하는&nbsp;결과를&nbsp;얻기&nbsp;위해&nbsp;무척&nbsp;애쓴다.&nbsp;청소년&nbsp;시절에&nbsp;가장&nbsp;중요한&nbsp;목표는&nbsp;바로&nbsp;시험이다.&nbsp;중간고사와&nbsp;기말고사&nbsp;그리고&nbsp;궁극적으로&nbsp;가장&nbsp;큰&nbsp;목표인&nbsp;수학능력시험까지&nbsp;10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F14%2Fohmynews%2F20220314113608084ziqi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['벨파스트' 제75회 영국 아카데미 시상식(BAFTA) 작품상 수상 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220314100613798</link>
+            <guid>https://movie.v.daum.net/v/20220314100613798</guid>
+            <pubDate>Mon, 14 Mar 2022 09:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 황혜정 인턴기자] 영화 ‘벨파스트’가 제75회 영국 아카데미 시상식(BAFTA)에서 영국 작품상을 수상했다. ‘벨파스트’는 벨파스트의 골목과 짝사랑하는 소녀와 가족이 세상의 전부였던 소년과 사랑스러운 한 가족의 이야기를 흑백 화면 속에 감성적으로 그려낸 작품이다. 실제 벨파스트에서 어린 시절을 보낸 케네스 브래너 감독의 자전]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F14%2FSPORTSSEOUL%2F20220314100616830kmlc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['프리가이' 감독 '데드풀3' 연출 확정, "좀더 폭력적인 영화 될 것"[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220313060705510</link>
+            <guid>https://movie.v.daum.net/v/20220313060705510</guid>
+            <pubDate>Mon, 14 Mar 2022 09:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘프리가이’와 넷플릭스 ‘애담 프로젝트’의 숀 레비 감독이 ‘데드풀3’ 연출을 맡는다. 할리우드 리포터는 11일(현지시간) 숀 레비 감독이 ‘데드풀3’ 메가폰을 잡는다고 보도했다. 1편과 2편의 각본을 썼던 레트 리즈와 폴 워닉이 3편의 시나리오도 작업한다. 라이언 레이놀즈는 이날 트위터에 “숀 레비 감독의 세 번째 영화는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fmydaily%2F20220313060705843ghkr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[왕비가 되길 거부한 그녀, 영국 왕실의 '노라'였을까 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220314043101112</link>
             <guid>https://movie.v.daum.net/v/20220314043101112</guid>
@@ -639,12 +631,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F14%2Fhankooki%2F20220314043103245rvib.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[우리가 몰랐던 아름다운 에펠탑의 이야기..'에펠', 이달 23일 개봉 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220314102748742</link>
-            <guid>https://movie.v.daum.net/v/20220314102748742</guid>
-            <pubDate>Mon, 14 Mar 2022 09:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘에펠’이 세계 건축사의 한 획을 그은 에펠탑의 모습이 담긴 에펠타워 메이킹 영상을 최초 공개하며 눈길을 끈다. 전세계가 몰랐던 에펠의 또 다른 이야기, 천재 건축가 구스타브 에펠의 운명적인 사랑과 에펠탑의 완성을 그린 멜로 드라마 영화 ‘에펠’(감독 마르탱 부르불롱, 수입 영화사 메이플러스, 배급 블루필름웍스, 공동배급]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F14%2Fpoctan%2F20220314102748309eowu.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA["크리스틴 스튜어트, 동성결혼 임박" 약혼녀와 공식석상 첫 등장[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220313061705565</link>
+            <guid>https://movie.v.daum.net/v/20220313061705565</guid>
+            <pubDate>Sat, 12 Mar 2022 22:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]아카데미 여우주연상 유력후보인 배우 크리스틴 스튜어트(32)가 동성 연인 딜런 메이어와 공식 석상에 등장했다. 이미 약혼식을 치른 이들의 동성결혼이 임박했다는 소문이 확산되고 있다. 크리스틴 스튜어트는 미국 매체 할리우드리포터가 지난 7일 주최한 아카데미상 후보들의 모임(Hollywood Reporter’s Nominees]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F13%2Fmydaily%2F20220313061705497phgi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[할리우드 대작 제목으로도 쓰이게 된 한국어! '엄마' 4월 개봉 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220314175405558</link>
+            <guid>https://movie.v.daum.net/v/20220314175405558</guid>
+            <pubDate>Mon, 14 Mar 2022 12:31:57 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] 할리우드내 K-컬처 위상을 단적으로 드러내는 대목. 드디어 할리우드 주류 상업영화에 한국어 제목이 등장했다. 영화 ‘엄마’(Umma)다. 영화 ‘엄마’의 배급은 소니픽쳐스, 제작은 무려 샘 레이미, 주인공은 한국계 대표 할리우드 스타로 불리기 손색없을 산드라 오가 맡으며 기대감을 모으고 있는 상태. 이와 맞물려 소니 픽쳐스는 3월]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F14%2Fnewsen%2F20220314175408216fuap.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[영화평 300]고통스러워도 눈을 떼선 안 되는 영화 (다음영화 뉴스 ─ 인기)]]></title>
@@ -655,12 +655,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F14%2Fnewsis%2F20220314051116499vade.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[로맨티스트 된 베네딕트 컴버배치 '루이스 웨인: 사랑을 그린 고양이 화가' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220314134730987</link>
-            <guid>https://movie.v.daum.net/v/20220314134730987</guid>
+            <title><![CDATA[우리가 몰랐던 아름다운 에펠탑의 이야기..'에펠', 이달 23일 개봉 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220314102748742</link>
+            <guid>https://movie.v.daum.net/v/20220314102748742</guid>
             <pubDate>Mon, 14 Mar 2022 09:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=박설이 기자]베네딕트 컴버배치의 '루이스 웨인: 사랑을 그린 고양이 화가'가 메인 예고편을 공개했다. '루이스 웨인: 사랑을 그린 고양이 화가'는 천재 고양이 화가 ‘루이스’와 그에게 찌릿한 사랑의 감정을 알려준 ‘에밀리’, 그리고 고양이 ‘피터’가 만들어가는 한 폭의 그림 같은 로맨스.&nbsp; 이번에 공개된 메인 예고편은 화가 루이스 웨인(베네딕]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F14%2Ftvreport%2F20220314134732353yaap.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘에펠’이 세계 건축사의 한 획을 그은 에펠탑의 모습이 담긴 에펠타워 메이킹 영상을 최초 공개하며 눈길을 끈다. 전세계가 몰랐던 에펠의 또 다른 이야기, 천재 건축가 구스타브 에펠의 운명적인 사랑과 에펠탑의 완성을 그린 멜로 드라마 영화 ‘에펠’(감독 마르탱 부르불롱, 수입 영화사 메이플러스, 배급 블루필름웍스, 공동배급]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F14%2Fpoctan%2F20220314102748309eowu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[달이 인공 구조물? 지구 멸망에 대한 새로운 가설 (다음영화 뉴스 ─ 최신)]]></title>
@@ -1467,7 +1467,7 @@
             <link>https://tv.naver.com/v/25634301</link>
             <guid>https://tv.naver.com/v/25634301</guid>
             <pubDate>Mon, 14 Mar 2022 07:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220314_99/at8n3_1647239061385nNciX_JPEG/3c53ad77-a35f-11ec-963f-505dacfba98a_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1475,7 +1475,7 @@
             <link>https://tv.naver.com/v/25634191</link>
             <guid>https://tv.naver.com/v/25634191</guid>
             <pubDate>Mon, 14 Mar 2022 07:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220314_153/rHZcO_16472387335241z4YV_JPEG/3f8f1e22-a35e-11ec-93d6-505dac8c38f5_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1483,7 +1483,7 @@
             <link>https://tv.naver.com/v/25634066</link>
             <guid>https://tv.naver.com/v/25634066</guid>
             <pubDate>Mon, 14 Mar 2022 07:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220314_281/FGmCl_1647238385362Nb6dY_JPEG/8a008b56-a35d-11ec-93d6-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1491,7 +1491,7 @@
             <link>https://tv.naver.com/v/25633288</link>
             <guid>https://tv.naver.com/v/25633288</guid>
             <pubDate>Mon, 14 Mar 2022 05:38:43 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220314_15/QQeE5_16472362962208aLKn_JPEG/d668bb69-a358-11ec-8a3e-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1499,7 +1499,7 @@
             <link>https://tv.naver.com/v/25629018</link>
             <guid>https://tv.naver.com/v/25629018</guid>
             <pubDate>Mon, 14 Mar 2022 02:40:43 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220314_269/g0tjs_1647221653559uwriS_JPEG/adac1537-a336-11ec-a12c-505dac8c3721_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1507,7 +1507,7 @@
             <link>https://tv.naver.com/v/25628916</link>
             <guid>https://tv.naver.com/v/25628916</guid>
             <pubDate>Mon, 14 Mar 2022 02:40:43 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220314_112/QoHTs_1647221294205KK4g9_JPEG/dd3e8959-a335-11ec-87d4-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
