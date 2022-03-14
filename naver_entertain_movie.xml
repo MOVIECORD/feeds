@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-14T09:20:41.938Z</updated>
+    <updated>2022-03-14T10:22:59.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팝업★]황동혁 감독 "스필버그, '오겜' 3일만 정주행..내 뇌 훔치고 싶다더라"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003540845</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003540845"/>
+        <updated>2022-03-14T10:21:30.143Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] 황동혁 감독이 스티븐 스필버그 감독과의 일화를 공개했다. 황동혁 감독은 13일(현지시간) 제27회 크리틱스 초이스 어워즈에 참석했다. 이날 레드카펫에서 진행된 버라이어티와의 인터뷰에서 황]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['차원 다른 어드벤처'…'수퍼 소닉2', 4월 6일 개봉 확정]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001420611</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013050375"/>
         <updated>2022-03-14T07:18:27.532Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 오보람 기자 = 인간의 DNA에 지구 멸망에 대한 공포감이 새겨져 있기라도 한 걸까. 잊힐 만하면 나오는 게 할리우드 재난 블록버스터다. 소행성의 지구 충돌부터 외계 생물체·괴수 침공, 기후 위기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모비우스' 자레드 레토, DC·마블 세계관 넘나들며 치명적 매력 발산]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003584482</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003584482"/>
-        <updated>2022-03-14T07:18:27.539Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]마블 최강 안티히어로의 탄생을 알린 영화 '모비우스'의 주인공 자레드 레토가 마이클 키튼, 벤 애플렉, 라이언 레이놀즈 등과 함께 다양한 세계관에서 활동하는 배우로 주목받고 있다. '모비]]></content>
     </entry>
 </feed>
