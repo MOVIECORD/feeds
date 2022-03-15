@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 15:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 17:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -255,14 +255,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1f54e7248dbebea9649b47176f1f8dacdc2eb9eb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[킹메이커 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=118715</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=118715</guid>
-            <pubDate>Mon, 14 Mar 2022 12:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F825baa1e98d8f33e4801d88b3a302739039c5cc4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[스파이더맨: 노 웨이 홈 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=146656</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=146656</guid>
@@ -285,6 +277,14 @@
             <pubDate>Thu, 10 Mar 2022 03:23:23 GMT</pubDate>
             <content:encoded><![CDATA[22.03.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F24953039c163640cbb39f43dccb852f1df697783" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[리코리쉬 피자 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154397</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154397</guid>
+            <pubDate>Tue, 15 Mar 2022 17:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc19dfdd279275c1aea9b0c4dba703474815cf470" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[듄 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -591,14 +591,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F15%2Fmydaily%2F20220315114701062asmt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[씨네+] 김우빈·김태리·박서준·이지은, 믿고 기다리는 우량주 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220314180905998</link>
-            <guid>https://movie.v.daum.net/v/20220314180905998</guid>
-            <pubDate>Tue, 15 Mar 2022 01:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[기다림에 대한 보답을 확실히 보장한다. 나오기만 하면 되고, 만나기만 하면 된다는 반응이 우세하다. 올해 만큼은 반드시 마주할 수 있기를, 잊지 않고 기대하게 만드는 충무로 우량주다. 3년 째 지속되고 있는 신종 코로나바이러스 감염증(COVID-19/코로나19) 여파로 개봉에 발 묶인 영화들이 이미 100여 편을 넘어섰다. 개봉만 못할 뿐, 제작은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F14%2FJTBC%2F20220314180906706hsby.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[빅픽처] 임신 중지는 여성의 선택..'레벤느망'이 말한다 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220315161500299</link>
             <guid>https://movie.v.daum.net/v/20220315161500299</guid>
@@ -615,12 +607,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F15%2Fnewsis%2F20220315052709223tclx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['메이의 새빨간 비밀' 사춘기 어떻게 보내야 할까요 [시네마 프리뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220315120010894</link>
-            <guid>https://movie.v.daum.net/v/20220315120010894</guid>
-            <pubDate>Tue, 15 Mar 2022 07:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = '메이와 새빨간 비밀'(감독 도미 시)은 10대 소녀의 사춘기를 레서판다를 통해 풀어낸 '친절한' 이야기다. 흥분하면 레서판다로 변해버리는 주인공이 엄마와 갈등을 겪는 상황을 지켜보면, 사춘기 시절 하나하나 부모님과 싸웠던 기억을 떠오르게 하며 자연스레 공감대를 형성한다. 디즈니플러스 오리지널 애니메이션 '메이의 새빨간]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F15%2FNEWS1%2F20220315120011492chht.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[씨네+] 김우빈·김태리·박서준·이지은, 믿고 기다리는 우량주 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220314180905998</link>
+            <guid>https://movie.v.daum.net/v/20220314180905998</guid>
+            <pubDate>Tue, 15 Mar 2022 01:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[기다림에 대한 보답을 확실히 보장한다. 나오기만 하면 되고, 만나기만 하면 된다는 반응이 우세하다. 올해 만큼은 반드시 마주할 수 있기를, 잊지 않고 기대하게 만드는 충무로 우량주다. 3년 째 지속되고 있는 신종 코로나바이러스 감염증(COVID-19/코로나19) 여파로 개봉에 발 묶인 영화들이 이미 100여 편을 넘어섰다. 개봉만 못할 뿐, 제작은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F14%2FJTBC%2F20220314180906706hsby.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['스텔라' 레트로 감성 비주얼X다이내믹 액션 담았다 (다음영화 뉴스 ─ 인기)]]></title>
@@ -629,6 +621,14 @@
             <pubDate>Tue, 15 Mar 2022 09:20:01 GMT</pubDate>
             <content:encoded><![CDATA[[티브이데일리 최하나 기자] '스텔라'가 특별한 자동차 캐릭터 ‘스텔라’의 등장을 예고하며 스틸을 공개했다. 영화 '스텔라'(감독 권수경·제작 데이드림)는 옵션은 없지만 사연은 많은 최대 시속 50km의 자율주행차 스텔라와 함께 보스의 사라진 슈퍼카를 쫓는 한 남자의 버라이어티 추격 코미디. 이번에 공개된 캐릭터 스틸 속 '스텔라'는 1987년식 레트로]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F15%2Ftvdaily%2F20220315153717352rvdm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['메이의 새빨간 비밀' 사춘기 어떻게 보내야 할까요 [시네마 프리뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220315120010894</link>
+            <guid>https://movie.v.daum.net/v/20220315120010894</guid>
+            <pubDate>Tue, 15 Mar 2022 07:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = '메이와 새빨간 비밀'(감독 도미 시)은 10대 소녀의 사춘기를 레서판다를 통해 풀어낸 '친절한' 이야기다. 흥분하면 레서판다로 변해버리는 주인공이 엄마와 갈등을 겪는 상황을 지켜보면, 사춘기 시절 하나하나 부모님과 싸웠던 기억을 떠오르게 하며 자연스레 공감대를 형성한다. 디즈니플러스 오리지널 애니메이션 '메이의 새빨간]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F15%2FNEWS1%2F20220315120011492chht.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[결국 돈이 문제였나, 여객기 추락 사고의 전말 (다음영화 뉴스 ─ 인기)]]></title>
@@ -655,12 +655,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F15%2Fpoctan%2F20220315084525019vaxw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[귀신 같은 설경구, 정의로운 박해수..'야차' 캐릭터 스틸 [N컷] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220315102824863</link>
-            <guid>https://movie.v.daum.net/v/20220315102824863</guid>
-            <pubDate>Tue, 15 Mar 2022 07:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 세계적인 엔터테인먼트 스트리밍 서비스 넷플릭스(Netflix)의 스파이 첩보 액션 영화 '야차'에서 블랙팀의 리더와 특별감찰 파견 검사로 분한 설경구와 박해수의 캐릭터 스틸이 15일 공개됐다. '야차'는 스파이들의 최대 접전지 중국 선양에서 일명 '야차'가 이끄는 국정원 비밀공작 전담 블랙팀과 특별감찰 검사, 그리고 각]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F15%2FNEWS1%2F20220315102826097tpcl.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[레오나르도 디카프리오, 우크라이나 천만불 기부 가짜뉴스 판명 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220315083502767</link>
+            <guid>https://movie.v.daum.net/v/20220315083502767</guid>
+            <pubDate>Tue, 15 Mar 2022 17:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 레오나르도 디카프리오가 우크라이나정부에 1000만 달러를 기부했다는 보도는 가짜뉴스로 판명됐다. /AFPBBNews=뉴스1 할리우드 배우 레오나르도 디카프리오가 러시아 침공에 맞서고 있는 우크라이나 정부에 1000만 달러(약 124억원)를 기부했다는 기사는 가짜뉴스로 판명됐다.이달 초 세계 여러 언론사가 기사화하고 국내 매체들이 받]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F15%2Fstarnews%2F20220315083503226fytm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<스펜서> 파블로 라라인 감독 인터뷰 영상 (우리 영화 볼래?)]]></title>
@@ -1307,7 +1307,7 @@
             <link>https://tv.naver.com/v/25659089</link>
             <guid>https://tv.naver.com/v/25659089</guid>
             <pubDate>Tue, 15 Mar 2022 10:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220315_27/m5u32_1647337113892Bet9O_JPEG/d233f561-a442-11ec-8d48-d4f5ef58ad5e_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1315,7 +1315,7 @@
             <link>https://tv.naver.com/v/25658904</link>
             <guid>https://tv.naver.com/v/25658904</guid>
             <pubDate>Tue, 15 Mar 2022 10:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220315_296/kLFpm_1647336505999CWuTS_JPEG/07d3cb70-a442-11ec-a42e-505dac8c37f3_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1323,7 +1323,7 @@
             <link>https://tv.naver.com/v/25658754</link>
             <guid>https://tv.naver.com/v/25658754</guid>
             <pubDate>Tue, 15 Mar 2022 10:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220315_163/9bewU_1647336045397rDVXn_JPEG/ece1676e-a440-11ec-8d48-d4f5ef58ad5e_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1331,7 +1331,7 @@
             <link>https://tv.naver.com/v/25658621</link>
             <guid>https://tv.naver.com/v/25658621</guid>
             <pubDate>Tue, 15 Mar 2022 09:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220315_274/hlgny_1647335672990eDpBt_JPEG/faec2e63-a43f-11ec-9e1a-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1339,7 +1339,7 @@
             <link>https://tv.naver.com/v/25658478</link>
             <guid>https://tv.naver.com/v/25658478</guid>
             <pubDate>Tue, 15 Mar 2022 09:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220315_80/6TxOk_1647335301146hN82h_JPEG/20251a9f-a43f-11ec-9bfc-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1347,7 +1347,7 @@
             <link>https://tv.naver.com/v/25658314</link>
             <guid>https://tv.naver.com/v/25658314</guid>
             <pubDate>Tue, 15 Mar 2022 09:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220315_5/FIMgA_1647334909630WGj7v_JPEG/7a8d4912-a43e-11ec-9e1a-48df379cc9e4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1355,7 +1355,7 @@
             <link>https://tv.naver.com/v/25657079</link>
             <guid>https://tv.naver.com/v/25657079</guid>
             <pubDate>Tue, 15 Mar 2022 08:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220315_232/hQHcn_1647332000000QDBFy_JPEG/a732e5e5-a437-11ec-8c82-48df37ae3dc4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1363,7 +1363,7 @@
             <link>https://tv.naver.com/v/25656159</link>
             <guid>https://tv.naver.com/v/25656159</guid>
             <pubDate>Tue, 15 Mar 2022 08:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220315_113/ybupR_1647330106492RgjmJ_JPEG/11dd5d17-a433-11ec-bc77-505dac8c3721_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1371,7 +1371,7 @@
             <link>https://tv.naver.com/v/25655349</link>
             <guid>https://tv.naver.com/v/25655349</guid>
             <pubDate>Tue, 15 Mar 2022 07:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220315_215/J52X3_16473281736192luGM_JPEG/bd1ce119-a42e-11ec-bf13-d4f5ef58ac88_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1379,7 +1379,7 @@
             <link>https://tv.naver.com/v/25655231</link>
             <guid>https://tv.naver.com/v/25655231</guid>
             <pubDate>Tue, 15 Mar 2022 07:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220315_82/94B2n_1647327896287ID4HJ_JPEG/088864ab-a42e-11ec-a1ea-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1387,7 +1387,7 @@
             <link>https://tv.naver.com/v/25654718</link>
             <guid>https://tv.naver.com/v/25654718</guid>
             <pubDate>Tue, 15 Mar 2022 07:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220315_61/CQ4m6_1647326729129zKWgG_JPEG/4da3772b-a42b-11ec-a42e-505dac8c37f3_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1395,7 +1395,7 @@
             <link>https://tv.naver.com/v/25649436</link>
             <guid>https://tv.naver.com/v/25649436</guid>
             <pubDate>Tue, 15 Mar 2022 02:42:32 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220315_206/ZzZWP_164731171623932AP4_JPEG/37318ad4-a408-11ec-830a-48df379ccacc_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1403,7 +1403,7 @@
             <link>https://tv.naver.com/v/25649275</link>
             <guid>https://tv.naver.com/v/25649275</guid>
             <pubDate>Tue, 15 Mar 2022 02:42:32 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220315_298/I8nZf_1647311276461rthTz_JPEG/b9391ec0-a406-11ec-8c82-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1411,7 +1411,7 @@
             <link>https://tv.naver.com/v/25649019</link>
             <guid>https://tv.naver.com/v/25649019</guid>
             <pubDate>Tue, 15 Mar 2022 02:42:32 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220315_250/JuxeD_1647310541531m8m9t_JPEG/be38fc0a-a405-11ec-9fd0-505dac8c3607_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1419,7 +1419,7 @@
             <link>https://tv.naver.com/v/25648803</link>
             <guid>https://tv.naver.com/v/25648803</guid>
             <pubDate>Tue, 15 Mar 2022 02:42:32 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220315_149/rTUTt_1647309888835Kjs7a_JPEG/7eaae9ca-a403-11ec-9d80-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1427,7 +1427,7 @@
             <link>https://tv.naver.com/v/25648322</link>
             <guid>https://tv.naver.com/v/25648322</guid>
             <pubDate>Tue, 15 Mar 2022 02:42:32 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220315_107/4kW5G_1647308470610jpPN6_JPEG/de8cb03d-a400-11ec-8916-48df37ae3fca_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1435,7 +1435,7 @@
             <link>https://tv.naver.com/v/25648305</link>
             <guid>https://tv.naver.com/v/25648305</guid>
             <pubDate>Tue, 15 Mar 2022 02:42:32 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220315_8/KNrt8_1647308409625mGeg7_JPEG/cc1d2507-a400-11ec-830a-48df379ccacc_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1443,7 +1443,7 @@
             <link>https://tv.naver.com/v/25647856</link>
             <guid>https://tv.naver.com/v/25647856</guid>
             <pubDate>Tue, 15 Mar 2022 01:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220315_117/dldpj_16473066385604t1O3_PNG/1647306635710.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
