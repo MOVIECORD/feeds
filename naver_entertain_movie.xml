@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-17T16:29:12.690Z</updated>
+    <updated>2022-03-17T18:24:33.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아마존, 영화사 MGM 인수 마무리…美·EU서 승인 마쳐]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013058164</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013058164"/>
+        <updated>2022-03-17T18:23:04.162Z</updated>
+        <content type="html"><![CDATA['007', '록키' 등 영화 4천여 편 확보하게 돼 (샌프란시스코=연합뉴스) 정성호 특파원 = 세계 최대 전자상거래 업체 아마존이 17일(현지시간) 영화사 MGM에 대한 인수 거래를 마무리했다고 밝혔다고 로이터 통]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘스펜서’ 감독이 밝힌 크리스틴 스튜어트와 故 다이애나 공통점]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000967244</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000967244"/>
+        <updated>2022-03-17T18:23:04.167Z</updated>
+        <content type="html"><![CDATA[‘스펜서’ 감독이 밝힌 크리스틴 스튜어트와 故 다이애나 공통점 크리스틴 스튜어트의 생애 첫 아카데미 여우주연상 노미네이트로 화제를 모으고 있는 올해 최고의 영화 ‘스펜서’가 아카데미를 빛낸 파블로 라라인 감독의 인터]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓 영화 견인 태흥영화사 내달 JIFF서 회고전 마련]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003677173</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046856"/>
         <updated>2022-03-17T10:21:33.724Z</updated>
         <content type="html"><![CDATA[국내 전자책서비스 플랫폼 강자인 ‘리디북스’의 자회사 ‘오렌지디’는 인기 웹소설 IP를 활용해 웹툰, 드라마, O.S.T 등 다양한 콘텐츠로 재생산할 수 있는 방법을 고민하고 있다. 여러 IP 중에서 오렌지디가 가장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임혜연 카카오페이지 노블사업팀 MD "대중성을 놓치지 않는다"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046855</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046855"/>
-        <updated>2022-03-17T10:21:33.742Z</updated>
-        <content type="html"><![CDATA[카카오페이지에서 제공하는 웹툰, 웹소설 작품 카테고리 항목에 BL 파트가 생성되어 다른 장르와 구분하기 시작한 것은 2021년 7월쯤부터다. BL 카테고리에서 서비스되는 많은 작품들은 열성적인 독자층의 유입으로 다른]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['시맨틱 에러' 저수리 작가 "최대한 다양한 인물에 대해 쓰고 싶다"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046854</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046854"/>
-        <updated>2022-03-17T10:21:33.743Z</updated>
-        <content type="html"><![CDATA[&lt;시맨틱 에러&gt;는 상반된 성격을 지닌 재영과 상우의 캠퍼스 로맨스를 그린 웹소설이다. 지난 2월16일 왓챠에서 공개된 웹드라마 &lt;시맨틱 에러&gt;로 BL 콘텐츠의 확장 가능성까지 입증했다. &lt;시맨틱 에러&gt; &lt;부서진 룩의]]></content>
     </entry>
 </feed>

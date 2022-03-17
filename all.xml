@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 16:29:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 18:24:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아마존, 영화사 MGM 인수 마무리…美·EU서 승인 마쳐 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013058164</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013058164</guid>
+            <pubDate>Thu, 17 Mar 2022 18:23:04 GMT</pubDate>
+            <content:encoded><![CDATA['007', '록키' 등 영화 4천여 편 확보하게 돼 (샌프란시스코=연합뉴스) 정성호 특파원 = 세계 최대 전자상거래 업체 아마존이 17일(현지시간) 영화사 MGM에 대한 인수 거래를 마무리했다고 밝혔다고 로이터 통]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘스펜서’ 감독이 밝힌 크리스틴 스튜어트와 故 다이애나 공통점 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000967244</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000967244</guid>
+            <pubDate>Thu, 17 Mar 2022 18:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[‘스펜서’ 감독이 밝힌 크리스틴 스튜어트와 故 다이애나 공통점 크리스틴 스튜어트의 생애 첫 아카데미 여우주연상 노미네이트로 화제를 모으고 있는 올해 최고의 영화 ‘스펜서’가 아카데미를 빛낸 파블로 라라인 감독의 인터]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[韓 영화 견인 태흥영화사 내달 JIFF서 회고전 마련 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003677173</link>
@@ -167,20 +181,6 @@
             <guid>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046856</guid>
             <pubDate>Thu, 17 Mar 2022 10:21:33 GMT</pubDate>
             <content:encoded><![CDATA[국내 전자책서비스 플랫폼 강자인 ‘리디북스’의 자회사 ‘오렌지디’는 인기 웹소설 IP를 활용해 웹툰, 드라마, O.S.T 등 다양한 콘텐츠로 재생산할 수 있는 방법을 고민하고 있다. 여러 IP 중에서 오렌지디가 가장]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[임혜연 카카오페이지 노블사업팀 MD "대중성을 놓치지 않는다" (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046855</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046855</guid>
-            <pubDate>Thu, 17 Mar 2022 10:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[카카오페이지에서 제공하는 웹툰, 웹소설 작품 카테고리 항목에 BL 파트가 생성되어 다른 장르와 구분하기 시작한 것은 2021년 7월쯤부터다. BL 카테고리에서 서비스되는 많은 작품들은 열성적인 독자층의 유입으로 다른]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['시맨틱 에러' 저수리 작가 "최대한 다양한 인물에 대해 쓰고 싶다" (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046854</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046854</guid>
-            <pubDate>Thu, 17 Mar 2022 10:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;시맨틱 에러&gt;는 상반된 성격을 지닌 재영과 상우의 캠퍼스 로맨스를 그린 웹소설이다. 지난 2월16일 왓챠에서 공개된 웹드라마 &lt;시맨틱 에러&gt;로 BL 콘텐츠의 확장 가능성까지 입증했다. &lt;시맨틱 에러&gt; &lt;부서진 룩의]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[문폴 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -559,14 +559,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F16%2Fseouleconomy%2F20220316181908610fbki.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[김새벽 배우, 이제한 감독이 그린 여행 같은 일상 <소피의 세계> (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220316120017265</link>
-            <guid>https://movie.v.daum.net/v/20220316120017265</guid>
-            <pubDate>Thu, 17 Mar 2022 01:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[시간이 흐른 뒤 옛날 일을 떠올리면 그 당시에 겪을때와는 완전히 다르게 보이잖아요. 그 순간에서 멀어졌으니까. 영화 &lt;소피의 세계&gt;가 떠올린 기억들. 인왕산이 보이는 곳에 자리 잡은 서울 북촌의 ‘수영’(김새벽)과 ‘종구’(곽민규)의 집. 외국인 ‘소피’(아나 루지에로)가 나흘 동안 그곳에 머무르다 떠난다. 2년 후 어느 날, 수영이 소피의 블로그를 발]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F16%2Fmarieclaire%2F20220316120019811qlct.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[도경수가 '어쩌다 사장2'에 출연하지 않은 이유 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220317092823113</link>
             <guid>https://movie.v.daum.net/v/20220317092823113</guid>
@@ -575,12 +567,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F17%2Fstarnews%2F20220317092824509mymw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[박경림, 3차 맞았는데 코로나19 확진..손호준→허성태 '스텔라' 측 "추가 확진자 無" [공식](종합) (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220317181719580</link>
-            <guid>https://movie.v.daum.net/v/20220317181719580</guid>
-            <pubDate>Thu, 17 Mar 2022 10:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 방송인 박경림이 코로나19 확진 판정을 받은 가운데, 당일 그와 일정을 함께한 영화 '스텔라' 측이 이와 관련 입장을 밝혔다. 박경림은 오늘(17일) 오전 11시, 영화 '스텔라'의 온라인 제작보고회 MC를 맡아 일정을 소화한 바. 그는 자가 진단키트 검사에서 음성이 나오며 예정대로 행사에 임했으나, 이날 오후 병원에서 신속]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F17%2Fmydaily%2F20220317181719186jcvd.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[김새벽 배우, 이제한 감독이 그린 여행 같은 일상 <소피의 세계> (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220316120017265</link>
+            <guid>https://movie.v.daum.net/v/20220316120017265</guid>
+            <pubDate>Thu, 17 Mar 2022 01:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[시간이 흐른 뒤 옛날 일을 떠올리면 그 당시에 겪을때와는 완전히 다르게 보이잖아요. 그 순간에서 멀어졌으니까. 영화 &lt;소피의 세계&gt;가 떠올린 기억들. 인왕산이 보이는 곳에 자리 잡은 서울 북촌의 ‘수영’(김새벽)과 ‘종구’(곽민규)의 집. 외국인 ‘소피’(아나 루지에로)가 나흘 동안 그곳에 머무르다 떠난다. 2년 후 어느 날, 수영이 소피의 블로그를 발]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F16%2Fmarieclaire%2F20220316120019811qlct.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[김동완 첫 스릴러 'B컷', 캐릭터 예고편 공개..B컷 둘러싼 암투 시작 (다음영화 뉴스 ─ 인기)]]></title>
@@ -591,20 +583,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F16%2Fdailian%2F20220316092045612tgvf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[박경림, 3차 맞았는데 코로나19 확진..손호준→허성태 '스텔라' 측 "추가 확진자 無" [공식](종합) (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220317181719580</link>
+            <guid>https://movie.v.daum.net/v/20220317181719580</guid>
+            <pubDate>Thu, 17 Mar 2022 10:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 방송인 박경림이 코로나19 확진 판정을 받은 가운데, 당일 그와 일정을 함께한 영화 '스텔라' 측이 이와 관련 입장을 밝혔다. 박경림은 오늘(17일) 오전 11시, 영화 '스텔라'의 온라인 제작보고회 MC를 맡아 일정을 소화한 바. 그는 자가 진단키트 검사에서 음성이 나오며 예정대로 행사에 임했으나, 이날 오후 병원에서 신속]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F17%2Fmydaily%2F20220317181719186jcvd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[애프터스크리닝] 정우와 천명관 감독이 그려낸 서정적 누아르 '뜨거운 피' ★★★ (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220316170959673</link>
             <guid>https://movie.v.daum.net/v/20220316170959673</guid>
             <pubDate>Wed, 16 Mar 2022 09:19:04 GMT</pubDate>
             <content:encoded><![CDATA[▶ 줄거리 부산 변두리 작은 포구 '구암'의 절대적인 주인 '손영감’(김갑수), 그의 밑에서 수년간 수족으로 일해온 '희수'(정우)는 무엇 하나 이뤄낸 것 없이, 큰돈 한 번 만져보지 못한 채 반복되는 건달 짓이 지긋지긋하다. 1993년, 범죄와의 전쟁 이후 새로운 구역을 집어삼키기 위해 물색 중인 영도파 건달들은 아무도 관심 갖지 않는 ‘구암’에 눈독]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F16%2FiMBC%2F20220316171004294suvt.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['뜨거운 피' 천명관 감독 "女 캐릭터 활용 한계 인정, 변명 않을 것"[인터뷰②] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220317120002211</link>
-            <guid>https://movie.v.daum.net/v/20220317120002211</guid>
-            <pubDate>Thu, 17 Mar 2022 04:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 영화 '뜨거운 피' 천명관 감독이 17일 오전 진행된 화상인터뷰를 위해 포즈를 취하고 있다.  1993년, 더 나쁜 놈만이 살아남는 곳 부산 변두리 포구 '구암'의 실세 '희수'(정우 분)와 그곳에서 살아남기 위한 밑바닥 건달들의 치열한 생존 싸움을 그린 영화 '뜨거운 피'는 오는 23일 개봉된다. /사진제공=키다리스튜디오 2022]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F17%2Fstarnews%2F20220317120003516fsdk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[오스카 후보 페넬로페 크루즈의 '패러렐 마더스', 31일 개봉 (다음영화 뉴스 ─ 인기)]]></title>
@@ -615,12 +607,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F17%2Fnocut%2F20220317112413412jlzx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[박경림 코로나 확진→'스텔라' 함께 한 손호준·이규형·허성태는? [종합] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220317171240657</link>
-            <guid>https://movie.v.daum.net/v/20220317171240657</guid>
-            <pubDate>Thu, 17 Mar 2022 10:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 배우 허성태, 손호준, 이규형이 17일 오전 온라인 생중계로 진행된 영화 '스텔라'(감독 권수경) 제작보고회에 참석해 포즈를 취하고 있다.  옵션은 없지만 사연은 많은 최대 시속 50km의 자율주행차 스텔라와 함께 보스의 사라진 슈퍼카를 쫓는 한 남자의 버라이어티 추격 코미디 '스텔라'는 내달 6일 개봉된다. /사진제공=CJENM]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F17%2Fstarnews%2F20220317181031965chbz.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['뜨거운 피' 천명관 감독 "女 캐릭터 활용 한계 인정, 변명 않을 것"[인터뷰②] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220317120002211</link>
+            <guid>https://movie.v.daum.net/v/20220317120002211</guid>
+            <pubDate>Thu, 17 Mar 2022 04:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 영화 '뜨거운 피' 천명관 감독이 17일 오전 진행된 화상인터뷰를 위해 포즈를 취하고 있다.  1993년, 더 나쁜 놈만이 살아남는 곳 부산 변두리 포구 '구암'의 실세 '희수'(정우 분)와 그곳에서 살아남기 위한 밑바닥 건달들의 치열한 생존 싸움을 그린 영화 '뜨거운 피'는 오는 23일 개봉된다. /사진제공=키다리스튜디오 2022]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F17%2Fstarnews%2F20220317120003516fsdk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[허성태 "마티즈 타고 다녔는데..버스기사가 쌍욕" (스텔라)[종합] (다음영화 뉴스 ─ 인기)]]></title>
@@ -629,6 +621,14 @@
             <pubDate>Thu, 17 Mar 2022 16:27:56 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) '스텔라' 허성태가 경차와 얽힌 이야기를 전했다. 17일 오전 영화 '스텔라'(감독 권수경)의 온라인 제작보고회가 진행됐다. 현장에는 배우 손호준, 이규형, 허성태, 권수경 감독이 참석했다. '스텔라'는 옵션은 없지만 사연은 많은 최대 시속 50km의 자율주행차 스텔라와 함께 보스의 사라진 슈퍼카를 쫓는 한 남자의 버라이어티]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F17%2Fxportsnews%2F20220317145020733mdyj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[박경림 코로나 확진→'스텔라' 함께 한 손호준·이규형·허성태는? [종합] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220317171240657</link>
+            <guid>https://movie.v.daum.net/v/20220317171240657</guid>
+            <pubDate>Thu, 17 Mar 2022 10:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 배우 허성태, 손호준, 이규형이 17일 오전 온라인 생중계로 진행된 영화 '스텔라'(감독 권수경) 제작보고회에 참석해 포즈를 취하고 있다.  옵션은 없지만 사연은 많은 최대 시속 50km의 자율주행차 스텔라와 함께 보스의 사라진 슈퍼카를 쫓는 한 남자의 버라이어티 추격 코미디 '스텔라'는 내달 6일 개봉된다. /사진제공=CJENM]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F17%2Fstarnews%2F20220317181031965chbz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[윤석열 당선인에게 꼭 보여주고픈 '미친년' 이야기 [나를 키운 여자들] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1315,7 +1315,7 @@
             <link>https://tv.naver.com/v/25705425</link>
             <guid>https://tv.naver.com/v/25705425</guid>
             <pubDate>Thu, 17 Mar 2022 10:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_221/JUl1J_1647505790429N1HDx_JPEG/4f50a823-a5cc-11ec-8916-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1323,7 +1323,7 @@
             <link>https://tv.naver.com/v/25705341</link>
             <guid>https://tv.naver.com/v/25705341</guid>
             <pubDate>Thu, 17 Mar 2022 10:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_66/MVAuf_1647505612857P9NXO_JPEG/b99c12ab-a5cb-11ec-9bfc-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1331,7 +1331,7 @@
             <link>https://tv.naver.com/v/25705232</link>
             <guid>https://tv.naver.com/v/25705232</guid>
             <pubDate>Thu, 17 Mar 2022 08:23:41 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_199/JsdMb_1647505328670NWfW0_JPEG/3eef0afb-a5cb-11ec-a1ea-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1339,7 +1339,7 @@
             <link>https://tv.naver.com/v/25705152</link>
             <guid>https://tv.naver.com/v/25705152</guid>
             <pubDate>Thu, 17 Mar 2022 08:23:41 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_53/mMRaA_16475051459447sMHA_JPEG/da118291-a5ca-11ec-bf13-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1347,7 +1347,7 @@
             <link>https://tv.naver.com/v/25704117</link>
             <guid>https://tv.naver.com/v/25704117</guid>
             <pubDate>Thu, 17 Mar 2022 08:23:41 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_277/eQFbD_1647502690809vWMKX_JPEG/f4f0fe12-a5c4-11ec-9e1a-48df379cc9e4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1355,7 +1355,7 @@
             <link>https://tv.naver.com/v/25703722</link>
             <guid>https://tv.naver.com/v/25703722</guid>
             <pubDate>Thu, 17 Mar 2022 08:23:41 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_170/7vjH8_1647501670346yMVAE_JPEG/bcdf4595-a5c2-11ec-8446-505dacfbaa5c_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1363,7 +1363,7 @@
             <link>https://tv.naver.com/v/25703615</link>
             <guid>https://tv.naver.com/v/25703615</guid>
             <pubDate>Thu, 17 Mar 2022 07:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_201/HASqU_1647501422943Mlitx_JPEG/24f8dbcd-a5c2-11ec-963f-505dacfba98a_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1371,7 +1371,7 @@
             <link>https://tv.naver.com/v/25702557</link>
             <guid>https://tv.naver.com/v/25702557</guid>
             <pubDate>Thu, 17 Mar 2022 07:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_86/ZpTDf_1647499279150RXXt6_JPEG/1f2eded3-a5bd-11ec-8446-505dacfbaa5c_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1379,7 +1379,7 @@
             <link>https://tv.naver.com/v/25702202</link>
             <guid>https://tv.naver.com/v/25702202</guid>
             <pubDate>Thu, 17 Mar 2022 07:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_1/0j6JP_16474983926631mY09_JPEG/0aef124d-a5bb-11ec-8c82-48df37ae3dc4_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1387,7 +1387,7 @@
             <link>https://tv.naver.com/v/25701982</link>
             <guid>https://tv.naver.com/v/25701982</guid>
             <pubDate>Thu, 17 Mar 2022 07:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_255/p2W4s_1647497948747qsJNm_JPEG/d939cfe1-a5b9-11ec-9fd0-505dac8c3607_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1395,7 +1395,7 @@
             <link>https://tv.naver.com/v/25700399</link>
             <guid>https://tv.naver.com/v/25700399</guid>
             <pubDate>Thu, 17 Mar 2022 07:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_166/uGbMQ_1647493823709qL90U_JPEG/6b42f4b2-a5b0-11ec-93d6-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1403,7 +1403,7 @@
             <link>https://tv.naver.com/v/25699804</link>
             <guid>https://tv.naver.com/v/25699804</guid>
             <pubDate>Thu, 17 Mar 2022 07:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_285/G0C9h_1647492070064m7ipj_JPEG/2eda777a-a5ac-11ec-9e1a-48df379cc9e4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1411,7 +1411,7 @@
             <link>https://tv.naver.com/v/25697581</link>
             <guid>https://tv.naver.com/v/25697581</guid>
             <pubDate>Thu, 17 Mar 2022 03:21:24 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_81/PzWpE_1647485007663ui2Xv_JPEG/a8dfb68a-a59b-11ec-a1ea-d4f5ef5906a4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1419,7 +1419,7 @@
             <link>https://tv.naver.com/v/25696998</link>
             <guid>https://tv.naver.com/v/25696998</guid>
             <pubDate>Thu, 17 Mar 2022 02:43:05 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_249/G74ld_1647483561298IxEzP_JPEG/965f1075-a597-11ec-bc77-505dac8c3721_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
