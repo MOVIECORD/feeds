@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 10:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 15:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -183,20 +183,20 @@
             <content:encoded><![CDATA[기사내용 요약 애플TV+ 드라마 '파친코' 한수 역 맡아 "멋진 모습 아닌 원초적인 면 원했다" "진정성 보이고픈 욕망 치열하게 연기" 한류 선두 주자 "묵묵히 열심히 할 것" [서울=뉴시스] 손정빈 기자 = "기존]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스펜서 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145181</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145181</guid>
-            <pubDate>Mon, 21 Feb 2022 04:24:51 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffe807f2e93a1d028b73c1ac89cbcb4e0748965aa" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 주술회전 0 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156790</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156790</guid>
             <pubDate>Fri, 28 Jan 2022 11:15:55 GMT</pubDate>
             <content:encoded><![CDATA[22.02.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdec276db284e8c6d82f974cff11fa991ccd3f6b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스펜서 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145181</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145181</guid>
+            <pubDate>Mon, 21 Feb 2022 04:24:51 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffe807f2e93a1d028b73c1ac89cbcb4e0748965aa" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[문폴 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -231,14 +231,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F37c7b1c61c83eb6ada6f6193afc56dc7c9881165" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[언차티드 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=61476</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=61476</guid>
-            <pubDate>Wed, 16 Mar 2022 09:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa9ecc8ab020ca4129e7fc79a7f3a86fa328e63d0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[메리 미 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=155730</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=155730</guid>
@@ -255,20 +247,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3741882ac3d1e790de3cf934aaf4bd886c5565ea" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[안테벨룸 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=137065</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=137065</guid>
-            <pubDate>Mon, 14 Feb 2022 08:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcfb87a998ee56aa40424b98ff57417953704a6cd" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[하늘의 푸르름을 아는 사람이여 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=135548</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=135548</guid>
             <pubDate>Wed, 09 Mar 2022 01:16:26 GMT</pubDate>
             <content:encoded><![CDATA[22.03.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4dc4721df05c4b46cfffc11f7859037956ec50d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[안테벨룸 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137065</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137065</guid>
+            <pubDate>Mon, 14 Feb 2022 08:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcfb87a998ee56aa40424b98ff57417953704a6cd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[킹메이커 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -279,20 +271,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F825baa1e98d8f33e4801d88b3a302739039c5cc4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151070</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151070</guid>
-            <pubDate>Tue, 01 Mar 2022 04:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[나의 히어로 아카데미아 더 무비: 월드 히어로즈 미션 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152908</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152908</guid>
             <pubDate>Thu, 24 Feb 2022 23:19:42 GMT</pubDate>
             <content:encoded><![CDATA[22.03.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff892fdb7534d4d9bbb743c90257eb3007bae86e2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[언차티드 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=61476</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=61476</guid>
+            <pubDate>Wed, 16 Mar 2022 09:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa9ecc8ab020ca4129e7fc79a7f3a86fa328e63d0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151070</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151070</guid>
+            <pubDate>Tue, 01 Mar 2022 04:24:26 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[레벤느망 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -375,6 +375,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa44461b8b66480bfed5a5c458ee63f964c6794b4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[어거스트 버진 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=132877</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=132877</guid>
+            <pubDate>Thu, 17 Mar 2022 01:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc982f39016322391451456b3fe9bb9f82fa74950" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[뱅드림! 팝핀‘ 드림! (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156955</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156955</guid>
@@ -405,14 +413,6 @@
             <pubDate>Tue, 15 Mar 2022 23:19:43 GMT</pubDate>
             <content:encoded><![CDATA[22.03.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fccbb20ebcbd54b9d461962f7af826bde5122b805" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[어거스트 버진 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=132877</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=132877</guid>
-            <pubDate>Thu, 17 Mar 2022 01:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc982f39016322391451456b3fe9bb9f82fa74950" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[브릭스턴 테일 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -535,14 +535,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F20%2Fmunhwa%2F20220320103009215cxvv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[D:인터뷰] 김동휘, '이상한 나라의 수학자'로 증명해낸 충무로 원석 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220320170533180</link>
-            <guid>https://movie.v.daum.net/v/20220320170533180</guid>
-            <pubDate>Sun, 20 Mar 2022 08:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[신예 김동휘에게 '이상한 나라의 수학자'는 모든 것이 배움의 현장이었다. 250 대 1의 경쟁을 뚫고 주연을 거머쥐며 기라성 같은 선배 최민식과 연기의 대부분을 함께 했다. '이상한 나라의 수학자'는 신분을 감추고 고등학교 경비원으로 일하는 탈북한 천재 수학자가 수학을 포기한 학생을 만나며 벌어지는 이야기이며, 김동휘는 극 중 1%인 명문 자사고에 사회배려]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F20%2Fdailian%2F20220320170539486pvbk.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA["마블 로스장군에게 폭행·성학대 당했다", 연이어 폭로 나와[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220319161336135</link>
             <guid>https://movie.v.daum.net/v/20220319161336135</guid>
@@ -557,6 +549,22 @@
             <pubDate>Sat, 19 Mar 2022 01:10:00 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진=/AFPBBNews=뉴스1 ㅇ...배우 이정재가 미국을 휩쓸고 있다. 이정재가 배우조합상 시상식과 미국 인디펜던트 스피릿 어워즈에서 남우주연상을 수상한 가운데, 미국 크리틱스 초이스에서도 남우 주연상을 수상했다. 이정재는 한국시간으로 지난 14일 진행 된 미국 크리틱스 초이스에서 남우 주연상 트로피를 거머 쥐었다. 이정재는]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F19%2Fstarnews%2F20220319091001875oyhf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[D:인터뷰] 김동휘, '이상한 나라의 수학자'로 증명해낸 충무로 원석 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220320170533180</link>
+            <guid>https://movie.v.daum.net/v/20220320170533180</guid>
+            <pubDate>Sun, 20 Mar 2022 08:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[신예 김동휘에게 '이상한 나라의 수학자'는 모든 것이 배움의 현장이었다. 250 대 1의 경쟁을 뚫고 주연을 거머쥐며 기라성 같은 선배 최민식과 연기의 대부분을 함께 했다. '이상한 나라의 수학자'는 신분을 감추고 고등학교 경비원으로 일하는 탈북한 천재 수학자가 수학을 포기한 학생을 만나며 벌어지는 이야기이며, 김동휘는 극 중 1%인 명문 자사고에 사회배려]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F20%2Fdailian%2F20220320170539486pvbk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[손현주 주연 '봄날', 4월 개봉 확정..명품 연기 예고[무비타이밍] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220320080009485</link>
+            <guid>https://movie.v.daum.net/v/20220320080009485</guid>
+            <pubDate>Sat, 19 Mar 2022 23:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 봄날 / 사진=영화 포스터손현주 주연의 영화 '봄날'이 4월말 개봉을 확정 짓고 티저 포스터를 공개했다. 다양한 장르를 넘나들며 대체불가의 매력을 보여주는 손현주의 신작 '봄날'이 4월 개봉을 확정하고 티저 포스터를 공개했다. '봄날'은 한때 잘나갔지만 현재는 집안의 애물단지인 철부지 형님 '호성'(손현주 분)이 아는 인맥 모두]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F20%2Fstarnews%2F20220320080010333wxcp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['뜨거운 피' 천명관 감독 "30년 만에 감독 데뷔, 인생 재밌네요"[★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
@@ -575,36 +583,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F20%2FNEWS1%2F20220320102041970axil.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[손현주 주연 '봄날', 4월 개봉 확정..명품 연기 예고[무비타이밍] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220320080009485</link>
-            <guid>https://movie.v.daum.net/v/20220320080009485</guid>
-            <pubDate>Sat, 19 Mar 2022 23:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 봄날 / 사진=영화 포스터손현주 주연의 영화 '봄날'이 4월말 개봉을 확정 짓고 티저 포스터를 공개했다. 다양한 장르를 넘나들며 대체불가의 매력을 보여주는 손현주의 신작 '봄날'이 4월 개봉을 확정하고 티저 포스터를 공개했다. '봄날'은 한때 잘나갔지만 현재는 집안의 애물단지인 철부지 형님 '호성'(손현주 분)이 아는 인맥 모두]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F20%2Fstarnews%2F20220320080010333wxcp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[BTS 콘서트 생중계까지..영화관서 만나는 아이돌 [N초점] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220320080032515</link>
             <guid>https://movie.v.daum.net/v/20220320080032515</guid>
             <pubDate>Sat, 19 Mar 2022 23:19:02 GMT</pubDate>
             <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 극장가에 아이돌 팬들이 모여들고 있다. 이는 팬데믹 상황이 지속되면서 아이돌을 직접 보지 못하는 K팝 팬들과 영화 개봉 연기로 관객의 발길이 끊긴 극장의 니즈가 부합한 것으로, 특별한 경험을 통한 시너지 효과를 내고 있다. 지난 12일 오후 전국 CGV와 롯데시네마, 메가박스에는 아미(방탄소년단 공식팬클럽명)들로 가득 찼]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F20%2FNEWS1%2F20220320080032605druz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['뜨거운 피', 맛깔나는 사투리의 명과 암 [김나연의 사선] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220320100000757</link>
-            <guid>https://movie.v.daum.net/v/20220320100000757</guid>
-            <pubDate>Sun, 20 Mar 2022 01:17:07 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 영화·OTT를 보는 김나연 기자의 '사적인 시선' 뜨거운 피 / 사진=키다리스튜디오부산을 배경으로 한 영화 '뜨거운 피'에서는 영화가 시작하자마자 '부산 갈매기'가 흘러나오고, 당연하게도 모든 배우들이 맛깔나는 사투리로 연기를 선보인다. 그러나 안타깝게도 리얼한 사투리는 장점이자 한계로 작용한다. '뜨거운 피'는 1993년,]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F20%2Fstarnews%2F20220320100001880tfab.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['뜨거운 피'-'벨파스트'-'킹 리차드' [강추비추] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220320110019736</link>
-            <guid>https://movie.v.daum.net/v/20220320110019736</guid>
-            <pubDate>Sun, 20 Mar 2022 03:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 뜨거운 피, 벨파스트, 킹 리차드 / 사진=영화 포스터3월 극장가에는 여전히 한파가 불고 있다. 지난해 '스파이더맨: 노 웨이 홈'에 이어 극장가를 살릴 '히어로'로 주목받던 '더 배트맨'은 큰 기대만큼 관객을 모으지 못하고 있고, 해외 블록버스터 영화들부터 한국 영화 '이상한 나라의 수학자'까지 연이은 개봉이 이어지고 있지만 관객]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F20%2Fstarnews%2F20220320110020493nkht.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["이야기에 공감" 윤여정·진하, '파친코'에 끌린 이유[★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
@@ -623,36 +607,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F20%2Filgansports%2F20220320173514424rlxs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[영화 '이상한 나라의 수학자' 2주 연속 기대 영화 1위 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220320165404015</link>
-            <guid>https://movie.v.daum.net/v/20220320165404015</guid>
-            <pubDate>Sun, 20 Mar 2022 10:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[[이데일리 김미경 기자] 최민식이 탈북민 출신 천재 수학자를 연기한 영화 ‘이상한 나라의 수학자’가 이번 주 가장 보고 싶은 영화 1위를 차지했다. 온라인 조사 회사 피앰아이(PMI)는 ‘궁금해결리워드앱, 헤이폴’을 통해 20~50대 남녀 5000명을 대상으로 설문을 실시한 결과, 이같이 나타났다고 20일 밝혔다. 사회적 배려 대상자로 ‘명문 자사고’에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F20%2FEdaily%2F20220320165406368pxpg.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['뜨거운 피', 맛깔나는 사투리의 명과 암 [김나연의 사선] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220320100000757</link>
+            <guid>https://movie.v.daum.net/v/20220320100000757</guid>
+            <pubDate>Sun, 20 Mar 2022 01:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 영화·OTT를 보는 김나연 기자의 '사적인 시선' 뜨거운 피 / 사진=키다리스튜디오부산을 배경으로 한 영화 '뜨거운 피'에서는 영화가 시작하자마자 '부산 갈매기'가 흘러나오고, 당연하게도 모든 배우들이 맛깔나는 사투리로 연기를 선보인다. 그러나 안타깝게도 리얼한 사투리는 장점이자 한계로 작용한다. '뜨거운 피'는 1993년,]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F20%2Fstarnews%2F20220320100001880tfab.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[신작 가뭄 끝..극장가 코로나19 방역 상황은 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220320094920622</link>
-            <guid>https://movie.v.daum.net/v/20220320094920622</guid>
-            <pubDate>Sun, 20 Mar 2022 08:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19의 유행 속 이어졌던 신작 영화 가뭄이 드디어 끝나는 걸까. 수많은 작품들이 관객과의 만남을 예고했다. 극장가는 영화 팬들의 안전한 관람을 위해 노력 중이다. 오는 23일에는 '뜨거운 피' '벨파스트' '리디밍 러브' '드라이' '에펠'이 개봉한다. 정우 김갑수 최무성 지승현 이홍내가 출연하는 '뜨거운 피'는 색다른 누아르를  예고해 기대를 모으고]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F20%2Fhankooki%2F20220320094922724ntss.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[OTT다방] 韓 숨은 명작 리메이크해 대박 난 프랑스 영화 '레스틀리스' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220319080027563</link>
+            <guid>https://movie.v.daum.net/v/20220319080027563</guid>
+            <pubDate>Sun, 20 Mar 2022 15:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] 직접 맛보고 추천하는 향긋한 작품 한 잔! 세상의 OTT 다 보고 싶은 ‘OTT다방’ 국경과 시간의 제약이 사라지고 콘텐츠 접근성이 높아진 지 오랜 시간이 지났다. 우리나라에서 해외 작품을 찾아보는 것도 이제는 옛말이 됐고, 글로벌 시장에서 한국 작품을 먼저 찾는 시대가 도래했다. 아시아, 미국을 넘어 유럽에서도 적극적으로 우리]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F19%2Fseouleconomy%2F20220319080033956yczg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['신비한 동물사전', 23일 재개봉..'신동덤' 개봉 기념[공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220320080007481</link>
-            <guid>https://movie.v.daum.net/v/20220320080007481</guid>
-            <pubDate>Sat, 19 Mar 2022 23:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 신비한 동물사전 / 사진=영화 포스터'신비한 동물들과 덤블도어의 비밀'의 개봉을 기념해 '신비한 동물사전'이 3월 23일 재개봉을 확정했다. '신비한 동물사전'은 마법 세계에서 가장 유명한 마법 동물학자 뉴트 스캐맨더가 신비한 동물을 찾아 떠난 1926년 뉴욕에서의 모험을 그린다. J.K. 롤링이 처음 시나리오를 맡아 이전에 볼]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F20%2Fstarnews%2F20220320080008689wafg.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[거장의 신작이 달과 함께 추락한 이유 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220319100300824</link>
+            <guid>https://movie.v.daum.net/v/20220319100300824</guid>
+            <pubDate>Sun, 20 Mar 2022 15:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[[김동근 기자] &nbsp;        ▲ &nbsp;영화 &lt;문폴&gt; 장면    ⓒ  (주)누리픽쳐스  &nbsp; 우리는 살면서 예기치 않게 많은 재난을 만난다. 특히 자연재해는 피하기 어렵다. 태풍, 홍수, 가뭄, 지진 등 다양한 자연재해들은 아주 오래전부터 반복적으로 진행되어 왔다. 기술의 발전으로 여러 가지 재해를 예측하고 그것에 대비할 수 있게 되었지만 여전히 자연재해가 주]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F19%2Fohmynews%2F20220319100306316wzdk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['뜨거운 피', 미지근한 그들만의 리그 [리뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220319093004393</link>
-            <guid>https://movie.v.daum.net/v/20220319093004393</guid>
-            <pubDate>Sun, 20 Mar 2022 10:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 뜨거운 피 / 사진=키다리스튜디오뜨겁거나 혹은 차갑거나, 안타깝게도 영화 '뜨거운 피'(감독 천명관)는 둘 중 어느 것도 충족시키지 못한다. 타오르기도 전에 식어버리는 애매하고, 미지근한 온도를 가진 영화다. 밑바닥 인생들의 치열한 싸움을 내세웠지만 신선하지도, 흥미롭지도 않은 그들만의 리그일 뿐이다. '뜨거운 피'는 1993년]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F19%2Fstarnews%2F20220319093007188qopg.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['뜨거운 피'-'벨파스트'-'킹 리차드' [강추비추] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220320110019736</link>
+            <guid>https://movie.v.daum.net/v/20220320110019736</guid>
+            <pubDate>Sun, 20 Mar 2022 03:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 뜨거운 피, 벨파스트, 킹 리차드 / 사진=영화 포스터3월 극장가에는 여전히 한파가 불고 있다. 지난해 '스파이더맨: 노 웨이 홈'에 이어 극장가를 살릴 '히어로'로 주목받던 '더 배트맨'은 큰 기대만큼 관객을 모으지 못하고 있고, 해외 블록버스터 영화들부터 한국 영화 '이상한 나라의 수학자'까지 연이은 개봉이 이어지고 있지만 관객]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F20%2Fstarnews%2F20220320110020493nkht.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[유태오→박유림·김민하, 해외서 먼저 발굴한 韓 배우들 [N초점] (다음영화 뉴스 ─ 인기)]]></title>
@@ -663,100 +647,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F19%2FNEWS1%2F20220319070001902vtwa.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[D:인터뷰] 김동휘, '이상한 나라의 수학자'로 증명해낸 충무로 원석 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220320170533180</link>
-            <guid>https://v.daum.net/v/20220320170533180</guid>
-            <pubDate>Sun, 20 Mar 2022 08:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[신예 김동휘에게 '이상한 나라의 수학자'는 모든 것이 배움의 현장이었다. 250 대 1의 경쟁을 뚫고 주연을 거머쥐며 기라성 같은 선배 최민식과 연기의 대부분을 함께 했다. '이상한 나라의 수학자'는 신분을 감추고 고등학교 경비원으로 일하는 탈북한 천재 수학자가 수학을 포기한 학생을 만나며 벌어지는 이야기이며, 김동휘는 극 중 1%인 명문 자사고에 사회배려]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F20%2Fdailian%2F20220320170539486pvbk.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['로키' 톰 히들스턴, 3살 연하 자웨 애슈턴과 3년 열애 끝 약혼[할리웃톡] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220319085134963</link>
+            <guid>https://movie.v.daum.net/v/20220319085134963</guid>
+            <pubDate>Sun, 20 Mar 2022 15:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[영국출신 배우 톰 히들스턴(왼쪽)과 자웨 애슈턴이 18일(현지시간) 약혼했다. 출처 | 영화스틸, 애슈턴SNS [스포츠서울 | 박효실기자] ‘천둥의 신’ 토르의 악당 동생 로키를 연기한 톰 히들스턴(41)이 약혼했다. 영국 출신의 배우 히들스턴은 마블 스튜디오의 ‘토르’ 시리즈와 ‘어벤져스’ 시리즈에서 무한 배신하는 로키 캐릭터로 큰]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F19%2FSPORTSSEOUL%2F20220319085136112peuv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[정호연, '美 프로듀서 조합상'서 뽀글머리하고 무대 위로[종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220320170428167</link>
-            <guid>https://v.daum.net/v/20220320170428167</guid>
-            <pubDate>Sun, 20 Mar 2022 08:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[정호연이 19일(현지시간) 열린 ‘제33회 프로듀서 길드’ 시상식에서 발언을 하고 있다. LA|AP연합뉴스          시상식에 참여한 ‘오징어 게임’ 팀. LA|AFP연합뉴스    [스포츠서울 | 황혜정 인턴기자] 지난 19일(현지시간) 로스엔젤레스에서 ‘제33회 미국프로듀서 조합상’(PGA)이 열렸다. 이날 최우수 작품상 영화 부문은 ‘]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F20%2FSPORTSSEOUL%2F20220320171137823sasr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[시청률 64%, 천만 배우 이정재..세계를 휩쓸다 [김미화의 날선무비] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220320132001095</link>
-            <guid>https://v.daum.net/v/20220320132001095</guid>
-            <pubDate>Sun, 20 Mar 2022 05:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진=SAGA 청춘스타, 톱스타를 지나 이제 이정재에게 '국민배우'라는 호칭을 붙여도 될 듯 하다. 지난해 넷플릭스 '오징어 게임'으로 전세계적으로 사랑 받았던 배우 이정재가 올해 연초부터 미국 시상식을 휩쓸고 있다. 어디에서든 '한국 최초'라는 기록을 세우고 있는 이정재가 새삼 대단해 보인다. 제2의 전성기를 지나 제 3의 전성]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F20%2Fstarnews%2F20220320132002655wqsh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['뜨거운 피' 천명관 감독 "30년 만에 감독 데뷔, 인생 재밌네요"[★FULL인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220320130002786</link>
-            <guid>https://v.daum.net/v/20220320130002786</guid>
-            <pubDate>Sun, 20 Mar 2022 05:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 영화 '뜨거운 피' 천명관 감독이 17일 오전 진행된 화상인터뷰를 위해 포즈를 취하고 있다.  1993년, 더 나쁜 놈만이 살아남는 곳 부산 변두리 포구 '구암'의 실세 '희수'(정우 분)와 그곳에서 살아남기 위한 밑바닥 건달들의 치열한 생존 싸움을 그린 영화 '뜨거운 피'는 오는 23일 개봉된다. /사진제공=키다리스튜디오 2022]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F20%2Fstarnews%2F20220320130005334bcrn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['뜨거운 피'-'벨파스트'-'킹 리차드' [강추비추] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220320110019736</link>
-            <guid>https://v.daum.net/v/20220320110019736</guid>
-            <pubDate>Sun, 20 Mar 2022 02:38:55 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 뜨거운 피, 벨파스트, 킹 리차드 / 사진=영화 포스터3월 극장가에는 여전히 한파가 불고 있다. 지난해 '스파이더맨: 노 웨이 홈'에 이어 극장가를 살릴 '히어로'로 주목받던 '더 배트맨'은 큰 기대만큼 관객을 모으지 못하고 있고, 해외 블록버스터 영화들부터 한국 영화 '이상한 나라의 수학자'까지 연이은 개봉이 이어지고 있지만 관객]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F20%2Fstarnews%2F20220320110020493nkht.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["나를 마스터라 부르지 마라"..윤여정은 한결 같았다 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220320103007249</link>
-            <guid>https://v.daum.net/v/20220320103007249</guid>
-            <pubDate>Sun, 20 Mar 2022 02:38:55 GMT</pubDate>
-            <content:encoded><![CDATA[“나를 마스터라 부르지 말아요.” 애플TV플러스 신작 ‘파친코’를 선보이며 오랜만에 취재진 앞서 선 배우 윤여정은 이렇게 당부했다. 극 중 윤여정이 연기하는 선자의 손자인 솔로몬 역을 맡은 한국계 배우 진하가 까마득한 선배인 윤여정을 향해 “마스터”라고 칭한 것에 대한 그의 대답이었다. 50년 연기 인생에, 영화 ‘미나리’로 미국 아카데미 여우조연상까지]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F20%2Fmunhwa%2F20220320103009215cxvv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['문폴' 4일 연속 박스오피스 1위..최민식 '이상한 나라의 수학자' 2위 [Nbox] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220320102041115</link>
-            <guid>https://v.daum.net/v/20220320102041115</guid>
-            <pubDate>Sun, 20 Mar 2022 02:38:55 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 윤효정 기자 = '문폴'이 박스오피스 1위를 유지하고 있다. 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '문폴'은 지난 19일 하루동안 전국 1174개 스크린에서 4만7817명을 동원하며 4일 연속 박스오피스 1위를 유지했다.  누적 관객수는 10만673명이다. 지난 16일 개봉한 '문폴'은 달과 지구의 충돌이 30일 남은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F20%2FNEWS1%2F20220320102041970axil.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['뜨거운 피', 맛깔나는 사투리의 명과 암 [김나연의 사선] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220320100000757</link>
-            <guid>https://v.daum.net/v/20220320100000757</guid>
-            <pubDate>Sun, 20 Mar 2022 01:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 영화·OTT를 보는 김나연 기자의 '사적인 시선' 뜨거운 피 / 사진=키다리스튜디오부산을 배경으로 한 영화 '뜨거운 피'에서는 영화가 시작하자마자 '부산 갈매기'가 흘러나오고, 당연하게도 모든 배우들이 맛깔나는 사투리로 연기를 선보인다. 그러나 안타깝게도 리얼한 사투리는 장점이자 한계로 작용한다. '뜨거운 피'는 1993년,]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F20%2Fstarnews%2F20220320100001880tfab.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 콘서트 생중계까지..영화관서 만나는 아이돌 [N초점] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220320080032515</link>
-            <guid>https://v.daum.net/v/20220320080032515</guid>
-            <pubDate>Sat, 19 Mar 2022 23:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 극장가에 아이돌 팬들이 모여들고 있다. 이는 팬데믹 상황이 지속되면서 아이돌을 직접 보지 못하는 K팝 팬들과 영화 개봉 연기로 관객의 발길이 끊긴 극장의 니즈가 부합한 것으로, 특별한 경험을 통한 시너지 효과를 내고 있다. 지난 12일 오후 전국 CGV와 롯데시네마, 메가박스에는 아미(방탄소년단 공식팬클럽명)들로 가득 찼]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F20%2FNEWS1%2F20220320080032605druz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[손현주 주연 '봄날', 4월 개봉 확정..명품 연기 예고[무비타이밍] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220320080009485</link>
-            <guid>https://v.daum.net/v/20220320080009485</guid>
-            <pubDate>Sat, 19 Mar 2022 23:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 봄날 / 사진=영화 포스터손현주 주연의 영화 '봄날'이 4월말 개봉을 확정 짓고 티저 포스터를 공개했다. 다양한 장르를 넘나들며 대체불가의 매력을 보여주는 손현주의 신작 '봄날'이 4월 개봉을 확정하고 티저 포스터를 공개했다. '봄날'은 한때 잘나갔지만 현재는 집안의 애물단지인 철부지 형님 '호성'(손현주 분)이 아는 인맥 모두]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F20%2Fstarnews%2F20220320080010333wxcp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['신비한 동물사전', 23일 재개봉..'신동덤' 개봉 기념[공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220320080007481</link>
-            <guid>https://v.daum.net/v/20220320080007481</guid>
-            <pubDate>Sat, 19 Mar 2022 23:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 신비한 동물사전 / 사진=영화 포스터'신비한 동물들과 덤블도어의 비밀'의 개봉을 기념해 '신비한 동물사전'이 3월 23일 재개봉을 확정했다. '신비한 동물사전'은 마법 세계에서 가장 유명한 마법 동물학자 뉴트 스캐맨더가 신비한 동물을 찾아 떠난 1926년 뉴욕에서의 모험을 그린다. J.K. 롤링이 처음 시나리오를 맡아 이전에 볼]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F20%2Fstarnews%2F20220320080008689wafg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["지금까지 입은 옷 중에 최고", 39살 '애둘맘' 앤 해서웨이 절개 드레스 극찬[해외이슈] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220320061706698</link>
-            <guid>https://v.daum.net/v/20220320061706698</guid>
-            <pubDate>Sat, 19 Mar 2022 23:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 앤 해서웨이(39)가 과감한 노출 패션으로 시선을 끌었다. 그는 지난 17일(현지시간) 미국 로스앤젤레스에서 열린 애플TV+ '우린 폭망했다 (위크래시드)' 글로벌 프리미어에 자레드 레토와 참석했다. 앤 해서웨이는 하늘색 드레스에 검은색 속옷을 입고 포토월에서 포즈를 취했다. 그는 아쿠아주라 힐과 블랙 클러치]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F20%2Fmydaily%2F20220320061707077zwfm.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[영화 '이상한 나라의 수학자' 2주 연속 기대 영화 1위 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220320165404015</link>
+            <guid>https://movie.v.daum.net/v/20220320165404015</guid>
+            <pubDate>Sun, 20 Mar 2022 10:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 김미경 기자] 최민식이 탈북민 출신 천재 수학자를 연기한 영화 ‘이상한 나라의 수학자’가 이번 주 가장 보고 싶은 영화 1위를 차지했다. 온라인 조사 회사 피앰아이(PMI)는 ‘궁금해결리워드앱, 헤이폴’을 통해 20~50대 남녀 5000명을 대상으로 설문을 실시한 결과, 이같이 나타났다고 20일 밝혔다. 사회적 배려 대상자로 ‘명문 자사고’에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F20%2FEdaily%2F20220320165406368pxpg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<불도저에 탄 소녀> 티저 예고편 (우리 영화 볼래?)]]></title>
