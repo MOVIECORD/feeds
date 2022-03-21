@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 15:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 16:32:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -263,6 +263,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[스파이더맨: 노 웨이 홈 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=146656</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=146656</guid>
+            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fc5880afdb5b7c60161f34184e1f466814fec2d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[킹메이커 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=118715</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=118715</guid>
@@ -285,14 +293,6 @@
             <pubDate>Sun, 20 Mar 2022 01:16:52 GMT</pubDate>
             <content:encoded><![CDATA[22.02.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1f54e7248dbebea9649b47176f1f8dacdc2eb9eb" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[리코리쉬 피자 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154397</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154397</guid>
-            <pubDate>Sun, 20 Mar 2022 05:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc19dfdd279275c1aea9b0c4dba703474815cf470" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[매미소리 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -319,14 +319,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa9ecc8ab020ca4129e7fc79a7f3a86fa328e63d0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[스파이더맨: 노 웨이 홈 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=146656</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=146656</guid>
-            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fc5880afdb5b7c60161f34184e1f466814fec2d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[우리가 사랑이라고 믿는 것 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=134485</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=134485</guid>
@@ -341,6 +333,14 @@
             <pubDate>Mon, 21 Mar 2022 02:51:42 GMT</pubDate>
             <content:encoded><![CDATA[22.03.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F016cf9fb2c21f1be2a915310a41007e6babaf578" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[리코리쉬 피자 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154397</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154397</guid>
+            <pubDate>Sun, 20 Mar 2022 05:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc19dfdd279275c1aea9b0c4dba703474815cf470" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[뜨거운 피 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -526,14 +526,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F21%2Fmydaily%2F20220321121243628zceq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['이상한 나라의 수학자' , '수학의 정석' 저자 설립 자사고서 촬영.. 비하인드 전격 공개 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220321165523287</link>
-            <guid>https://movie.v.daum.net/v/20220321165523287</guid>
-            <pubDate>Mon, 21 Mar 2022 08:25:48 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠한국 모신정 기자] 영화 '이상한 나라의 수학자'가 영화 속에 숨겨진 흥미로운 비하인드 포인트를 공개해 눈길을 끈다. ◇ 극 중 명문 자사고 동훈고 촬영지- ‘수학의 정석’ 저자가 설립한 상산고 영화 '이상한 나라의 수학자'는 신분을 감추고 고등학교 경비원으로 일하는 탈북한 천재 수학자가 수학을 포기한 학생을 만나며 벌어지는 이야기를 그렸다. 천재]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F21%2FSpoHankook%2F20220321165524196nllc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[유연석 '배니싱: 미제사건', 韓 배경에 프랑스 감성 빛났다 [리뷰] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220321162002068</link>
             <guid>https://movie.v.daum.net/v/20220321162002068</guid>
@@ -542,20 +534,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F21%2Fsportstoday%2F20220321162003790gdcu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['이상한 나라의 수학자' , '수학의 정석' 저자 설립 자사고서 촬영.. 비하인드 전격 공개 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220321165523287</link>
+            <guid>https://movie.v.daum.net/v/20220321165523287</guid>
+            <pubDate>Mon, 21 Mar 2022 08:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 모신정 기자] 영화 '이상한 나라의 수학자'가 영화 속에 숨겨진 흥미로운 비하인드 포인트를 공개해 눈길을 끈다. ◇ 극 중 명문 자사고 동훈고 촬영지- ‘수학의 정석’ 저자가 설립한 상산고 영화 '이상한 나라의 수학자'는 신분을 감추고 고등학교 경비원으로 일하는 탈북한 천재 수학자가 수학을 포기한 학생을 만나며 벌어지는 이야기를 그렸다. 천재]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F21%2FSpoHankook%2F20220321165524196nllc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA["속시원한 배우 교체"..'신동덤' 新그린델왈드 매즈 미켈슨 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220321092335559</link>
             <guid>https://movie.v.daum.net/v/20220321092335559</guid>
             <pubDate>Mon, 21 Mar 2022 08:25:48 GMT</pubDate>
             <content:encoded><![CDATA['갓벽한' 캐스팅이다. 미중년 매즈 미켈슨의 그린델왈드가 온다. 4월 개봉하는 영화 ‘신비한 동물들과 덤블도어의 비밀’ 매즈 미켈슨이 합류, 더욱 완벽한 캐스팅을 완성했다. 덴마크를 대표하는 세계적인 배우 매즈 미켈슨은 다양한 작품에서 선 굵은 캐릭터, 섬세한 감정선으로 장르불문, 대체불가의 존재감을 드러냈다. ‘신비한 동물들과 덤블도어의 비밀’에서는]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F21%2Filgansports%2F20220321092338208ombr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['불도저에 탄 소녀' 김혜윤의 저돌적인 눈빛 눈길 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220321132924157</link>
-            <guid>https://movie.v.daum.net/v/20220321132924157</guid>
-            <pubDate>Mon, 21 Mar 2022 08:25:48 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '불도저에 탄 소녀' 메인 포스터가 공개됐다. 영화 '불도저에 탄 소녀'(감독 박이웅·제작 고집스튜디오)는 갑작스런 아빠의 사고와 살 곳마저 빼앗긴 채 어린 동생과 내몰린 19살의 혜영(김혜윤)이 자꾸 건드리는 세상을 향해 분노를 폭발하는 현실 폭주 드라마다. 공개된 메인 포스터는 이번 영화로 장편영화 첫 주연을 맡은 김혜윤]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F21%2Ftvdaily%2F20220321132925589fpyp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[메가폰 잡은 작가들.. 필력만큼 잘 찍었을까 (다음영화 뉴스 ─ 인기)]]></title>
@@ -572,6 +564,14 @@
             <pubDate>Mon, 21 Mar 2022 01:18:12 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김나연 기자] 신비한 동물사전 / 사진=영화 포스터'신비한 동물들과 덤블도어의 비밀'의 개봉을 기념해 '신비한 동물사전'이 3월 23일 재개봉을 확정했다. '신비한 동물사전'은 마법 세계에서 가장 유명한 마법 동물학자 뉴트 스캐맨더가 신비한 동물을 찾아 떠난 1926년 뉴욕에서의 모험을 그린다. J.K. 롤링이 처음 시나리오를 맡아 이전에 볼]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F20%2Fstarnews%2F20220320080008689wafg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['불도저에 탄 소녀' 김혜윤의 저돌적인 눈빛 눈길 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220321132924157</link>
+            <guid>https://movie.v.daum.net/v/20220321132924157</guid>
+            <pubDate>Mon, 21 Mar 2022 08:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '불도저에 탄 소녀' 메인 포스터가 공개됐다. 영화 '불도저에 탄 소녀'(감독 박이웅·제작 고집스튜디오)는 갑작스런 아빠의 사고와 살 곳마저 빼앗긴 채 어린 동생과 내몰린 19살의 혜영(김혜윤)이 자꾸 건드리는 세상을 향해 분노를 폭발하는 현실 폭주 드라마다. 공개된 메인 포스터는 이번 영화로 장편영화 첫 주연을 맡은 김혜윤]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F21%2Ftvdaily%2F20220321132925589fpyp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["한국 배우에 반했어" 할리우드 잇단 구애 (다음영화 뉴스 ─ 인기)]]></title>
@@ -1306,7 +1306,7 @@
             <link>https://tv.naver.com/v/25762080</link>
             <guid>https://tv.naver.com/v/25762080</guid>
             <pubDate>Mon, 21 Mar 2022 05:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220321_268/iYSnC_1647836811340i3TRC_JPEG/f4028d37-a8ce-11ec-9cd3-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1314,7 +1314,7 @@
             <link>https://tv.naver.com/v/25759158</link>
             <guid>https://tv.naver.com/v/25759158</guid>
             <pubDate>Mon, 21 Mar 2022 02:52:27 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220321_279/fynAp_1647828157230o45cm_JPEG/ed477837-a8ba-11ec-bc38-505dac8c37f3_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1322,7 +1322,7 @@
             <link>https://tv.naver.com/v/25758577</link>
             <guid>https://tv.naver.com/v/25758577</guid>
             <pubDate>Mon, 21 Mar 2022 02:52:27 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220321_223/7wF8M_1647826401788j9GsA_JPEG/41c75788-a8b6-11ec-bc38-505dac8c37f3_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
