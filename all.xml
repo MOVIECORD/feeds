@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 12:35:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 13:28:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -215,20 +215,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffe807f2e93a1d028b73c1ac89cbcb4e0748965aa" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[문폴 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=141644</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=141644</guid>
-            <pubDate>Tue, 01 Mar 2022 07:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe3472a25d3f3448b0a113f2c7684418417d2d372" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[더 배트맨 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=110137</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=110137</guid>
             <pubDate>Tue, 15 Feb 2022 03:19:13 GMT</pubDate>
             <content:encoded><![CDATA[22.03.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8cc69ee37e41d9fed49935446d3a6697f7467df4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[문폴 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=141644</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=141644</guid>
+            <pubDate>Tue, 01 Mar 2022 07:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe3472a25d3f3448b0a113f2c7684418417d2d372" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[벨파스트 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -239,20 +239,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc869a2a1cc226fd7583c04588f60000ab433155e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[유어 러브 송 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138924</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138924</guid>
-            <pubDate>Wed, 23 Mar 2022 09:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F96a9baeced0424f6271b699e009e0d52dd166922" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[리디밍 러브 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154879</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154879</guid>
             <pubDate>Tue, 15 Mar 2022 23:19:43 GMT</pubDate>
             <content:encoded><![CDATA[22.03.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fccbb20ebcbd54b9d461962f7af826bde5122b805" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[유어 러브 송 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138924</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138924</guid>
+            <pubDate>Wed, 23 Mar 2022 09:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F96a9baeced0424f6271b699e009e0d52dd166922" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[하늘의 푸르름을 아는 사람이여 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -542,20 +542,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fpoctan%2F20220323115109120xund.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['컬투쇼' 최무성 "10kg 감량 성공, 협찬받아 관리+운동" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220323143429587</link>
-            <guid>https://movie.v.daum.net/v/20220323143429587</guid>
-            <pubDate>Wed, 23 Mar 2022 06:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 이홍내 지승현 최무성 정우 / 사진=SBS 파워FM '두시탈출 컬투쇼'배우 최무성이 다이어트에 성공했다고 밝혔다. 23일 방송된 SBS 파워FM '두시탈출 컬투쇼'에는 영화 '뜨거운 피'의 배우 정우, 최무성, 지승현, 이홍내가 출연해 다양한 이야기를 나눴다. 이날 한 청취자는 최무성이 tvN 예능프로그램 '바퀴 달린 집'에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fstarnews%2F20220323143430232jonv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[니콜라스 케이지 "전재산 날리고 빚 갚으려 VOD영화 닥치는대로 출연" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220323113640265</link>
             <guid>https://movie.v.daum.net/v/20220323113640265</guid>
             <pubDate>Wed, 23 Mar 2022 03:31:22 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 전형화 기자] 니콜라스 케이지/AFPBBNews=뉴스1할리우드 배우 니콜라스 케이지가 1억 5000만달러(약 1820억원) 상당의 재산을 다 날리고 빚을 갚기 위해 VOD로 직행하는 영화들을 찍어왔다고 고백했다. 한때 한국계 미국인과 결혼해 '케서방'이라는 애칭으로 한국팬들에게 사랑받다가 어느 순간 한물 간 배우로 취급 받았던 그가 저간의 사정을]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fstarnews%2F20220323113641664hoxe.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['컬투쇼' 최무성 "10kg 감량 성공, 협찬받아 관리+운동" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220323143429587</link>
+            <guid>https://movie.v.daum.net/v/20220323143429587</guid>
+            <pubDate>Wed, 23 Mar 2022 06:24:50 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 이홍내 지승현 최무성 정우 / 사진=SBS 파워FM '두시탈출 컬투쇼'배우 최무성이 다이어트에 성공했다고 밝혔다. 23일 방송된 SBS 파워FM '두시탈출 컬투쇼'에는 영화 '뜨거운 피'의 배우 정우, 최무성, 지승현, 이홍내가 출연해 다양한 이야기를 나눴다. 이날 한 청취자는 최무성이 tvN 예능프로그램 '바퀴 달린 집'에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fstarnews%2F20220323143430232jonv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['뜨거운 피', 이토록 짠내 나는 건달 영화가 [TF씨네리뷰] (다음영화 뉴스 ─ 인기)]]></title>
@@ -598,20 +598,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fhankooki%2F20220323100022792vfsx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["韓영화 전세계 히트, 어떻게 인기 없겠나?" 佛감독 감격한 이유(종합)[EN:인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220323164011098</link>
-            <guid>https://movie.v.daum.net/v/20220323164011098</guid>
-            <pubDate>Wed, 23 Mar 2022 09:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 드니 데르쿠르 감독이 한국을 배경으로 한 글로벌 프로젝트 '배니싱: 미제사건'으로 국내 관객들과 만난다. "한국은 24시간 잠들지 않는 나라 같았다"고 협업 소감을 밝힌 감독은 "그러니 한국영화가 전 세계에서 히트치는 것은 결코 이상한 일이 아니다"고 말했다. 3월 30일 개봉하는 '배니싱: 미제사건'은 대한민국을 발칵 뒤집은 신]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fnewsen%2F20220323164011915bcjy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[정재은 감독 "고양이 눈으로 본 아파트, 어떤가요" [쿠키인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220323060203241</link>
             <guid>https://movie.v.daum.net/v/20220323060203241</guid>
             <pubDate>Wed, 23 Mar 2022 01:27:13 GMT</pubDate>
             <content:encoded><![CDATA[가슴팍에 흰 반달무늬가 그려져 있어 ‘반달이’라고 불리던 검은 고양이는 서울 둔촌주공아파트 단지의 인기스타였다. 사람을 잘 따르는 성격 덕분이었다. 누군가 다가오면 냉큼 무릎 위에 올라앉았고, 등을 쓰다듬으면 ‘골골골’ 기분 좋은 소리를 냈다. 아파트 재건축을 위한 철거가 시작되면서 반달이는 위험에 처했다. 매일 콘크리트가 무너지는 공사장에서 반달이는]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fkukinews%2F20220323060204649azew.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["韓영화 전세계 히트, 어떻게 인기 없겠나?" 佛감독 감격한 이유(종합)[EN:인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220323164011098</link>
+            <guid>https://movie.v.daum.net/v/20220323164011098</guid>
+            <pubDate>Wed, 23 Mar 2022 09:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 드니 데르쿠르 감독이 한국을 배경으로 한 글로벌 프로젝트 '배니싱: 미제사건'으로 국내 관객들과 만난다. "한국은 24시간 잠들지 않는 나라 같았다"고 협업 소감을 밝힌 감독은 "그러니 한국영화가 전 세계에서 히트치는 것은 결코 이상한 일이 아니다"고 말했다. 3월 30일 개봉하는 '배니싱: 미제사건'은 대한민국을 발칵 뒤집은 신]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fnewsen%2F20220323164011915bcjy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[빅픽처] 넷플릭스의 숙원, '이 영화'가 이뤄낼지도 몰라 (다음영화 뉴스 ─ 인기)]]></title>
@@ -638,6 +638,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F22%2Fnewsen%2F20220322162514067epjq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[성훈X조한선 '우리들의 천국', 포스터·예고편 공개..강력 카리스마 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220323111904443</link>
+            <guid>https://movie.v.daum.net/v/20220323111904443</guid>
+            <pubDate>Wed, 23 Mar 2022 13:27:42 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 최혜진 기자] 배우 성훈, 조한선 주연의 '우리들의 천국' 포스터와 예고편이 공개됐다. 25월 주요 OTT를 통해 공개되는 영화 '우리들의 천국'(감독 박희준·제작 김에스터)은 성훈, 조한선 주연의 2018년 개봉작 '돌아와요부산항애'의 디렉터스컷시리즈 프로젝트로 기획된 작품이다. 2018년 개봉 당시 부산의 아름다운 풍광과 인물의 과감한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fsportstoday%2F20220323111905507dfcd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['봄날' 손현주, 父 장례식장서 부조금 노린 큰형님 [Oh!쎈 예고] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220322183135967</link>
             <guid>https://movie.v.daum.net/v/20220322183135967</guid>
@@ -652,14 +660,6 @@
             <pubDate>Tue, 22 Mar 2022 22:19:10 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠서울 | 황혜정 인턴기자] 올해 미국 아카데미 시상식의 작품상은 영화 ‘파워 오브 도그’와 ‘코다’의 양강구도가 될 전망이다. 오는 28일(한국시간) 열리는 제94회 미국 아카데미 시상식이 닷새 앞으로 다가왔다.아카데미 시상식에서 가장 마지막에 호명돼 대미를 장식하는 장편영화부문 ‘최우수 작품상’의 향방이 영화팬들의 궁금증을 자아낸다.]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2FSPORTSSEOUL%2F20220323060105418suof.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['컬투쇼' 지승현 "교육자 집안, 배우 시작할 때 반대 심해" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220323144026787</link>
-            <guid>https://movie.v.daum.net/v/20220323144026787</guid>
-            <pubDate>Wed, 23 Mar 2022 10:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 이홍내 지승현 최무성 정우 / 사진=SBS 보는라디오 배우 지승현이 부모님에 대해 언급했다. 23일 방송된 SBS 파워FM '두시탈출 컬투쇼'에는 영화 '뜨거운 피'의 배우 정우, 최무성, 지승현, 이홍내가 출연해 다양한 이야기를 나눴다. 이날 지승현은 어머니 제자의 문자를 받았고, "어머니가 영어 선생님이셨고, 아버지가 체]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fstarnews%2F20220323144027820nmrs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[사랑스러운 가족영화 '벨파스트' 관람포인트, #전세계호평 #공감스토리 #낭만적무드 (다음영화 뉴스 ─ 최신)]]></title>
@@ -1466,7 +1466,7 @@
             <link>https://tv.naver.com/v/25811435</link>
             <guid>https://tv.naver.com/v/25811435</guid>
             <pubDate>Wed, 23 Mar 2022 09:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_300/giZcJ_164802628985761N0K_JPEG/0594ba86-aa88-11ec-9c28-d4f5ef58ac88_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1482,7 +1482,7 @@
             <link>https://tv.naver.com/v/25806477</link>
             <guid>https://tv.naver.com/v/25806477</guid>
             <pubDate>Wed, 23 Mar 2022 06:25:24 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_283/jR3cy_1648015245882Tknys_PNG/1648015175141.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -1490,7 +1490,7 @@
             <link>https://tv.naver.com/v/25802357</link>
             <guid>https://tv.naver.com/v/25802357</guid>
             <pubDate>Wed, 23 Mar 2022 03:31:57 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_245/IfC9I_1648003493733sBRq4_JPEG/f91907fb-aa52-11ec-89d7-48df37ae3dc4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1498,7 +1498,7 @@
             <link>https://tv.naver.com/v/25801870</link>
             <guid>https://tv.naver.com/v/25801870</guid>
             <pubDate>Wed, 23 Mar 2022 03:31:57 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_198/NrUz6_1648002091906a1Van_JPEG/94200f84-aa4f-11ec-9cd3-505dac8c3607_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1506,7 +1506,7 @@
             <link>https://tv.naver.com/v/25801344</link>
             <guid>https://tv.naver.com/v/25801344</guid>
             <pubDate>Wed, 23 Mar 2022 03:31:57 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_186/chFd5_1648000709249A3FBf_JPEG/1648000460031.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1514,7 +1514,7 @@
             <link>https://tv.naver.com/v/25801040</link>
             <guid>https://tv.naver.com/v/25801040</guid>
             <pubDate>Wed, 23 Mar 2022 03:31:57 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_84/WJpwK_16480000015008RIEo_JPEG/ce0ad1d6-aa4a-11ec-ad5e-48df37ae3fca_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1522,7 +1522,7 @@
             <link>https://tv.naver.com/v/25800896</link>
             <guid>https://tv.naver.com/v/25800896</guid>
             <pubDate>Wed, 23 Mar 2022 03:31:57 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_257/CLRAz_1647999606589t5Xjf_JPEG/e60f9cee-aa49-11ec-9e39-505dac8c385b_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
