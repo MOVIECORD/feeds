@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 20:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 22:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,22 +40,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fpoctan%2F20220323115109120xund.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['컬투쇼' 최무성 "10kg 감량 성공, 식단+운동했다"]]></title>
-            <link>https://movie.v.daum.net/v/20220323142211138</link>
-            <guid>https://movie.v.daum.net/v/20220323142211138</guid>
-            <pubDate>Wed, 23 Mar 2022 06:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] '컬투쇼'에서 최무성이 다이어트 근황을 들려줬다. 23일 오후 방송된 SBS 파워FM '두시탈출 컬투쇼'(이하 '컬투쇼')에는 영화 '뜨거운 피'의 배우 정우, 최무성, 지승현, 이홍내가 출연해 이야기를 나눴다. 이날 최무성은 "'바퀴 달린 집'에서 다이어트하신다고 들었는데 성공하셨냐"는 청취자의 물음에 "성공했다"고 답했다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Ftvdaily%2F20220323142213111nkin.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[니콜라스 케이지 "전재산 날리고 빚 갚으려 VOD영화 닥치는대로 출연"]]></title>
-            <link>https://movie.v.daum.net/v/20220323113640265</link>
-            <guid>https://movie.v.daum.net/v/20220323113640265</guid>
-            <pubDate>Wed, 23 Mar 2022 03:31:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 니콜라스 케이지/AFPBBNews=뉴스1할리우드 배우 니콜라스 케이지가 1억 5000만달러(약 1820억원) 상당의 재산을 다 날리고 빚을 갚기 위해 VOD로 직행하는 영화들을 찍어왔다고 고백했다. 한때 한국계 미국인과 결혼해 '케서방'이라는 애칭으로 한국팬들에게 사랑받다가 어느 순간 한물 간 배우로 취급 받았던 그가 저간의 사정을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fstarnews%2F20220323113641664hoxe.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['뜨거운 피', 이토록 짠내 나는 건달 영화가 [TF씨네리뷰]]]></title>
             <link>https://movie.v.daum.net/v/20220323000011592</link>
             <guid>https://movie.v.daum.net/v/20220323000011592</guid>
@@ -72,12 +56,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fohmynews%2F20220323135401530utpk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[니콜라스 케이지 "전재산 날리고 빚 갚으려 VOD영화 닥치는대로 출연"]]></title>
+            <link>https://movie.v.daum.net/v/20220323113640265</link>
+            <guid>https://movie.v.daum.net/v/20220323113640265</guid>
+            <pubDate>Wed, 23 Mar 2022 03:31:22 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 니콜라스 케이지/AFPBBNews=뉴스1할리우드 배우 니콜라스 케이지가 1억 5000만달러(약 1820억원) 상당의 재산을 다 날리고 빚을 갚기 위해 VOD로 직행하는 영화들을 찍어왔다고 고백했다. 한때 한국계 미국인과 결혼해 '케서방'이라는 애칭으로 한국팬들에게 사랑받다가 어느 순간 한물 간 배우로 취급 받았던 그가 저간의 사정을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fstarnews%2F20220323113641664hoxe.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[이 짜릿함 무엇? '앰뷸런스'가 보여줄 두 형제의 미친 케미]]></title>
             <link>https://movie.v.daum.net/v/20220323113133003</link>
             <guid>https://movie.v.daum.net/v/20220323113133003</guid>
             <pubDate>Wed, 23 Mar 2022 04:24:58 GMT</pubDate>
             <content:encoded><![CDATA[액션 블록버스터 영화 ‘앰뷸런스’가 제이크 질렌할과 야히아 압둘 마틴 2세의 연기 호흡이 돋보이는 ‘두 형제의 미친 케미 스틸’을 공개하며 특별함을 더하고 있다. 이번에 공개된 두 형제의 미친 케미 스틸은 함께 자랐지만 서로 전혀 다른 삶을 살아온 두 형제가 빚어내는 갈등과 거침없는 액션이 담겨 눈길을 끈다. 이번 작품 특유의 속도감이 고스란히 느껴]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Filgansports%2F20220323113134914zplf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['컬투쇼' 최무성 "10kg 감량 성공, 식단+운동했다"]]></title>
+            <link>https://movie.v.daum.net/v/20220323142211138</link>
+            <guid>https://movie.v.daum.net/v/20220323142211138</guid>
+            <pubDate>Wed, 23 Mar 2022 06:24:49 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김종은 기자] '컬투쇼'에서 최무성이 다이어트 근황을 들려줬다. 23일 오후 방송된 SBS 파워FM '두시탈출 컬투쇼'(이하 '컬투쇼')에는 영화 '뜨거운 피'의 배우 정우, 최무성, 지승현, 이홍내가 출연해 이야기를 나눴다. 이날 최무성은 "'바퀴 달린 집'에서 다이어트하신다고 들었는데 성공하셨냐"는 청취자의 물음에 "성공했다"고 답했다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Ftvdaily%2F20220323142213111nkin.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['아이스 에이지: 벅의 대모험' 놓쳐선 안 되는 이유 셋!]]></title>
@@ -88,12 +88,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Filgansports%2F20220323121239744zqni.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['컬투쇼' 최무성 "10kg 감량 성공, 협찬받아 관리+운동"]]></title>
-            <link>https://movie.v.daum.net/v/20220323143429587</link>
-            <guid>https://movie.v.daum.net/v/20220323143429587</guid>
+            <title><![CDATA[유혈 분쟁 속 '아홉살 인생'.. 아픔 있어도 성장은 멈추지 않는다]]></title>
+            <link>https://movie.v.daum.net/v/20220323100019739</link>
+            <guid>https://movie.v.daum.net/v/20220323100019739</guid>
             <pubDate>Wed, 23 Mar 2022 06:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 이홍내 지승현 최무성 정우 / 사진=SBS 파워FM '두시탈출 컬투쇼'배우 최무성이 다이어트에 성공했다고 밝혔다. 23일 방송된 SBS 파워FM '두시탈출 컬투쇼'에는 영화 '뜨거운 피'의 배우 정우, 최무성, 지승현, 이홍내가 출연해 다양한 이야기를 나눴다. 이날 한 청취자는 최무성이 tvN 예능프로그램 '바퀴 달린 집'에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fstarnews%2F20220323143430232jonv.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[영화는 평화로운 항구 풍경으로 시작한다. 잔잔한 음악이 흐르고, 아름다운 건축물이 화면을 채운다. 영국 북아일랜드 주도 벨파스트의 번영과 풍요를 상징하는 듯한 컬러화면은 흑백으로 곧 변하며 1969년 8월 15일로 시간여행을 떠난다. 흑백화면은 흔히 과거를 묘사할 때 쓰인다. 하지만 영화 ‘벨파스트’에선 다른 의미가 있기도 하다. 우리 편이 아니면 무조건]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fhankooki%2F20220323100022792vfsx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[정재은 감독 "고양이 눈으로 본 아파트, 어떤가요" [쿠키인터뷰]]]></title>
@@ -104,20 +104,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fkukinews%2F20220323060204649azew.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[유혈 분쟁 속 '아홉살 인생'.. 아픔 있어도 성장은 멈추지 않는다]]></title>
-            <link>https://movie.v.daum.net/v/20220323100019739</link>
-            <guid>https://movie.v.daum.net/v/20220323100019739</guid>
+            <title><![CDATA['컬투쇼' 최무성 "10kg 감량 성공, 협찬받아 관리+운동"]]></title>
+            <link>https://movie.v.daum.net/v/20220323143429587</link>
+            <guid>https://movie.v.daum.net/v/20220323143429587</guid>
             <pubDate>Wed, 23 Mar 2022 06:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[영화는 평화로운 항구 풍경으로 시작한다. 잔잔한 음악이 흐르고, 아름다운 건축물이 화면을 채운다. 영국 북아일랜드 주도 벨파스트의 번영과 풍요를 상징하는 듯한 컬러화면은 흑백으로 곧 변하며 1969년 8월 15일로 시간여행을 떠난다. 흑백화면은 흔히 과거를 묘사할 때 쓰인다. 하지만 영화 ‘벨파스트’에선 다른 의미가 있기도 하다. 우리 편이 아니면 무조건]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fhankooki%2F20220323100022792vfsx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["韓영화 전세계 히트, 어떻게 인기 없겠나?" 佛감독 감격한 이유(종합)[EN:인터뷰]]]></title>
-            <link>https://movie.v.daum.net/v/20220323164011098</link>
-            <guid>https://movie.v.daum.net/v/20220323164011098</guid>
-            <pubDate>Wed, 23 Mar 2022 09:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 드니 데르쿠르 감독이 한국을 배경으로 한 글로벌 프로젝트 '배니싱: 미제사건'으로 국내 관객들과 만난다. "한국은 24시간 잠들지 않는 나라 같았다"고 협업 소감을 밝힌 감독은 "그러니 한국영화가 전 세계에서 히트치는 것은 결코 이상한 일이 아니다"고 말했다. 3월 30일 개봉하는 '배니싱: 미제사건'은 대한민국을 발칵 뒤집은 신]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fnewsen%2F20220323164011915bcjy.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 이홍내 지승현 최무성 정우 / 사진=SBS 파워FM '두시탈출 컬투쇼'배우 최무성이 다이어트에 성공했다고 밝혔다. 23일 방송된 SBS 파워FM '두시탈출 컬투쇼'에는 영화 '뜨거운 피'의 배우 정우, 최무성, 지승현, 이홍내가 출연해 다양한 이야기를 나눴다. 이날 한 청취자는 최무성이 tvN 예능프로그램 '바퀴 달린 집'에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fstarnews%2F20220323143430232jonv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[TEN인터뷰] '뜨거운 피' 정우 "충혈된 눈·홀쭉한 볼에 오히려 안심..성장통 겪어"]]></title>
@@ -128,12 +120,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2F10asia%2F20220323230105019itjp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["헌신적인 엄마가 되는데 결혼은 필요하지 않아", 두 아이 입양 57살 산드라 블록 인생관[해외이슈]]]></title>
-            <link>https://movie.v.daum.net/v/20220323061511471</link>
-            <guid>https://movie.v.daum.net/v/20220323061511471</guid>
-            <pubDate>Wed, 23 Mar 2022 15:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘오스카 여신’ 산드라 블록(57)이 연기 잠정 휴업을 선언한 가운데 그의 인생관이 주목받고 있다. 그는 최근 미국 엔터테인먼트 투나잇과의 인터뷰에서 “나는 일을 할 때 매 순간 내 직업을 진지하게 받아들인다. 이제는 내 자녀들과 가족과 함께 시간을 보내고 싶다”고 말했다. 산드라 블록은 2010년 전 남편 제시 제임스와]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fmydaily%2F20220323061511897vicg.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[인터뷰] 정우 "가슴으로 선택한 '뜨거운 피', 역대급 성장통"]]></title>
+            <link>https://movie.v.daum.net/v/20220324070302892</link>
+            <guid>https://movie.v.daum.net/v/20220324070302892</guid>
+            <pubDate>Wed, 23 Mar 2022 22:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[“본능적으로 끌렸어요. 머리보단 가슴으로 선택한 작품이죠." 배우 정우의 가슴을 사로잡은 누아르, 영화 ‘뜨거운 피’(감독 천명관)다. 정우는 최근 화상으로 진행된 인터뷰에서 이 같이 말하며 수줍게 웃었다. 다양한 장르, 캐릭터로 탄탄한 필모그래피를 쌓아온 그는 유독 정통 누아르와는 인연이 닿질 않았다. 그러다 만난 ‘뜨거운 피’에 그의 가슴도 뜨거워졌]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F24%2Fstartoday%2F20220324070304806crqa.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["韓영화 전세계 히트, 어떻게 인기 없겠나?" 佛감독 감격한 이유(종합)[EN:인터뷰]]]></title>
+            <link>https://movie.v.daum.net/v/20220323164011098</link>
+            <guid>https://movie.v.daum.net/v/20220323164011098</guid>
+            <pubDate>Wed, 23 Mar 2022 09:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 드니 데르쿠르 감독이 한국을 배경으로 한 글로벌 프로젝트 '배니싱: 미제사건'으로 국내 관객들과 만난다. "한국은 24시간 잠들지 않는 나라 같았다"고 협업 소감을 밝힌 감독은 "그러니 한국영화가 전 세계에서 히트치는 것은 결코 이상한 일이 아니다"고 말했다. 3월 30일 개봉하는 '배니싱: 미제사건'은 대한민국을 발칵 뒤집은 신]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fnewsen%2F20220323164011915bcjy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[성훈X조한선 '우리들의 천국', 포스터·예고편 공개..강력 카리스마]]></title>
@@ -144,28 +144,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fsportstoday%2F20220323111905507dfcd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['스텔라' 이규형, 손호준 배신했다..짠내 케미 폭발 [Oh!쎈 예고]]]></title>
-            <link>https://movie.v.daum.net/v/20220323082840507</link>
-            <guid>https://movie.v.daum.net/v/20220323082840507</guid>
-            <pubDate>Wed, 23 Mar 2022 01:27:13 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;올 봄 극장가에 유쾌한 웃음을 선보일 버라이어티 추격 코미디 '스텔라'가 배우 손호준과 이규형의 버라이어티한 모습을 담은 ‘짠내 케미 폭발’ 스틸을 공개해 눈길을 끈다. 내달 개봉을 앞둔 영화 '스텔라'(감독 권수경,&nbsp;제공 CJ ENM, 배급 CJ CGV, 제작 데이드림) 측이 손호준과 이규형의 버라이어티한 순간들을 담은 스틸을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fpoctan%2F20220323082840544hpxm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[빅픽처] 넷플릭스의 숙원, '이 영화'가 이뤄낼지도 몰라]]></title>
-            <link>https://movie.v.daum.net/v/20220323162404552</link>
-            <guid>https://movie.v.daum.net/v/20220323162404552</guid>
-            <pubDate>Wed, 23 Mar 2022 09:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] "두드려라, 그러면 열릴 것이다." 이 유명한 성경 문구를 굳이 인용하지 않아도, 콘텐츠를 만드는 사람들의 성실과 끈기는 새삼스러울 것이 없다. 좋은 작품을 만들고, 상업적 성공까지 거둘 수 있다면 이보다 좋을 일이 있을까. 여기에 부상처럼 주어지는 수상의 영예까지 얻을 수 있다면 금상첨화다. OTT 업계에서 선두를 달리]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2FSBSfunE%2F20220323162407409tuns.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['로스트 시티' 산드라 블록→브래드 피트, 할리우드★ 총출동..4월20일 개봉[공식]]]></title>
             <link>https://movie.v.daum.net/v/20220323180619845</link>
             <guid>https://movie.v.daum.net/v/20220323180619845</guid>
             <pubDate>Wed, 23 Mar 2022 14:18:14 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자] 영화 '로스트 시티'가 메인 예고편을 최초 공개했다. 영화 '로스트 시티'(감독 아론 니 애덤 니, 수입배급 롯데엔터테인먼트)는 전설의 트레저에 관한 유일한 단서를 알고 있는 베스트셀러 작가 로레타(산드라 블록)가 위험천만한 섬으로 납치당하면서 그녀를 구하기 위한 이들의 예측불허 탈출 작전을 그린 버라이어티 어드벤처. 23일 공]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fpoctan%2F20220323180619843usds.png" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["헌신적인 엄마가 되는데 결혼은 필요하지 않아", 두 아이 입양 57살 산드라 블록 인생관[해외이슈]]]></title>
+            <link>https://movie.v.daum.net/v/20220323061511471</link>
+            <guid>https://movie.v.daum.net/v/20220323061511471</guid>
+            <pubDate>Wed, 23 Mar 2022 15:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘오스카 여신’ 산드라 블록(57)이 연기 잠정 휴업을 선언한 가운데 그의 인생관이 주목받고 있다. 그는 최근 미국 엔터테인먼트 투나잇과의 인터뷰에서 “나는 일을 할 때 매 순간 내 직업을 진지하게 받아들인다. 이제는 내 자녀들과 가족과 함께 시간을 보내고 싶다”고 말했다. 산드라 블록은 2010년 전 남편 제시 제임스와]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fmydaily%2F20220323061511897vicg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['스텔라' 이규형, 손호준 배신했다..짠내 케미 폭발 [Oh!쎈 예고]]]></title>
+            <link>https://movie.v.daum.net/v/20220323082840507</link>
+            <guid>https://movie.v.daum.net/v/20220323082840507</guid>
+            <pubDate>Wed, 23 Mar 2022 01:27:13 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;올 봄 극장가에 유쾌한 웃음을 선보일 버라이어티 추격 코미디 '스텔라'가 배우 손호준과 이규형의 버라이어티한 모습을 담은 ‘짠내 케미 폭발’ 스틸을 공개해 눈길을 끈다. 내달 개봉을 앞둔 영화 '스텔라'(감독 권수경,&nbsp;제공 CJ ENM, 배급 CJ CGV, 제작 데이드림) 측이 손호준과 이규형의 버라이어티한 순간들을 담은 스틸을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fpoctan%2F20220323082840544hpxm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
