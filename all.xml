@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 11:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 12:35:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -239,14 +239,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc869a2a1cc226fd7583c04588f60000ab433155e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[리디밍 러브 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154879</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154879</guid>
-            <pubDate>Tue, 15 Mar 2022 23:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fccbb20ebcbd54b9d461962f7af826bde5122b805" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[유어 러브 송 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=138924</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=138924</guid>
@@ -255,12 +247,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F96a9baeced0424f6271b699e009e0d52dd166922" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[리디밍 러브 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154879</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154879</guid>
+            <pubDate>Tue, 15 Mar 2022 23:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fccbb20ebcbd54b9d461962f7af826bde5122b805" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[하늘의 푸르름을 아는 사람이여 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=135548</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=135548</guid>
             <pubDate>Wed, 09 Mar 2022 01:16:26 GMT</pubDate>
             <content:encoded><![CDATA[22.03.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4dc4721df05c4b46cfffc11f7859037956ec50d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[에펠 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148089</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148089</guid>
+            <pubDate>Tue, 15 Mar 2022 08:23:35 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe9161cb34768cd27d71a230075105a143e6f909c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[고양이들의 아파트 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -285,22 +293,6 @@
             <pubDate>Mon, 21 Mar 2022 01:18:04 GMT</pubDate>
             <content:encoded><![CDATA[22.03.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7d09c2f81bfb2f2ff3f38a34dfedab996d501f14" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[에펠 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=148089</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=148089</guid>
-            <pubDate>Tue, 15 Mar 2022 08:23:35 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe9161cb34768cd27d71a230075105a143e6f909c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[도어맨 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144409</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144409</guid>
-            <pubDate>Wed, 09 Mar 2022 01:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F37c7b1c61c83eb6ada6f6193afc56dc7c9881165" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[나의 히어로 아카데미아 더 무비: 월드 히어로즈 미션 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -341,6 +333,14 @@
             <pubDate>Thu, 10 Mar 2022 03:23:23 GMT</pubDate>
             <content:encoded><![CDATA[22.03.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4533abe93340e36af540a7983d3dfc7f79ce0cb2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[나이트메어 앨리 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150896</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150896</guid>
+            <pubDate>Wed, 23 Mar 2022 12:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1f54e7248dbebea9649b47176f1f8dacdc2eb9eb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[모비우스 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -526,14 +526,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fmydaily%2F20220323114816183tumg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['컬투쇼' 최무성 "10kg 감량 성공, 협찬받아 관리+운동" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220323143429587</link>
-            <guid>https://movie.v.daum.net/v/20220323143429587</guid>
-            <pubDate>Wed, 23 Mar 2022 06:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 이홍내 지승현 최무성 정우 / 사진=SBS 파워FM '두시탈출 컬투쇼'배우 최무성이 다이어트에 성공했다고 밝혔다. 23일 방송된 SBS 파워FM '두시탈출 컬투쇼'에는 영화 '뜨거운 피'의 배우 정우, 최무성, 지승현, 이홍내가 출연해 다양한 이야기를 나눴다. 이날 한 청취자는 최무성이 tvN 예능프로그램 '바퀴 달린 집'에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fstarnews%2F20220323143430232jonv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[애인 구하려 떠난 여행에서 죽은 아버지를 만났다 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220323142100095</link>
             <guid>https://movie.v.daum.net/v/20220323142100095</guid>
@@ -548,6 +540,14 @@
             <pubDate>Wed, 23 Mar 2022 04:24:58 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자] 배우 이홍내가 영화&nbsp;‘뜨거운 피’에서 뜨거운 청춘의 에너지를 대변하는 열연을 펼친다. ‘뜨거운 피’(감독 천명관)는 1993년 더 나쁜 놈만이 살아남는 곳 부산 변두리 포구 구암의 실세 희수(정우 분)와 그곳에서 살아남기 위한 밑바닥 건달들의 치열한 생존 싸움을 그린 작품이다. 이홍내는 무모하고 어디로 튈지 모르는 혈기왕성한 새]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fpoctan%2F20220323115109120xund.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['컬투쇼' 최무성 "10kg 감량 성공, 협찬받아 관리+운동" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220323143429587</link>
+            <guid>https://movie.v.daum.net/v/20220323143429587</guid>
+            <pubDate>Wed, 23 Mar 2022 06:24:50 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 이홍내 지승현 최무성 정우 / 사진=SBS 파워FM '두시탈출 컬투쇼'배우 최무성이 다이어트에 성공했다고 밝혔다. 23일 방송된 SBS 파워FM '두시탈출 컬투쇼'에는 영화 '뜨거운 피'의 배우 정우, 최무성, 지승현, 이홍내가 출연해 다양한 이야기를 나눴다. 이날 한 청취자는 최무성이 tvN 예능프로그램 '바퀴 달린 집'에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fstarnews%2F20220323143430232jonv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[니콜라스 케이지 "전재산 날리고 빚 갚으려 VOD영화 닥치는대로 출연" (다음영화 뉴스 ─ 인기)]]></title>
@@ -598,20 +598,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fhankooki%2F20220323100022792vfsx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[정재은 감독 "고양이 눈으로 본 아파트, 어떤가요" [쿠키인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220323060203241</link>
-            <guid>https://movie.v.daum.net/v/20220323060203241</guid>
-            <pubDate>Wed, 23 Mar 2022 01:27:13 GMT</pubDate>
-            <content:encoded><![CDATA[가슴팍에 흰 반달무늬가 그려져 있어 ‘반달이’라고 불리던 검은 고양이는 서울 둔촌주공아파트 단지의 인기스타였다. 사람을 잘 따르는 성격 덕분이었다. 누군가 다가오면 냉큼 무릎 위에 올라앉았고, 등을 쓰다듬으면 ‘골골골’ 기분 좋은 소리를 냈다. 아파트 재건축을 위한 철거가 시작되면서 반달이는 위험에 처했다. 매일 콘크리트가 무너지는 공사장에서 반달이는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fkukinews%2F20220323060204649azew.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA["韓영화 전세계 히트, 어떻게 인기 없겠나?" 佛감독 감격한 이유(종합)[EN:인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220323164011098</link>
             <guid>https://movie.v.daum.net/v/20220323164011098</guid>
             <pubDate>Wed, 23 Mar 2022 09:18:57 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스엔 배효주 기자] 드니 데르쿠르 감독이 한국을 배경으로 한 글로벌 프로젝트 '배니싱: 미제사건'으로 국내 관객들과 만난다. "한국은 24시간 잠들지 않는 나라 같았다"고 협업 소감을 밝힌 감독은 "그러니 한국영화가 전 세계에서 히트치는 것은 결코 이상한 일이 아니다"고 말했다. 3월 30일 개봉하는 '배니싱: 미제사건'은 대한민국을 발칵 뒤집은 신]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fnewsen%2F20220323164011915bcjy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[정재은 감독 "고양이 눈으로 본 아파트, 어떤가요" [쿠키인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220323060203241</link>
+            <guid>https://movie.v.daum.net/v/20220323060203241</guid>
+            <pubDate>Wed, 23 Mar 2022 01:27:13 GMT</pubDate>
+            <content:encoded><![CDATA[가슴팍에 흰 반달무늬가 그려져 있어 ‘반달이’라고 불리던 검은 고양이는 서울 둔촌주공아파트 단지의 인기스타였다. 사람을 잘 따르는 성격 덕분이었다. 누군가 다가오면 냉큼 무릎 위에 올라앉았고, 등을 쓰다듬으면 ‘골골골’ 기분 좋은 소리를 냈다. 아파트 재건축을 위한 철거가 시작되면서 반달이는 위험에 처했다. 매일 콘크리트가 무너지는 공사장에서 반달이는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2Fkukinews%2F20220323060204649azew.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[빅픽처] 넷플릭스의 숙원, '이 영화'가 이뤄낼지도 몰라 (다음영화 뉴스 ─ 인기)]]></title>
@@ -1466,7 +1466,7 @@
             <link>https://tv.naver.com/v/25811435</link>
             <guid>https://tv.naver.com/v/25811435</guid>
             <pubDate>Wed, 23 Mar 2022 09:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_300/giZcJ_164802628985761N0K_JPEG/0594ba86-aa88-11ec-9c28-d4f5ef58ac88_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1474,7 +1474,7 @@
             <link>https://tv.naver.com/v/25807321</link>
             <guid>https://tv.naver.com/v/25807321</guid>
             <pubDate>Wed, 23 Mar 2022 07:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_96/C0XUV_1648017230967zfhLA_JPEG/14db25f3-aa73-11ec-aa4b-d4f5ef5906a4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1482,7 +1482,7 @@
             <link>https://tv.naver.com/v/25806477</link>
             <guid>https://tv.naver.com/v/25806477</guid>
             <pubDate>Wed, 23 Mar 2022 06:25:24 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_283/jR3cy_1648015245882Tknys_PNG/1648015175141.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -1490,7 +1490,7 @@
             <link>https://tv.naver.com/v/25802357</link>
             <guid>https://tv.naver.com/v/25802357</guid>
             <pubDate>Wed, 23 Mar 2022 03:31:57 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_245/IfC9I_1648003493733sBRq4_JPEG/f91907fb-aa52-11ec-89d7-48df37ae3dc4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1498,7 +1498,7 @@
             <link>https://tv.naver.com/v/25801870</link>
             <guid>https://tv.naver.com/v/25801870</guid>
             <pubDate>Wed, 23 Mar 2022 03:31:57 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_198/NrUz6_1648002091906a1Van_JPEG/94200f84-aa4f-11ec-9cd3-505dac8c3607_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1506,7 +1506,7 @@
             <link>https://tv.naver.com/v/25801344</link>
             <guid>https://tv.naver.com/v/25801344</guid>
             <pubDate>Wed, 23 Mar 2022 03:31:57 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_186/chFd5_1648000709249A3FBf_JPEG/1648000460031.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1514,7 +1514,7 @@
             <link>https://tv.naver.com/v/25801040</link>
             <guid>https://tv.naver.com/v/25801040</guid>
             <pubDate>Wed, 23 Mar 2022 03:31:57 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_84/WJpwK_16480000015008RIEo_JPEG/ce0ad1d6-aa4a-11ec-ad5e-48df37ae3fca_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1522,7 +1522,7 @@
             <link>https://tv.naver.com/v/25800896</link>
             <guid>https://tv.naver.com/v/25800896</guid>
             <pubDate>Wed, 23 Mar 2022 03:31:57 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_257/CLRAz_1647999606589t5Xjf_JPEG/e60f9cee-aa49-11ec-9e39-505dac8c385b_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
