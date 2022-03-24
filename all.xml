@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 12:34:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 13:27:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -319,20 +319,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[스파이더맨: 노 웨이 홈 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=146656</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=146656</guid>
-            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fc5880afdb5b7c60161f34184e1f466814fec2d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[나의 히어로 아카데미아 더 무비: 월드 히어로즈 미션 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152908</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152908</guid>
             <pubDate>Thu, 24 Feb 2022 23:19:42 GMT</pubDate>
             <content:encoded><![CDATA[22.03.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff892fdb7534d4d9bbb743c90257eb3007bae86e2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스파이더맨: 노 웨이 홈 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=146656</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=146656</guid>
+            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fc5880afdb5b7c60161f34184e1f466814fec2d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[리코리쉬 피자 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -583,12 +583,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F24%2Fseouleconomy%2F20220324093925952dmst.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[리뷰] '뜨거운 피' 정우·이홍내, 아쉬운 작품성 열연으로 만회 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220323185002712</link>
-            <guid>https://movie.v.daum.net/v/20220323185002712</guid>
-            <pubDate>Thu, 24 Mar 2022 01:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[출연: 정우, 김갑수, 최무성, 지승현, 이홍내 감독: 천명관 감독 장르: 범죄 등급: 15세 관람가 러닝타임: 120분 한줄평: 연기가 다했다 팝콘지수: ●●●○○ 개봉: 3월 23일 줄거리: 1993년, 더 나쁜 사람만이 살아남는 곳 부산 변두리 포구 구암의 실세 희수(정우 분)와 그곳에서 살아남기 위한 밑바닥 건달들의 치열한 생존]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2FJTBC%2F20220323185004914ooze.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[제임스 카메론 감독 질리게 만드는 '타이타닉' 나무판 논쟁[Oh!llywood] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220324195331832</link>
+            <guid>https://movie.v.daum.net/v/20220324195331832</guid>
+            <pubDate>Thu, 24 Mar 2022 12:33:34 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp;영화 '타이타닉'과 관련된 이른바 '나무판' 논쟁은 여전히 끊이지 않고 있다. 명작의 영원한 인기를 증명하는 것이기도 하다. 뉴욕포스트는 23일(현지시간) 보도를 통해 '타이타닉'이 개봉한 지 25년이 지났지만, 이 영화의 주요 의문점은 계속해서 팬들을 분열시키고 있다고 밝혔다.&nbsp;'타이타닉'에서 잭 도슨(레오나르도 디카프리오)은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F24%2Fpoctan%2F20220324195332170fskd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[할리우드가 인정한 여배우 작품들, 3월 하순 극장가 격돌 [TF프리즘] (다음영화 뉴스 ─ 인기)]]></title>
@@ -599,12 +599,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F24%2FTHEFACT%2F20220324070007020fxdi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[제임스 카메론 감독 질리게 만드는 '타이타닉' 나무판 논쟁[Oh!llywood] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220324195331832</link>
-            <guid>https://movie.v.daum.net/v/20220324195331832</guid>
-            <pubDate>Thu, 24 Mar 2022 12:33:34 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp;영화 '타이타닉'과 관련된 이른바 '나무판' 논쟁은 여전히 끊이지 않고 있다. 명작의 영원한 인기를 증명하는 것이기도 하다. 뉴욕포스트는 23일(현지시간) 보도를 통해 '타이타닉'이 개봉한 지 25년이 지났지만, 이 영화의 주요 의문점은 계속해서 팬들을 분열시키고 있다고 밝혔다.&nbsp;'타이타닉'에서 잭 도슨(레오나르도 디카프리오)은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F24%2Fpoctan%2F20220324195332170fskd.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[리뷰] '뜨거운 피' 정우·이홍내, 아쉬운 작품성 열연으로 만회 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220323185002712</link>
+            <guid>https://movie.v.daum.net/v/20220323185002712</guid>
+            <pubDate>Thu, 24 Mar 2022 01:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[출연: 정우, 김갑수, 최무성, 지승현, 이홍내 감독: 천명관 감독 장르: 범죄 등급: 15세 관람가 러닝타임: 120분 한줄평: 연기가 다했다 팝콘지수: ●●●○○ 개봉: 3월 23일 줄거리: 1993년, 더 나쁜 사람만이 살아남는 곳 부산 변두리 포구 구암의 실세 희수(정우 분)와 그곳에서 살아남기 위한 밑바닥 건달들의 치열한 생존]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F23%2FJTBC%2F20220323185004914ooze.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[김영옥 코로나 확진→'말임씨를 부탁해' 간담회 취소 [공식입장] (다음영화 뉴스 ─ 인기)]]></title>
@@ -623,20 +623,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F24%2Fnewsis%2F20220324052313754qmcu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[애프터스크리닝] 김동완을 비롯한 모든 배우들의 파격 변신, 청소년관람불가  'B컷' ★★☆ (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220324172549163</link>
-            <guid>https://movie.v.daum.net/v/20220324172549163</guid>
-            <pubDate>Thu, 24 Mar 2022 09:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[▶ 줄거리 대선후보의 B컷을 둘러싼 충격 스캔들이 펼쳐진다. 스마트폰 수리 및 데이터 복구 업체를 운영하는 ‘승현’은 고객들의 B컷, 즉 숨기고 싶어 삭제 했던 데이터까지 복구해서 협박하며 돈을 뜯어낸다. 어느 날, 한때 최고의 여배우였던 ‘민영’은 ‘승현’에게 망가진 핸드폰 수리를 맡기고, 그 폰 안에서 찾아낸 ‘민영’의 B컷에는 그의 남편이자 유력한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F24%2FiMBC%2F20220324172551000lzcq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[TV조선, 28일 美아카데미 생중계..'韓 최초 수상자' 윤여정 참석[공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220324181929034</link>
             <guid>https://movie.v.daum.net/v/20220324181929034</guid>
             <pubDate>Thu, 24 Mar 2022 10:21:43 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자] TV CHOSUN이 오는&nbsp;28일 제94회 미국 아카데미 시상식을 생중계 한다. TV조선은 24일 보도자료를 통해 "한국 시간으로 28일 오전&nbsp;8시&nbsp;50분에 미국 최고 권위의 영화 시상식인 아카데미&nbsp;시상식을 독점 생중계한다"고 밝혔다. TV조선은 지난 2019년 열린 제91회부터 올해까지 4년 연속으로 아카데미&nbsp;시상식을 독점 생중]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F24%2Fpoctan%2F20220324181930580qecu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[애프터스크리닝] 김동완을 비롯한 모든 배우들의 파격 변신, 청소년관람불가  'B컷' ★★☆ (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220324172549163</link>
+            <guid>https://movie.v.daum.net/v/20220324172549163</guid>
+            <pubDate>Thu, 24 Mar 2022 09:19:33 GMT</pubDate>
+            <content:encoded><![CDATA[▶ 줄거리 대선후보의 B컷을 둘러싼 충격 스캔들이 펼쳐진다. 스마트폰 수리 및 데이터 복구 업체를 운영하는 ‘승현’은 고객들의 B컷, 즉 숨기고 싶어 삭제 했던 데이터까지 복구해서 협박하며 돈을 뜯어낸다. 어느 날, 한때 최고의 여배우였던 ‘민영’은 ‘승현’에게 망가진 핸드폰 수리를 맡기고, 그 폰 안에서 찾아낸 ‘민영’의 B컷에는 그의 남편이자 유력한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F24%2FiMBC%2F20220324172551000lzcq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['봄날' 손현주, 철부지 형님으로 변신..인생캐 예고 (다음영화 뉴스 ─ 인기)]]></title>
@@ -1467,7 +1467,7 @@
             <link>https://tv.naver.com/v/25834036</link>
             <guid>https://tv.naver.com/v/25834036</guid>
             <pubDate>Thu, 24 Mar 2022 10:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220324_39/Igbhp_1648113954016aO80d_JPEG/b6aaf3b4-ab51-11ec-89d7-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1475,7 +1475,7 @@
             <link>https://tv.naver.com/v/25831333</link>
             <guid>https://tv.naver.com/v/25831333</guid>
             <pubDate>Thu, 24 Mar 2022 08:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220324_188/Sv0RD_164810834787623d0s_JPEG/40a29fb2-ab47-11ec-8527-505dac8c38f5_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1483,7 +1483,7 @@
             <link>https://tv.naver.com/v/25831220</link>
             <guid>https://tv.naver.com/v/25831220</guid>
             <pubDate>Thu, 24 Mar 2022 08:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220324_17/NWHdp_1648108123532hFEqS_JPEG/b4a671db-ab46-11ec-9c28-d4f5ef58ac88_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1491,7 +1491,7 @@
             <link>https://tv.naver.com/v/25831059</link>
             <guid>https://tv.naver.com/v/25831059</guid>
             <pubDate>Thu, 24 Mar 2022 08:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220324_186/FtVrd_1648107806851rnVYO_JPEG/e85a2e10-ab45-11ec-9e39-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1507,7 +1507,7 @@
             <link>https://tv.naver.com/v/25829985</link>
             <guid>https://tv.naver.com/v/25829985</guid>
             <pubDate>Thu, 24 Mar 2022 07:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220324_241/XRYbR_1648105582188LhBrY_PNG/1648105559638.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -1515,7 +1515,7 @@
             <link>https://tv.naver.com/v/25828694</link>
             <guid>https://tv.naver.com/v/25828694</guid>
             <pubDate>Thu, 24 Mar 2022 06:25:01 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220324_70/z5a4T_1648102795586GicS6_JPEG/2c2aadf6-ab3a-11ec-ad5e-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1523,7 +1523,7 @@
             <link>https://tv.naver.com/v/25828544</link>
             <guid>https://tv.naver.com/v/25828544</guid>
             <pubDate>Thu, 24 Mar 2022 06:25:01 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220324_201/3mSYg_1648102328387jFqaX_JPEG/458b2dc4-ab38-11ec-bc38-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1531,7 +1531,7 @@
             <link>https://tv.naver.com/v/25827937</link>
             <guid>https://tv.naver.com/v/25827937</guid>
             <pubDate>Thu, 24 Mar 2022 06:25:01 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220324_105/Nj7cc_1648100815857GidIM_JPEG/a9be9a82-ab35-11ec-aa4b-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
