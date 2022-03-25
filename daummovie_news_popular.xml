@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 10:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 11:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,14 +32,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fohmynews%2F20220325145701546ysmz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[더보기] '모비우스'부터 '신비한 동물'까지..처참한 극장가 펜데믹 종식시킬까]]></title>
-            <link>https://movie.v.daum.net/v/20220325083133020</link>
-            <guid>https://movie.v.daum.net/v/20220325083133020</guid>
-            <pubDate>Fri, 25 Mar 2022 01:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[박스오피스 1위 영화의 일일 관객 수가 만 명을 넘지 못했다. 코로나19 여파로 관객 수가 줄었다고 하지만 심각한 수준이다. 그러나 개봉을 미뤘던 할리우드 대작들이 잇따라 나올 준비를 마쳤다. 마블 히어로물부터 코미디 어드벤처물, 시리즈 판타지물, 액션 블록버스터까지 다채로운 대작들이 극장가에 단비가 될 수 있을지 주목된다. #상상력을 자극하는 힘 ‘]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Filgansports%2F20220325083135036ebyb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[세월 뛰어넘은 수사 공조, 일본 버전 '시그널'의 매력]]></title>
             <link>https://movie.v.daum.net/v/20220325145100365</link>
             <guid>https://movie.v.daum.net/v/20220325145100365</guid>
@@ -48,12 +40,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fohmynews%2F20220325145101446clhw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['앵커' 천우희가 직접 받는 제보 전화 개설]]></title>
-            <link>https://movie.v.daum.net/v/20220325111906915</link>
-            <guid>https://movie.v.daum.net/v/20220325111906915</guid>
-            <pubDate>Fri, 25 Mar 2022 04:25:49 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] 미스터리 스릴러 '앵커'&nbsp;천우희가 직접 받는 제보 전화를 개설했다. 방송국 간판 앵커 세라에게 누군가 자신을 죽일 것이라며 직접 취재해 달라는 제보 전화가 걸려온 후 그녀에게 벌어지는 기묘한 일을 그린 미스터리 스릴러 '앵커'(감독 정지연,&nbsp;제공배급 에이스메이커무비웍스, 제작 인사이트필름 어바웃필름, 공동제작 디씨지플러스)가 주]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fpoctan%2F20220325111906608sfzy.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[더보기] '모비우스'부터 '신비한 동물'까지..처참한 극장가 펜데믹 종식시킬까]]></title>
+            <link>https://movie.v.daum.net/v/20220325083133020</link>
+            <guid>https://movie.v.daum.net/v/20220325083133020</guid>
+            <pubDate>Fri, 25 Mar 2022 01:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[박스오피스 1위 영화의 일일 관객 수가 만 명을 넘지 못했다. 코로나19 여파로 관객 수가 줄었다고 하지만 심각한 수준이다. 그러나 개봉을 미뤘던 할리우드 대작들이 잇따라 나올 준비를 마쳤다. 마블 히어로물부터 코미디 어드벤처물, 시리즈 판타지물, 액션 블록버스터까지 다채로운 대작들이 극장가에 단비가 될 수 있을지 주목된다. #상상력을 자극하는 힘 ‘]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Filgansports%2F20220325083135036ebyb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['파친코'에 재뿌린 진하, 韓활동 시작부터 드러난 몰카→성희롱 파문(종합)[Oh!쎈 초점]]]></title>
+            <link>https://movie.v.daum.net/v/20220325182508203</link>
+            <guid>https://movie.v.daum.net/v/20220325182508203</guid>
+            <pubDate>Fri, 25 Mar 2022 10:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;애플TV+ 드라마 ‘파친코’에 출연한 한국계 미국인 배우 진하가 12년 전 몰카 및 성희롱을 했던 것으로 드러나 파문을 몰고 올 것으로 예상된다. 그는 2010년부터 올해까지 자신의 개인 SNS 채널에 몰래 촬영했던 사진을 유지해왔던 것으로 알려졌다. 무엇보다 오늘(25일) 드라마 ‘파친코’ 국내 첫 공개를 앞두고 이같은 이력이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fpoctan%2F20220325182508671jumo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[단독] 에스파 윈터·닝닝, 이병헌 주연 '우리들의 블루스'로 첫 OST 참여]]></title>
@@ -72,12 +72,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fnewsen%2F20220325161830337etap.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['파친코'에 재뿌린 진하, 韓활동 시작부터 드러난 몰카→성희롱 파문(종합)[Oh!쎈 초점]]]></title>
-            <link>https://movie.v.daum.net/v/20220325182508203</link>
-            <guid>https://movie.v.daum.net/v/20220325182508203</guid>
+            <title><![CDATA['앵커' 천우희가 직접 받는 제보 전화 개설]]></title>
+            <link>https://movie.v.daum.net/v/20220325111906915</link>
+            <guid>https://movie.v.daum.net/v/20220325111906915</guid>
+            <pubDate>Fri, 25 Mar 2022 04:25:49 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자] 미스터리 스릴러 '앵커'&nbsp;천우희가 직접 받는 제보 전화를 개설했다. 방송국 간판 앵커 세라에게 누군가 자신을 죽일 것이라며 직접 취재해 달라는 제보 전화가 걸려온 후 그녀에게 벌어지는 기묘한 일을 그린 미스터리 스릴러 '앵커'(감독 정지연,&nbsp;제공배급 에이스메이커무비웍스, 제작 인사이트필름 어바웃필름, 공동제작 디씨지플러스)가 주]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fpoctan%2F20220325111906608sfzy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['고양이들의 아파트', 도시 속 길고양이 일상 담았다]]></title>
+            <link>https://movie.v.daum.net/v/20220325171455646</link>
+            <guid>https://movie.v.daum.net/v/20220325171455646</guid>
             <pubDate>Fri, 25 Mar 2022 10:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;애플TV+ 드라마 ‘파친코’에 출연한 한국계 미국인 배우 진하가 12년 전 몰카 및 성희롱을 했던 것으로 드러나 파문을 몰고 올 것으로 예상된다. 그는 2010년부터 올해까지 자신의 개인 SNS 채널에 몰래 촬영했던 사진을 유지해왔던 것으로 알려졌다. 무엇보다 오늘(25일) 드라마 ‘파친코’ 국내 첫 공개를 앞두고 이같은 이력이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fpoctan%2F20220325182508671jumo.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;아파트 생태계를 통해 생태, 동물권, 환경 등의 주제를 폭넓게 사유하는 고양이 이주 프로젝트 '고양이들의 아파트'가 정재은 감독이 밝힌 프로덕션 비하인드를 공개해 눈길을 모은다. '고양이들의 아파트'(감독 정재은, 제작 영화사 못, 배급 엣나인필름 메타플레이)는 고양이를 통해 보다 차별화된 접근과 주제의식으로 도시 생태 문제를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fpoctan%2F20220325171455180equq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[사진 유출범이 정의의 기사? 이해 못할 이 영화의 선택]]></title>
@@ -96,12 +104,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fsportsdonga%2F20220325085837856qlvv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['고양이들의 아파트', 도시 속 길고양이 일상 담았다]]></title>
-            <link>https://movie.v.daum.net/v/20220325171455646</link>
-            <guid>https://movie.v.daum.net/v/20220325171455646</guid>
-            <pubDate>Fri, 25 Mar 2022 10:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;아파트 생태계를 통해 생태, 동물권, 환경 등의 주제를 폭넓게 사유하는 고양이 이주 프로젝트 '고양이들의 아파트'가 정재은 감독이 밝힌 프로덕션 비하인드를 공개해 눈길을 모은다. '고양이들의 아파트'(감독 정재은, 제작 영화사 못, 배급 엣나인필름 메타플레이)는 고양이를 통해 보다 차별화된 접근과 주제의식으로 도시 생태 문제를]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fpoctan%2F20220325171455180equq.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[13년 콜트콜텍 투쟁.. '언니'라 불린 이 남자]]></title>
+            <link>https://movie.v.daum.net/v/20220325115100087</link>
+            <guid>https://movie.v.daum.net/v/20220325115100087</guid>
+            <pubDate>Fri, 25 Mar 2022 04:25:49 GMT</pubDate>
+            <content:encoded><![CDATA[[이선필 기자] ▲ &nbsp;다큐멘터리 영화 &lt;재춘 언니&gt; 관련 사진.    ⓒ 시네마달  "정권이 바뀌어도 노동자 문제는 늘 변하지 않았습니다. 사람들이 자기 일이라고 생각하지 않기 때문입니다. 우리 땐 부당해고, 요즘은 비정규직 싸움입니다. 자식과 조카, 가족을 위해서라도 싸워야 합니다. 부딪히면 언젠가는 들어준다고 믿습니다." (임재춘씨) 콜트]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fohmynews%2F20220325115100482favn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["춘희씨, 손에 꽃이 피었네요"..'태어나길 잘했어' 메인 예고편 공개]]></title>
@@ -120,28 +128,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fsportskhan%2F20220325072204136czcw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[13년 콜트콜텍 투쟁.. '언니'라 불린 이 남자]]></title>
-            <link>https://movie.v.daum.net/v/20220325115100087</link>
-            <guid>https://movie.v.daum.net/v/20220325115100087</guid>
-            <pubDate>Fri, 25 Mar 2022 04:25:49 GMT</pubDate>
-            <content:encoded><![CDATA[[이선필 기자] ▲ &nbsp;다큐멘터리 영화 &lt;재춘 언니&gt; 관련 사진.    ⓒ 시네마달  "정권이 바뀌어도 노동자 문제는 늘 변하지 않았습니다. 사람들이 자기 일이라고 생각하지 않기 때문입니다. 우리 땐 부당해고, 요즘은 비정규직 싸움입니다. 자식과 조카, 가족을 위해서라도 싸워야 합니다. 부딪히면 언젠가는 들어준다고 믿습니다." (임재춘씨) 콜트]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fohmynews%2F20220325115100482favn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[비장의 무비] '설명'하지 않고 '체험'하게 한다]]></title>
             <link>https://movie.v.daum.net/v/20220325055704848</link>
             <guid>https://movie.v.daum.net/v/20220325055704848</guid>
             <pubDate>Fri, 25 Mar 2022 01:20:03 GMT</pubDate>
             <content:encoded><![CDATA[친구들과 클럽에 간다. 춤을 추고 웃고 떠든다. 캠퍼스 잔디에서 햇볕을 쬔다. 곧 보게 될 시험 걱정을 한다. 기숙사 방에 들어와 옷을 갈아입는다. 슬쩍, 속옷 안쪽을 확인한다. 일기장에 쓴다. “4월29일. 없음. 오늘도 또.” 얕은 한숨을 내뱉는 안(아나마리아 바르톨로메이). 스물세 살 말간 얼굴 위로 새겨지는 창백한 자막. “3주 차.” 4주 차,]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fsisain%2F20220325055705731kslt.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['로스트 시티' 산드라 블록을 구하라..브래드 피트 대반전]]></title>
-            <link>https://movie.v.daum.net/v/20220324140340899</link>
-            <guid>https://movie.v.daum.net/v/20220324140340899</guid>
-            <pubDate>Thu, 24 Mar 2022 06:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;버라이어티 어드벤처 '로스트 시티'가 보도스틸을 공개했다. '로스트 시티'(감독 아론 니 애덤 니, 수입배급 롯데엔터테인먼트)는 전설의 트레저에 관한 유일한 단서를 알고 있는 베스트셀러 작가 로레타(산드라 블록)가 위험천만한 섬으로 납치당하면서 그녀를 구하기 위한 이들의 예측불허 탈출작전을 그린 버라이어티 어드벤처. 올 봄 극장]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F24%2Fpoctan%2F20220324140340150owdf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['뜨거운 피' 정우의 성장통 [인터뷰]]]></title>
@@ -158,6 +150,14 @@
             <pubDate>Fri, 25 Mar 2022 07:18:50 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠경향] OTT플랫폼 애플tv+ 새 시리즈 ‘파친코’가 난데없이 주연 진하에게 발목을 잡혔다. 25일 첫 공개되는 날 진하가 한국 할머니들을 불법촬영하고 블로그에 사진 게재, 성희롱 발언을 한 정황 등 과거 전력에 대한 의혹이 제기돼 도마 위에 올랐다. 국내외서 웰메이드 시리즈로 호평받으며 드디어 전세계 유저들에게 공개되는 첫날, 날벼락을 맞은 셈]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fsportskhan%2F20220325154506318cmhy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['로스트 시티' 산드라 블록을 구하라..브래드 피트 대반전]]></title>
+            <link>https://movie.v.daum.net/v/20220324140340899</link>
+            <guid>https://movie.v.daum.net/v/20220324140340899</guid>
+            <pubDate>Thu, 24 Mar 2022 06:24:26 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;버라이어티 어드벤처 '로스트 시티'가 보도스틸을 공개했다. '로스트 시티'(감독 아론 니 애덤 니, 수입배급 롯데엔터테인먼트)는 전설의 트레저에 관한 유일한 단서를 알고 있는 베스트셀러 작가 로레타(산드라 블록)가 위험천만한 섬으로 납치당하면서 그녀를 구하기 위한 이들의 예측불허 탈출작전을 그린 버라이어티 어드벤처. 올 봄 극장]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F24%2Fpoctan%2F20220324140340150owdf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['파친코' 진하 '엽기논란' 극복할수있나[스경연예연구소]]]></title>
