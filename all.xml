@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 11:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 13:05:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -247,20 +247,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa44461b8b66480bfed5a5c458ee63f964c6794b4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[유어 러브 송 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138924</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138924</guid>
-            <pubDate>Wed, 23 Mar 2022 09:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F96a9baeced0424f6271b699e009e0d52dd166922" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[리디밍 러브 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154879</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154879</guid>
             <pubDate>Tue, 15 Mar 2022 23:19:43 GMT</pubDate>
             <content:encoded><![CDATA[22.03.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fccbb20ebcbd54b9d461962f7af826bde5122b805" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[유어 러브 송 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138924</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138924</guid>
+            <pubDate>Wed, 23 Mar 2022 09:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F96a9baeced0424f6271b699e009e0d52dd166922" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[뱅드림! 팝핀‘ 드림! (다음영화 영화관 ─ 현재상영)]]></title>
@@ -511,20 +511,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2F10asia%2F20220325155804990rbyf.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA[고마츠 나나 주연 '달빛 그림자' 4월 27일 개봉 확정 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220325092612479</link>
-            <guid>https://movie.v.daum.net/v/20220325092612479</guid>
-            <pubDate>Fri, 25 Mar 2022 04:25:49 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 고마츠 나나 주연 ‘달빛 그림자’ 4월 27일 개봉 확정 고마츠 나나 주연의 가슴 저미는 러브 스토리 ‘달빛 그림자’가 4월 27일 개봉을 확정하며, 애틋한 감동을 예고하는 메인 포스터를 공개했다. 2022년 4월 27일 국내개봉을 확정한 ‘달빛 그림자’가 관객들의 감성을 자극하는 메인 포스터를 공개했다. 영화 ‘달빛 그림자’는 어느날 갑자기]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fsportsdonga%2F20220325092614917aalr.jpg" length="0" type="image//thumb/S732x228/"/>
-        </item>
-        <item>
-            <title><![CDATA[9살 소년의 눈으로 본 종교갈등.. 이 영화의 진솔함 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220325145700502</link>
-            <guid>https://movie.v.daum.net/v/20220325145700502</guid>
-            <pubDate>Fri, 25 Mar 2022 08:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[[원종빈 기자] ▲ &nbsp;영화 &lt;벨파스트&gt; 포스터    ⓒ 유니버설 픽쳐스  *주의! 이 기사에는 영화의 스포일러가 포함돼 있습니다. 1969년의 벨파스트. 날이 좋으면&nbsp;골목에서 함께 춤추며 놀고,&nbsp;해 질 녘엔 가족들이 다 함께 모여&nbsp;저녁을 먹으며, 거리의 모두가 서로의 가족을 알고 아끼며 지내던 도시. 어느 날, 종교를 이유로 폭력 사건과 격렬]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fohmynews%2F20220325145701546ysmz.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['파친코'에 재뿌린 진하, 韓활동 시작부터 드러난 몰카→성희롱 파문(종합)[Oh!쎈 초점] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220325182508203</link>
+            <guid>https://movie.v.daum.net/v/20220325182508203</guid>
+            <pubDate>Fri, 25 Mar 2022 10:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;애플TV+ 드라마 ‘파친코’에 출연한 한국계 미국인 배우 진하가 12년 전 몰카 및 성희롱을 했던 것으로 드러나 파문을 몰고 올 것으로 예상된다. 그는 2010년부터 올해까지 자신의 개인 SNS 채널에 몰래 촬영했던 사진을 유지해왔던 것으로 알려졌다. 무엇보다 오늘(25일) 드라마 ‘파친코’ 국내 첫 공개를 앞두고 이같은 이력이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fpoctan%2F20220325182508671jumo.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
             <title><![CDATA[세월 뛰어넘은 수사 공조, 일본 버전 '시그널'의 매력 (다음영화 뉴스 ─ 인기)]]></title>
@@ -535,44 +527,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fohmynews%2F20220325145101446clhw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[더보기] '모비우스'부터 '신비한 동물'까지..처참한 극장가 펜데믹 종식시킬까 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220325083133020</link>
-            <guid>https://movie.v.daum.net/v/20220325083133020</guid>
-            <pubDate>Fri, 25 Mar 2022 01:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[박스오피스 1위 영화의 일일 관객 수가 만 명을 넘지 못했다. 코로나19 여파로 관객 수가 줄었다고 하지만 심각한 수준이다. 그러나 개봉을 미뤘던 할리우드 대작들이 잇따라 나올 준비를 마쳤다. 마블 히어로물부터 코미디 어드벤처물, 시리즈 판타지물, 액션 블록버스터까지 다채로운 대작들이 극장가에 단비가 될 수 있을지 주목된다. #상상력을 자극하는 힘 ‘]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Filgansports%2F20220325083135036ebyb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['파친코'에 재뿌린 진하, 韓활동 시작부터 드러난 몰카→성희롱 파문(종합)[Oh!쎈 초점] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220325182508203</link>
-            <guid>https://movie.v.daum.net/v/20220325182508203</guid>
-            <pubDate>Fri, 25 Mar 2022 10:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;애플TV+ 드라마 ‘파친코’에 출연한 한국계 미국인 배우 진하가 12년 전 몰카 및 성희롱을 했던 것으로 드러나 파문을 몰고 올 것으로 예상된다. 그는 2010년부터 올해까지 자신의 개인 SNS 채널에 몰래 촬영했던 사진을 유지해왔던 것으로 알려졌다. 무엇보다 오늘(25일) 드라마 ‘파친코’ 국내 첫 공개를 앞두고 이같은 이력이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fpoctan%2F20220325182508671jumo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 에스파 윈터·닝닝, 이병헌 주연 '우리들의 블루스'로 첫 OST 참여 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220325105852662</link>
-            <guid>https://movie.v.daum.net/v/20220325105852662</guid>
-            <pubDate>Fri, 25 Mar 2022 03:24:12 GMT</pubDate>
-            <content:encoded><![CDATA[에스파의 윈터와 닝닝이 tvN 새 토일드라마 '우리들의 블루스' OST를 부른다. 25일 방송관계자에 따르면 에스파 윈터와 닝닝이 '우리들의 블루스' 가창자로 참여한다. 에스파 멤버들이 OST에 참여한 건 이번이 처음이다. '우리들의 블루스'는 삶의 끝자락, 절정 혹은 시작에 서 있는 모든 사람들의 달고도 쓴 인생을 응원하는 드라마다. 이병헌, 신민아, 차]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fdailian%2F20220325105858911cnuc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]김다미-이종석 '마녀2' 6월에 온다 상반기 최고 화제작 예약 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220325161830743</link>
-            <guid>https://movie.v.daum.net/v/20220325161830743</guid>
+            <title><![CDATA[9살 소년의 눈으로 본 종교갈등.. 이 영화의 진솔함 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220325145700502</link>
+            <guid>https://movie.v.daum.net/v/20220325145700502</guid>
             <pubDate>Fri, 25 Mar 2022 08:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] 개봉 일자를 두고 보도 해프닝이 일 만큼 이 영화 올해 최고 화제작 가운데 하나임은 분명한 것 같다. 제목 자체가 장르가 된 ‘마녀’ 후속작 ‘마녀:The Other One’이 6월 개봉된다. 김다미를 발굴, 단박에 스타덤에 올리기도 한 ‘마녀’는 이로서 여름 극장가 대목의 포문을 여는 ‘상반기 대표 한국 영화’로 자리잡게 됐다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fnewsen%2F20220325161830337etap.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[원종빈 기자] ▲ &nbsp;영화 &lt;벨파스트&gt; 포스터    ⓒ 유니버설 픽쳐스  *주의! 이 기사에는 영화의 스포일러가 포함돼 있습니다. 1969년의 벨파스트. 날이 좋으면&nbsp;골목에서 함께 춤추며 놀고,&nbsp;해 질 녘엔 가족들이 다 함께 모여&nbsp;저녁을 먹으며, 거리의 모두가 서로의 가족을 알고 아끼며 지내던 도시. 어느 날, 종교를 이유로 폭력 사건과 격렬]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fohmynews%2F20220325145701546ysmz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['앵커' 천우희가 직접 받는 제보 전화 개설 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220325111906915</link>
-            <guid>https://movie.v.daum.net/v/20220325111906915</guid>
+            <title><![CDATA[고마츠 나나 주연 '달빛 그림자' 4월 27일 개봉 확정 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220325092612479</link>
+            <guid>https://movie.v.daum.net/v/20220325092612479</guid>
             <pubDate>Fri, 25 Mar 2022 04:25:49 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] 미스터리 스릴러 '앵커'&nbsp;천우희가 직접 받는 제보 전화를 개설했다. 방송국 간판 앵커 세라에게 누군가 자신을 죽일 것이라며 직접 취재해 달라는 제보 전화가 걸려온 후 그녀에게 벌어지는 기묘한 일을 그린 미스터리 스릴러 '앵커'(감독 정지연,&nbsp;제공배급 에이스메이커무비웍스, 제작 인사이트필름 어바웃필름, 공동제작 디씨지플러스)가 주]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fpoctan%2F20220325111906608sfzy.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[동아닷컴] 고마츠 나나 주연 ‘달빛 그림자’ 4월 27일 개봉 확정 고마츠 나나 주연의 가슴 저미는 러브 스토리 ‘달빛 그림자’가 4월 27일 개봉을 확정하며, 애틋한 감동을 예고하는 메인 포스터를 공개했다. 2022년 4월 27일 국내개봉을 확정한 ‘달빛 그림자’가 관객들의 감성을 자극하는 메인 포스터를 공개했다. 영화 ‘달빛 그림자’는 어느날 갑자기]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fsportsdonga%2F20220325092614917aalr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['고양이들의 아파트', 도시 속 길고양이 일상 담았다 (다음영화 뉴스 ─ 인기)]]></title>
@@ -591,6 +559,38 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fohmynews%2F20220325163305369jrfl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[더보기] '모비우스'부터 '신비한 동물'까지..처참한 극장가 펜데믹 종식시킬까 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220325083133020</link>
+            <guid>https://movie.v.daum.net/v/20220325083133020</guid>
+            <pubDate>Fri, 25 Mar 2022 01:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[박스오피스 1위 영화의 일일 관객 수가 만 명을 넘지 못했다. 코로나19 여파로 관객 수가 줄었다고 하지만 심각한 수준이다. 그러나 개봉을 미뤘던 할리우드 대작들이 잇따라 나올 준비를 마쳤다. 마블 히어로물부터 코미디 어드벤처물, 시리즈 판타지물, 액션 블록버스터까지 다채로운 대작들이 극장가에 단비가 될 수 있을지 주목된다. #상상력을 자극하는 힘 ‘]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Filgansports%2F20220325083135036ebyb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독]김다미-이종석 '마녀2' 6월에 온다 상반기 최고 화제작 예약 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220325161830743</link>
+            <guid>https://movie.v.daum.net/v/20220325161830743</guid>
+            <pubDate>Fri, 25 Mar 2022 08:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] 개봉 일자를 두고 보도 해프닝이 일 만큼 이 영화 올해 최고 화제작 가운데 하나임은 분명한 것 같다. 제목 자체가 장르가 된 ‘마녀’ 후속작 ‘마녀:The Other One’이 6월 개봉된다. 김다미를 발굴, 단박에 스타덤에 올리기도 한 ‘마녀’는 이로서 여름 극장가 대목의 포문을 여는 ‘상반기 대표 한국 영화’로 자리잡게 됐다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fnewsen%2F20220325161830337etap.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독] 에스파 윈터·닝닝, 이병헌 주연 '우리들의 블루스'로 첫 OST 참여 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220325105852662</link>
+            <guid>https://movie.v.daum.net/v/20220325105852662</guid>
+            <pubDate>Fri, 25 Mar 2022 03:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[에스파의 윈터와 닝닝이 tvN 새 토일드라마 '우리들의 블루스' OST를 부른다. 25일 방송관계자에 따르면 에스파 윈터와 닝닝이 '우리들의 블루스' 가창자로 참여한다. 에스파 멤버들이 OST에 참여한 건 이번이 처음이다. '우리들의 블루스'는 삶의 끝자락, 절정 혹은 시작에 서 있는 모든 사람들의 달고도 쓴 인생을 응원하는 드라마다. 이병헌, 신민아, 차]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fdailian%2F20220325105858911cnuc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['앵커' 천우희가 직접 받는 제보 전화 개설 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220325111906915</link>
+            <guid>https://movie.v.daum.net/v/20220325111906915</guid>
+            <pubDate>Fri, 25 Mar 2022 04:25:49 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자] 미스터리 스릴러 '앵커'&nbsp;천우희가 직접 받는 제보 전화를 개설했다. 방송국 간판 앵커 세라에게 누군가 자신을 죽일 것이라며 직접 취재해 달라는 제보 전화가 걸려온 후 그녀에게 벌어지는 기묘한 일을 그린 미스터리 스릴러 '앵커'(감독 정지연,&nbsp;제공배급 에이스메이커무비웍스, 제작 인사이트필름 어바웃필름, 공동제작 디씨지플러스)가 주]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fpoctan%2F20220325111906608sfzy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[베네딕트 컴버배치의 '루이스 웨인:사랑을 그린 고양이 화가' 스페셜 도슨트 영상 공개 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220325085836566</link>
             <guid>https://movie.v.daum.net/v/20220325085836566</guid>
@@ -607,20 +607,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fohmynews%2F20220325115100482favn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["춘희씨, 손에 꽃이 피었네요"..'태어나길 잘했어' 메인 예고편 공개 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220324175717321</link>
-            <guid>https://movie.v.daum.net/v/20220324175717321</guid>
-            <pubDate>Fri, 25 Mar 2022 01:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 황혜정 인턴기자] 봄처럼 따뜻한 성장담을 그린 영화 ‘태어나길 잘했어’가 메인 예고편을 공개했다. 영화는 손에 땀 마를 날 없는 ‘다한증’ 때문에 외로움과 부끄러움이 전부가 되어버린 ‘춘희’가 새로운 인연들을 만나면서 벌어지는 사랑스러운 성장담이다. 공개된 메인 예고편에는 주인공 ‘춘희’가 경쾌한 리듬으로 마늘을 까고 있다]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F24%2FSPORTSSEOUL%2F20220324175721748rcmo.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['뜨거운 피' 정우의 성장통 [인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220325143232836</link>
+            <guid>https://movie.v.daum.net/v/20220325143232836</guid>
+            <pubDate>Fri, 25 Mar 2022 10:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 최혜진 기자] 성장통은 점점 자라며 생기는 고통을 뜻한다. 배우 정우의 연기가 이러한 성장통을 겪었다. 크고 깊어지는 감정 연기를 표현함에 따라 큰 고통과 무게를 감내해야 했다. 그러나 그 결과는 값지다. 한층 성숙해진 모습으로 관객들 앞에 선 정우다. 정우는 2001년 영화 '7인의 새벽'으로 데뷔해 '바람' '스페어' '이웃사촌', 드라]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fsportstoday%2F20220325143233532xncv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['B컷'만 찍고 앉았네[편파적인 씨네리뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220325072202936</link>
-            <guid>https://movie.v.daum.net/v/20220325072202936</guid>
-            <pubDate>Fri, 25 Mar 2022 01:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] ■편파적인 한줄평 : 쓸만한 것 좀 줘! 영화도 제목 따라 간다더니 영화 ‘B컷’(감독 김지영)이 딱 그 짝이다. ‘B컷’은 탐정까기로 한탕을 꿈꾸던 스마트폰 사설수리업자 승현(김동완)이 유력 대선후보의 비밀이 담긴 휴대전화를 손에 넣으면서 벌어지는 범죄물이다. 김동완의 첫 범죄물로 전세현, 김병옥 등과 합을 맞춘다. 과하고 개연]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fsportskhan%2F20220325072204136czcw.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['파친코' 진하 '엽기논란' 극복할수있나[스경연예연구소] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220325173823312</link>
+            <guid>https://movie.v.daum.net/v/20220325173823312</guid>
+            <pubDate>Fri, 25 Mar 2022 10:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 애플 오리지널 드라마 ‘파친코’가 주연급 배우의 논란으로 인해 시작부터 악재를 맞이했다. 한국과 일본, 미국을 오가며 세대와 국가를 넘는 재일조선인 이민 가족의 연대기를 그린 ‘파친코’는 25일 1~3회분을 공개하며 공개를 공식적으로 알렸다. 재미교포 이민진 작가가 쓴 동명의 베스트셀러 소설을 원작으로 한 ‘파친코’는 공개 전부터 기대]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fsportskhan%2F20220325173824419krlg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[비장의 무비] '설명'하지 않고 '체험'하게 한다 (다음영화 뉴스 ─ 인기)]]></title>
@@ -631,20 +631,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fsisain%2F20220325055705731kslt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['뜨거운 피' 정우의 성장통 [인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220325143232836</link>
-            <guid>https://movie.v.daum.net/v/20220325143232836</guid>
-            <pubDate>Fri, 25 Mar 2022 10:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 최혜진 기자] 성장통은 점점 자라며 생기는 고통을 뜻한다. 배우 정우의 연기가 이러한 성장통을 겪었다. 크고 깊어지는 감정 연기를 표현함에 따라 큰 고통과 무게를 감내해야 했다. 그러나 그 결과는 값지다. 한층 성숙해진 모습으로 관객들 앞에 선 정우다. 정우는 2001년 영화 '7인의 새벽'으로 데뷔해 '바람' '스페어' '이웃사촌', 드라]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fsportstoday%2F20220325143233532xncv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[진하, 잘 빠진 '파친코'에 재뿌리기?[스경연예연구소] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220325154505101</link>
             <guid>https://movie.v.daum.net/v/20220325154505101</guid>
             <pubDate>Fri, 25 Mar 2022 07:18:50 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠경향] OTT플랫폼 애플tv+ 새 시리즈 ‘파친코’가 난데없이 주연 진하에게 발목을 잡혔다. 25일 첫 공개되는 날 진하가 한국 할머니들을 불법촬영하고 블로그에 사진 게재, 성희롱 발언을 한 정황 등 과거 전력에 대한 의혹이 제기돼 도마 위에 올랐다. 국내외서 웰메이드 시리즈로 호평받으며 드디어 전세계 유저들에게 공개되는 첫날, 날벼락을 맞은 셈]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fsportskhan%2F20220325154506318cmhy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['B컷'만 찍고 앉았네[편파적인 씨네리뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220325072202936</link>
+            <guid>https://movie.v.daum.net/v/20220325072202936</guid>
+            <pubDate>Fri, 25 Mar 2022 01:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] ■편파적인 한줄평 : 쓸만한 것 좀 줘! 영화도 제목 따라 간다더니 영화 ‘B컷’(감독 김지영)이 딱 그 짝이다. ‘B컷’은 탐정까기로 한탕을 꿈꾸던 스마트폰 사설수리업자 승현(김동완)이 유력 대선후보의 비밀이 담긴 휴대전화를 손에 넣으면서 벌어지는 범죄물이다. 김동완의 첫 범죄물로 전세현, 김병옥 등과 합을 맞춘다. 과하고 개연]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fsportskhan%2F20220325072204136czcw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["춘희씨, 손에 꽃이 피었네요"..'태어나길 잘했어' 메인 예고편 공개 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220324175717321</link>
+            <guid>https://movie.v.daum.net/v/20220324175717321</guid>
+            <pubDate>Fri, 25 Mar 2022 01:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 황혜정 인턴기자] 봄처럼 따뜻한 성장담을 그린 영화 ‘태어나길 잘했어’가 메인 예고편을 공개했다. 영화는 손에 땀 마를 날 없는 ‘다한증’ 때문에 외로움과 부끄러움이 전부가 되어버린 ‘춘희’가 새로운 인연들을 만나면서 벌어지는 사랑스러운 성장담이다. 공개된 메인 예고편에는 주인공 ‘춘희’가 경쾌한 리듬으로 마늘을 까고 있다]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F24%2FSPORTSSEOUL%2F20220324175721748rcmo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['로스트 시티' 산드라 블록을 구하라..브래드 피트 대반전 (다음영화 뉴스 ─ 인기)]]></title>
@@ -655,12 +663,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F24%2Fpoctan%2F20220324140340150owdf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['파친코' 진하 '엽기논란' 극복할수있나[스경연예연구소] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220325173823312</link>
-            <guid>https://movie.v.daum.net/v/20220325173823312</guid>
-            <pubDate>Fri, 25 Mar 2022 10:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 애플 오리지널 드라마 ‘파친코’가 주연급 배우의 논란으로 인해 시작부터 악재를 맞이했다. 한국과 일본, 미국을 오가며 세대와 국가를 넘는 재일조선인 이민 가족의 연대기를 그린 ‘파친코’는 25일 1~3회분을 공개하며 공개를 공식적으로 알렸다. 재미교포 이민진 작가가 쓴 동명의 베스트셀러 소설을 원작으로 한 ‘파친코’는 공개 전부터 기대]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fsportskhan%2F20220325173824419krlg.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[스브수다] '끼끗하게, 위대하게' 윤여정, 직설의 대화법 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220325202103939</link>
+            <guid>https://v.daum.net/v/20220325202103939</guid>
+            <pubDate>Fri, 25 Mar 2022 13:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] "'끼끗하다'는 말 알아요? 요즘 사람들은 잘 모르던데. 저희 엄마가 항상 쓰는 말이거든요. 선자는 끼끗한 여자예요. 그 점이 마음에 들었어요" 윤여정은 자신이 연기한 캐릭터 '선자'를 "끼끗하다"는 형용사로 정리했다. 자신의 엄마 세대에서 즐겨 썼다는 그 말은 ▲ 생기가 있고 깨끗하다. ▲ 싱싱하고 길차다는 의미를 포함]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2FSBSfunE%2F20220325202104988ijpz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['파친코'에 재뿌린 진하, 韓활동 시작부터 드러난 몰카→성희롱 파문(종합)[Oh!쎈 초점] (다음영화 뉴스 ─ 최신)]]></title>
@@ -813,14 +821,6 @@
             <pubDate>Fri, 25 Mar 2022 04:25:56 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스엔 배효주 기자] 2022년 마블의 첫 번째 안티 히어로 영화 '모비우스'의 히어로 데뷔 영상이 공개됐다. 3월 30일 개봉하는 영화 '모비우스'는 희귀 혈액병을 앓는 생화학자 '모비우스'(자레드 레토)가 흡혈박쥐를 이용해 치료제를 개발하는 과정에서 세상을 구원할 힘과 파괴할 본능을 가지게 되며 벌어지는 사건을 그린 액션 블록버스터. 25일 공개된]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fnewsen%2F20220325132035283jnem.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["키아누 리브스 영화 삭제했다" 중국, 티베트 행사 참석에 뒤끝 작렬[해외이슈] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220325131154687</link>
-            <guid>https://v.daum.net/v/20220325131154687</guid>
-            <pubDate>Fri, 25 Mar 2022 04:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]중국이 티베트 행사에 참석한 키아누 리브스(57) 영화를 스트리밍 플랫폼에서 삭제했다. 버라이어티는 24일(현지시간) “중국이 티펫트 행사에 참석한 키아누 리브스 출연 영화를 텐센트, 유쿠 등 중국 스트리밍 플랫폼에서 뺐다”고 보도했다. 리브스는 이달 초 ‘제35회 티베트 하우스 자선 콘서트’에 로리 앤더슨, 패티 스미스,]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fmydaily%2F20220325131155005feam.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<브레이브 솔져스> 메인 예고편 (우리 영화 볼래?)]]></title>
@@ -1467,7 +1467,7 @@
             <link>https://tv.naver.com/v/25854088</link>
             <guid>https://tv.naver.com/v/25854088</guid>
             <pubDate>Fri, 25 Mar 2022 08:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_283/qLBD5_1648194593161Kq3ps_JPEG/15282847-ac10-11ec-8527-505dac8c38f5_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1475,7 +1475,7 @@
             <link>https://tv.naver.com/v/25852584</link>
             <guid>https://tv.naver.com/v/25852584</guid>
             <pubDate>Fri, 25 Mar 2022 07:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_129/kcamF_1648191817799Cw8Yq_JPEG/476cabbd-ac09-11ec-b1ad-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1483,7 +1483,7 @@
             <link>https://tv.naver.com/v/25851950</link>
             <guid>https://tv.naver.com/v/25851950</guid>
             <pubDate>Fri, 25 Mar 2022 07:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_146/Dqwpl_1648190601159CYUbS_JPEG/bda019ce-ac06-11ec-bc9a-505dac8c381b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1491,7 +1491,7 @@
             <link>https://tv.naver.com/v/25851510</link>
             <guid>https://tv.naver.com/v/25851510</guid>
             <pubDate>Fri, 25 Mar 2022 07:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_267/PdP0A_1648189810668IN4X9_JPEG/ebe0af8b-ac04-11ec-8c0a-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1499,7 +1499,7 @@
             <link>https://tv.naver.com/v/25851325</link>
             <guid>https://tv.naver.com/v/25851325</guid>
             <pubDate>Fri, 25 Mar 2022 07:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_210/VFbjR_1648189471372P2gf8_PNG/1648189456422.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -1507,7 +1507,7 @@
             <link>https://tv.naver.com/v/25847466</link>
             <guid>https://tv.naver.com/v/25847466</guid>
             <pubDate>Fri, 25 Mar 2022 04:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_171/2F23S_16481790033734H9er_JPEG/ace956a1-abeb-11ec-ad5e-48df37ae3fca_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1515,7 +1515,7 @@
             <link>https://tv.naver.com/v/25847258</link>
             <guid>https://tv.naver.com/v/25847258</guid>
             <pubDate>Fri, 25 Mar 2022 03:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_226/skvoR_1648178310805hSOg7_JPEG/1e23eb09-abea-11ec-8527-505dac8c38f5_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1523,7 +1523,7 @@
             <link>https://tv.naver.com/v/25846977</link>
             <guid>https://tv.naver.com/v/25846977</guid>
             <pubDate>Fri, 25 Mar 2022 03:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_86/urHfd_16481773618728bdUk_JPEG/6c94aabe-abe7-11ec-9b7b-505dac8c35ff_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1531,7 +1531,7 @@
             <link>https://tv.naver.com/v/25846448</link>
             <guid>https://tv.naver.com/v/25846448</guid>
             <pubDate>Fri, 25 Mar 2022 03:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_128/00qez_1648175975802aqWTr_JPEG/48c9560d-abe4-11ec-a7e2-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1539,7 +1539,7 @@
             <link>https://tv.naver.com/v/25846199</link>
             <guid>https://tv.naver.com/v/25846199</guid>
             <pubDate>Fri, 25 Mar 2022 03:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_175/txFcE_164817539219700zt6_JPEG/26a5478f-abe1-11ec-bc38-505dac8c37f3_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1547,7 +1547,7 @@
             <link>https://tv.naver.com/v/25845687</link>
             <guid>https://tv.naver.com/v/25845687</guid>
             <pubDate>Fri, 25 Mar 2022 03:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_43/dN35N_1648174110449YDSyW_JPEG/3f51eb86-abe0-11ec-9e39-505dac8c385b_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1555,7 +1555,7 @@
             <link>https://tv.naver.com/v/25845142</link>
             <guid>https://tv.naver.com/v/25845142</guid>
             <pubDate>Fri, 25 Mar 2022 03:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_89/cqDc0_16481727137397qBFP_JPEG/e9816a1c-abdc-11ec-b1ad-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
