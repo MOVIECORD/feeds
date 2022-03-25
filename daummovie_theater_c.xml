@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 08:24:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 10:24:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=129103</guid>
             <pubDate>Thu, 17 Mar 2022 01:16:24 GMT</pubDate>
             <content:encoded><![CDATA[22.03.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa4cd77f84e430daa5f9e4b30bd10fa8bfd53c0bd" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc7ebf07f434b69a023fac2a8287b7a0b0bc8a564" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[배니싱: 미제사건]]></title>
@@ -56,6 +56,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F736ee84e6960e8e64a898957df6c60e197eec4b0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[불도저에 탄 소녀]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153127</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153127</guid>
+            <pubDate>Wed, 23 Mar 2022 06:24:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3d93fdcc0efc92362da8b5e73eb5db83e44d6190" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[드라이]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149227</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149227</guid>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 23 Mar 2022 07:18:50 GMT</pubDate>
             <content:encoded><![CDATA[22.03]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd2aa5c2642335c7c09997b7dc75c37ed40ae0020" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[불도저에 탄 소녀]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153127</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153127</guid>
-            <pubDate>Wed, 23 Mar 2022 06:24:42 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3d93fdcc0efc92362da8b5e73eb5db83e44d6190" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[나의 집은 어디인가]]></title>
