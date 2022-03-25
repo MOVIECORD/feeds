@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 16:30:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 19:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“어린 시절 강렬한 감정 겪고도 하지 못한 말, 누구나 있죠” (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001514561</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001514561</guid>
+            <pubDate>Fri, 25 Mar 2022 19:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[영화감독 윤가은(40)은 영화 말고도 좋아하는 게 많다. 오래된 문방구에서 찾을 수 있는 옛 문구와 완구, 걷기, 일요일 아침에 하는 청소, 꽃, 생일, 노래방, 만화책, 빵, 여름, 별자리 운세, 조카…. 이렇게]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[‘2022 평택국제영화제’ 방송인 서동주 MC 선정 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000801921</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[[뉴스엔 정유진 기자] 2022년 아카데미 시상식 2개 부문 후보에 빛나는 화제작 '패러렐 마더스'가 아카데미 시상식을 앞두고 개봉 전 프리미어 상영 및 씨네 토크 이벤트를 준비해 기대를 모으고 있다. 3월 27일(]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독]김다미-이종석 ‘마녀2’ 6월에 온다 상반기 최고 화제작 예약 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000555501</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000555501</guid>
-            <pubDate>Fri, 25 Mar 2022 08:22:53 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] 개봉 일자를 두고 보도 해프닝이 일 만큼 이 영화 올해 최고 화제작 가운데 하나임은 분명한 것 같다. 제목 자체가 장르가 된 ‘마녀’ 후속작 ‘마녀:The Other One’이 6월 개봉된다.]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뜨거운 피 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=125271</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=125271</guid>
@@ -247,14 +247,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa44461b8b66480bfed5a5c458ee63f964c6794b4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[유어 러브 송 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138924</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138924</guid>
-            <pubDate>Wed, 23 Mar 2022 09:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F96a9baeced0424f6271b699e009e0d52dd166922" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[뱅드림! 팝핀‘ 드림! (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156955</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156955</guid>
@@ -269,6 +261,14 @@
             <pubDate>Tue, 15 Mar 2022 23:19:43 GMT</pubDate>
             <content:encoded><![CDATA[22.03.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fccbb20ebcbd54b9d461962f7af826bde5122b805" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[유어 러브 송 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138924</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138924</guid>
+            <pubDate>Wed, 23 Mar 2022 09:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F96a9baeced0424f6271b699e009e0d52dd166922" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[하늘의 푸르름을 아는 사람이여 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -543,14 +543,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fohmynews%2F20220325145701546ysmz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[고마츠 나나 주연 '달빛 그림자' 4월 27일 개봉 확정 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220325092612479</link>
-            <guid>https://movie.v.daum.net/v/20220325092612479</guid>
-            <pubDate>Fri, 25 Mar 2022 04:25:49 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 고마츠 나나 주연 ‘달빛 그림자’ 4월 27일 개봉 확정 고마츠 나나 주연의 가슴 저미는 러브 스토리 ‘달빛 그림자’가 4월 27일 개봉을 확정하며, 애틋한 감동을 예고하는 메인 포스터를 공개했다. 2022년 4월 27일 국내개봉을 확정한 ‘달빛 그림자’가 관객들의 감성을 자극하는 메인 포스터를 공개했다. 영화 ‘달빛 그림자’는 어느날 갑자기]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fsportsdonga%2F20220325092614917aalr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[사진 유출범이 정의의 기사? 이해 못할 이 영화의 선택 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220325163304292</link>
             <guid>https://movie.v.daum.net/v/20220325163304292</guid>
@@ -559,12 +551,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fohmynews%2F20220325163305369jrfl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[더보기] '모비우스'부터 '신비한 동물'까지..처참한 극장가 펜데믹 종식시킬까 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220325083133020</link>
-            <guid>https://movie.v.daum.net/v/20220325083133020</guid>
-            <pubDate>Fri, 25 Mar 2022 01:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[박스오피스 1위 영화의 일일 관객 수가 만 명을 넘지 못했다. 코로나19 여파로 관객 수가 줄었다고 하지만 심각한 수준이다. 그러나 개봉을 미뤘던 할리우드 대작들이 잇따라 나올 준비를 마쳤다. 마블 히어로물부터 코미디 어드벤처물, 시리즈 판타지물, 액션 블록버스터까지 다채로운 대작들이 극장가에 단비가 될 수 있을지 주목된다. #상상력을 자극하는 힘 ‘]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Filgansports%2F20220325083135036ebyb.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[고마츠 나나 주연 '달빛 그림자' 4월 27일 개봉 확정 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220325092612479</link>
+            <guid>https://movie.v.daum.net/v/20220325092612479</guid>
+            <pubDate>Fri, 25 Mar 2022 04:25:49 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 고마츠 나나 주연 ‘달빛 그림자’ 4월 27일 개봉 확정 고마츠 나나 주연의 가슴 저미는 러브 스토리 ‘달빛 그림자’가 4월 27일 개봉을 확정하며, 애틋한 감동을 예고하는 메인 포스터를 공개했다. 2022년 4월 27일 국내개봉을 확정한 ‘달빛 그림자’가 관객들의 감성을 자극하는 메인 포스터를 공개했다. 영화 ‘달빛 그림자’는 어느날 갑자기]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fsportsdonga%2F20220325092614917aalr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[단독] 에스파 윈터·닝닝, 이병헌 주연 '우리들의 블루스'로 첫 OST 참여 (다음영화 뉴스 ─ 인기)]]></title>
@@ -575,12 +567,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fdailian%2F20220325105858911cnuc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[단독]김다미-이종석 '마녀2' 6월에 온다 상반기 최고 화제작 예약 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220325161830743</link>
-            <guid>https://movie.v.daum.net/v/20220325161830743</guid>
-            <pubDate>Fri, 25 Mar 2022 08:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] 개봉 일자를 두고 보도 해프닝이 일 만큼 이 영화 올해 최고 화제작 가운데 하나임은 분명한 것 같다. 제목 자체가 장르가 된 ‘마녀’ 후속작 ‘마녀:The Other One’이 6월 개봉된다. 김다미를 발굴, 단박에 스타덤에 올리기도 한 ‘마녀’는 이로서 여름 극장가 대목의 포문을 여는 ‘상반기 대표 한국 영화’로 자리잡게 됐다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fnewsen%2F20220325161830337etap.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[더보기] '모비우스'부터 '신비한 동물'까지..처참한 극장가 펜데믹 종식시킬까 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220325083133020</link>
+            <guid>https://movie.v.daum.net/v/20220325083133020</guid>
+            <pubDate>Fri, 25 Mar 2022 01:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[박스오피스 1위 영화의 일일 관객 수가 만 명을 넘지 못했다. 코로나19 여파로 관객 수가 줄었다고 하지만 심각한 수준이다. 그러나 개봉을 미뤘던 할리우드 대작들이 잇따라 나올 준비를 마쳤다. 마블 히어로물부터 코미디 어드벤처물, 시리즈 판타지물, 액션 블록버스터까지 다채로운 대작들이 극장가에 단비가 될 수 있을지 주목된다. #상상력을 자극하는 힘 ‘]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Filgansports%2F20220325083135036ebyb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['뜨거운 피' 정우의 성장통 [인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
@@ -605,6 +597,14 @@
             <pubDate>Fri, 25 Mar 2022 01:20:03 GMT</pubDate>
             <content:encoded><![CDATA[[동아닷컴]  베네딕트 컴버배치의 ‘루이스 웨인:사랑을 그린 고양이 화가’ 스페셜 도슨트 영상 공개 배우 베네딕트 컴버배치가 선사할 올봄, 놀랍도록 다정한 로맨스 영화 &lt;루이스 웨인: 사랑을 그린 고양이 화가&gt;가 화가 ‘루이스 웨인’에 대한 궁금증을 해결해 줄 ‘스페셜 도슨트 영상’을 전격 공개했다. (원제: The Electrical Life of Lo]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fsportsdonga%2F20220325085837856qlvv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독]김다미-이종석 '마녀2' 6월에 온다 상반기 최고 화제작 예약 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220325161830743</link>
+            <guid>https://movie.v.daum.net/v/20220325161830743</guid>
+            <pubDate>Fri, 25 Mar 2022 08:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] 개봉 일자를 두고 보도 해프닝이 일 만큼 이 영화 올해 최고 화제작 가운데 하나임은 분명한 것 같다. 제목 자체가 장르가 된 ‘마녀’ 후속작 ‘마녀:The Other One’이 6월 개봉된다. 김다미를 발굴, 단박에 스타덤에 올리기도 한 ‘마녀’는 이로서 여름 극장가 대목의 포문을 여는 ‘상반기 대표 한국 영화’로 자리잡게 됐다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fnewsen%2F20220325161830337etap.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[비장의 무비] '설명'하지 않고 '체험'하게 한다 (다음영화 뉴스 ─ 인기)]]></title>
@@ -639,6 +639,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fsportskhan%2F20220325154506318cmhy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[스브수다] '끼끗하게, 위대하게' 윤여정, 직설의 대화법 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220325202103939</link>
+            <guid>https://movie.v.daum.net/v/20220325202103939</guid>
+            <pubDate>Fri, 25 Mar 2022 19:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] "'끼끗하다'는 말 알아요? 요즘 사람들은 잘 모르던데. 저희 엄마가 항상 쓰는 말이거든요. 선자는 끼끗한 여자예요. 그 점이 마음에 들었어요" 윤여정은 자신이 연기한 캐릭터 '선자'를 "끼끗하다"는 형용사로 정리했다. 자신의 엄마 세대에서 즐겨 썼다는 그 말은 ▲ 생기가 있고 깨끗하다. ▲ 싱싱하고 길차다는 의미를 포함]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2FSBSfunE%2F20220325202104988ijpz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['B컷'만 찍고 앉았네[편파적인 씨네리뷰] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220325072202936</link>
             <guid>https://movie.v.daum.net/v/20220325072202936</guid>
@@ -655,12 +663,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F24%2FSPORTSSEOUL%2F20220324175721748rcmo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['로스트 시티' 산드라 블록을 구하라..브래드 피트 대반전 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220324140340899</link>
-            <guid>https://movie.v.daum.net/v/20220324140340899</guid>
-            <pubDate>Thu, 24 Mar 2022 06:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;버라이어티 어드벤처 '로스트 시티'가 보도스틸을 공개했다. '로스트 시티'(감독 아론 니 애덤 니, 수입배급 롯데엔터테인먼트)는 전설의 트레저에 관한 유일한 단서를 알고 있는 베스트셀러 작가 로레타(산드라 블록)가 위험천만한 섬으로 납치당하면서 그녀를 구하기 위한 이들의 예측불허 탈출작전을 그린 버라이어티 어드벤처. 올 봄 극장]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F24%2Fpoctan%2F20220324140340150owdf.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA["어린 시절 강렬한 감정 겪고도 하지 못한 말, 누구나 있죠" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220326040359160</link>
+            <guid>https://v.daum.net/v/20220326040359160</guid>
+            <pubDate>Fri, 25 Mar 2022 19:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[영화감독 윤가은(40)은 영화 말고도 좋아하는 게 많다. 오래된 문방구에서 찾을 수 있는 옛 문구와 완구, 걷기, 일요일 아침에 하는 청소, 꽃, 생일, 노래방, 만화책, 빵, 여름, 별자리 운세, 조카…. 이렇게 좋아하는 것들의 이야기를 모아 지난 2월 산문집 ‘호호호’를 펴냈다. 서울 마포구 출판사 마음산책 회의실에서 지난 15일 윤 감독을 만났다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F26%2Fkukminilbo%2F20220326040401565lsny.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<브레이브 솔져스> 메인 예고편 (우리 영화 볼래?)]]></title>
@@ -1307,7 +1315,7 @@
             <link>https://tv.naver.com/v/25854088</link>
             <guid>https://tv.naver.com/v/25854088</guid>
             <pubDate>Fri, 25 Mar 2022 08:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_283/qLBD5_1648194593161Kq3ps_JPEG/15282847-ac10-11ec-8527-505dac8c38f5_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1315,7 +1323,7 @@
             <link>https://tv.naver.com/v/25852584</link>
             <guid>https://tv.naver.com/v/25852584</guid>
             <pubDate>Fri, 25 Mar 2022 07:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_129/kcamF_1648191817799Cw8Yq_JPEG/476cabbd-ac09-11ec-b1ad-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1323,7 +1331,7 @@
             <link>https://tv.naver.com/v/25851950</link>
             <guid>https://tv.naver.com/v/25851950</guid>
             <pubDate>Fri, 25 Mar 2022 07:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_146/Dqwpl_1648190601159CYUbS_JPEG/bda019ce-ac06-11ec-bc9a-505dac8c381b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1331,7 +1339,7 @@
             <link>https://tv.naver.com/v/25851510</link>
             <guid>https://tv.naver.com/v/25851510</guid>
             <pubDate>Fri, 25 Mar 2022 07:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_267/PdP0A_1648189810668IN4X9_JPEG/ebe0af8b-ac04-11ec-8c0a-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1339,7 +1347,7 @@
             <link>https://tv.naver.com/v/25851325</link>
             <guid>https://tv.naver.com/v/25851325</guid>
             <pubDate>Fri, 25 Mar 2022 07:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_210/VFbjR_1648189471372P2gf8_PNG/1648189456422.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -1347,7 +1355,7 @@
             <link>https://tv.naver.com/v/25847466</link>
             <guid>https://tv.naver.com/v/25847466</guid>
             <pubDate>Fri, 25 Mar 2022 04:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_171/2F23S_16481790033734H9er_JPEG/ace956a1-abeb-11ec-ad5e-48df37ae3fca_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1355,7 +1363,7 @@
             <link>https://tv.naver.com/v/25847258</link>
             <guid>https://tv.naver.com/v/25847258</guid>
             <pubDate>Fri, 25 Mar 2022 03:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_226/skvoR_1648178310805hSOg7_JPEG/1e23eb09-abea-11ec-8527-505dac8c38f5_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1363,7 +1371,7 @@
             <link>https://tv.naver.com/v/25846977</link>
             <guid>https://tv.naver.com/v/25846977</guid>
             <pubDate>Fri, 25 Mar 2022 03:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_86/urHfd_16481773618728bdUk_JPEG/6c94aabe-abe7-11ec-9b7b-505dac8c35ff_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1371,7 +1379,7 @@
             <link>https://tv.naver.com/v/25846448</link>
             <guid>https://tv.naver.com/v/25846448</guid>
             <pubDate>Fri, 25 Mar 2022 03:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_128/00qez_1648175975802aqWTr_JPEG/48c9560d-abe4-11ec-a7e2-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1379,7 +1387,7 @@
             <link>https://tv.naver.com/v/25846199</link>
             <guid>https://tv.naver.com/v/25846199</guid>
             <pubDate>Fri, 25 Mar 2022 03:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_175/txFcE_164817539219700zt6_JPEG/26a5478f-abe1-11ec-bc38-505dac8c37f3_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1387,7 +1395,7 @@
             <link>https://tv.naver.com/v/25845687</link>
             <guid>https://tv.naver.com/v/25845687</guid>
             <pubDate>Fri, 25 Mar 2022 03:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_43/dN35N_1648174110449YDSyW_JPEG/3f51eb86-abe0-11ec-9e39-505dac8c385b_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1395,7 +1403,7 @@
             <link>https://tv.naver.com/v/25845142</link>
             <guid>https://tv.naver.com/v/25845142</guid>
             <pubDate>Fri, 25 Mar 2022 03:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_89/cqDc0_16481727137397qBFP_JPEG/e9816a1c-abdc-11ec-b1ad-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
