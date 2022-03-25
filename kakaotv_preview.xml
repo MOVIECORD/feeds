@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 07:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 08:24:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<천국에서 무덤까지> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/427377225?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/427377225?act=clip</guid>
+            <pubDate>Fri, 25 Mar 2022 08:23:33 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:19]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frva00gdd21y35e2nhkqrzoix6%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33205104882%26signature%3DCbJ7TqQOgslob%252FNB6yNRyQ%252FaCgE%253D%26ts%3D1648196082" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<수퍼 소닉2> 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/427367379?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/427314018?act=clip</guid>
             <pubDate>Fri, 25 Mar 2022 01:20:24 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:09]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv1pknobfhqxqetj9s54vj8lk%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33204933250%26signature%3Dnl4eqHdpCGvKk0aMoXo20WIlx3M%253D%26ts%3D1648024450" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv1pknobfhqxqetj9s54vj8lk%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33204933250%26signature%3Dnl4eqHdpCGvKk0aMoXo20WIlx3M%253D%26ts%3D1648024450" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[< 토르 : 마법검의 전설> 30초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 21 Mar 2022 04:26:34 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:52]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgd5htfr0h630mlrta2hqgt2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33204743827%26signature%3DUYd8JosFsmTITZ6q9Y7d8C5%252FI40%253D%26ts%3D1647835027" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<세븐틴 파워 오브 러브 : 더 무비> 스크린X 예고편(박수)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/427204878?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/427204878?act=clip</guid>
-            <pubDate>Mon, 21 Mar 2022 01:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvygdrlv0evjxabgww0pq24i2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33204731991%26signature%3DjZtKGCpGlM%252B3BvxGV4VClNlbccQ%253D%26ts%3D1647823191" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
