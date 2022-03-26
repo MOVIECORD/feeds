@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 10:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 11:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -215,20 +215,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdec276db284e8c6d82f974cff11fa991ccd3f6b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[스펜서 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145181</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145181</guid>
-            <pubDate>Mon, 21 Feb 2022 04:24:51 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffe807f2e93a1d028b73c1ac89cbcb4e0748965aa" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[문폴 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=141644</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=141644</guid>
             <pubDate>Tue, 01 Mar 2022 07:18:08 GMT</pubDate>
             <content:encoded><![CDATA[22.03.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe3472a25d3f3448b0a113f2c7684418417d2d372" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스펜서 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145181</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145181</guid>
+            <pubDate>Mon, 21 Feb 2022 04:24:51 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffe807f2e93a1d028b73c1ac89cbcb4e0748965aa" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[벨파스트 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -295,6 +295,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc982f39016322391451456b3fe9bb9f82fa74950" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[신비한 동물사전 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=94464</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=94464</guid>
+            <pubDate>Mon, 21 Mar 2022 01:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7d09c2f81bfb2f2ff3f38a34dfedab996d501f14" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[고양이들의 아파트 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=144623</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=144623</guid>
@@ -303,12 +311,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3741882ac3d1e790de3cf934aaf4bd886c5565ea" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[신비한 동물사전 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=94464</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=94464</guid>
-            <pubDate>Mon, 21 Mar 2022 01:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7d09c2f81bfb2f2ff3f38a34dfedab996d501f14" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[나의 히어로 아카데미아 더 무비: 월드 히어로즈 미션 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152908</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152908</guid>
+            <pubDate>Thu, 24 Feb 2022 23:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff892fdb7534d4d9bbb743c90257eb3007bae86e2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -325,14 +333,6 @@
             <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
             <content:encoded><![CDATA[21.12.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fc5880afdb5b7c60161f34184e1f466814fec2d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[나의 히어로 아카데미아 더 무비: 월드 히어로즈 미션 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152908</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152908</guid>
-            <pubDate>Thu, 24 Feb 2022 23:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff892fdb7534d4d9bbb743c90257eb3007bae86e2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[듄 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -519,12 +519,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fohmynews%2F20220325145701546ysmz.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA['배우 출신' 우크라이나 대통령, 아카데미 시상식 출연 협의 중[Oh!llywood] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220326162716952</link>
-            <guid>https://movie.v.daum.net/v/20220326162716952</guid>
-            <pubDate>Sat, 26 Mar 2022 08:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] 볼로디미르 젤렌스키 우크라이나 대통령이 제 94회 아카데미 시상식에&nbsp;출연하는 것을 두고 주최 측과 협의 중이라고 뉴욕포스트가 25일(현지시간) 전했다. 아카데미 시상식 관계자들에 따르면 그가&nbsp;생방송으로 등장할 지 아니면 촬영된 영상물로&nbsp;나타날지, 그 구체적인 출연 형태는 확실치 않다.&nbsp; 또 소식통에 따르면&nbsp;러시아의 우크라이나 침]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F26%2Fpoctan%2F20220326162717448kvfw.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['오징어게임' 성공, "전세계인이 영어·미국·백인 이외의 콘텐츠에 열광하는 증거"[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220326191020186</link>
+            <guid>https://movie.v.daum.net/v/20220326191020186</guid>
+            <pubDate>Sat, 26 Mar 2022 11:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]최근 스티븐 스필버그 감독이 ‘오징어게임’ 주연배우들이 ‘알 수 없는 사람들’이라고 지칭한 이후 미국 중심주의 시각을 버려야한다는 주장이 제기되고 있다. 최근 스티븐 스필버그 감독은 미국 제작자조합 시상식에서 할리우드의 스타 파워에 대한 의존도와 최근 넷플릭스 쇼가 업계에 가져온 변화에 대해 말했다. 그는 “‘오징어 게임’은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F26%2Fmydaily%2F20220326191021049qskv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[사진 유출범이 정의의 기사? 이해 못할 이 영화의 선택 (다음영화 뉴스 ─ 인기)]]></title>
@@ -535,12 +535,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fohmynews%2F20220325163305369jrfl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[김우빈, '♥신민아 남친'에 가려진 본모습..지질한 양다리에 욕설까지 [TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220325155802782</link>
-            <guid>https://movie.v.daum.net/v/20220325155802782</guid>
-            <pubDate>Fri, 25 Mar 2022 07:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=태유나 기자] 《태유나의 넷추리》 태유나 텐아시아 기자가 수많은 콘텐츠로 가득한 넷플릭스 속 알맹이만 골라드립니다. 매주 금요일 저녁 꼭 봐야 할 '띵작'부터 기대되는 신작까지 주말에 방구석 1열에서 즐길 수 있는 작품들을 추천하겠습니다.배우 김우빈이 tvN 예능 '어쩌다 사장 2'를 통한 복귀 신고식을 마친다. 비인두암 투병 끝에 내달 방송]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2F10asia%2F20220325155804990rbyf.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['배우 출신' 우크라이나 대통령, 아카데미 시상식 출연 협의 중[Oh!llywood] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220326162716952</link>
+            <guid>https://movie.v.daum.net/v/20220326162716952</guid>
+            <pubDate>Sat, 26 Mar 2022 08:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자] 볼로디미르 젤렌스키 우크라이나 대통령이 제 94회 아카데미 시상식에&nbsp;출연하는 것을 두고 주최 측과 협의 중이라고 뉴욕포스트가 25일(현지시간) 전했다. 아카데미 시상식 관계자들에 따르면 그가&nbsp;생방송으로 등장할 지 아니면 촬영된 영상물로&nbsp;나타날지, 그 구체적인 출연 형태는 확실치 않다.&nbsp; 또 소식통에 따르면&nbsp;러시아의 우크라이나 침]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F26%2Fpoctan%2F20220326162717448kvfw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['파친코' 진하, 韓 할머니 불법 촬영·성희롱 사과 "과거 내 행동 후회"[전문] (다음영화 뉴스 ─ 인기)]]></title>
@@ -551,6 +551,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F26%2Fstarnews%2F20220326161635039qfvy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[더보기] '모비우스'부터 '신비한 동물'까지..처참한 극장가 펜데믹 종식시킬까 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220325083133020</link>
+            <guid>https://movie.v.daum.net/v/20220325083133020</guid>
+            <pubDate>Fri, 25 Mar 2022 01:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[박스오피스 1위 영화의 일일 관객 수가 만 명을 넘지 못했다. 코로나19 여파로 관객 수가 줄었다고 하지만 심각한 수준이다. 그러나 개봉을 미뤘던 할리우드 대작들이 잇따라 나올 준비를 마쳤다. 마블 히어로물부터 코미디 어드벤처물, 시리즈 판타지물, 액션 블록버스터까지 다채로운 대작들이 극장가에 단비가 될 수 있을지 주목된다. #상상력을 자극하는 힘 ‘]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Filgansports%2F20220325083135036ebyb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[고마츠 나나 주연 '달빛 그림자' 4월 27일 개봉 확정 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220325092612479</link>
             <guid>https://movie.v.daum.net/v/20220325092612479</guid>
@@ -559,12 +567,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fsportsdonga%2F20220325092614917aalr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[더보기] '모비우스'부터 '신비한 동물'까지..처참한 극장가 펜데믹 종식시킬까 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220325083133020</link>
-            <guid>https://movie.v.daum.net/v/20220325083133020</guid>
-            <pubDate>Fri, 25 Mar 2022 01:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[박스오피스 1위 영화의 일일 관객 수가 만 명을 넘지 못했다. 코로나19 여파로 관객 수가 줄었다고 하지만 심각한 수준이다. 그러나 개봉을 미뤘던 할리우드 대작들이 잇따라 나올 준비를 마쳤다. 마블 히어로물부터 코미디 어드벤처물, 시리즈 판타지물, 액션 블록버스터까지 다채로운 대작들이 극장가에 단비가 될 수 있을지 주목된다. #상상력을 자극하는 힘 ‘]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Filgansports%2F20220325083135036ebyb.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[김우빈, '♥신민아 남친'에 가려진 본모습..지질한 양다리에 욕설까지 [TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220325155802782</link>
+            <guid>https://movie.v.daum.net/v/20220325155802782</guid>
+            <pubDate>Fri, 25 Mar 2022 07:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=태유나 기자] 《태유나의 넷추리》 태유나 텐아시아 기자가 수많은 콘텐츠로 가득한 넷플릭스 속 알맹이만 골라드립니다. 매주 금요일 저녁 꼭 봐야 할 '띵작'부터 기대되는 신작까지 주말에 방구석 1열에서 즐길 수 있는 작품들을 추천하겠습니다.배우 김우빈이 tvN 예능 '어쩌다 사장 2'를 통한 복귀 신고식을 마친다. 비인두암 투병 끝에 내달 방송]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2F10asia%2F20220325155804990rbyf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[세월 뛰어넘은 수사 공조, 일본 버전 '시그널'의 매력 (다음영화 뉴스 ─ 인기)]]></title>
@@ -583,14 +591,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fsportstoday%2F20220325143233532xncv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['몰카' 진하, 이틀째 묵묵부답..윤여정·이민호 얼굴 보기 안 부끄럽나?(종합)[Oh!쎈 초점] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220326104412653</link>
-            <guid>https://movie.v.daum.net/v/20220326104412653</guid>
-            <pubDate>Sat, 26 Mar 2022 04:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;한국계 미국인 배우 진하가 11~12년 전 국내에서 노인 여성들의 사진을 동의없이 무단 촬영하고 게재했던 것으로 드러났다. 애플TV+ 드라마 ‘파친코’가 공개된 지난 25일 이 같은 소식이 전해졌는데 당일은 물론 하루가 지난 오늘(26일)까지도 묵묵부답으로 일관하고 있다. 진하가 개인 인스타그램 및 트위터, 블로그를 활발하게 운]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F26%2Fpoctan%2F20220326104412327nubr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA["충무로 인재 잃었다"..방준석 음악감독 별세 [이슈&톡] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220326153715356</link>
             <guid>https://movie.v.daum.net/v/20220326153715356</guid>
@@ -605,6 +605,14 @@
             <pubDate>Sat, 26 Mar 2022 05:17:28 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 오보람 기자 = 밴드 유앤미블루 출신 영화 음악감독 방준석 씨가 52세를 일기로 세상을 떠났다. 26일 유족에 따르면 방 감독은 이날 오전 7시 위암으로 별세했다. 몇 년 전 위암 치료를 받은 그는 이후 완치 판정을 받았으나 2020년 가을 재발해 투병을 이어왔다. 미국에서 살던 고인은 스물네 살이던 1994년 이승열과 함께 유앤미블루를]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F26%2Fyonhap%2F20220326135350563ljbt.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['몰카' 진하, 이틀째 묵묵부답..윤여정·이민호 얼굴 보기 안 부끄럽나?(종합)[Oh!쎈 초점] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220326104412653</link>
+            <guid>https://movie.v.daum.net/v/20220326104412653</guid>
+            <pubDate>Sat, 26 Mar 2022 04:24:29 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;한국계 미국인 배우 진하가 11~12년 전 국내에서 노인 여성들의 사진을 동의없이 무단 촬영하고 게재했던 것으로 드러났다. 애플TV+ 드라마 ‘파친코’가 공개된 지난 25일 이 같은 소식이 전해졌는데 당일은 물론 하루가 지난 오늘(26일)까지도 묵묵부답으로 일관하고 있다. 진하가 개인 인스타그램 및 트위터, 블로그를 활발하게 운]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F26%2Fpoctan%2F20220326104412327nubr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['모가디슈'·'신과 함께' 방준석 음악감독, 위암으로 별세..향년 52세[종합] (다음영화 뉴스 ─ 인기)]]></title>
@@ -631,14 +639,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fsportsdonga%2F20220325085837856qlvv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[예외는 없다..윤여정·이민호·김민하, 치열했던 '파친코' 오디션 [김나연의 사선] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220326113901203</link>
-            <guid>https://movie.v.daum.net/v/20220326113901203</guid>
-            <pubDate>Sat, 26 Mar 2022 04:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 영화·OTT를 보는 김나연 기자의 '사적인 시선' 파친코 / 사진=애플TV플러스치열했다. 제작비만 무려 1000억, 엄청난 스케일을 자랑하는 만큼 그 '주역'을 찾기란 쉬운 일이 아니었다. 애플 TV+ '파친코'의 이야기다. Apple Original Series 최고 기대작 '파친코' - Pachinko(이하 '파친코')는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F26%2Fstarnews%2F20220326113902659xcyc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['스타' 이민호도, '신예' 김민하도..성장의 '파친코' [★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220326133000031</link>
             <guid>https://movie.v.daum.net/v/20220326133000031</guid>
@@ -647,20 +647,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F26%2Fstarnews%2F20220326133003577hfca.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[예외는 없다..윤여정·이민호·김민하, 치열했던 '파친코' 오디션 [김나연의 사선] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220326113901203</link>
+            <guid>https://movie.v.daum.net/v/20220326113901203</guid>
+            <pubDate>Sat, 26 Mar 2022 04:24:29 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 영화·OTT를 보는 김나연 기자의 '사적인 시선' 파친코 / 사진=애플TV플러스치열했다. 제작비만 무려 1000억, 엄청난 스케일을 자랑하는 만큼 그 '주역'을 찾기란 쉬운 일이 아니었다. 애플 TV+ '파친코'의 이야기다. Apple Original Series 최고 기대작 '파친코' - Pachinko(이하 '파친코')는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F26%2Fstarnews%2F20220326113902659xcyc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA["낙태, 모든 걸 감내하겠나" 천사 만드는 여자가 물었다 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220326093602794</link>
             <guid>https://movie.v.daum.net/v/20220326093602794</guid>
             <pubDate>Sat, 26 Mar 2022 01:18:57 GMT</pubDate>
             <content:encoded><![CDATA[☞한겨레S 뉴스레터 구독하기 https://bit.ly/319DiiE 대학에서 문학을 공부하는 안(아나마리아 바르톨로메이)은 교수의 기대와 동급생들의 부러움을 한 몸에 받는 장학생이다. 가족의 전폭적인 지지로 계급적 한계를 넘어서 대학까지 올 수 있었던 안의 마음속에는 언제나 문학 교수의 꿈이 뜨겁게 타오르고 있다. 그러던 어느 날, 안은 예상치 못했던 임]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F26%2Fhani%2F20220326104605228zyin.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['파친코'에 먹칠 진하, 감동 드라마 현실은..[MK이슈] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220326073301657</link>
-            <guid>https://movie.v.daum.net/v/20220326073301657</guid>
-            <pubDate>Sat, 26 Mar 2022 10:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[애플TV+ 오리지널 드라마 '파친코'가 지난 25일 전 세계 공개된 가운데 출연 배우 진하의 충격적인 과거 행동에 국내 반응은 냉담하다. 작품은 국내외 평단에 선 공개 돼 감동적인 서사로 극찬 세례를 받았지만 이와 상반되는 불쾌한 논란에 결국 발목을 붙잡혔다. 이날 한 누리꾼은 커뮤니티에 “‘파친코’에 나온 한국계 미국인 배우가 한국 할머니들 도촬 사진]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F26%2Fstartoday%2F20220326073303813thgb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['오징어게임' 성공, "전세계인이 영어·미국·백인 이외의 콘텐츠에 열광하는 증거"[해외이슈] (다음영화 뉴스 ─ 최신)]]></title>
