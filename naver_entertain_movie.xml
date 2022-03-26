@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-26T20:21:14.658Z</updated>
+    <updated>2022-03-26T21:18:59.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“5살 연상녀와 10년 사귀니까 행복해” 32살 해리포터, 올해 결혼하나[해외이슈]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003588122</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003588122"/>
+        <updated>2022-03-26T21:17:31.860Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘해리포터’ 다니엘 레드클리프(32)가 5살 연상 여친 에린 다크(37)와 사귀지 10년차를 맞아 행복한 소감을 전했다. 이들은 2013년 드라마 ‘달링스 죽이기’를 촬영하면서 처음 만나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[볼 영화 없는 4월? 천우희vs손현주vs김영옥, 연기파들 흥행 도전 [N초점]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005991446</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005991446"/>
+        <updated>2022-03-26T21:17:31.864Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 지난해 개봉한 '모가디슈' 이후 이렇다할 흥행작이 나오지 않고 있는 가운데, 한국 영화의 도전이 계속되고 있다. 전통적인 비수기인 4월은 관객 기근이 더 심해질 것으로 예상된다. 신종]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["훌륭한 음악 감사"…배철수·윤종신·한경록, 방준석 추모]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011085124</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000665762"/>
         <updated>2022-03-26T05:17:07.697Z</updated>
         <content type="html"><![CDATA[1,000만 영화 ‘베테랑’(2015)과 ‘신과 함께’ 시리즈 등 60여 편의 영화음악을 담당했던 국내 모던록의 선구자 방준석 음악감독 겸 가수가 숙환으로 26일 오전 7시 세상을 떠났다. 향년 52세. 칠레와 미국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방준석 별세, 향년 52세…'유앤미블루' 출신 '신과 함께' 음악감독]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011084886</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011084886"/>
-        <updated>2022-03-26T05:17:07.709Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 음악감독 겸 프로듀서 방준석(52)이 별세했다. 26일 음악계와 영화계에 따르면 방준석 감독은 이날 오전 7시께 병환으로 세상을 떠났다. 고인은 위암으로 투병해온 것으로 알려졌다. 방준]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방준석 음악감독, 병환으로 별세..향년 52세]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003038928</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003038928"/>
-        <updated>2022-03-26T05:17:07.709Z</updated>
-        <content type="html"><![CDATA[방준석 음악감독이 별세했다. 방준석 음악감독이 26일 오전7시 병환으로 세상을 떠났다. 향년 52세. 고인은 1994년 밴드 '유앤미 블루'로 활동을 시작해 이후 어어부 프로젝트 밴드 활동을 이어갔다. 고 방준석 음]]></content>
     </entry>
 </feed>
