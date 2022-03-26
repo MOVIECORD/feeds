@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-26T14:18:27.320Z</updated>
+    <updated>2022-03-26T17:19:34.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["훌륭한 음악 감사"…배철수·윤종신·한경록, 방준석 추모]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011085124</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011085124"/>
+        <updated>2022-03-26T17:18:04.275Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 52세를 일기로 별세한 음악감독 겸 프로듀서 방준석에 대한 추모 행렬이 음악계·영화계에서 이어지고 있다. DJ 겸 밴드 '송골매' 리더 배철수는 26일 자신의 소셜 미디어에 "삼가 고인의 명복을 빕니]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘파친코’ 진하, 노인 성희롱 사과 “애초에 생겨선 안됐을 계정”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000801994</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003038928"/>
         <updated>2022-03-26T05:17:07.709Z</updated>
         <content type="html"><![CDATA[방준석 음악감독이 별세했다. 방준석 음악감독이 26일 오전7시 병환으로 세상을 떠났다. 향년 52세. 고인은 1994년 밴드 '유앤미 블루'로 활동을 시작해 이후 어어부 프로젝트 밴드 활동을 이어갔다. 고 방준석 음]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스타' 이민호도, '신예' 김민하도..성장의 '파친코' [★FULL인터뷰]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003038926</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003038926"/>
-        <updated>2022-03-26T05:17:07.709Z</updated>
-        <content type="html"><![CDATA[주연 작품을 셀 수 없는 13년 차 배우 이민호도, 첫 주연으로 데뷔하는 6년 차 배우 김민하도 예외는 없었다. '파친코'를 통해 한 단계 성장한 두 사람이다. 최근 애플TV+ '파친코' - Pachinko의 배우]]></content>
     </entry>
 </feed>
