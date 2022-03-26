@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 22:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 01:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc40ad380f429b74bc6559c555e43392706bf9c5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 주술회전 0]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156790</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156790</guid>
-            <pubDate>Thu, 17 Feb 2022 00:59:56 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdec276db284e8c6d82f974cff11fa991ccd3f6b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[이상한 나라의 수학자]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=139237</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=139237</guid>
             <pubDate>Tue, 08 Mar 2022 23:19:25 GMT</pubDate>
             <content:encoded><![CDATA[22.03.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ca21642451e2e68e3eec5b9691c2aba33b47d70" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 주술회전 0]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156790</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156790</guid>
+            <pubDate>Thu, 17 Feb 2022 00:59:56 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdec276db284e8c6d82f974cff11fa991ccd3f6b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[더 배트맨]]></title>
@@ -112,20 +112,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe9161cb34768cd27d71a230075105a143e6f909c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[신비한 동물사전]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=94464</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=94464</guid>
-            <pubDate>Wed, 23 Mar 2022 01:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7d09c2f81bfb2f2ff3f38a34dfedab996d501f14" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[어거스트 버진]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=132877</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=132877</guid>
             <pubDate>Thu, 24 Mar 2022 01:21:19 GMT</pubDate>
             <content:encoded><![CDATA[22.03.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc982f39016322391451456b3fe9bb9f82fa74950" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[신비한 동물사전]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=94464</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=94464</guid>
+            <pubDate>Wed, 23 Mar 2022 01:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7d09c2f81bfb2f2ff3f38a34dfedab996d501f14" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[나의 히어로 아카데미아 더 무비: 월드 히어로즈 미션]]></title>
