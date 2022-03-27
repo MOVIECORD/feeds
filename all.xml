@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 07:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 08:24:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -191,20 +191,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc40ad380f429b74bc6559c555e43392706bf9c5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[이상한 나라의 수학자 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=139237</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=139237</guid>
-            <pubDate>Mon, 14 Feb 2022 12:29:07 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ca21642451e2e68e3eec5b9691c2aba33b47d70" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 주술회전 0 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156790</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156790</guid>
             <pubDate>Fri, 28 Jan 2022 11:15:55 GMT</pubDate>
             <content:encoded><![CDATA[22.02.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdec276db284e8c6d82f974cff11fa991ccd3f6b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[이상한 나라의 수학자 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139237</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139237</guid>
+            <pubDate>Mon, 14 Feb 2022 12:29:07 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ca21642451e2e68e3eec5b9691c2aba33b47d70" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[더 배트맨 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -303,6 +303,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3741882ac3d1e790de3cf934aaf4bd886c5565ea" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[도어맨 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144409</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144409</guid>
+            <pubDate>Sun, 27 Mar 2022 08:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F37c7b1c61c83eb6ada6f6193afc56dc7c9881165" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[듄 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=130886</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=130886</guid>
+            <pubDate>Sun, 27 Mar 2022 02:47:28 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0235b8e9c0048e4301f8c9c74da929863e33456" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[뱅드림! 팝핀‘ 드림! (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156955</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156955</guid>
@@ -319,28 +335,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7d09c2f81bfb2f2ff3f38a34dfedab996d501f14" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[나의 히어로 아카데미아 더 무비: 월드 히어로즈 미션 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152908</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152908</guid>
-            <pubDate>Thu, 24 Feb 2022 23:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff892fdb7534d4d9bbb743c90257eb3007bae86e2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[스파이더맨: 노 웨이 홈 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=146656</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=146656</guid>
-            <pubDate>Mon, 27 Dec 2021 15:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fc5880afdb5b7c60161f34184e1f466814fec2d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[듄 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=130886</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=130886</guid>
-            <pubDate>Sun, 27 Mar 2022 02:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0235b8e9c0048e4301f8c9c74da929863e33456" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[캐슬 폴스: 머니 게임 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154258</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154258</guid>
+            <pubDate>Sun, 27 Mar 2022 08:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0bdb2e7e1c40136aca855ee4852fd0ee77bb7675" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[모비우스 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -375,20 +375,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0ca067234bc4a4f10b1fd8a3cba5071276843f0d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[드라이 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149227</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149227</guid>
-            <pubDate>Tue, 15 Mar 2022 10:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6ac6afd6ce9c957440c76d731f81503c2d5b3d42" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[재춘언니 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145292</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145292</guid>
             <pubDate>Tue, 15 Mar 2022 10:22:20 GMT</pubDate>
             <content:encoded><![CDATA[22.03.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc0f69300e7e973ad35ab1c80aa00c91f0adbc1e9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[B컷 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157433</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157433</guid>
+            <pubDate>Mon, 21 Mar 2022 04:26:06 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb56e0a08f34d52385c318bef8d4485e46044cff3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[드라이 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149227</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149227</guid>
+            <pubDate>Tue, 15 Mar 2022 10:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6ac6afd6ce9c957440c76d731f81503c2d5b3d42" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[역할들 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -421,14 +429,6 @@
             <pubDate>Wed, 23 Mar 2022 06:24:42 GMT</pubDate>
             <content:encoded><![CDATA[22.04.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3d93fdcc0efc92362da8b5e73eb5db83e44d6190" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[B컷 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157433</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157433</guid>
-            <pubDate>Mon, 21 Mar 2022 04:26:06 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb56e0a08f34d52385c318bef8d4485e46044cff3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[하로동선 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -503,20 +503,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd2267142372a90b6a797a034febddc1713110d62" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA['고양이들의 아파트', 도시 속 길고양이 일상 담았다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220325171455646</link>
-            <guid>https://movie.v.daum.net/v/20220325171455646</guid>
-            <pubDate>Fri, 25 Mar 2022 10:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;아파트 생태계를 통해 생태, 동물권, 환경 등의 주제를 폭넓게 사유하는 고양이 이주 프로젝트 '고양이들의 아파트'가 정재은 감독이 밝힌 프로덕션 비하인드를 공개해 눈길을 모은다. '고양이들의 아파트'(감독 정재은, 제작 영화사 못, 배급 엣나인필름 메타플레이)는 고양이를 통해 보다 차별화된 접근과 주제의식으로 도시 생태 문제를]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fpoctan%2F20220325171455180equq.jpg" length="0" type="image//thumb/S732x228/"/>
-        </item>
-        <item>
-            <title><![CDATA[사진 유출범이 정의의 기사? 이해 못할 이 영화의 선택 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220325163304292</link>
-            <guid>https://movie.v.daum.net/v/20220325163304292</guid>
-            <pubDate>Fri, 25 Mar 2022 10:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[[이선필 기자] ▲ &nbsp;영화 &lt; B컷 &gt; 관련 이미지.    ⓒ TCO(주)더콘텐츠온  대선 철을 기대한 노림수일까. 범죄 행위를 숨긴 국회의원과 진실을 파헤치려는 피해자 간의 대결을 그린 영화 &lt; B컷 &gt;이 지난 24일 언론에 선 공개됐다. 장르를 따지자면 스릴러에 가깝다고 할 수 있다. 대권을 노리는 유력 정치인(김병옥)이 사실은 아내를 학]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F25%2Fohmynews%2F20220325163305369jrfl.jpg" length="0" type="image//thumb/S732x228/"/>
+            <title><![CDATA['파친코' 진하의 뒤늦은 후회..韓마음 돌리기에는 [김미화의 날선무비] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220327100146115</link>
+            <guid>https://movie.v.daum.net/v/20220327100146115</guid>
+            <pubDate>Sun, 27 Mar 2022 02:47:43 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 배우 윤여정, 이민호, 김민하, 진하가 18일 오전 온라인 생중계로 진행된 Apple TV+ '파친코' 프레스 컨퍼런스를 위해 포즈를 취하고 있다.  금지된 사랑에서 시작되는 이야기로 한국과 일본, 그리고 미국을 오가며 전쟁과 평화, 사랑과 이별, 승리와 심판에 대한 잊을 수 없는 연대기를 그리는 작품 '파친코'는 오는 25일 3개]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F27%2Fstarnews%2F20220327100147633rgmw.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
             <title><![CDATA["5살 연상녀와 10년 사귀니까 행복해" 32살 해리포터, 올해 결혼하나[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
@@ -524,15 +516,7 @@
             <guid>https://movie.v.daum.net/v/20220327061105676</guid>
             <pubDate>Sat, 26 Mar 2022 22:18:38 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘해리포터’ 다니엘 레드클리프(32)가 5살 연상 여친 에린 다크(37)와 사귀지 10년차를 맞아 행복한 소감을 전했다. 이들은 2013년 드라마 ‘달링스 죽이기’를 촬영하면서 처음 만나 현재까지 사귀고 있다. 그는 25일(현지시간) 연예매체 피플과 인터뷰에서 “나는 정말 멋진 삶을 살고 있다. 여자친구와 거의 10년 동안]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F27%2Fmydaily%2F20220327061105746jzzk.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['파친코' 진하의 뒤늦은 후회..韓마음 돌리기에는 [김미화의 날선무비] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220327100146115</link>
-            <guid>https://movie.v.daum.net/v/20220327100146115</guid>
-            <pubDate>Sun, 27 Mar 2022 02:47:43 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 배우 윤여정, 이민호, 김민하, 진하가 18일 오전 온라인 생중계로 진행된 Apple TV+ '파친코' 프레스 컨퍼런스를 위해 포즈를 취하고 있다.  금지된 사랑에서 시작되는 이야기로 한국과 일본, 그리고 미국을 오가며 전쟁과 평화, 사랑과 이별, 승리와 심판에 대한 잊을 수 없는 연대기를 그리는 작품 '파친코'는 오는 25일 3개]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F27%2Fstarnews%2F20220327100147633rgmw.jpg" length="0" type="image//thumb/S384x240/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F27%2Fmydaily%2F20220327061105746jzzk.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
             <title><![CDATA[화려한 생활에도 그녀가 외로웠던 이유 (다음영화 뉴스 ─ 인기)]]></title>
@@ -541,6 +525,14 @@
             <pubDate>Sun, 27 Mar 2022 02:47:43 GMT</pubDate>
             <content:encoded><![CDATA[[김동근 기자] ▲ &nbsp;영화 &lt;스펜서&gt; 장면    ⓒ  ㈜영화특별시SMC  &nbsp; 외로움이라는&nbsp;감정은&nbsp;사람이&nbsp;살면서&nbsp;평생&nbsp;안고&nbsp;살아가야&nbsp;하는&nbsp;것이다.&nbsp;어떤&nbsp;상황에서도&nbsp;외로움은&nbsp;찾아오고&nbsp;긍정적인&nbsp;일들이&nbsp;주변에&nbsp;많이&nbsp;일어나도&nbsp;어느&nbsp;순간이&nbsp;되면&nbsp;갑자기&nbsp;찾아온다.&nbsp;그래서&nbsp;사람들은&nbsp;'사랑'이라는&nbsp;감정에&nbsp;그렇게&nbsp;매달리는&nbsp;것인지&nbsp;모른다.&nbsp;사랑을&nbsp;주고&nbsp;또&nbsp;받을&nbsp;]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F27%2Fohmynews%2F20220327102101502fwfg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["윤여정 2년 연속 참석"..제94회 아카데미 시상식 관전포인트는? (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220327111606379</link>
+            <guid>https://movie.v.daum.net/v/20220327111606379</guid>
+            <pubDate>Sun, 27 Mar 2022 02:47:43 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=하수정 기자] “예측이 안 되는 치열한 남녀 주연상 접전, OTT 영화의 사상 최초 작품상 수상 여부 궁금” TV CHOSUN이 오는 28일 월요일 오전 8시 50분(한국시간)부터 미국 캘리포니아주 LA 돌비 극장에서 열리는 제94회 아카데미 시상식을 실시간으로 독점 중계한다. TV CHOSUN은 2019년 제91회부터 4년 연속 아카데미 시]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F27%2Fpoctan%2F20220327111607693pnqw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["韓 이야기로 전 세계 공감"..'파친코' 제작진의 자신감 [★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
@@ -557,14 +549,6 @@
             <pubDate>Sun, 27 Mar 2022 02:47:43 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠조선 조지영 기자] '월드 스타' 윤여정이 제94회 미국 아카데미 시상식에 시상자로 참석한다. 윤여정은 28일(한국시각) 오전 8시 50분 미국 로스앤젤레스 돌비극장에서 열리는 아카데미 시상식을 위해 지난주 출국했다. 윤여정은 지난해 열린 제93회 아카데미 시상식에서 여우조연상을 수상, 올해는 조연상 시상자로 무대에 오른다. 앞서 윤여]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F27%2FSpoChosun%2F20220327153700751gfjt.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["윤여정 2년 연속 참석"..제94회 아카데미 시상식 관전포인트는? (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220327111606379</link>
-            <guid>https://movie.v.daum.net/v/20220327111606379</guid>
-            <pubDate>Sun, 27 Mar 2022 02:47:43 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=하수정 기자] “예측이 안 되는 치열한 남녀 주연상 접전, OTT 영화의 사상 최초 작품상 수상 여부 궁금” TV CHOSUN이 오는 28일 월요일 오전 8시 50분(한국시간)부터 미국 캘리포니아주 LA 돌비 극장에서 열리는 제94회 아카데미 시상식을 실시간으로 독점 중계한다. TV CHOSUN은 2019년 제91회부터 4년 연속 아카데미 시]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F27%2Fpoctan%2F20220327111607693pnqw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['오징어게임' 성공, "전세계인이 영어·미국·백인 이외의 콘텐츠에 열광하는 증거"[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
@@ -599,22 +583,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F27%2Fhankooki%2F20220327160231412gunv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[정우 '뜨거운 피', 4일 연속 1위..누적관객수 15만명 돌파 [Nbox] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220327093111608</link>
-            <guid>https://movie.v.daum.net/v/20220327093111608</guid>
-            <pubDate>Sun, 27 Mar 2022 02:47:43 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 황미현 기자 = 정우 주연 영화 '뜨거운 피'(감독 박동훈)가 4일 연속 1위를 지켰다. 27일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '뜨거운 피'는 지난 26일 하루 6만7783명을 동원해 박스오피스 1위 자리를 지켰다. 누적관객수는 15만8139명이다. 이로써 '뜨거운 피'는 지난 23일 개봉 후 4일 내내 박스오피스 정]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F27%2FNEWS1%2F20220327093111967uqwd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[이동진 평론가가 전하는 94회 아카데미 시상식 관전 포인트 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220327113903719</link>
-            <guid>https://movie.v.daum.net/v/20220327113903719</guid>
-            <pubDate>Sun, 27 Mar 2022 03:24:05 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드경제 = 서병기 선임기자]TV CHOSUN이 오는 28일 월요일 오전 8시 50분(한국시간)부터 미국 캘리포니아주 LA 돌비 극장에서 열리는 제94회 아카데미 시상식을 실시간으로 독점 중계한다. TV CHOSUN은 2019년 제91회부터 4년 연속 아카데미 시상식 생중계를 맡고 있다. 영화평론가 이동진과 방송인 안현모가 TV CHOSUN에서 4년]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F27%2Fned%2F20220327113908163utaa.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[정우 "외로웠던 '뜨거운 피', 성장통 겪은 작품이죠"[★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220327130001716</link>
             <guid>https://movie.v.daum.net/v/20220327130001716</guid>
@@ -631,12 +599,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F27%2Fsportsdonga%2F20220327113457329rdox.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[정우 '뜨거운 피', 4일 연속 1위..누적관객수 15만명 돌파 [Nbox] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220327093111608</link>
+            <guid>https://movie.v.daum.net/v/20220327093111608</guid>
+            <pubDate>Sun, 27 Mar 2022 02:47:43 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 황미현 기자 = 정우 주연 영화 '뜨거운 피'(감독 박동훈)가 4일 연속 1위를 지켰다. 27일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '뜨거운 피'는 지난 26일 하루 6만7783명을 동원해 박스오피스 1위 자리를 지켰다. 누적관객수는 15만8139명이다. 이로써 '뜨거운 피'는 지난 23일 개봉 후 4일 내내 박스오피스 정]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F27%2FNEWS1%2F20220327093111967uqwd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이동진 평론가가 전하는 94회 아카데미 시상식 관전 포인트 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220327113903719</link>
+            <guid>https://movie.v.daum.net/v/20220327113903719</guid>
+            <pubDate>Sun, 27 Mar 2022 03:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드경제 = 서병기 선임기자]TV CHOSUN이 오는 28일 월요일 오전 8시 50분(한국시간)부터 미국 캘리포니아주 LA 돌비 극장에서 열리는 제94회 아카데미 시상식을 실시간으로 독점 중계한다. TV CHOSUN은 2019년 제91회부터 4년 연속 아카데미 시상식 생중계를 맡고 있다. 영화평론가 이동진과 방송인 안현모가 TV CHOSUN에서 4년]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F27%2Fned%2F20220327113908163utaa.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['스타' 이민호도, '신예' 김민하도..성장의 '파친코' [★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220326133000031</link>
             <guid>https://movie.v.daum.net/v/20220326133000031</guid>
             <pubDate>Sat, 26 Mar 2022 05:17:28 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김나연 기자] 이민호 김민하 / 사진=애플TV플러스주연 작품을 셀 수 없는 13년 차 배우 이민호도, 첫 주연으로 데뷔하는 6년 차 배우 김민하도 예외는 없었다. '파친코'를 통해 한 단계 성장한 두 사람이다. 최근 애플TV+ '파친코' - Pachinko의 배우 윤여정, 진하의 공통 인터뷰가 온라인으로 진행됐다. '파친코'는 동명의 뉴욕타임]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F26%2Fstarnews%2F20220326133003577hfca.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["아름다운 사람이 떠났다" 방준석 음악감독 별세..이준익·윤종신 등 추모 물결[종합] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220326211640004</link>
+            <guid>https://movie.v.daum.net/v/20220326211640004</guid>
+            <pubDate>Sun, 27 Mar 2022 06:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]음악감독 겸 프로듀서 방준석이 세상을 떠났다. 향년 52세. 26일 영화계에 따르면 방준석 감독은 이날 오전 7시께 병환으로 별세했다. 고인은 위암으로 투병해온 것으로 알려졌다. 고인은 2018년 한 시사지와 인터뷰에서 “6년 전쯤 좀 고약한 형태의 위암에 걸렸다”면서 “수술과 항암 치료 등을 거부하고 자연치유법을 택했다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F26%2Fmydaily%2F20220326211640628xfyz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['파친코' 진하, 韓 할머니 불법 촬영·성희롱 사과 "과거 내 행동 후회"[전문] (다음영화 뉴스 ─ 인기)]]></title>
@@ -655,12 +647,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F27%2FSpoChosun%2F20220327144019932mwyd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["아름다운 사람이 떠났다" 방준석 음악감독 별세..이준익·윤종신 등 추모 물결[종합] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220326211640004</link>
-            <guid>https://movie.v.daum.net/v/20220326211640004</guid>
-            <pubDate>Sun, 27 Mar 2022 06:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]음악감독 겸 프로듀서 방준석이 세상을 떠났다. 향년 52세. 26일 영화계에 따르면 방준석 감독은 이날 오전 7시께 병환으로 별세했다. 고인은 위암으로 투병해온 것으로 알려졌다. 고인은 2018년 한 시사지와 인터뷰에서 “6년 전쯤 좀 고약한 형태의 위암에 걸렸다”면서 “수술과 항암 치료 등을 거부하고 자연치유법을 택했다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F26%2Fmydaily%2F20220326211640628xfyz.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['모비우스'-'배니싱: 미제사건'-'B컷' [미리보는] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220327092202465</link>
+            <guid>https://movie.v.daum.net/v/20220327092202465</guid>
+            <pubDate>Sun, 27 Mar 2022 08:22:56 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 모비우스, 배니싱:미제사건, B컷 / 사진=영화 포스터코로나19 확진자 수가 급증함에 따라 일일 관객 수가 급감하고, 위험을 무릅쓰고 극장가를 찾을 만한 영화가 등장하지 않고 있다. 기대를 모았던 슈퍼 히어로 '더 배트맨'도 한국에서는 힘을 쓰지 못했고, 이후 다양한 장르의 한국 영화부터 아카데미 노미네이트로 화제를 모으고 있는 쟁]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F27%2Fstarnews%2F20220327092203917sman.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[정우 '뜨거운 피', 4일째 박스오피스 1위 수성 [★무비차트] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220327072213395</link>
+            <guid>https://movie.v.daum.net/v/20220327072213395</guid>
+            <pubDate>Sun, 27 Mar 2022 08:22:56 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='뜨거운피' 영화 '뜨거운 피'가 개봉 4일째 박스오피스 1위를 지켰다. 27일 영진위 영화관 입장권 통합전산망에 따르면 '뜨거운 피'는 지난 26일 6만7781명의 관객을 모았다. 누적관객수는 15만 8137명이다. 뜨거운 피'는 1993년, 더 나쁜 놈만이 살아남는 곳 부산 변두리 포구 '구암'의 실세 '희수'와 그곳]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F27%2Fstarnews%2F20220327072215081yvmj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[애플? 넷플릭스?.. 올해 오스카는 누구 품에 (다음영화 뉴스 ─ 최신)]]></title>
@@ -1443,7 +1443,7 @@
             <link>https://tv.naver.com/v/25854088</link>
             <guid>https://tv.naver.com/v/25854088</guid>
             <pubDate>Fri, 25 Mar 2022 08:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_283/qLBD5_1648194593161Kq3ps_JPEG/15282847-ac10-11ec-8527-505dac8c38f5_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1547,7 +1547,7 @@
             <link>https://tv.naver.com/v/25831333</link>
             <guid>https://tv.naver.com/v/25831333</guid>
             <pubDate>Thu, 24 Mar 2022 08:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220324_188/Sv0RD_164810834787623d0s_JPEG/40a29fb2-ab47-11ec-8527-505dac8c38f5_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1555,7 +1555,7 @@
             <link>https://tv.naver.com/v/25831220</link>
             <guid>https://tv.naver.com/v/25831220</guid>
             <pubDate>Thu, 24 Mar 2022 08:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220324_17/NWHdp_1648108123532hFEqS_JPEG/b4a671db-ab46-11ec-9c28-d4f5ef58ac88_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1563,7 +1563,7 @@
             <link>https://tv.naver.com/v/25831059</link>
             <guid>https://tv.naver.com/v/25831059</guid>
             <pubDate>Thu, 24 Mar 2022 08:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220324_186/FtVrd_1648107806851rnVYO_JPEG/e85a2e10-ab45-11ec-9e39-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1571,7 +1571,7 @@
             <link>https://tv.naver.com/v/25830718</link>
             <guid>https://tv.naver.com/v/25830718</guid>
             <pubDate>Thu, 24 Mar 2022 08:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220324_15/ZojXs_1648107018419V6fHM_JPEG/090ee6df-ab44-11ec-9b7b-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
