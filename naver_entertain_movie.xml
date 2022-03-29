@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-29T17:22:02.120Z</updated>
+    <updated>2022-03-29T19:17:32.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[선악 회색지대 놓인 안티 히어로, 고뇌 어린 서사 보여준다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001515368</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001515368"/>
+        <updated>2022-03-29T19:15:55.624Z</updated>
+        <content type="html"><![CDATA[세상을 위험에 빠트리는 안티 히어로에게도 나름의 사정이 있다. 마블의 안티 히어로 모비우스를 주인공으로 한 첫 번째 실사영화가 나왔다. 영화 ‘스파이더맨: 노웨이 홈’ ‘베놈’의 제작진이 참여했다. 희귀 혈액병을 가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['킹 리차드' 실존 주인공 윌리엄스, 윌 스미스 폭행 꾸짖어]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013080704</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013080704"/>
+        <updated>2022-03-29T19:15:55.629Z</updated>
+        <content type="html"><![CDATA[스미스 모친 "아들이 폭발하는 것 처음 봐…폭행에 충격"'킹 리차드' 실존 주인공 리처드 윌리엄스, (EPA=연합뉴스) 영화 '킹 리처드'의 실존 주인공 리처드 윌리엄스가 지난 2010년 딸 비너스 윌리엄스의 테니스 경기를 지켜보고 있다. 2022.3.29 [EPA 연합뉴스 자료사진. 재판매 및 DB 금지] photo@y...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세상을 구원할 것인가, 파괴할 것인가…마블 안티 히어로 ‘모비우스’]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001515343</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004941898"/>
         <updated>2022-03-29T13:29:18.313Z</updated>
         <content type="html"><![CDATA[홍상수 감독의 27번째 작품 ‘소설가의 영화’가 4월 21일 국내 개봉을 확정 지었다. ‘소설가의 영화’는 지난달 열린 제72회 베를린국제영화제에서 은곰상 심사위원대상을 수상했다. 심사위원단은 “간결함의 거장인 홍상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김동완 "코로나 잘 회복했다. 탐정까지는 경멸스러운 일" [인터뷰M]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000150116</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000150116"/>
-        <updated>2022-03-29T13:29:18.328Z</updated>
-        <content type="html"><![CDATA[영화 'B컷'을 통해 파격적인 연기변신을 한 김동완을 만났다. 최근 코로나19에 확진되며 언론시사회에도 참석하지 못했던 김동완은 화상 인터뷰를 통해 건강해진 모습으로 인사를 했다. "건강은 잘 회복했다. 다행스럽게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["가장 추악한 순간"…윌 스미스 '오스카 폭행' 파장]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000534804</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000534804"/>
-        <updated>2022-03-29T13:29:18.332Z</updated>
-        <content type="html"><![CDATA[[앵커] 어제(28일) 아카데미 시상식에서 벌어진 초유의 폭행 사태에 대한 파장이 큽니다. 할리우드 영화인들은 공개적으로 윌 스미스를 규탄했고, 주최 측은 공식 조사에 착수했습니다. 정다예 기자입니다. [기자] 전]]></content>
     </entry>
 </feed>
