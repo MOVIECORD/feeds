@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 19:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 20:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F01%2Fohmynews%2F20220401115101720tvyg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[맥클레인 형사! 많이 그리울 거예요]]></title>
-            <link>https://movie.v.daum.net/v/20220331181227166</link>
-            <guid>https://movie.v.daum.net/v/20220331181227166</guid>
-            <pubDate>Fri, 01 Apr 2022 01:45:35 GMT</pubDate>
-            <content:encoded><![CDATA['아듀! 맥클레인.' 영화 '다이 하드'에서 형사 존 맥클레인으로 열연한 미국 영화배우 브루스 윌리스(67·사진)가 최근 실어증 진단을 받아 은퇴한다고 그의 가족이 밝혔다. 브루스 윌리스의 딸 루머 윌리스는 지난 30일(현지시간) 인스타그램을 통해 "아버지가 건강 문제를 겪고 있으며 최근 인지능력에 영향을 미치는 실어증 진단을 받았다"면서 "많은 부분을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F31%2Fmk%2F20220331181228666luke.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['앵커' 메인포스터..천우희·신하균·이혜영, 미스터리 실체 향한 위험한 여정]]></title>
             <link>https://movie.v.daum.net/v/20220401091543970</link>
             <guid>https://movie.v.daum.net/v/20220401091543970</guid>
@@ -102,6 +94,14 @@
             <pubDate>Fri, 01 Apr 2022 10:23:15 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 한미희 기자 = ▲ 루이스 웨인:사랑을 그린 고양이 화가 = 영국 빅토리아 시대, 의인화한 고양이 그림으로 사랑받으며 고양이에 대한 인식을 바꾼 화가 루이스 웨인(1860∼1939)의 전기 영화다. 동물에 대한 애정이 각별했던 루이스(베네딕트 컴버배치 분)는 아버지가 돌아가신 후 어머니와 다섯 명의 여동생을 부양해야 하는 가장이 되어 동]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F01%2Fyonhap%2F20220401165223413amqj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[맥클레인 형사! 많이 그리울 거예요]]></title>
+            <link>https://movie.v.daum.net/v/20220331181227166</link>
+            <guid>https://movie.v.daum.net/v/20220331181227166</guid>
+            <pubDate>Fri, 01 Apr 2022 01:45:35 GMT</pubDate>
+            <content:encoded><![CDATA['아듀! 맥클레인.' 영화 '다이 하드'에서 형사 존 맥클레인으로 열연한 미국 영화배우 브루스 윌리스(67·사진)가 최근 실어증 진단을 받아 은퇴한다고 그의 가족이 밝혔다. 브루스 윌리스의 딸 루머 윌리스는 지난 30일(현지시간) 인스타그램을 통해 "아버지가 건강 문제를 겪고 있으며 최근 인지능력에 영향을 미치는 실어증 진단을 받았다"면서 "많은 부분을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F31%2Fmk%2F20220331181228666luke.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[무비차트TEN] 대작 없는 4월 극장가, '모비우스' 독주 조짐..'스텔라' 'B컷' 존재감 無]]></title>
