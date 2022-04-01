@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 15:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 19:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -191,20 +191,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc7ebf07f434b69a023fac2a8287b7a0b0bc8a564" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 주술회전 0 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156790</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156790</guid>
-            <pubDate>Fri, 28 Jan 2022 11:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdec276db284e8c6d82f974cff11fa991ccd3f6b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[뜨거운 피 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=125271</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=125271</guid>
             <pubDate>Fri, 11 Mar 2022 02:42:52 GMT</pubDate>
             <content:encoded><![CDATA[22.03.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc40ad380f429b74bc6559c555e43392706bf9c5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 주술회전 0 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156790</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156790</guid>
+            <pubDate>Fri, 28 Jan 2022 11:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdec276db284e8c6d82f974cff11fa991ccd3f6b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[배니싱: 미제사건 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -247,20 +247,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd241cc8046e67a0230a48c67effed151ed03a901" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[재춘언니 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145292</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145292</guid>
-            <pubDate>Tue, 15 Mar 2022 10:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc0f69300e7e973ad35ab1c80aa00c91f0adbc1e9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[드라이 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149227</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149227</guid>
             <pubDate>Wed, 30 Mar 2022 01:25:58 GMT</pubDate>
             <content:encoded><![CDATA[22.03.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6ac6afd6ce9c957440c76d731f81503c2d5b3d42" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[재춘언니 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145292</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145292</guid>
+            <pubDate>Tue, 15 Mar 2022 10:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc0f69300e7e973ad35ab1c80aa00c91f0adbc1e9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스펜서 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -279,6 +279,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F22bbb15e8a2a67232a02dc09b87b8aff202a5609" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[뱅드림! 팝핀‘ 드림! (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156955</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156955</guid>
+            <pubDate>Thu, 24 Mar 2022 01:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5850d17f2763ce9382810e46da277c047331a826" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[킹 리차드 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152650</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152650</guid>
@@ -293,14 +301,6 @@
             <pubDate>Tue, 01 Mar 2022 07:18:08 GMT</pubDate>
             <content:encoded><![CDATA[22.03.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe3472a25d3f3448b0a113f2c7684418417d2d372" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[뱅드림! 팝핀‘ 드림! (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156955</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156955</guid>
-            <pubDate>Thu, 24 Mar 2022 01:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5850d17f2763ce9382810e46da277c047331a826" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[벨파스트 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -543,14 +543,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F01%2FSBSfunE%2F20220401130004221xvod.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[맥클레인 형사! 많이 그리울 거예요 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220331181227166</link>
-            <guid>https://movie.v.daum.net/v/20220331181227166</guid>
-            <pubDate>Fri, 01 Apr 2022 01:45:35 GMT</pubDate>
-            <content:encoded><![CDATA['아듀! 맥클레인.' 영화 '다이 하드'에서 형사 존 맥클레인으로 열연한 미국 영화배우 브루스 윌리스(67·사진)가 최근 실어증 진단을 받아 은퇴한다고 그의 가족이 밝혔다. 브루스 윌리스의 딸 루머 윌리스는 지난 30일(현지시간) 인스타그램을 통해 "아버지가 건강 문제를 겪고 있으며 최근 인지능력에 영향을 미치는 실어증 진단을 받았다"면서 "많은 부분을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F31%2Fmk%2F20220331181228666luke.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['모비우스' 피로 쓴 빌런 이야기.. 소니 고질병 여전하네 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220401140301331</link>
             <guid>https://movie.v.daum.net/v/20220401140301331</guid>
@@ -567,28 +559,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F01%2Fyonhap%2F20220401102718343wfqv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[SC초점] 극장산업 존폐 위기..수천억원 적자, 더이상 버틸 힘이 없다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220401075431795</link>
-            <guid>https://movie.v.daum.net/v/20220401075431795</guid>
-            <pubDate>Thu, 31 Mar 2022 23:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[몇 해 전까지만 해도 1000만 관객을 넘기는 영화가 속출하고 해외에서는 유수의 영화제에서 수상 소식이 심심치 않게 들리며 극장가는 순풍만 남은 것처럼 보였다. 하지만 현재 극장가는 산업 자체가 사라질지도 모른다는 위기감이 엄습하고 있다. 최근 들어 코로나19가 정점을 지나는 중이고 방역수칙도 완화되면서 방송이나 공연 등 대중문화 업계는 숨]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F01%2FSpoChosun%2F20220401114630074dbxo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[공식] 방은진→오지호 출연 옴니버스 영화 '나의 사람아', 전주영화제 초청 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220401141621869</link>
             <guid>https://movie.v.daum.net/v/20220401141621869</guid>
             <pubDate>Fri, 01 Apr 2022 08:25:26 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠조선 조지영 기자] 4명의 감독이 만든 4인 4색 에피소드를 그린 옴니버스 영화 '나의 사람아'(김경형·조진규·정흥순·박영훈 감독, 영화사 마천루 제작)가 제23회 전주국제영화제 코리안시네마 부문에 초청작으로 선정됐다. '동갑내기 과외하기' '라이어'를 연출한 김경형 감독의 '마지막 소원'은 방은진, 오지호 주연의 영화. '조폭마누라1]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F01%2FSpoChosun%2F20220401141621225sahb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[이 형 36년 지나서도 이럴 일? '탑건' 톰 크루즈 '숨멎' 스틸 공개 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220331142552764</link>
-            <guid>https://movie.v.daum.net/v/20220331142552764</guid>
-            <pubDate>Fri, 01 Apr 2022 01:45:35 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] 그야말로 ‘숨멎’이다. 숨이 멎는다는 요즘 말 ‘숨멎’을 무려 36년전 ‘Take My Breath Away’란 주제가 제목으로 ‘시전’했던 레전드 무비 ‘탑건.’ 오늘의 톰 크루즈를 있게 한, 매버릭이란 부제를 달고 돌아오는 그 ‘탑건’이 ‘숨멎’일 수밖에 없는 톰 크루즈 단독 스틸 컷 2장을 5월 개봉 출사표로 내밀었다. 국]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F31%2Fnewsen%2F20220331142552598xrwy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[코로나 시대를 위한 따뜻한 웃음의 힐링 판타지 코미디 (다음영화 뉴스 ─ 인기)]]></title>
@@ -599,12 +575,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F01%2Fohmynews%2F20220401115101720tvyg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[새영화] 루이스 웨인:사랑을 그린 고양이 화가 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220401165223914</link>
-            <guid>https://movie.v.daum.net/v/20220401165223914</guid>
-            <pubDate>Fri, 01 Apr 2022 10:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 한미희 기자 = ▲ 루이스 웨인:사랑을 그린 고양이 화가 = 영국 빅토리아 시대, 의인화한 고양이 그림으로 사랑받으며 고양이에 대한 인식을 바꾼 화가 루이스 웨인(1860∼1939)의 전기 영화다. 동물에 대한 애정이 각별했던 루이스(베네딕트 컴버배치 분)는 아버지가 돌아가신 후 어머니와 다섯 명의 여동생을 부양해야 하는 가장이 되어 동]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F01%2Fyonhap%2F20220401165223413amqj.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[맥클레인 형사! 많이 그리울 거예요 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220331181227166</link>
+            <guid>https://movie.v.daum.net/v/20220331181227166</guid>
+            <pubDate>Fri, 01 Apr 2022 01:45:35 GMT</pubDate>
+            <content:encoded><![CDATA['아듀! 맥클레인.' 영화 '다이 하드'에서 형사 존 맥클레인으로 열연한 미국 영화배우 브루스 윌리스(67·사진)가 최근 실어증 진단을 받아 은퇴한다고 그의 가족이 밝혔다. 브루스 윌리스의 딸 루머 윌리스는 지난 30일(현지시간) 인스타그램을 통해 "아버지가 건강 문제를 겪고 있으며 최근 인지능력에 영향을 미치는 실어증 진단을 받았다"면서 "많은 부분을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F31%2Fmk%2F20220331181228666luke.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['앵커' 메인포스터..천우희·신하균·이혜영, 미스터리 실체 향한 위험한 여정 (다음영화 뉴스 ─ 인기)]]></title>
@@ -613,6 +589,14 @@
             <pubDate>Fri, 01 Apr 2022 14:19:54 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '앵커'(감독 정지연)가 긴장감을 자아내는 메인 포스터를 공개했다. '앵커'는 방송국 간판 앵커 세라에게 누군가 자신을 죽일 것이라며 직접 취재해 달라는 제보 전화가 걸려온 후, 그녀에게 벌어지는 기묘한 일을 그린 미스터리 스릴러다. 첫 번째 포스터는 제보자의 죽음 이후 충격적인 진실을 마주하는 앵커 세라(천우희 분)와]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F01%2Fxportsnews%2F20220401091544452qdzc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[새영화] 루이스 웨인:사랑을 그린 고양이 화가 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220401165223914</link>
+            <guid>https://movie.v.daum.net/v/20220401165223914</guid>
+            <pubDate>Fri, 01 Apr 2022 10:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 한미희 기자 = ▲ 루이스 웨인:사랑을 그린 고양이 화가 = 영국 빅토리아 시대, 의인화한 고양이 그림으로 사랑받으며 고양이에 대한 인식을 바꾼 화가 루이스 웨인(1860∼1939)의 전기 영화다. 동물에 대한 애정이 각별했던 루이스(베네딕트 컴버배치 분)는 아버지가 돌아가신 후 어머니와 다섯 명의 여동생을 부양해야 하는 가장이 되어 동]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F01%2Fyonhap%2F20220401165223413amqj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[무비차트TEN] 대작 없는 4월 극장가, '모비우스' 독주 조짐..'스텔라' 'B컷' 존재감 無 (다음영화 뉴스 ─ 인기)]]></title>
@@ -631,12 +615,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F01%2Fohmynews%2F20220401163605403rzvr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[SC초점] 극장산업 존폐 위기..수천억원 적자, 더이상 버틸 힘이 없다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220401075431795</link>
+            <guid>https://movie.v.daum.net/v/20220401075431795</guid>
+            <pubDate>Thu, 31 Mar 2022 23:21:02 GMT</pubDate>
+            <content:encoded><![CDATA[몇 해 전까지만 해도 1000만 관객을 넘기는 영화가 속출하고 해외에서는 유수의 영화제에서 수상 소식이 심심치 않게 들리며 극장가는 순풍만 남은 것처럼 보였다. 하지만 현재 극장가는 산업 자체가 사라질지도 모른다는 위기감이 엄습하고 있다. 최근 들어 코로나19가 정점을 지나는 중이고 방역수칙도 완화되면서 방송이나 공연 등 대중문화 업계는 숨]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F01%2FSpoChosun%2F20220401114630074dbxo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이 형 36년 지나서도 이럴 일? '탑건' 톰 크루즈 '숨멎' 스틸 공개 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220331142552764</link>
+            <guid>https://movie.v.daum.net/v/20220331142552764</guid>
+            <pubDate>Fri, 01 Apr 2022 01:45:35 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] 그야말로 ‘숨멎’이다. 숨이 멎는다는 요즘 말 ‘숨멎’을 무려 36년전 ‘Take My Breath Away’란 주제가 제목으로 ‘시전’했던 레전드 무비 ‘탑건.’ 오늘의 톰 크루즈를 있게 한, 매버릭이란 부제를 달고 돌아오는 그 ‘탑건’이 ‘숨멎’일 수밖에 없는 톰 크루즈 단독 스틸 컷 2장을 5월 개봉 출사표로 내밀었다. 국]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F31%2Fnewsen%2F20220331142552598xrwy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[마동석 '범죄도시2', 컴백 임박..만우절 포스터 공개 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220401172357574</link>
             <guid>https://movie.v.daum.net/v/20220401172357574</guid>
             <pubDate>Fri, 01 Apr 2022 09:18:33 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 대한민국 대표 범죄 액션 프랜차이즈 영화 '범죄도시'의 후속작 '범죄도시2'가 만우절 포스터를 공개, 재치 있는 컴백을 알렸다. '범죄도시2'는 4월 1일, 본격적인 컴백을 알리며 시선을 강탈하는 만우절 포스터를 선보였다. '범죄도시2'는 청불 액션 영화의 레전드 '범죄도시'(2017)의 속편으로 괴물형사 마석도(마동석)와]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F01%2Fmydaily%2F20220401172358054ccgr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['벨파스트', 너는 어느 편이냐고 묻는 사람들에게[곽명동의 씨네톡] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220401100029758</link>
+            <guid>https://movie.v.daum.net/v/20220401100029758</guid>
+            <pubDate>Fri, 01 Apr 2022 15:21:49 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘기생충’ 봉준호 감독의 말대로, “가장 개인적인 것이 가장 창의적인 것이다.” 이 말은 마틴 스콜세지 감독이 처음 언급한 뒤 봉준호를 거쳐 이제 ‘벨파스트’의 케네스 브래너 감독에게 당도했다. 그는 널리 알려졌다시피, ‘셰익스피어 전문가’다. ‘헨리5세’ ‘헛소동’ ‘햄릿 만들기’ ‘햄릿’ ‘오델로’의 필모그라피가 그의 존재]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F01%2Fmydaily%2F20220401100029847rygy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[현빈♥손예진 부부와 함께 '협상'..장영남, 홀로 결혼식 참석 '화제' [스타이슈] (다음영화 뉴스 ─ 인기)]]></title>
@@ -653,14 +661,6 @@
             <pubDate>Fri, 01 Apr 2022 01:45:35 GMT</pubDate>
             <content:encoded><![CDATA[“너 니 엄마가 아파도 이럴 거냐?” “우리 엄만 안 그래!” 종욱(김영민 분)도 몰랐다. 아니, 누군들 알았을까. 내 부모가 이토록 걱정스러운 존재가 될 줄은…. 그 어려운 시대를 다 헤쳐냈건만 세월에 속절없이 무너진 부모를 결국 마주하고 말았다. 종욱은 부단히도 애를 썼다. 퍽퍽한 현실에도 늘 엄마가 먼저다. 마이너스 통장을 끌어다 요양보호사를 데려]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F31%2Fsegye%2F20220331200502875kpsw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['벨파스트', 너는 어느 편이냐고 묻는 사람들에게[곽명동의 씨네톡] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220401100029758</link>
-            <guid>https://movie.v.daum.net/v/20220401100029758</guid>
-            <pubDate>Fri, 01 Apr 2022 15:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘기생충’ 봉준호 감독의 말대로, “가장 개인적인 것이 가장 창의적인 것이다.” 이 말은 마틴 스콜세지 감독이 처음 언급한 뒤 봉준호를 거쳐 이제 ‘벨파스트’의 케네스 브래너 감독에게 당도했다. 그는 널리 알려졌다시피, ‘셰익스피어 전문가’다. ‘헨리5세’ ‘헛소동’ ‘햄릿 만들기’ ‘햄릿’ ‘오델로’의 필모그라피가 그의 존재]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F01%2Fmydaily%2F20220401100029847rygy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<아이다 레드> 예고편 (우리 영화 볼래?)]]></title>
@@ -1307,7 +1307,7 @@
             <link>https://tv.naver.com/v/25984453</link>
             <guid>https://tv.naver.com/v/25984453</guid>
             <pubDate>Fri, 01 Apr 2022 10:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220401_154/cyZSH_164880590776076wcW_JPEG/ba4584f2-b19e-11ec-b1ad-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1315,7 +1315,7 @@
             <link>https://tv.naver.com/v/25984299</link>
             <guid>https://tv.naver.com/v/25984299</guid>
             <pubDate>Fri, 01 Apr 2022 10:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220401_91/eFoJo_1648805452480cTNRl_JPEG/8866e884-b19d-11ec-bc38-505dac8c37f3_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1323,7 +1323,7 @@
             <link>https://tv.naver.com/v/25983851</link>
             <guid>https://tv.naver.com/v/25983851</guid>
             <pubDate>Fri, 01 Apr 2022 09:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220401_31/x7DYw_16488040725624DfQY_JPEG/ce3fcb56-b19a-11ec-88d2-505dacfbaa5c_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1331,7 +1331,7 @@
             <link>https://tv.naver.com/v/25979868</link>
             <guid>https://tv.naver.com/v/25979868</guid>
             <pubDate>Fri, 01 Apr 2022 07:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220401_96/VOWhh_16487964282160SoOK_JPEG/0f4c7f5e-b189-11ec-b1ad-d4f5ef590144_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1339,7 +1339,7 @@
             <link>https://tv.naver.com/v/25978472</link>
             <guid>https://tv.naver.com/v/25978472</guid>
             <pubDate>Fri, 01 Apr 2022 06:25:38 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220401_176/dpZqs_1648793485477gsAPk_JPEG/38e6d78f-b182-11ec-bc9a-505dac8c381b_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1347,7 +1347,7 @@
             <link>https://tv.naver.com/v/25977271</link>
             <guid>https://tv.naver.com/v/25977271</guid>
             <pubDate>Fri, 01 Apr 2022 06:25:38 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220401_149/9CEdL_1648791007308S8fcb_JPEG/9079dfd9-b17c-11ec-bc9a-505dac8c381b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1355,7 +1355,7 @@
             <link>https://tv.naver.com/v/25976906</link>
             <guid>https://tv.naver.com/v/25976906</guid>
             <pubDate>Fri, 01 Apr 2022 05:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220401_59/16ijk_16487901302250MUge_JPEG/8e04fa0b-b17a-11ec-9e39-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1363,7 +1363,7 @@
             <link>https://tv.naver.com/v/25974123</link>
             <guid>https://tv.naver.com/v/25974123</guid>
             <pubDate>Fri, 01 Apr 2022 03:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220401_299/4yBFM_1648781509563Xwakz_JPEG/951b56b3-b166-11ec-89d7-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1371,7 +1371,7 @@
             <link>https://tv.naver.com/v/25973866</link>
             <guid>https://tv.naver.com/v/25973866</guid>
             <pubDate>Fri, 01 Apr 2022 03:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220401_64/jyshn_1648781108438Atbgn_JPEG/1648781104793.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1379,7 +1379,7 @@
             <link>https://tv.naver.com/v/25973669</link>
             <guid>https://tv.naver.com/v/25973669</guid>
             <pubDate>Fri, 01 Apr 2022 03:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220401_278/rpNxI_1648780582222NfCr9_JPEG/57e42cd9-b164-11ec-ad5e-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1387,7 +1387,7 @@
             <link>https://tv.naver.com/v/25972895</link>
             <guid>https://tv.naver.com/v/25972895</guid>
             <pubDate>Fri, 01 Apr 2022 03:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220401_276/bUpB7_1648778699444yicqK_JPEG/eb201365-b15f-11ec-931f-505dac8c3721_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1395,7 +1395,7 @@
             <link>https://tv.naver.com/v/25972754</link>
             <guid>https://tv.naver.com/v/25972754</guid>
             <pubDate>Fri, 01 Apr 2022 03:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220401_209/PMvMA_1648778347242KJa7e_JPEG/e9fe6be0-b15e-11ec-88d2-505dacfbaa5c_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1403,7 +1403,7 @@
             <link>https://tv.naver.com/v/25972439</link>
             <guid>https://tv.naver.com/v/25972439</guid>
             <pubDate>Fri, 01 Apr 2022 01:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220401_280/yHiqW_1648777558253zoDsI_JPEG/3535687b-b15d-11ec-a0dc-d4f5ef5a9532_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
