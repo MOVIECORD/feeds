@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 03:32:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 04:26:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['파친코', 구멍이 없다 [김나연의 사선] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003040878</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003040878</guid>
+            <pubDate>Sat, 02 Apr 2022 04:24:44 GMT</pubDate>
+            <content:encoded><![CDATA[영화·OTT를 보는 김나연 기자의 '사적인 시선' "1910년 일본은 제국을 확장하며 한국을 식민지로 삼았다. 일제 치하에서 많은 한국인이 생계를 잃고 고향을 뒤로하고 외국 땅으로 떠났다. 그럼에도 불구하고 한국인들]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[잃을 게 없는 자들의 '정당한 분노'가 시작됐다 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002347906</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[그룹 신화 멤버 겸 배우 김동완(43)이 첫 범죄 스릴러에 도전했다. 김동완은 지난달 30일 개봉한 영화 ‘B컷’(감독 김진영)에서 스마트폰 사설 수리업자 승현을 연기했다. ‘B컷’은 승현이 유력 대선후보의 비밀이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[주말의 OTT]셀럽파이브 이번엔 넷플릭스로 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011098918</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011098918</guid>
-            <pubDate>Fri, 01 Apr 2022 21:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스] 손정빈 기자 = 4월 1주차 주말 넷플릭스·디즈니+·왓챠에서 볼만한 작품을 추렸다. 넷플릭스에선 송은이·김신영·안영미·신봉선이 만든 걸그룹 '셀럽파이브' 멤버들이 출연하는 코미디 쇼 '셀럽은 회의 중]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[모비우스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=129103</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=129103</guid>
@@ -239,6 +239,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58a3b0cf3f22998a0f53d73dad7a5f6d8b8d3d3f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[드라이 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149227</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149227</guid>
+            <pubDate>Wed, 30 Mar 2022 01:25:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6ac6afd6ce9c957440c76d731f81503c2d5b3d42" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[재춘언니 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145292</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145292</guid>
@@ -253,14 +261,6 @@
             <pubDate>Wed, 23 Mar 2022 23:19:26 GMT</pubDate>
             <content:encoded><![CDATA[22.03.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd241cc8046e67a0230a48c67effed151ed03a901" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[드라이 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149227</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149227</guid>
-            <pubDate>Wed, 30 Mar 2022 01:25:58 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6ac6afd6ce9c957440c76d731f81503c2d5b3d42" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스펜서 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -335,12 +335,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f36239c8793130463da1803b3290db64c0bc554" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[로망스 돌 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138836</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138836</guid>
-            <pubDate>Sat, 02 Apr 2022 03:30:40 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2d2b95e7f7ab986aebc6105aa409ce7357f81b30" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[듄 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=130886</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=130886</guid>
+            <pubDate>Sat, 02 Apr 2022 04:24:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0235b8e9c0048e4301f8c9c74da929863e33456" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[앰뷸런스 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -551,6 +551,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F01%2Fohmynews%2F20220401115101720tvyg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[공식] 방은진→오지호 출연 옴니버스 영화 '나의 사람아', 전주영화제 초청 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220401141621869</link>
+            <guid>https://movie.v.daum.net/v/20220401141621869</guid>
+            <pubDate>Fri, 01 Apr 2022 08:25:26 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 4명의 감독이 만든 4인 4색 에피소드를 그린 옴니버스 영화 '나의 사람아'(김경형·조진규·정흥순·박영훈 감독, 영화사 마천루 제작)가 제23회 전주국제영화제 코리안시네마 부문에 초청작으로 선정됐다. '동갑내기 과외하기' '라이어'를 연출한 김경형 감독의 '마지막 소원'은 방은진, 오지호 주연의 영화. '조폭마누라1]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F01%2FSpoChosun%2F20220401141621225sahb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[새영화] 루이스 웨인:사랑을 그린 고양이 화가 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220401165223914</link>
             <guid>https://movie.v.daum.net/v/20220401165223914</guid>
@@ -565,14 +573,6 @@
             <pubDate>Fri, 01 Apr 2022 04:27:28 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;개봉 후 극찬을 받고 있는 배우 크리스틴 스튜어트 주연의 영화 '스펜서'가 7만 관객을 돌파하며 '킹 리차드' '벨파스트' '패러렐 마더스'&nbsp;등 2022년 아카데미 화제작들 가운데 가장 높은 스코어를 기록했다. 올해 미국 아카데미 시상식이 끝난 후에도 '스펜서'(감독 파블로 라라인, 수입공동배급 그린나래미디어, 배급 영화특별시]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F01%2Fpoctan%2F20220401124112069yxsc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식] 방은진→오지호 출연 옴니버스 영화 '나의 사람아', 전주영화제 초청 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220401141621869</link>
-            <guid>https://movie.v.daum.net/v/20220401141621869</guid>
-            <pubDate>Fri, 01 Apr 2022 08:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 4명의 감독이 만든 4인 4색 에피소드를 그린 옴니버스 영화 '나의 사람아'(김경형·조진규·정흥순·박영훈 감독, 영화사 마천루 제작)가 제23회 전주국제영화제 코리안시네마 부문에 초청작으로 선정됐다. '동갑내기 과외하기' '라이어'를 연출한 김경형 감독의 '마지막 소원'은 방은진, 오지호 주연의 영화. '조폭마누라1]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F01%2FSpoChosun%2F20220401141621225sahb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['오스카상' 캐스린 비글로 감독, 넷플릭스 영화 '오로라' 연출 (다음영화 뉴스 ─ 인기)]]></title>
@@ -599,6 +599,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F01%2F10asia%2F20220401160411931sjqf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[아카데미 회원 반납한 윌 스미스, 어떤 불이익 받나? [스타in포커스] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220402113706963</link>
+            <guid>https://movie.v.daum.net/v/20220402113706963</guid>
+            <pubDate>Sat, 02 Apr 2022 03:30:53 GMT</pubDate>
+            <content:encoded><![CDATA[(사진=AP/뉴시스)[이데일리 스타in 김보영 기자] 아카데미(오스카) 시상식에서 폭행 및 욕설 사태로 물의를 일으킨 배우 윌 스미스가 아카데미 회원 자격을 자진 반납하면서, 회원 자격 박탈에 따라 그가 받을 제약에도 관심이 쏠린다. 2일(한국시간) AP통신 및 뉴욕타임스 등 외신 보도에 따르면, 윌 스미스는 “나의 행동에 대한 모든 결과를 전적으로 수용]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F02%2FEdaily%2F20220402113709663xtnk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[무명 연극배우의 일상 보여준 영화, 꼭 봐야하는 이유 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220401163604505</link>
             <guid>https://movie.v.daum.net/v/20220401163604505</guid>
@@ -615,12 +623,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F02%2Fsportskhan%2F20220402115327574hnex.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[아카데미 회원 반납한 윌 스미스, 어떤 불이익 받나? [스타in포커스] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220402113706963</link>
-            <guid>https://movie.v.daum.net/v/20220402113706963</guid>
-            <pubDate>Sat, 02 Apr 2022 03:30:53 GMT</pubDate>
-            <content:encoded><![CDATA[(사진=AP/뉴시스)[이데일리 스타in 김보영 기자] 아카데미(오스카) 시상식에서 폭행 및 욕설 사태로 물의를 일으킨 배우 윌 스미스가 아카데미 회원 자격을 자진 반납하면서, 회원 자격 박탈에 따라 그가 받을 제약에도 관심이 쏠린다. 2일(한국시간) AP통신 및 뉴욕타임스 등 외신 보도에 따르면, 윌 스미스는 “나의 행동에 대한 모든 결과를 전적으로 수용]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F02%2FEdaily%2F20220402113709663xtnk.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['파친코', 구멍이 없다 [김나연의 사선] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220402130002633</link>
+            <guid>https://movie.v.daum.net/v/20220402130002633</guid>
+            <pubDate>Sat, 02 Apr 2022 04:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 영화·OTT를 보는 김나연 기자의 '사적인 시선' 파친코 / 사진=애플TV플러스 "1910년 일본은 제국을 확장하며 한국을 식민지로 삼았다. 일제 치하에서 많은 한국인이 생계를 잃고 고향을 뒤로하고 외국 땅으로 떠났다. 그럼에도 불구하고 한국인들은 견뎠다. 가족들은 견뎠다. 여기 몇 세대에 걸쳐 견뎌낸 한 가족이 있다." 어두운]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F02%2Fstarnews%2F20220402130003653pfbl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['벨파스트', 너는 어느 편이냐고 묻는 사람들에게[곽명동의 씨네톡] (다음영화 뉴스 ─ 인기)]]></title>
@@ -631,6 +639,21 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F01%2Fmydaily%2F20220401100029847rygy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['손찌검' 윌 스미스, 아카데미 회원 자진 사퇴.."변명의 여지없다"[종합] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220402121924331</link>
+            <guid>https://movie.v.daum.net/v/20220402121924331</guid>
+            <pubDate>Sat, 02 Apr 2022 04:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;지난 일요일 미국 아카데미 시상식에서 배우 크리스 록을 폭행한 뒤 퇴출 및 정직에 직면한 윌 스미스가 영화 예술 과학 아카데미에서 자진 사임했다. 이 같은 조치는 윌 스미스가 배우 인생에서 가장 큰 위기에 빠졌고, 아카데미 이사회 측의 징계 절차를 기다리며 직접 판단을 내렸다. 윌 스미스는 1일(현지 시간·이하 동일) 성명서를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F02%2Fpoctan%2F20220402121925651cucz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[잃을 게 없는 자들의 '정당한 분노'가 시작됐다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220402123004424</link>
+            <guid>https://movie.v.daum.net/v/20220402123004424</guid>
+            <pubDate>Sat, 02 Apr 2022 04:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[[김상목 기자] &nbsp;2004년 미국 콜로라도에서 일명 '킬도저 사건'이 일어난다. 개조한 불도저로 동네를 박살낸 이 희대의 사건은 이름과는 달리 인명피해는 거의 없었다. 사건의 배경은 이랬다. 자신의 토지 주변에 시멘트 공장이 들어서는 과정에서 보상을 요구한 협상이 파탄되자 공장 측은 토지 주변을 빙 둘러 포위하듯 공사를 시작한다. 졸지에 섬처럼 고립된 토지]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[붕 뜬 '스텔라', 웃음도 감동도 시동 불발 [리뷰] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220402100003761</link>
             <guid>https://movie.v.daum.net/v/20220402100003761</guid>
@@ -639,28 +662,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F02%2Fstarnews%2F20220402100004649ouob.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[윌 스미스가 크리스 록 뺨 때리자..아내 제이다 웃었다 '영상 공개' [월드스타이슈] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220401100659052</link>
-            <guid>https://movie.v.daum.net/v/20220401100659052</guid>
-            <pubDate>Fri, 01 Apr 2022 22:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 아카데미 시상식장 제이다 핀켓 스미스와 윌 스미스/사진=/AFPBBNews=뉴스1 할리우드 배우 윌 스미스가, 시상식 생방송 중 크리스 록을 폭행해 논란이 계속 되고 있다. 이런 가운데 윌 스미스가 크리스 록을 때린 후, 그 모습을 보고 웃는 제이다 핀켓 스미스의 모습이 카메라에 포착 돼 논린이 커지고 있다. 3월 31일(현지시각]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F01%2Fstarnews%2F20220401100700705qfhn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[톰 크루즈 '탑건: 매버릭', 5월 25일 전 세계 최초 개봉[무비타이밍] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220402080009613</link>
-            <guid>https://movie.v.daum.net/v/20220402080009613</guid>
-            <pubDate>Sat, 02 Apr 2022 03:30:53 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 탑건: 매버릭 / 사진=영화 포스터'탑건: 매버릭'이 5월 25일 전 세계 최초 개봉을 확정 짓고 메인 포스터와 메인 예고편을 공개했다. '탑건: 매버릭'이 5월 25일 전 세계 최초 개봉을 확정 지었다. 이와 함께 메인 포스터와 메인 예고편이 공개됐다. 영화 '탑건: 매버릭'은 최고의 조종사로 컴백한 매버릭(톰 크루즈 분)과]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F02%2Fstarnews%2F20220402080010686arey.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['불도저에 탄 소녀', 불도저가 된 김혜윤 [마데핫리뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220402105508502</link>
-            <guid>https://movie.v.daum.net/v/20220402105508502</guid>
-            <pubDate>Sat, 02 Apr 2022 03:30:53 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] '불도저를 탄 소녀'는 처음부터 끝까지 불도저처럼 밀고 나가는 영화다. 거침없이 치고받으면서도 적당한 때에 멈춰 서는 강약 조절까지 갖췄다. 그 중심엔 배우 김혜윤이 있다. 불도저 바퀴만 한 키에 여리여리한 체구를 가진 열아홉 소녀가 팔 한가득 용 문신을 새긴 채 폭주하게 되는 과정을 야무지게 짚어나간다. 영화는 편의점 폭행]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F02%2Fmydaily%2F20220402105508615ejym.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['파친코', 구멍이 없다 [김나연의 사선] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220402130002633</link>
+            <guid>https://v.daum.net/v/20220402130002633</guid>
+            <pubDate>Sat, 02 Apr 2022 04:25:12 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 영화·OTT를 보는 김나연 기자의 '사적인 시선' 파친코 / 사진=애플TV플러스 "1910년 일본은 제국을 확장하며 한국을 식민지로 삼았다. 일제 치하에서 많은 한국인이 생계를 잃고 고향을 뒤로하고 외국 땅으로 떠났다. 그럼에도 불구하고 한국인들은 견뎠다. 가족들은 견뎠다. 여기 몇 세대에 걸쳐 견뎌낸 한 가족이 있다." 어두운]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F02%2Fstarnews%2F20220402130003653pfbl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[잃을 게 없는 자들의 '정당한 분노'가 시작됐다 (다음영화 뉴스 ─ 최신)]]></title>
@@ -1418,7 +1425,7 @@
             <link>https://tv.naver.com/v/25984453</link>
             <guid>https://tv.naver.com/v/25984453</guid>
             <pubDate>Fri, 01 Apr 2022 10:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220401_154/cyZSH_164880590776076wcW_JPEG/ba4584f2-b19e-11ec-b1ad-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1434,7 +1441,7 @@
             <link>https://tv.naver.com/v/25983851</link>
             <guid>https://tv.naver.com/v/25983851</guid>
             <pubDate>Fri, 01 Apr 2022 09:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220401_31/x7DYw_16488040725624DfQY_JPEG/ce3fcb56-b19a-11ec-88d2-505dacfbaa5c_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1442,7 +1449,7 @@
             <link>https://tv.naver.com/v/25979868</link>
             <guid>https://tv.naver.com/v/25979868</guid>
             <pubDate>Fri, 01 Apr 2022 07:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220401_96/VOWhh_16487964282160SoOK_JPEG/0f4c7f5e-b189-11ec-b1ad-d4f5ef590144_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1450,7 +1457,7 @@
             <link>https://tv.naver.com/v/25978472</link>
             <guid>https://tv.naver.com/v/25978472</guid>
             <pubDate>Fri, 01 Apr 2022 06:25:38 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220401_176/dpZqs_1648793485477gsAPk_JPEG/38e6d78f-b182-11ec-bc9a-505dac8c381b_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1466,7 +1473,7 @@
             <link>https://tv.naver.com/v/25976906</link>
             <guid>https://tv.naver.com/v/25976906</guid>
             <pubDate>Fri, 01 Apr 2022 05:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220401_59/16ijk_16487901302250MUge_JPEG/8e04fa0b-b17a-11ec-9e39-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
