@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 15:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 16:27:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -223,20 +223,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc0f69300e7e973ad35ab1c80aa00c91f0adbc1e9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[패러렐 마더스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152343</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152343</guid>
-            <pubDate>Fri, 18 Mar 2022 10:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58a3b0cf3f22998a0f53d73dad7a5f6d8b8d3d3f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[이상한 나라의 수학자 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=139237</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=139237</guid>
             <pubDate>Mon, 14 Feb 2022 12:29:07 GMT</pubDate>
             <content:encoded><![CDATA[22.03.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ca21642451e2e68e3eec5b9691c2aba33b47d70" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[패러렐 마더스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152343</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152343</guid>
+            <pubDate>Fri, 18 Mar 2022 10:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58a3b0cf3f22998a0f53d73dad7a5f6d8b8d3d3f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[더 배트맨 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -583,30 +583,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F03%2Fdailian%2F20220403141026502zwdz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['김준호와 열애♥' 김지민, 이상형 보니 "내 리드에 따라오는.."[스타이슈] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220403233632279</link>
-            <guid>https://movie.v.daum.net/v/20220403233632279</guid>
-            <pubDate>Sun, 03 Apr 2022 15:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 한해선 기자] /사진=MBC에브리원 '대한외국인' 방송 캡처 코미디언 김지민이 김준호와 공개 열애를 하면서, 그가 밝혔던 이상형이 재조명되고 있다. 김준호, 김지민의 소속사 JDB엔터테인먼트 측은 3일 "KBS 공채 개그맨 선후배 사이이자, 같은 소속사 식구인 김준호, 김지민이 진지한 만남을 이어가고 있다. 두 사람은 최근 교제를 시작하게 됐]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F03%2Fstarnews%2F20220403233635979xcig.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[우마 서먼·사무엘 잭슨, '펄프 픽션' 이후 28년 만에 재회..'더 킬 룸' 출연[Oh!llywood] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220402235716690</link>
-            <guid>https://movie.v.daum.net/v/20220402235716690</guid>
-            <pubDate>Sun, 03 Apr 2022 09:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;배우 우마 서먼과 사무엘 L. 잭슨이 영화로 재회한다. 쿠엔틴 타란티노 감독의 ‘펄프 픽션’(1994) 이후 28년 만이다. 1일(현지 시간) 우마 서먼과 사무엘 L. 잭슨이 최신 프로젝트를 위해 의기투합한 것으로 알려져 전세계 영화 팬들의 기대를 모을 만하다. 두 배우가 만날 새 영화 ‘The Kill Room’(더 킬 룸)은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F02%2Fpoctan%2F20220402235716367suij.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[주말 맞은 울주세계산악영화제 영화·체험 행사 풍성(종합) (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220403190744236</link>
-            <guid>https://movie.v.daum.net/v/20220403190744236</guid>
-            <pubDate>Sun, 03 Apr 2022 10:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[(울산=연합뉴스) 김용태 기자 = 국내 유일 국제산악영화 축제인 제7회 울주세계산악영화제(www.umff.kr)에서 3일 휴일을 맞아 풍성한 영화와 행사를 선보였다. 개막 사흘째인 이날 오전 10시부터 오후 8시까지 모두 17편의 영화가 상영됐다. 영남알프스 복합웰컴센터에 마련된 움프 시네마에서는 오전 10시 '투게더' 부문 영화가 관객들을 만났다. '투게]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F03%2Fyonhap%2F20220403190744996xcpc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['♥이병헌' 이민정, ESFP '천생 연예인' 결과..'댓글 맛집' 이유 있네[스타IN★] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220403231237185</link>
             <guid>https://movie.v.daum.net/v/20220403231237185</guid>
@@ -623,12 +599,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F03%2Fsegye%2F20220403140132453vton.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[문학과 영화의 관계 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220403115101467</link>
-            <guid>https://movie.v.daum.net/v/20220403115101467</guid>
-            <pubDate>Sun, 03 Apr 2022 04:25:08 GMT</pubDate>
-            <content:encoded><![CDATA[[최형만 기자] ▲ &nbsp;문학과 영화    ⓒ pixabay  오늘 봉준호 감독의 &lt;기생충&gt;을 다시 보면서 새삼 문학과 영화의 관계를 생각해봤습니다. 그 둘은 서로가 지닌 특성이나 기법에 따라 상충하는 측면도 있지만, 대체로 상호보완적인 관계에 있다고 말할 수 있을 겁니다. 뤼미에르 형제가 영화를 발명한 후로 멜리에스, 포터를 거쳐 그리피스에 이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F03%2Fohmynews%2F20220403115102719lygl.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['김준호와 열애♥' 김지민, 이상형 보니 "내 리드에 따라오는.."[스타이슈] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220403233632279</link>
+            <guid>https://movie.v.daum.net/v/20220403233632279</guid>
+            <pubDate>Sun, 03 Apr 2022 15:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 한해선 기자] /사진=MBC에브리원 '대한외국인' 방송 캡처 코미디언 김지민이 김준호와 공개 열애를 하면서, 그가 밝혔던 이상형이 재조명되고 있다. 김준호, 김지민의 소속사 JDB엔터테인먼트 측은 3일 "KBS 공채 개그맨 선후배 사이이자, 같은 소속사 식구인 김준호, 김지민이 진지한 만남을 이어가고 있다. 두 사람은 최근 교제를 시작하게 됐]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F03%2Fstarnews%2F20220403233635979xcig.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[우마 서먼·사무엘 잭슨, '펄프 픽션' 이후 28년 만에 재회..'더 킬 룸' 출연[Oh!llywood] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220402235716690</link>
+            <guid>https://movie.v.daum.net/v/20220402235716690</guid>
+            <pubDate>Sun, 03 Apr 2022 09:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;배우 우마 서먼과 사무엘 L. 잭슨이 영화로 재회한다. 쿠엔틴 타란티노 감독의 ‘펄프 픽션’(1994) 이후 28년 만이다. 1일(현지 시간) 우마 서먼과 사무엘 L. 잭슨이 최신 프로젝트를 위해 의기투합한 것으로 알려져 전세계 영화 팬들의 기대를 모을 만하다. 두 배우가 만날 새 영화 ‘The Kill Room’(더 킬 룸)은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F02%2Fpoctan%2F20220402235716367suij.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[귀여운 고양이 그림에 감춰 둔 가장의 무게와 슬픔 (다음영화 뉴스 ─ 인기)]]></title>
@@ -639,12 +623,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F03%2Fohmynews%2F20220403105102680kwmu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[현빈♥손예진 세기의 결혼식→윌 스미스, 크리스 록 폭행 [위클리무비] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220402092002307</link>
-            <guid>https://movie.v.daum.net/v/20220402092002307</guid>
-            <pubDate>Sun, 03 Apr 2022 15:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진=VAST엔터테인먼트한주간 영화계 소식 전해드립니다 ○...영화 '협상' 후 열애설에 휩싸였던 배우 현빈 손예진 커플이 부부가 됐다. 현빈과 손예진은 지난 3월 31일 서울 광진구 광장동 그랜드 워커힐 호텔 애스톤하우스에서 결혼식을 올렸다. 대한민국을 대표하는 두 톱스타의 '세기의 결혼식'에 많은 관심이 쏠린 가운데, 이날]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F02%2Fstarnews%2F20220402092003343xesj.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[주말 맞은 울주세계산악영화제 영화·체험 행사 풍성(종합) (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220403190744236</link>
+            <guid>https://movie.v.daum.net/v/20220403190744236</guid>
+            <pubDate>Sun, 03 Apr 2022 10:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[(울산=연합뉴스) 김용태 기자 = 국내 유일 국제산악영화 축제인 제7회 울주세계산악영화제(www.umff.kr)에서 3일 휴일을 맞아 풍성한 영화와 행사를 선보였다. 개막 사흘째인 이날 오전 10시부터 오후 8시까지 모두 17편의 영화가 상영됐다. 영남알프스 복합웰컴센터에 마련된 움프 시네마에서는 오전 10시 '투게더' 부문 영화가 관객들을 만났다. '투게]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F03%2Fyonhap%2F20220403190744996xcpc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[문학과 영화의 관계 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220403115101467</link>
+            <guid>https://movie.v.daum.net/v/20220403115101467</guid>
+            <pubDate>Sun, 03 Apr 2022 04:25:08 GMT</pubDate>
+            <content:encoded><![CDATA[[최형만 기자] ▲ &nbsp;문학과 영화    ⓒ pixabay  오늘 봉준호 감독의 &lt;기생충&gt;을 다시 보면서 새삼 문학과 영화의 관계를 생각해봤습니다. 그 둘은 서로가 지닌 특성이나 기법에 따라 상충하는 측면도 있지만, 대체로 상호보완적인 관계에 있다고 말할 수 있을 겁니다. 뤼미에르 형제가 영화를 발명한 후로 멜리에스, 포터를 거쳐 그리피스에 이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F03%2Fohmynews%2F20220403115102719lygl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[윤여정, '파친코'로 제2의 '미나리' 이룰까 [N초점] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220403070025668</link>
+            <guid>https://movie.v.daum.net/v/20220403070025668</guid>
+            <pubDate>Sun, 03 Apr 2022 16:26:48 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '미나리'(감독 정이삭)로 배우 윤여정은 새 역사를 썼다. 지난해 열린 제93회 아카데미 아카데미 시상식에서 그가 영화 '미나리'로 받은 여우조연상은 '한국 배우'가 최초로 받은 아카데미 상이었다. 바로 전년도 봉준호 감독의 '기생충'이 작품상과 감독상, 각본상, 국제장편영화상을 받아 한국 영화 최초 수상에 성공했지]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F03%2FNEWS1%2F20220403070025629jbbs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[울주세계산악영화제 상영작 '아지트:잃어버린 패치를 찾아서' (다음영화 뉴스 ─ 인기)]]></title>
