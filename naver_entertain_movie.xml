@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-04T20:21:55.743Z</updated>
+    <updated>2022-04-04T21:19:14.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마동석·마블·톰크루즈 집합…영화관 5월만 기다린다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011103045</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011103045"/>
+        <updated>2022-04-04T21:17:43.939Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 5월에 볼만한 영화 대거 개봉 앞둬 확진자 줄고 거리두기 완화 희소식 '닥터스트레인지:대혼돈의 멀티버스' 톰 크루즈 주연 '탑건:매버릭' 대기 마동석 주연 '범죄도시2' 흥행 노려 [서울=뉴시스] 손정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“밖에서 보면 처절한 농성장, 들어가 보니 놀라운 공동체”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002585436</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013092088"/>
         <updated>2022-04-04T08:24:06.774Z</updated>
         <content type="html"><![CDATA[(울산=연합뉴스) 제7회 울주세계산악영화제 국제경쟁에 출품된 제니퍼 피돔 감독의 '리버'(River) 한 장면. 2022.4.4 [울주세계산악영화제 제공. 재판매 및 DB 금지 hkm@yna.co.kr]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[울주세계산악영화제 국제경쟁 출품작 '브데트']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013092087</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013092087"/>
-        <updated>2022-04-04T08:24:06.784Z</updated>
-        <content type="html"><![CDATA[(울산=연합뉴스) 제7회 울주세계산악영화제 국제경쟁에 출품된 클로딘 보리스, 파트리스 샤냐르 감독의 '브데트'(Vedette) 한 장면. 2022.4.4 [울주세계산악영화제 제공. 재판매 및 DB 금지 hkm@yna.co.kr]]></content>
     </entry>
 </feed>
