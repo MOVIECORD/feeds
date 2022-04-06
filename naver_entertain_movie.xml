@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-06T02:58:20.367Z</updated>
+    <updated>2022-04-06T04:26:13.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['신비한 동물들과 덤블도어의 비밀' 호그와트 마법학교 등장…13일 개봉]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003849944</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003849944"/>
+        <updated>2022-04-06T04:24:49.506Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 고재완 기자] 영화 '신비한 동물들과 덤블도어의 비밀'이 13일 개봉한다. 해외 소셜을 통해 공개된 반응은 뜨겁다. 전편보다 뛰어나고 '해리 포터' 시리즈를 관통하는 세계관에 놀라운 볼거리로 가득한 마법]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영진위, 영화제작인력 108억원 지원사업 실시]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003042101</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003042101"/>
+        <updated>2022-04-06T04:24:49.506Z</updated>
+        <content type="html"><![CDATA[문화체육관광부와 영화진흥위원회가 침체된 국내 영화제작업계의 일자리를 창출하고 영화제작을 활성화하기 위하여 108억원의 예산을 투입해 '코로나19 극복 영화제작인력 지원사업'을 실시한다. 6일 영화진흥위원회는 이 같은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["65년만 첫 주연작"…'씨네타운' 김영옥이 전한 #말임씨를 부탁해 #임영웅♥ [종합]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003591436</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000609400"/>
         <updated>2022-04-06T02:56:54.237Z</updated>
         <content type="html"><![CDATA[EMK오리지널 뮤지컬 '마타하리'가 완전히 새로운 모습으로 다시 돌아온다. 6일 제작사 EMK뮤지컬컴퍼니가 EMK오리지널의 시작을 알린 대작 '마타하리'의 비밀스럽고 매혹적인 캐릭터 티저 영상을 공개하며 세 번째 시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["할리우드 영화, 돌비로 보세요"…메가박스, 4월 상영작 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000141798</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000141798"/>
-        <updated>2022-04-06T02:56:54.237Z</updated>
-        <content type="html"><![CDATA['앰뷸런스' '수퍼 소닉2' '신비한 동물들과 덤블도어의 비밀' 등 상영 메가박스가 고화질과 음향으로 몰입도를 높이는 돌비 시네마의 4월 개봉 영화를 공개했다. 어드벤처부터 액션 블록버스터까지 다양한 장르의 할리우드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메가박스, 돌비 시네마에서 꼭 즐겨야 할 4월 상영작 소개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000609398</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000609398"/>
-        <updated>2022-04-06T02:56:54.262Z</updated>
-        <content type="html"><![CDATA[극장을 넘어 공간 플랫폼을 지향하는 메가박스(대표 홍정인)가 현존하는 최고의 화질과 음향이 결합된 기술로 관객이 마치 영화 한가운데 있는 듯한 극강의 몰입을 선사하는 ‘돌비 시네마’의 4월 개봉 영화를 소개한다. 어]]></content>
     </entry>
 </feed>
