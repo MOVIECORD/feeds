@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 16:29:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 17:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -263,6 +263,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe23122c18f309d12cfc7a8a71bb6b35b57da18de" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[더 배트맨 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=110137</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=110137</guid>
+            <pubDate>Tue, 15 Feb 2022 03:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8cc69ee37e41d9fed49935446d3a6697f7467df4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[재춘언니 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145292</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145292</guid>
@@ -279,14 +287,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ca21642451e2e68e3eec5b9691c2aba33b47d70" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[더 배트맨 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=110137</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=110137</guid>
-            <pubDate>Tue, 15 Feb 2022 03:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8cc69ee37e41d9fed49935446d3a6697f7467df4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[스펜서 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145181</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145181</guid>
@@ -295,20 +295,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffe807f2e93a1d028b73c1ac89cbcb4e0748965aa" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[패러렐 마더스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152343</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152343</guid>
-            <pubDate>Fri, 18 Mar 2022 10:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58a3b0cf3f22998a0f53d73dad7a5f6d8b8d3d3f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151070</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151070</guid>
             <pubDate>Tue, 01 Mar 2022 04:24:26 GMT</pubDate>
             <content:encoded><![CDATA[21.12.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[패러렐 마더스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152343</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152343</guid>
+            <pubDate>Fri, 18 Mar 2022 10:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58a3b0cf3f22998a0f53d73dad7a5f6d8b8d3d3f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아메리칸 저스티스 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -391,14 +391,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F414f1af0f99af4af0406b2cecfa39aa1bf5e436a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[평평남녀 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151414</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151414</guid>
-            <pubDate>Thu, 07 Apr 2022 08:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcc7b4c33de1f3cd34618ff18ffdb631e965dc0b2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[복지식당 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149619</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149619</guid>
@@ -421,6 +413,14 @@
             <pubDate>Mon, 04 Apr 2022 12:34:02 GMT</pubDate>
             <content:encoded><![CDATA[22.04.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5ee1c83f20ea5234ff165cf4601610e7e2bef343" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[평평남녀 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151414</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151414</guid>
+            <pubDate>Thu, 07 Apr 2022 08:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcc7b4c33de1f3cd34618ff18ffdb631e965dc0b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[야차 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -527,20 +527,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2FSPORTSSEOUL%2F20220407060108142yaad.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['스텔라''불도저에 탄 소녀''앰뷸런스''수퍼소닉2'..4월 극장가 '활짝' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220407073922056</link>
-            <guid>https://movie.v.daum.net/v/20220407073922056</guid>
-            <pubDate>Thu, 07 Apr 2022 08:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠한국 조은애 기자] 4월 극장가&nbsp;외화들의 독주 체제가 이어지고 있다. 마이클 베이 감독의 신작 '앰뷸런스'가 6일 개봉 첫날부터 박스오피스 1위를 차지했고, '수퍼 소닉2', '모비우스' 등이 상위권 경쟁을 벌이고 있다. 반면 한국 영화들은 이렇다 할 성적을 내지 못하고 있다. '이상한 나라의 수학자'가 누적 51만 관객을 돌파했고 '뜨거운]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2FSpoHankook%2F20220407073924650gurr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['뜨거운 피' 이홍내, 강렬한 연기로 충무로 차세대 재목 눈도장 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220406154613320</link>
             <guid>https://movie.v.daum.net/v/20220406154613320</guid>
             <pubDate>Thu, 07 Apr 2022 09:19:50 GMT</pubDate>
             <content:encoded><![CDATA[충무로를 이끌어 갈 차세대 재목의 발견, '뜨거운 피' 이홍내 씨를 향한 열기가 뜨겁다. 영화 '뜨거운 피'는 1993년, 더 나쁜 놈만이 살아남는 곳 부산 변두리 포구 '구암'의 실세 희수(정우)와 그곳에서 살아남기 위한 밑바닥 건달들의 치열한 생존 싸움을 그린 영화다. 이홍내 씨는 극 중 주인공 희수가 태어나 처음으로 지키고 싶었던 새끼 건달 아미 역]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F06%2FYTN%2F20220406154614081jdvw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['스텔라''불도저에 탄 소녀''앰뷸런스''수퍼소닉2'..4월 극장가 '활짝' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220407073922056</link>
+            <guid>https://movie.v.daum.net/v/20220407073922056</guid>
+            <pubDate>Thu, 07 Apr 2022 08:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 조은애 기자] 4월 극장가&nbsp;외화들의 독주 체제가 이어지고 있다. 마이클 베이 감독의 신작 '앰뷸런스'가 6일 개봉 첫날부터 박스오피스 1위를 차지했고, '수퍼 소닉2', '모비우스' 등이 상위권 경쟁을 벌이고 있다. 반면 한국 영화들은 이렇다 할 성적을 내지 못하고 있다. '이상한 나라의 수학자'가 누적 51만 관객을 돌파했고 '뜨거운]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2FSpoHankook%2F20220407073924650gurr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[코로나로 인한 캠핑 관심↑..캠핑스릴러 '데드캠핑'도 관심UP (다음영화 뉴스 ─ 인기)]]></title>
@@ -591,14 +591,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2Fpoctan%2F20220407111409392mdzc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[성소수자 아프간 난민이 마침내 찾은 '집'의 의미 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220407134801396</link>
-            <guid>https://movie.v.daum.net/v/20220407134801396</guid>
-            <pubDate>Thu, 07 Apr 2022 08:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[[김상목 기자] ▲ &nbsp;영화 '나의 집은 어디인가' 포스터 이미지    ⓒ 왓챠  &nbsp; * 이 글에는 영화의 스포일러가 포함돼 있습니다. 1_'난민'의 해결되지 않는 현실에 반비례하는 영화적 풍요의 역설 적어도 작금의 전 세계 영화제에서 오늘날 세계의 화두 중 하나인 난민 문제를 다룬 영화들을 만나기란 절대로 어려운 일이 아니다. 오히려 난민 소]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2Fohmynews%2F20220407134804395gumx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[전도연, '길복순' 촬영 중 머리 부상 "사고 직후 치료..이상 소견 無" [공식입장] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220407203921964</link>
             <guid>https://movie.v.daum.net/v/20220407203921964</guid>
@@ -607,12 +599,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2Fxportsnews%2F20220407203925521fbub.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[리뷰-넷플릭스 영화 '야차']7700발 퍼부은 총격 액션, 실감 나지만 신선하진 않아 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220406180759784</link>
-            <guid>https://movie.v.daum.net/v/20220406180759784</guid>
-            <pubDate>Thu, 07 Apr 2022 01:25:14 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] 북한과 중국 사이 접경지대인 선양은 러시아와도 가까워 남·북한은 물론 중국, 일본까지 동북아 각국 정보기관의 물밑 다툼이 활발한 곳으로 꼽힌다. 아주 위험천만한 곳이다. 국가정보원에 좌천성으로 파견된 검사 한지훈(박해수)은 이곳에 있는 비밀 공작원들인 이른바 ‘블랙팀’에 대한 특별감찰 지시를 받고 현장으로 이동하게 된다. 그는 재벌총수를 수사]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F06%2Fseouleconomy%2F20220406180803886gybg.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[성소수자 아프간 난민이 마침내 찾은 '집'의 의미 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220407134801396</link>
+            <guid>https://movie.v.daum.net/v/20220407134801396</guid>
+            <pubDate>Thu, 07 Apr 2022 08:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[[김상목 기자] ▲ &nbsp;영화 '나의 집은 어디인가' 포스터 이미지    ⓒ 왓챠  &nbsp; * 이 글에는 영화의 스포일러가 포함돼 있습니다. 1_'난민'의 해결되지 않는 현실에 반비례하는 영화적 풍요의 역설 적어도 작금의 전 세계 영화제에서 오늘날 세계의 화두 중 하나인 난민 문제를 다룬 영화들을 만나기란 절대로 어려운 일이 아니다. 오히려 난민 소]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2Fohmynews%2F20220407134804395gumx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[스크린쿼터 사수 투쟁, 신구세대 결별 신호탄 되다 (다음영화 뉴스 ─ 인기)]]></title>
@@ -623,6 +615,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2Fohmynews%2F20220407140302239uhij.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[리뷰-넷플릭스 영화 '야차']7700발 퍼부은 총격 액션, 실감 나지만 신선하진 않아 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220406180759784</link>
+            <guid>https://movie.v.daum.net/v/20220406180759784</guid>
+            <pubDate>Thu, 07 Apr 2022 01:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] 북한과 중국 사이 접경지대인 선양은 러시아와도 가까워 남·북한은 물론 중국, 일본까지 동북아 각국 정보기관의 물밑 다툼이 활발한 곳으로 꼽힌다. 아주 위험천만한 곳이다. 국가정보원에 좌천성으로 파견된 검사 한지훈(박해수)은 이곳에 있는 비밀 공작원들인 이른바 ‘블랙팀’에 대한 특별감찰 지시를 받고 현장으로 이동하게 된다. 그는 재벌총수를 수사]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F06%2Fseouleconomy%2F20220406180803886gybg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[단독]전도연, '길복순' 촬영 중 머리부상.."현재 현장 복귀" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220407182644061</link>
             <guid>https://movie.v.daum.net/v/20220407182644061</guid>
@@ -631,20 +631,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2FEdaily%2F20220407182646803yvwl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['앰뷸런스' 첫날 1만명대 1위..'수퍼 소닉' 2위·'스텔라' 4위 [Nbox] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220407075043205</link>
-            <guid>https://movie.v.daum.net/v/20220407075043205</guid>
-            <pubDate>Thu, 07 Apr 2022 01:25:14 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 영화 '앰뷸런스'가 '모비우스'를 제치고 박스오피스 1위에 올랐다. 7일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '앰뷸런스'는 6일 하루동안 1만6441명을 동원해 박스오피스 1위를 기록했다. 누적관객수는 1만7131명이다. 6일 개봉한 '앰뷸런스'는 개봉 첫날 1만명대 관객을 동원하며 1위 자리를 차지했다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2FNEWS1%2F20220407075044702tftn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['신작·미개봉 영화 9편 상영' 광주독립영화관 개관 4주년 영화제 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220407112943410</link>
             <guid>https://movie.v.daum.net/v/20220407112943410</guid>
             <pubDate>Thu, 07 Apr 2022 14:19:42 GMT</pubDate>
             <content:encoded><![CDATA[기사내용 요약 13일~30일…광주신작·영화제 초청작 '악몽의 원리' '생태교란종' '오늘의 안부' [광주=뉴시스]  류형근 기자 = 광주독립영화관이 지역에서 제작된 9편의 영화를 선보이며 개관 4주년을 기념한다. 광주독립영화관은 13일부터 30일까지 지역에서 만들어진 신작 영화와 미개봉 독립영화 9편을 상영하는 개관 4주년 기획전이 펼쳐진다고 7일]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2Fnewsis%2F20220407112943137vvcp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['앰뷸런스' 첫날 1만명대 1위..'수퍼 소닉' 2위·'스텔라' 4위 [Nbox] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220407075043205</link>
+            <guid>https://movie.v.daum.net/v/20220407075043205</guid>
+            <pubDate>Thu, 07 Apr 2022 01:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 영화 '앰뷸런스'가 '모비우스'를 제치고 박스오피스 1위에 올랐다. 7일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '앰뷸런스'는 6일 하루동안 1만6441명을 동원해 박스오피스 1위를 기록했다. 누적관객수는 1만7131명이다. 6일 개봉한 '앰뷸런스'는 개봉 첫날 1만명대 관객을 동원하며 1위 자리를 차지했다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2FNEWS1%2F20220407075044702tftn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[울주세계산악영화제가 주목하는 나라 '폴란드' 영화들 (다음영화 뉴스 ─ 인기)]]></title>
@@ -1323,7 +1323,7 @@
             <link>https://tv.naver.com/v/26097841</link>
             <guid>https://tv.naver.com/v/26097841</guid>
             <pubDate>Thu, 07 Apr 2022 09:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220407_85/LDj4t_1649322337053e8MHE_JPEG/d1e7ac5c-b651-11ec-b1ad-d4f5ef590144_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1331,7 +1331,7 @@
             <link>https://tv.naver.com/v/26097598</link>
             <guid>https://tv.naver.com/v/26097598</guid>
             <pubDate>Thu, 07 Apr 2022 09:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220407_75/oltRz_1649321738638OWz00_JPEG/121c78a3-b64f-11ec-931f-505dac8c3721_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1339,7 +1339,7 @@
             <link>https://tv.naver.com/v/26097246</link>
             <guid>https://tv.naver.com/v/26097246</guid>
             <pubDate>Thu, 07 Apr 2022 09:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220407_29/QSAYZ_1649320884187CnO6A_JPEG/336194cd-b64e-11ec-a7e2-48df379cca40_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1355,7 +1355,7 @@
             <link>https://tv.naver.com/v/26095867</link>
             <guid>https://tv.naver.com/v/26095867</guid>
             <pubDate>Thu, 07 Apr 2022 08:24:51 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220407_130/sb5gl_1649317907200fPHQn_JPEG/7c6c7b3c-b647-11ec-aa4b-d4f5ef5906a4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1363,7 +1363,7 @@
             <link>https://tv.naver.com/v/26094126</link>
             <guid>https://tv.naver.com/v/26094126</guid>
             <pubDate>Thu, 07 Apr 2022 07:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220407_89/VZfCF_1649313644445BIdEk_JPEG/7ac84c40-b63d-11ec-ad5e-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1379,7 +1379,7 @@
             <link>https://tv.naver.com/v/26091688</link>
             <guid>https://tv.naver.com/v/26091688</guid>
             <pubDate>Thu, 07 Apr 2022 05:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220407_250/i8lPe_1649308111397m9DvA_JPEG/7ceb3fb3-b630-11ec-89d7-48df37ae3dc4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1387,7 +1387,7 @@
             <link>https://tv.naver.com/v/26091521</link>
             <guid>https://tv.naver.com/v/26091521</guid>
             <pubDate>Thu, 07 Apr 2022 05:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220407_256/6GDo0_1649307657339HbK3i_JPEG/85bc49a9-b62f-11ec-8527-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1395,7 +1395,7 @@
             <link>https://tv.naver.com/v/26091043</link>
             <guid>https://tv.naver.com/v/26091043</guid>
             <pubDate>Thu, 07 Apr 2022 05:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220407_142/KDyMf_1649306453986vs1Fj_JPEG/1649306393025.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1403,7 +1403,7 @@
             <link>https://tv.naver.com/v/26088882</link>
             <guid>https://tv.naver.com/v/26088882</guid>
             <pubDate>Thu, 07 Apr 2022 02:56:03 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220407_133/sR1oR_1649299978783c6Wa5_JPEG/48c1cd29-b61d-11ec-b1ad-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1411,7 +1411,7 @@
             <link>https://tv.naver.com/v/26088670</link>
             <guid>https://tv.naver.com/v/26088670</guid>
             <pubDate>Thu, 07 Apr 2022 02:56:03 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220407_147/XDMaD_1649299437909aDVOO_JPEG/6ce43f83-b61c-11ec-8c0a-48df379ccacc_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1419,7 +1419,7 @@
             <link>https://tv.naver.com/v/26088556</link>
             <guid>https://tv.naver.com/v/26088556</guid>
             <pubDate>Thu, 07 Apr 2022 02:56:03 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220407_76/8W5as_1649299136485AUpN5_JPEG/9bf3a1ae-b61b-11ec-ad5e-48df37ae3fca_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1427,7 +1427,7 @@
             <link>https://tv.naver.com/v/26087918</link>
             <guid>https://tv.naver.com/v/26087918</guid>
             <pubDate>Thu, 07 Apr 2022 02:56:03 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220407_33/rxWZS_1649297400273zQski_JPEG/900bfb4c-b617-11ec-931f-505dac8c3721_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1435,7 +1435,7 @@
             <link>https://tv.naver.com/v/26087602</link>
             <guid>https://tv.naver.com/v/26087602</guid>
             <pubDate>Thu, 07 Apr 2022 02:56:03 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220407_189/Wh0UV_16492964253209OdR8_JPEG/6e603567-b615-11ec-aa4b-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1443,7 +1443,7 @@
             <link>https://tv.naver.com/v/26086688</link>
             <guid>https://tv.naver.com/v/26086688</guid>
             <pubDate>Thu, 07 Apr 2022 01:25:48 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220407_256/25iJv_1649293471566znSDP_JPEG/800289df-b60e-11ec-8c89-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
