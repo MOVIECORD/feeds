@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 17:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 18:25:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,14 +128,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F06%2Fseouleconomy%2F20220406180803886gybg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[단독]전도연, '길복순' 촬영 중 머리부상.."현재 현장 복귀"]]></title>
-            <link>https://movie.v.daum.net/v/20220407182644061</link>
-            <guid>https://movie.v.daum.net/v/20220407182644061</guid>
-            <pubDate>Thu, 07 Apr 2022 11:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[[이데일리 스타in 박미애 기자] 배우 전도연이 영화 촬영 중 머리 부상을 당해 촬영이 잠시 중단됐던 사실이 뒤늦게 알려졌다. 7일 복수의 영화계 관계들자에 따르면 전도연은 최근 넷플릭스 오리지널 영화 ‘길복순’(감독 변성현, 제작 씨앗필름) 지방 세트 촬영 중 머리 부위에 수 바늘 꿰매는 열상을 입었다. 당시 일로 ‘길복순’ 촬영이 중단됐고 전도연은 병]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2FEdaily%2F20220407182646803yvwl.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['신작·미개봉 영화 9편 상영' 광주독립영화관 개관 4주년 영화제]]></title>
             <link>https://movie.v.daum.net/v/20220407112943410</link>
             <guid>https://movie.v.daum.net/v/20220407112943410</guid>
@@ -144,12 +136,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2Fnewsis%2F20220407112943137vvcp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['앰뷸런스' 첫날 1만명대 1위..'수퍼 소닉' 2위·'스텔라' 4위 [Nbox]]]></title>
-            <link>https://movie.v.daum.net/v/20220407075043205</link>
-            <guid>https://movie.v.daum.net/v/20220407075043205</guid>
-            <pubDate>Thu, 07 Apr 2022 01:25:14 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 영화 '앰뷸런스'가 '모비우스'를 제치고 박스오피스 1위에 올랐다. 7일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '앰뷸런스'는 6일 하루동안 1만6441명을 동원해 박스오피스 1위를 기록했다. 누적관객수는 1만7131명이다. 6일 개봉한 '앰뷸런스'는 개봉 첫날 1만명대 관객을 동원하며 1위 자리를 차지했다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2FNEWS1%2F20220407075044702tftn.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[단독]전도연, '길복순' 촬영 중 머리부상.."현재 현장 복귀"]]></title>
+            <link>https://movie.v.daum.net/v/20220407182644061</link>
+            <guid>https://movie.v.daum.net/v/20220407182644061</guid>
+            <pubDate>Thu, 07 Apr 2022 11:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 스타in 박미애 기자] 배우 전도연이 영화 촬영 중 머리 부상을 당해 촬영이 잠시 중단됐던 사실이 뒤늦게 알려졌다. 7일 복수의 영화계 관계들자에 따르면 전도연은 최근 넷플릭스 오리지널 영화 ‘길복순’(감독 변성현, 제작 씨앗필름) 지방 세트 촬영 중 머리 부위에 수 바늘 꿰매는 열상을 입었다. 당시 일로 ‘길복순’ 촬영이 중단됐고 전도연은 병]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2FEdaily%2F20220407182646803yvwl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[울주세계산악영화제가 주목하는 나라 '폴란드' 영화들]]></title>
@@ -158,6 +150,14 @@
             <pubDate>Thu, 07 Apr 2022 15:20:35 GMT</pubDate>
             <content:encoded><![CDATA[(울산=연합뉴스) 허광무 기자 = 울산에서 열리는 국제 산악영화축제 제7회 울주세계산악영화제(Ulju Mountain Film Festival· http://www.umff.kr)에서는 '내년 영화제가 주목할 나라'로 꼽힌 폴란드 영화들도 만날 수 있다. 울주세계산악영화제에서는 '프리퀄:타트라-폴란드' 부문 영화 8편이 상영되고 있다. 영화제 측이 내년에]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2Fyonhap%2F20220407153606737uzyq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['앰뷸런스' 첫날 1만명대 1위..'수퍼 소닉' 2위·'스텔라' 4위 [Nbox]]]></title>
+            <link>https://movie.v.daum.net/v/20220407075043205</link>
+            <guid>https://movie.v.daum.net/v/20220407075043205</guid>
+            <pubDate>Thu, 07 Apr 2022 01:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 영화 '앰뷸런스'가 '모비우스'를 제치고 박스오피스 1위에 올랐다. 7일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '앰뷸런스'는 6일 하루동안 1만6441명을 동원해 박스오피스 1위를 기록했다. 누적관객수는 1만7131명이다. 6일 개봉한 '앰뷸런스'는 개봉 첫날 1만명대 관객을 동원하며 1위 자리를 차지했다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2FNEWS1%2F20220407075044702tftn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[D:현장] 5년 만에 극장으로..'니 부모 얼굴이 보고싶다', 가해자 시선에서 본 학폭]]></title>
