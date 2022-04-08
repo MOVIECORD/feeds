@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 15:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 16:29:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -223,20 +223,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F37230e2362f90e0aca27af4c7db1ea1a2448e5fa" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[불도저에 탄 소녀 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153127</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153127</guid>
-            <pubDate>Wed, 23 Mar 2022 06:24:42 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3d93fdcc0efc92362da8b5e73eb5db83e44d6190" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 주술회전 0 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156790</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156790</guid>
             <pubDate>Fri, 28 Jan 2022 11:15:55 GMT</pubDate>
             <content:encoded><![CDATA[22.02.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdec276db284e8c6d82f974cff11fa991ccd3f6b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[불도저에 탄 소녀 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153127</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153127</guid>
+            <pubDate>Wed, 23 Mar 2022 06:24:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3d93fdcc0efc92362da8b5e73eb5db83e44d6190" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[뜨거운 피 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -263,20 +263,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd241cc8046e67a0230a48c67effed151ed03a901" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[약속의 네버랜드 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=147082</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=147082</guid>
-            <pubDate>Tue, 29 Mar 2022 23:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe23122c18f309d12cfc7a8a71bb6b35b57da18de" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[더 배트맨 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=110137</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=110137</guid>
             <pubDate>Tue, 15 Feb 2022 03:19:13 GMT</pubDate>
             <content:encoded><![CDATA[22.03.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8cc69ee37e41d9fed49935446d3a6697f7467df4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[약속의 네버랜드 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=147082</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=147082</guid>
+            <pubDate>Tue, 29 Mar 2022 23:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe23122c18f309d12cfc7a8a71bb6b35b57da18de" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[재춘언니 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -559,20 +559,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F08%2Ftvdaily%2F20220408140210860urjb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['토르4', 개봉 92일 앞두고도 예고편 無..MCU 신기록 작성 [엑's 할리우드] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220407170509618</link>
-            <guid>https://movie.v.daum.net/v/20220407170509618</guid>
-            <pubDate>Fri, 08 Apr 2022 01:37:03 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 마블 시네마틱 유니버스(MCU) 영화 '토르: 러브 앤 썬더'(토르4, 감독 타이카 와이티티)가 새로운 기록을 쓴 가운데, 이에 대한 관심이 높아지고 있다. 7일(한국시간) 기준 '토르: 러브 앤 썬더'는 개봉일이 92일 남은 상황에서 예고편이 한 차례도 공개되지 않은 상태다. 이로써 '토르: 러브 앤 썬더'는 '인크레더블]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2Fxportsnews%2F20220407170512405mytb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['말임씨를 부탁해' 김영옥, 韓 고령화시대 문제 집중 조명! (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220408094127030</link>
             <guid>https://movie.v.daum.net/v/20220408094127030</guid>
             <pubDate>Fri, 08 Apr 2022 08:23:55 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘말임씨를 부탁해’가 고령화 시대 한국 노인 부양 문제에 대한 솔직하고 파격적인 주제로 새로운 패러다임을 제시한다. 혈연으로 이어져 온 기존의 전통적 가족관에서 대안가족을 받아들이는 사회 변화의 발돋움이 될 전망이다. ‘말임씨를 부탁해’(감독 박경목,&nbsp;제작 파란오이, 공동제작 안목, 배급 씨네필운)는 효자 코스프레하는 아들]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F08%2Fpoctan%2F20220408094127800nhse.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['토르4', 개봉 92일 앞두고도 예고편 無..MCU 신기록 작성 [엑's 할리우드] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220407170509618</link>
+            <guid>https://movie.v.daum.net/v/20220407170509618</guid>
+            <pubDate>Fri, 08 Apr 2022 01:37:03 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 마블 시네마틱 유니버스(MCU) 영화 '토르: 러브 앤 썬더'(토르4, 감독 타이카 와이티티)가 새로운 기록을 쓴 가운데, 이에 대한 관심이 높아지고 있다. 7일(한국시간) 기준 '토르: 러브 앤 썬더'는 개봉일이 92일 남은 상황에서 예고편이 한 차례도 공개되지 않은 상태다. 이로써 '토르: 러브 앤 썬더'는 '인크레더블]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2Fxportsnews%2F20220407170512405mytb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['오겜' 대박 정호연, 파격 글로벌 행보 [이슈&톡] (다음영화 뉴스 ─ 인기)]]></title>
@@ -591,14 +591,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F08%2Fnocut%2F20220408070304178fwwi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['사랑 후의 두 여자'·'패러렐 마더스', 닮은꼴 영화로 주목 [TF프리즘] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220407050025548</link>
-            <guid>https://movie.v.daum.net/v/20220407050025548</guid>
-            <pubDate>Fri, 08 Apr 2022 12:36:30 GMT</pubDate>
-            <content:encoded><![CDATA[한 남자를 사랑한 두 여자 vs 같은 날 아이를 낳은 두 여자 [더팩트｜원세나 기자] 영화 '사랑 후의 두 여자'와 '패러렐 마더스'가 여성들의 아름다운 연대를 그려내며 관객들을 사로잡고 있다. 지난달 30일 개봉한 '사랑 후의 두 여자'와 이튿날 31일 개봉한 '패러렐 마더스'가 여성 관객들의 호평을 받으며 입소문을 타 장기 흥행에 나선 가운데 영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2FTHEFACT%2F20220407050026211hovl.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[SC초점] "논란의 문제작 등판"..'공기살인'→'니 부모' 4월 극장 달굴 묵직한 메시지 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220407072124850</link>
             <guid>https://movie.v.daum.net/v/20220407072124850</guid>
@@ -607,12 +599,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2FSpoChosun%2F20220407072124684wnqe.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['앰뷸런스' 이틀 연속 1위, 日 관객수 1만 명 대 기록 [박스오피스] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220408091007818</link>
-            <guid>https://movie.v.daum.net/v/20220408091007818</guid>
-            <pubDate>Fri, 08 Apr 2022 01:37:03 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 영화 '앰뷸런스가 박스오피스 1위를 기록했다. 8일 영화진흥위원회 통합전산망에 따르면 영화 '앰뷸런스'(감독 마이클 베이·배급 유니버설 픽쳐스)가 지난 7일 1만1118명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적 관객수는 2만8249명이다. '앰뷸런스'는 인생 역전을 위해 완전 범죄를 설계한 형 '대니'와 아내를 살]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F08%2Ftvdaily%2F20220408091009378evnc.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['사랑 후의 두 여자'·'패러렐 마더스', 닮은꼴 영화로 주목 [TF프리즘] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220407050025548</link>
+            <guid>https://movie.v.daum.net/v/20220407050025548</guid>
+            <pubDate>Fri, 08 Apr 2022 12:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[한 남자를 사랑한 두 여자 vs 같은 날 아이를 낳은 두 여자 [더팩트｜원세나 기자] 영화 '사랑 후의 두 여자'와 '패러렐 마더스'가 여성들의 아름다운 연대를 그려내며 관객들을 사로잡고 있다. 지난달 30일 개봉한 '사랑 후의 두 여자'와 이튿날 31일 개봉한 '패러렐 마더스'가 여성 관객들의 호평을 받으며 입소문을 타 장기 흥행에 나선 가운데 영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2FTHEFACT%2F20220407050026211hovl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[새영화] 태어나길 잘했어·엄마와 나 (다음영화 뉴스 ─ 인기)]]></title>
@@ -621,6 +613,14 @@
             <pubDate>Fri, 08 Apr 2022 12:36:30 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 한미희 기자 = ▲ 자신과 화해하는 일 '태어나길 잘했어' = 다한증으로 손발에 땀이 마를 날 없는 춘희(강진아 분)의 이야기다. 1990년대 후반, 중학생 춘희는 부모님을 한꺼번에 잃고 외삼촌 집 다락방에서 더부살이를 시작한다. 땀이 밴 발바닥 자국을 닦지 않았다고 타박을 듣고, 싱크대에 서서 혼자 라면을 먹고, 또래 사촌이 가는 수학]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2Fyonhap%2F20220407101934681trbq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['앰뷸런스' 이틀 연속 1위, 日 관객수 1만 명 대 기록 [박스오피스] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220408091007818</link>
+            <guid>https://movie.v.daum.net/v/20220408091007818</guid>
+            <pubDate>Fri, 08 Apr 2022 01:37:03 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 영화 '앰뷸런스가 박스오피스 1위를 기록했다. 8일 영화진흥위원회 통합전산망에 따르면 영화 '앰뷸런스'(감독 마이클 베이·배급 유니버설 픽쳐스)가 지난 7일 1만1118명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적 관객수는 2만8249명이다. '앰뷸런스'는 인생 역전을 위해 완전 범죄를 설계한 형 '대니'와 아내를 살]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F08%2Ftvdaily%2F20220408091009378evnc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['야차', 시간 순삭시키는 잘 빠진 한국형 첩보 액션물 (다음영화 뉴스 ─ 인기)]]></title>
@@ -1315,7 +1315,7 @@
             <link>https://tv.naver.com/v/26118925</link>
             <guid>https://tv.naver.com/v/26118925</guid>
             <pubDate>Fri, 08 Apr 2022 09:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_286/iFlmv_1649407692195mBOE2_JPEG/1649407638846.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1323,7 +1323,7 @@
             <link>https://tv.naver.com/v/26117111</link>
             <guid>https://tv.naver.com/v/26117111</guid>
             <pubDate>Fri, 08 Apr 2022 08:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_96/Ot74V_1649403256250s9ylc_JPEG/ba302da0-b70d-11ec-9021-48df37ae3fca_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1331,7 +1331,7 @@
             <link>https://tv.naver.com/v/26116944</link>
             <guid>https://tv.naver.com/v/26116944</guid>
             <pubDate>Fri, 08 Apr 2022 08:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_171/u83wi_1649402846413N2Ysr_JPEG/bea68ff2-b70c-11ec-a9d0-505dacfba98a_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1339,7 +1339,7 @@
             <link>https://tv.naver.com/v/26116651</link>
             <guid>https://tv.naver.com/v/26116651</guid>
             <pubDate>Fri, 08 Apr 2022 08:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_275/oA1Ks_1649402189282jW92M_JPEG/0ddaaa3a-b70b-11ec-a0e5-505dac8c3607_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1347,7 +1347,7 @@
             <link>https://tv.naver.com/v/26116223</link>
             <guid>https://tv.naver.com/v/26116223</guid>
             <pubDate>Fri, 08 Apr 2022 08:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_53/Pawvi_1649401287390Y8oLk_JPEG/80d8c049-b709-11ec-a0e5-505dac8c3607_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1355,7 +1355,7 @@
             <link>https://tv.naver.com/v/26116039</link>
             <guid>https://tv.naver.com/v/26116039</guid>
             <pubDate>Fri, 08 Apr 2022 08:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_78/UBZPk_1649400863675xndkB_JPEG/3d1a0766-b708-11ec-9b1f-505dacfbaa5c_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1363,7 +1363,7 @@
             <link>https://tv.naver.com/v/26115884</link>
             <guid>https://tv.naver.com/v/26115884</guid>
             <pubDate>Fri, 08 Apr 2022 08:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_48/ZnMjz_16494005313830Eq2b_JPEG/b005d8b3-b707-11ec-8a91-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1371,7 +1371,7 @@
             <link>https://tv.naver.com/v/26114519</link>
             <guid>https://tv.naver.com/v/26114519</guid>
             <pubDate>Fri, 08 Apr 2022 06:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_277/0xzJR_1649397675293tbdoS_JPEG/1e85fb4c-b701-11ec-bc38-505dac8c37f3_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1379,7 +1379,7 @@
             <link>https://tv.naver.com/v/26114225</link>
             <guid>https://tv.naver.com/v/26114225</guid>
             <pubDate>Fri, 08 Apr 2022 06:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_123/eq7FY_1649397019902PEinr_JPEG/27d9bf82-b6ff-11ec-a7e2-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1387,7 +1387,7 @@
             <link>https://tv.naver.com/v/26113744</link>
             <guid>https://tv.naver.com/v/26113744</guid>
             <pubDate>Fri, 08 Apr 2022 06:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_93/r3uCK_1649395992550bt5Os_JPEG/1649395955053.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1395,7 +1395,7 @@
             <link>https://tv.naver.com/v/26113589</link>
             <guid>https://tv.naver.com/v/26113589</guid>
             <pubDate>Fri, 08 Apr 2022 06:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_176/7khlp_1649395656348JcaOd_JPEG/2ae5a730-b6fc-11ec-89d7-48df37ae3dc4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1403,7 +1403,7 @@
             <link>https://tv.naver.com/v/26110267</link>
             <guid>https://tv.naver.com/v/26110267</guid>
             <pubDate>Fri, 08 Apr 2022 04:25:39 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_3/ySaHN_1649386718894qvnsn_JPEG/1649386288047.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1411,7 +1411,7 @@
             <link>https://tv.naver.com/v/26109958</link>
             <guid>https://tv.naver.com/v/26109958</guid>
             <pubDate>Fri, 08 Apr 2022 04:25:39 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_252/PdFag_1649385972660XcOqF_JPEG/c1d795a9-b6e5-11ec-9c28-d4f5ef58ac88_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1419,7 +1419,7 @@
             <link>https://tv.naver.com/v/26108323</link>
             <guid>https://tv.naver.com/v/26108323</guid>
             <pubDate>Fri, 08 Apr 2022 01:37:38 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_140/Iep6g_1649381187428AP8tG_JPEG/5c3140ab-b6da-11ec-8c89-505dacfba98a_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1427,7 +1427,7 @@
             <link>https://tv.naver.com/v/26108270</link>
             <guid>https://tv.naver.com/v/26108270</guid>
             <pubDate>Fri, 08 Apr 2022 01:37:38 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_73/mYlxA_1649381032328GNzYH_JPEG/73e4c181-b6da-11ec-bc9a-505dac8c381b_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
