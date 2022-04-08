@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 16:29:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 17:23:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -391,14 +391,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0bd104af8fa8ed021dcb323699c5c68c99df87e0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[고스팅 글로리아 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152527</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152527</guid>
-            <pubDate>Tue, 05 Apr 2022 09:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0836f6e5edb005ba8c37d5dc4980e5cde33a03fc" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[위대한 계약: 파주, 책, 도시 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=144626</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=144626</guid>
@@ -421,6 +413,14 @@
             <pubDate>Fri, 08 Apr 2022 11:17:32 GMT</pubDate>
             <content:encoded><![CDATA[22.04.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F414f1af0f99af4af0406b2cecfa39aa1bf5e436a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[고스팅 글로리아 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152527</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152527</guid>
+            <pubDate>Tue, 05 Apr 2022 09:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0836f6e5edb005ba8c37d5dc4980e5cde33a03fc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[중경삼림 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -647,20 +647,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F08%2Fxportsnews%2F20220408193007531sfuo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[천우희X이혜영, 집안 꼴이 왜이래? 갈등 폭발 모녀 스틸 ('앵커') (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220409000008441</link>
+            <guid>https://movie.v.daum.net/v/20220409000008441</guid>
+            <pubDate>Fri, 08 Apr 2022 17:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 영화 '앵커'가 엄마와 딸로 만난 천우희, 이혜영의 팽팽한 긴장감을 담은 모녀 갈등 스틸을 공개했다. '앵커'는 방송국 간판 앵커 세라에게 누군가 자신을 죽일 것이라며 직접 취재해 달라는 제보 전화가 걸려온 후, 그녀에게 벌어지는 기묘한 일을 그린 미스터리 스릴러 영화다. 공개된 스틸은 죽음을 예고한 제보 전화 이후 기묘한 일에 휩싸인 앵]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F09%2Fsportsdonga%2F20220409000010197oavp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[정우 '뜨거운 피', 부산의 사계절 담다 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220408092317313</link>
             <guid>https://movie.v.daum.net/v/20220408092317313</guid>
             <pubDate>Fri, 08 Apr 2022 01:37:03 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자] 영화 '뜨거운 피'가 1990년대 부산을 그대로 스크린에 펼쳐낸 촬영 비하인드를 공개했다. '뜨거운 피'(감독 천명관, 제작 ㈜고래픽처스, 제공 ㈜키다리스튜디오, 배급 ㈜스튜디오 디에이치엘, 공동배급 ㈜키다리스튜디오)는 1993년 더 나쁜 놈만이 살아남는 곳 부산 변두리 포구 구암의 실세 희수(정우 분)와 그곳에서 살아남기 위한]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F08%2Fpoctan%2F20220408092318693advd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["코피 엄청 흘리고 살 빠질 정도로.." '공기살인' 이선빈, 혼신 열연 [MD현장] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220408181130647</link>
-            <guid>https://movie.v.daum.net/v/20220408181130647</guid>
-            <pubDate>Fri, 08 Apr 2022 14:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 이선빈이 영화 '공기살인'에서 혼신의 열연을 펼치며 예비 관객들의 기대감을 높였다. 8일 오후 서울 용산구 CGV용산 아이파크몰에선 영화 '공기살인' 언론배급 시사회 및 기자간담회가 진행됐다. 연출을 맡은 조용선 감독과 출연 배우 김상경, 이선빈, 윤경호, 서영희 등이 참석했다. '공기살인'은 살殺균제 대참사 재난 실화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F08%2Fmydaily%2F20220408181130896kumo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[천우희X이혜영, 집안 꼴이 왜이래? 갈등 폭발 모녀 스틸 ('앵커') (다음영화 뉴스 ─ 최신)]]></title>
@@ -1315,7 +1315,7 @@
             <link>https://tv.naver.com/v/26118925</link>
             <guid>https://tv.naver.com/v/26118925</guid>
             <pubDate>Fri, 08 Apr 2022 09:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_286/iFlmv_1649407692195mBOE2_JPEG/1649407638846.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1323,7 +1323,7 @@
             <link>https://tv.naver.com/v/26117111</link>
             <guid>https://tv.naver.com/v/26117111</guid>
             <pubDate>Fri, 08 Apr 2022 08:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_96/Ot74V_1649403256250s9ylc_JPEG/ba302da0-b70d-11ec-9021-48df37ae3fca_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1339,7 +1339,7 @@
             <link>https://tv.naver.com/v/26116651</link>
             <guid>https://tv.naver.com/v/26116651</guid>
             <pubDate>Fri, 08 Apr 2022 08:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_275/oA1Ks_1649402189282jW92M_JPEG/0ddaaa3a-b70b-11ec-a0e5-505dac8c3607_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1347,7 +1347,7 @@
             <link>https://tv.naver.com/v/26116223</link>
             <guid>https://tv.naver.com/v/26116223</guid>
             <pubDate>Fri, 08 Apr 2022 08:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_53/Pawvi_1649401287390Y8oLk_JPEG/80d8c049-b709-11ec-a0e5-505dac8c3607_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1355,7 +1355,7 @@
             <link>https://tv.naver.com/v/26116039</link>
             <guid>https://tv.naver.com/v/26116039</guid>
             <pubDate>Fri, 08 Apr 2022 08:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_78/UBZPk_1649400863675xndkB_JPEG/3d1a0766-b708-11ec-9b1f-505dacfbaa5c_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1363,7 +1363,7 @@
             <link>https://tv.naver.com/v/26115884</link>
             <guid>https://tv.naver.com/v/26115884</guid>
             <pubDate>Fri, 08 Apr 2022 08:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_48/ZnMjz_16494005313830Eq2b_JPEG/b005d8b3-b707-11ec-8a91-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1371,7 +1371,7 @@
             <link>https://tv.naver.com/v/26114519</link>
             <guid>https://tv.naver.com/v/26114519</guid>
             <pubDate>Fri, 08 Apr 2022 06:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_277/0xzJR_1649397675293tbdoS_JPEG/1e85fb4c-b701-11ec-bc38-505dac8c37f3_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1379,7 +1379,7 @@
             <link>https://tv.naver.com/v/26114225</link>
             <guid>https://tv.naver.com/v/26114225</guid>
             <pubDate>Fri, 08 Apr 2022 06:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_123/eq7FY_1649397019902PEinr_JPEG/27d9bf82-b6ff-11ec-a7e2-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1387,7 +1387,7 @@
             <link>https://tv.naver.com/v/26113744</link>
             <guid>https://tv.naver.com/v/26113744</guid>
             <pubDate>Fri, 08 Apr 2022 06:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_93/r3uCK_1649395992550bt5Os_JPEG/1649395955053.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1403,7 +1403,7 @@
             <link>https://tv.naver.com/v/26110267</link>
             <guid>https://tv.naver.com/v/26110267</guid>
             <pubDate>Fri, 08 Apr 2022 04:25:39 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_3/ySaHN_1649386718894qvnsn_JPEG/1649386288047.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1411,7 +1411,7 @@
             <link>https://tv.naver.com/v/26109958</link>
             <guid>https://tv.naver.com/v/26109958</guid>
             <pubDate>Fri, 08 Apr 2022 04:25:39 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_252/PdFag_1649385972660XcOqF_JPEG/c1d795a9-b6e5-11ec-9c28-d4f5ef58ac88_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
