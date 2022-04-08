@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 11:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 12:37:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -287,6 +287,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc0f69300e7e973ad35ab1c80aa00c91f0adbc1e9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[아메리칸 저스티스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157070</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157070</guid>
+            <pubDate>Fri, 01 Apr 2022 09:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8790545a8d95fb723e1324a51ea07d76fd95cfe2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[패러렐 마더스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152343</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152343</guid>
@@ -309,14 +317,6 @@
             <pubDate>Mon, 21 Feb 2022 04:24:51 GMT</pubDate>
             <content:encoded><![CDATA[22.03.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffe807f2e93a1d028b73c1ac89cbcb4e0748965aa" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[아메리칸 저스티스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157070</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157070</guid>
-            <pubDate>Fri, 01 Apr 2022 09:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8790545a8d95fb723e1324a51ea07d76fd95cfe2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[배니싱: 미제사건 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -527,6 +527,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F08%2Ftvdaily%2F20220408170411263qwpv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[꿈 꾼 것 같아, '신동사3'[편파적인 씨네리뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220408072204552</link>
+            <guid>https://movie.v.daum.net/v/20220408072204552</guid>
+            <pubDate>Fri, 08 Apr 2022 09:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] ■편파적인 한줄평 : 길고 길어 끝만 생각나는 꿈. 나른하고 긴 꿈을 꾼 것만 같다. 끝은 분명 재밌고 낭만적이었는데 그 앞은 안개속에 파묻힌 듯 선명하지 않다. 마법사 덤블도어와 뉴트가 다시 뭉친 영화 ‘신비한 동물들과 덤블도어의 비밀’(감독 데이빗 예이츠/ 이하 ‘신동사3’)이다. ‘신동사3’는 1930년대 제2차 세계대전, 덤블]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F08%2Fsportskhan%2F20220408072205977zwyn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['닥터 스트레인지: 대혼돈의 멀티버스' 모든 상상의 경계가 무너진다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220408100407857</link>
+            <guid>https://movie.v.daum.net/v/20220408100407857</guid>
+            <pubDate>Fri, 08 Apr 2022 08:23:55 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '닥터 스트레인지: 대혼돈의 멀티버스'가 압도적 비주얼로 보는 순간 시선을 사로잡는 메인 포스터를 최초 공개했다. 영화 '닥터 스트레인지: 대혼돈의 멀티버스'(감독 샘 레이미·배급 월트디즈니컴퍼니 코리아)는 모든 상상을 초월하는 광기의 멀티버스 속, MCU 사상 최초로 끝없이 펼쳐지는 차원의 균열과 뒤엉킨 시공간을 그린 수퍼내추]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F08%2Ftvdaily%2F20220408100412336qbqo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['토르4', 개봉 92일 앞두고도 예고편 無..MCU 신기록 작성 [엑's 할리우드] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220407170509618</link>
             <guid>https://movie.v.daum.net/v/20220407170509618</guid>
@@ -543,28 +559,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2Ftvdaily%2F20220407113007654tgid.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['닥터 스트레인지: 대혼돈의 멀티버스' 모든 상상의 경계가 무너진다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220408100407857</link>
-            <guid>https://movie.v.daum.net/v/20220408100407857</guid>
+            <title><![CDATA[[무비차트TEN] '신동사3' 예매율 1위..4월에도 한국영화 '약' 할리우드 영화 '강' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220408133814521</link>
+            <guid>https://movie.v.daum.net/v/20220408133814521</guid>
             <pubDate>Fri, 08 Apr 2022 08:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '닥터 스트레인지: 대혼돈의 멀티버스'가 압도적 비주얼로 보는 순간 시선을 사로잡는 메인 포스터를 최초 공개했다. 영화 '닥터 스트레인지: 대혼돈의 멀티버스'(감독 샘 레이미·배급 월트디즈니컴퍼니 코리아)는 모든 상상을 초월하는 광기의 멀티버스 속, MCU 사상 최초로 끝없이 펼쳐지는 차원의 균열과 뒤엉킨 시공간을 그린 수퍼내추]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F08%2Ftvdaily%2F20220408100412336qbqo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[꿈 꾼 것 같아, '신동사3'[편파적인 씨네리뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220408072204552</link>
-            <guid>https://movie.v.daum.net/v/20220408072204552</guid>
-            <pubDate>Fri, 08 Apr 2022 09:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] ■편파적인 한줄평 : 길고 길어 끝만 생각나는 꿈. 나른하고 긴 꿈을 꾼 것만 같다. 끝은 분명 재밌고 낭만적이었는데 그 앞은 안개속에 파묻힌 듯 선명하지 않다. 마법사 덤블도어와 뉴트가 다시 뭉친 영화 ‘신비한 동물들과 덤블도어의 비밀’(감독 데이빗 예이츠/ 이하 ‘신동사3’)이다. ‘신동사3’는 1930년대 제2차 세계대전, 덤블]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F08%2Fsportskhan%2F20220408072205977zwyn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['앰뷸런스' 이틀 연속 1위, 日 관객수 1만 명 대 기록 [박스오피스] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220408091007818</link>
-            <guid>https://movie.v.daum.net/v/20220408091007818</guid>
-            <pubDate>Fri, 08 Apr 2022 01:37:03 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 영화 '앰뷸런스가 박스오피스 1위를 기록했다. 8일 영화진흥위원회 통합전산망에 따르면 영화 '앰뷸런스'(감독 마이클 베이·배급 유니버설 픽쳐스)가 지난 7일 1만1118명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적 관객수는 2만8249명이다. '앰뷸런스'는 인생 역전을 위해 완전 범죄를 설계한 형 '대니'와 아내를 살]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F08%2Ftvdaily%2F20220408091009378evnc.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[텐아시아=노규민 기자] 4월, 극장가 관객수가 점점 더 줄고 있다. 이렇다할 기대작이 없는 가운데, 할리우드 영화 ''신비한 동물들과 덤블도어의 비밀'(신동사3)이 '모비우스' '앰뷸런스'의 뒤를 이어 박스오피스 정상을 넘보고 있다. 지난 3월 31일(목)부터 4월 7일(목)까지 영화관 입장권 통합전산망 박스오피스 순위에서 '모비우스'가 29만 3686]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F08%2F10asia%2F20220408133817522jrcw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['신동사3'·'닥터 스트레인지2', 코로나 장기화 속 극장가 구할까 [무비노트] (다음영화 뉴스 ─ 인기)]]></title>
@@ -575,20 +575,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F08%2Ftvdaily%2F20220408140210860urjb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[무비차트TEN] '신동사3' 예매율 1위..4월에도 한국영화 '약' 할리우드 영화 '강' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220408133814521</link>
-            <guid>https://movie.v.daum.net/v/20220408133814521</guid>
-            <pubDate>Fri, 08 Apr 2022 08:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=노규민 기자] 4월, 극장가 관객수가 점점 더 줄고 있다. 이렇다할 기대작이 없는 가운데, 할리우드 영화 ''신비한 동물들과 덤블도어의 비밀'(신동사3)이 '모비우스' '앰뷸런스'의 뒤를 이어 박스오피스 정상을 넘보고 있다. 지난 3월 31일(목)부터 4월 7일(목)까지 영화관 입장권 통합전산망 박스오피스 순위에서 '모비우스'가 29만 3686]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F08%2F10asia%2F20220408133817522jrcw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['야차', 시간 순삭시키는 잘 빠진 한국형 첩보 액션물 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220408080505261</link>
-            <guid>https://movie.v.daum.net/v/20220408080505261</guid>
+            <title><![CDATA['앰뷸런스' 이틀 연속 1위, 日 관객수 1만 명 대 기록 [박스오피스] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220408091007818</link>
+            <guid>https://movie.v.daum.net/v/20220408091007818</guid>
             <pubDate>Fri, 08 Apr 2022 01:37:03 GMT</pubDate>
-            <content:encoded><![CDATA[아이즈 ize 정유미(칼럼니스트)오랫동안 기다렸다. 2019년에 제작 소식을 알리며 2020년 주요 기대작 리스트에 올랐던 영화 '아챠'가 코로나 팬데믹 영향으로 개봉일을 살피다가 지난해 넷플릭스행 소식을 알렸다. 그리고 오늘 4월 8일 넷플릭스에서 공개된 '야차'는 모처럼 한국 상업 영화의 규모감과 짜릿한 스릴을 동시에 느낄 수 있는 첩보 액션 영화로 긴]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F08%2FIZE%2F20220408080507624kcga.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 영화 '앰뷸런스가 박스오피스 1위를 기록했다. 8일 영화진흥위원회 통합전산망에 따르면 영화 '앰뷸런스'(감독 마이클 베이·배급 유니버설 픽쳐스)가 지난 7일 1만1118명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적 관객수는 2만8249명이다. '앰뷸런스'는 인생 역전을 위해 완전 범죄를 설계한 형 '대니'와 아내를 살]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F08%2Ftvdaily%2F20220408091009378evnc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['말임씨를 부탁해' 김영옥, 韓 고령화시대 문제 집중 조명! (다음영화 뉴스 ─ 인기)]]></title>
@@ -599,12 +591,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F08%2Fpoctan%2F20220408094127800nhse.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[정우 '뜨거운 피', 부산의 사계절 담다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220408092317313</link>
-            <guid>https://movie.v.daum.net/v/20220408092317313</guid>
+            <title><![CDATA['야차', 시간 순삭시키는 잘 빠진 한국형 첩보 액션물 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220408080505261</link>
+            <guid>https://movie.v.daum.net/v/20220408080505261</guid>
             <pubDate>Fri, 08 Apr 2022 01:37:03 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] 영화 '뜨거운 피'가 1990년대 부산을 그대로 스크린에 펼쳐낸 촬영 비하인드를 공개했다. '뜨거운 피'(감독 천명관, 제작 ㈜고래픽처스, 제공 ㈜키다리스튜디오, 배급 ㈜스튜디오 디에이치엘, 공동배급 ㈜키다리스튜디오)는 1993년 더 나쁜 놈만이 살아남는 곳 부산 변두리 포구 구암의 실세 희수(정우 분)와 그곳에서 살아남기 위한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F08%2Fpoctan%2F20220408092318693advd.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[아이즈 ize 정유미(칼럼니스트)오랫동안 기다렸다. 2019년에 제작 소식을 알리며 2020년 주요 기대작 리스트에 올랐던 영화 '아챠'가 코로나 팬데믹 영향으로 개봉일을 살피다가 지난해 넷플릭스행 소식을 알렸다. 그리고 오늘 4월 8일 넷플릭스에서 공개된 '야차'는 모처럼 한국 상업 영화의 규모감과 짜릿한 스릴을 동시에 느낄 수 있는 첩보 액션 영화로 긴]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F08%2FIZE%2F20220408080507624kcga.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[노컷 리뷰]마이클 베이의 전매특허와 실험성 빛난 '앰뷸런스' (다음영화 뉴스 ─ 인기)]]></title>
@@ -615,12 +607,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F08%2Fnocut%2F20220408070304178fwwi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[정우 '뜨거운 피', 부산의 사계절 담다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220408092317313</link>
+            <guid>https://movie.v.daum.net/v/20220408092317313</guid>
+            <pubDate>Fri, 08 Apr 2022 01:37:03 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자] 영화 '뜨거운 피'가 1990년대 부산을 그대로 스크린에 펼쳐낸 촬영 비하인드를 공개했다. '뜨거운 피'(감독 천명관, 제작 ㈜고래픽처스, 제공 ㈜키다리스튜디오, 배급 ㈜스튜디오 디에이치엘, 공동배급 ㈜키다리스튜디오)는 1993년 더 나쁜 놈만이 살아남는 곳 부산 변두리 포구 구암의 실세 희수(정우 분)와 그곳에서 살아남기 위한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F08%2Fpoctan%2F20220408092318693advd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[2차 세계대전 담은 '민스미트 작전' 5월 12일 국내 개봉 확정 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220407163456616</link>
             <guid>https://movie.v.daum.net/v/20220407163456616</guid>
             <pubDate>Fri, 08 Apr 2022 01:37:03 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자] 웰메이드 첩보 전쟁 블록버스터 '민스미트 작전'이 내달 국내 개봉 확정과 함께 1차 예고편을 공개했다. 2차 세계대전 인류 역사를 바꾼 위대한 실화를 다룬 영화 '민스미트 작전'(감독 존 매든,&nbsp;수입 조이앤시네마, 배급 스튜디오산타클로스, 공동배급 제이앤씨미디어그룹)이 5월 12일로 개봉을 확정지으며 치밀한 작전 설계를 위한 긴]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2Fpoctan%2F20220407163457894clsu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[새영화] 태어나길 잘했어·엄마와 나 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220407101934914</link>
+            <guid>https://movie.v.daum.net/v/20220407101934914</guid>
+            <pubDate>Fri, 08 Apr 2022 12:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 한미희 기자 = ▲ 자신과 화해하는 일 '태어나길 잘했어' = 다한증으로 손발에 땀이 마를 날 없는 춘희(강진아 분)의 이야기다. 1990년대 후반, 중학생 춘희는 부모님을 한꺼번에 잃고 외삼촌 집 다락방에서 더부살이를 시작한다. 땀이 밴 발바닥 자국을 닦지 않았다고 타박을 듣고, 싱크대에 서서 혼자 라면을 먹고, 또래 사촌이 가는 수학]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2Fyonhap%2F20220407101934681trbq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['닥터 스트레인지: 대혼돈의 멀티버스' 메인 포스터 최초 공개 (다음영화 뉴스 ─ 인기)]]></title>
@@ -631,36 +639,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F08%2Ftvreport%2F20220408090701945kami.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[SC초점] "논란의 문제작 등판"..'공기살인'→'니 부모' 4월 극장 달굴 묵직한 메시지 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220407072124850</link>
+            <guid>https://movie.v.daum.net/v/20220407072124850</guid>
+            <pubDate>Fri, 08 Apr 2022 12:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 4월 극장가에 논란의 문제작이 대거 등판한다. 부모 부양과 대안 가족을 전면에 내세운 휴먼 영화 '말임씨를 부탁해'(박경목 감독, 파란오이 제작)부터 가습기살균제 참사를 다룬 영화 '공기살인'(조용선 감독, 마스터원엔터테인먼트 제작), 그리고 학교 폭력을 소재로한 휴먼 영화 '니 부모 얼굴이 보고 싶다'(김지훈 감독]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2FSpoChosun%2F20220407072124684wnqe.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['사랑 후의 두 여자'·'패러렐 마더스', 닮은꼴 영화로 주목 [TF프리즘] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220407050025548</link>
+            <guid>https://movie.v.daum.net/v/20220407050025548</guid>
+            <pubDate>Fri, 08 Apr 2022 12:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[한 남자를 사랑한 두 여자 vs 같은 날 아이를 낳은 두 여자 [더팩트｜원세나 기자] 영화 '사랑 후의 두 여자'와 '패러렐 마더스'가 여성들의 아름다운 연대를 그려내며 관객들을 사로잡고 있다. 지난달 30일 개봉한 '사랑 후의 두 여자'와 이튿날 31일 개봉한 '패러렐 마더스'가 여성 관객들의 호평을 받으며 입소문을 타 장기 흥행에 나선 가운데 영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2FTHEFACT%2F20220407050026211hovl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['할리우드 골리앗' 밀려오는데.. 한국영화는 개봉 눈치싸움 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220408030222358</link>
             <guid>https://movie.v.daum.net/v/20220408030222358</guid>
             <pubDate>Fri, 08 Apr 2022 01:37:03 GMT</pubDate>
             <content:encoded><![CDATA[닥터 스트레인지: 대혼돈의 멀티버스지난달 21일 월트디즈니컴퍼니는 베네딕트 컴버배치 주연의 마블 히어로물 ‘닥터 스트레인지: 대혼돈의 멀티버스’를 5월 4일 개봉한다고 발표했다. 팬데믹으로 방역지침이 자주 바뀌는 탓에 막판까지 개봉일을 저울질하던 과거와 달리 일찌감치 개봉일을 못 박는 자신감을 보인 것. 지난달 30일에는 파라마운트픽처스가 36년 만에 나오]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F08%2Fdonga%2F20220408030224259nqfa.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['니 부모 얼굴이 보고 싶다' 설경구→고창석, 학폭 가해자의 뻔뻔한 부모[Oh!쎈 예고] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220408081303396</link>
-            <guid>https://movie.v.daum.net/v/20220408081303396</guid>
-            <pubDate>Fri, 08 Apr 2022 01:37:03 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] 영화 '니 부모 얼굴이 보고 싶다'가 보도스틸을 공개했다. 보도스틸만으로도 숨 막히는 긴장감이 느껴지는 '니 부모 얼굴이 보고 싶다'(감독 김지훈,&nbsp;제공 폭스인터내셔널 프로덕션 코리아, 배급 마인드마크, 제작 더타워픽쳐스·폭스 인터내셔널 프로덕션 코리아, 공동제작 주식회사 리버픽쳐스)는 스스로 몸을 던진 한 학생의 편지에 남겨진]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F08%2Fpoctan%2F20220408081303713xxuc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[아누팜 트리파티 & 마이클 리, '배니싱: 미제사건' 깜짝 캐스팅 화제..신스틸러로 남다른 존재감 발산 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220407141018259</link>
-            <guid>https://movie.v.daum.net/v/20220407141018259</guid>
-            <pubDate>Fri, 08 Apr 2022 01:37:03 GMT</pubDate>
-            <content:encoded><![CDATA[[한국경제TV 디지털이슈팀 유병철  기자] 충무로 대세 배우들과 할리우드 대표 배우의 화려한 연기 앙상블로 화제를 모으는 &lt;배니싱: 미제사건&gt;에 아누팜 트리파티와 마이클 리가 등장해 관객들의 시선을 사로잡는다. 영화 &lt;배니싱: 미제사건&gt;은 대한민국을 발칵 뒤집은 신원 미상의 변사체가 발견되고, 사건을 담당하게 된 형사 진호(유연석)와 국제 법의학]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2Fkedtv%2F20220407141019358dvls.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["온 가족이 함께 즐긴다" 울주세계산악영화제 투게더 영화들 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220408135507972</link>
-            <guid>https://movie.v.daum.net/v/20220408135507972</guid>
-            <pubDate>Fri, 08 Apr 2022 11:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[(울산=연합뉴스) 허광무 기자 = "푸르른 산에서 만나는 형형색색 다채로운 우리네 이야기, 온 가족이 함께 즐기는 소중한 시간이 되길 바랍니다." 1일 개막해 울산에서 열리는 국내 유일의 국제 산악영화 축제 제7회 울주세계산악영화제(Ulju Mountain Film Festival· http://www.umff.kr)에서는 산악영화만 있는 것이 아니다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F08%2Fyonhap%2F20220408135507890rzas.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[이선빈 "살 빠지고 코피도 나"..'공기살인' 향한 진심 [종합] (다음영화 뉴스 ─ 최신)]]></title>
@@ -1467,7 +1467,7 @@
             <link>https://tv.naver.com/v/26118925</link>
             <guid>https://tv.naver.com/v/26118925</guid>
             <pubDate>Fri, 08 Apr 2022 09:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_286/iFlmv_1649407692195mBOE2_JPEG/1649407638846.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1475,7 +1475,7 @@
             <link>https://tv.naver.com/v/26117111</link>
             <guid>https://tv.naver.com/v/26117111</guid>
             <pubDate>Fri, 08 Apr 2022 08:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_96/Ot74V_1649403256250s9ylc_JPEG/ba302da0-b70d-11ec-9021-48df37ae3fca_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1483,7 +1483,7 @@
             <link>https://tv.naver.com/v/26116944</link>
             <guid>https://tv.naver.com/v/26116944</guid>
             <pubDate>Fri, 08 Apr 2022 08:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_171/u83wi_1649402846413N2Ysr_JPEG/bea68ff2-b70c-11ec-a9d0-505dacfba98a_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1491,7 +1491,7 @@
             <link>https://tv.naver.com/v/26116651</link>
             <guid>https://tv.naver.com/v/26116651</guid>
             <pubDate>Fri, 08 Apr 2022 08:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_275/oA1Ks_1649402189282jW92M_JPEG/0ddaaa3a-b70b-11ec-a0e5-505dac8c3607_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1499,7 +1499,7 @@
             <link>https://tv.naver.com/v/26116223</link>
             <guid>https://tv.naver.com/v/26116223</guid>
             <pubDate>Fri, 08 Apr 2022 08:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_53/Pawvi_1649401287390Y8oLk_JPEG/80d8c049-b709-11ec-a0e5-505dac8c3607_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1507,7 +1507,7 @@
             <link>https://tv.naver.com/v/26116039</link>
             <guid>https://tv.naver.com/v/26116039</guid>
             <pubDate>Fri, 08 Apr 2022 08:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_78/UBZPk_1649400863675xndkB_JPEG/3d1a0766-b708-11ec-9b1f-505dacfbaa5c_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1515,7 +1515,7 @@
             <link>https://tv.naver.com/v/26115884</link>
             <guid>https://tv.naver.com/v/26115884</guid>
             <pubDate>Fri, 08 Apr 2022 08:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_48/ZnMjz_16494005313830Eq2b_JPEG/b005d8b3-b707-11ec-8a91-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1523,7 +1523,7 @@
             <link>https://tv.naver.com/v/26114519</link>
             <guid>https://tv.naver.com/v/26114519</guid>
             <pubDate>Fri, 08 Apr 2022 06:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_277/0xzJR_1649397675293tbdoS_JPEG/1e85fb4c-b701-11ec-bc38-505dac8c37f3_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1531,7 +1531,7 @@
             <link>https://tv.naver.com/v/26114225</link>
             <guid>https://tv.naver.com/v/26114225</guid>
             <pubDate>Fri, 08 Apr 2022 06:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_123/eq7FY_1649397019902PEinr_JPEG/27d9bf82-b6ff-11ec-a7e2-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1539,7 +1539,7 @@
             <link>https://tv.naver.com/v/26113744</link>
             <guid>https://tv.naver.com/v/26113744</guid>
             <pubDate>Fri, 08 Apr 2022 06:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_93/r3uCK_1649395992550bt5Os_JPEG/1649395955053.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1547,7 +1547,7 @@
             <link>https://tv.naver.com/v/26113589</link>
             <guid>https://tv.naver.com/v/26113589</guid>
             <pubDate>Fri, 08 Apr 2022 06:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_176/7khlp_1649395656348JcaOd_JPEG/2ae5a730-b6fc-11ec-89d7-48df37ae3dc4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1555,7 +1555,7 @@
             <link>https://tv.naver.com/v/26110267</link>
             <guid>https://tv.naver.com/v/26110267</guid>
             <pubDate>Fri, 08 Apr 2022 04:25:39 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_3/ySaHN_1649386718894qvnsn_JPEG/1649386288047.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1563,7 +1563,7 @@
             <link>https://tv.naver.com/v/26109958</link>
             <guid>https://tv.naver.com/v/26109958</guid>
             <pubDate>Fri, 08 Apr 2022 04:25:39 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_252/PdFag_1649385972660XcOqF_JPEG/c1d795a9-b6e5-11ec-9c28-d4f5ef58ac88_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1571,7 +1571,7 @@
             <link>https://tv.naver.com/v/26108323</link>
             <guid>https://tv.naver.com/v/26108323</guid>
             <pubDate>Fri, 08 Apr 2022 01:37:38 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_140/Iep6g_1649381187428AP8tG_JPEG/5c3140ab-b6da-11ec-8c89-505dacfba98a_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1579,7 +1579,7 @@
             <link>https://tv.naver.com/v/26108270</link>
             <guid>https://tv.naver.com/v/26108270</guid>
             <pubDate>Fri, 08 Apr 2022 01:37:38 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_73/mYlxA_1649381032328GNzYH_JPEG/73e4c181-b6da-11ec-bc9a-505dac8c381b_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
