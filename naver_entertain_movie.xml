@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-09T09:19:43.907Z</updated>
+    <updated>2022-04-09T11:17:31.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍상수 감독이 흑백으로 담은 ♥김민희..'소설가의 영화' 메인예고편 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003549449</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003549449"/>
+        <updated>2022-04-09T11:16:09.638Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] '소설가의 영화'의 메인 예고편이 공개됐다. 홍상수 감독의 27번째 장편 영화 '소설가의 영화'는 흑백 영화로 소설가 ‘준희’ 역을 맡은 이혜영이 잠적한 후배의 책방으로 먼 길을 찾아가고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['앵커' 천우희X이혜영, 엄마와 딸로 조우..긴장감 팽팽 모녀 갈등 스틸]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003549447</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003549447"/>
+        <updated>2022-04-09T11:16:09.666Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] '앵커' 천우희, 이혜영의 모녀 갈등 스틸이 공개됐다. 영화 '앵커'는 방송국 간판 앵커 세라에게 누군가 자신을 죽일 것이라며 직접 취재해 달라는 제보 전화가 걸려온 후, 그녀에게 벌어지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[POP초점]'크리스 록 폭행' 윌 스미스, 아카데미 10년간 참석 금지..주연상 취소는 피했다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003549432</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013102536"/>
         <updated>2022-04-09T01:21:55.511Z</updated>
         <content type="html"><![CDATA[영화, TV, 스트리밍 자회사…'해리포터', '배트맨' 콘텐츠 보유 (로스앤젤레스=연합뉴스) 정윤섭 특파원 = 미국 미디어·엔터테인먼트 업계에 영화와 TV, 스트리밍 사업을 아우르는 새로운 거대 기업이 탄생했다. 워]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더보이즈 주학년, '서울괴담'으로 스크린 데뷔..27일 개봉(공식)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003549363</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003549363"/>
-        <updated>2022-04-09T01:21:55.512Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=박서현기자] 주학년이 K-호러 ‘서울괴담’에 출연한다. 지난 8일 서울괴담(제작 쟈니브로스(주), 메가박스중앙(주)플러스엠, 감독 홍원기) 측은 오는 27일 개봉을 앞두 메인 예고편을 최초 공개했다. '서울괴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신비한 동물들과 덤블도어의 비밀' 강렬함이 없다[MK무비]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004947250</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004947250"/>
-        <updated>2022-04-09T01:21:55.514Z</updated>
-        <content type="html"><![CDATA[심장을 뛰게 만들거나 팬심을 자극할 강렬함이 없다. 그래서 아쉽다. 영화 ‘신비한 동물들과 덤블도어의 비밀’(감독 데이비드 예이츠)는 머글과의 전쟁을 선포한 그린델왈드와 덤블도어 군대의 대결 속 가장 거대하고 위험한]]></content>
     </entry>
 </feed>
