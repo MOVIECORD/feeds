@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 15:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 19:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -263,20 +263,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc0f69300e7e973ad35ab1c80aa00c91f0adbc1e9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아메리칸 저스티스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157070</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157070</guid>
-            <pubDate>Fri, 01 Apr 2022 09:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8790545a8d95fb723e1324a51ea07d76fd95cfe2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[약속의 네버랜드 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=147082</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=147082</guid>
             <pubDate>Tue, 29 Mar 2022 23:20:08 GMT</pubDate>
             <content:encoded><![CDATA[22.04.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe23122c18f309d12cfc7a8a71bb6b35b57da18de" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아메리칸 저스티스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157070</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157070</guid>
+            <pubDate>Fri, 01 Apr 2022 09:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8790545a8d95fb723e1324a51ea07d76fd95cfe2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[이상한 나라의 수학자 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -567,14 +567,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2Fyonhap%2F20220410132006475bmdi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[겉만 번지르르한 복지체계에 직면한 장애인의 애환 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220410111812663</link>
-            <guid>https://movie.v.daum.net/v/20220410111812663</guid>
-            <pubDate>Sun, 10 Apr 2022 02:57:19 GMT</pubDate>
-            <content:encoded><![CDATA[[김상목 기자] * 이 글에는 영화의 스포일러가 포함돼 있습니다. &lt;복지식당&gt;은 한국의 장애인복지제도 사각지대를 장애인과 비장애인 제작진이 힘을 모아 조명한 의미 있는 작업 끝에 탄생했다. 장애인을 소재로 다룬 작품은 그동안 적지 않게 등장해 왔기에 양적으로 사례 자체가 드문 상황은 아니다. 하지만 그중에서 단지 호기심 충족 차원이나 약방에 감초 격으로 도]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2Fohmynews%2F20220410111813686pbsn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['수퍼 소닉2' 첫 1위 등극..'모비우스' 40만 돌파 [Nbox] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220410091138499</link>
             <guid>https://movie.v.daum.net/v/20220410091138499</guid>
@@ -583,12 +575,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2FNEWS1%2F20220410091140072cljj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['공기살인' 서영희 눈물.."피해자 흉내만 낸 것 같아 죄송" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220409060003953</link>
-            <guid>https://movie.v.daum.net/v/20220409060003953</guid>
+            <title><![CDATA[겉만 번지르르한 복지체계에 직면한 장애인의 애환 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220410111812663</link>
+            <guid>https://movie.v.daum.net/v/20220410111812663</guid>
             <pubDate>Sun, 10 Apr 2022 02:57:19 GMT</pubDate>
-            <content:encoded><![CDATA[조용선 감독 "다시는 이런 영화가 나오지 않기를" [더팩트ㅣ이한림 기자] 배우 서영희가 영화 '공기살인' 시사회 현장에서 눈물을 보였다. 서영희는 8일 오후 서울 용산구 CGV용산아이파크몰에서 열린 영화 '공기살인' 언론배급 시사회 및 기자간담회에 참석해 영화를 본 소감과 연기에 대한 진심을 전했다. '공기살인'은 봄이 되면 나타났다가 여름이 되면 사]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F09%2FTHEFACT%2F20220409060007030gkqx.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[김상목 기자] * 이 글에는 영화의 스포일러가 포함돼 있습니다. &lt;복지식당&gt;은 한국의 장애인복지제도 사각지대를 장애인과 비장애인 제작진이 힘을 모아 조명한 의미 있는 작업 끝에 탄생했다. 장애인을 소재로 다룬 작품은 그동안 적지 않게 등장해 왔기에 양적으로 사례 자체가 드문 상황은 아니다. 하지만 그중에서 단지 호기심 충족 차원이나 약방에 감초 격으로 도]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2Fohmynews%2F20220410111813686pbsn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['열흘간 봄 영화 축제' 울주세계산악영화제 성황리 폐막 (다음영화 뉴스 ─ 인기)]]></title>
@@ -597,6 +589,14 @@
             <pubDate>Sun, 10 Apr 2022 11:17:21 GMT</pubDate>
             <content:encoded><![CDATA[(울산=연합뉴스) 허광무 기자 = 따뜻한 봄날 자연에서 펼쳐진 국제 산악영화 축제인 제7회 울주세계산악영화제(UMFF·www.umff.kr)가 열흘간 일정을 성황리에 마무리하고 10일 막을 내렸다. 울산시 울주군에서 열리는 국내 유일 국제 산악영화제인 울주세계산악영화제는 올해 '언제나 함께'라는 슬로건을 내걸고 지난 1일 개막했다. 2020년 5회 행사까지]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2Fyonhap%2F20220410193530649urgc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['공기살인' 서영희 눈물.."피해자 흉내만 낸 것 같아 죄송" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220409060003953</link>
+            <guid>https://movie.v.daum.net/v/20220409060003953</guid>
+            <pubDate>Sun, 10 Apr 2022 02:57:19 GMT</pubDate>
+            <content:encoded><![CDATA[조용선 감독 "다시는 이런 영화가 나오지 않기를" [더팩트ㅣ이한림 기자] 배우 서영희가 영화 '공기살인' 시사회 현장에서 눈물을 보였다. 서영희는 8일 오후 서울 용산구 CGV용산아이파크몰에서 열린 영화 '공기살인' 언론배급 시사회 및 기자간담회에 참석해 영화를 본 소감과 연기에 대한 진심을 전했다. '공기살인'은 봄이 되면 나타났다가 여름이 되면 사]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F09%2FTHEFACT%2F20220409060007030gkqx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["관객수 2배 증가"..7회 울주세계산악영화제 폐막 (다음영화 뉴스 ─ 인기)]]></title>
@@ -613,6 +613,14 @@
             <pubDate>Sun, 10 Apr 2022 04:24:44 GMT</pubDate>
             <content:encoded><![CDATA['맨발의 기봉이'부터 '형'까지 유쾌함과 따뜻함을 모두 갖춘 코미디 영화들을 선보여온 권수경 감독이 신작을 내놨다. '형' 이후 6년 만에 내놓는 '스텔라'에서 권수경 감독은 막다른 인생 제대로 한 번 달려본 적 없는 차량담보업계 에이스 영배가 보스의 슈퍼카와 함께 사라진 절친을 쫓는 속도감 넘치는 추격 코미디에 도전했다. 매 작품마다 세대 불문하고 웃]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2FiMBC%2F20220410120155083rstd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[더보이즈 주학년, '서울괴담'으로 첫 스크린 데뷔..27일 개봉 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220409095023313</link>
+            <guid>https://movie.v.daum.net/v/20220409095023313</guid>
+            <pubDate>Sun, 10 Apr 2022 15:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 더보이즈(THE BOYZ) 멤버 주학년이 영화 ‘서울괴담’에 출연한다. 지난 8일 ‘서울괴담’ 측은 오는 27일 개봉을 앞두고 메인 예고편을 최초 공개했다. 서울에서 벌어지는 괴이하고 기이한 이야기를 다룬 ‘서울괴담’은 복수, 욕망, 저주에서 시작된 죽음보다 더한 공포를 선사하는 괴이한 이야기들을 다루고 있는 영화로 기대를 모으고 있는 신작이다. 메인]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F09%2Fdailian%2F20220409095026250jaty.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[김동휘·남현우·이홍내·최현욱, 눈여겨볼 라이징 스타[Oh!쎈 레터] (다음영화 뉴스 ─ 인기)]]></title>
@@ -639,14 +647,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2Fohmynews%2F20220410095405511vpjz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[더보이즈 주학년, '서울괴담'으로 첫 스크린 데뷔..27일 개봉 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220409095023313</link>
-            <guid>https://movie.v.daum.net/v/20220409095023313</guid>
-            <pubDate>Sun, 10 Apr 2022 15:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 더보이즈(THE BOYZ) 멤버 주학년이 영화 ‘서울괴담’에 출연한다. 지난 8일 ‘서울괴담’ 측은 오는 27일 개봉을 앞두고 메인 예고편을 최초 공개했다. 서울에서 벌어지는 괴이하고 기이한 이야기를 다룬 ‘서울괴담’은 복수, 욕망, 저주에서 시작된 죽음보다 더한 공포를 선사하는 괴이한 이야기들을 다루고 있는 영화로 기대를 모으고 있는 신작이다. 메인]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F09%2Fdailian%2F20220409095026250jaty.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[이정재, '오겜' 덕에 유럽서도 열풍..伊 피렌체 명예 시민증 받았다 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220410163004802</link>
             <guid>https://movie.v.daum.net/v/20220410163004802</guid>
@@ -655,12 +655,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2F10asia%2F20220410163007710jxec.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['신비한 동물들과 덤블도어의 비밀'-'말임씨를 부탁해' [강추비추] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220410103301837</link>
-            <guid>https://movie.v.daum.net/v/20220410103301837</guid>
-            <pubDate>Sun, 10 Apr 2022 02:57:19 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 신비한 동물들과 덤블도어의 비밀, 말임씨를 부탁해 / 사진=각 영화 포스터올 봄 할리우드 대작들이 극장가를 점령하고 있다. 지난달 30일 개봉한 마블 안티히어로 영화 '모비우스'를 시작으로 마이클 베이 감독이 연출한 '앰뷸런스'까지. 외국 영화가 박스오피스 상위권에 포진하고 있는 가운데 탄탄한 마니아층을 보유한 '신비한 동물들과 덤]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2Fstarnews%2F20220410103303051qlbf.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['사운드트랙 #1' 박형식X한소희, 4부작이 아쉽다 [김나연의 사선] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220409120001776</link>
+            <guid>https://movie.v.daum.net/v/20220409120001776</guid>
+            <pubDate>Sun, 10 Apr 2022 19:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 영화·OTT를 보는 김나연 기자의 '사적인 시선' 박형식, 한소희 / 사진=월트디즈니컴퍼니 코리아이야기는 특별할 게 없지만, 배우들의 케미와 연기는 특별하다. 4부작이 아쉬워지는 '사운드트랙 #1'의 이야기다. 디즈니+ 오리지널 시리즈 '사운드트랙 #1'(극본 안새봄·연출 김희원)은 20년 지기 절친 두 남녀가 2주 동안 한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F09%2Fstarnews%2F20220409120004755srvi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<파리의 피아니스트: 후지코 헤밍의 시간들> 메인 예고편 (우리 영화 볼래?)]]></title>
