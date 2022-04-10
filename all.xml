@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 12:32:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 14:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -207,20 +207,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F112dd823e87e52a7203bb658c92cf86eb6237add" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[스텔라 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=120972</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=120972</guid>
-            <pubDate>Wed, 06 Apr 2022 01:26:02 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbfd1a30b31cd4184063f9c2c53a1d050c1ad54f0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[수퍼 소닉2 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156264</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156264</guid>
             <pubDate>Wed, 06 Apr 2022 01:26:02 GMT</pubDate>
             <content:encoded><![CDATA[22.04.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdb225500f78c419aec04f5a1c6f1bc3290832c22" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스텔라 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=120972</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=120972</guid>
+            <pubDate>Wed, 06 Apr 2022 01:26:02 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbfd1a30b31cd4184063f9c2c53a1d050c1ad54f0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[불도저에 탄 소녀 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -319,6 +319,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58a3b0cf3f22998a0f53d73dad7a5f6d8b8d3d3f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[나의 집은 어디인가 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=147530</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=147530</guid>
+            <pubDate>Sun, 10 Apr 2022 05:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff6f3dc0de6adba9d04f0796be8a2b9546746526c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[배니싱: 미제사건 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=140348</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=140348</guid>
@@ -333,14 +341,6 @@
             <pubDate>Sun, 10 Apr 2022 02:57:05 GMT</pubDate>
             <content:encoded><![CDATA[22.03.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa44461b8b66480bfed5a5c458ee63f964c6794b4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[나의 집은 어디인가 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=147530</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=147530</guid>
-            <pubDate>Sun, 10 Apr 2022 05:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff6f3dc0de6adba9d04f0796be8a2b9546746526c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[신비한 동물들과 덤블도어의 비밀 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -431,6 +431,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F414f1af0f99af4af0406b2cecfa39aa1bf5e436a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[그리스도 디 오리진 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148397</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148397</guid>
+            <pubDate>Tue, 05 Apr 2022 23:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa8b6b0f2d130a6327d70b0499fd8d3aad258c2b3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[중경삼림 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=17033</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=17033</guid>
@@ -445,14 +453,6 @@
             <pubDate>Thu, 07 Apr 2022 08:24:15 GMT</pubDate>
             <content:encoded><![CDATA[22.04.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcc7b4c33de1f3cd34618ff18ffdb631e965dc0b2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[그리스도 디 오리진 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=148397</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=148397</guid>
-            <pubDate>Tue, 05 Apr 2022 23:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa8b6b0f2d130a6327d70b0499fd8d3aad258c2b3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[엄마와 나 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -527,14 +527,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2Fked%2F20220410171005171xwfy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['스텔라' 권수경 감독 "전국을 수배해 구한 2대의 차량, 잘 버텨줘서 고마워" [인터뷰M] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220410080152512</link>
-            <guid>https://movie.v.daum.net/v/20220410080152512</guid>
-            <pubDate>Sat, 09 Apr 2022 23:19:19 GMT</pubDate>
-            <content:encoded><![CDATA['맨발의 기봉이'부터 '형'까지 유쾌함과 따뜻함을 모두 갖춘 코미디 영화들을 선보여온 권수경 감독이 신작을 내놨다. '형' 이후 6년 만에 내놓는 '스텔라'에서 권수경 감독은 막다른 인생 제대로 한 번 달려본 적 없는 차량담보업계 에이스 영배가 보스의 슈퍼카와 함께 사라진 절친을 쫓는 속도감 넘치는 추격 코미디에 도전했다. 매 작품마다 세대 불문하고 웃음과]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2FiMBC%2F20220410080154864jrlf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[흥행 실패에도 재조명, '8가지 규칙'에 답 있다 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220410090900465</link>
             <guid>https://movie.v.daum.net/v/20220410090900465</guid>
@@ -543,12 +535,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2Fohmynews%2F20220410090901868pjgh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[칸영화제 14일 초청작 발표..박찬욱→'감독' 이정재 이름 올릴까 [N초점] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220410060016892</link>
-            <guid>https://movie.v.daum.net/v/20220410060016892</guid>
+            <title><![CDATA['스텔라' 권수경 감독 "전국을 수배해 구한 2대의 차량, 잘 버텨줘서 고마워" [인터뷰M] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220410080152512</link>
+            <guid>https://movie.v.daum.net/v/20220410080152512</guid>
             <pubDate>Sat, 09 Apr 2022 23:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 약 한달 앞으로 다가온 제75회 칸 국제영화제에서 또 한 번 한국영화가 낭보를 전할 수 있을지 벌써부터 많은 관심이 쏠리고 있다. 칸 영화제는 오는 14일(현지시간) 공식 초청작을 발표한다. 이에 어떤 작품이 칸 영화제의 부름을 받을 수 있을지도 영화계 안팎의 관심이 집중되고 있다. 제75회 칸 국제영화제는 오는 5월1]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2FNEWS1%2F20220410060018027uqql.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA['맨발의 기봉이'부터 '형'까지 유쾌함과 따뜻함을 모두 갖춘 코미디 영화들을 선보여온 권수경 감독이 신작을 내놨다. '형' 이후 6년 만에 내놓는 '스텔라'에서 권수경 감독은 막다른 인생 제대로 한 번 달려본 적 없는 차량담보업계 에이스 영배가 보스의 슈퍼카와 함께 사라진 절친을 쫓는 속도감 넘치는 추격 코미디에 도전했다. 매 작품마다 세대 불문하고 웃음과]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2FiMBC%2F20220410080154864jrlf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[OTT다방] 사랑이 시작되는 순간, 남녀 사이 거리두기 방지 영화 (다음영화 뉴스 ─ 인기)]]></title>
@@ -559,20 +551,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2Fseouleconomy%2F20220410090124310frpr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[칸영화제 14일 초청작 발표..박찬욱→'감독' 이정재 이름 올릴까 [N초점] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220410060016892</link>
+            <guid>https://movie.v.daum.net/v/20220410060016892</guid>
+            <pubDate>Sat, 09 Apr 2022 23:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 약 한달 앞으로 다가온 제75회 칸 국제영화제에서 또 한 번 한국영화가 낭보를 전할 수 있을지 벌써부터 많은 관심이 쏠리고 있다. 칸 영화제는 오는 14일(현지시간) 공식 초청작을 발표한다. 이에 어떤 작품이 칸 영화제의 부름을 받을 수 있을지도 영화계 안팎의 관심이 집중되고 있다. 제75회 칸 국제영화제는 오는 5월1]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2FNEWS1%2F20220410060018027uqql.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[끝나지 않은 대규모 비극의 기억을 위하여..영화 '공기살인' (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220410132006953</link>
             <guid>https://movie.v.daum.net/v/20220410132006953</guid>
             <pubDate>Sun, 10 Apr 2022 04:24:44 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 한미희 기자 = 대학병원 교수인 유능하고 성실한 가장 정태훈(김상경 분)과 너그러운 아내 한길주(서영희)는 사랑스러운 6살 아들 민우와 단란한 가정을 꾸리고 있다. 며칠 앓다 회복한 건우가 수영장에 갔다가 의식을 잃으며 비극이 닥친다. 건우가 원인을 알 수 없는 이유로 폐가 굳어버리는 급성 간질성 폐 질환 진단을 받은 다음 날, 병원 생]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2Fyonhap%2F20220410132006475bmdi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[겉만 번지르르한 복지체계에 직면한 장애인의 애환 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220410111812663</link>
-            <guid>https://movie.v.daum.net/v/20220410111812663</guid>
-            <pubDate>Sun, 10 Apr 2022 02:57:19 GMT</pubDate>
-            <content:encoded><![CDATA[[김상목 기자] * 이 글에는 영화의 스포일러가 포함돼 있습니다. &lt;복지식당&gt;은 한국의 장애인복지제도 사각지대를 장애인과 비장애인 제작진이 힘을 모아 조명한 의미 있는 작업 끝에 탄생했다. 장애인을 소재로 다룬 작품은 그동안 적지 않게 등장해 왔기에 양적으로 사례 자체가 드문 상황은 아니다. 하지만 그중에서 단지 호기심 충족 차원이나 약방에 감초 격으로 도]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2Fohmynews%2F20220410111813686pbsn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['수퍼 소닉2' 첫 1위 등극..'모비우스' 40만 돌파 [Nbox] (다음영화 뉴스 ─ 인기)]]></title>
@@ -583,6 +575,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2FNEWS1%2F20220410091140072cljj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[겉만 번지르르한 복지체계에 직면한 장애인의 애환 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220410111812663</link>
+            <guid>https://movie.v.daum.net/v/20220410111812663</guid>
+            <pubDate>Sun, 10 Apr 2022 02:57:19 GMT</pubDate>
+            <content:encoded><![CDATA[[김상목 기자] * 이 글에는 영화의 스포일러가 포함돼 있습니다. &lt;복지식당&gt;은 한국의 장애인복지제도 사각지대를 장애인과 비장애인 제작진이 힘을 모아 조명한 의미 있는 작업 끝에 탄생했다. 장애인을 소재로 다룬 작품은 그동안 적지 않게 등장해 왔기에 양적으로 사례 자체가 드문 상황은 아니다. 하지만 그중에서 단지 호기심 충족 차원이나 약방에 감초 격으로 도]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2Fohmynews%2F20220410111813686pbsn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['공기살인' 서영희 눈물.."피해자 흉내만 낸 것 같아 죄송" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220409060003953</link>
             <guid>https://movie.v.daum.net/v/20220409060003953</guid>
@@ -591,20 +591,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F09%2FTHEFACT%2F20220409060007030gkqx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['스텔라' 권수경 감독 "코미디에도 메시지 담아야 해, 항상 감동 주려 한다" [인터뷰M] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220410120153713</link>
-            <guid>https://movie.v.daum.net/v/20220410120153713</guid>
-            <pubDate>Sun, 10 Apr 2022 04:24:44 GMT</pubDate>
-            <content:encoded><![CDATA['맨발의 기봉이'부터 '형'까지 유쾌함과 따뜻함을 모두 갖춘 코미디 영화들을 선보여온 권수경 감독이 신작을 내놨다. '형' 이후 6년 만에 내놓는 '스텔라'에서 권수경 감독은 막다른 인생 제대로 한 번 달려본 적 없는 차량담보업계 에이스 영배가 보스의 슈퍼카와 함께 사라진 절친을 쫓는 속도감 넘치는 추격 코미디에 도전했다. 매 작품마다 세대 불문하고 웃]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2FiMBC%2F20220410120155083rstd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['열흘간 봄 영화 축제' 울주세계산악영화제 성황리 폐막 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220410193530939</link>
             <guid>https://movie.v.daum.net/v/20220410193530939</guid>
             <pubDate>Sun, 10 Apr 2022 11:17:21 GMT</pubDate>
             <content:encoded><![CDATA[(울산=연합뉴스) 허광무 기자 = 따뜻한 봄날 자연에서 펼쳐진 국제 산악영화 축제인 제7회 울주세계산악영화제(UMFF·www.umff.kr)가 열흘간 일정을 성황리에 마무리하고 10일 막을 내렸다. 울산시 울주군에서 열리는 국내 유일 국제 산악영화제인 울주세계산악영화제는 올해 '언제나 함께'라는 슬로건을 내걸고 지난 1일 개막했다. 2020년 5회 행사까지]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2Fyonhap%2F20220410193530649urgc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['스텔라' 권수경 감독 "코미디에도 메시지 담아야 해, 항상 감동 주려 한다" [인터뷰M] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220410120153713</link>
+            <guid>https://movie.v.daum.net/v/20220410120153713</guid>
+            <pubDate>Sun, 10 Apr 2022 04:24:44 GMT</pubDate>
+            <content:encoded><![CDATA['맨발의 기봉이'부터 '형'까지 유쾌함과 따뜻함을 모두 갖춘 코미디 영화들을 선보여온 권수경 감독이 신작을 내놨다. '형' 이후 6년 만에 내놓는 '스텔라'에서 권수경 감독은 막다른 인생 제대로 한 번 달려본 적 없는 차량담보업계 에이스 영배가 보스의 슈퍼카와 함께 사라진 절친을 쫓는 속도감 넘치는 추격 코미디에 도전했다. 매 작품마다 세대 불문하고 웃]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2FiMBC%2F20220410120155083rstd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[역사에 기록되지 못한 흑인들의 축제, 놀라운 점 (다음영화 뉴스 ─ 인기)]]></title>
@@ -623,6 +623,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2Fpoctan%2F20220410055638190iitu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[이정재, '오겜' 덕에 유럽서도 열풍..伊 피렌체 명예 시민증 받았다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220410163004802</link>
+            <guid>https://movie.v.daum.net/v/20220410163004802</guid>
+            <pubDate>Sun, 10 Apr 2022 12:31:34 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자] 배우 이정재가 유럽까지 사로잡았다. 이정재는 7일(현지시각) 개막한 제20회 피렌체 한국 영화제에 특별 게스트로 참석했다. 8일 이정재는 현지 매체들과 기자회견을 진행했다. 현지 매체들은 이탈리아에서도 높은 인기를 구가한 이정재 주연의 넷플릭스 시리즈 '오징어 게임'과 이정재의 연기에 대한 질문은 물론, 그의 연기관과 새롭게]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2F10asia%2F20220410163007710jxec.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["관객수 2배 증가"..7회 울주세계산악영화제 폐막 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220410204535629</link>
+            <guid>https://movie.v.daum.net/v/20220410204535629</guid>
+            <pubDate>Sun, 10 Apr 2022 12:31:34 GMT</pubDate>
+            <content:encoded><![CDATA[제7회 울주세계산악영화제가 열흘간의 일정을 마치고 폐막했다. 제7회 울주세계산악영화제는 2022년에 개최된 국내의 첫 국제영화제로 지난 1일부터 10일까지 열흘간 움프시네마를 비롯한 5개관 상영과 다양한 체험 프로그램, 야외 전시, 또한 온라인 상영관을 운영하였다. 코로나 감소추세로 인하여 많은 영화인, 산악인 그리고 해외 게스트들이 영화제를 방문했다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2Filgansports%2F20220410204538740ptbe.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['신비한 동물들과 덤블도어의 비밀'-'말임씨를 부탁해' [강추비추] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220410103301837</link>
             <guid>https://movie.v.daum.net/v/20220410103301837</guid>
@@ -639,28 +655,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F09%2Fhankooki%2F20220409102602609npxr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[이정재, '오겜' 덕에 유럽서도 열풍..伊 피렌체 명예 시민증 받았다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220410163004802</link>
-            <guid>https://movie.v.daum.net/v/20220410163004802</guid>
-            <pubDate>Sun, 10 Apr 2022 12:31:34 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자] 배우 이정재가 유럽까지 사로잡았다. 이정재는 7일(현지시각) 개막한 제20회 피렌체 한국 영화제에 특별 게스트로 참석했다. 8일 이정재는 현지 매체들과 기자회견을 진행했다. 현지 매체들은 이탈리아에서도 높은 인기를 구가한 이정재 주연의 넷플릭스 시리즈 '오징어 게임'과 이정재의 연기에 대한 질문은 물론, 그의 연기관과 새롭게]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2F10asia%2F20220410163007710jxec.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[피오렌티나 옷피셜? "이정재 등번호는 456번" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220410160356199</link>
-            <guid>https://movie.v.daum.net/v/20220410160356199</guid>
-            <pubDate>Sun, 10 Apr 2022 09:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[이탈리아 프로축구 세리에A의 ACF 피오렌티나가 한국 배우 이정재 ‘옷피셜(옷+오피셜)’ 사진을 올린 게 화제다. 피오렌티나 구단 인스타그램은 지난 9일(한국시간) “이정재는 456번 선수입니다”란 글을 올렸다. 이정재가 등번호 ‘456번’과 영문명 ‘LEE JUNG JAE’가 적힌 보라색 피오렌티나 유니폼을 들고 웃는 사진도 함께 게재했다. ‘오징]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2Fjoongang%2F20220410160357555ghnh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["관객수 2배 증가"..7회 울주세계산악영화제 폐막 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220410204535629</link>
-            <guid>https://movie.v.daum.net/v/20220410204535629</guid>
-            <pubDate>Sun, 10 Apr 2022 12:31:34 GMT</pubDate>
-            <content:encoded><![CDATA[제7회 울주세계산악영화제가 열흘간의 일정을 마치고 폐막했다. 제7회 울주세계산악영화제는 2022년에 개최된 국내의 첫 국제영화제로 지난 1일부터 10일까지 열흘간 움프시네마를 비롯한 5개관 상영과 다양한 체험 프로그램, 야외 전시, 또한 온라인 상영관을 운영하였다. 코로나 감소추세로 인하여 많은 영화인, 산악인 그리고 해외 게스트들이 영화제를 방문했다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2Filgansports%2F20220410204538740ptbe.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA["이정재 왔다" 伊 피렌체가 들썩들썩 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220410081541765</link>
+            <guid>https://movie.v.daum.net/v/20220410081541765</guid>
+            <pubDate>Sun, 10 Apr 2022 14:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 배우 이정재가 유럽까지 사로잡았다. 이정재는 7일(현지시각) 개막한 제20회 피렌체 한국 영화제에 특별 게스트로 참석했다. 피렌체 한국영화제는 다양한 한국 영화를 이탈리아에 소개하는 영화제로, 한국과 이탈리아의 문화 교류 장을 만들어 온 의미 있는 영화제다. 8일 이정재는 현지 매체들과 기자회견을 진행했다. 현지 매체들은 이탈리]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2Fsportskhan%2F20220410081543376csww.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['열흘간 봄 영화 축제' 울주세계산악영화제 성황리 폐막 (다음영화 뉴스 ─ 최신)]]></title>
