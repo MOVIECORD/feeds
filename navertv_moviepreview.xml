@@ -4,9 +4,17 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 22:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 01:29:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['파리의 피아니스트: 후지코 헤밍의 시간들' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/26154397</link>
+            <guid>https://tv.naver.com/v/26154397</guid>
+            <pubDate>Mon, 11 Apr 2022 01:29:03 GMT</pubDate>
+            <content:encoded><![CDATA[4분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220411_76/Oxiuo_1649640269962YfHBb_JPEG/c44404d0-b935-11ec-861a-505dac8c385b_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['4월은 너의 거짓말' 사랑의 앙상블 영상]]></title>
             <link>https://tv.naver.com/v/26118925</link>
@@ -116,7 +124,7 @@
             <link>https://tv.naver.com/v/26108323</link>
             <guid>https://tv.naver.com/v/26108323</guid>
             <pubDate>Fri, 08 Apr 2022 01:37:38 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_140/Iep6g_1649381187428AP8tG_JPEG/5c3140ab-b6da-11ec-8c89-505dacfba98a_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -124,7 +132,7 @@
             <link>https://tv.naver.com/v/26108270</link>
             <guid>https://tv.naver.com/v/26108270</guid>
             <pubDate>Fri, 08 Apr 2022 01:37:38 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_73/mYlxA_1649381032328GNzYH_JPEG/73e4c181-b6da-11ec-bc9a-505dac8c381b_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Apr 2022 02:56:03 GMT</pubDate>
             <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220407_33/rxWZS_1649297400273zQski_JPEG/900bfb4c-b617-11ec-931f-505dac8c3721_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['니 부모 얼굴이 보고 싶다' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/26087602</link>
-            <guid>https://tv.naver.com/v/26087602</guid>
-            <pubDate>Thu, 07 Apr 2022 02:56:03 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220407_189/Wh0UV_16492964253209OdR8_JPEG/6e603567-b615-11ec-aa4b-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
