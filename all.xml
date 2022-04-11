@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 19:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 20:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -239,14 +239,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3d93fdcc0efc92362da8b5e73eb5db83e44d6190" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[재춘언니 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145292</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145292</guid>
-            <pubDate>Tue, 15 Mar 2022 10:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc0f69300e7e973ad35ab1c80aa00c91f0adbc1e9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[뜨거운 피 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=125271</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=125271</guid>
@@ -255,20 +247,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc40ad380f429b74bc6559c555e43392706bf9c5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아메리칸 저스티스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157070</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157070</guid>
-            <pubDate>Fri, 01 Apr 2022 09:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8790545a8d95fb723e1324a51ea07d76fd95cfe2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[이상한 나라의 수학자 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=139237</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=139237</guid>
-            <pubDate>Mon, 14 Feb 2022 12:29:07 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ca21642451e2e68e3eec5b9691c2aba33b47d70" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[재춘언니 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145292</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145292</guid>
+            <pubDate>Tue, 15 Mar 2022 10:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc0f69300e7e973ad35ab1c80aa00c91f0adbc1e9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[더 배트맨 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -301,6 +285,22 @@
             <pubDate>Tue, 01 Mar 2022 04:24:26 GMT</pubDate>
             <content:encoded><![CDATA[21.12.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아메리칸 저스티스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157070</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157070</guid>
+            <pubDate>Fri, 01 Apr 2022 09:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8790545a8d95fb723e1324a51ea07d76fd95cfe2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[이상한 나라의 수학자 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139237</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139237</guid>
+            <pubDate>Mon, 14 Feb 2022 12:29:07 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ca21642451e2e68e3eec5b9691c2aba33b47d70" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[패러렐 마더스 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -655,12 +655,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F11%2Fohmynews%2F20220411060654383rbsd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[칸영화제 14일 초청작 발표..박찬욱→'감독' 이정재 이름 올릴까 [N초점] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220410060016892</link>
-            <guid>https://movie.v.daum.net/v/20220410060016892</guid>
-            <pubDate>Sat, 09 Apr 2022 23:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 약 한달 앞으로 다가온 제75회 칸 국제영화제에서 또 한 번 한국영화가 낭보를 전할 수 있을지 벌써부터 많은 관심이 쏠리고 있다. 칸 영화제는 오는 14일(현지시간) 공식 초청작을 발표한다. 이에 어떤 작품이 칸 영화제의 부름을 받을 수 있을지도 영화계 안팎의 관심이 집중되고 있다. 제75회 칸 국제영화제는 오는 5월1]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2FNEWS1%2F20220410060018027uqql.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA["아기 엄마 변신한 아이유"..'브로커', 6월 개봉 확정 [공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220411104616352</link>
+            <guid>https://movie.v.daum.net/v/20220411104616352</guid>
+            <pubDate>Mon, 11 Apr 2022 20:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 영화 '브로커'가 6월 극장가에 출격한다. '브로커'(감독 고레에다 히로카즈)는 베이비 박스를 둘러싸고 관계를 맺게 된 이들의 예기치 못한 특별한 여정을 그린 영화다. 오는 6월 개봉 확정과 함께 공개된 티저 포스터는 맑은 하늘 아래, 한 아기를 중심으로 뜻밖의 여정을 함께하게 된 이들의 상반된 순간을 포착해 이목을 집중시]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F11%2Fmydaily%2F20220411104616851hpxe.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['앵커' 천우희 "9년차 앵커로 변신..압박감 심했다" (다음영화 뉴스 ─ 최신)]]></title>
@@ -1315,7 +1315,7 @@
             <link>https://tv.naver.com/v/26162068</link>
             <guid>https://tv.naver.com/v/26162068</guid>
             <pubDate>Mon, 11 Apr 2022 08:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220411_134/v4fFn_1649661912898FKpDI_JPEG/7874bfe8-b967-11ec-91f7-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1323,7 +1323,7 @@
             <link>https://tv.naver.com/v/26160812</link>
             <guid>https://tv.naver.com/v/26160812</guid>
             <pubDate>Mon, 11 Apr 2022 07:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220411_286/crSoD_1649658675024txSR9_JPEG/b51dc9d4-b960-11ec-b765-d4f5ef5a9532_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1331,7 +1331,7 @@
             <link>https://tv.naver.com/v/26155755</link>
             <guid>https://tv.naver.com/v/26155755</guid>
             <pubDate>Mon, 11 Apr 2022 03:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220411_269/gbd95_1649643216603D0eNt_JPEG/d8e0f350-b93c-11ec-a9d0-505dacfba98a_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1339,7 +1339,7 @@
             <link>https://tv.naver.com/v/26155661</link>
             <guid>https://tv.naver.com/v/26155661</guid>
             <pubDate>Mon, 11 Apr 2022 03:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220411_91/ftcMY_1649643017548QH2vN_JPEG/51d5a3e1-b93a-11ec-91f7-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1347,7 +1347,7 @@
             <link>https://tv.naver.com/v/26155061</link>
             <guid>https://tv.naver.com/v/26155061</guid>
             <pubDate>Mon, 11 Apr 2022 03:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220411_169/zIuAZ_1649641748042iRyuJ_JPEG/373f6a5e-b939-11ec-9b1f-505dacfbaa5c_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1355,7 +1355,7 @@
             <link>https://tv.naver.com/v/26154397</link>
             <guid>https://tv.naver.com/v/26154397</guid>
             <pubDate>Mon, 11 Apr 2022 01:29:03 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220411_76/Oxiuo_1649640269962YfHBb_JPEG/c44404d0-b935-11ec-861a-505dac8c385b_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
