@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-11T14:19:58.758Z</updated>
+    <updated>2022-04-11T17:24:05.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부산 아시아영화학교 아카데미교육생 모집]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000006723</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000006723"/>
+        <updated>2022-04-11T17:22:42.448Z</updated>
+        <content type="html"><![CDATA[부산영상위원회가 운영하는 부산아시아영화학교(AFiS)가 올해 부산영상아카데미 교육생을 모집한다. 이달 ‘맞춤형 영화·영상 전문인력 양성 교육’ 프로그램 중 ‘기획·제작’과 ‘영화음악’ 과정부터 진행한다. 기획·제작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['앵커' 천우희 "9년차 앵커로 변신…압박감 심했다"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000142831</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000142831"/>
+        <updated>2022-04-11T17:22:42.448Z</updated>
+        <content type="html"><![CDATA["전문직 연기도 중요하지만 내적 불안감 표현에 중점" 배우 천우희가 9년차 베테랑 앵커를 연기하면서 고충을 겪은 심정을 털어놨다. 천우희는 11일 서울 광진구 롯데시네마 건대입구에서 열린 영화 '앵커'(감독 정지연)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] '콜'→'발레리나'…'열애' 전종서·이충현 감독 두번째 호흡 어떨까(종합)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006022633</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000151383"/>
         <updated>2022-04-11T08:24:09.129Z</updated>
         <content type="html"><![CDATA[▶ 줄거리 생방송 5분 전, 방송국 간판 앵커 ‘세라’(천우희)에게 자신이 살해될 것이라며 죽음을 예고하는 제보 전화가 걸려온다. 장난전화로 치부하기에는 찝찝한 마음을 감출 수 없는 ‘세라’. 진짜 앵커가 될 기회라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['앵커' 감독 "천우희, 모든 것 쏟아 부어..신하균은 이중적 모습"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003043632</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003043632"/>
-        <updated>2022-04-11T08:24:09.152Z</updated>
-        <content type="html"><![CDATA[영화 '앵커' 감독이 배우들에 대한 칭찬과 함께 감사를 전했다. 11일 오후 서울 광진구 롯데시네마 건대입구에서 영화 '앵커'(감독 정지연) 언론배급시사회가 열렸다. 이날 행사에는 배우 천우희, 신하균 그리고 정지연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["두 배우 캐스팅 천운"..'앵커' 천우희x신하균, 믿보배들의 반전 스릴러 [종합]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004590029</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004590029"/>
-        <updated>2022-04-11T08:24:09.153Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] 믿보배 천우희, 신하균이 미스터리 스릴러 '앵커'로 뭉쳤다. 11일 오후 서울 롯데시네마 건대입구에서 영화 '앵커'의 언론시사회가 진행됐다. 이 자리에는 주연 배우 천우희, 신하균, 정지연]]></content>
     </entry>
 </feed>
