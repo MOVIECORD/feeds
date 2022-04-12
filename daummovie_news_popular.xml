@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 18:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 19:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,14 +136,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F11%2FSpoChosun%2F20220411125904084lnno.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[엘리자베스 올슨 '완다', MCU 역사상 가장 독보적 女캐릭터 귀환 ('닥터 스트레인지: 대혼돈의 멀티버스')]]></title>
-            <link>https://movie.v.daum.net/v/20220412084346437</link>
-            <guid>https://movie.v.daum.net/v/20220412084346437</guid>
-            <pubDate>Tue, 12 Apr 2022 03:02:42 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 영화 '닥터 스트레인지: 대혼돈의 멀티버스'에서 엘리자베스 올슨의 '완다/스칼렛 위치'가 다시 한번 MCU(마블 시네마틱 유니버스) 세계관 속 가장 강력하고 독보적인 여성 캐릭터로서의 존재감을 드러낼 예정이다. 완다 캐릭터는 2014년 영화 '캡틴 아메리카: 윈터 솔져'에서 처음 등장, 지난 8년간 MCU 세계관에서 염력,]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F12%2Fmydaily%2F20220412084346917trep.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[애증의 모녀 관계, 스릴러가 되다..영화 '앵커']]></title>
             <link>https://movie.v.daum.net/v/20220412105447860</link>
             <guid>https://movie.v.daum.net/v/20220412105447860</guid>
@@ -158,6 +150,14 @@
             <pubDate>Tue, 12 Apr 2022 18:24:34 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠서울 | 황혜정기자] 중국에서 영화 ‘신비한 동물들과 덤블도어의 비밀’ 내용 중 두 주요 등장인물간의 동성애 관계에 대한 암시 장면이 삭제된 채 개봉됐다. 이로인해 중국에서 개봉한 ‘신비한 동물들과 덤블도어의 비밀’은 러닝타임 142분 중 6초 가량이 삭제됐다. 편집된 장면은 주인공 덤블도어(주드 로)와 그린델왈드(미즈 미켈슨)의 과거]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F12%2FSPORTSSEOUL%2F20220412232722803pdzm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[엘리자베스 올슨 '완다', MCU 역사상 가장 독보적 女캐릭터 귀환 ('닥터 스트레인지: 대혼돈의 멀티버스')]]></title>
+            <link>https://movie.v.daum.net/v/20220412084346437</link>
+            <guid>https://movie.v.daum.net/v/20220412084346437</guid>
+            <pubDate>Tue, 12 Apr 2022 03:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 영화 '닥터 스트레인지: 대혼돈의 멀티버스'에서 엘리자베스 올슨의 '완다/스칼렛 위치'가 다시 한번 MCU(마블 시네마틱 유니버스) 세계관 속 가장 강력하고 독보적인 여성 캐릭터로서의 존재감을 드러낼 예정이다. 완다 캐릭터는 2014년 영화 '캡틴 아메리카: 윈터 솔져'에서 처음 등장, 지난 8년간 MCU 세계관에서 염력,]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F12%2Fmydaily%2F20220412084346917trep.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[SC초점] '우리들의 블루스' 톱스타도 평범하게 만드는 노희경표 매직]]></title>
