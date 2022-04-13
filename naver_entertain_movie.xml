@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-13T19:18:23.422Z</updated>
+    <updated>2022-04-13T21:19:04.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰]천우희가 '앵커'가 된 이유]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011121334</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011121334"/>
+        <updated>2022-04-13T21:17:43.419Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 영화 '앵커'서 9시 뉴스 앵커 '세라' 연기 첫 전문직 역할 맡아 "도전하고 싶었다" "앵커 되기 위해 매일 4시간 씩 연습해" "앵커 모습 속에 감춰진 내면 융합 초점" [서울=뉴시스] 손정빈 기자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엘리자베스 올슨, MCU 속 가장 독보적인 캐릭터로 귀환 [TF프리즘]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000143356</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000143356"/>
+        <updated>2022-04-13T21:17:43.419Z</updated>
+        <content type="html"><![CDATA['닥터 스트레인지: 대혼돈의 멀티버스'서 완다(스칼렛 위치)로 열연 영화 '닥터 스트레인지: 대혼돈의 멀티버스'가 오는 5월 4일 전 세계 동시 개봉을 확정하며 글로벌 MCU(마블 시네마틱 유니버스) 팬들을 설레게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강릉 촬영 영화 '말임씨를 부탁해' 개봉]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=654&amp;aid=0000007494</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002349262"/>
         <updated>2022-04-13T09:19:32.086Z</updated>
         <content type="html"><![CDATA[[신작 영화 리뷰] &lt;드라이&gt; ▲ 영화 &lt;드라이&gt; 포스터. ⓒ 영화사 진진 호주 멜버른의 고층 아파트, 연방수사관 에런은 뜻밖의 연락을 받고 20여 년 전 떠났던 고향 마을 '키와라'로 향한다. 어린 시절 친구 루크]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M&A로 영토확장…카카오 '엔터 강자' 등극]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004685455</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004685455"/>
-        <updated>2022-04-13T09:19:32.086Z</updated>
-        <content type="html"><![CDATA[2015년까지만 해도 카카오는 콘텐츠업계에서 ‘그저 그런’ 업체 중 하나였다. 당시 매출이 수백억원에 불과하던 웹툰·웹소설 플랫폼인 포도트리(카카오페이지 전신)를 빼면 이렇다 할 사업이 없었기 때문이다. 이랬던 카카]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JIFF 개막작 '애프터 양', 예매 오픈 3분 만에 전석 매진]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006027331</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006027331"/>
-        <updated>2022-04-13T09:19:32.087Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 제23회 전주국제영화제 개막작 '애프터 양'(감독 코고나다)이 영화제 예매 오픈 3분 만에 전석을 매진시켰다. 13일 영화의 수입, 배급사 (주)왓챠에 따르면 '애프터 양'은 영화제 예매]]></content>
     </entry>
 </feed>
