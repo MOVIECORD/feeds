@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 18:25:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 19:18:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박찬욱 ‘헤어질…’·고레에다 ‘브로커’ 한국영화 2편 칸 경쟁부문 진출 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001519242</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001519242</guid>
+            <pubDate>Thu, 14 Apr 2022 19:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[박찬욱 감독의 11번째 장편 ‘헤어질 결심’과 고레에다 히로카즈 감독의 ‘브로커’ 등 한국영화 2편이 칸국제영화제 경쟁 부문에 진출했다. 칸국제영화제 집행위원회는 14일(현지시간) 다음 달 17일 개막하는 제75회]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[프랑스 칸 국제영화제, 한국영화 3편 초청 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004686216</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 이정재 감독의 첫 연출작으로 주목받고 있는 영화 '헌트'가 제75회 칸영화제 미드나잇 스크리닝에 초청되는 쾌거를 이뤘다. 이에 이정재가 칸영화제에 초청받은 소감도 전했다. 14일 오전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['앵커' 천우희 "현장의 압박 오히려 자극이 되어 몰입에 도움된다" [인터뷰M] (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000151773</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000151773</guid>
-            <pubDate>Thu, 14 Apr 2022 12:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[의문의 제보 전화를 받은 메인 뉴스 앵커를 주인공으로 하는 미스터리 스릴러 '앵커'의 주인공 천우희를 만났다. 천우희는 작품 속 앵커의 이미지는 온데간데 없는 밝은 모습으로 작품에 대해 망설임 없이 시원시원하게 이야]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[신비한 동물들과 덤블도어의 비밀 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=131275</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=131275</guid>
@@ -215,20 +215,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa1c758159fc2be91c7c3ec1c8b4efbf60dd1dfff" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[스텔라 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=120972</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=120972</guid>
-            <pubDate>Wed, 06 Apr 2022 01:26:02 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbfd1a30b31cd4184063f9c2c53a1d050c1ad54f0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[모비우스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=129103</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=129103</guid>
             <pubDate>Wed, 30 Mar 2022 01:25:58 GMT</pubDate>
             <content:encoded><![CDATA[22.03.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8ca142bd911045e25d8e8e1f1afcb1d1a118bfab" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스텔라 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=120972</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=120972</guid>
+            <pubDate>Wed, 06 Apr 2022 01:26:02 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbfd1a30b31cd4184063f9c2c53a1d050c1ad54f0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[앰뷸런스 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -559,20 +559,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F14%2Fsportskhan%2F20220414101352099wgbr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[개연성 상실 '신비한 동물사전'.. 시리즈 정상 제작 가능할까? (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220414105108405</link>
-            <guid>https://movie.v.daum.net/v/20220414105108405</guid>
-            <pubDate>Thu, 14 Apr 2022 08:26:07 GMT</pubDate>
-            <content:encoded><![CDATA[[김상화 기자] ▲ &nbsp;영화 '신비한 동물들과 덤블도어의 비밀'의 한 장면    ⓒ 워너브러더즈코리아  &nbsp; * 영화에 대한 약간의 스포성 이야기가 담겨 있습니다. 설명이 필요없는 &lt;해리 포터&gt; 시리즈 프리퀄로 기획된 &lt;신비한 동물사전&gt; 시리즈가 어느새 3편까지 도달했다. &nbsp;2016년 &lt;신비한 동물사전&gt;, 2018년 &lt;신비한 동물들과 그린델왈드의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F14%2Fohmynews%2F20220414105109909ntbi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['칸 향하는' 아이유, 배우 이지은의 빛나는 행보 [스타이슈] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220414200002629</link>
             <guid>https://movie.v.daum.net/v/20220414200002629</guid>
             <pubDate>Thu, 14 Apr 2022 12:38:21 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김나연 기자] 브로커, 아이유 / 사진=영화 포스터, 스타뉴스가수 겸 배우 아이유(이지은)가 칸으로 향한다. 가수로도, 배우로도 그 누구보다 빛나는 행보다. 칸 국제영화제 사무국은 14일(현지시간 기준) 프랑스 파리에서 공식 기자회견을 갖고 제 75회 칸 국제영화제 공식 초청작 리스트를 발표했다. 이에 '헤어질 결심'(감독 박찬욱)과 '브로커']]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F14%2Fstarnews%2F20220414200003558ofek.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[개연성 상실 '신비한 동물사전'.. 시리즈 정상 제작 가능할까? (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220414105108405</link>
+            <guid>https://movie.v.daum.net/v/20220414105108405</guid>
+            <pubDate>Thu, 14 Apr 2022 08:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[[김상화 기자] ▲ &nbsp;영화 '신비한 동물들과 덤블도어의 비밀'의 한 장면    ⓒ 워너브러더즈코리아  &nbsp; * 영화에 대한 약간의 스포성 이야기가 담겨 있습니다. 설명이 필요없는 &lt;해리 포터&gt; 시리즈 프리퀄로 기획된 &lt;신비한 동물사전&gt; 시리즈가 어느새 3편까지 도달했다. &nbsp;2016년 &lt;신비한 동물사전&gt;, 2018년 &lt;신비한 동물들과 그린델왈드의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F14%2Fohmynews%2F20220414105109909ntbi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[조동혁x이완 '피는 물보다 진하다', 인간의 본성 담은 누아르 액션..5월 개봉 (다음영화 뉴스 ─ 인기)]]></title>
@@ -591,14 +591,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F14%2Fpoctan%2F20220414143202214vmxe.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[단독] 이정재 첫 연출작 '헌트'로 칸영화제 진출..'깐부' 정우성과 칸 레드카펫 밟는다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220414160221331</link>
-            <guid>https://movie.v.daum.net/v/20220414160221331</guid>
-            <pubDate>Thu, 14 Apr 2022 08:26:07 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 배우이자 감독 이정재가 첫 연출작인 첩보 영화 '헌트'(이정재 감독, 아티스트스튜디오·사나이픽처스 제작)로 감독으로서 칸국제영화제에 진출한다. 이번엔 '깐부' 정우성도 함께 칸의 레드카펫을 밟을 예정이다. 이정재 감독의 연출작 '헌트'는 오는 5월 17일부터 28일까지 프랑스 남부 휴양도시 중 하나인 칸 일대에서 열]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F14%2FSpoChosun%2F20220414162135189oifa.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[서인국·장동윤 글로벌 프로젝트..'늑대사냥' 크랭크업·하반기 개봉 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220414082432012</link>
             <guid>https://movie.v.daum.net/v/20220414082432012</guid>
@@ -613,6 +605,14 @@
             <pubDate>Thu, 14 Apr 2022 10:22:44 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠서울 | 황혜정기자] 영화 ‘나를 만나는 길’이 오는 5월 12일 개봉을 확정하고, 메인 포스터와 메인 예고편을 공개했다. ‘나를 만나는 길’은 전 세계인의 정신적 스승 틱낫한 스님이 프랑스 보르도 근교에 설립한 명상 공동체 플럼 빌리지의 일상을 3년에 걸쳐 기록한 작품이다. 배우 베네딕트 컴버배치가 제작과 내레이션을 맡아 작품에 대한]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F14%2FSPORTSSEOUL%2F20220414151427308jaaq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독] 이정재 첫 연출작 '헌트'로 칸영화제 진출..'깐부' 정우성과 칸 레드카펫 밟는다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220414160221331</link>
+            <guid>https://movie.v.daum.net/v/20220414160221331</guid>
+            <pubDate>Thu, 14 Apr 2022 08:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 배우이자 감독 이정재가 첫 연출작인 첩보 영화 '헌트'(이정재 감독, 아티스트스튜디오·사나이픽처스 제작)로 감독으로서 칸국제영화제에 진출한다. 이번엔 '깐부' 정우성도 함께 칸의 레드카펫을 밟을 예정이다. 이정재 감독의 연출작 '헌트'는 오는 5월 17일부터 28일까지 프랑스 남부 휴양도시 중 하나인 칸 일대에서 열]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F14%2FSpoChosun%2F20220414162135189oifa.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[홍상수 영화는 똑같다? '소설가의 영화'가 보여준 변화 (다음영화 뉴스 ─ 인기)]]></title>
@@ -631,6 +631,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F13%2Fseouleconomy%2F20220413194439903wsbq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['헤어질 결심' 박찬욱 감독, 4번째 칸 진출.."누구보다 오래 기립박수 칠 것" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220414210001034</link>
+            <guid>https://movie.v.daum.net/v/20220414210001034</guid>
+            <pubDate>Thu, 14 Apr 2022 19:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 영화 '헤어질 결심'(감독 박찬욱)이 제75회 칸 국제영화제 경쟁 부문에 공식 초청됐다. 이와 더불어 오는 6월 개봉을 확정 짓고, 1차 포스터를 공개했다. '헤어질 결심'은 산에서 벌어진 변사 사건을 수사하게 된 형사 해준(박해일 분)이 사망자의 아내 서래(탕웨이)를 만나고 의심과 관심을 동시에 느끼며 시작되는 이야기를 그]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F14%2Fxportsnews%2F20220414210003660sngb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[박찬욱X탕웨이 신작 '헤어질 결심', 6월 개봉 확정→칸 영화제 경쟁 부문 초청[공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220414232700382</link>
+            <guid>https://movie.v.daum.net/v/20220414232700382</guid>
+            <pubDate>Thu, 14 Apr 2022 17:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=이혜미 기자] 박찬욱 감독의 새 작품 '헤어질 결심'이 제75회 칸 국제영화제 경쟁 부문에 공식 초청됐다. 이와 더불어 '헤어질 결심'은 오는 6월 개봉을 확정 짓고, 1차 포스터를 공개했다. '헤어질 결심'은 산에서 벌어진 변사 사건을 수사하게 된 형사 '해준'(박해일)이 사망자의 아내 '서래'(탕웨이)를 만나고 의심과 관심을 동시에 느끼며]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F14%2Ftvreport%2F20220414232703370dncm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['열아홉, 서른아홉' 이소연→전혜빈 출연 확정..열정 가득 리딩[공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220414093908531</link>
             <guid>https://movie.v.daum.net/v/20220414093908531</guid>
@@ -647,20 +663,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F13%2Fohmynews%2F20220413173602172ksmw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[박찬욱X탕웨이 신작 '헤어질 결심', 6월 개봉 확정→칸 영화제 경쟁 부문 초청[공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220414232700382</link>
-            <guid>https://movie.v.daum.net/v/20220414232700382</guid>
-            <pubDate>Thu, 14 Apr 2022 17:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=이혜미 기자] 박찬욱 감독의 새 작품 '헤어질 결심'이 제75회 칸 국제영화제 경쟁 부문에 공식 초청됐다. 이와 더불어 '헤어질 결심'은 오는 6월 개봉을 확정 짓고, 1차 포스터를 공개했다. '헤어질 결심'은 산에서 벌어진 변사 사건을 수사하게 된 형사 '해준'(박해일)이 사망자의 아내 '서래'(탕웨이)를 만나고 의심과 관심을 동시에 느끼며]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F14%2Ftvreport%2F20220414232703370dncm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['그대가 조국' 5월 전격 개봉, "전주국제영화제 월드 프리미어" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220414090932225</link>
-            <guid>https://movie.v.daum.net/v/20220414090932225</guid>
-            <pubDate>Thu, 14 Apr 2022 01:46:21 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]조국 법무부장관 임명을 둘러싼 갈등과 저항에 대한 성찰적 다큐멘터리 영화 ‘그대가 조국’이 5월 전격 개봉한다. 개봉에 앞서 제23회 전주국제영화제에 초청되어 5월 1일(일) 14시 월드 프리미어로 공개한다. ‘그대가 조국’의 전주국제영화제 예매는 4월 15일(금) 11시 전주국제영화제 홈페이지에서 오픈한다. 개봉에 앞서 크라]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F14%2Fmydaily%2F20220414090932838gpyu.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[박찬욱 '헤어질..'·고레에다 '브로커' 한국영화 2편 칸 경쟁부문 진출 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220415040948871</link>
+            <guid>https://v.daum.net/v/20220415040948871</guid>
+            <pubDate>Thu, 14 Apr 2022 19:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[박찬욱 감독의 11번째 장편 ‘헤어질 결심’과 고레에다 히로카즈 감독의 ‘브로커’ 등 한국영화 2편이 칸국제영화제 경쟁 부문에 진출했다. 칸국제영화제 집행위원회는 14일(현지시간) 다음 달 17일 개막하는 제75회 영화제 공식 초청작을 발표했다. ‘헤어질 결심’은 변사 사건을 수사하게 된 형사 해준이 사망자의 아내 서래를 만난 뒤 의심과 관심을 동시에 갖]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F15%2Fkukminilbo%2F20220415040949316nnxe.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<더 컨트랙터> 티저 예고편 (우리 영화 볼래?)]]></title>
@@ -1307,7 +1315,7 @@
             <link>https://tv.naver.com/v/26220966</link>
             <guid>https://tv.naver.com/v/26220966</guid>
             <pubDate>Thu, 14 Apr 2022 04:24:38 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220414_181/4dr4B_164990899107442lRW_JPEG/8747e0ac-bba7-11ec-a9d0-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1315,7 +1323,7 @@
             <link>https://tv.naver.com/v/26220832</link>
             <guid>https://tv.naver.com/v/26220832</guid>
             <pubDate>Thu, 14 Apr 2022 04:24:38 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220414_218/PvDoe_1649908447765fLjEF_JPEG/53a7e4fe-bba6-11ec-b52c-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1323,7 +1331,7 @@
             <link>https://tv.naver.com/v/26219368</link>
             <guid>https://tv.naver.com/v/26219368</guid>
             <pubDate>Thu, 14 Apr 2022 03:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220414_132/EuPSI_1649903316224TuxnD_JPEG/5310e896-bb99-11ec-9021-48df37ae3fca_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1331,7 +1339,7 @@
             <link>https://tv.naver.com/v/26218858</link>
             <guid>https://tv.naver.com/v/26218858</guid>
             <pubDate>Thu, 14 Apr 2022 03:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220414_88/2F4qg_1649901847348VkYeX_JPEG/df2efe1e-bb96-11ec-b086-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1339,7 +1347,7 @@
             <link>https://tv.naver.com/v/26218032</link>
             <guid>https://tv.naver.com/v/26218032</guid>
             <pubDate>Thu, 14 Apr 2022 01:46:57 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220414_247/KwUrS_1649899684986Jx21q_JPEG/979f8a8a-bb91-11ec-9021-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
