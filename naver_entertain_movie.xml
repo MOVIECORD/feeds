@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-15T20:22:13.110Z</updated>
+    <updated>2022-04-15T21:18:48.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주말의 OTT]오바마가 소개하는 지구 최고의 자연]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011126350</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011126350"/>
+        <updated>2022-04-15T21:17:28.168Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 손정빈 기자 = 오바마가 소개합니다 '지구상의 위대한 국립공원'(넷플릭스) 4월22일 지구의 날을 맞아 버락 오바마 전 미국 대통령이 지구상에 존재하는 가장 신비로운 세계로 시청자를 초대한다. '지구]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["'오징어 게임' 이정재의 '헌트', 칸 최고의 볼거리" 외신도 주목]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001435483</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000151877"/>
         <updated>2022-04-15T09:19:26.076Z</updated>
         <content type="html"><![CDATA[이정재 감독의 첫 연출작 '헌트'의 칸 영화제 진출에 외신도 주목하고 있다. 지난 14일(현지시각) 제75회 칸 영화제 집행위원회 측은 ‘헌트'를 미드나잇 스크리닝 부문에 공식 초청했다. 미드나잇 스크리닝은 액션,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["일방 폭행 아닌 상호 학대" 조니 뎁·엠버 허드 치료사, 소송서 새 주장]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003044838</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003044838"/>
-        <updated>2022-04-15T09:19:26.076Z</updated>
-        <content type="html"><![CDATA[할리우드 배우 조니 뎁이 전 부인 엠버 허드를 상대로 명예훼손 소송을 제기한 가운데, 한 치료사는 이 부부가 '상호 학대'를 했다고 주장했다. 심리 치료사 로렐 애피스 앤더슨은 14일(현지시간) 미국 버지니아주 페어]]></content>
     </entry>
 </feed>
