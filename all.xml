@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 05:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 06:25:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['복지식당' 정재익-서태수 감독 "장애인과 비장애인 공동작업, 배우 스태프 감독의 3박자 좋았던 현장" [인터뷰M] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000151992</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000151992</guid>
+            <pubDate>Sun, 17 Apr 2022 06:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[비장애인에게는 충격을 장애인에게는 공감을 살수 있는 영화 '복지식당'을 만든 정재익, 서태수 감독을 만났다. 장애인의 불편한 삶을 조명해 주는 영화 려니하고 봤던 영화지만 기대를 뛰어넘는 배우들의 열연과, 생각보다]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[천우희, ‘앵커’와 ‘니 부모’로 극장가 연이은 출격 [톡★스타] (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000610477</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[쇼박스가 MCG(Maum Capital Group, 이하 MCG)와 약 1,400억 규모의 투자 유치 계약을 체결했다. 쇼박스는 오늘(15일) 유상 증자 방식으로 MCG로부터 약 1,400억원의 대규모 투자 유치 계]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쇼박스, MCG와 1400억 규모 투자 유치 계약 체결 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006032816</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006032816</guid>
-            <pubDate>Sat, 16 Apr 2022 07:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 투자배급사 쇼박스가 MCG(Maum Capital Group, 이하 MCG)와 약 1400억 규모의 투자 유치 계약을 체결했다. 쇼박스는 지난 15일 유상 증자 방식으로 MCG로]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[신비한 동물들과 덤블도어의 비밀 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=131275</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=131275</guid>
@@ -247,20 +247,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb3870e8e86508f8a99d4704e4136a46156bb606c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 주술회전 0 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156790</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156790</guid>
-            <pubDate>Fri, 28 Jan 2022 11:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdec276db284e8c6d82f974cff11fa991ccd3f6b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[하빗 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152470</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152470</guid>
             <pubDate>Wed, 06 Apr 2022 23:20:17 GMT</pubDate>
             <content:encoded><![CDATA[22.04.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F30a2e0ef79641841e489f9fb36b9e8137161d3a6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 주술회전 0 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156790</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156790</guid>
+            <pubDate>Fri, 28 Jan 2022 11:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdec276db284e8c6d82f974cff11fa991ccd3f6b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[드라이 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -287,12 +287,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0bd104af8fa8ed021dcb323699c5c68c99df87e0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[더 배트맨 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=110137</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=110137</guid>
-            <pubDate>Thu, 14 Apr 2022 22:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8cc69ee37e41d9fed49935446d3a6697f7467df4" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[이상한 나라의 수학자 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139237</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139237</guid>
+            <pubDate>Sat, 16 Apr 2022 03:30:35 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ca21642451e2e68e3eec5b9691c2aba33b47d70" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[웨이트: 감각에 눈뜰 때 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -319,20 +319,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ba6bb0a7101dec0bfaed07659269edd1353ec66" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[이상한 나라의 수학자 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=139237</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=139237</guid>
-            <pubDate>Sat, 16 Apr 2022 03:30:35 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ca21642451e2e68e3eec5b9691c2aba33b47d70" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[불도저에 탄 소녀 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153127</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153127</guid>
             <pubDate>Wed, 23 Mar 2022 06:24:42 GMT</pubDate>
             <content:encoded><![CDATA[22.04.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3d93fdcc0efc92362da8b5e73eb5db83e44d6190" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 배트맨 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=110137</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=110137</guid>
+            <pubDate>Thu, 14 Apr 2022 22:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8cc69ee37e41d9fed49935446d3a6697f7467df4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스펜서 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -527,20 +527,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F15%2Fyonhap%2F20220415161155811jexs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["내비게이션 같은 배우" '니 부모 얼굴이', 극찬 끌어낸 천우희 열연 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220415151118678</link>
-            <guid>https://movie.v.daum.net/v/20220415151118678</guid>
-            <pubDate>Fri, 15 Apr 2022 09:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '니 부모 얼굴이 보고 싶다'(감독 김지훈)가 작품에 현실감과 완성도를 높인 배우 천우희의 열연을 예고한다. '니 부모 얼굴이 보고 싶다'가 배우 천우희의 열연을 예고하며 관객들의 기대를 모은다. 오는 27일 개봉을 앞둔 '니 부모 얼굴이 보고 싶다'는 스스로 몸을 던진 한 학생의 편지에 남겨진 4명의 이름, 가해자]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F15%2FNEWS1%2F20220415151119852zyya.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA["토마토 어떻게 생겼는지도 몰라".. 미국 급식의 충격 비밀들 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220417123000169</link>
             <guid>https://movie.v.daum.net/v/20220417123000169</guid>
             <pubDate>Sun, 17 Apr 2022 04:25:05 GMT</pubDate>
             <content:encoded><![CDATA[[김준모 기자] &nbsp;        ▲ &nbsp;&lt;비만나라의 아이들&gt; 포스터    ⓒ HBO  &nbsp; 미국 사회의 어두운 면을 조명하는 마이클 무어 감독의 다큐멘터리 &lt;다음 침공은 어디?&gt;는 다른 나라들의 장점만을 빼앗기로 선언하고 전 세계를 침공(?)하는 마이클 무어의 모습을 담은 작품이다. 프랑스를 침공한 그는 미슐랭 3스타급 학교급식이 나오는 이곳의 교육환경을 조명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F17%2Fohmynews%2F20220417123006788tjzq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[SC줌人] "인생 최고의 화양연화"..'월드★' 이정재, '오징어 게임' 히트→칸서 감독 데뷔 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220417121831065</link>
+            <guid>https://movie.v.daum.net/v/20220417121831065</guid>
+            <pubDate>Sun, 17 Apr 2022 04:25:05 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 데뷔 29년 차를 맞은 배우 이정재가 전 세계에서 인정받은 '믿고 보는 배우'로 등극한 것은 물론 세계적인 무대에서 연출 데뷔까지 성공하며 인생 최고의 화양연화를 맞게 됐다. 이정재의 월드클라스 행보는 지난해부터 시작됐다. 지난해 9월 17일 전 세계에 공개된 넷플릭스 오리지널 시리즈 '오징어 게임'(황동혁 극본·]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F17%2FSpoChosun%2F20220417121831806nzfh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[TEN인터뷰] '야차' 박해수 "아이 낳고 글로벌 사랑까지, 설경구 길 따라가고파" (다음영화 뉴스 ─ 인기)]]></title>
@@ -557,14 +557,6 @@
             <pubDate>Sat, 16 Apr 2022 02:54:26 GMT</pubDate>
             <content:encoded><![CDATA[[양형석 기자] 지난 2020년 tvN 주말 드라마 &lt;싸이코지만 괜찮아&gt;가 높은 화제성과 7%대의 준수한 시청률을 기록하며 성황리에 막을 내렸다. &lt;싸이코지만 괜찮아&gt;는 국내보다 해외시장에서 더욱 큰 인기를 끌었는데 일본을 비롯해 동남아권에서 넷플릭스 드라마 순위 1위를 차지했고 오세아니아와 남미, 그리고 유럽 일부 국가에서도 top10에 진입했다. 역시]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F16%2Fohmynews%2F20220416104807311qdtn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[SC줌人] "인생 최고의 화양연화"..'월드★' 이정재, '오징어 게임' 히트→칸서 감독 데뷔 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220417121831065</link>
-            <guid>https://movie.v.daum.net/v/20220417121831065</guid>
-            <pubDate>Sun, 17 Apr 2022 04:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 데뷔 29년 차를 맞은 배우 이정재가 전 세계에서 인정받은 '믿고 보는 배우'로 등극한 것은 물론 세계적인 무대에서 연출 데뷔까지 성공하며 인생 최고의 화양연화를 맞게 됐다. 이정재의 월드클라스 행보는 지난해부터 시작됐다. 지난해 9월 17일 전 세계에 공개된 넷플릭스 오리지널 시리즈 '오징어 게임'(황동혁 극본·]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F17%2FSpoChosun%2F20220417121831806nzfh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["디카프리오, 20대 여친 위해 환경운동" 발언 논란 해명 "허락 받았다" (다음영화 뉴스 ─ 인기)]]></title>
@@ -591,20 +583,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F17%2Fstarnews%2F20220417130005393mctb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[2년만에 다시, 팝콘 튀기며..관객 기다리는 극장 [김미화의 날선무비] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220417114001327</link>
-            <guid>https://movie.v.daum.net/v/20220417114001327</guid>
-            <pubDate>Sun, 17 Apr 2022 02:57:38 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자]  /사진=이기범 기자 leekb@ 정부가 코로나로 인한 사회적 거리두기를 2년 1개월 만에 전격해제 한다. 오는 4월 18일 부터 사회적 거리두기가 전면 해제되는 가운데, 코로나로 인해 큰 타격을 입었던 영화계도 정상화 된다. 극장에서도 25일 부터 극장 내 취식이 가능해 진다. 정부가 극장가에 취식 금지 조치를 내린 후 극장에서]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F17%2Fstarnews%2F20220417114003183qysd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['야차' 설경구 "대놓고 멋있는 캐릭터, 부끄러웠죠"[★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220417100001486</link>
             <guid>https://movie.v.daum.net/v/20220417100001486</guid>
             <pubDate>Sun, 17 Apr 2022 01:39:44 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김나연 기자] 넷플릭스 영화 '야차'(감독 나현)의 주연배우 설경구가 13일 오전 화상으로 진행된 인터뷰를 위해 포즈를 취하고 있다.  스파이들의 최대 접전지 중국 선양에서 일명 '야차'가 이끄는 국정원 비밀공작 전담 블랙팀과 특별감찰 검사, 그리고 각국 정보부 요원들의 숨막히는 접전을 그린 첩보 액션 영화 '야차'는 전 세계 영화 부문 3위에]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F17%2Fstarnews%2F20220417100003118djlk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[2년만에 다시, 팝콘 튀기며..관객 기다리는 극장 [김미화의 날선무비] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220417114001327</link>
+            <guid>https://movie.v.daum.net/v/20220417114001327</guid>
+            <pubDate>Sun, 17 Apr 2022 02:57:38 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자]  /사진=이기범 기자 leekb@ 정부가 코로나로 인한 사회적 거리두기를 2년 1개월 만에 전격해제 한다. 오는 4월 18일 부터 사회적 거리두기가 전면 해제되는 가운데, 코로나로 인해 큰 타격을 입었던 영화계도 정상화 된다. 극장에서도 25일 부터 극장 내 취식이 가능해 진다. 정부가 극장가에 취식 금지 조치를 내린 후 극장에서]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F17%2Fstarnews%2F20220417114003183qysd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['야차' 박해수 "아시아계가 아닌 한국 배우, 한국 콘텐츠를 찾는 세상" [인터뷰M] (다음영화 뉴스 ─ 인기)]]></title>
@@ -615,28 +607,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F16%2FiMBC%2F20220416201231551calk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['오겜'으로 부상한 황동혁 감독, 앞으로 행보는[N초점] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220417080013958</link>
-            <guid>https://movie.v.daum.net/v/20220417080013958</guid>
-            <pubDate>Sun, 17 Apr 2022 01:39:44 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 넷플릭스 오리지널 '오징어 게임'의 '대박'은 K콘텐츠의 인기가 단순히 한두 작품의 흥행에서 끝나지 않는 하나의 거대한 '시류'가 될 수 있음을 보여줬다. 최근 '오징어 게임'의 배우 박해수 주연 영화 '야차'(감독 나현)가 넷플릭스 영화 부문 전세계 3위를 차지한 사실(플릭스 패트롤 11일 기준)이 이를 방증한다. '야]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F17%2FNEWS1%2F20220417080014837pprb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['신비한 동물들과 덤블도어의 비밀' 4일 연속 1위..35만 동원 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220417074517851</link>
             <guid>https://movie.v.daum.net/v/20220417074517851</guid>
             <pubDate>Sun, 17 Apr 2022 01:39:44 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘신비한 동물들과 덤블도어의 비밀’이 박스오피스 1위를 유지하고 있다. 17일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 어제(16일) ‘신비한 동물들과 덤블도어의 비밀’은 15만 230명이 관람해 일별 박스오피스 1위를 차지했다. ‘신비한 동물들과 덤블도어의 비밀’(감독 데이빗 예이츠, 수입배급 워너브러더스 코리아]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F17%2Fpoctan%2F20220417074519112mknc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[111분 순삭..유쾌한 롤러코스터, '로스트 시티'[MK무비] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220417073302798</link>
-            <guid>https://movie.v.daum.net/v/20220417073302798</guid>
-            <pubDate>Sun, 17 Apr 2022 01:39:44 GMT</pubDate>
-            <content:encoded><![CDATA[믿고 보는 로코 장인들의 만남이다. 산드라 블록·채닝 테이텀의 신선한 케미가 버무려진 초호화 로코 어드벤처, ‘로스트 시티’(감독 애덤 니)가 관객과 만난다. 재벌 페어팩스(다니엘 래드클리프)는 전설의 트레저를 차지하기 위해 유일한 단서를 알고 있는 베스트셀러 작가 로레타(산드라 블록)를 납치한다. 어쩔 수 없는 비지니스 관계로 사라진 그녀를 찾아야만]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F17%2Fstartoday%2F20220417073304316mysh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[코미디 어드벤처에 로맨스 한 스푼..영화 '로스트 시티' (다음영화 뉴스 ─ 인기)]]></title>
@@ -647,6 +623,30 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F17%2Fyonhap%2F20220417070013237mfhq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['오겜'으로 부상한 황동혁 감독, 앞으로 행보는[N초점] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220417080013958</link>
+            <guid>https://movie.v.daum.net/v/20220417080013958</guid>
+            <pubDate>Sun, 17 Apr 2022 01:39:44 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 넷플릭스 오리지널 '오징어 게임'의 '대박'은 K콘텐츠의 인기가 단순히 한두 작품의 흥행에서 끝나지 않는 하나의 거대한 '시류'가 될 수 있음을 보여줬다. 최근 '오징어 게임'의 배우 박해수 주연 영화 '야차'(감독 나현)가 넷플릭스 영화 부문 전세계 3위를 차지한 사실(플릭스 패트롤 11일 기준)이 이를 방증한다. '야]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F17%2FNEWS1%2F20220417080014837pprb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[111분 순삭..유쾌한 롤러코스터, '로스트 시티'[MK무비] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220417073302798</link>
+            <guid>https://movie.v.daum.net/v/20220417073302798</guid>
+            <pubDate>Sun, 17 Apr 2022 01:39:44 GMT</pubDate>
+            <content:encoded><![CDATA[믿고 보는 로코 장인들의 만남이다. 산드라 블록·채닝 테이텀의 신선한 케미가 버무려진 초호화 로코 어드벤처, ‘로스트 시티’(감독 애덤 니)가 관객과 만난다. 재벌 페어팩스(다니엘 래드클리프)는 전설의 트레저를 차지하기 위해 유일한 단서를 알고 있는 베스트셀러 작가 로레타(산드라 블록)를 납치한다. 어쩔 수 없는 비지니스 관계로 사라진 그녀를 찾아야만]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F17%2Fstartoday%2F20220417073304316mysh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['복지식당' 정재익-서태수 감독 "장애인과 비장애인 공동작업, 배우 스태프 감독의 3박자 좋았던 현장" [인터뷰M] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220417145534118</link>
+            <guid>https://movie.v.daum.net/v/20220417145534118</guid>
+            <pubDate>Sun, 17 Apr 2022 06:24:17 GMT</pubDate>
+            <content:encoded><![CDATA[비장애인에게는 충격을 장애인에게는 공감을 살수 있는 영화 '복지식당'을 만든 정재익, 서태수 감독을 만났다. 장애인의 불편한 삶을 조명해 주는 영화 려니하고 봤던 영화지만 기대를 뛰어넘는 배우들의 열연과, 생각보다 더 처참했던 장애인 복지 실태, 그리고 상상조차 하지 못했던 장애인 사회의 권력구조를 파헤치는 영화 '복지식당'은 충격 자체였다. 더 많은 사람]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F17%2FiMBC%2F20220417145537407ousx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['야차' 나현 감독 "본 적 없던 韓 첩보 영화, 차별화 위해 노력"[★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220416130001341</link>
             <guid>https://movie.v.daum.net/v/20220416130001341</guid>
@@ -655,12 +655,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F16%2Fstarnews%2F20220416130002619fdxo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[박찬욱·고레에다 히로카즈→이정재..칸 영화제 초청 [위클리 무비] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220416111501512</link>
-            <guid>https://movie.v.daum.net/v/20220416111501512</guid>
-            <pubDate>Sun, 17 Apr 2022 05:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='헤어질 결심', '브로커' 포스터 한주간 영화계 소식 알려드립니다. ○...박찬욱 감독의 '헤어질 결심'과 고레에다 히로카즈 감독의 '브로커'가 칸 국제영화제 경쟁 부문에 초청돼 황금 종려상에 도전한다. '오징어 게임'으로 월드스타가 된 이정재는 감독으로 칸 국제영화제 레드카펫에 오른다. 고레에다 히로카즈 감독의 첫 한국]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F16%2Fstarnews%2F20220416111502221mkfl.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[송강호 7번째-배두나 4번째 칸, 경쟁부문 '브로커' 관심집중 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220416105149236</link>
+            <guid>https://movie.v.daum.net/v/20220416105149236</guid>
+            <pubDate>Sun, 17 Apr 2022 06:24:17 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이재환 기자] 배우 송강호가 7번째 칸 영화제 초청을 받았다. 한국 배우로는 최다 기록이다. 오는 5월17일 개막하는 제75회 칸 국제영화제 경쟁 부문에 한국영화 '브로커'가 이름을 올리면서 송강호는 또 한번 칸에 입성하게 된다. 이로써 송강호는 2006년 '괴물'(감독주간)을 시작으로 2007년 '밀양'(경쟁부문), 2008년 '좋은 놈,]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F16%2Fnewsen%2F20220416105150407fvci.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['복지식당' 정재익-서태수 감독 "장애인과 비장애인 공동작업, 배우 스태프 감독의 3박자 좋았던 현장" [인터뷰M] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220417145534118</link>
+            <guid>https://v.daum.net/v/20220417145534118</guid>
+            <pubDate>Sun, 17 Apr 2022 06:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[비장애인에게는 충격을 장애인에게는 공감을 살수 있는 영화 '복지식당'을 만든 정재익, 서태수 감독을 만났다. 장애인의 불편한 삶을 조명해 주는 영화 려니하고 봤던 영화지만 기대를 뛰어넘는 배우들의 열연과, 생각보다 더 처참했던 장애인 복지 실태, 그리고 상상조차 하지 못했던 장애인 사회의 권력구조를 파헤치는 영화 '복지식당'은 충격 자체였다. 더 많은 사람]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F17%2FiMBC%2F20220417145537407ousx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["센 역할 다 내게로"..'연습벌레' 천우희, 이유있는 연기 호평 [★FULL인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
@@ -1427,7 +1435,7 @@
             <link>https://tv.naver.com/v/26245897</link>
             <guid>https://tv.naver.com/v/26245897</guid>
             <pubDate>Fri, 15 Apr 2022 06:26:35 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220415_256/dmfqQ_1650003241918UoRel_JPEG/e571bf47-bc82-11ec-b765-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1435,7 +1443,7 @@
             <link>https://tv.naver.com/v/26245660</link>
             <guid>https://tv.naver.com/v/26245660</guid>
             <pubDate>Fri, 15 Apr 2022 06:26:35 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220415_108/UtYWT_1650002730346jQJhD_JPEG/af95dcd4-bc81-11ec-b086-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1443,7 +1451,7 @@
             <link>https://tv.naver.com/v/26245356</link>
             <guid>https://tv.naver.com/v/26245356</guid>
             <pubDate>Fri, 15 Apr 2022 06:26:35 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220415_117/v65Y2_1650002053059YKgmk_JPEG/25df4ee9-bc80-11ec-a12d-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1571,7 +1579,7 @@
             <link>https://tv.naver.com/v/26203696</link>
             <guid>https://tv.naver.com/v/26203696</guid>
             <pubDate>Wed, 13 Apr 2022 07:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220413_258/zMAdV_16498297879173sPjp_JPEG/2f0772de-baef-11ec-a9d0-505dacfba98a_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1579,7 +1587,7 @@
             <link>https://tv.naver.com/v/26203497</link>
             <guid>https://tv.naver.com/v/26203497</guid>
             <pubDate>Wed, 13 Apr 2022 07:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220413_39/GqUR7_1649829341296IEWrJ_JPEG/2b5a6565-baee-11ec-b765-d4f5ef5a9532_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1587,7 +1595,7 @@
             <link>https://tv.naver.com/v/26203370</link>
             <guid>https://tv.naver.com/v/26203370</guid>
             <pubDate>Wed, 13 Apr 2022 07:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220413_57/0DeZy_1649828974863jk012_JPEG/e81967dd-baec-11ec-bdfe-48df37ae3dc4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1611,7 +1619,7 @@
             <link>https://tv.naver.com/v/26182157</link>
             <guid>https://tv.naver.com/v/26182157</guid>
             <pubDate>Tue, 12 Apr 2022 06:25:19 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220412_134/EIrCC_1649744553731j1uab_JPEG/9bacbddf-ba28-11ec-b765-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1619,7 +1627,7 @@
             <link>https://tv.naver.com/v/26182030</link>
             <guid>https://tv.naver.com/v/26182030</guid>
             <pubDate>Tue, 12 Apr 2022 06:25:19 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220412_178/N7tPF_1649744209452TkPg8_JPEG/1649744115483.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1627,7 +1635,7 @@
             <link>https://tv.naver.com/v/26181165</link>
             <guid>https://tv.naver.com/v/26181165</guid>
             <pubDate>Tue, 12 Apr 2022 06:25:19 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220412_50/nv2nO_1649742448013XS1QC_PNG/1649742443341.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
