@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 04:26:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 05:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[천우희, ‘앵커’와 ‘니 부모’로 극장가 연이은 출격 [톡★스타] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000610477</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000610477</guid>
+            <pubDate>Sun, 17 Apr 2022 05:17:54 GMT</pubDate>
+            <content:encoded><![CDATA['앵커' 두 작품에서 전혀 다른 캐릭터로 변신했다. 천우희가 우연치 않게 ‘앵커’와 ‘니 부모 얼굴이 보고 싶다’로 연이어 관객들을 만나는 심정을 전했다. 배우 천우희는 지난 13일 온라인으로 진행한 영화 ‘앵커’의]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA["센 역할 다 내게로"..'연습벌레' 천우희, 이유있는 연기 호평 [★FULL인터뷰] (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003045173</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 투자배급사 쇼박스가 MCG(Maum Capital Group, 이하 MCG)와 약 1400억 규모의 투자 유치 계약을 체결했다. 쇼박스는 지난 15일 유상 증자 방식으로 MCG로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[팝인터뷰]박해수 "베네딕트 컴버배치에 같은 연극 했었다 하니 안아줘" (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003551257</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003551257</guid>
-            <pubDate>Sat, 16 Apr 2022 07:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=이미지 기자] 배우 박해수가 베네딕트 컴버배치와의 일화를 공개했다. 앞서 박해수는 제28회 미국 배우 조합상에서 만난 베네딕트 컴버배치와 찍은 인증샷을 공유해 화제를 모은 바 있다. 최근 헤럴드POP과]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[신비한 동물들과 덤블도어의 비밀 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=131275</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=131275</guid>
@@ -239,20 +239,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F37230e2362f90e0aca27af4c7db1ea1a2448e5fa" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 주술회전 0 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156790</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156790</guid>
-            <pubDate>Fri, 28 Jan 2022 11:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdec276db284e8c6d82f974cff11fa991ccd3f6b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[복지식당 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149619</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149619</guid>
             <pubDate>Tue, 05 Apr 2022 06:25:23 GMT</pubDate>
             <content:encoded><![CDATA[22.04.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb3870e8e86508f8a99d4704e4136a46156bb606c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 주술회전 0 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156790</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156790</guid>
+            <pubDate>Fri, 28 Jan 2022 11:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdec276db284e8c6d82f974cff11fa991ccd3f6b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[하빗 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -287,12 +287,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0bd104af8fa8ed021dcb323699c5c68c99df87e0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[이상한 나라의 수학자 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=139237</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=139237</guid>
-            <pubDate>Sat, 16 Apr 2022 03:30:35 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ca21642451e2e68e3eec5b9691c2aba33b47d70" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[더 배트맨 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=110137</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=110137</guid>
+            <pubDate>Thu, 14 Apr 2022 22:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8cc69ee37e41d9fed49935446d3a6697f7467df4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[웨이트: 감각에 눈뜰 때 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -319,6 +319,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ba6bb0a7101dec0bfaed07659269edd1353ec66" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[이상한 나라의 수학자 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139237</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139237</guid>
+            <pubDate>Sat, 16 Apr 2022 03:30:35 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ca21642451e2e68e3eec5b9691c2aba33b47d70" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[불도저에 탄 소녀 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153127</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153127</guid>
@@ -327,20 +335,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3d93fdcc0efc92362da8b5e73eb5db83e44d6190" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[더 배트맨 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=110137</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=110137</guid>
-            <pubDate>Thu, 14 Apr 2022 22:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8cc69ee37e41d9fed49935446d3a6697f7467df4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[뱅드림! 팝핀‘ 드림! (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156955</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156955</guid>
-            <pubDate>Sun, 17 Apr 2022 02:57:23 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5850d17f2763ce9382810e46da277c047331a826" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[스펜서 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145181</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145181</guid>
+            <pubDate>Sun, 17 Apr 2022 05:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffe807f2e93a1d028b73c1ac89cbcb4e0748965aa" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[세븐틴 파워 오브 러브 : 더 무비 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -551,6 +551,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F17%2F10asia%2F20220417110204324cagu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[관객들이 적응 못한, 박찬욱 감독 유일무이 '로맨틱 코미디' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220416104801190</link>
+            <guid>https://movie.v.daum.net/v/20220416104801190</guid>
+            <pubDate>Sat, 16 Apr 2022 02:54:26 GMT</pubDate>
+            <content:encoded><![CDATA[[양형석 기자] 지난 2020년 tvN 주말 드라마 &lt;싸이코지만 괜찮아&gt;가 높은 화제성과 7%대의 준수한 시청률을 기록하며 성황리에 막을 내렸다. &lt;싸이코지만 괜찮아&gt;는 국내보다 해외시장에서 더욱 큰 인기를 끌었는데 일본을 비롯해 동남아권에서 넷플릭스 드라마 순위 1위를 차지했고 오세아니아와 남미, 그리고 유럽 일부 국가에서도 top10에 진입했다. 역시]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F16%2Fohmynews%2F20220416104807311qdtn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[SC줌人] "인생 최고의 화양연화"..'월드★' 이정재, '오징어 게임' 히트→칸서 감독 데뷔 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220417121831065</link>
             <guid>https://movie.v.daum.net/v/20220417121831065</guid>
@@ -567,14 +575,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F16%2Fstarnews%2F20220416093015596vnyg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[관객들이 적응 못한, 박찬욱 감독 유일무이 '로맨틱 코미디' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220416104801190</link>
-            <guid>https://movie.v.daum.net/v/20220416104801190</guid>
-            <pubDate>Sat, 16 Apr 2022 02:54:26 GMT</pubDate>
-            <content:encoded><![CDATA[[양형석 기자] 지난 2020년 tvN 주말 드라마 &lt;싸이코지만 괜찮아&gt;가 높은 화제성과 7%대의 준수한 시청률을 기록하며 성황리에 막을 내렸다. &lt;싸이코지만 괜찮아&gt;는 국내보다 해외시장에서 더욱 큰 인기를 끌었는데 일본을 비롯해 동남아권에서 넷플릭스 드라마 순위 1위를 차지했고 오세아니아와 남미, 그리고 유럽 일부 국가에서도 top10에 진입했다. 역시]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F16%2Fohmynews%2F20220416104807311qdtn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['신동덤', 15만↑ 동원하며 4일 연속 1위..불 붙은 흥행 속도 [Nbox] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220417102320960</link>
             <guid>https://movie.v.daum.net/v/20220417102320960</guid>
@@ -583,12 +583,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F17%2FNEWS1%2F20220417102320864fmrd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['야차' 박해수 "아시아계가 아닌 한국 배우, 한국 콘텐츠를 찾는 세상" [인터뷰M] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220416201228023</link>
-            <guid>https://movie.v.daum.net/v/20220416201228023</guid>
-            <pubDate>Sat, 16 Apr 2022 12:32:21 GMT</pubDate>
-            <content:encoded><![CDATA[한국형 스파이 영화 '야차'에 출연한 박해수를 만났다. 지난해 '오징어 게임'으로 전 세계에 이름을 알린 박해수는 이번 작품 '야차'로도 글로벌 랭킹 3위에 오르며 명성을 이어가고 있다. 박해수는 "전 세계 시청자들이 '오징어 게임'을 사랑해 주셔서 K-콘텐츠에 대한 기대감이 더 커지고 있는 것 같다. 물론 그전에 '기생충'과 '미나리'가 있었기에 지금]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F16%2FiMBC%2F20220416201231551calk.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA["센 역할 다 내게로"..'연습벌레' 천우희, 이유있는 연기 호평 [★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220417130002526</link>
+            <guid>https://movie.v.daum.net/v/20220417130002526</guid>
+            <pubDate>Sun, 17 Apr 2022 04:25:05 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 영화 '앵커'(감독 정지연) 주연배우 천우희가 13일 오전 진행된 라운드 인터뷰를 위해 포즈를 취하고 있다.  방송국 간판 앵커 세라에게 누군가 자신을 죽일 것이라며 직접 취재해 달라는 제보 전화가 걸려온 후, 그녀에게 벌어진 기묘한 일을 그린 미스터리 스릴러 '앵커'는 오는 20일 개봉한다. /사진제공=에이스메이커무비웍스 2022]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F17%2Fstarnews%2F20220417130005393mctb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[2년만에 다시, 팝콘 튀기며..관객 기다리는 극장 [김미화의 날선무비] (다음영화 뉴스 ─ 인기)]]></title>
@@ -607,12 +607,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F17%2Fstarnews%2F20220417100003118djlk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["센 역할 다 내게로"..'연습벌레' 천우희, 이유있는 연기 호평 [★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220417130002526</link>
-            <guid>https://movie.v.daum.net/v/20220417130002526</guid>
-            <pubDate>Sun, 17 Apr 2022 04:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 영화 '앵커'(감독 정지연) 주연배우 천우희가 13일 오전 진행된 라운드 인터뷰를 위해 포즈를 취하고 있다.  방송국 간판 앵커 세라에게 누군가 자신을 죽일 것이라며 직접 취재해 달라는 제보 전화가 걸려온 후, 그녀에게 벌어진 기묘한 일을 그린 미스터리 스릴러 '앵커'는 오는 20일 개봉한다. /사진제공=에이스메이커무비웍스 2022]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F17%2Fstarnews%2F20220417130005393mctb.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['야차' 박해수 "아시아계가 아닌 한국 배우, 한국 콘텐츠를 찾는 세상" [인터뷰M] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220416201228023</link>
+            <guid>https://movie.v.daum.net/v/20220416201228023</guid>
+            <pubDate>Sat, 16 Apr 2022 12:32:21 GMT</pubDate>
+            <content:encoded><![CDATA[한국형 스파이 영화 '야차'에 출연한 박해수를 만났다. 지난해 '오징어 게임'으로 전 세계에 이름을 알린 박해수는 이번 작품 '야차'로도 글로벌 랭킹 3위에 오르며 명성을 이어가고 있다. 박해수는 "전 세계 시청자들이 '오징어 게임'을 사랑해 주셔서 K-콘텐츠에 대한 기대감이 더 커지고 있는 것 같다. 물론 그전에 '기생충'과 '미나리'가 있었기에 지금]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F16%2FiMBC%2F20220416201231551calk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['오겜'으로 부상한 황동혁 감독, 앞으로 행보는[N초점] (다음영화 뉴스 ─ 인기)]]></title>
@@ -655,12 +655,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F16%2Fstarnews%2F20220416130002619fdxo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[동아오츠카 포카리스웨트, 새 모델로 김시아 발탁 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220417121058982</link>
-            <guid>https://movie.v.daum.net/v/20220417121058982</guid>
-            <pubDate>Sun, 17 Apr 2022 04:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[동아오츠카가 포카리스웨트 새 모델로 배우 김시아(사진)를 발탁했다. ‘미쓰백’, ‘킹덤: 아신전’, ‘고요의 바다’ 등으로 대중에게 눈도장을 찍었으며, 탄탄한 연기력으로 앞으로의 행보가 기대되는 배우다. 포카리스웨트 광고는 신인 배우들의 ‘스타 등용문’으로 불린다. 손예진, 한지민, 박신혜, 김소현 등이 브랜드 모델 역사의 계보를 써왔다. 회사 측은 “이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F17%2Fsportsdonga%2F20220417121059853fiot.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[박찬욱·고레에다 히로카즈→이정재..칸 영화제 초청 [위클리 무비] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220416111501512</link>
+            <guid>https://movie.v.daum.net/v/20220416111501512</guid>
+            <pubDate>Sun, 17 Apr 2022 05:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='헤어질 결심', '브로커' 포스터 한주간 영화계 소식 알려드립니다. ○...박찬욱 감독의 '헤어질 결심'과 고레에다 히로카즈 감독의 '브로커'가 칸 국제영화제 경쟁 부문에 초청돼 황금 종려상에 도전한다. '오징어 게임'으로 월드스타가 된 이정재는 감독으로 칸 국제영화제 레드카펫에 오른다. 고레에다 히로카즈 감독의 첫 한국]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F16%2Fstarnews%2F20220416111502221mkfl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["센 역할 다 내게로"..'연습벌레' 천우희, 이유있는 연기 호평 [★FULL인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
@@ -1451,7 +1451,7 @@
             <link>https://tv.naver.com/v/26244301</link>
             <guid>https://tv.naver.com/v/26244301</guid>
             <pubDate>Fri, 15 Apr 2022 05:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220415_227/7J2Tc_164999955230246RiB_JPEG/475afd8c-bc7a-11ec-b086-505dac8c3721_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1459,7 +1459,7 @@
             <link>https://tv.naver.com/v/26242973</link>
             <guid>https://tv.naver.com/v/26242973</guid>
             <pubDate>Fri, 15 Apr 2022 05:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220415_251/T21fl_1649995789183qnoQ5_PNG/1649995750253.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -1635,7 +1635,7 @@
             <link>https://tv.naver.com/v/26179636</link>
             <guid>https://tv.naver.com/v/26179636</guid>
             <pubDate>Tue, 12 Apr 2022 05:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220412_25/Cr4B3_1649739209305vOsHf_JPEG/1649739206281.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
