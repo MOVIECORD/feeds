@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 15:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 16:33:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -367,20 +367,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd7d13d519278c4ed6f8fb3845423f310b4d8bfde" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[열대왕사 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151328</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151328</guid>
-            <pubDate>Thu, 14 Apr 2022 01:46:14 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F437bb6ffee32d3bec749738c4cee4aa6ce1ef6b7" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[소설가의 영화 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157399</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157399</guid>
             <pubDate>Mon, 18 Apr 2022 06:26:20 GMT</pubDate>
             <content:encoded><![CDATA[22.04.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F18164fd5a0cf491a40d317e9e026abf948e7b503" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[열대왕사 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151328</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151328</guid>
+            <pubDate>Thu, 14 Apr 2022 01:46:14 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F437bb6ffee32d3bec749738c4cee4aa6ce1ef6b7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[청킹맨션 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -551,14 +551,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F20%2Fmydaily%2F20220420113056662yvzk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[폭력·살인으로 8년 옥살이, '막장' 아버지의 씁쓸한 3일 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220420134500219</link>
-            <guid>https://movie.v.daum.net/v/20220420134500219</guid>
-            <pubDate>Wed, 20 Apr 2022 06:30:04 GMT</pubDate>
-            <content:encoded><![CDATA[[이선필 기자] &nbsp;        ▲ &nbsp;영화 &lt;봄날&gt; 관련 이미지.    ⓒ 콘텐츠판다  &nbsp; 다소 뚱한 표정의 얼굴, 심지어 자신의 아버지 장례식장에서도 뭘 그리 어렵게 의식을 치르냐며 편한 대로 좀 하자고 윽박지른다. 그를 바라보는 원망 섞인 다른 가족의 눈빛에서 이 가족의 역사 일부를 짐작해 볼 수 있다. 영화 &lt;봄날&gt;은 해체 위기에 몰린 한 가족의 이야]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F20%2Fohmynews%2F20220420134501778kiwf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[58회 백상] 가뭄 속 단비, 반가운 새 얼굴들..접전의 영화부문 샛별 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220419140603572</link>
             <guid>https://movie.v.daum.net/v/20220419140603572</guid>
@@ -567,12 +559,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F19%2FJTBC%2F20220419140605397akih.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[애프터스크리닝] 미치게 웃기는 정석용과 참을수 없는 눈물을 안기는 손현주 '봄날' ★★★ (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220419214406492</link>
-            <guid>https://movie.v.daum.net/v/20220419214406492</guid>
-            <pubDate>Wed, 20 Apr 2022 01:54:31 GMT</pubDate>
-            <content:encoded><![CDATA[▶ 줄거리 한때는 잘나가던 큰형님 '호성'(손현주). 8년 만에 출소해 보니 남보다 못한 동생 '종성'(박혁권)은 애물단지 취급이고, 결혼을 앞둔 맏딸 '은옥'(박소진)과 오랜만에 만난 아들 '동혁'(정지환)은 '호성'이 부끄럽기만 하다. 아는 인맥 다 끌어 모은 아버지 장례식에서 부조금을 밑천삼아 기상천외한 비즈니스를 계획하며 제2의 전성기를 꿈꾸는데]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F19%2FiMBC%2F20220419214410127bmve.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[폭력·살인으로 8년 옥살이, '막장' 아버지의 씁쓸한 3일 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220420134500219</link>
+            <guid>https://movie.v.daum.net/v/20220420134500219</guid>
+            <pubDate>Wed, 20 Apr 2022 06:30:04 GMT</pubDate>
+            <content:encoded><![CDATA[[이선필 기자] &nbsp;        ▲ &nbsp;영화 &lt;봄날&gt; 관련 이미지.    ⓒ 콘텐츠판다  &nbsp; 다소 뚱한 표정의 얼굴, 심지어 자신의 아버지 장례식장에서도 뭘 그리 어렵게 의식을 치르냐며 편한 대로 좀 하자고 윽박지른다. 그를 바라보는 원망 섞인 다른 가족의 눈빛에서 이 가족의 역사 일부를 짐작해 볼 수 있다. 영화 &lt;봄날&gt;은 해체 위기에 몰린 한 가족의 이야]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F20%2Fohmynews%2F20220420134501778kiwf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[당신의 아이가 학폭 가해자라면?..'니 부모 얼굴'이 던지는 물음 [마데핫리뷰] (다음영화 뉴스 ─ 인기)]]></title>
@@ -583,20 +575,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F20%2Fmydaily%2F20220420155431671lgdr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[애프터스크리닝] 미치게 웃기는 정석용과 참을수 없는 눈물을 안기는 손현주 '봄날' ★★★ (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220419214406492</link>
+            <guid>https://movie.v.daum.net/v/20220419214406492</guid>
+            <pubDate>Wed, 20 Apr 2022 01:54:31 GMT</pubDate>
+            <content:encoded><![CDATA[▶ 줄거리 한때는 잘나가던 큰형님 '호성'(손현주). 8년 만에 출소해 보니 남보다 못한 동생 '종성'(박혁권)은 애물단지 취급이고, 결혼을 앞둔 맏딸 '은옥'(박소진)과 오랜만에 만난 아들 '동혁'(정지환)은 '호성'이 부끄럽기만 하다. 아는 인맥 다 끌어 모은 아버지 장례식에서 부조금을 밑천삼아 기상천외한 비즈니스를 계획하며 제2의 전성기를 꿈꾸는데]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F19%2FiMBC%2F20220419214410127bmve.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[정유미-이선균 부부 재회..'잠' 크랭크업 [공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220419220015752</link>
             <guid>https://movie.v.daum.net/v/20220419220015752</guid>
             <pubDate>Tue, 19 Apr 2022 19:18:08 GMT</pubDate>
             <content:encoded><![CDATA[[동아닷컴] 정유미-이선균 부부 재회…‘잠’ 크랭크업 [공식] 배우 정유미와 이선균이 재회한 영화 ‘잠’이 크랭크업했다. ‘잠’은 행복한 신혼부부 현수와 수진을 악몽처럼 덮친 남편 현수의 수면 중 이상행동, 잠드는 순간 시작되는 끔찍한 공포의 비밀을 풀기 위해 애쓰는 두 사람의 이야기를 그리는 영화. 이 작품은 ‘첩첩산중’, ‘옥희의 영화’, ‘우리 선희]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F19%2Fsportsdonga%2F20220419220018032xsql.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식] 마동석X손석구 '범죄도시2', 5월 18일 개봉 확정 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220420084301577</link>
-            <guid>https://movie.v.daum.net/v/20220420084301577</guid>
-            <pubDate>Wed, 20 Apr 2022 01:54:31 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자] 범죄 액션 '범죄도시2'가 오는 5월 18일 개봉을 확정하고 강력한 한 방 액션을 보여줄 메인 포스터를 공개했다.&nbsp; '범죄도시2'는 괴물형사 마석도(마동석 분)와 금천서 강력반이 베트남 일대를 장악한 최강 빌런 강해상(손석구)을 잡기 위해 펼치는 통쾌한 범죄 소탕 작전을 그린 영화. 공개된 메인 포스터는 괴물형사 마석도와 최강]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F20%2F10asia%2F20220420084304606fszl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[신의 사랑을 받을 준비가 되었는가 (다음영화 뉴스 ─ 인기)]]></title>
@@ -615,12 +607,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F20%2Filgansports%2F20220420122708460nkyv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[공식] 마동석X손석구 '범죄도시2', 5월 18일 개봉 확정 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220420084301577</link>
+            <guid>https://movie.v.daum.net/v/20220420084301577</guid>
+            <pubDate>Wed, 20 Apr 2022 01:54:31 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자] 범죄 액션 '범죄도시2'가 오는 5월 18일 개봉을 확정하고 강력한 한 방 액션을 보여줄 메인 포스터를 공개했다.&nbsp; '범죄도시2'는 괴물형사 마석도(마동석 분)와 금천서 강력반이 베트남 일대를 장악한 최강 빌런 강해상(손석구)을 잡기 위해 펼치는 통쾌한 범죄 소탕 작전을 그린 영화. 공개된 메인 포스터는 괴물형사 마석도와 최강]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F20%2F10asia%2F20220420084304606fszl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[스크린은 '설경구·천우희' 판, 따로 또 같이[스경연예연구소] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220420085350869</link>
             <guid>https://movie.v.daum.net/v/20220420085350869</guid>
             <pubDate>Wed, 20 Apr 2022 12:38:29 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠경향] 배우 설경구와 천우희가 따로, 또 같이 움직인다. 영화 ‘니 부모 얼굴이 보고 싶다’를 내놓은 두 사람은 각각 OTT플랫폼 넷플릭스 영화 ‘야차’와 신작 ‘앵커’를 또 공개하며 스크린을 휩쓴다. 이들의 팬이라면 두 배우의 새로운 얼굴을 비교하는 재미도 느낄 수 있다. ‘니 부모 얼굴이 보고 싶다’는 스스로 몸을 던진 한 학생의 편지에 남]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F20%2Fsportskhan%2F20220420085351378jixx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['오겜'과는 다른 액션 업어치기 격투신, 세계 시청자 홀리다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220421000556550</link>
+            <guid>https://movie.v.daum.net/v/20220421000556550</guid>
+            <pubDate>Wed, 20 Apr 2022 16:32:44 GMT</pubDate>
+            <content:encoded><![CDATA[- 중국 선양 배경으로 한 첩보물 - 정의·신념 지닌 검사역 맡아 - 공개 3일 만에 글로벌 ‘톱3’에 - “설경구 선배와 호흡 맞춰 영광 - 별명 ‘넷플릭스 공무원’은 감사” 지난해 넷플릭스 드라마 ‘오징어 게임’으로 가장 화려한 한 해를 보냈던 박해수가 올해는 넷플릭스 영화 ‘야차’로 다시 한번 글로벌 배우의 면모를 보이고 있다. 넷플릭스 TOP 10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F21%2Fkookje%2F20220421000557987xlnp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['상주'가 된 철부지 중년 아들이 상갓집에서 보낸 3일 (다음영화 뉴스 ─ 인기)]]></title>
@@ -653,14 +661,6 @@
             <pubDate>Wed, 20 Apr 2022 01:54:31 GMT</pubDate>
             <content:encoded><![CDATA[어드벤처·서스펜스·누아르·코믹 범죄 등 다장르 영화 봇물 올봄 극장가를 접수할 작품들이 속속 공개되는 가운데 유난히 화려한 할리우드 블록버스터들의 라인업이 눈에 띈다. 활짝 핀 봄꽃 소식과 함께 극장가에 생기가 돌면서 코로나속 움츠렸던 시네필들의 마음도 설레고 있다. 극장가에 활력을 불어넣을 것으로 기대되는 각 작품의 면면을 살펴보고 과연 어떤 영화가]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F20%2FTHEFACT%2F20220420070006244ilvp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[제75회 칸영화제 공식 포스터 공개..'트루먼 쇼' 오마주 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220420112707329</link>
-            <guid>https://movie.v.daum.net/v/20220420112707329</guid>
-            <pubDate>Wed, 20 Apr 2022 06:30:04 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 제75회 칸국제영화제의 공식 포스터가 공개됐다. 20일 칸국제영화제 측이 공개한 올해의 공식 포스터는 짐 캐리 주연의 미국 영화 '트루먼 쇼'(1998)의 마지막 장면을 활용해 만들어졌다. 영화제 측은 "손가락이 지평선을 스치는 짐 캐리가 보여준 트루먼처럼, 칸 영화제는 세계의 자연을 다시 포착하기 위해 움직인다. 기후]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F20%2FSBSfunE%2F20220420112710200vwci.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[이원 기자의 Ent 프리즘] 한국영화계 다시 부는 봄바람 (다음영화 뉴스 ─ 최신)]]></title>
@@ -1331,7 +1331,7 @@
             <link>https://tv.naver.com/v/26344451</link>
             <guid>https://tv.naver.com/v/26344451</guid>
             <pubDate>Wed, 20 Apr 2022 12:39:11 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220420_164/fXWCi_1650444122552h4bP6_JPEG/5172bd9b-c085-11ec-8726-d4f5ef58ac88_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1339,7 +1339,7 @@
             <link>https://tv.naver.com/v/26343423</link>
             <guid>https://tv.naver.com/v/26343423</guid>
             <pubDate>Wed, 20 Apr 2022 08:27:57 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220420_38/YMGp2_16504420639728Qojk_JPEG/a3b18696-c080-11ec-861a-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1347,7 +1347,7 @@
             <link>https://tv.naver.com/v/26342798</link>
             <guid>https://tv.naver.com/v/26342798</guid>
             <pubDate>Wed, 20 Apr 2022 08:27:57 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220420_182/1MfHX_1650440644770lK85W_JPEG/7284231e-c07d-11ec-a87a-505dac8c35ff_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1355,7 +1355,7 @@
             <link>https://tv.naver.com/v/26342690</link>
             <guid>https://tv.naver.com/v/26342690</guid>
             <pubDate>Wed, 20 Apr 2022 08:27:57 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220420_285/CDFEh_16504404025249NFU7_JPEG/dc38f2d1-c07c-11ec-b765-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1363,7 +1363,7 @@
             <link>https://tv.naver.com/v/26341677</link>
             <guid>https://tv.naver.com/v/26341677</guid>
             <pubDate>Wed, 20 Apr 2022 07:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220420_291/HWeEh_1650438335205Xdgbk_JPEG/0204f35f-c078-11ec-b52c-505dac8c37f3_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1371,7 +1371,7 @@
             <link>https://tv.naver.com/v/26341466</link>
             <guid>https://tv.naver.com/v/26341466</guid>
             <pubDate>Wed, 20 Apr 2022 07:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220420_105/7utMI_1650437937926diDo7_JPEG/098c8d20-c077-11ec-a12d-505dac8c381b_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1379,7 +1379,7 @@
             <link>https://tv.naver.com/v/26340547</link>
             <guid>https://tv.naver.com/v/26340547</guid>
             <pubDate>Wed, 20 Apr 2022 06:30:44 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220420_153/TnKsv_1650436155904KzxPb_JPEG/daa146e6-c072-11ec-9b1f-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1387,7 +1387,7 @@
             <link>https://tv.naver.com/v/26340203</link>
             <guid>https://tv.naver.com/v/26340203</guid>
             <pubDate>Wed, 20 Apr 2022 06:30:44 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220420_35/BrOpg_1650435445107lmgYB_JPEG/1650435441941.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1395,7 +1395,7 @@
             <link>https://tv.naver.com/v/26335495</link>
             <guid>https://tv.naver.com/v/26335495</guid>
             <pubDate>Wed, 20 Apr 2022 03:44:48 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220420_69/E4XGh_1650421912002clmEC_JPEG/1650421804864.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1403,7 +1403,7 @@
             <link>https://tv.naver.com/v/26335282</link>
             <guid>https://tv.naver.com/v/26335282</guid>
             <pubDate>Wed, 20 Apr 2022 03:44:48 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220420_41/uFfc1_1650421215855g7ORb_JPEG/fcde775a-c04f-11ec-98b3-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
