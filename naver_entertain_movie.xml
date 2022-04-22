@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-22T20:22:44.056Z</updated>
+    <updated>2022-04-22T21:19:26.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[SC초점] "칸이 총애하는 韓배우"…배두나, 칸영화제 '브로커'로 열고 '다음 소희'로 닫는다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003857662</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003857662"/>
+        <updated>2022-04-22T21:17:51.589Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 명실상부 칸이 총애하는 한국의 대표 배우다. 배두나가 무려 한 해에 두 편의 신작 '브로커'(고레에다 히로카즈 감독, 영화사 집 제작)와 '다음 소희'(정주리 감독, 트윈플러스파트너스 제작]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['범죄도시2', 괴물형사 마석도의 귀환…"3편까지 달린다"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000145287</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000047170"/>
         <updated>2022-04-22T06:25:48.493Z</updated>
         <content type="html"><![CDATA[한국영화 4편이 올해 칸국제영화제에 초청됐다. 박찬욱 감독의 &lt;헤어질 결심&gt;과 고레에다 히로카즈 감독의 &lt;브로커&gt;는 경쟁부문에 선정됐다. &lt;헤어질 결심&gt;은 산에서 일어난 변사 사건을 수사하게 된 형사 해준(박해일)이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1분기 매출액 전년 대비 52% 증가… “한국영화 기획단계부터 멈춤” 우려]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000047169</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000047169"/>
-        <updated>2022-04-22T06:25:48.496Z</updated>
-        <content type="html"><![CDATA[영화진흥위원회(이하 영진위)가 4월19일 발표한 ‘3월 한국 영화산업 결산’에 따르면 2022년 1~3월 전체 누적 매출액은 1135억원으로 지난해 같은 기간 대비 52%(389억원)가 증가했다. 관객수 역시 같은]]></content>
     </entry>
 </feed>
