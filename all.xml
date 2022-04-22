@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 14:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 19:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -247,6 +247,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd7d13d519278c4ed6f8fb3845423f310b4d8bfde" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[극장판 주술회전 0 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156790</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156790</guid>
+            <pubDate>Fri, 28 Jan 2022 11:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdec276db284e8c6d82f974cff11fa991ccd3f6b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[중경삼림 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=17033</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=17033</guid>
@@ -261,14 +269,6 @@
             <pubDate>Thu, 14 Apr 2022 01:46:14 GMT</pubDate>
             <content:encoded><![CDATA[22.04.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F437bb6ffee32d3bec749738c4cee4aa6ce1ef6b7" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[극장판 주술회전 0 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156790</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156790</guid>
-            <pubDate>Fri, 28 Jan 2022 11:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdec276db284e8c6d82f974cff11fa991ccd3f6b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[소설가의 영화 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -543,12 +543,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2FSBSfunE%2F20220422134207549ique.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[죽은 연인 보고싶었던 두 사람.. 독특했던 MZ식 사랑법 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220421174206898</link>
-            <guid>https://movie.v.daum.net/v/20220421174206898</guid>
-            <pubDate>Fri, 22 Apr 2022 03:48:41 GMT</pubDate>
-            <content:encoded><![CDATA[[이선필 기자] ▲ &nbsp;영화 &lt;달빛 그림자&gt; 관련 이미지.    ⓒ ㈜태양미디어그룹  &nbsp; 사랑의 감정은 마치 사고처럼 다가오거나 사라지곤 한다. 그 관계가 애틋할수록 특히 이별한 이후라면 서로에 대한 기억은 오래 머물다 추억처럼 남곤 한다. 여러 영화들이 남녀의 애절하고도 극작인 사랑을 그렸고, 오는 27일 개봉하는 &lt;달빛 그림자&gt; 또한 그 연]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F21%2Fohmynews%2F20220421174207881aorh.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['브로커' 고레에다 히로카즈 "강동원, 동수 캐릭터 그 자체" 극찬 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220421161929508</link>
+            <guid>https://movie.v.daum.net/v/20220421161929508</guid>
+            <pubDate>Fri, 22 Apr 2022 09:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 조은애 기자] 고레에다 히로카즈 감독이 배우 강동원을 향한 애정을 드러냈다. 21일 영화 '브로커' 측은 강동원의 스틸을 공개했다. 스틸 속에는 버려지는 게 세상에서 제일 싫은 상현(송강호)의 파트너 동수로 변신한 강동원의 모습이 담겼다.&nbsp; 베이비 박스 시설 직원이자 버려진다는 것의 상처를 누구보다 잘 알고 있는 보육원 출신 동]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F21%2FSpoHankook%2F20220421161932358dhhq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['봄날' 박소진 시선에서 보는 父 손현주..현실 공감 부녀 케미 (다음영화 뉴스 ─ 인기)]]></title>
@@ -557,14 +557,6 @@
             <pubDate>Fri, 22 Apr 2022 08:25:12 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 영화 '봄날'(감독 이돈구)이 관객들의 공감 포인트를 자극하는 ‘금쪽같은 내 아빠’ 영상을 공개했다. 한때 잘나갔지만 현재는 집안의 애물단지인 철부지 형님 호성(손현주 분)이 아는 인맥 모두 끌어 모은 아버지의 장례식장에서 부조금으로 한탕 크게 벌이려다 수습불가 사건에 휘말리는 이야기를 그린 영화 '봄날'이 극중 은옥 역 박]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2Fxportsnews%2F20220422144715489otth.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['브로커' 고레에다 히로카즈 "강동원, 동수 캐릭터 그 자체" 극찬 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220421161929508</link>
-            <guid>https://movie.v.daum.net/v/20220421161929508</guid>
-            <pubDate>Fri, 22 Apr 2022 09:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠한국 조은애 기자] 고레에다 히로카즈 감독이 배우 강동원을 향한 애정을 드러냈다. 21일 영화 '브로커' 측은 강동원의 스틸을 공개했다. 스틸 속에는 버려지는 게 세상에서 제일 싫은 상현(송강호)의 파트너 동수로 변신한 강동원의 모습이 담겼다.&nbsp; 베이비 박스 시설 직원이자 버려진다는 것의 상처를 누구보다 잘 알고 있는 보육원 출신 동]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F21%2FSpoHankook%2F20220421161932358dhhq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[58회 백상] 힘겨워도 든든했던 영화계..팬데믹 책임진 주역들 (다음영화 뉴스 ─ 인기)]]></title>
@@ -589,6 +581,22 @@
             <pubDate>Fri, 22 Apr 2022 09:21:05 GMT</pubDate>
             <content:encoded><![CDATA[[동아닷컴]  K-호러 기대작 영화 ‘서울괴담’(제작: 쟈니브로스㈜, 메가박스중앙(주)플러스엠 | 감독: 홍원기)이 27일 개봉을 앞두고 스폐셜 포스터를 공개했다. 서울의 밤 풍경 속 정체 모를 존재가 홀로 서 있는 괴이하고 을씨년스러운 분위기가 등골을 서늘하게 만든다. 영화 ‘서울괴담’은 복수, 욕망, 저주에서 시작된 죽음보다 더한 공포를 선사할 10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2Fsportsdonga%2F20220422111857135iwps.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[죽은 연인 보고싶었던 두 사람.. 독특했던 MZ식 사랑법 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220421174206898</link>
+            <guid>https://movie.v.daum.net/v/20220421174206898</guid>
+            <pubDate>Fri, 22 Apr 2022 03:48:41 GMT</pubDate>
+            <content:encoded><![CDATA[[이선필 기자] ▲ &nbsp;영화 &lt;달빛 그림자&gt; 관련 이미지.    ⓒ ㈜태양미디어그룹  &nbsp; 사랑의 감정은 마치 사고처럼 다가오거나 사라지곤 한다. 그 관계가 애틋할수록 특히 이별한 이후라면 서로에 대한 기억은 오래 머물다 추억처럼 남곤 한다. 여러 영화들이 남녀의 애절하고도 극작인 사랑을 그렸고, 오는 27일 개봉하는 &lt;달빛 그림자&gt; 또한 그 연]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F21%2Fohmynews%2F20220421174207881aorh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[영화계, '대종상 개혁 방안' 전주영화제에서 논의 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220422152103460</link>
+            <guid>https://movie.v.daum.net/v/20220422152103460</guid>
+            <pubDate>Fri, 22 Apr 2022 13:38:16 GMT</pubDate>
+            <content:encoded><![CDATA[[성하훈 기자] ▲ &nbsp;대종상영화제    ⓒ 한국영화인총연합회  &nbsp; 대종상 정상화를 위해 영화인들이 머리를 직접 맞댄다. 한국영화인총연합회(약칭 영협)는 28일 개막하는 전주국제영화제 기간 중인 5월 3일 대종상 범영화인 대책회의가 열리게 된다고 22일 밝혔다. 영협 측은 "대종상 개혁에 영화인들이 적극적인 호응을 보내고 있다"면서 "정지영 감]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2Fohmynews%2F20220422152104119ajnu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[무비가이드] '학폭 가해자' 父 설경구, 뻔뻔한 민낯..'학폭 피해자' 母 문소리, 처절한 절규 (다음영화 뉴스 ─ 인기)]]></title>
@@ -623,14 +631,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F21%2FTHEFACT%2F20220421075237712lpzq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[몽상처럼 느껴졌는데.. 파주에서 이뤄진 '위대한 계약' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220421141501228</link>
-            <guid>https://movie.v.daum.net/v/20220421141501228</guid>
-            <pubDate>Fri, 22 Apr 2022 03:48:41 GMT</pubDate>
-            <content:encoded><![CDATA[[김상목 기자] ▲ &nbsp;영화 &lt;위대한 계약: 파주, 책, 도시&gt; 포스터 이미지    ⓒ 영화사 진진  &nbsp; 1_율도국의 꿈, 파주에서 실현되는 과정을 담다 &nbsp; 파주 출판도시라 불리는 곳은 첫 느낌이 퍽 특이한 동네다. 휴전선 접경 지역이자 서울에서는 한없이 북쪽 끝 변경으로 느껴지는 격오지. 하지만 생각보단 거리가 멀지 않은 곳. 이곳에 처음 발]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F21%2Fohmynews%2F20220421141502425pddf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['범죄도시2' 마동석 "윤계상이 호랑이라면 손석구는 사자" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220422164605386</link>
             <guid>https://movie.v.daum.net/v/20220422164605386</guid>
@@ -639,188 +639,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2Fhani%2F20220422170617758ibdw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[영화계, '대종상 개혁 방안' 전주영화제에서 논의 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220422152103460</link>
-            <guid>https://movie.v.daum.net/v/20220422152103460</guid>
-            <pubDate>Fri, 22 Apr 2022 13:38:16 GMT</pubDate>
-            <content:encoded><![CDATA[[성하훈 기자] ▲ &nbsp;대종상영화제    ⓒ 한국영화인총연합회  &nbsp; 대종상 정상화를 위해 영화인들이 머리를 직접 맞댄다. 한국영화인총연합회(약칭 영협)는 28일 개막하는 전주국제영화제 기간 중인 5월 3일 대종상 범영화인 대책회의가 열리게 된다고 22일 밝혔다. 영협 측은 "대종상 개혁에 영화인들이 적극적인 호응을 보내고 있다"면서 "정지영 감]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2Fohmynews%2F20220422152104119ajnu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 설경구, 2022년 상반기 가장 바쁜 배우..'니 부모'에서 폭발적 열연 예고 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220421104644758</link>
-            <guid>https://movie.v.daum.net/v/20220421104644758</guid>
+            <title><![CDATA[몽상처럼 느껴졌는데.. 파주에서 이뤄진 '위대한 계약' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220421141501228</link>
+            <guid>https://movie.v.daum.net/v/20220421141501228</guid>
             <pubDate>Fri, 22 Apr 2022 03:48:41 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] 대한민국 대표 배우 설경구가 올해 영화 '킹메이커'부터 '야차' 그리고 '니 부모 얼굴이 보고 싶다'까지 거침없는 활동으로 2022년 상반기 한국 영화계를 풍성하게 채우고 있다. 올해로 데뷔 29년차인 배우 설경구는 지난 1월 극장 개봉한 영화 '킹메이커'에서 세상을 바꾸기 위해 도전하는 정치인 '김운범'으로 분해 호평을 받았다. 이어]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F21%2Fseouleconomy%2F20220421104647844edxz.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[김상목 기자] ▲ &nbsp;영화 &lt;위대한 계약: 파주, 책, 도시&gt; 포스터 이미지    ⓒ 영화사 진진  &nbsp; 1_율도국의 꿈, 파주에서 실현되는 과정을 담다 &nbsp; 파주 출판도시라 불리는 곳은 첫 느낌이 퍽 특이한 동네다. 휴전선 접경 지역이자 서울에서는 한없이 북쪽 끝 변경으로 느껴지는 격오지. 하지만 생각보단 거리가 멀지 않은 곳. 이곳에 처음 발]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F21%2Fohmynews%2F20220421141502425pddf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[소지섭·김윤진 '자백', 우디네 극동영화제 폐막작 선정 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220422091054012</link>
-            <guid>https://movie.v.daum.net/v/20220422091054012</guid>
-            <pubDate>Fri, 22 Apr 2022 03:48:41 GMT</pubDate>
-            <content:encoded><![CDATA[롯데엔터테인먼트는 영화 '자백'이 제24회 우디네 극동영화제 폐막작으로 선정됐다고 22일 밝혔다. 4월 22일부터 30일까지 이탈리아에서 열리는 제24회 우디네 극동영화제는 아시아 영화를 소개하는 영화제다. '다만 악에서 구하소서', '남산의 부장들', '1987', '범죄도시' 등 쟁쟁한 한국 작품들을 소개해 왔다. '자백'은 올해 최고 각본상 부문 노미]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2Fdailian%2F20220422091058522clgk.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['괴이' 장건재 감독 "프랑스 칸서 곽동연 사인 요청 쇄도.. 국제적 위상 몸소 느껴" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220423000508171</link>
+            <guid>https://movie.v.daum.net/v/20220423000508171</guid>
+            <pubDate>Fri, 22 Apr 2022 19:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 모신정 기자] '괴이'의 장건재 감독이 배우 곽동연과 함께 칸 시리즈 페스티벌에 참석한 소감을 밝혔다.&nbsp; '한국적 초자연 스릴러'를 표방한 티빙 오리지널 '괴이'가 22일 오후 2시 온라인 제작발표회를 진행했다. 이날 제작발표회에는 장건재 감독을 비롯해 연상호, 류용재 작가와 구교환, 신현빈, 김지영, 곽동연이 참석해 드라마의 제작 과]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F23%2FSpoHankook%2F20220423000511155pnyj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[재기의 삶, 박경석의 용기..감히 '안다고' 말하지 말자 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220422200606865</link>
-            <guid>https://v.daum.net/v/20220422200606865</guid>
-            <pubDate>Fri, 22 Apr 2022 11:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[☞한겨레S 뉴스레터 구독하기 https://bit.ly/319DiiE 재기는 사고로 중추신경이 손상되었다. 휠체어 없이는 거동이 불편하고, 왼손도 거의 쓸 수 없는 상태다. 누가 봐도 중증 장애인이라 같은 병실을 사용하는 봉수는 “너는 그냥 1급”이라고 호언장담을 한다. 결과는 황당하게도 5급이다. 장애 판정 당시 몇 걸음을 겨우 걷고 통증 속에서도 팔을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2Fhani%2F20220422200608757qrzx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["오컬트와 재난오락물의 하이브리드" 구교환X신현빈 '괴이' 베일 벗어[스한:현장] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220422190204690</link>
-            <guid>https://v.daum.net/v/20220422190204690</guid>
-            <pubDate>Fri, 22 Apr 2022 10:23:54 GMT</pubDate>
+            <title><![CDATA["오컬트와 재난오락물의 하이브리드" 구교환X신현빈 '괴이' 베일 벗어[스한:현장] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220422190204690</link>
+            <guid>https://movie.v.daum.net/v/20220422190204690</guid>
+            <pubDate>Fri, 22 Apr 2022 19:16:56 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠한국 모신정 기자] 연상호·류용재 작가와 장건재 감독이 뭉쳤고 구교환과 신현빈이 주연을 맡은 티빙 오리지널 '괴이'가 베일을 벗었다.&nbsp; '한국적 초자연 스릴러'를 표방한 '괴이'가 22일 오후 2시 온라인 제작발표회를 진행했다. 이날 제작발표회에는 장건재 감독을 비롯해 연상호, 류용재 작가와 구교환, 신현빈, 김지영, 곽동연이 참석해 드라마]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2FSpoHankook%2F20220422190210650drxw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['괴이' 구교환 "캐릭터 매력? 한 가지 일 오래 사랑하고 연구한 것 저와 닮아" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220422173706819</link>
-            <guid>https://v.daum.net/v/20220422173706819</guid>
-            <pubDate>Fri, 22 Apr 2022 09:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠한국 모신정 기자] '괴이'의 주연배우 구교환이 출연 이유와 촬영 에피소드 등을 공개했다.&nbsp; 구교환은 22일 오후 2시 온라인으로 진행된 티빙 오리지널 시리즈 '괴이'(극본 연상호 류용재, 연출 장건재)의 제작발표회에 참석해 "제가 연기한 정기훈 박사의 매력은 한가지 일을 오랫동안 사랑하고 연구했다는 지점에 있다. 전공을 살려 더욱 뻗어나가]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2FSpoHankook%2F20220422173709285qsnt.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[마동석 "윤계상=호랑이, 손석구=사자..어마어마하다" (범죄도시2)[종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220422165002494</link>
-            <guid>https://v.daum.net/v/20220422165002494</guid>
-            <pubDate>Fri, 22 Apr 2022 08:25:18 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) '범죄도시2' 마동석이 손석구에 대해 칭찬을 아끼지 않았다. 22일 오전 영화 '범죄도시2'(감독 이상용)의 온라인 글로벌 런칭쇼가 진행됐다. 현장에는 배우 마동석,&nbsp;손석구, 최귀화, 박지환, 이상용 감독이 참석했고, 안현모가 진행을 맡았다. '범죄도시2'는&nbsp;괴물형사 마석도(마동석 분)와 금천서 강력반이 베트남 일]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2Fxportsnews%2F20220422165004383onev.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['범죄도시2' 마동석 "윤계상이 호랑이라면 손석구는 사자" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220422164605386</link>
-            <guid>https://v.daum.net/v/20220422164605386</guid>
-            <pubDate>Fri, 22 Apr 2022 08:25:18 GMT</pubDate>
-            <content:encoded><![CDATA[‘핵주먹’ 괴물형사 ‘마석도’가 돌아온다. 마동석이 주연한 영화 &lt;범죄도시2&gt;가 22일 오전 제작발표회를 열었다. 온라인으로 생중계된 제작발표회에는 마동석을 비롯해 손석구, 최귀화, 박지환, 그리고 이상용 감독이 참석했다. 참석자들은 한목소리로 전편보다 더 재밌는 속편이 될 것을 장담했다. 다음 달 18일 개봉하는 &lt;범죄도시2&gt;는 마석도(마동석)와 금천서]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2Fhani%2F20220422170617758ibdw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['매드맥스' 제작진의 좀비 액션! '웜우드' 8년 만의 속편 29일 개봉 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220422163912171</link>
-            <guid>https://v.daum.net/v/20220422163912171</guid>
-            <pubDate>Fri, 22 Apr 2022 08:25:18 GMT</pubDate>
-            <content:encoded><![CDATA[‘웜우드 : 좀비 아포칼립스’가 전편 ‘웜우드 : 분노의 좀비 도로’보다 더 화끈하고 거대해진 스케일을 예고했다. 실험실에 끌려간 동료를 구하기 위한 하이브리드 좀비 브룩(비앙카 브레디 분)과 동료들의 사투를 그린 스타일리쉬 좀비 액션 히어로물 ‘웜우드 : 좀비 아포칼립스’가 4월 29일 개봉일을 확정해 영화 팬들을 설레게 했다. 이에 함께 공개된 포]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2Filgansports%2F20220422163916415jowf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[오은영 박사도 쉽지 않은 상대 '배드 가이즈' 콜라보 영상 화제 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220422163759113</link>
-            <guid>https://v.daum.net/v/20220422163759113</guid>
-            <pubDate>Fri, 22 Apr 2022 08:25:19 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] ‘오은영 박사도 쉽지 않은 애들.’ ‘에듀테인먼트’의 본보기가 아닐까. 오은영 박사와 드림웍스 애니메이션 ‘배드 가이즈’의 유튜브 콜라보 영상이 화제다. ‘오은영의 버킷리스트’를 통해 공개된 특별 강의는 아동의 도벽 성향 또 습관적 거짓말을 바로잡을 수 있는 묘안을 ‘배드 가이즈’ 주요 캐릭터에 이입, 제시하는 게 요지. 해당 영]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2Fnewsen%2F20220422163800628yhsz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[천우희 "'니 부모', 설경구 제안으로 출연 결정"(두데) (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220422162443704</link>
-            <guid>https://v.daum.net/v/20220422162443704</guid>
-            <pubDate>Fri, 22 Apr 2022 08:25:19 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 배우 천우희가 영화 '니 부모 얼굴이 보고 싶다' 출연 비화를 들려줬다. 22일 오후 방송된 MBC FM4U '두시의 데이트 뮤지, 안영미입니다'(이하 '두데')에서는 '니 부모 얼굴이 보고 싶다'의 천우희 고창석이 게스트로 출연했다. 이날 천우희는 "어떻게 하다 영화에 출연하게 됐냐"는 물음에 "원래 한차례 영화를 고사했다"고]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2Ftvdaily%2F20220422162447705bnhu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[장현성-유인나, 제23회 전주국제영화제 개막식 사회자 선정 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220422161832485</link>
-            <guid>https://v.daum.net/v/20220422161832485</guid>
-            <pubDate>Fri, 22 Apr 2022 08:25:19 GMT</pubDate>
-            <content:encoded><![CDATA[출처 | YG 엔터테인먼트 [스포츠서울 | 김민지기자]3년 만에 부활하는 전주돔에서 개최되는 ‘제 23회 전주국제영화제’ 개막식 사회는 배우 장현성과 유인나가 맡는다. 오는 4월 28일(목) 개막하는 제23회 전주국제영화제(집행위원장 이준동)가 개막식 사회자로 배우 장현성, 유인나를 선정했다. 축제와 방역의 공존을 목표로 하고 막바지 준]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2FSPORTSSEOUL%2F20220422161836927yvxc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['두데' 고창석 "블락비 '찐팬', 딸이 엑소 강요해도 안 넘어가" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220422155250522</link>
-            <guid>https://v.daum.net/v/20220422155250522</guid>
-            <pubDate>Fri, 22 Apr 2022 07:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 고창석 / 사진=MBC FM4U 두시의 데이트배우 고창석이 블락비의 팬이라고 밝혔다. 22일 방송된 MBC FM4U '두시의 데이트 뮤지, 안영미입니다'(이하 '두시의 데이트')에는 영화 '니 부모 얼굴이 보고 싶다'에 출연한 배우 천우희, 고창석이 출연해 다양한 이야기를 나눴다. '니 부모 얼굴이 보고 싶다'는 한 학생의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2Fstarnews%2F20220422155251209ibfz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[괴물형사와 돌아오는 '범죄도시2', "팬데믹 끝내는 영화되길"[종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220422155220498</link>
-            <guid>https://v.daum.net/v/20220422155220498</guid>
-            <pubDate>Fri, 22 Apr 2022 07:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[[이데일리 스타in 박미애 기자] “(코로나19) 팬데믹을 종식시키는 영화가 되기를 바란다.“ 2017년 금천서 강력반의 괴물형사와 동료들의 범죄 소탕 활약으로 688만 관객의 마음을 사로잡은 영화 ‘범죄도시’의 속편 ‘범죄도시2’를 연출한 이상용 감독의 말이다. ‘범죄도시2’(감독 이상용, 제작 빅펀치엔터테인먼트·홍필름·비에이엔터테인먼트)가 마동석, 손]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2FEdaily%2F20220422155223154kcdt.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[D:현장] 구교환·신현빈의 '괴이', 오컬트 스릴러로 연니버스 확장 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220422155006435</link>
-            <guid>https://v.daum.net/v/20220422155006435</guid>
-            <pubDate>Fri, 22 Apr 2022 07:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[연상호 작가의 괴이한 오컬트 스릴러 '괴이'가 확장된 세계관으로 찾아온다. 22일 오후 티빙 새 오리지널 시리즈 '괴이' 제작발표회가 온라인 생중계로 진행했다. 행사에는 장건재 감독, 연상호 작가, 류용재 작가, 구교환, 신현빈, 김지영, 박호산, 곽동연이 참석했다. '괴이'는 저주받은 불상이 나타난 마을에서 마음속 지옥을 보게 된 사람들과, 그 마을의 괴]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2Fdailian%2F20220422155008670hbvg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['두데' 천우희 "'니 부모' NG 내면 벌금, 설경구가 가장 많이 내" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220422154732357</link>
-            <guid>https://v.daum.net/v/20220422154732357</guid>
-            <pubDate>Fri, 22 Apr 2022 07:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 천우희 고창석 / 사진=MBC FM4U 두시의 데이트배우 천우희가 영화 '니 부모 얼굴이 보고 싶다' 현장에서 NG가 많이 났다고 밝혔다. 22일 방송된 MBC FM4U '두시의 데이트 뮤지, 안영미입니다'(이하 '두시의 데이트')에는 영화 '니 부모 얼굴이 보고 싶다'에 출연한 배우 천우희, 고창석이 출연해 다양한 이야기를 나]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2Fstarnews%2F20220422154733903jyqb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화계, '대종상 개혁 방안' 전주영화제에서 논의 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220422152103460</link>
-            <guid>https://v.daum.net/v/20220422152103460</guid>
-            <pubDate>Fri, 22 Apr 2022 06:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[[성하훈 기자] ▲ &nbsp;대종상영화제    ⓒ 한국영화인총연합회  &nbsp; 대종상 정상화를 위해 영화인들이 머리를 직접 맞댄다. 한국영화인총연합회(약칭 영협)는 28일 개막하는 전주국제영화제 기간 중인 5월 3일 대종상 범영화인 대책회의가 열리게 된다고 22일 밝혔다. 영협 측은 "대종상 개혁에 영화인들이 적극적인 호응을 보내고 있다"면서 "정지영 감]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2Fohmynews%2F20220422152104119ajnu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['괴이' 장건재 감독 "프랑스 칸서 곽동연 국제적 위상 몸소 느껴" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220422150248784</link>
-            <guid>https://v.daum.net/v/20220422150248784</guid>
-            <pubDate>Fri, 22 Apr 2022 06:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 문지연 기자] '괴이' 곽동연과 장건재 감독이 칸 시리즈 페스티벌에 참석했던 소감을 밝혔다. 22일 티빙은 새 오리지널 시리즈 '괴이'(연상호 류용재 극본, 장건재 연출)의 제작발표회를 신종 코로나바이러스 감염증(코로나19) 확산 방지를 위한 온라인 생중계로 진행했다. 행사에는 장건재 감독, 연상호 작가, 류용재 작가, 구교환,]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2FSpoChosun%2F20220422150249156fvai.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['괴이' 연상호 작가 "처음엔 멜로 드라마를 쓰고 싶었다" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220422150040691</link>
-            <guid>https://v.daum.net/v/20220422150040691</guid>
-            <pubDate>Fri, 22 Apr 2022 06:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 문지연 기자] 연상호 작가가 '괴이'를 멜로물이라고 말했다. 22일 티빙은 새 오리지널 시리즈 '괴이'(연상호 류용재 극본, 장건재 연출)의 제작발표회를 신종 코로나바이러스 감염증(코로나19) 확산 방지를 위한 온라인 생중계로 진행했다. 행사에는 장건재 감독, 연상호 작가, 류용재 작가, 구교환, 신현빈, 김지영, 박호산, 곽동]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2FSpoChosun%2F20220422150041068zjdz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['괴이' 구교환→신현빈 이 조합..곽동연 "묻어갈 수 있겠다 생각" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220422145926630</link>
-            <guid>https://v.daum.net/v/20220422145926630</guid>
-            <pubDate>Fri, 22 Apr 2022 06:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 문지연 기자] '괴이' 배우들이 작품을 선택한 이유를 밝혔다. 22일 티빙은 새 오리지널 시리즈 '괴이'(연상호 류용재 극본, 장건재 연출)의 제작발표회를 신종 코로나바이러스 감염증(코로나19) 확산 방지를 위한 온라인 생중계로 진행했다. 행사에는 장건재 감독, 연상호 작가, 류용재 작가, 구교환, 신현빈, 김지영, 박호산, 곽]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2FSpoChosun%2F20220422145927112bfot.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[최귀화 "1편에선 액션이 없었는데..엄청날 것" (범죄도시2)[종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220422145011235</link>
-            <guid>https://v.daum.net/v/20220422145011235</guid>
-            <pubDate>Fri, 22 Apr 2022 06:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) '범죄도시2' 출연진들이 촬영 중 있었던 에피소드를 전했다. 22일 오전 영화 '범죄도시2'(감독 이상용)의 온라인 글로벌 런칭쇼가 진행됐다. 현장에는 배우 마동석,&nbsp;손석구, 최귀화, 박지환, 이상용 감독이 참석했고, 안현모가 진행을 맡았다. '범죄도시2'는&nbsp;괴물형사 마석도(마동석 분)와 금천서 강력반이 베트남 일대를 장악한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2Fxportsnews%2F20220422145012793tsgi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['봄날' 박소진 시선에서 보는 父 손현주..현실 공감 부녀 케미 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220422144713110</link>
-            <guid>https://v.daum.net/v/20220422144713110</guid>
-            <pubDate>Fri, 22 Apr 2022 08:25:19 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 영화 '봄날'(감독 이돈구)이 관객들의 공감 포인트를 자극하는 ‘금쪽같은 내 아빠’ 영상을 공개했다. 한때 잘나갔지만 현재는 집안의 애물단지인 철부지 형님 호성(손현주 분)이 아는 인맥 모두 끌어 모은 아버지의 장례식장에서 부조금으로 한탕 크게 벌이려다 수습불가 사건에 휘말리는 이야기를 그린 영화 '봄날'이 극중 은옥 역 박]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2Fxportsnews%2F20220422144715489otth.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[무비가이드] '학폭 가해자' 父 설경구, 뻔뻔한 민낯..'학폭 피해자' 母 문소리, 처절한 절규 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220422143003308</link>
-            <guid>https://v.daum.net/v/20220422143003308</guid>
-            <pubDate>Fri, 22 Apr 2022 06:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자] 가해자의 관점에서 학교 폭력 문제를 다뤄 문제의 심각성을 더욱 또렷하게 보여주는 영화 '니 부모 얼굴이 보고 싶다'가 개봉한다. '제2의 전성기'를 꿈꾸는 이들에게 공감과 희망을 선사하는 영화 '봄날'도 관객을 만난다. &nbsp;'니 부모 얼굴이 보고 싶다' 감독 김지훈 출연 설경구, 천우희, 문소리 개봉 4월 27일 '니 부모]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2F10asia%2F20220422143008190jykg.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['괴이' 장건재 감독 "프랑스 칸서 곽동연 사인 요청 쇄도.. 국제적 위상 몸소 느껴" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220423000508171</link>
+            <guid>https://v.daum.net/v/20220423000508171</guid>
+            <pubDate>Fri, 22 Apr 2022 19:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 모신정 기자] '괴이'의 장건재 감독이 배우 곽동연과 함께 칸 시리즈 페스티벌에 참석한 소감을 밝혔다.&nbsp; '한국적 초자연 스릴러'를 표방한 티빙 오리지널 '괴이'가 22일 오후 2시 온라인 제작발표회를 진행했다. 이날 제작발표회에는 장건재 감독을 비롯해 연상호, 류용재 작가와 구교환, 신현빈, 김지영, 곽동연이 참석해 드라마의 제작 과]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F23%2FSpoHankook%2F20220423000511155pnyj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<공기살인> 관객 추천 영상 (우리 영화 볼래?)]]></title>
@@ -1467,7 +1315,7 @@
             <link>https://tv.naver.com/v/26388736</link>
             <guid>https://tv.naver.com/v/26388736</guid>
             <pubDate>Fri, 22 Apr 2022 09:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220422_65/dGBuW_1650619194204QhSbW_JPEG/1650619192645.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1475,7 +1323,7 @@
             <link>https://tv.naver.com/v/26387202</link>
             <guid>https://tv.naver.com/v/26387202</guid>
             <pubDate>Fri, 22 Apr 2022 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220422_274/xiFUw_1650615845527ipEL8_JPEG/4440ec61-c215-11ec-9021-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1483,7 +1331,7 @@
             <link>https://tv.naver.com/v/26386619</link>
             <guid>https://tv.naver.com/v/26386619</guid>
             <pubDate>Fri, 22 Apr 2022 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220422_28/PJkFq_1650614724125vUtSA_JPEG/b38c5152-c212-11ec-a12d-505dac8c381b_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1491,7 +1339,7 @@
             <link>https://tv.naver.com/v/26384548</link>
             <guid>https://tv.naver.com/v/26384548</guid>
             <pubDate>Fri, 22 Apr 2022 07:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220422_130/yaFXP_1650610878970G89Vs_PNG/1650610871357.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -1499,7 +1347,7 @@
             <link>https://tv.naver.com/v/26384319</link>
             <guid>https://tv.naver.com/v/26384319</guid>
             <pubDate>Fri, 22 Apr 2022 07:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220422_234/3GrUa_1650610447441JCSKA_JPEG/d83b6284-c208-11ec-98b3-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1507,7 +1355,7 @@
             <link>https://tv.naver.com/v/26384042</link>
             <guid>https://tv.naver.com/v/26384042</guid>
             <pubDate>Fri, 22 Apr 2022 07:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220422_131/LcOOw_1650609960504beUtr_JPEG/71856611-c207-11ec-861a-505dac8c385b_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1515,7 +1363,7 @@
             <link>https://tv.naver.com/v/26382409</link>
             <guid>https://tv.naver.com/v/26382409</guid>
             <pubDate>Fri, 22 Apr 2022 06:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220422_66/C8pHX_1650606549672wy7Si_JPEG/1650606541627.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1523,7 +1371,7 @@
             <link>https://tv.naver.com/v/26381362</link>
             <guid>https://tv.naver.com/v/26381362</guid>
             <pubDate>Fri, 22 Apr 2022 06:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220422_55/9QAh3_1650604707036CtPbU_JPEG/8e6071dd-c1fb-11ec-b52c-505dac8c37f3_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
