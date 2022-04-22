@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-22T08:26:11.712Z</updated>
+    <updated>2022-04-22T09:22:57.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소지섭X김윤진 '자백', 제24회 우디네 극동영화제 폐막작 선정(공식)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003553019</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003553019"/>
+        <updated>2022-04-22T09:20:43.580Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] '자백'이 제24회 우디네 극동영화제 폐막작으로 선정됐다. 영화 '자백'은 밀실 살인 사건의 용의자로 지목된 유망한 사업가 ‘유민호’와 그의 무죄를 입증하려는 승률 100% 변호사 ‘양신]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[티빙 오리지널 시리즈 '괴이' 제작발표회]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013132523</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000023605"/>
         <updated>2022-04-22T06:25:48.505Z</updated>
         <content type="html"><![CDATA[Kinemafactory announced on Friday that its film “8 Suspects,” directed by Oh In-chun, has been invited to the 55th World]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['성덕', 제24회 우디네극동영화제 공식 초청…하반기 개봉]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001438518</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001438518"/>
-        <updated>2022-04-22T06:25:48.507Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '성덕'(감독 오세연)이 제24회 이탈리아 우디네극동영화제 비경쟁부문에 공식 초청됐다. '성덕'은 '성공한 덕후'였던 감독이 범죄자가 돼버린 오빠(들) 때문에 고통받는 팬들을 만나러]]></content>
     </entry>
 </feed>
