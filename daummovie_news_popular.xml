@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 22:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 23:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,14 +48,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2FSBSfunE%2F20220422134207549ique.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['봄날' 박소진 시선에서 보는 父 손현주..현실 공감 부녀 케미]]></title>
-            <link>https://movie.v.daum.net/v/20220422144713110</link>
-            <guid>https://movie.v.daum.net/v/20220422144713110</guid>
-            <pubDate>Fri, 22 Apr 2022 08:25:12 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 영화 '봄날'(감독 이돈구)이 관객들의 공감 포인트를 자극하는 ‘금쪽같은 내 아빠’ 영상을 공개했다. 한때 잘나갔지만 현재는 집안의 애물단지인 철부지 형님 호성(손현주 분)이 아는 인맥 모두 끌어 모은 아버지의 장례식장에서 부조금으로 한탕 크게 벌이려다 수습불가 사건에 휘말리는 이야기를 그린 영화 '봄날'이 극중 은옥 역 박]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2Fxportsnews%2F20220422144715489otth.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['브로커' 고레에다 히로카즈 "강동원, 동수 캐릭터 그 자체" 극찬]]></title>
             <link>https://movie.v.daum.net/v/20220421161929508</link>
             <guid>https://movie.v.daum.net/v/20220421161929508</guid>
@@ -70,6 +62,14 @@
             <pubDate>Fri, 22 Apr 2022 10:23:45 GMT</pubDate>
             <content:encoded><![CDATA[조용하지만 뜨겁게 충무로와 스크린을 지켰다. 신종 코로나바이러스 감염증(COVID-19/코로나19) 여파에 의한 팬데믹 상황으로 1년 차보다 더 심각한 2년 차를 보내야 했던 영화계는 그럼에도 불구하고 용기내 개봉한 크고 작은 영화들로 어렵게, 하지만 끝내는 버텨내며 다시 찾아 올 봄을 기다릴 수 있게 됐다. 관객 한 명 한 명의 소중함을 새삼 깨달]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F21%2FJTBC%2F20220421194615696epuz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['봄날' 박소진 시선에서 보는 父 손현주..현실 공감 부녀 케미]]></title>
+            <link>https://movie.v.daum.net/v/20220422144713110</link>
+            <guid>https://movie.v.daum.net/v/20220422144713110</guid>
+            <pubDate>Fri, 22 Apr 2022 08:25:12 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 영화 '봄날'(감독 이돈구)이 관객들의 공감 포인트를 자극하는 ‘금쪽같은 내 아빠’ 영상을 공개했다. 한때 잘나갔지만 현재는 집안의 애물단지인 철부지 형님 호성(손현주 분)이 아는 인맥 모두 끌어 모은 아버지의 장례식장에서 부조금으로 한탕 크게 벌이려다 수습불가 사건에 휘말리는 이야기를 그린 영화 '봄날'이 극중 은옥 역 박]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2Fxportsnews%2F20220422144715489otth.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[D:영화 뷰] 다시 돌아온 일상..극장가, 기대작·팝콘 취식으로 관객수 회복 노린다]]></title>
@@ -112,12 +112,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2Fohmynews%2F20220422152104119ajnu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['브로커'→'한산'까지, 여름 흥행 대전 윤곽 나왔다 [N초점]]]></title>
+            <link>https://movie.v.daum.net/v/20220423070249702</link>
+            <guid>https://movie.v.daum.net/v/20220423070249702</guid>
+            <pubDate>Fri, 22 Apr 2022 23:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 여름에는 극장도 정상화될 수 있을까. 5월부터 굵직굵직한 작품들이 개봉 결정을 한 것에 이어 6월과 7월 개봉 영화들의 윤곽도 잡혀가며 '성수기 흥행 대전'의 전열이 얼추 갖춰졌다. 신종 코로나바이러스 감염증(코로나19) 팬데믹 이후 지난 2년간 극장은 관객 부족으로 적자 속에 생존 위기에까지 몰린 상황. 하지만 사회적]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F23%2FNEWS1%2F20220423070250825trmb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[죽은 연인 보고싶었던 두 사람.. 독특했던 MZ식 사랑법]]></title>
             <link>https://movie.v.daum.net/v/20220421174206898</link>
             <guid>https://movie.v.daum.net/v/20220421174206898</guid>
             <pubDate>Fri, 22 Apr 2022 03:48:41 GMT</pubDate>
             <content:encoded><![CDATA[[이선필 기자] ▲ &nbsp;영화 &lt;달빛 그림자&gt; 관련 이미지.    ⓒ ㈜태양미디어그룹  &nbsp; 사랑의 감정은 마치 사고처럼 다가오거나 사라지곤 한다. 그 관계가 애틋할수록 특히 이별한 이후라면 서로에 대한 기억은 오래 머물다 추억처럼 남곤 한다. 여러 영화들이 남녀의 애절하고도 극작인 사랑을 그렸고, 오는 27일 개봉하는 &lt;달빛 그림자&gt; 또한 그 연]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F21%2Fohmynews%2F20220421174207881aorh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[돌아온 마동석 '범죄도시2', 전작 넘을까[MK무비]]]></title>
+            <link>https://movie.v.daum.net/v/20220423080302209</link>
+            <guid>https://movie.v.daum.net/v/20220423080302209</guid>
+            <pubDate>Fri, 22 Apr 2022 23:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[“전편보다 스케일은 커졌고, 살아 숨 쉬는 캐릭터들의 향연에 매운맛까지 첨가됐어요. 업그레이드 된 통쾌한 액션에 주인공들의 연기를 보시는 맛도 솔솔하실 거에요. 여러분은 그냥 즐기시면 됩니다. &lt;마동석 ‘범죄도시2’ 제작보고회 中&gt;” 괴물형사 마동석의 귀환이다. 기대작 ‘범죄도시2’ 개봉 초읽기에 들어가면서 팬들은 물론 출연 배우들의 기대감도 치솟고 있다]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F23%2Fstartoday%2F20220423080304573eudd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[무비가이드] '학폭 가해자' 父 설경구, 뻔뻔한 민낯..'학폭 피해자' 母 문소리, 처절한 절규]]></title>
@@ -144,28 +160,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F21%2Fpoctan%2F20220421172754427odcv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['신동덤' 1위 독주, 韓 영화 '앵커' 2위 [박스오피스]]]></title>
-            <link>https://movie.v.daum.net/v/20220422092006335</link>
-            <guid>https://movie.v.daum.net/v/20220422092006335</guid>
-            <pubDate>Fri, 22 Apr 2022 03:48:41 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 영화 '신비한 동물들과 덤블도어의 비밀'이 박스오피스 1위를 기록했다. 22일 영화진흥위원회 통합전산망에 따르면 '신비한 동물들과 덤블도어의 비밀'(감독 데이빗 예이츠·배급 워너브러더스 코리아)이 지난 21일 2만3378명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적 관객수는 58만2142명이다. '신비한 동물들과 덤블]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2Ftvdaily%2F20220422092008111oinz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['괴이' 장건재 감독 "프랑스 칸서 곽동연 사인 요청 쇄도.. 국제적 위상 몸소 느껴"]]></title>
             <link>https://movie.v.daum.net/v/20220423000508171</link>
             <guid>https://movie.v.daum.net/v/20220423000508171</guid>
             <pubDate>Fri, 22 Apr 2022 19:16:56 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠한국 모신정 기자] '괴이'의 장건재 감독이 배우 곽동연과 함께 칸 시리즈 페스티벌에 참석한 소감을 밝혔다.&nbsp; '한국적 초자연 스릴러'를 표방한 티빙 오리지널 '괴이'가 22일 오후 2시 온라인 제작발표회를 진행했다. 이날 제작발표회에는 장건재 감독을 비롯해 연상호, 류용재 작가와 구교환, 신현빈, 김지영, 곽동연이 참석해 드라마의 제작 과]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F23%2FSpoHankook%2F20220423000511155pnyj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[조정석, 영화 '파일럿' 캐스팅..파일럿→실직자 정우 역]]></title>
-            <link>https://movie.v.daum.net/v/20220421075234278</link>
-            <guid>https://movie.v.daum.net/v/20220421075234278</guid>
-            <pubDate>Fri, 22 Apr 2022 03:48:41 GMT</pubDate>
-            <content:encoded><![CDATA['가장 보통의 연애' 김한결 감독 작품 [더팩트ㅣ이한림 기자] 배우 조정석이 잘나가던 파일럿에서 한순간에 실직자가 된 캐릭터를 연기한다. 소속사 잼엔터테인먼트는 20일 조정석이 영화 '파일럿' 출연을 확정했다고 밝혔다. '파일럿'은 하루 아침에 실직자가 된 정우가 뜻밖의 신분 세탁으로 재취업에 성공해 벌어지는 이야기를 그린다. 조정석은 극 중 주연 정]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F21%2FTHEFACT%2F20220421075237712lpzq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
