@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-23T01:38:37.398Z</updated>
+    <updated>2022-04-23T03:02:49.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서강준의 피·땀·눈물, '그리드'로 증명한 진가 [김나연의 사선]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003047188</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003047188"/>
+        <updated>2022-04-23T03:01:28.533Z</updated>
+        <content type="html"><![CDATA[영화·OTT를 보는 김나연 기자의 사적인 시선 '군백기'란 연예인의 군 복무로 인한 공백기를 말한다. 배우 서강준은 그 공백기를 완벽하게 메우는 존재감을 발휘하며 다시금 자신의 진가를 증명했다. 디즈니+ 오리지널 시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['앵커', 경력을 잃을지도 모른다는 공포[스크린PICK]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005198199</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000542846"/>
         <updated>2022-04-22T13:37:53.027Z</updated>
         <content type="html"><![CDATA[[텐아시아=노규민 기자] '신비한 동물들과 덤블도어의 비밀'에 이어 '닥터 스트레인지: 대혼돈의 멀티버스'가 박스오피스를 점령할 조짐을 보이고 있다. 지난 4월 14일(목)부터 4월 21일(목)까지 영화관 입장권 통]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['민스미트 작전' 2차 예고편 대공개, "인류 역사를 바꾼 단 한 번의 작전"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003597095</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003597095"/>
-        <updated>2022-04-22T12:37:45.590Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]연일 이어지는 국내외 호평으로 기대를 모으는 웰메이드 첩보 전쟁 블록버스터 '민스미트 작전'이 숨 막히는 긴장감으로 눈을 뗄 수 없게 만드는 2차 예고편을 전격 공개했다. '1917''이]]></content>
     </entry>
 </feed>
