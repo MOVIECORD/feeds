@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 07:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 08:24:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -263,6 +263,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F437bb6ffee32d3bec749738c4cee4aa6ce1ef6b7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[소설가의 영화 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157399</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157399</guid>
+            <pubDate>Mon, 18 Apr 2022 06:26:20 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F18164fd5a0cf491a40d317e9e026abf948e7b503" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[극장판 주술회전 0 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156790</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156790</guid>
@@ -277,14 +285,6 @@
             <pubDate>Fri, 08 Apr 2022 06:24:35 GMT</pubDate>
             <content:encoded><![CDATA[22.04.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7df95714777b0312b2103fb779ad3531bff061f4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[소설가의 영화 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157399</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157399</guid>
-            <pubDate>Mon, 18 Apr 2022 06:26:20 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F18164fd5a0cf491a40d317e9e026abf948e7b503" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[루이스 웨인: 사랑을 그린 고양이 화가 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -559,14 +559,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2Fxportsnews%2F20220422144715489otth.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['브로커' 고레에다 히로카즈 "강동원, 동수 캐릭터 그 자체" 극찬 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220421161929508</link>
-            <guid>https://movie.v.daum.net/v/20220421161929508</guid>
-            <pubDate>Fri, 22 Apr 2022 09:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠한국 조은애 기자] 고레에다 히로카즈 감독이 배우 강동원을 향한 애정을 드러냈다. 21일 영화 '브로커' 측은 강동원의 스틸을 공개했다. 스틸 속에는 버려지는 게 세상에서 제일 싫은 상현(송강호)의 파트너 동수로 변신한 강동원의 모습이 담겼다.&nbsp; 베이비 박스 시설 직원이자 버려진다는 것의 상처를 누구보다 잘 알고 있는 보육원 출신 동]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F21%2FSpoHankook%2F20220421161932358dhhq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[58회 백상] 힘겨워도 든든했던 영화계..팬데믹 책임진 주역들 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220421194614188</link>
             <guid>https://movie.v.daum.net/v/20220421194614188</guid>
@@ -647,12 +639,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F23%2Fstarnews%2F20220423132004752bopq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[돌아온 마동석 '범죄도시2', 전작 넘을까[MK무비] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220423080302209</link>
-            <guid>https://movie.v.daum.net/v/20220423080302209</guid>
-            <pubDate>Fri, 22 Apr 2022 23:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[“전편보다 스케일은 커졌고, 살아 숨 쉬는 캐릭터들의 향연에 매운맛까지 첨가됐어요. 업그레이드 된 통쾌한 액션에 주인공들의 연기를 보시는 맛도 솔솔하실 거에요. 여러분은 그냥 즐기시면 됩니다. &lt;마동석 ‘범죄도시2’ 제작보고회 中&gt;” 괴물형사 마동석의 귀환이다. 기대작 ‘범죄도시2’ 개봉 초읽기에 들어가면서 팬들은 물론 출연 배우들의 기대감도 치솟고 있다]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F23%2Fstartoday%2F20220423080304573eudd.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA["글로벌 스타 NO" 박해수가 '해야 할 일' [★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220423144004673</link>
+            <guid>https://movie.v.daum.net/v/20220423144004673</guid>
+            <pubDate>Sat, 23 Apr 2022 08:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 넷플릭스 영화 '야차'(감독 나현)의 주연배우 박해수가 15일 오전 화상으로 진행된 인터뷰를 위해 포즈를 취하고 있다.  스파이들의 최대 접전지 중국 선양에서 일명 '야차'가 이끄는 국정원 비밀공작 전담 블랙팀과 특별감찰 검사, 그리고 각국 정보부 요원들의 숨막히는 접전을 그린 첩보 액션 영화 '야차'는 전 세계 영화 부문 3위에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F23%2Fstarnews%2F20220423144006070gnkt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['앵커', 경력을 잃을지도 모른다는 공포[스크린PICK] (다음영화 뉴스 ─ 인기)]]></title>
@@ -661,6 +653,14 @@
             <pubDate>Sat, 23 Apr 2022 03:01:49 GMT</pubDate>
             <content:encoded><![CDATA[[이데일리 스타in 박미애 기자] 개봉 영화를 소개합니다. ◇앵커 생방송 5분 전, 방송국 간판 앵커 ‘세라’(천우희 분)에게 자신이 살해될 것이라며 죽음을 예고하는 제보 전화가 걸려온다. 장난전화로 치부하기에는 찝찝한 마음을 감출 수 없는 세라. 진짜 앵커가 될 기회라는 엄마 ‘소정’(이혜영 분)의 말에 세라는 제보자의 집으로 향하고 제보자인 ‘미소’와]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F23%2FEdaily%2F20220423103438350ozwn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[SC초점] "칸이 총애하는 韓배우"..배두나, 칸영화제 '브로커'로 열고 '다음 소희'로 닫는다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220423061601182</link>
+            <guid>https://movie.v.daum.net/v/20220423061601182</guid>
+            <pubDate>Sat, 23 Apr 2022 08:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 명실상부 칸이 총애하는 한국의 대표 배우다. 배두나가 무려 한 해에 두 편의 신작 '브로커'(고레에다 히로카즈 감독, 영화사 집 제작)와 '다음 소희'(정주리 감독, 트윈플러스파트너스 제작)를 들고 제75회 칸국제영화제를 뜨겁게 달굴 예정이다. 1998년 패션 잡지 전속 모델로 데뷔한 배두나는 1999년 출연한 KB]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F23%2FSpoChosun%2F20220423061601911rqsk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[이조로 변호사의 작품 속 법률산책 - '앵커'의 불가벌적 수반행위 (다음영화 뉴스 ─ 최신)]]></title>
@@ -1467,7 +1467,7 @@
             <link>https://tv.naver.com/v/26388736</link>
             <guid>https://tv.naver.com/v/26388736</guid>
             <pubDate>Fri, 22 Apr 2022 09:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220422_65/dGBuW_1650619194204QhSbW_JPEG/1650619192645.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1475,7 +1475,7 @@
             <link>https://tv.naver.com/v/26387202</link>
             <guid>https://tv.naver.com/v/26387202</guid>
             <pubDate>Fri, 22 Apr 2022 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220422_274/xiFUw_1650615845527ipEL8_JPEG/4440ec61-c215-11ec-9021-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1483,7 +1483,7 @@
             <link>https://tv.naver.com/v/26386619</link>
             <guid>https://tv.naver.com/v/26386619</guid>
             <pubDate>Fri, 22 Apr 2022 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220422_28/PJkFq_1650614724125vUtSA_JPEG/b38c5152-c212-11ec-a12d-505dac8c381b_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1531,7 +1531,7 @@
             <link>https://tv.naver.com/v/26364640</link>
             <guid>https://tv.naver.com/v/26364640</guid>
             <pubDate>Thu, 21 Apr 2022 08:27:23 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220421_22/JHHku_1650528606539zFAqN_JPEG/bd21aee3-c148-11ec-a2ba-48df379cc9e4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1603,7 +1603,7 @@
             <link>https://tv.naver.com/v/26343423</link>
             <guid>https://tv.naver.com/v/26343423</guid>
             <pubDate>Wed, 20 Apr 2022 08:27:57 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220420_38/YMGp2_16504420639728Qojk_JPEG/a3b18696-c080-11ec-861a-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1611,7 +1611,7 @@
             <link>https://tv.naver.com/v/26342798</link>
             <guid>https://tv.naver.com/v/26342798</guid>
             <pubDate>Wed, 20 Apr 2022 08:27:57 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220420_182/1MfHX_1650440644770lK85W_JPEG/7284231e-c07d-11ec-a87a-505dac8c35ff_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1619,7 +1619,7 @@
             <link>https://tv.naver.com/v/26342690</link>
             <guid>https://tv.naver.com/v/26342690</guid>
             <pubDate>Wed, 20 Apr 2022 08:27:57 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220420_285/CDFEh_16504404025249NFU7_JPEG/dc38f2d1-c07c-11ec-b765-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
