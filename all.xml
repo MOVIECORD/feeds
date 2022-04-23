@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 12:33:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 14:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -215,20 +215,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a0d146d59b32103a7ce4a83f53e3fe59f7efdbe" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[로스트 시티 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156501</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156501</guid>
-            <pubDate>Tue, 12 Apr 2022 03:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fab6e52ac5c96d1ce8f6bacc44b1926cf9a190952" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[수퍼 소닉2 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156264</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156264</guid>
             <pubDate>Wed, 06 Apr 2022 01:26:02 GMT</pubDate>
             <content:encoded><![CDATA[22.04.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdb225500f78c419aec04f5a1c6f1bc3290832c22" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[로스트 시티 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156501</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156501</guid>
+            <pubDate>Tue, 12 Apr 2022 03:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fab6e52ac5c96d1ce8f6bacc44b1926cf9a190952" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 귀멸의 칼날: 무한열차편 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -247,20 +247,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd7d13d519278c4ed6f8fb3845423f310b4d8bfde" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[열대왕사 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151328</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151328</guid>
-            <pubDate>Thu, 14 Apr 2022 01:46:14 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F437bb6ffee32d3bec749738c4cee4aa6ce1ef6b7" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[중경삼림 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=17033</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=17033</guid>
             <pubDate>Fri, 08 Apr 2022 14:19:14 GMT</pubDate>
             <content:encoded><![CDATA[22.04.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb491e00f195f70fe69364c79cd1ef40224b19608" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[열대왕사 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151328</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151328</guid>
+            <pubDate>Thu, 14 Apr 2022 01:46:14 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F437bb6ffee32d3bec749738c4cee4aa6ce1ef6b7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 주술회전 0 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -527,14 +527,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2Fohmynews%2F20220422112703638abgi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[이정현, 결혼 3년 만에 득녀 "산모·아이 모두 건강"[공식][전문] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220423101923736</link>
-            <guid>https://movie.v.daum.net/v/20220423101923736</guid>
-            <pubDate>Sat, 23 Apr 2022 01:37:34 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 배우 이정현이 22일 오후 온라인 생중계로 진행된 영화 '죽지않는 인간들의 밤' 라이브 컨퍼런스에 참석해 포즈를 취하고 있다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F23%2Fstarnews%2F20220423101924362potw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['닥터 스트레인지: 대혼돈의 멀티버스' 사전 예매율 1위, 흥행 돌풍 예고 [무비노트] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220422104320824</link>
             <guid>https://movie.v.daum.net/v/20220422104320824</guid>
@@ -549,6 +541,14 @@
             <pubDate>Fri, 22 Apr 2022 08:25:12 GMT</pubDate>
             <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 사회적 거리두기 전면 해제로 '위드 코로나' 시대의 서막이 열린 가운데 긴 침체에 빠졌던 영화계와 극장가도 기지개를 켜고 있다. 연중 최대 성수기인 7~8월 여름 시장을 앞두고 국내외 블록버스터 영화들이 출격을 예고했다. 국내 3대 투자 배급사인 CJ엔터테인먼트, 롯데엔터테인먼트, 쇼박스는 2~300억 대의 제작비가 투입]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2FSBSfunE%2F20220422134207549ique.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이정현, 결혼 3년 만에 득녀 "산모·아이 모두 건강"[공식][전문] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220423101923736</link>
+            <guid>https://movie.v.daum.net/v/20220423101923736</guid>
+            <pubDate>Sat, 23 Apr 2022 01:37:34 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 배우 이정현이 22일 오후 온라인 생중계로 진행된 영화 '죽지않는 인간들의 밤' 라이브 컨퍼런스에 참석해 포즈를 취하고 있다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F23%2Fstarnews%2F20220423101924362potw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['봄날' 박소진 시선에서 보는 父 손현주..현실 공감 부녀 케미 (다음영화 뉴스 ─ 인기)]]></title>
@@ -591,14 +591,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2Fohmynews%2F20220422152104119ajnu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[SC초점] "칸이 총애하는 韓배우"..배두나, 칸영화제 '브로커'로 열고 '다음 소희'로 닫는다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220423061601182</link>
-            <guid>https://movie.v.daum.net/v/20220423061601182</guid>
-            <pubDate>Sat, 23 Apr 2022 08:23:39 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 명실상부 칸이 총애하는 한국의 대표 배우다. 배두나가 무려 한 해에 두 편의 신작 '브로커'(고레에다 히로카즈 감독, 영화사 집 제작)와 '다음 소희'(정주리 감독, 트윈플러스파트너스 제작)를 들고 제75회 칸국제영화제를 뜨겁게 달굴 예정이다. 1998년 패션 잡지 전속 모델로 데뷔한 배두나는 1999년 출연한 KB]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F23%2FSpoChosun%2F20220423061601911rqsk.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[경력 단절 두려운 여성 앵커, 엄습하는 불안감 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220423100005442</link>
             <guid>https://movie.v.daum.net/v/20220423100005442</guid>
@@ -607,12 +599,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F23%2Fohmynews%2F20220423100006898uiej.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[고개 들어요 김선호..영화 촬영 마치고 조용히 귀국 外[위클리 무비] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220423102002739</link>
-            <guid>https://movie.v.daum.net/v/20220423102002739</guid>
-            <pubDate>Sat, 23 Apr 2022 01:37:34 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 배우 김선호가 태국에서의 일정을 마치고 18일 오전 인천국제공항을 통해 입국하고 있다. 2022.04.18 /사진=임성균 기자 tjdrbs23@ 한 주간 영화계 소식 ○...배우 김선호가 사생활 논란 후 6개월 만에 취재진 앞에 모습을 드러냈다. 김선호는 지난 18일 태국서 영화 '슬픈 열대' 촬영을 마치고 인천국제공항을 통해 입]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F23%2Fstarnews%2F20220423102003209buzi.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[SC초점] "칸이 총애하는 韓배우"..배두나, 칸영화제 '브로커'로 열고 '다음 소희'로 닫는다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220423061601182</link>
+            <guid>https://movie.v.daum.net/v/20220423061601182</guid>
+            <pubDate>Sat, 23 Apr 2022 08:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 명실상부 칸이 총애하는 한국의 대표 배우다. 배두나가 무려 한 해에 두 편의 신작 '브로커'(고레에다 히로카즈 감독, 영화사 집 제작)와 '다음 소희'(정주리 감독, 트윈플러스파트너스 제작)를 들고 제75회 칸국제영화제를 뜨겁게 달굴 예정이다. 1998년 패션 잡지 전속 모델로 데뷔한 배두나는 1999년 출연한 KB]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F23%2FSpoChosun%2F20220423061601911rqsk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["'닥터 스트레인지2' 게이 캐릭터 등장", 사우디서 개봉 금지[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
@@ -621,6 +613,14 @@
             <pubDate>Sat, 23 Apr 2022 01:37:34 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]마블 히어로 무비 ‘닥터 스트레인지:대혼돈의 멀티버스’가 게이 캐릭터가 등장한다는 이유로 사우디 아라비아에서 개봉이 금지됐다. 할리우드 리포터는 22일(현지시간) “‘닥터 스트레인지:대혼돈의 멀티버스’에는 동성애자 캐릭터인 아메리카 차베스(소치틀 고메즈)가 등장한다”면서 “아랍권에서 동성애가 공식적으로 불법이기 때문에 성소수]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F23%2Fmydaily%2F20220423092616019xhlo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[고개 들어요 김선호..영화 촬영 마치고 조용히 귀국 外[위클리 무비] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220423102002739</link>
+            <guid>https://movie.v.daum.net/v/20220423102002739</guid>
+            <pubDate>Sat, 23 Apr 2022 01:37:34 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 배우 김선호가 태국에서의 일정을 마치고 18일 오전 인천국제공항을 통해 입국하고 있다. 2022.04.18 /사진=임성균 기자 tjdrbs23@ 한 주간 영화계 소식 ○...배우 김선호가 사생활 논란 후 6개월 만에 취재진 앞에 모습을 드러냈다. 김선호는 지난 18일 태국서 영화 '슬픈 열대' 촬영을 마치고 인천국제공항을 통해 입]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F23%2Fstarnews%2F20220423102003209buzi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["글로벌 스타 NO" 박해수가 '해야 할 일' [★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
@@ -647,20 +647,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F23%2Fstarnews%2F20220423110016091uhjj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['앵커', 경력을 잃을지도 모른다는 공포[스크린PICK] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220423103436989</link>
-            <guid>https://movie.v.daum.net/v/20220423103436989</guid>
-            <pubDate>Sat, 23 Apr 2022 03:01:49 GMT</pubDate>
-            <content:encoded><![CDATA[[이데일리 스타in 박미애 기자] 개봉 영화를 소개합니다. ◇앵커 생방송 5분 전, 방송국 간판 앵커 ‘세라’(천우희 분)에게 자신이 살해될 것이라며 죽음을 예고하는 제보 전화가 걸려온다. 장난전화로 치부하기에는 찝찝한 마음을 감출 수 없는 세라. 진짜 앵커가 될 기회라는 엄마 ‘소정’(이혜영 분)의 말에 세라는 제보자의 집으로 향하고 제보자인 ‘미소’와]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F23%2FEdaily%2F20220423103438350ozwn.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['신비한 동물들과 덤블도어의 비밀' 10일째 박스오피스 1위..'공기살인' 2위 안착 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220423163549983</link>
+            <guid>https://movie.v.daum.net/v/20220423163549983</guid>
+            <pubDate>Sat, 23 Apr 2022 14:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 조은애 기자] 영화 '신비한 동물들과 덤블도어의 비밀'이 10일째 극장가 정상을 장악한 가운데 '공기살인'과 '앵커'가 그 뒤를 바짝 쫓고 있다. 23일 영진위 통합전산망 집계에 따르면 '신비한 동물들과 덤블도어의 비밀'은 전날&nbsp;3만4503명의 관객을 모아 박스오피스 1위를 차지했다. 누적 관객 수는&nbsp;61만6662명이다. '신비한 동]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F23%2FSpoHankook%2F20220423163552441xumq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[돌아온 마동석 '범죄도시2', 전작 넘을까[MK무비] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220423080302209</link>
-            <guid>https://movie.v.daum.net/v/20220423080302209</guid>
-            <pubDate>Sat, 23 Apr 2022 12:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[“전편보다 스케일은 커졌고, 살아 숨 쉬는 캐릭터들의 향연에 매운맛까지 첨가됐어요. 업그레이드 된 통쾌한 액션에 주인공들의 연기를 보시는 맛도 솔솔하실 거에요. 여러분은 그냥 즐기시면 됩니다. &lt;마동석 ‘범죄도시2’ 제작보고회 中&gt;” 괴물형사 마동석의 귀환이다. 기대작 ‘범죄도시2’ 개봉 초읽기에 들어가면서 팬들은 물론 출연 배우들의 기대감도 치솟고 있다]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F23%2Fstartoday%2F20220423080304573eudd.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[이조로 변호사의 작품 속 법률산책 - '앵커'의 불가벌적 수반행위 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220423160200673</link>
+            <guid>https://movie.v.daum.net/v/20220423160200673</guid>
+            <pubDate>Sat, 23 Apr 2022 14:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘앵커’(감독 정지연)는 살인 사건과 해리성 인격장애 등을 소재로 한 미스터리 스릴러입니다. 대비되는 인물과 공간을 통해서 섬세하고 몽환적으로 표현하는 묘한 전개가 인상적입니다. ‘해리성 인격장애’는 주로 유아시절의 심각한 트라우마가 원인으로, 한 사람 안에 둘 이상의 각기 다른 인격이 존재하여 행동에 영향을 끼치는 정신질환입니]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F23%2Ffnnewsi%2F20220423160200721nxex.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[이조로 변호사의 작품 속 법률산책 - '앵커'의 불가벌적 수반행위 (다음영화 뉴스 ─ 최신)]]></title>
