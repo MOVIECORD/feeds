@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 18:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 21:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[볼 거 많아요, 영화관 오세요…오늘부터 먹으면서 본다 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011142531</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011142531</guid>
+            <pubDate>Sun, 24 Apr 2022 21:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[기사내용 요약 25일 실내다중이용시설 취식 허용 영화관 팝콘 먹을 수 있어 기대감↑ 영화관 업계는 각종 이벤트 시작해 한국영화 기대작 개봉 준비 들어가 국내 대표 흥행감독 영화 쏟아질 듯 마블 등 할리우드 블록버스터]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[부산표 독립영화, 영화의전당서 매달 ‘관객과의 대화’ (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000007828</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[[경향신문] “가해자의 마음에 들어가야 한다는 것이 낯설고 두려웠다” “누가 가해자 될지, 피해자 될지 알 수 없는 환경… 가해자 응징 중요하나 그가 왜 그렇게 됐는지도 살펴야” 동명 연극 영화화…5년 미뤄진 끝에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[원호, 뮤지컬 ‘이퀄’ 캐스팅…연기 도전 성공할까 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000611211</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000611211</guid>
-            <pubDate>Sun, 24 Apr 2022 06:25:05 GMT</pubDate>
-            <content:encoded><![CDATA['대세 솔로' 원호가 '이퀄'로 뮤지컬에 첫 도전한다. 원호는 오는 6월 3일 개막하는 뮤지컬 '이퀄'에서 테오 역으로 무대에 오른다. '이퀄'은 마녀와 이단자 사냥이 횡행하던 17세기 유럽을 배경으로, 팬데믹과 음]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[신비한 동물들과 덤블도어의 비밀 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=131275</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=131275</guid>
@@ -231,20 +231,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd7d13d519278c4ed6f8fb3845423f310b4d8bfde" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 귀멸의 칼날: 무한열차편 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145371</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145371</guid>
-            <pubDate>Thu, 14 Apr 2022 01:46:14 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe2733bbc22a93d16bace5658738322df204bbf01" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[수퍼 소닉2 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156264</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156264</guid>
             <pubDate>Wed, 06 Apr 2022 01:26:02 GMT</pubDate>
             <content:encoded><![CDATA[22.04.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdb225500f78c419aec04f5a1c6f1bc3290832c22" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 귀멸의 칼날: 무한열차편 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145371</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145371</guid>
+            <pubDate>Thu, 14 Apr 2022 01:46:14 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe2733bbc22a93d16bace5658738322df204bbf01" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 주술회전 0 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -285,6 +285,14 @@
             <pubDate>Fri, 08 Apr 2022 06:24:35 GMT</pubDate>
             <content:encoded><![CDATA[22.04.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7df95714777b0312b2103fb779ad3531bff061f4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[위대한 계약: 파주, 책, 도시 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144626</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144626</guid>
+            <pubDate>Sun, 24 Apr 2022 21:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1bea011b7292b8961e961f34e92d600781e83444" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[모비우스 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -333,14 +341,6 @@
             <pubDate>Sun, 24 Apr 2022 10:21:19 GMT</pubDate>
             <content:encoded><![CDATA[22.03.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5850d17f2763ce9382810e46da277c047331a826" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[태어나길 잘했어 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145345</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145345</guid>
-            <pubDate>Sun, 24 Apr 2022 12:32:18 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8e0e694e88c0b7992201bf9f04560fb7e2ee2aa8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[닥터 스트레인지: 대혼돈의 멀티버스 (다음영화 영화관 ─ 개봉예정)]]></title>
