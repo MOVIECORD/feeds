@@ -4,17 +4,9 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 19:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 20:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA["이서진, 매니저 자처"..'뜻밖의 여정' 윤여정, 오스카 그 후의 이야기 공개한다 [공식]]]></title>
-            <link>https://movie.v.daum.net/v/20220425173009735</link>
-            <guid>https://movie.v.daum.net/v/20220425173009735</guid>
-            <pubDate>Mon, 25 Apr 2022 12:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 윤여정이 '오스카' 여정을 전한다. 케이블채널 tvN '뜻밖의 여정'(연출 나영석·신효정)은 한국인 최초로 제93회 미국 아카데미 시상식(오스카상)에서 여우 조연상을 수상한 윤여정이 오스카 이후의 이야기를 전하는 프로그램. 특히 올해 3월 열린 제94회 오스카상의 남우조연상 부문 시상자로서 무대에 오른 윤여정의 모습까]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F25%2Fmydaily%2F20220425173010002yjfu.jpg" length="0" type="image//thumb/S732x228/"/>
-        </item>
         <item>
             <title><![CDATA[이 영화 보고도 안 울고 버틸 수 있을까]]></title>
             <link>https://movie.v.daum.net/v/20220424100600110</link>
@@ -22,6 +14,14 @@
             <pubDate>Sun, 24 Apr 2022 01:29:30 GMT</pubDate>
             <content:encoded><![CDATA[[양형석 기자] 최근엔 OTT서비스와 IPTV로 편하게 영화를 즐길 수 있는 시대가 됐지만 여전히 사람들은 영화 한 편을 감상하기 위해 최소 2시간 안팎의 귀한 시간을 투자해야 한다. 특히 호감이 있는 사람과 극장 나들이라도 가는 날에는 신경 써야 할 부분이 더욱 늘어난다. 따라서 어렵게 고른 영화가 만족스럽지 못할 경우 실망은 더욱 커질 수 밖에 없다.]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F24%2Fohmynews%2F20220424100605927yhsa.jpg" length="0" type="image//thumb/S732x228/"/>
+        </item>
+        <item>
+            <title><![CDATA["이서진, 매니저 자처"..'뜻밖의 여정' 윤여정, 오스카 그 후의 이야기 공개한다 [공식]]]></title>
+            <link>https://movie.v.daum.net/v/20220425173009735</link>
+            <guid>https://movie.v.daum.net/v/20220425173009735</guid>
+            <pubDate>Mon, 25 Apr 2022 12:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 윤여정이 '오스카' 여정을 전한다. 케이블채널 tvN '뜻밖의 여정'(연출 나영석·신효정)은 한국인 최초로 제93회 미국 아카데미 시상식(오스카상)에서 여우 조연상을 수상한 윤여정이 오스카 이후의 이야기를 전하는 프로그램. 특히 올해 3월 열린 제94회 오스카상의 남우조연상 부문 시상자로서 무대에 오른 윤여정의 모습까]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F25%2Fmydaily%2F20220425173010002yjfu.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
             <title><![CDATA[산드라 오 '엄마' 할리우드 스릴러에 제사가.."美 관객 깜짝"]]></title>
@@ -144,20 +144,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F24%2FNEWS1%2F20220424070045781slom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[전종서 할리우드 진출작 '블러드 문', 베니스영화제 황금사자상 후보]]></title>
-            <link>https://movie.v.daum.net/v/20220425075939731</link>
-            <guid>https://movie.v.daum.net/v/20220425075939731</guid>
-            <pubDate>Mon, 25 Apr 2022 12:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 배우 전종서의 할리우드 첫 진출작이자 그가 주연으로 활약한 '블러드 문'이 베니스 영화제 황금사자상 후보작으로 화제를 모은 가운데, 올 하반기 개봉을 확정지었다. 이로써 전종서는 칸 영화제 황금종려상 후보작 '버닝'뿐만 아니라 할리우드 첫 진출작 '블러드 문'으로 베니스 영화제 황금사자상 후보작에도 연이어 출연하며 세계적으로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F25%2Fmydaily%2F20220425075939950umoq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['배드 가이즈', 북미 호평 로튼 토마토 96%..5월 4일 국내 개봉]]></title>
             <link>https://movie.v.daum.net/v/20220425220617886</link>
             <guid>https://movie.v.daum.net/v/20220425220617886</guid>
             <pubDate>Mon, 25 Apr 2022 19:16:33 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자] 범죄오락액션 블록버스터 '배드 가이즈'가 북미 박스오피스 1위에 이어 내달 4일 국내 개봉을 앞두고 전세계 호평이 가득 담긴 리뷰 포스터와 예고편을 공개했다. 영화 '배드 가이즈'(감독 피에르 페리펠, 수입배급 유니버설 픽쳐스)는 자타공인 최고의 나쁜 녀석들이 사상 초유의 바른 생활 '갓생' 프로젝트에 휘말리게 되면서 펼쳐지는]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F25%2Fpoctan%2F20220425220617258worq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[전종서 할리우드 진출작 '블러드 문', 베니스영화제 황금사자상 후보]]></title>
+            <link>https://movie.v.daum.net/v/20220425075939731</link>
+            <guid>https://movie.v.daum.net/v/20220425075939731</guid>
+            <pubDate>Mon, 25 Apr 2022 12:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 배우 전종서의 할리우드 첫 진출작이자 그가 주연으로 활약한 '블러드 문'이 베니스 영화제 황금사자상 후보작으로 화제를 모은 가운데, 올 하반기 개봉을 확정지었다. 이로써 전종서는 칸 영화제 황금종려상 후보작 '버닝'뿐만 아니라 할리우드 첫 진출작 '블러드 문'으로 베니스 영화제 황금사자상 후보작에도 연이어 출연하며 세계적으로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F25%2Fmydaily%2F20220425075939950umoq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[적수없는 '닥터 스트레인지2', 초대박 예약[MK무비]]]></title>
