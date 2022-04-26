@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-26T10:25:30.880Z</updated>
+    <updated>2022-04-26T11:19:11.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["책상이 없어지기도"..박하선, 학폭 피해 고백한 이유 [종합]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003048137</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003048137"/>
+        <updated>2022-04-26T11:17:48.468Z</updated>
+        <content type="html"><![CDATA[배우 박하선이 과거 괴롭힘을 당한 적이 있다며 학폭 피해 사실을 고백했다. 26일 방송된 SBS 파워 FM '박하선의 씨네타운'에는 영화 '니 부모 얼굴이 보고 싶다'의 김지훈 감독과 배우 천우희가 출연했다. 니 부]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["어린이를 듣다" 제10회 서울국제어린이영화제 포스터·슬로건 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005200929</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005200929"/>
+        <updated>2022-04-26T11:17:48.478Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 박미애 기자] 제10회 서울국제어린이영화제(SICFF, Seoul Int’l Children’s Film Festival)가 공식포스터와 슬로건을 공개했다. 올해의 포스터는 전년도에 이어 어린이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[감독과 배우가 말하는 '브로커'.."인류애, 인간의 고귀한 감정"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003048126</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004690722"/>
         <updated>2022-04-26T09:20:53.267Z</updated>
         <content type="html"><![CDATA[윤석열 정부가 티빙·웨이브 등 토종 온라인동영상서비스(OTT)를 넷플릭스와 같은 글로벌 OTT로 키우기 위해 다양한 ‘당근’ 정책을 내놓기로 했다. 콘텐츠 제작비에 세제 혜택을 주는 동시에 콘텐츠 제작비를 댈 대규모]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다큐멘터리 영화 ‘그대가 조국’, 펀딩 3시간 만에 금액 달성]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000808824</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000808824"/>
-        <updated>2022-04-26T09:20:53.268Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 조국 전 법무부 장관 지명부터 사퇴까지를 다룬 이승준 감독 다큐멘터리(기록영화) ‘그대가 조국’이 크라우드펀딩 개시 3시간 만에 목표액을 달성했다고 제작사 켈빈클레인프로젝트가 26일 전했다. ‘그대가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가습기참사 '공기살인', 29일 국회 시사회 확정]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004955447</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004955447"/>
-        <updated>2022-04-26T09:20:53.268Z</updated>
-        <content type="html"><![CDATA['살균제 대참사' 실화를 다룬 영화 '공기살인'(감독 조용선) 특별 시사회가 국회에서 열린다. 26ㅇ;ㄹ ‘공기살인’ 측에 따르면 국민의힘 성일종 의원과 더불어민주당 전재수 의원이 함께 오는 29일 오전 10시 국회]]></content>
     </entry>
 </feed>
