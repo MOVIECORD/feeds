@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 08:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 11:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[시스루 in JIFF] '경아의 딸' 가깝고 먼 모녀관계, 그래도 결국 연대한다 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004048614</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004048614</guid>
+            <pubDate>Sat, 30 Apr 2022 11:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] '현혜선의 시스루'를 연재하는 서울경제스타 현혜선 기자가 제23회 전주국제영화제의 속살을 낱낱이 들여다 봅니다. 영화 '경아의 딸'이 디지털 성범죄라는 사회적 이슈를 애증의 모녀 관계에 녹였다. 피해]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[오프라 윈프리 "코로나19 대유행 이후 322일 동안 집 안 떠나" (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003049341</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '신비한 동물들과 덤블도어의 비밀'이 박스오피스 1위를 재탈환했다. 30일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '신비한 동물들과 덤블도어의 비밀'은 지난 29일 하]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['신동덤', 박스오피스 1위 탈환..'니 부모' 10만 돌파[★무비차트] (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003049276</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003049276</guid>
-            <pubDate>Sat, 30 Apr 2022 01:53:05 GMT</pubDate>
-            <content:encoded><![CDATA['신비한 동물들과 덤블도어의 비밀'이 박스오피스 1위를 탈환했다. 30일 영화진흥위원회 영화관입장권 통합전산망에 따르면 '신비한 동물들과 덤블도어의 비밀'은 3만 9981명의 관객을 모아 박스오피스 1위를 차지했다.]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[신비한 동물들과 덤블도어의 비밀 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=131275</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=131275</guid>
@@ -223,20 +223,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fab6e52ac5c96d1ce8f6bacc44b1926cf9a190952" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[서울괴담 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150206</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150206</guid>
-            <pubDate>Wed, 20 Apr 2022 01:54:23 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a99abb42cba19fe3e4580eef2d2ea5588792e0a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[수퍼 소닉2 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156264</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156264</guid>
             <pubDate>Wed, 06 Apr 2022 01:26:02 GMT</pubDate>
             <content:encoded><![CDATA[22.04.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdb225500f78c419aec04f5a1c6f1bc3290832c22" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[서울괴담 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150206</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150206</guid>
+            <pubDate>Wed, 20 Apr 2022 01:54:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a99abb42cba19fe3e4580eef2d2ea5588792e0a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[공기살인 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -255,14 +255,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a0d146d59b32103a7ce4a83f53e3fe59f7efdbe" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 주술회전 0 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156790</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156790</guid>
-            <pubDate>Fri, 28 Jan 2022 11:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdec276db284e8c6d82f974cff11fa991ccd3f6b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[더 컨트랙터 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=158108</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=158108</guid>
@@ -277,6 +269,14 @@
             <pubDate>Thu, 14 Apr 2022 01:46:14 GMT</pubDate>
             <content:encoded><![CDATA[22.04.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe2733bbc22a93d16bace5658738322df204bbf01" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 주술회전 0 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156790</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156790</guid>
+            <pubDate>Fri, 28 Jan 2022 11:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdec276db284e8c6d82f974cff11fa991ccd3f6b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[쿠폰의 여왕 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -295,14 +295,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5b45c8e553f8bc202b6f196b7d9f6d1d246a3cf8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[중경삼림 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=17033</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=17033</guid>
-            <pubDate>Fri, 08 Apr 2022 14:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb491e00f195f70fe69364c79cd1ef40224b19608" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 킹키부츠 라이브 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=140085</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=140085</guid>
@@ -317,6 +309,14 @@
             <pubDate>Sun, 24 Apr 2022 08:24:12 GMT</pubDate>
             <content:encoded><![CDATA[22.04.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F03bae2e3001dcb78ff5294a95dd8651881af8491" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[중경삼림 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=17033</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=17033</guid>
+            <pubDate>Fri, 08 Apr 2022 14:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb491e00f195f70fe69364c79cd1ef40224b19608" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[모비우스 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -335,12 +335,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F810a231057c615dcf9b74c14a0c9ba325b105980" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[소설가의 영화 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157399</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157399</guid>
-            <pubDate>Mon, 18 Apr 2022 06:26:20 GMT</pubDate>
+            <title><![CDATA[열대왕사 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151328</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151328</guid>
+            <pubDate>Sat, 30 Apr 2022 11:16:51 GMT</pubDate>
             <content:encoded><![CDATA[22.04.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F18164fd5a0cf491a40d317e9e026abf948e7b503" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F437bb6ffee32d3bec749738c4cee4aa6ce1ef6b7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[닥터 스트레인지: 대혼돈의 멀티버스 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -439,6 +439,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F253c9d4ae7a1a509ffebcd7edaaa5532dcc9da1e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[카사네 : 빼앗는 얼굴 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=124578</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=124578</guid>
+            <pubDate>Sat, 30 Apr 2022 11:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec3577f785625c7f827a807a209877268839ad62" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[엄마 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=158429</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=158429</guid>
@@ -495,14 +503,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F76bf8736bda486a67b2c3aa6e4783d7fa8914d17" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[뉴타운 생존자 수색작전 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156435</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156435</guid>
-            <pubDate>Thu, 28 Apr 2022 04:26:53 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F924c4a54543e575b5285ea9b479acf5f0516d090" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[[스한초점] 해외로 간 괴물형사..'범죄도시2' 5월 싹쓸이 흥행 예감 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220429083657763</link>
             <guid>https://movie.v.daum.net/v/20220429083657763</guid>
@@ -527,6 +527,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F29%2F10asia%2F20220429090037313kpki.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[저스틴 민 "미국서 한국 콘텐츠 인기.. 이제야 알아주네요" [쿠키인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220430192602956</link>
+            <guid>https://movie.v.daum.net/v/20220430192602956</guid>
+            <pubDate>Sat, 30 Apr 2022 11:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[양(저스틴 민)은 단순한 안드로이드가 아니다. 제이크(콜린 퍼렐) 가족에게 양은 뛰어난 인공지능 로봇을 넘어 안정과 위로를 주는 중요한 존재다. 양이 작동을 멈춘 후 존재감은 더 커진다. 양이 남긴 기억은 제이크 가족이 지나온 시간을 새로운 시선으로 반추하게 한다. 제23회 전주국제영화제 개막작 ‘애프터 양’을 연출한 코고나다 감독은 처음부터 양 역할로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2Fkukinews%2F20220430192603712dfmr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[日다큐 감독 "쿠르드족 외면하는 일본..난민 이해하는 계기되길" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220430152319331</link>
+            <guid>https://movie.v.daum.net/v/20220430152319331</guid>
+            <pubDate>Sat, 30 Apr 2022 08:24:11 GMT</pubDate>
+            <content:encoded><![CDATA[(전주=연합뉴스) 오보람 기자 = '10000:44'. 2019년 일본에서 난민 신청을 한 1만여 명 가운데 난민 지위를 인정받은 사람은 단 44명이었다. 승인율 0.44%로 경제협력개발기구(OECD) 국가 중 최저 수준이다. 그중 터키에서 일본으로 입국한 쿠르드족이 난민으로 인정받은 경우는 한 건도 없었다. 쿠르드족은 약 4천 년 전부터 고유의 언어와]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2Fyonhap%2F20220430152319408octy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['신혼 부부' 현빈♥손예진, 다정하게 귀국 外[위클리무비] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220430103001707</link>
             <guid>https://movie.v.daum.net/v/20220430103001707</guid>
@@ -543,36 +559,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2Fyonhap%2F20220430100021622trvm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[끝나지 않은 이야기..'파친코', 호평 속 시즌 2 제작 확정[공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220430090016488</link>
-            <guid>https://movie.v.daum.net/v/20220430090016488</guid>
-            <pubDate>Sat, 30 Apr 2022 01:53:30 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 파친코 / 사진=애플TV플러스Apple TV+(애플TV플러스)가 전 세계적으로 호평받고 있는 '파친코'의 시즌 2 제작을 확정했다. 거대한 스케일의 서사를 따뜻하게 담아낸 '파친코'는 금지된 사랑에서 시작되는 이야기로 한국과 일본, 그리고 미국을 오가며 전쟁과 평화, 사랑과 이별, 승리와 심판에 대한 잊을 수 없는 연대기를 그리]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2Fstarnews%2F20220430090017460yxwe.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["엠버 허드, '아쿠아맨2' 하차하라" 청원 220만명 돌파 "그래도 출연해"[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220429114601217</link>
-            <guid>https://movie.v.daum.net/v/20220429114601217</guid>
-            <pubDate>Fri, 29 Apr 2022 04:34:32 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]조니 뎁(58)과 명예훼손 소송을 벌이고 있는 엠버 허드(35)를 ‘아쿠아맨2’에서 하차시키라는 청원에 220만명 이상이 서명했다. 29일 청원사이트에 따르면, 엠버 허드의 ‘아쿠아맨2’ 하차 청원은 이날 오전 11시 30분 현재 220만명을 넘어섰다. 청원인은 “조니 뎁이 때렸다고 말한 후 몇 시간, 며칠이 지나도록 엠버]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F29%2Fmydaily%2F20220429114601423rmzw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[불명예 전역 당한 군인에게 닥친 애국심 딜레마 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220430114204549</link>
             <guid>https://movie.v.daum.net/v/20220430114204549</guid>
             <pubDate>Sat, 30 Apr 2022 03:19:33 GMT</pubDate>
             <content:encoded><![CDATA[[원종빈 기자] ▲ &nbsp;영화 &lt;더 컨트랙터&gt; 스틸    ⓒ (주)제이앤씨미디어그룹  &nbsp; *주의! 이 기사에는 영화의 스포일러가 포함돼 있습니다. 이라크와 아프가니스탄에서 모두 복무한 경험이 있는 특수부대&nbsp;베테랑&nbsp;중사인 '제임스 하퍼(크리스 파인)'. 숱한 전투로 인해 엉망이 된 몸으로도 마지막 순간까지 국가에 충성하고자 했던 그는 예상치 못하게]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2Fohmynews%2F20220430114205493bpuw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[日다큐 감독 "쿠르드족 외면하는 일본..난민 이해하는 계기되길" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220430152319331</link>
-            <guid>https://movie.v.daum.net/v/20220430152319331</guid>
-            <pubDate>Sat, 30 Apr 2022 08:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[(전주=연합뉴스) 오보람 기자 = '10000:44'. 2019년 일본에서 난민 신청을 한 1만여 명 가운데 난민 지위를 인정받은 사람은 단 44명이었다. 승인율 0.44%로 경제협력개발기구(OECD) 국가 중 최저 수준이다. 그중 터키에서 일본으로 입국한 쿠르드족이 난민으로 인정받은 경우는 한 건도 없었다. 쿠르드족은 약 4천 년 전부터 고유의 언어와]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2Fyonhap%2F20220430152319408octy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[OTT다방] 큐레이션 : 전주국제영화제, 방구석에서 즐기고싶다면? (다음영화 뉴스 ─ 인기)]]></title>
@@ -583,6 +575,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F29%2Fseouleconomy%2F20220429153645724xrgx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA["엠버 허드, '아쿠아맨2' 하차하라" 청원 220만명 돌파 "그래도 출연해"[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220429114601217</link>
+            <guid>https://movie.v.daum.net/v/20220429114601217</guid>
+            <pubDate>Fri, 29 Apr 2022 04:34:32 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]조니 뎁(58)과 명예훼손 소송을 벌이고 있는 엠버 허드(35)를 ‘아쿠아맨2’에서 하차시키라는 청원에 220만명 이상이 서명했다. 29일 청원사이트에 따르면, 엠버 허드의 ‘아쿠아맨2’ 하차 청원은 이날 오전 11시 30분 현재 220만명을 넘어섰다. 청원인은 “조니 뎁이 때렸다고 말한 후 몇 시간, 며칠이 지나도록 엠버]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F29%2Fmydaily%2F20220429114601423rmzw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[끝나지 않은 이야기..'파친코', 호평 속 시즌 2 제작 확정[공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220430090016488</link>
+            <guid>https://movie.v.daum.net/v/20220430090016488</guid>
+            <pubDate>Sat, 30 Apr 2022 01:53:30 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 파친코 / 사진=애플TV플러스Apple TV+(애플TV플러스)가 전 세계적으로 호평받고 있는 '파친코'의 시즌 2 제작을 확정했다. 거대한 스케일의 서사를 따뜻하게 담아낸 '파친코'는 금지된 사랑에서 시작되는 이야기로 한국과 일본, 그리고 미국을 오가며 전쟁과 평화, 사랑과 이별, 승리와 심판에 대한 잊을 수 없는 연대기를 그리]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2Fstarnews%2F20220430090017460yxwe.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['신동덤' 1위 탈환, '니 부모' 추격 [박스오피스] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220430121606878</link>
             <guid>https://movie.v.daum.net/v/20220430121606878</guid>
@@ -591,12 +599,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2Ftvdaily%2F20220430121609657kpyw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['변신로봇'의 로망, 이 영화가 이뤄드립니다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220430103601774</link>
-            <guid>https://movie.v.daum.net/v/20220430103601774</guid>
-            <pubDate>Sat, 30 Apr 2022 01:53:30 GMT</pubDate>
-            <content:encoded><![CDATA[[양형석 기자] 뮤직비디오와 광고 감독으로 명성을 쌓던 마이클 베이 감독은 지난 1995년 젊은 흑인 형사콤비가 활약하는 코믹액션영화 &lt;나쁜 녀석들&gt;을 통해 데뷔했다. 마이클 베이 감독은 이후 &lt;더 록&gt;과 &lt;아마겟돈&gt; &lt;진주만&gt;을 차례로 성공시키면서 할리우드를 대표하는 흥행 감독으로 우뚝 섰다. 무엇보다 많은 물량을 아낌없이 &nbsp;쏟아 부어 관객들에게 시원한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2Fohmynews%2F20220430103602436igab.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[시스루 in JIFF] '경아의 딸' 가깝고 먼 모녀관계, 그래도 결국 연대한다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220430174646948</link>
+            <guid>https://movie.v.daum.net/v/20220430174646948</guid>
+            <pubDate>Sat, 30 Apr 2022 11:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] '현혜선의 시스루'를 연재하는 서울경제스타 현혜선 기자가 제23회 전주국제영화제의 속살을 낱낱이 들여다 봅니다.  영화 '경아의 딸'이 디지털 성범죄라는 사회적 이슈를 애증의 모녀 관계에 녹였다. 피해자뿐 아니라, 그의 가족을 조명하면서 관객들에게 생각할 거리를 던지겠다는 포부다. 누구나 공감할 수 있는 보편적인 인물을 통해 관객들의 공감까]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2Fseouleconomy%2F20220430184859311pllg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['시맨틱 에러'는 시작일 뿐..대세 된 BL 콘텐츠 [김나연의 사선] (다음영화 뉴스 ─ 인기)]]></title>
@@ -607,12 +615,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2Fstarnews%2F20220430140003198josa.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['니 부모 얼굴이..', 가해자의 시선으로 본 학폭[스크린PICK] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220430090025503</link>
-            <guid>https://movie.v.daum.net/v/20220430090025503</guid>
+            <title><![CDATA['변신로봇'의 로망, 이 영화가 이뤄드립니다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220430103601774</link>
+            <guid>https://movie.v.daum.net/v/20220430103601774</guid>
             <pubDate>Sat, 30 Apr 2022 01:53:30 GMT</pubDate>
-            <content:encoded><![CDATA[[이데일리 스타in 박미애 기자] 개봉 영화를 소개합니다. ◇니 부모 얼굴이 보고 싶다 명문 한음 국제중학교 학생 ‘김건우’가 같은 반 친구 4명의 이름이 적힌 편지를 남긴 채, 의식불명 상태로 호숫가에서 발견된다. 병원 이사장의 아들 ‘도윤재’ 전직 경찰청장의 손자 ‘박규범’ 한음 국제중학교 교사의 아들 ‘정이든’ 그리고, 변호사 ‘강호창’(설경구 분)]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2FEdaily%2F20220430090027965cdcp.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[양형석 기자] 뮤직비디오와 광고 감독으로 명성을 쌓던 마이클 베이 감독은 지난 1995년 젊은 흑인 형사콤비가 활약하는 코믹액션영화 &lt;나쁜 녀석들&gt;을 통해 데뷔했다. 마이클 베이 감독은 이후 &lt;더 록&gt;과 &lt;아마겟돈&gt; &lt;진주만&gt;을 차례로 성공시키면서 할리우드를 대표하는 흥행 감독으로 우뚝 섰다. 무엇보다 많은 물량을 아낌없이 &nbsp;쏟아 부어 관객들에게 시원한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2Fohmynews%2F20220430103602436igab.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[단편 연작에서 증명되는 이야기꾼 하마구치 류스케의 진면목 (다음영화 뉴스 ─ 인기)]]></title>
@@ -623,20 +631,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2Fohmynews%2F20220430124206718azbj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰]'니 부모 얼굴이' 김지훈 감독 "학폭 가해자 시점 연출 괴로웠다" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220430070301497</link>
-            <guid>https://movie.v.daum.net/v/20220430070301497</guid>
-            <pubDate>Fri, 29 Apr 2022 22:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[“지옥 같은 시간이었어요. 아이들의 영혼이 무너지는 그 순간, 이에 대한 분노를 원동력으로 겨우 완주할 수 있었죠. 이전엔 가해자와 피해자가 따로 있다고, 아주 단순하게 이분법적으로 생각했어요. 하지만 영화를 찍으면서 그렇지 않다는 걸 알았어요. 그게 이 영화의 출발이자 끝이 아닐까 싶어요. 개인적으로는 더 복잡해지고 두려워졌지만...” 학교 폭력 문제를]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2Fstartoday%2F20220430070305238qybb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["팝콘 사니까 뭔가 설레네요"..극장 취식 허용에 즐거운 관객들 ② (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220430090013480</link>
-            <guid>https://movie.v.daum.net/v/20220430090013480</guid>
+            <title><![CDATA[[시스루 in JIFF] '말이야 바른 말이지' 사회적 이슈 바라본 6人 감독의 시선..개운한 말 맛은 '덤' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220430123243983</link>
+            <guid>https://movie.v.daum.net/v/20220430123243983</guid>
             <pubDate>Sat, 30 Apr 2022 08:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 극장서 팝콘을 사는 관객들 /사진=김나연 기자 "영화를 보기 전에 팝콘, 콜라를 사니까 뭔가 더 설레는 감정이 있어요. 재미가 한층 더 사는 것 같아요." 지난 25일부터 영화관 등 다중이용시설에서 취식이 가능해지면서 영화관이 찾는 관객들도 극장에서 먹는 즐거움을 찾게 됐다. 바쁘게 움직이는 영화관 직원들, 달콤한 팝콘 냄새까지]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2Fstarnews%2F20220430090014528xtbb.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[서울경제] '현혜선의 시스루'를 연재하는 서울경제스타 현혜선 기자가 제23회 전주국제영화제의 속살을 낱낱이 들여다 봅니다.   옴니버스 영화 '말이야 바른 말이지'가 각각의 사회적 이슈에 감독들의 독특한 시선이 담았다. 을과 을의 논쟁 속에서 소회된 병과 정을 조명하겠다는 의미다. 여기에 공감되면서 웃음을 던지는 '말 맛'은 영화를 보는 묘미. 개운한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2Fseouleconomy%2F20220430123315533xfus.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['신동덤', 박스오피스 1위 탈환..'니 부모' 10만 돌파[★무비차트] (다음영화 뉴스 ─ 인기)]]></title>
@@ -647,20 +647,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2Fstarnews%2F20220430082449671vakv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['신동덤', 1위 재탈환 누적 92만명↑..'니 부모' 2위 [Nbox] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220430084021319</link>
-            <guid>https://movie.v.daum.net/v/20220430084021319</guid>
+            <title><![CDATA['니 부모 얼굴이..', 가해자의 시선으로 본 학폭[스크린PICK] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220430090025503</link>
+            <guid>https://movie.v.daum.net/v/20220430090025503</guid>
             <pubDate>Sat, 30 Apr 2022 01:53:30 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '신비한 동물들과 덤블도어의 비밀'이 박스오피스 1위를 재탈환했다. 30일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '신비한 동물들과 덤블도어의 비밀'은 지난 29일 하루 3만 9981명을 동원해 박스오피스 1위를 차지했다. 누적관객수는 92만 8362명이다. 이어 '니 부모 얼굴이 보고 싶다'가 3만 4]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2FNEWS1%2F20220430084022000ksei.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[이데일리 스타in 박미애 기자] 개봉 영화를 소개합니다. ◇니 부모 얼굴이 보고 싶다 명문 한음 국제중학교 학생 ‘김건우’가 같은 반 친구 4명의 이름이 적힌 편지를 남긴 채, 의식불명 상태로 호숫가에서 발견된다. 병원 이사장의 아들 ‘도윤재’ 전직 경찰청장의 손자 ‘박규범’ 한음 국제중학교 교사의 아들 ‘정이든’ 그리고, 변호사 ‘강호창’(설경구 분)]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2FEdaily%2F20220430090027965cdcp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[시스루 in JIFF] '말이야 바른 말이지' 사회적 이슈 바라본 6人 감독의 시선..개운한 말 맛은 '덤' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220430123243983</link>
-            <guid>https://movie.v.daum.net/v/20220430123243983</guid>
+            <title><![CDATA["팝콘 사니까 뭔가 설레네요"..극장 취식 허용에 즐거운 관객들 ② (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220430090013480</link>
+            <guid>https://movie.v.daum.net/v/20220430090013480</guid>
             <pubDate>Sat, 30 Apr 2022 08:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] '현혜선의 시스루'를 연재하는 서울경제스타 현혜선 기자가 제23회 전주국제영화제의 속살을 낱낱이 들여다 봅니다.   옴니버스 영화 '말이야 바른 말이지'가 각각의 사회적 이슈에 감독들의 독특한 시선이 담았다. 을과 을의 논쟁 속에서 소회된 병과 정을 조명하겠다는 의미다. 여기에 공감되면서 웃음을 던지는 '말 맛'은 영화를 보는 묘미. 개운한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2Fseouleconomy%2F20220430123315533xfus.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 극장서 팝콘을 사는 관객들 /사진=김나연 기자 "영화를 보기 전에 팝콘, 콜라를 사니까 뭔가 더 설레는 감정이 있어요. 재미가 한층 더 사는 것 같아요." 지난 25일부터 영화관 등 다중이용시설에서 취식이 가능해지면서 영화관이 찾는 관객들도 극장에서 먹는 즐거움을 찾게 됐다. 바쁘게 움직이는 영화관 직원들, 달콤한 팝콘 냄새까지]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2Fstarnews%2F20220430090014528xtbb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[저스틴 민 "미국서 한국 콘텐츠 인기.. 이제야 알아주네요" [쿠키인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220430192602956</link>
+            <guid>https://v.daum.net/v/20220430192602956</guid>
+            <pubDate>Sat, 30 Apr 2022 11:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[양(저스틴 민)은 단순한 안드로이드가 아니다. 제이크(콜린 퍼렐) 가족에게 양은 뛰어난 인공지능 로봇을 넘어 안정과 위로를 주는 중요한 존재다. 양이 작동을 멈춘 후 존재감은 더 커진다. 양이 남긴 기억은 제이크 가족이 지나온 시간을 새로운 시선으로 반추하게 한다. 제23회 전주국제영화제 개막작 ‘애프터 양’을 연출한 코고나다 감독은 처음부터 양 역할로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2Fkukinews%2F20220430192603712dfmr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[시스루 in JIFF] '경아의 딸' 가깝고 먼 모녀관계, 그래도 결국 연대한다 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220430174646948</link>
+            <guid>https://v.daum.net/v/20220430174646948</guid>
+            <pubDate>Sat, 30 Apr 2022 11:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] '현혜선의 시스루'를 연재하는 서울경제스타 현혜선 기자가 제23회 전주국제영화제의 속살을 낱낱이 들여다 봅니다.  영화 '경아의 딸'이 디지털 성범죄라는 사회적 이슈를 애증의 모녀 관계에 녹였다. 피해자뿐 아니라, 그의 가족을 조명하면서 관객들에게 생각할 거리를 던지겠다는 포부다. 누구나 공감할 수 있는 보편적인 인물을 통해 관객들의 공감까]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2Fseouleconomy%2F20220430184859311pllg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[日다큐 감독 "쿠르드족 외면하는 일본..난민 이해하는 계기되길" (다음영화 뉴스 ─ 최신)]]></title>
@@ -805,22 +821,6 @@
             <pubDate>Fri, 29 Apr 2022 22:21:21 GMT</pubDate>
             <content:encoded><![CDATA[“지옥 같은 시간이었어요. 아이들의 영혼이 무너지는 그 순간, 이에 대한 분노를 원동력으로 겨우 완주할 수 있었죠. 이전엔 가해자와 피해자가 따로 있다고, 아주 단순하게 이분법적으로 생각했어요. 하지만 영화를 찍으면서 그렇지 않다는 걸 알았어요. 그게 이 영화의 출발이자 끝이 아닐까 싶어요. 개인적으로는 더 복잡해지고 두려워졌지만...” 학교 폭력 문제를]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2Fstartoday%2F20220430070305238qybb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[배두나 '브로커'·'다음소희'까지..뜻깊은 칸 재방문 [N초점] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220430065003365</link>
-            <guid>https://v.daum.net/v/20220430065003365</guid>
-            <pubDate>Fri, 29 Apr 2022 22:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 배우 배두나가 칸 영화제에 재방문해 각별한 의미를 다진다. 영화 2014년 '도희야' 이후 8년 만이자, 네 번째로 칸을 찾게 된 배두나는 올해 무려 두 작품을 안고 형사로 영화제로 향한다. 최근 제75회 칸 국제영화제(칸 영화제) 측은 경쟁 부문 후보 발표와 비평가주간 폐막작을 발표했는데, 배두나가 출연한 '브로커'와]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2FNEWS1%2F20220430065004977tnfy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['사랑의 고고학' 감독 "두 주인공의 '못남'이 서로 만났다 생각해"[SS현장] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220430001413552</link>
-            <guid>https://v.daum.net/v/20220430001413552</guid>
-            <pubDate>Fri, 29 Apr 2022 15:22:38 GMT</pubDate>
-            <content:encoded><![CDATA[‘사랑의 고고학’ 스틸컷    [스포츠서울 | 전주=황혜정기자] “저는 영실의 ‘못남’과 인식의 ‘못남’이 만났다 생각한다. 저는 관계에 있어서 한번도 훌륭했다고 생각하지 않는다. 내가 정말 못났던 이런 것들이 있었을 때 왜 그런게 있었을까 상황을 펼쳐보고 작업하다보니 그런게 그대로 드러났던 것 같다” 3시간에 가까운 영화 ‘사랑의 고고학’의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2FSPORTSSEOUL%2F20220430001417737aglo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<몬스터 싱어: 매직 인 파리> 티저 예고편 (우리 영화 볼래?)]]></title>
