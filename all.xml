@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 17:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 18:25:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -279,14 +279,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd5e586173fb3ee83885a5e68fa8e8cae4b922895" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[쿠폰의 여왕 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152086</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152086</guid>
-            <pubDate>Wed, 20 Apr 2022 23:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F486913e489910ec8021fa2cf6a3b3e77230c933c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[몬스터아카데미 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157466</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157466</guid>
@@ -309,6 +301,14 @@
             <pubDate>Sun, 24 Apr 2022 08:24:12 GMT</pubDate>
             <content:encoded><![CDATA[22.04.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F03bae2e3001dcb78ff5294a95dd8651881af8491" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠폰의 여왕 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152086</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152086</guid>
+            <pubDate>Wed, 20 Apr 2022 23:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F486913e489910ec8021fa2cf6a3b3e77230c933c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[중경삼림 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -583,6 +583,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2Fohmynews%2F20220430114205493bpuw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['신동덤' 1위 탈환, '니 부모' 추격 [박스오피스] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220430121606878</link>
+            <guid>https://movie.v.daum.net/v/20220430121606878</guid>
+            <pubDate>Sat, 30 Apr 2022 04:28:04 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 이기은 기자] '신비한 동물들과 덤블도어의 비밀'이 극장가 1위를 탈환했다. 30일 영화진흥위원회 영화관입장권 통합전산망에 따르면 '신비한 동물들과 덤블도어의 비밀'(감독 데이빗 예이츠)(이하 '신동덤)은 3만 9981명의 관객을 동원하며 박스오피스 1위를 차지했다. 누적 관객 수는 92만 8362명으로 집계됐다. 영화는 머글과의 전쟁을 선포]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2Ftvdaily%2F20220430121609657kpyw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['빼고파' 배윤정, 브브걸 민영 등장에 "내 남편과 동갑" 뿌듯 미소 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220430231815589</link>
             <guid>https://movie.v.daum.net/v/20220430231815589</guid>
@@ -599,12 +607,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2Fstarnews%2F20220430140003198josa.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['신동덤' 1위 탈환, '니 부모' 추격 [박스오피스] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220430121606878</link>
-            <guid>https://movie.v.daum.net/v/20220430121606878</guid>
-            <pubDate>Sat, 30 Apr 2022 04:28:04 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 이기은 기자] '신비한 동물들과 덤블도어의 비밀'이 극장가 1위를 탈환했다. 30일 영화진흥위원회 영화관입장권 통합전산망에 따르면 '신비한 동물들과 덤블도어의 비밀'(감독 데이빗 예이츠)(이하 '신동덤)은 3만 9981명의 관객을 동원하며 박스오피스 1위를 차지했다. 누적 관객 수는 92만 8362명으로 집계됐다. 영화는 머글과의 전쟁을 선포]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2Ftvdaily%2F20220430121609657kpyw.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['파로호' 이중옥 "극장에 관객분들 많이 앉아계시는 것 자체가 감동..감사하다"[SS현장] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220430203716979</link>
+            <guid>https://movie.v.daum.net/v/20220430203716979</guid>
+            <pubDate>Sat, 30 Apr 2022 13:27:41 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 전주=황혜정기자] “사건이 일어나는 배경을 ‘모텔’로 생각했던 건, 주인공은 욕망을 풀 수 없는 남자인데 모텔은 사람들이 욕망을 풀러 오는 공간이다. 그런 남자가 앉아있는 공간에 (상반된)사람들이 오면 불안할 수 있겠다고 생각했다” 영화 ‘파로호’는 노모의 실종 후 아들이 겪게 되는 일상의 파문과 숨막히는 서스펜스를 담은 심]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2FSPORTSSEOUL%2F20220430203722604vkad.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[끝나지 않은 이야기..'파친코', 호평 속 시즌 2 제작 확정[공식] (다음영화 뉴스 ─ 인기)]]></title>
@@ -613,14 +621,6 @@
             <pubDate>Sat, 30 Apr 2022 01:53:30 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김나연 기자] 파친코 / 사진=애플TV플러스Apple TV+(애플TV플러스)가 전 세계적으로 호평받고 있는 '파친코'의 시즌 2 제작을 확정했다. 거대한 스케일의 서사를 따뜻하게 담아낸 '파친코'는 금지된 사랑에서 시작되는 이야기로 한국과 일본, 그리고 미국을 오가며 전쟁과 평화, 사랑과 이별, 승리와 심판에 대한 잊을 수 없는 연대기를 그리]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2Fstarnews%2F20220430090017460yxwe.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['파로호' 이중옥 "극장에 관객분들 많이 앉아계시는 것 자체가 감동..감사하다"[SS현장] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220430203716979</link>
-            <guid>https://movie.v.daum.net/v/20220430203716979</guid>
-            <pubDate>Sat, 30 Apr 2022 13:27:41 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 전주=황혜정기자] “사건이 일어나는 배경을 ‘모텔’로 생각했던 건, 주인공은 욕망을 풀 수 없는 남자인데 모텔은 사람들이 욕망을 풀러 오는 공간이다. 그런 남자가 앉아있는 공간에 (상반된)사람들이 오면 불안할 수 있겠다고 생각했다” 영화 ‘파로호’는 노모의 실종 후 아들이 겪게 되는 일상의 파문과 숨막히는 서스펜스를 담은 심]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2FSPORTSSEOUL%2F20220430203722604vkad.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[시스루 in JIFF] '경아의 딸' 가깝고 먼 모녀관계, 그래도 결국 연대한다 (다음영화 뉴스 ─ 인기)]]></title>
