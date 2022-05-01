@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 11:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 12:35:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -199,14 +199,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5f1bbf358d905c6a526940b1c81d3196015c3e7b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[봄날 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149857</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149857</guid>
-            <pubDate>Wed, 20 Apr 2022 07:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3227ac46817162e7bb329fc01fc42653afb5a9e9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[세븐틴 파워 오브 러브 : 더 무비 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=158452</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=158452</guid>
@@ -215,12 +207,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbd34505a44a846ca734f63e581cc28f83f435a8c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[서울괴담 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150206</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150206</guid>
-            <pubDate>Wed, 20 Apr 2022 01:54:23 GMT</pubDate>
+            <title><![CDATA[봄날 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149857</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149857</guid>
+            <pubDate>Wed, 20 Apr 2022 07:20:05 GMT</pubDate>
             <content:encoded><![CDATA[22.04.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a99abb42cba19fe3e4580eef2d2ea5588792e0a" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3227ac46817162e7bb329fc01fc42653afb5a9e9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[로스트 시티 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -237,6 +229,14 @@
             <pubDate>Tue, 26 Apr 2022 07:20:16 GMT</pubDate>
             <content:encoded><![CDATA[22.04.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd5e586173fb3ee83885a5e68fa8e8cae4b922895" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[서울괴담 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150206</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150206</guid>
+            <pubDate>Wed, 20 Apr 2022 01:54:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a99abb42cba19fe3e4580eef2d2ea5588792e0a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[수퍼 소닉2 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -583,20 +583,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F01%2Fyonhap%2F20220501115936665mtqk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['특수요원 빼꼼' 6월 개봉 확정..메인 포스터 공개 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220501103716888</link>
-            <guid>https://movie.v.daum.net/v/20220501103716888</guid>
-            <pubDate>Sun, 01 May 2022 02:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;전세계에서 17년간 뜨거운 사랑을 받아온 레전드 캐릭터 빼꼼의 화려한 복귀를 알리는 영화 '특수요원 빼꼼'이 오는 6월 개봉을 확정 짓고 메인 포스터를 공개했다. 2004년 'I Love Picnic' 'I Love Sky' 등의 단편 애니메이션으로 대중에게 첫선을 보인 빼꼼은 동아 LG 국제만화 페스티벌 애니메이션 어린이와 교]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F01%2Fpoctan%2F20220501103716755mmya.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA["해결 촉구하겠다"..가습기 살균제 참사 '공기살인', 국회 시사회 진행 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220501122324972</link>
             <guid>https://movie.v.daum.net/v/20220501122324972</guid>
             <pubDate>Sun, 01 May 2022 05:24:34 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자] 영화 '공기살인'이 국회에서 상영됐다. 국민의힘 성일종 의원과 더불어민주당 전재수 의원의 주최로 지난달 29일(금) 오전 10시 국회의원회관 2층 대회의실에서 ‘공기살인’(감독 조용선, 제공 TCO㈜더콘텐츠온, 제작 마스터원엔터테인먼트, 배급 TCO㈜더콘텐츠온, 공동배급 CJ CGV)의 국회특별시사회가 열렸다. 시사회를 공동주최]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F01%2Fpoctan%2F20220501122325474wbqh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['특수요원 빼꼼' 6월 개봉 확정..메인 포스터 공개 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220501103716888</link>
+            <guid>https://movie.v.daum.net/v/20220501103716888</guid>
+            <pubDate>Sun, 01 May 2022 02:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;전세계에서 17년간 뜨거운 사랑을 받아온 레전드 캐릭터 빼꼼의 화려한 복귀를 알리는 영화 '특수요원 빼꼼'이 오는 6월 개봉을 확정 짓고 메인 포스터를 공개했다. 2004년 'I Love Picnic' 'I Love Sky' 등의 단편 애니메이션으로 대중에게 첫선을 보인 빼꼼은 동아 LG 국제만화 페스티벌 애니메이션 어린이와 교]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F01%2Fpoctan%2F20220501103716755mmya.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[시스루 in JIFF] 프로그래머 연상호 감독 "내 영화에 영향 끼친 작품, 팬심으로 선정" (다음영화 뉴스 ─ 인기)]]></title>
@@ -607,14 +607,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F01%2Fseouleconomy%2F20220501160032911dxkq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[윤경호, '공기살인' 회식 자리에서 눈물 흘린 이유 [HI★인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220501104654018</link>
-            <guid>https://movie.v.daum.net/v/20220501104654018</guid>
-            <pubDate>Sun, 01 May 2022 02:10:28 GMT</pubDate>
-            <content:encoded><![CDATA['내가 뜨거운 사람들과 함께하게 됐구나'라고 생각했어요. 자랑스러운 작업을 하게 됐다고 느꼈죠. 배우 윤경호는 '공기살인'의 회식 자리에서 말을 잇지 못할 만큼 많이 울었다. "흥행 보장은 못 해도 창피하지 않은 영화를 만들어 보겠다"는 김상경의 말을 들은 후의 일이었다. '내가 좋아하는 선배님도 그렇게 느끼고 있었구나'라는 생각을 하며 바라본 스태프]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F01%2Fhankooki%2F20220501104657649kajj.png" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[영상유출 피해 겪은 모녀..닮은듯 다른 영화 '경아의딸'·'정순' (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220501130010300</link>
             <guid>https://movie.v.daum.net/v/20220501130010300</guid>
@@ -623,20 +615,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F01%2Fyonhap%2F20220501130010632pwjb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['신혼 부부' 현빈♥손예진, 다정하게 귀국 外[위클리무비] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220430103001707</link>
-            <guid>https://movie.v.daum.net/v/20220430103001707</guid>
-            <pubDate>Sat, 30 Apr 2022 01:53:30 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 배우 현빈-손예진 부부가 미국에서의 신혼여행을 마치고 28일 오후 인천국제공항을 통해 입국하고 있다. 2022.04.28 /사진=임성균 기자 tjdrbs23@ ○...배우 현빈(40·김태평)과 손예진(40·손언진) 부부가 긴 신혼여행을 마치고지난 28일 귀국했다. 현빈과 손예진 부부는 지난 28일 미국 뉴욕에서 인천국제공항으로 입국]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2Fstarnews%2F20220430103003137vehb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[연상호 감독, 전주를 밝힌다[스경X현장] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220501151513564</link>
-            <guid>https://movie.v.daum.net/v/20220501151513564</guid>
-            <pubDate>Sun, 01 May 2022 10:22:58 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 연상호 감독이 제23회 전주국제영화제를 밝힌다. 2년여 코로나19 팬데믹 속 암흑기를 딛고 ‘정상화’를 외친 이번 영화제에 다섯편의 주옥같은 추천작을 관객에게 건넨다. 1일 오후 전북 전주시 완산구 전주중부비전센터에서 진행된 제23회 전주국제영화제 ‘J스페셜: 올해의 프로그래머 연상호’ 기자회견에는 연상호 감독과 이준동 집행위원장이 참석]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F01%2Fsportskhan%2F20220501151515113rasn.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[윤경호, '공기살인' 회식 자리에서 눈물 흘린 이유 [HI★인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220501104654018</link>
+            <guid>https://movie.v.daum.net/v/20220501104654018</guid>
+            <pubDate>Sun, 01 May 2022 02:10:28 GMT</pubDate>
+            <content:encoded><![CDATA['내가 뜨거운 사람들과 함께하게 됐구나'라고 생각했어요. 자랑스러운 작업을 하게 됐다고 느꼈죠. 배우 윤경호는 '공기살인'의 회식 자리에서 말을 잇지 못할 만큼 많이 울었다. "흥행 보장은 못 해도 창피하지 않은 영화를 만들어 보겠다"는 김상경의 말을 들은 후의 일이었다. '내가 좋아하는 선배님도 그렇게 느끼고 있었구나'라는 생각을 하며 바라본 스태프]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F01%2Fhankooki%2F20220501104657649kajj.png" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[시스루 in JIFF] 전주시네마프로젝트, 전 세계 독립영화 제작에 희망 불씨 피웠다 (다음영화 뉴스 ─ 인기)]]></title>
@@ -653,6 +637,22 @@
             <pubDate>Sun, 01 May 2022 05:24:34 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠경향] 연상호 감독이 제23회 전주국제영화제 ‘J스페셜: 올해의 프로그래머 연상호’ 선정작으로 연출작 ‘돼지의 왕’ ‘부산행’을 선정한 이유를 공개했다. 연상호 감독은 1일 오후 전북 전주시 완산구 전주중부비전센터에서 진행된 제23회 전주국제영화제 ‘J스페셜: 올해의 프로그래머 연상호’ 기자회견에서 “영화제 측에서 내 두 작품 정도 얘기를 해달]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F01%2Fsportskhan%2F20220501133946564jjpx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['신혼 부부' 현빈♥손예진, 다정하게 귀국 外[위클리무비] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220430103001707</link>
+            <guid>https://movie.v.daum.net/v/20220430103001707</guid>
+            <pubDate>Sat, 30 Apr 2022 01:53:30 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 배우 현빈-손예진 부부가 미국에서의 신혼여행을 마치고 28일 오후 인천국제공항을 통해 입국하고 있다. 2022.04.28 /사진=임성균 기자 tjdrbs23@ ○...배우 현빈(40·김태평)과 손예진(40·손언진) 부부가 긴 신혼여행을 마치고지난 28일 귀국했다. 현빈과 손예진 부부는 지난 28일 미국 뉴욕에서 인천국제공항으로 입국]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F30%2Fstarnews%2F20220430103003137vehb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[연상호 감독, 전주를 밝힌다[스경X현장] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220501151513564</link>
+            <guid>https://movie.v.daum.net/v/20220501151513564</guid>
+            <pubDate>Sun, 01 May 2022 10:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 연상호 감독이 제23회 전주국제영화제를 밝힌다. 2년여 코로나19 팬데믹 속 암흑기를 딛고 ‘정상화’를 외친 이번 영화제에 다섯편의 주옥같은 추천작을 관객에게 건넨다. 1일 오후 전북 전주시 완산구 전주중부비전센터에서 진행된 제23회 전주국제영화제 ‘J스페셜: 올해의 프로그래머 연상호’ 기자회견에는 연상호 감독과 이준동 집행위원장이 참석]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F01%2Fsportskhan%2F20220501151515113rasn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['J스페셜' 연상호 감독 " 좋아하는 영화로 프로그래밍했다"[23th JIFF] (다음영화 뉴스 ─ 인기)]]></title>
