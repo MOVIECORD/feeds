@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-05-02T20:20:02.622Z</updated>
+    <updated>2022-05-02T21:16:56.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“한국에 못오는” 59살 톰 크루즈, 레이디 가가 뺨에 키스 “둘이 무슨 사이?”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003600402</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003600402"/>
+        <updated>2022-05-02T21:15:35.216Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 스타 톰 크루즈(59)와 레이다 가가(36)가 친밀감을 과시했다. 레이디 가가는 2일(현지시간) 소셜미디어에 “지난밤 쇼에 와줘서 고마워 톰 크루즈. 내 친구 사랑해”라는 글과 함]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메달 장면 보며 자위하는 '국민 요정', 왜 뜨끔하지 [나를 키운 여자들]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002351573</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002351573"/>
+        <updated>2022-05-02T21:15:35.217Z</updated>
+        <content type="html"><![CDATA[[나를 키운 여자들] &lt;더 브론즈&gt; 속 호프 영화 &lt;더 브론즈&gt;의 호프 앤 그레고리(멜리사 로치)는 미국 체조 국민 영웅이다. 아니, 영웅이었다. 호프는 2004년 로마 대회에서 심각한 발목 부상을 입은 채 평행봉에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팝콘 효과? 영화 관객 37% 급증했다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001523227</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004958339"/>
         <updated>2022-05-02T12:38:50.789Z</updated>
         <content type="html"><![CDATA['닥터 스트레인지2' 출연 베니딕트 컴버배치 마블 세계관 확장하는 대작 신경외과 의사서 마법사 된 닥터 스트레인지 배역 열연 "뒤엉킨 시공간 이후의 혼돈 선택·결과에 대한 대서사시… 사람에겐 여러 측면이 있어 다층적]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['브로커', 예견된 명작일까…日 거장과 韓 최고 배우의 만남으로도]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000282808</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000282808"/>
-        <updated>2022-05-02T12:38:50.789Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 제75회 칸영화제 경쟁 부문 초청작 '브로커'를 향한 국내외 영화팬들의 관심이 뜨겁다. 일본을 대표하는 거장 감독과 한국을 대표하는 배우들의 시너지는 벌써부터 '명작의 탄생'을 예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['탑건: 매버릭' 6월 22일 개봉 확정 "톰 크루즈 내한 추진했지만…다음 기약"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001442854</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001442854"/>
-        <updated>2022-05-02T12:38:50.789Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 톰 크루즈 주연의 영화 '탑건: 매버릭'(감독 조셉 코신스키)이 6월 22일로 국내 개봉일자를 최종 확정했다. 2일 '탑건: 매버릭' 측은 "'탑건: 매버릭'이 오는 6월 22일로 개봉일]]></content>
     </entry>
 </feed>
