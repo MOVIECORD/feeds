@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-05-03T12:43:45.095Z</updated>
+    <updated>2022-05-03T13:41:43.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["'나의 아저씨' 아이유에게 푹 빠졌다"…고레에다, 직접 밝힌 '브로커' 캐스팅 비화]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000544780</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000544780"/>
+        <updated>2022-05-03T13:40:20.383Z</updated>
+        <content type="html"><![CDATA[[텐아시아=노규민 기자] 제75회 칸 국제영화제 경쟁 부문 공식 초청작 '브로커'의 캐스팅 비화가 공개됐다. '브로커'는 베이비 박스를 둘러싸고 관계를 맺게 된 이들의 예기치 못한 특별한 여정을 그린 영화다. 거장]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공식] '1408:1' 신시아, 그리고 김다미·이종석 '마녀2'…6월 15일 개봉 확정]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000544775</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000544775"/>
+        <updated>2022-05-03T13:40:20.388Z</updated>
+        <content type="html"><![CDATA[[텐아시아=노규민 기자] 화제작 '마녀'의 후속편 '마녀 2'가 6월 15일 개봉을 확정했다. '마녀 2'는 초토화된 비밀연구소에서 홀로 살아남아 세상 밖으로 나오게 된 '소녀' 앞에 각기 다른 목적으로 그녀를 쫓는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[컴버배치, “닥터 스트레인지, 멀티버스 통해 MCU의 새로운 챕터 열 것”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=016&amp;aid=0001986473</id>
@@ -81,13 +95,6 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004694130"/>
         <updated>2022-05-03T10:26:26.026Z</updated>
         <content type="html"><![CDATA[사랑의 유효기간은 3년 쯤이라고 한다. 열정적인 사랑도 결국엔 식는 법. 그렇다면 20년을 같이 산 부부의 삶은 어떨까. 연극 배우 가후쿠는 어느날 각본가인 아내 오토의 불륜 장면을 목격한다. 부부 관계를 무너뜨리지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이의 얼굴과 심장소리만이 가득한 이창동의 단편 '심장소리]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004694129</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004694129"/>
-        <updated>2022-05-03T10:26:26.027Z</updated>
-        <content type="html"><![CDATA[어딘가를 끝없이 뛰어가는 아이. 그 아이의 불안한 표정과 숨가쁜 호흡. 오직 그것만이 25분 내내 가득 이어진다. 올해로 데뷔 25주년을 맞은 이창동 감독 단편 영화 '심장소리'다. 아이의 정체모를 블안, 필사적으로]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제39회 부산국제단편영화제, 성황리에 폐막]]></title>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003050280"/>
         <updated>2022-05-03T10:26:26.049Z</updated>
         <content type="html"><![CDATA[빅토리아 베컴이 남편 데이비드 베컴의 몸매에 유쾌한 반응을 보였다. 빅토리아 베컴은 2일 자신의 인스타그램에 "나는 너를 너무 사랑해"라는 글과 함께 남편 데이비드 베컴의 47번째 생일을 축하했다. 이어 "너는 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[딸이 알츠하이머로 기억을 잃는다면…'카시오페아', 안성기·서현진의 동행]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000282841</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000282841"/>
-        <updated>2022-05-03T10:26:26.050Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 배우 안성기와 서현진의 특별한 동행이 스크린을 감동으로 수놓을 예정이다. 두 사람이 부녀지간으로 분하는 영화 '카시오페아'가 개봉을 앞두고 베일을 벗었다. '카시오페아'는 변호사,]]></content>
     </entry>
 </feed>
