@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-05-06T10:25:46.653Z</updated>
+    <updated>2022-05-06T11:19:02.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박보검·수지, 극강의 美친 비주얼[백상예술대상]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004960352</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004960352"/>
+        <updated>2022-05-06T11:17:35.315Z</updated>
+        <content type="html"><![CDATA[‘백상예술대상’ 신동엽·박보검·수지 완전체 MC 군단이 모습을 드러낸 가운데 박보검 수지의 그림 같은 투샷이 시선을 사로 잡았다. 6일 오후 경기 고양시 일산 킨텍스 제1전시장 4홀에서 제58회 백상예술대상이 열렸다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강수연 소속사 "수술 여부 지켜보는 중…함께 염려해주셔서 감사"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000282946</id>
@@ -38,7 +45,7 @@
         <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000282945</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000282945"/>
         <updated>2022-05-06T09:21:18.825Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 10분도 아닌 9분이라니, 이토록 박할 수가 있는가. 시간이 곧 돈인 엔터비즈니스에선 어쩔 수가 없다. 게다가 콧대 높은 마블이 아니던가. SBS 스브스뉴스의 유튜브 채널 '문명특]]></content>
+        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 10분도 아닌 9분이라니, 이토록 박할 수가 있는가. 그러나 시간이 곧 돈인 엔터비즈니스에선 어쩔 수가 없다. 게다가 콧대 높은 마블이 아니던가. SBS 스브스뉴스의 유튜브 채널]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 정준호 "한때 흥행 좇았지만…아름답게 스며들 때"]]></title>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003601428"/>
         <updated>2022-05-06T08:25:43.991Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘닥터 스트레인지:대혼돈의 멀티버스’의 원제는 ‘광기의 멀티버스 속 닥터 스트레인지(영화Doctor Strange in the Multiverse of Madnes)’이다. ‘마블의 수장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김바다, ‘안나라수마나라’ 리을을 쫓는 박 경사]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000046367</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000046367"/>
-        <updated>2022-05-06T08:25:43.992Z</updated>
-        <content type="html"><![CDATA[배우 김바다가 넷플릭스 시리즈 ‘안나라수마나라’에 출연한다. 김바다가 출연하는 ‘안나라수마나라’는 꿈을 잃어버린 소녀 윤아이(최성은 분)와 꿈을 강요받는 소년 나일등(황인엽 분) 앞에 어느 날 갑자기 미스터리한 마술]]></content>
     </entry>
 </feed>
