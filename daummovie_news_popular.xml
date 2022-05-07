@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 21:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 23:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,30 +24,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2Fnewsen%2F20220507173300328ayjc.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA["임권택 감독, 충격에 할 말 잊어"..강수연 빈소 추모 발길]]></title>
-            <link>https://movie.v.daum.net/v/20220507221450716</link>
-            <guid>https://movie.v.daum.net/v/20220507221450716</guid>
-            <pubDate>Sat, 07 May 2022 14:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 김정진 기자 = 7일 별세한 배우 강수연의 빈소가 마련되는 서울 강남구 삼성서울병원 장례식장에는 조문이 시작되기도 전부터 영화계 인사들의 추모 발길이 이어졌다. 빈소는 이 병원 장례식장 지하 2층 17호에 차려지며 조문은 8일 오전 10시부터 받는다. 한국 영화를 세계 무대로 이끈 '원조 월드스타'라는 평가를 받는 등 국내 영화계에서 고]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2Fyonhap%2F20220507221451024qiej.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["돈이 없지 가오가 없냐"던 강수연, 후배에 힘 실어주고 하늘의 별이 되다[종합]]]></title>
-            <link>https://movie.v.daum.net/v/20220507211313066</link>
-            <guid>https://movie.v.daum.net/v/20220507211313066</guid>
-            <pubDate>Sat, 07 May 2022 12:33:50 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘원조 월드스타’ 강수연이 7일 세상을 떠났다. 향년 56세. 강수연은 지난 5일 서울 강남구 압구정동 자택에서 뇌출혈 증세로 쓰러진 뒤 사흘째 의식불명 상태로 병원 치료를 받아오다 7일 오후 3시 눈을 감았다. 1966년 서울에서 태어난 고인은 네 살 때 아역으로 데뷔한 뒤 반세기 넘게 충무로 현장을 누비며 한국영화의 전]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2Fmydaily%2F20220507211314024khjq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[속보] 강수연, 7일 별세]]></title>
-            <link>https://movie.v.daum.net/v/20220507162603521</link>
-            <guid>https://movie.v.daum.net/v/20220507162603521</guid>
-            <pubDate>Sat, 07 May 2022 08:25:57 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 배우 강수연이 7일 세상을 떠났다. 향년 56세. 7일 영화계에 따르면 고 강수연은 이날 오후 별세했다. 강수연은 지난 5일 오후 5시48분쯤 서울 강남구 압구정동 자택에서 통증을 호소하다가 가족 신고로 출동한 소방관에게 심정지 상태로 발견됐다. 이날 오전부터 두통을 호소했던 것으로 전해졌고 의식이 없는 상태에서 강남세브란스병원에서]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2Fsportskhan%2F20220507165544013nhnb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['윤시내가 사라졌다' 오민애, 제23회 전주국제영화제 배우상 수상]]></title>
             <link>https://movie.v.daum.net/v/20220506130901548</link>
             <guid>https://movie.v.daum.net/v/20220506130901548</guid>
@@ -64,36 +40,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F06%2Fmydaily%2F20220506161141774rndr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA["임권택 감독, 충격에 할 말 잊어"..강수연 빈소 추모 발길]]></title>
+            <link>https://movie.v.daum.net/v/20220507221450716</link>
+            <guid>https://movie.v.daum.net/v/20220507221450716</guid>
+            <pubDate>Sat, 07 May 2022 14:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 김정진 기자 = 7일 별세한 배우 강수연의 빈소가 마련되는 서울 강남구 삼성서울병원 장례식장에는 조문이 시작되기도 전부터 영화계 인사들의 추모 발길이 이어졌다. 빈소는 이 병원 장례식장 지하 2층 17호에 차려지며 조문은 8일 오전 10시부터 받는다. 한국 영화를 세계 무대로 이끈 '원조 월드스타'라는 평가를 받는 등 국내 영화계에서 고]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2Fyonhap%2F20220507221451024qiej.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["돈이 없지 가오가 없냐"던 강수연, 후배에 힘 실어주고 하늘의 별이 되다[종합]]]></title>
+            <link>https://movie.v.daum.net/v/20220507211313066</link>
+            <guid>https://movie.v.daum.net/v/20220507211313066</guid>
+            <pubDate>Sat, 07 May 2022 12:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘원조 월드스타’ 강수연이 7일 세상을 떠났다. 향년 56세. 강수연은 지난 5일 서울 강남구 압구정동 자택에서 뇌출혈 증세로 쓰러진 뒤 사흘째 의식불명 상태로 병원 치료를 받아오다 7일 오후 3시 눈을 감았다. 1966년 서울에서 태어난 고인은 네 살 때 아역으로 데뷔한 뒤 반세기 넘게 충무로 현장을 누비며 한국영화의 전]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2Fmydaily%2F20220507211314024khjq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA["다 거실로 모입시다" 가족과 함께 봐도 문제없는 OTT 5선 [왓칭]]]></title>
             <link>https://movie.v.daum.net/v/20220506120132594</link>
             <guid>https://movie.v.daum.net/v/20220506120132594</guid>
             <pubDate>Fri, 06 May 2022 08:26:08 GMT</pubDate>
             <content:encoded><![CDATA[혼자 보는 OTT도 좋지만, 가끔은 가족끼리 함께 볼 만한 콘텐츠도 필요한 법. 가정의 달을 맞아 거실에서 틀어도 무해한 콘텐츠들만 추려봤습니다. ①애덤 프로젝트 ②어쩌다 아스널 ③바람을 길들인 풍차소년 ④신비아파트 ⑤리틀 포레스트 ◇애덤 프로젝트 시간여행, 타임 슬립(time slip)을 소재로 한 영화는 잊을만하면 꼭 나온다. 어느 정도 흥행을 보장해]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F06%2Fchosun%2F20220506120134212bxkd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["심장 같았던.." 강수연 사망, 한지일·연상호·양익준 애끓는 추모[종합]]]></title>
-            <link>https://movie.v.daum.net/v/20220507185517448</link>
-            <guid>https://movie.v.daum.net/v/20220507185517448</guid>
-            <pubDate>Sat, 07 May 2022 11:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 원조 월드스타 강수연이 뇌출혈로 의식불명이 된 지 사흘 만에 결국 숨을 거뒀다. 향년 55세. 강수연은 5월 7일 오후 3시 영면에 들었다. 빈소는 삼성서울병원 장례식장에 차려지며, 조문은 8일부터 10일까지 가능하다. 발인은 11일이다. 지난 5일 오후 5시 40분께 서울 강남 자택에서 뇌출혈로 쓰러진 채 발견된 강수연은 병원으]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2Fnewsen%2F20220507185517792zmjk.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[3보]강수연, 결국 하늘의 별로.."8일부터 조문 시작, 오늘은 가족끼리"]]></title>
-            <link>https://movie.v.daum.net/v/20220507170957969</link>
-            <guid>https://movie.v.daum.net/v/20220507170957969</guid>
-            <pubDate>Sat, 07 May 2022 08:25:57 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 영화배우 강수연이 의식불명 사흘 만에 결국 숨을 거뒀다. 향년 55세. 강수연이 5월 7일 오후 3시 숨을 거뒀다. 빈소는 삼성서울병원 장례식장에 차려지며, 조문은 8일부터 10일까지 가능하다. 발인은 11일이다. 강수연은 지난 5일 오후 5시 40분께 서울 강남 자택에서 뇌출혈로 쓰러진 채 발견돼 병원으로 이송됐다. 수술 여부를]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2Fnewsen%2F20220507170957573rfys.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[강수연은 누구..4살에 데뷔한 반세기 영화인]]></title>
-            <link>https://movie.v.daum.net/v/20220507171504024</link>
-            <guid>https://movie.v.daum.net/v/20220507171504024</guid>
-            <pubDate>Sat, 07 May 2022 08:25:57 GMT</pubDate>
-            <content:encoded><![CDATA[1966년 서울에서 태어난 고인은 한국 나이 네 살 때 아역으로 데뷔한 뒤 배우이자 문화행정가로 활동하며 반세기 넘게 한국 영화와 함께했다.아역 시절 ‘똘똘이의 모험’(1971) 등에 출연하며 동양방송(TBC) 전속 배우로 연기했다. 이후 KBS 청소년 드라마 ‘고교생 일기’(1983) 등으로 하이틴 스타로 성장했다. 고교생 때부터 본격적으로 영화를 찍었다]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2Fkookje%2F20220507171506189iaki.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[조동혁·이완 주연 '피는 물보다 진하다' 25일 개봉]]></title>
@@ -104,28 +72,52 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F06%2Fsportskhan%2F20220506164400814fgvs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[속보] 강수연, 7일 별세]]></title>
+            <link>https://movie.v.daum.net/v/20220507162603521</link>
+            <guid>https://movie.v.daum.net/v/20220507162603521</guid>
+            <pubDate>Sat, 07 May 2022 08:25:57 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 배우 강수연이 7일 세상을 떠났다. 향년 56세. 7일 영화계에 따르면 고 강수연은 이날 오후 별세했다. 강수연은 지난 5일 오후 5시48분쯤 서울 강남구 압구정동 자택에서 통증을 호소하다가 가족 신고로 출동한 소방관에게 심정지 상태로 발견됐다. 이날 오전부터 두통을 호소했던 것으로 전해졌고 의식이 없는 상태에서 강남세브란스병원에서]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2Fsportskhan%2F20220507165544013nhnb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["심장 같았던.." 강수연 사망, 한지일·연상호·양익준 애끓는 추모[종합]]]></title>
+            <link>https://movie.v.daum.net/v/20220507185517448</link>
+            <guid>https://movie.v.daum.net/v/20220507185517448</guid>
+            <pubDate>Sat, 07 May 2022 11:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 원조 월드스타 강수연이 뇌출혈로 의식불명이 된 지 사흘 만에 결국 숨을 거뒀다. 향년 55세. 강수연은 5월 7일 오후 3시 영면에 들었다. 빈소는 삼성서울병원 장례식장에 차려지며, 조문은 8일부터 10일까지 가능하다. 발인은 11일이다. 지난 5일 오후 5시 40분께 서울 강남 자택에서 뇌출혈로 쓰러진 채 발견된 강수연은 병원으]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2Fnewsen%2F20220507185517792zmjk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[강수연은 누구..4살에 데뷔한 반세기 영화인]]></title>
+            <link>https://movie.v.daum.net/v/20220507171504024</link>
+            <guid>https://movie.v.daum.net/v/20220507171504024</guid>
+            <pubDate>Sat, 07 May 2022 08:25:57 GMT</pubDate>
+            <content:encoded><![CDATA[1966년 서울에서 태어난 고인은 한국 나이 네 살 때 아역으로 데뷔한 뒤 배우이자 문화행정가로 활동하며 반세기 넘게 한국 영화와 함께했다.아역 시절 ‘똘똘이의 모험’(1971) 등에 출연하며 동양방송(TBC) 전속 배우로 연기했다. 이후 KBS 청소년 드라마 ‘고교생 일기’(1983) 등으로 하이틴 스타로 성장했다. 고교생 때부터 본격적으로 영화를 찍었다]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2Fkookje%2F20220507171506189iaki.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[3보]강수연, 결국 하늘의 별로.."8일부터 조문 시작, 오늘은 가족끼리"]]></title>
+            <link>https://movie.v.daum.net/v/20220507170957969</link>
+            <guid>https://movie.v.daum.net/v/20220507170957969</guid>
+            <pubDate>Sat, 07 May 2022 08:25:57 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 영화배우 강수연이 의식불명 사흘 만에 결국 숨을 거뒀다. 향년 55세. 강수연이 5월 7일 오후 3시 숨을 거뒀다. 빈소는 삼성서울병원 장례식장에 차려지며, 조문은 8일부터 10일까지 가능하다. 발인은 11일이다. 강수연은 지난 5일 오후 5시 40분께 서울 강남 자택에서 뇌출혈로 쓰러진 채 발견돼 병원으로 이송됐다. 수술 여부를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2Fnewsen%2F20220507170957573rfys.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[고경표-임선우가 그리는 해학 '우라까이하루키' 공개]]></title>
+            <link>https://movie.v.daum.net/v/20220506144316717</link>
+            <guid>https://movie.v.daum.net/v/20220506144316717</guid>
+            <pubDate>Fri, 06 May 2022 08:26:08 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 단편 영화 제작기가 담긴 ‘우라까이하루키’가 시청자들을 찾았다. 티빙은 지난 5일 영화 감독들의 단편 영화 제작기를 담은 티빙 오리지널 ‘전체관람가+: 숏버스터’ 첫 에피소드 ‘우라까이 하루키’를 공개했다. ‘우라까이 하루키’에는 배우 임선우, 고경표, 강말금이 출연해 김초희 감독 코미디 감각을 오롯이 담아냈다. 독립영화가 사랑한 배우]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F06%2Fsportskhan%2F20220506144318296wpko.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[영화배우 강수연 별세..향년 56세]]></title>
             <link>https://movie.v.daum.net/v/20220507164923760</link>
             <guid>https://movie.v.daum.net/v/20220507164923760</guid>
             <pubDate>Sat, 07 May 2022 08:25:57 GMT</pubDate>
             <content:encoded><![CDATA[영화배우 강수연이 7일 오후 3시쯤 세상을 떠났다. 향년 56세. 강수연은 지난 5일 서울 강남구 압구정동 자택에서 뇌출혈 증세로 통증을 호소하다가 쓰러졌다. 119구급대는 심정지 상태인 강수연에게 심폐소생술을 시행하며 인근 병원으로 이송했다. 강수연은 사흘째 의식불명 상태로 치료를 받아왔다. 1966년 서울에서 태어난 고인은 한국 나이 네 살 때 아역으로]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2Fhankooki%2F20220507164926794urea.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[강수연 추모 물결, 한국 영화계 큰 별 지다 [종합]]]></title>
-            <link>https://movie.v.daum.net/v/20220507195233221</link>
-            <guid>https://movie.v.daum.net/v/20220507195233221</guid>
-            <pubDate>Sat, 07 May 2022 18:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴]  배우 강수연이 세상을 떠났다. 향년 55세. 강수연은 지난 5일 서울 강남구 압구정동 자택에서 뇌출혈 증세로 쓰러졌다. 신고를 받고 출동한 119구급대가 도착했을 무렵 강수연은 이미 심정지 상태였다. 급히 심폐소생술이 이루어졌고, 곧바로 인근 병원으로 이송됐다. 병원 이송 뒤에도 강수연을 살리려는 노력은 계속됐다. 강수연 측은 6일 공식입장]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2Fsportsdonga%2F20220507195234828kyzc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['할머니 여배우' 꿈 남기고..한국영화 세계무대로 이끈 故강수연]]></title>
-            <link>https://movie.v.daum.net/v/20220507174444481</link>
-            <guid>https://movie.v.daum.net/v/20220507174444481</guid>
-            <pubDate>Sat, 07 May 2022 09:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 강애란 기자 = 7일 오후 세상을 떠난 영화배우 강수연은 4살 때 아역배우로 시작해 '씨받이', '아제아제 바라아제'로 해외 영화제에서 상을 휩쓴 '원조 월드스타'다. 강수연이 생전 출연한 영화는 공식적으로 1975년 '핏줄'부터 최근 촬영을 마치고 후반작업 중인 넷플릭스 영화 '정이'까지 40여 편으로, 한국 영화사가 투영돼 있다. 강수]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2Fyonhap%2F20220507174444578fqml.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[부국제 측 "故 강수연 별세에 깊은 애도..노고 잊지 않을 것" [공식]]]></title>
@@ -136,12 +128,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2FNEWS1%2F20220507195544717hpze.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[고경표-임선우가 그리는 해학 '우라까이하루키' 공개]]></title>
-            <link>https://movie.v.daum.net/v/20220506144316717</link>
-            <guid>https://movie.v.daum.net/v/20220506144316717</guid>
-            <pubDate>Fri, 06 May 2022 08:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 단편 영화 제작기가 담긴 ‘우라까이하루키’가 시청자들을 찾았다. 티빙은 지난 5일 영화 감독들의 단편 영화 제작기를 담은 티빙 오리지널 ‘전체관람가+: 숏버스터’ 첫 에피소드 ‘우라까이 하루키’를 공개했다. ‘우라까이 하루키’에는 배우 임선우, 고경표, 강말금이 출연해 김초희 감독 코미디 감각을 오롯이 담아냈다. 독립영화가 사랑한 배우]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F06%2Fsportskhan%2F20220506144318296wpko.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['할머니 여배우' 꿈 남기고..한국영화 세계무대로 이끈 故강수연]]></title>
+            <link>https://movie.v.daum.net/v/20220507174444481</link>
+            <guid>https://movie.v.daum.net/v/20220507174444481</guid>
+            <pubDate>Sat, 07 May 2022 09:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 강애란 기자 = 7일 오후 세상을 떠난 영화배우 강수연은 4살 때 아역배우로 시작해 '씨받이', '아제아제 바라아제'로 해외 영화제에서 상을 휩쓴 '원조 월드스타'다. 강수연이 생전 출연한 영화는 공식적으로 1975년 '핏줄'부터 최근 촬영을 마치고 후반작업 중인 넷플릭스 영화 '정이'까지 40여 편으로, 한국 영화사가 투영돼 있다. 강수]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2Fyonhap%2F20220507174444578fqml.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[강수연 유작 '정이'..연상호 감독의 넷플릭스 SF 영화(종합)]]></title>
@@ -158,6 +150,14 @@
             <pubDate>Sat, 07 May 2022 19:19:58 GMT</pubDate>
             <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 봉태규와 문성근 등 배우들과 국회의원, 영상자료원 등 기관까지 각계각층이 갑작스럽게 세상을 떠난 배우 고(故) 강수연을 애도했다. 강수연은 7일 오후 3시 심정지 상태로 병원에 이송된지 3일만에 세상을 떠났다. 고인의 영화인장 장례위원회 측은 "아름다운 배우 강수연이 우리 곁을 떠나 삼가 알려드린다"며 이날 부고를 알렸]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2FNEWS1%2F20220507195536816vyvn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[강수연 추모 물결, 한국 영화계 큰 별 지다 [종합]]]></title>
+            <link>https://movie.v.daum.net/v/20220507195233221</link>
+            <guid>https://movie.v.daum.net/v/20220507195233221</guid>
+            <pubDate>Sat, 07 May 2022 18:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴]  배우 강수연이 세상을 떠났다. 향년 55세. 강수연은 지난 5일 서울 강남구 압구정동 자택에서 뇌출혈 증세로 쓰러졌다. 신고를 받고 출동한 119구급대가 도착했을 무렵 강수연은 이미 심정지 상태였다. 급히 심폐소생술이 이루어졌고, 곧바로 인근 병원으로 이송됐다. 병원 이송 뒤에도 강수연을 살리려는 노력은 계속됐다. 강수연 측은 6일 공식입장]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2Fsportsdonga%2F20220507195234828kyzc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["칸·베네치아도 강수연 안타까워할 것"..영화계 깊은 애도]]></title>
