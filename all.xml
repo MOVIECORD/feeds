@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 18:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 19:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강수연 조문 오늘부터…김동호·임권택 전날부터 빈소 찾아 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011169445</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011169445</guid>
+            <pubDate>Sat, 07 May 2022 19:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]이재훈 기자 = 배우 강수연(56)의 장례가 영화인장으로 치러진다. 조문은 8일 오전 10시부터 10일 오후 10시까지 받는다. 그러나 '첫 월드스타'의 사망 소식에 빈소에는 본격적인 조문이 시작되기]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[“명연기 평생 기억”…안철수, 故강수연 추모 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004960678</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[(전주=연합뉴스) 임채두 기자 = '독립 영화인의 축제' 제23회 전주국제영화제가 열흘 간의 여정을 마치고 7일 폐막했다. 폐막식은 이날 오후 7시 전주돔에서 열렸다. 폐막식 사회자로 선정된 배우 강길우, 이상희를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘원조 월드스타’ 강수연 유작 ‘정이’ 언제 볼 수 있나 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004960651</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004960651</guid>
-            <pubDate>Sat, 07 May 2022 11:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[“올해 라인업...공개 시기 미정” 영화배우 강수연(55)이 7일 별세했다. 기다렸던 고인의 모습은 그의 유작이 된 영화 ‘정이’(가제, 감독 연상호)을 통해서만 볼 수 있게 됐다. 고(故) 강수연은 지난해 연상호]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[닥터 스트레인지: 대혼돈의 멀티버스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=127221</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=127221</guid>
@@ -223,20 +223,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F144a58726e78372bc4b79a789058a8e443dc3e22" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[우연과 상상 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=148296</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=148296</guid>
-            <pubDate>Thu, 21 Apr 2022 05:39:05 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0b2f8065b9484a5be21bf332da7ea64235a755f0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[서울괴담 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150206</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150206</guid>
             <pubDate>Wed, 20 Apr 2022 01:54:23 GMT</pubDate>
             <content:encoded><![CDATA[22.04.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a99abb42cba19fe3e4580eef2d2ea5588792e0a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[우연과 상상 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148296</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148296</guid>
+            <pubDate>Thu, 21 Apr 2022 05:39:05 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0b2f8065b9484a5be21bf332da7ea64235a755f0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[수퍼 소닉2 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -255,6 +255,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F03a8bb6ad5808b31cdf0613f43d32feeb8f6c955" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[극장판 주술회전 0 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156790</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156790</guid>
+            <pubDate>Fri, 28 Jan 2022 11:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdec276db284e8c6d82f974cff11fa991ccd3f6b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[몬스터아카데미 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157466</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157466</guid>
@@ -269,14 +277,6 @@
             <pubDate>Thu, 14 Apr 2022 01:46:14 GMT</pubDate>
             <content:encoded><![CDATA[22.04.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe2733bbc22a93d16bace5658738322df204bbf01" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[극장판 주술회전 0 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156790</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156790</guid>
-            <pubDate>Fri, 28 Jan 2022 11:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdec276db284e8c6d82f974cff11fa991ccd3f6b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[세븐틴 파워 오브 러브 : 더 무비 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -542,6 +542,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F06%2FSBSfunE%2F20220506130904114xvut.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA["다 거실로 모입시다" 가족과 함께 봐도 문제없는 OTT 5선 [왓칭] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220506120132594</link>
+            <guid>https://movie.v.daum.net/v/20220506120132594</guid>
+            <pubDate>Fri, 06 May 2022 08:26:08 GMT</pubDate>
+            <content:encoded><![CDATA[혼자 보는 OTT도 좋지만, 가끔은 가족끼리 함께 볼 만한 콘텐츠도 필요한 법. 가정의 달을 맞아 거실에서 틀어도 무해한 콘텐츠들만 추려봤습니다. ①애덤 프로젝트 ②어쩌다 아스널 ③바람을 길들인 풍차소년 ④신비아파트 ⑤리틀 포레스트 ◇애덤 프로젝트 시간여행, 타임 슬립(time slip)을 소재로 한 영화는 잊을만하면 꼭 나온다. 어느 정도 흥행을 보장해]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F06%2Fchosun%2F20220506120134212bxkd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["돈이 없지 가오가 없냐"던 강수연, 후배에 힘 실어주고 하늘의 별이 되다[종합] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220507211313066</link>
+            <guid>https://movie.v.daum.net/v/20220507211313066</guid>
+            <pubDate>Sat, 07 May 2022 12:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘원조 월드스타’ 강수연이 7일 세상을 떠났다. 향년 56세. 강수연은 지난 5일 서울 강남구 압구정동 자택에서 뇌출혈 증세로 쓰러진 뒤 사흘째 의식불명 상태로 병원 치료를 받아오다 7일 오후 3시 눈을 감았다. 1966년 서울에서 태어난 고인은 네 살 때 아역으로 데뷔한 뒤 반세기 넘게 충무로 현장을 누비며 한국영화의 전]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2Fmydaily%2F20220507211314024khjq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA["심장 같았던.." 강수연 사망, 한지일·연상호·양익준 애끓는 추모[종합] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220507185517448</link>
             <guid>https://movie.v.daum.net/v/20220507185517448</guid>
@@ -558,20 +574,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2Fnewsen%2F20220507170957573rfys.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["다 거실로 모입시다" 가족과 함께 봐도 문제없는 OTT 5선 [왓칭] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220506120132594</link>
-            <guid>https://movie.v.daum.net/v/20220506120132594</guid>
-            <pubDate>Fri, 06 May 2022 08:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[혼자 보는 OTT도 좋지만, 가끔은 가족끼리 함께 볼 만한 콘텐츠도 필요한 법. 가정의 달을 맞아 거실에서 틀어도 무해한 콘텐츠들만 추려봤습니다. ①애덤 프로젝트 ②어쩌다 아스널 ③바람을 길들인 풍차소년 ④신비아파트 ⑤리틀 포레스트 ◇애덤 프로젝트 시간여행, 타임 슬립(time slip)을 소재로 한 영화는 잊을만하면 꼭 나온다. 어느 정도 흥행을 보장해]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F06%2Fchosun%2F20220506120134212bxkd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[강수연은 누구..4살에 데뷔한 반세기 영화인 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220507171504024</link>
             <guid>https://movie.v.daum.net/v/20220507171504024</guid>
             <pubDate>Sat, 07 May 2022 08:25:57 GMT</pubDate>
             <content:encoded><![CDATA[1966년 서울에서 태어난 고인은 한국 나이 네 살 때 아역으로 데뷔한 뒤 배우이자 문화행정가로 활동하며 반세기 넘게 한국 영화와 함께했다.아역 시절 ‘똘똘이의 모험’(1971) 등에 출연하며 동양방송(TBC) 전속 배우로 연기했다. 이후 KBS 청소년 드라마 ‘고교생 일기’(1983) 등으로 하이틴 스타로 성장했다. 고교생 때부터 본격적으로 영화를 찍었다]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2Fkookje%2F20220507171506189iaki.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["임권택 감독, 충격에 할 말 잊어"..강수연 빈소 추모 발길 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220507221450716</link>
+            <guid>https://movie.v.daum.net/v/20220507221450716</guid>
+            <pubDate>Sat, 07 May 2022 14:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 김정진 기자 = 7일 별세한 배우 강수연의 빈소가 마련되는 서울 강남구 삼성서울병원 장례식장에는 조문이 시작되기도 전부터 영화계 인사들의 추모 발길이 이어졌다. 빈소는 이 병원 장례식장 지하 2층 17호에 차려지며 조문은 8일 오전 10시부터 받는다. 한국 영화를 세계 무대로 이끈 '원조 월드스타'라는 평가를 받는 등 국내 영화계에서 고]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2Fyonhap%2F20220507221451024qiej.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[영화배우 강수연 별세..향년 56세 (다음영화 뉴스 ─ 인기)]]></title>
@@ -590,30 +606,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F06%2Fsportskhan%2F20220506164400814fgvs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["돈이 없지 가오가 없냐"던 강수연, 후배에 힘 실어주고 하늘의 별이 되다[종합] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220507211313066</link>
-            <guid>https://movie.v.daum.net/v/20220507211313066</guid>
-            <pubDate>Sat, 07 May 2022 12:33:50 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘원조 월드스타’ 강수연이 7일 세상을 떠났다. 향년 56세. 강수연은 지난 5일 서울 강남구 압구정동 자택에서 뇌출혈 증세로 쓰러진 뒤 사흘째 의식불명 상태로 병원 치료를 받아오다 7일 오후 3시 눈을 감았다. 1966년 서울에서 태어난 고인은 네 살 때 아역으로 데뷔한 뒤 반세기 넘게 충무로 현장을 누비며 한국영화의 전]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2Fmydaily%2F20220507211314024khjq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["임권택 감독, 충격에 할 말 잊어"..강수연 빈소 추모 발길 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220507221450716</link>
-            <guid>https://movie.v.daum.net/v/20220507221450716</guid>
-            <pubDate>Sat, 07 May 2022 14:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 김정진 기자 = 7일 별세한 배우 강수연의 빈소가 마련되는 서울 강남구 삼성서울병원 장례식장에는 조문이 시작되기도 전부터 영화계 인사들의 추모 발길이 이어졌다. 빈소는 이 병원 장례식장 지하 2층 17호에 차려지며 조문은 8일 오전 10시부터 받는다. 한국 영화를 세계 무대로 이끈 '원조 월드스타'라는 평가를 받는 등 국내 영화계에서 고]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2Fyonhap%2F20220507221451024qiej.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['할머니 여배우' 꿈 남기고..한국영화 세계무대로 이끈 故강수연 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220507174444481</link>
-            <guid>https://movie.v.daum.net/v/20220507174444481</guid>
-            <pubDate>Sat, 07 May 2022 09:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 강애란 기자 = 7일 오후 세상을 떠난 영화배우 강수연은 4살 때 아역배우로 시작해 '씨받이', '아제아제 바라아제'로 해외 영화제에서 상을 휩쓴 '원조 월드스타'다. 강수연이 생전 출연한 영화는 공식적으로 1975년 '핏줄'부터 최근 촬영을 마치고 후반작업 중인 넷플릭스 영화 '정이'까지 40여 편으로, 한국 영화사가 투영돼 있다. 강수]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2Fyonhap%2F20220507174444578fqml.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[강수연 추모 물결, 한국 영화계 큰 별 지다 [종합] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220507195233221</link>
             <guid>https://movie.v.daum.net/v/20220507195233221</guid>
@@ -628,6 +620,14 @@
             <pubDate>Sat, 07 May 2022 16:27:47 GMT</pubDate>
             <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 강수연의 별세 소식에 부산국제영화제 측이 애도의 입장을 밝혔다. 강수연은 7일 오후 3시 심정지 상태로 병원에 이송된지 사흘 만에 세상을 떠났다. 강수연의 영화인장 장례위원회 측은 "아름다운 배우 강수연이 우리 곁을 떠나 삼가 알려드린다"고 이날 부고를 알렸다. 장례위원회에 따르면 빈소는 삼성서울병원 장례식장에 마]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2FNEWS1%2F20220507195544717hpze.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['할머니 여배우' 꿈 남기고..한국영화 세계무대로 이끈 故강수연 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220507174444481</link>
+            <guid>https://movie.v.daum.net/v/20220507174444481</guid>
+            <pubDate>Sat, 07 May 2022 09:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 강애란 기자 = 7일 오후 세상을 떠난 영화배우 강수연은 4살 때 아역배우로 시작해 '씨받이', '아제아제 바라아제'로 해외 영화제에서 상을 휩쓴 '원조 월드스타'다. 강수연이 생전 출연한 영화는 공식적으로 1975년 '핏줄'부터 최근 촬영을 마치고 후반작업 중인 넷플릭스 영화 '정이'까지 40여 편으로, 한국 영화사가 투영돼 있다. 강수]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2Fyonhap%2F20220507174444578fqml.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[고경표-임선우가 그리는 해학 '우라까이하루키' 공개 (다음영화 뉴스 ─ 인기)]]></title>
@@ -646,20 +646,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2Fsportskhan%2F20220507170453409sjgv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['당나귀귀' 장윤정, 하루 숙박비 330만원 초럭셔리 스위트룸 공개 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220507164534729</link>
-            <guid>https://movie.v.daum.net/v/20220507164534729</guid>
-            <pubDate>Sat, 07 May 2022 08:25:57 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박판석 기자]&nbsp;오는 8일 오후 방송되는 KBS 2TV 예능 ‘사장님 귀는 당나귀 귀’(이하 ‘당나귀 귀’)에서는 장윤정도 처음 본다는 콘서트 무대 비하인드 영상이 최초로 공개된다. 공연을 앞두고 컨디션 조절을 위해 하루 전날 내려간 장윤정은 하루 숙박비 330만 원의 럭셔리 스위트룸과 드라마 속 회장님의 회의실을 방불케 하는 넓은 대기실로 출]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2Fpoctan%2F20220507164535929bjsg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA["칸·베네치아도 강수연 안타까워할 것"..영화계 깊은 애도 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220507191820751</link>
             <guid>https://movie.v.daum.net/v/20220507191820751</guid>
             <pubDate>Sat, 07 May 2022 18:23:50 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 김정진 김계연 기자 = 배우 강수연이 7일 오후 55세를 일기로 세상을 떠났다는 소식이 전해지자 영화계에서 추모가 이어지고 있다. 1985년 영화 '고래 사냥 2'를 연출하며 강수연과 함께했던 배창호(69) 감독은 이날 연합뉴스와 한 통화에서 "너무 안타깝다"며 애도를 표했다. 배 감독은 "아역 배우 때부터 연기를 잘하는 걸 알고 있었기에]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2Fyonhap%2F20220507191820914ferh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[봉태규→임오경 의원, 각계각층 故 강수연 애도 "황망해..영원히 기억"(종합) (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220507195535259</link>
+            <guid>https://movie.v.daum.net/v/20220507195535259</guid>
+            <pubDate>Sat, 07 May 2022 19:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 봉태규와 문성근 등 배우들과 국회의원, 영상자료원 등 기관까지 각계각층이 갑작스럽게 세상을 떠난 배우 고(故) 강수연을 애도했다. 강수연은 7일 오후 3시 심정지 상태로 병원에 이송된지 3일만에 세상을 떠났다. 고인의 영화인장 장례위원회 측은 "아름다운 배우 강수연이 우리 곁을 떠나 삼가 알려드린다"며 이날 부고를 알렸]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F07%2FNEWS1%2F20220507195536816vyvn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<범죄도시2> 강력반 컴백 예고편 (우리 영화 볼래?)]]></title>
