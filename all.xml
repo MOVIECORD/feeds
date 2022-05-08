@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 18:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 19:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -311,6 +311,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6a240fb5c1f9953a27f08c07160b1e0f8d91a2ff" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[소설가의 영화 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157399</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157399</guid>
+            <pubDate>Sun, 08 May 2022 19:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F18164fd5a0cf491a40d317e9e026abf948e7b503" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 킹키부츠 라이브 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=140085</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=140085</guid>
@@ -333,14 +341,6 @@
             <pubDate>Fri, 08 Apr 2022 11:17:32 GMT</pubDate>
             <content:encoded><![CDATA[22.04.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9b93b731530a106c46fd6d356bfe9c68a3131f57" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[중경삼림 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=17033</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=17033</guid>
-            <pubDate>Fri, 06 May 2022 03:08:04 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb491e00f195f70fe69364c79cd1ef40224b19608" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[범죄도시2 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -534,14 +534,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F08%2Fpoctan%2F20220508235029599zjrb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[종합] 故강수연 비보에 달려온 임권택X연상호X문소리, 오늘(8일)부터 조문→11일 영결식 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220508110148564</link>
-            <guid>https://movie.v.daum.net/v/20220508110148564</guid>
-            <pubDate>Sun, 08 May 2022 03:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 배우 강수연의 비보를 접하고 영화계가 슬픔에 빠진 가운데 고인의 동료들이 빈소를 찾아 비통한 마음을 전했다. 강수연은 지난 7일 오후 3시 서울 강남의 한 병원에서 세상을 떠났다. 앞서 고인은 지난 5일 자택에서 뇌출혈로 인한 심정지로 쓰러져 병원에 이송됐고 이후 중환자실로 옮겨졌지만 끝내 의식을 찾지 못했다. 강수]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F08%2FSpoChosun%2F20220508110148591ptef.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[故 강수연 빈소, 임권택·연상호·문소리 늦은 밤까지..엄앵란·안성기·전도연 추모 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220508102053950</link>
             <guid>https://movie.v.daum.net/v/20220508102053950</guid>
@@ -550,12 +542,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F08%2Fstarnews%2F20220508102055954somc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["할머니 여배우가 꿈"..못다 이룬 바람 남기고 떠난 여걸 [강수연 별세③] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220508115019407</link>
-            <guid>https://movie.v.daum.net/v/20220508115019407</guid>
+            <title><![CDATA[[종합] 故강수연 비보에 달려온 임권택X연상호X문소리, 오늘(8일)부터 조문→11일 영결식 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220508110148564</link>
+            <guid>https://movie.v.daum.net/v/20220508110148564</guid>
             <pubDate>Sun, 08 May 2022 03:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 故강수연과 함께 해 온 영화계 동료, 선·후배들은 그를 호탕한 '여걸'로 표현하곤 했다.&nbsp; 4세 어린 나이에 데뷔해 50여 년을 배우라는 이름으로 살아오며 '월드스타'라는 수식어가 가장 잘 어울리는 한국 영화계의 상징적인 인물로 자리매김해 온 고인은 현장에서 살뜰하게 동료들을 잘 챙기는 것으로 널리 알려졌다. 작품 안에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F08%2Fxportsnews%2F20220508115021205wvnj.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 배우 강수연의 비보를 접하고 영화계가 슬픔에 빠진 가운데 고인의 동료들이 빈소를 찾아 비통한 마음을 전했다. 강수연은 지난 7일 오후 3시 서울 강남의 한 병원에서 세상을 떠났다. 앞서 고인은 지난 5일 자택에서 뇌출혈로 인한 심정지로 쓰러져 병원에 이송됐고 이후 중환자실로 옮겨졌지만 끝내 의식을 찾지 못했다. 강수]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F08%2FSpoChosun%2F20220508110148591ptef.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["영화제 안방마님" 먼저 떠난 김지석이 기억하는 강수연 (다음영화 뉴스 ─ 인기)]]></title>
@@ -564,6 +556,14 @@
             <pubDate>Sun, 08 May 2022 03:16:32 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 김계연 기자 = "한국의 영화배우 중 부산영화제와 가장 인연이 깊은 사람은 역시 안성기, 강수연 씨다. 두 분 다 1회부터 거의 빠짐없이 매년 부산영화제를 찾았고, 영화제 기간 내내 호스트 역할도 마다하지 않는다. (중략) 강수연 씨는 부산영화제 집행위원이기도 하며, 안방마님 역할을 톡톡히 해내고 있다." 김지석(1960∼2017) 전 부]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F08%2Fyonhap%2F20220508090127582gges.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["할머니 여배우가 꿈"..못다 이룬 바람 남기고 떠난 여걸 [강수연 별세③] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220508115019407</link>
+            <guid>https://movie.v.daum.net/v/20220508115019407</guid>
+            <pubDate>Sun, 08 May 2022 03:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 故강수연과 함께 해 온 영화계 동료, 선·후배들은 그를 호탕한 '여걸'로 표현하곤 했다.&nbsp; 4세 어린 나이에 데뷔해 50여 년을 배우라는 이름으로 살아오며 '월드스타'라는 수식어가 가장 잘 어울리는 한국 영화계의 상징적인 인물로 자리매김해 온 고인은 현장에서 살뜰하게 동료들을 잘 챙기는 것으로 널리 알려졌다. 작품 안에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F08%2Fxportsnews%2F20220508115021205wvnj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[김동호 위원장 "고 강수연, 딸이자 누이동생, 친구였다" (다음영화 뉴스 ─ 인기)]]></title>
@@ -630,6 +630,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F08%2Fstartoday%2F20220508190004890tkxe.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['씨받이'로 한국 첫 베니스 여우주연상..작품 위해 삭발 투혼도 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220509030136153</link>
+            <guid>https://movie.v.daum.net/v/20220509030136153</guid>
+            <pubDate>Sun, 08 May 2022 19:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[- 4살 때 동양방송 아역으로 데뷔 - ‘아제 아제…’ 등 40편 영화 출연 - 대종상 등 국내외 10개 주연상 배우 강수연은 1966년 서울에서 태어났다. 한국 나이로 네 살 때 아역으로 데뷔한 뒤 평생을 영화계에 몸담아 왔다. 강수연은 네 살 때 동양방송 전속 아역으로 데뷔한 후 1976년 개봉한 이혁수 감독의 ‘핏줄’로 스크린에 첫선을 보였다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F09%2Fkookje%2F20220509030138211ctxi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[도청도설] 월드스타 강수연 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220509030332247</link>
+            <guid>https://movie.v.daum.net/v/20220509030332247</guid>
+            <pubDate>Sun, 08 May 2022 18:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[지난 7일 세상을 떠난 영화배우 강수연은 ‘월드스타’라는 말이 항상 먼저 언급된다. 한국영화계의 ‘원조 월드스타’라는 수식어를 붙여도 모자람이 없다. 생전 그의 활동상을 되짚어본다면 어느 누구도 부인하지 못할 사실이다. 반세기를 넘긴 배우인생의 축적된 연기력은 탁월했다. 강수연은 4세 때 길거리 캐스팅으로 배우생활을 시작했다. 작은 얼굴에 올망졸망한 이목]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F09%2Fkookje%2F20220509030333541ozcc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA["지갑 털어 제작비 지원했던 분인데".. 강수연에 대한 추억들 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220508141839862</link>
             <guid>https://movie.v.daum.net/v/20220508141839862</guid>
@@ -644,22 +660,6 @@
             <pubDate>Sun, 08 May 2022 14:19:42 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠서울 | 황혜정기자] 배우 고(故)강수연의 영결식이 유튜브로 생중계된다. 8일, 강수연 영화인장 장례위원회는 오는 11일 오전 10시 서울 강남구 삼성서울병원 장례식장에서 영결식을 치르며 영화진흥위원회 공식 유튜브 채널을 통해 생중계할 예정이라고 밝혔다. 장례위원회는 유족의 의사를 참고하여 이같이 결정했다고 밝혔다. 장례위원회는 김동호]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F08%2FSPORTSSEOUL%2F20220508165748670gqde.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['원조 월드스타', 韓 영화 세계에 알린 50년 배우의 삶 [강수연 별세②] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220508115010404</link>
-            <guid>https://movie.v.daum.net/v/20220508115010404</guid>
-            <pubDate>Sun, 08 May 2022 18:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 故강수연은 4세 나이에 아역으로 활동을 시작해 '씨받이', '아제 아제 바라아제'로 해외 영화제를 휩쓸며 한국 최초 '월드스타'의 수식어를 얻은 배우다. 1966년생인 고인은 4세이던 1969년, 동양방송(TBC) 전속 아역 배우로 활동을 시작했다. 1983년 드라마 '고교생 일기'를 통해 일약 하이틴 스타로 떠오른 뒤, 고]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F08%2Fxportsnews%2F20220508115013019xptd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[도청도설] 월드스타 강수연 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220509030332247</link>
-            <guid>https://movie.v.daum.net/v/20220509030332247</guid>
-            <pubDate>Sun, 08 May 2022 18:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[지난 7일 세상을 떠난 영화배우 강수연은 ‘월드스타’라는 말이 항상 먼저 언급된다. 한국영화계의 ‘원조 월드스타’라는 수식어를 붙여도 모자람이 없다. 생전 그의 활동상을 되짚어본다면 어느 누구도 부인하지 못할 사실이다. 반세기를 넘긴 배우인생의 축적된 연기력은 탁월했다. 강수연은 4세 때 길거리 캐스팅으로 배우생활을 시작했다. 작은 얼굴에 올망졸망한 이목]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F09%2Fkookje%2F20220509030333541ozcc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[도청도설] 월드스타 강수연 (다음영화 뉴스 ─ 최신)]]></title>
