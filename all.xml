@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 19:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 21:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['닥터 스트레인지 2', 개봉 첫 주말 북미서 역대 11위 흥행성적 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013164023</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013164023</guid>
+            <pubDate>Sun, 08 May 2022 21:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[박스오피스 수입 2천350억원…올해 개봉작으로는 흥행 1위 (샌프란시스코=연합뉴스) 정성호 특파원 = 마블 히어로 영화의 새로운 출발점이 될 '닥터 스트레인지: 대혼돈의 멀티버스'(이하 닥터 스트레인지 2)가 북미에]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[세살에 데뷔, 스무한살에 베니스 여왕…그가 곧 한국영화였다 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005210444</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[“시어머니든 시할머니든 내 나이에 맞는 역할을 하고 싶습니다. 나이에 맞는 역할을 하며 나이가 들고 싶어요.”(2015년 한국일보와의 인터뷰) ‘월드 스타’의 소박한 꿈은 이뤄지지 않았다. 시어머니도, 시할머니도,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["강수연, 33년간 딸·누이동생·친구였다" 김동호, 비통한 심경 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006077913</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006077913</guid>
-            <pubDate>Sun, 08 May 2022 08:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 배우 강수연이 향년 56세로 세상을 떠난 가운데, 김동호 전 부산국제영화제 이사장이자 현 강릉국제영화제 이사장이 고인을 추억했다. 강수연 장례식의 장례위원장을 맡은 김동호 이사장은 8]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[닥터 스트레인지: 대혼돈의 멀티버스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=127221</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=127221</guid>
@@ -239,14 +239,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe2733bbc22a93d16bace5658738322df204bbf01" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[앵커 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=135501</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=135501</guid>
-            <pubDate>Mon, 04 Apr 2022 08:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a0d146d59b32103a7ce4a83f53e3fe59f7efdbe" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[서울괴담 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150206</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150206</guid>
@@ -277,6 +269,14 @@
             <pubDate>Tue, 19 Apr 2022 11:17:57 GMT</pubDate>
             <content:encoded><![CDATA[22.04.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5b45c8e553f8bc202b6f196b7d9f6d1d246a3cf8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[앵커 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135501</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135501</guid>
+            <pubDate>Mon, 04 Apr 2022 08:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a0d146d59b32103a7ce4a83f53e3fe59f7efdbe" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[부기나이트 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -579,7 +579,7 @@
             <guid>https://movie.v.daum.net/v/20220508193345065</guid>
             <pubDate>Sun, 08 May 2022 11:17:30 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 강애란 김정진 기자 = "내가 먼저 죽어야 하는데 나보다 훨씬 어린 사람이 먼저 가니까…. 좀 더 살면서 활동도 할 수 있는 나이인데 아깝죠." 고(故) 배우 강수연 별세 이틀째인 8일 오전 11시 33분께 고인을 '월드 스타'로 만든 영화 '씨받이'(1986)의 임권택 감독은 굳은 표정으로 배우자 채령 씨의 부축을 받으며 서울 강남구 삼]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F08%2Fyonhap%2F20220508193345118wraa.jpg" length="0" type="image//thumb/S384x240/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F09%2Fyonhap%2F20220509060809304wpvr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["어려운 일 힘든 내색 없어"..영화계가 지켜본 55년 강수연의 삶 (다음영화 뉴스 ─ 인기)]]></title>
