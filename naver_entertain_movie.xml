@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-05-10T18:27:07.214Z</updated>
+    <updated>2022-05-10T19:19:20.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[할리우드서 만든 K호러 ‘UMMA’ 11일 개봉]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001525071</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001525071"/>
+        <updated>2022-05-10T19:17:40.096Z</updated>
+        <content type="html"><![CDATA[한국적인 정서 ‘한’(恨)을 강압적인 모녀 관계에 접목했다. 어긋난 모성으로 인해 트라우마를 갖게 된 아만다는 죽은 엄마의 환영과 환청에 시달린다. 딸 크리스(피벨 스튜어트)는 한국에서 숨진 외할머니의 유골이 도착한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[특별기고] ‘국민 언니’의 원조 강수연 배우를 떠나보내며]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000009245</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001446601"/>
         <updated>2022-05-10T10:22:52.417Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '쥬라기 월드: 도미니언'(감독 콜린 트레보로우)가 '쥬라기' 시리즈의 압도적 피날레를 함께한 배우들과 콜린 트레보로우 감독의 소감을 담은 시리즈 레거시 영상을 공개했다. '쥬라기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["13년 만에 왔다"…'아바타2' 올 12월 극장 컴백, 압도적 비주얼]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004611263</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004611263"/>
-        <updated>2022-05-10T10:22:52.417Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '아바타: 물의 길'이 티저 포스터와 예고편을 공개하며 베일을 벗었다. 2009년 혁신적인 기술력으로 신드롬을 일으키며 월드와이드 역대 흥행 순위 1위를 기록한 이래 13년째 그 기록을]]></content>
     </entry>
 </feed>
