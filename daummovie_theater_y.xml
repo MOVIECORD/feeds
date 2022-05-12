@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 03:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 04:35:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -149,7 +149,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=114296</guid>
             <pubDate>Thu, 12 May 2022 01:52:09 GMT</pubDate>
             <content:encoded><![CDATA[22.05.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F235ab66b0ac36591e64d908802b4c96dea42cd57" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6fd067a0ec8d30c839575de204697ad345e38a7a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[데드캠핑 더라이브]]></title>
