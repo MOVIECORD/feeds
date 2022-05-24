@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-05-24T13:39:12.600Z</updated>
+    <updated>2022-05-24T14:20:38.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Oh!칸 현장] 박해일 "박찬욱 월드, 내가 잘 섞일 수 있을지 궁금했다"('헤어질 결심')]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004621744</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004621744"/>
+        <updated>2022-05-24T14:19:17.004Z</updated>
+        <content type="html"><![CDATA[[OSEN=칸(프랑스), 김보라 기자] 배우 박해일이 “박찬욱 월드 안에서 나라는 배우가 잘 섞일 수 있을지 궁금했다”라고 말했다. 박해일은 24일 오후(현지 시간) 프랑스 칸 르 마제스틱에서 열린 영화 ‘헤어질 결]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["박찬욱 감독 사랑해" 탕웨이 삶마저 변화시킨 '헤어질 결심', 정사·폭력 無 색다른 '어른 멜로' [여기는 칸](종합)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003607185</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003607185"/>
+        <updated>2022-05-24T14:19:17.005Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 칸(프랑스) 김나라 기자] 박찬욱 감독이 신작 '헤어질 결심'으로 색다른 어른 멜로 스릴러를 펼쳤다. 24일 오전(이하 현지시각), 프랑스 칸 팔레 드 페스티발의 프레스 컨퍼런스 룸에선 제75회 칸]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[칸 국제영화제 찾은 탕웨이·박해일]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006114802</id>
@@ -164,20 +178,6 @@
         <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006114780</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006114780"/>
         <updated>2022-05-24T13:37:20.925Z</updated>
-        <content type="html"><![CDATA[(칸=뉴스1) 이준성 프리랜서기자 = 영화감독 박찬욱이 22일 오후(현지시간) 제75회 칸 국제영화제가 열리고 있는 프랑스 남부 칸 ‘팔레 데 페스티벌’(Palais des Festivals) 영화진흥위원회(KOFI]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청록색 원피스 입은 탕웨이]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006114779</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006114779"/>
-        <updated>2022-05-24T13:37:20.926Z</updated>
-        <content type="html"><![CDATA[(칸=뉴스1) 이준성 프리랜서기자 = 배우 탕웨이가 22일 오후(현지시간) 제75회 칸 국제영화제가 열리고 있는 프랑스 남부 칸 ‘팔레 데 페스티벌’(Palais des Festivals) 영화진흥위원회(KOFIC)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['헤어질 결심' 박찬욱 감독]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006114778</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006114778"/>
-        <updated>2022-05-24T13:37:20.940Z</updated>
         <content type="html"><![CDATA[(칸=뉴스1) 이준성 프리랜서기자 = 영화감독 박찬욱이 22일 오후(현지시간) 제75회 칸 국제영화제가 열리고 있는 프랑스 남부 칸 ‘팔레 데 페스티벌’(Palais des Festivals) 영화진흥위원회(KOFI]]></content>
     </entry>
 </feed>
