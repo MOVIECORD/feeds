@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-05-26T13:37:24.673Z</updated>
+    <updated>2022-05-26T14:16:50.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[영상] 단언컨대 칸에서 가장 핫한 영화는 '엘비스'…뜨거운 현장 반응]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006120547</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006120547"/>
+        <updated>2022-05-26T14:15:20.009Z</updated>
+        <content type="html"><![CDATA[(칸=뉴스1) 문영광 기자 = 엘비스 프레슬리의 전기를 다룬 영화 '엘비스'가 칸 국제영화제에서 첫선을 보였다. '엘비스'는 영화팬들의 많은 사랑을 받은 '로미오와 줄리엣', '물랑 루즈', '위대한 개츠비' 등을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘민주화 운동’ 참여한 장선우 감독, 42년 만에 ‘죄가 안됨’ 처분]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000815711</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006120478"/>
         <updated>2022-05-26T13:34:38.551Z</updated>
         <content type="html"><![CDATA[(칸=뉴스1) 이준성 프리랜서기자 = 배우 프리실라 프레슬리・오스틴 버틀러가 26일(현지시간) 제 75회 칸 국제영화제가 열리고 있는 프랑스 남부 칸 ‘팔레 데 페스티벌’(Palais des Festiv]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[취재진을 영상촬영하는 바즈 루어만]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006120476</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006120476"/>
-        <updated>2022-05-26T13:34:38.552Z</updated>
-        <content type="html"><![CDATA[(칸=뉴스1) 이준성 프리랜서기자 = 감독 바즈 루어만이 26일(현지시간) 제 75회 칸 국제영화제가 열리고 있는 프랑스 남부 칸 ‘팔레 데 페스티벌’(Palais des Festival)에서 비경쟁 부문에 공식 초]]></content>
     </entry>
 </feed>
