@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-05-26T15:21:21.856Z</updated>
+    <updated>2022-05-26T16:25:16.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스필버그가 다녀갔나?…브라질서 'ET' 닮은 바위 인기]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013208052</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013208052"/>
+        <updated>2022-05-26T16:23:45.867Z</updated>
+        <content type="html"><![CDATA[(상파울루=연합뉴스) 김재순 특파원 = 브라질에서 영화 'ET'의 주인공 외계인을 닮은 바위가 관광객들로부터 큰 인기를 얻고 있다고 인터넷 매체 G1이 26일(현지시간) 보도했다. 이 바위는 북부 호라이마주의 주도(]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영국 검찰, 케빈 스페이시 남성 3명 상대 성폭력 혐의로 기소]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013208048</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006120481"/>
         <updated>2022-05-26T13:34:38.517Z</updated>
         <content type="html"><![CDATA[(칸=뉴스1) 이준성 프리랜서기자 = 배우 톰 행크스가 26일(현지시간) 제 75회 칸 국제영화제가 열리고 있는 프랑스 남부 칸 ‘팔레 데 페스티벌’(Palais des Festival)에서 비경쟁 부문에 공식 초청]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 '엘비스' 포토콜 행사]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006120479</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006120479"/>
-        <updated>2022-05-26T13:34:38.531Z</updated>
-        <content type="html"><![CDATA[(칸=뉴스1) 이준성 프리랜서기자 = 배우 올리비아 데종・오스틴 버틀러・톰 행크스가 26일(현지시간) 제 75회 칸 국제영화제가 열리고 있는 프랑스 남부 칸 ‘팔레 데 페스티벌’(Palais]]></content>
     </entry>
 </feed>
