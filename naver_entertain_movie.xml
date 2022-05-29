@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-05-29T18:21:49.684Z</updated>
+    <updated>2022-05-29T19:17:14.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫 남우주연상에 첫 2관왕… K-무비, 세계무대 중심에 서다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001529517</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001529517"/>
+        <updated>2022-05-29T19:15:51.657Z</updated>
+        <content type="html"><![CDATA[송강호가 영화 ‘브로커’로 칸 국제영화제에서 남우주연상을 받았다. 한국배우로는 최초이고 아시아 배우로는 세 번째다. 박찬욱 감독은 ‘헤어질 결심’으로 감독상을 받아 한국영화 두 편이 칸영화제 경쟁부문에서 동시 수상하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부산 로케 작품들 칸 점령…글로벌 영화도시에 한발짝 더]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000010826</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000871347"/>
         <updated>2022-05-29T11:13:53.034Z</updated>
         <content type="html"><![CDATA[‘범죄도시2’가 올해 최초로 600만 관객을 돌파한 작품이 되었다. 영화 ‘범죄도시2’가 영진위 통합전산망 5월 29일 오전 9시 기준, 개봉 12일째 600만 관객을 돌파했다. ‘스파이더맨: 노 웨이 홈’의 개봉]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진] 칸 점령한 K무비…박찬욱 '감독상'·송강호 첫 '남우주연상']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004059366</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004059366"/>
-        <updated>2022-05-29T09:15:31.894Z</updated>
-        <content type="html"><![CDATA[[서울경제] 박찬욱(위 사진) 감독과 배우 송강호(아래 사진)가 28일(현지 시간) 폐막한 제75회 칸영화제 시상식에서 각각 감독상과 남우주연상을 수상한 후 기념 촬영을 하고 있다. 박 감독은 영화 ‘헤어질 결심’으]]></content>
     </entry>
 </feed>
