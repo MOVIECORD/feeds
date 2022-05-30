@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-05-30T19:14:49.694Z</updated>
+    <updated>2022-05-30T20:19:11.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[SC초점] '닥스2'→'범죄도시2'→칸 수상작들…극장 부활, 6월에 사활 걸었다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003875136</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003875136"/>
+        <updated>2022-05-30T20:17:35.287Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 고재완 기자] 적막 같던 극장가에 한줄기 빛이 드리우고 있다. 펜데믹이 엔데믹으로 바뀌고 있는 상황 속에서, 실내에선 여전히 마스크가 당연시되고 있지만 극장을 찾는 관객들의 발길이 늘고 있다. 관객의 마]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잊지 못할 칸의 추억…'브로커'팀의 영화제 비하인드 사진]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000283809</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002355100"/>
         <updated>2022-05-30T11:14:39.619Z</updated>
         <content type="html"><![CDATA[[오마이 칸] 제75회 칸영화제 결산..."0 하나 붙어도 거래"... 제도·시스템 정비 과제 ▲ 28일(현지시간) 프랑스 칸에서 열린 제75회 칸국제영화제에서 '헤어질 결심'으로 감독상을 받은 박찬욱 감독(왼쪽)과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송강호·박찬욱, 칸 트로피 안고 금의환향…"성원 감사"(종합) [N현장]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006128353</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006128353"/>
-        <updated>2022-05-30T11:14:39.619Z</updated>
-        <content type="html"><![CDATA[(인천공항=뉴스1) 고승아 기자 = 영화 '브로커'로 제75회 칸 국제영화제(칸 영화제)에서 한국 배우 최초로 남우주연상을 받은 송강호와 '헤어질 결심'으로 감독상을 받은 박찬욱 감독이 금의환향했다. 30일 오후 2]]></content>
     </entry>
 </feed>
