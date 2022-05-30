@@ -4,9 +4,17 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 23:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 01:23:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['안녕하세요' 셀럽 추천 영상]]></title>
+            <link>https://tv.naver.com/v/27054821</link>
+            <guid>https://tv.naver.com/v/27054821</guid>
+            <pubDate>Mon, 30 May 2022 01:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[31분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220530_234/pwvMW_1653871847448bkdTC_JPEG/51efb836-dfb2-11ec-8863-48df379cc9e4_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['탑건: 매버릭' GAGA 리뷰 15초]]></title>
             <link>https://tv.naver.com/v/27020895</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 24 May 2022 09:18:12 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220524_244/v54EU_1653382152942iRYOH_JPEG/3df31a6b-db3e-11ec-9bb9-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['홀덤킹 : 에어라인' 예고편]]></title>
-            <link>https://tv.naver.com/v/26956616</link>
-            <guid>https://tv.naver.com/v/26956616</guid>
-            <pubDate>Tue, 24 May 2022 09:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220524_20/uwhfk_1653381926412gkjDJ_JPEG/c1c2f4cc-db3d-11ec-90b2-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
