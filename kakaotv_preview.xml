@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 23:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 01:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<뉴 프렌드: 누군가 죽는다> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/429198244?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/429198244?act=clip</guid>
+            <pubDate>Tue, 31 May 2022 01:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:55]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frveslmpdi1nsagfvmedkbvyor%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33210867300%26signature%3DCpQCpy4FKwn3FHphavV2NUJy3dU%253D%26ts%3D1653958500" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<미친 능력> 글로벌 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/429179218?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/429097475?act=clip</guid>
             <pubDate>Fri, 27 May 2022 09:17:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:47]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4r3l5djxqkgk7vyumqlw64d%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33210546915%26signature%3DQMkK4F%252FsMjgxFxmXSgzL4qt6AC4%253D%26ts%3D1653638115" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4r3l5djxqkgk7vyumqlw64d%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33210546915%26signature%3DQMkK4F%252FsMjgxFxmXSgzL4qt6AC4%253D%26ts%3D1653638115" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<탑건: 매버릭> 레이디 가가 Hold My Hand MV]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 25 May 2022 04:30:19 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvz8u60dvaxc4bdc5zlazc2pv%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33210360022%26signature%3D1IzVlCu9fffidOX0oAxFeXW8Onk%253D%26ts%3D1653451222" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<니 부모 얼굴이 보고 싶다> 캐릭터 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/429036724?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/429036724?act=clip</guid>
-            <pubDate>Wed, 25 May 2022 04:30:19 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:38]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv1h3np5pjxxfwxhhs38nf1wf%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33210359515%26signature%3DvWFfj91f0EI6mdWpED0botD7FRg%253D%26ts%3D1653450715" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
