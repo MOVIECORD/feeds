@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-01T18:22:27.420Z</updated>
+    <updated>2022-06-01T19:15:41.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘파친코’ 코고나다 감독 “아시아 이민자로서 정체성 물었다”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001530341</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001530341"/>
+        <updated>2022-06-01T19:13:43.720Z</updated>
+        <content type="html"><![CDATA[애플TV플러스 오리지널 드라마 ‘파친코’와 올해 전주국제영화제 개막작 ‘애프터 양’을 연출한 코고나다( 사진 ) 감독이 1일 오전 국내 취재진과 화상인터뷰를 갖고 “아시아인 이민자로서 정체성에 대해 질문을 던져보고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘웅장하고 스릴있게’ 쥬라기 시리즈의 마지막 여정]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001530329</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001530329"/>
+        <updated>2022-06-01T19:13:43.746Z</updated>
+        <content type="html"><![CDATA[어떤 이야기는 쌓이고 쌓여 거대한 역사가 된다. 공룡 마니아들의 가슴을 설레게 했던 스티븐 스필버그의 1993년 영화 ‘쥬라기 공원’은 하나의 문화를 만들어냈다. 시리즈 여섯 번째이자 마지막 여정인 ‘쥬라기 월드:]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최수종 지구위기 담은 다큐 ‘이것이 야생이다’ 2일 첫방]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000011169</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000047562"/>
         <updated>2022-06-01T07:17:42.516Z</updated>
         <content type="html"><![CDATA[포켓몬 마스터를 꿈꾸는 지우(마쓰모토 리카)와 피카츄(오오타니 이쿠에)가 이번에는 현실 세계의 이면으로 향한다. 포켓몬 세계에는 현실 세계와 그 짝패인 반전 세계가 존재한다. 반전 세계는 현실 세계의 혼란함을 받아안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[리뷰] 순정만은 헤비급인, 트뤼포풍의 제이크 라모타 '올리 마키의 가장 행복한 날']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000047561</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000047561"/>
-        <updated>2022-06-01T07:17:42.519Z</updated>
-        <content type="html"><![CDATA[핀란드 코콜라 지역의 제빵사 올리 마키(야르코 라티)는 프로 권투 대회 출전을 위해 연인 라이야(우나 아이롤라)와 함께 헬싱키로 떠난다. 올리의 훈련을 돕는 코치 엘리스(에로 밀로노프)의 전략은 올리의 체중을 줄여]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[리뷰] 아버지로서의 실패를 만회할 기회를 얻은 남자가 이제야 쓰는 육아 일지 '카시오페아']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000047560</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000047560"/>
-        <updated>2022-06-01T07:17:42.523Z</updated>
-        <content type="html"><![CDATA[“선생님, 저 아직 30대예요.” 딱 남들만큼 깜빡깜빡하는 변호사 수진(서현진)은 교통사고를 내고 찾은 병원에서 알츠하이머 치매를 진단받는다. 충격으로 굳어버린 수진 대신 의사에게 침착히 궁금한 점을 묻는 사람은 함]]></content>
     </entry>
 </feed>
