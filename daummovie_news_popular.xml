@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 16:28:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 17:37:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,20 +152,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F01%2Fohmynews%2F20220601110008443vuyq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['단편 황금종려상'·'남녀 연기상' 등 여성·아시아 돋보여[SS칸결산리포트]]]></title>
-            <link>https://movie.v.daum.net/v/20220601161717802</link>
-            <guid>https://movie.v.daum.net/v/20220601161717802</guid>
-            <pubDate>Wed, 01 Jun 2022 08:24:13 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 황혜정기자] ‘여성’과 ‘아시아’ 영화인의 성과가 돋보였다. 세계 최대·최고 권위의 영화제 ‘제 75회 칸 국제 영화제’가 지난달 28일 폐막했다. 코로나19 팬데믹 이후 3년만에 정상개최돼 12일간의 장정 속에 성황리에 마무리됐다. 폐막식날 발표된 수상작(자)에서 여성과 아시아 영화인의 약진이 눈에 띄었다. 기존 유럽·남성]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F01%2FSPORTSSEOUL%2F20220601161724011ljba.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['애프터 양' 코고나다 감독 "아시아인의 조건 탐구하고 싶었죠"]]></title>
             <link>https://movie.v.daum.net/v/20220601194308148</link>
             <guid>https://movie.v.daum.net/v/20220601194308148</guid>
             <pubDate>Wed, 01 Jun 2022 15:19:02 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 김정진 기자 = "이민자로서 아시아인의 정체성에 대해 많이 고민하고 질문을 던져보고 싶었습니다." 애플 TV+ 오리지널 시리즈 '파친코'에 이어 영화 '애프터 양'으로 한국 대중들과 다시 만나게 된 코고나다 감독이 1일 진행된 화상 인터뷰에서 한국계 미국인으로서의 정체성을 작품에 담았다고 밝혔다. 코고나다 감독은 한국계 미국인으로, 일본의]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F01%2Fyonhap%2F20220601194308153edur.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['단편 황금종려상'·'남녀 연기상' 등 여성·아시아 돋보여[SS칸결산리포트]]]></title>
+            <link>https://movie.v.daum.net/v/20220601161717802</link>
+            <guid>https://movie.v.daum.net/v/20220601161717802</guid>
+            <pubDate>Wed, 01 Jun 2022 08:24:13 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 황혜정기자] ‘여성’과 ‘아시아’ 영화인의 성과가 돋보였다. 세계 최대·최고 권위의 영화제 ‘제 75회 칸 국제 영화제’가 지난달 28일 폐막했다. 코로나19 팬데믹 이후 3년만에 정상개최돼 12일간의 장정 속에 성황리에 마무리됐다. 폐막식날 발표된 수상작(자)에서 여성과 아시아 영화인의 약진이 눈에 띄었다. 기존 유럽·남성]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F01%2FSPORTSSEOUL%2F20220601161724011ljba.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
