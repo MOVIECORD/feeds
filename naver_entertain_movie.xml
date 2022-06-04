@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-04T10:16:49.919Z</updated>
+    <updated>2022-06-04T11:15:55.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['범죄도시 2' 빌런 손석구 "800만 관객 여러분, 사랑합니다"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003650749</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003650749"/>
+        <updated>2022-06-04T11:14:16.364Z</updated>
+        <content type="html"><![CDATA[연일 흥행 신기록을 써 내려가고 있는 영화 '범죄도시 2'에서 강력한 빌런 강해상 역으로 열연한 배우 손석구가 관객들에게 감사 인사를 전했다. 손석구는 4일 자신의 인스타그램에 자신이 직접 찍은 '범죄도시 2' 현장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['종이의 집' 한국판, 한반도서 다시 펼쳐지는 범죄 이상의 범죄]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003563442</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003610641"/>
         <updated>2022-06-04T03:06:58.863Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화의 역사를 바꾼 '쥬라기' 시리즈의 마지막 작품이자 지상 최대의 블록버스터 '쥬라기 월드: 도미니언'이 영진위통합전산망 6월 3일(금) 기준 개봉 3일 만에 누적 관객수 1,023,0]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘범죄도시2’, 팬데믹 이후 최초 800만 돌파 쾌거]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000615054</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000615054"/>
-        <updated>2022-06-04T03:06:58.864Z</updated>
-        <content type="html"><![CDATA[팬데믹 이후 최초 800만 돌파 작품이 나왔다. 주인공은 ‘범죄도시2’다. ‘범죄도시2’는 영진위 통합전산망 기준, 개봉 18일째인 4일 오전 9시 800만 관객을 돌파했다. 이로써 팬데믹 이후 최초의 800만 관객]]></content>
     </entry>
 </feed>
