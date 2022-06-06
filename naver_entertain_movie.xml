@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-06T18:19:50.607Z</updated>
+    <updated>2022-06-06T19:15:58.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘범죄도시2’ 1000만 관객 눈앞]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001531228</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001531228"/>
+        <updated>2022-06-06T19:14:20.115Z</updated>
+        <content type="html"><![CDATA[마동석의 ‘범죄도시2’가 코로나19 이후 첫 1000만 관객을 동원하는 한국영화가 될 것으로 보인다. 영화진흥위원회 영화관입장권 통합전산망에 따르면 6일 오전 범죄 액션물 ‘범죄도시2’의 누적 관객 수가 900만명을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화의전당 8일부터 야외상영회…“진짜 여름 왔나봐”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000011470</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011231046</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011231046"/>
         <updated>2022-06-06T07:14:24.752Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스] 조성우 기자 = 영화 '범죄도시2'가 개봉 20일 만에 누적관객 수 900만 관객을 넘긴 6일 오후 서울 시내 영화관을 찾은 시민들이 영화를 보기 위해 이동하고 있다. 2022.06.06. xconf]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['범죄도시2' 개봉 20일 만에 900만 관객 돌파]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011231045</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011231045"/>
-        <updated>2022-06-06T07:14:24.764Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스] 조성우 기자 = 영화 '범죄도시2'가 개봉 20일 만에 누적관객 수 900만 관객을 넘긴 6일 오후 서울 시내 영화관을 찾은 시민들이 영화를 보기 위해 이동하고 있다. 2022.06.06. xconf]]></content>
     </entry>
 </feed>
