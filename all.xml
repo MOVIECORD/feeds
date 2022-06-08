@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 16:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 17:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -605,20 +605,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F08%2Fmydaily%2F20220608140219663qufy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['브로커' 배두나 "아이들은 나보다 나은 세상에 살았으면" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220608160911924</link>
-            <guid>https://movie.v.daum.net/v/20220608160911924</guid>
-            <pubDate>Wed, 08 Jun 2022 14:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 김계연 기자 = "나보다 어린 사람들, 아이들은 저보다 나은 세상에서 살아야 한다는 생각을 많이 해요. 요즘 그런 작품이 끌리기도 해요. 시행착오나 생각의 전환, 반성이랄까. 한번 짚고 넘어가는 작품을 요즘 많이 하고 있는 것 같아요." 배두나는 최근 몇 년 사이 형사사건을 매개로 사회적 메시지를 던지는 작품을 유독 많이 했다. 지난달 칸]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F08%2Fyonhap%2F20220608160911585judo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[VVIP인줄 알았던 '마녀2'[한현정의 직구리뷰] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220608183000138</link>
             <guid>https://movie.v.daum.net/v/20220608183000138</guid>
             <pubDate>Wed, 08 Jun 2022 14:14:30 GMT</pubDate>
             <content:encoded><![CDATA[블링 블링한 비주얼, 그보다 더 화려한 인맥, 자타공인 '인싸'는 맞다. 실루엣이 닮은 데다, 가진 것도 많아 단숨에 시선을 강탈한다. 그런데 제대로 살펴 보니 기다리고 기대했던 그 분은 아니다. 언니의 명성에 한참 미치지 못한, 아우라만 그럴듯한 '마녀2'(감독 박훈정)다. 여성 원톱 액션의 진화를 알린 '마녀'의 속편 '마녀2'가 4년 만에 돌아왔다]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F08%2Fstartoday%2F20220608183003469mewo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['브로커' 배두나 "아이들은 나보다 나은 세상에 살았으면" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220608160911924</link>
+            <guid>https://movie.v.daum.net/v/20220608160911924</guid>
+            <pubDate>Wed, 08 Jun 2022 14:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 김계연 기자 = "나보다 어린 사람들, 아이들은 저보다 나은 세상에서 살아야 한다는 생각을 많이 해요. 요즘 그런 작품이 끌리기도 해요. 시행착오나 생각의 전환, 반성이랄까. 한번 짚고 넘어가는 작품을 요즘 많이 하고 있는 것 같아요." 배두나는 최근 몇 년 사이 형사사건을 매개로 사회적 메시지를 던지는 작품을 유독 많이 했다. 지난달 칸]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F08%2Fyonhap%2F20220608160911585judo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[공효진 X 이천희 X 전혜진 '보통의 용기' 극장 개봉한다 (다음영화 뉴스 ─ 인기)]]></title>
@@ -1313,7 +1313,7 @@
             <link>https://tv.naver.com/v/27234614</link>
             <guid>https://tv.naver.com/v/27234614</guid>
             <pubDate>Wed, 08 Jun 2022 10:21:12 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220608_2/DbNVB_1654681022983IKs7f_JPEG/473a8aa1-e70e-11ec-8055-505dac8c385b_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1321,7 +1321,7 @@
             <link>https://tv.naver.com/v/27234493</link>
             <guid>https://tv.naver.com/v/27234493</guid>
             <pubDate>Wed, 08 Jun 2022 10:21:12 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220608_288/n7dPA_1654680652601NYoas_JPEG/8af44cad-e70d-11ec-8e34-505dac8c3721_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1329,7 +1329,7 @@
             <link>https://tv.naver.com/v/27231634</link>
             <guid>https://tv.naver.com/v/27231634</guid>
             <pubDate>Wed, 08 Jun 2022 08:22:38 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220608_243/kh2cc_1654673537065EeQ4X_JPEG/d8f47810-e6fc-11ec-a120-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1337,7 +1337,7 @@
             <link>https://tv.naver.com/v/27231134</link>
             <guid>https://tv.naver.com/v/27231134</guid>
             <pubDate>Wed, 08 Jun 2022 07:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220608_26/EG2ca_1654672457818N7bV9_JPEG/48fa2c3f-e6fa-11ec-8e34-505dac8c3721_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1345,7 +1345,7 @@
             <link>https://tv.naver.com/v/27230040</link>
             <guid>https://tv.naver.com/v/27230040</guid>
             <pubDate>Wed, 08 Jun 2022 07:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220608_156/M916I_1654669935361MvBPI_JPEG/7fd55a6d-e6f4-11ec-8e34-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1353,7 +1353,7 @@
             <link>https://tv.naver.com/v/27224786</link>
             <guid>https://tv.naver.com/v/27224786</guid>
             <pubDate>Wed, 08 Jun 2022 03:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220608_138/r4eus_1654657114198QI8QN_JPEG/ccb70959-e6d6-11ec-a120-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1361,7 +1361,7 @@
             <link>https://tv.naver.com/v/27224682</link>
             <guid>https://tv.naver.com/v/27224682</guid>
             <pubDate>Wed, 08 Jun 2022 03:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220608_164/QFYJr_1654656831263IdSmE_JPEG/c5e3413d-e6d5-11ec-81b1-505dac8c3639_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1369,7 +1369,7 @@
             <link>https://tv.naver.com/v/27223639</link>
             <guid>https://tv.naver.com/v/27223639</guid>
             <pubDate>Wed, 08 Jun 2022 03:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220608_247/z2rru_1654654148558n7v5e_JPEG/cf1aee59-e6cf-11ec-8863-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1377,7 +1377,7 @@
             <link>https://tv.naver.com/v/27223499</link>
             <guid>https://tv.naver.com/v/27223499</guid>
             <pubDate>Wed, 08 Jun 2022 03:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220608_83/g1inV_1654653796236w82b4_JPEG/fffe25c9-e6ce-11ec-bb12-d4f5ef5a9532_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1385,7 +1385,7 @@
             <link>https://tv.naver.com/v/27222849</link>
             <guid>https://tv.naver.com/v/27222849</guid>
             <pubDate>Wed, 08 Jun 2022 03:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220608_36/HkhAH_1654652128255HUUw7_JPEG/1e6508c1-e6cb-11ec-8e34-505dac8c3721_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1393,7 +1393,7 @@
             <link>https://tv.naver.com/v/27222772</link>
             <guid>https://tv.naver.com/v/27222772</guid>
             <pubDate>Wed, 08 Jun 2022 03:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220608_125/q0W7V_1654651839165Cshoo_JPEG/767a208a-e6ca-11ec-a120-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1401,7 +1401,7 @@
             <link>https://tv.naver.com/v/27222715</link>
             <guid>https://tv.naver.com/v/27222715</guid>
             <pubDate>Wed, 08 Jun 2022 03:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220608_152/s7veO_1654651630408yPeXx_PNG/1654651546023.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -1409,7 +1409,7 @@
             <link>https://tv.naver.com/v/27222526</link>
             <guid>https://tv.naver.com/v/27222526</guid>
             <pubDate>Wed, 08 Jun 2022 03:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220608_262/Ghj8i_1654651017648rvBrJ_JPEG/5d09702d-e6c8-11ec-8863-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
