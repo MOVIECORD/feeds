@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-09T15:17:03.571Z</updated>
+    <updated>2022-06-09T16:25:30.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[빅픽처] '브로커', 고레에다의 이 휴머니즘이 조금 낯선 이유]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000284148</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000284148"/>
+        <updated>2022-06-09T16:23:46.394Z</updated>
+        <content type="html"><![CDATA[고레에다 히로카즈의 영화는 따뜻하다. 그러면서 가슴 한편이 서늘해지기도 한다. 일본 영화계를 대표하는 이 거장은 '아무도 모른다'(2004)를 만들었지만, '바닷마을 다이어리'(2015)를 만들기도 했다. 그의 휴머]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['범죄도시2', 엔데믹 첫 천만…제작비 대비 7배 수익]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005237849</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004633698</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004633698"/>
         <updated>2022-06-09T10:18:21.310Z</updated>
-        <content type="html"><![CDATA[9일 오후 서울 용산구 CGV용산아이파크몰에서 영화 ‘경아의 딸’ 언론시사회가 열렸다. 베우 김정영이 포토타임을 갖고 있다. 2022.06.09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]김정영,'반듯하게']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004633696</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004633696"/>
-        <updated>2022-06-09T10:18:21.321Z</updated>
         <content type="html"><![CDATA[9일 오후 서울 용산구 CGV용산아이파크몰에서 영화 ‘경아의 딸’ 언론시사회가 열렸다. 베우 김정영이 포토타임을 갖고 있다. 2022.06.09]]></content>
     </entry>
 </feed>
