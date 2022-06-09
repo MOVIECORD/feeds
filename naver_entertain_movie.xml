@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-09T11:14:35.412Z</updated>
+    <updated>2022-06-09T12:34:36.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[광화문국제단편영화제, 국제경쟁 심사위원 5인 위촉]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000818600</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000818600"/>
+        <updated>2022-06-09T12:32:52.071Z</updated>
+        <content type="html"><![CDATA[제20회 광화문국제단편영화제가 국제경쟁부문 본선 심사위원 5인을 9일 공식 발표했다. 광화문국제단편영화제는 국내 최초의 국제 경쟁단편영화제로서, 공정한 심사를 위해 국내외 감독·프로듀서·프로그래머·저널리스트 등 저명]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국인 손끝에서 다시 탄생한 〈버즈 라이트이어〉]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003703824</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004633649"/>
         <updated>2022-06-09T10:18:21.352Z</updated>
         <content type="html"><![CDATA[9일 오후 서울 용산구 CGV용산아이파크몰에서 영화 ‘경아의 딸’ 언론시사회가 열렸다. 배우 김정영이 취재진의 질문에 대답하고 있다. 2022.06.09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['헤어질 결심' 탕웨이 "귀족적인 박해일, 배우 선택 잘 했다 생각"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006149039</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006149039"/>
-        <updated>2022-06-09T10:18:21.353Z</updated>
-        <content type="html"><![CDATA[중국 배우 탕웨이가 영화 '헤어질 결심'에서 호흡을 맞춘 박해일의 캐스팅에 대해 "감독님이 선택을 잘 하셨다, 대단하다 생각했다"고 말했다. 탕웨이는 9일 오후 네이버 나우(NOW.)를 통해 공개된 '헤어질 결심']]></content>
     </entry>
 </feed>
