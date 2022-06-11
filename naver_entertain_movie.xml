@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-11T10:16:57.436Z</updated>
+    <updated>2022-06-11T11:14:37.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘범죄도시2’ 1000만, 마동석 화관 썼다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000818955</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000818955"/>
+        <updated>2022-06-11T11:12:49.747Z</updated>
+        <content type="html"><![CDATA[영화 ‘범죄도시2’가 엔데믹 이후 처음으로 누적 관객수 1천만 명을 돌파한 가운데 주연 마동석이 꽃왕관을 쓰고 SNS에 미리 감사의 말을 전했다. 마동석은 11일 자신의 사회관계망서비스에 “관객분들이 주신 곰동석과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[POP초점]'범죄도시2' 팬데믹 최초 천만 돌파→3편 제작..7월 크랭크인(종합)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003565107</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013239943</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013239943"/>
         <updated>2022-06-11T07:17:52.085Z</updated>
-        <content type="html"><![CDATA[마동석·손석구 주연의 범죄액션 영화 '범죄도시 2'가 11일 관객수 1천만 명을 돌파했다. 코로나19 엔데믹(전염병의 풍토병화) 시대 들어 첫 천만영화다. 사진은 이날 오후 서울 시내 한 영화관. 2022.6.11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['범죄도시2' 관객 1천만 돌파]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013239942</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013239942"/>
-        <updated>2022-06-11T07:17:52.115Z</updated>
         <content type="html"><![CDATA[마동석·손석구 주연의 범죄액션 영화 '범죄도시 2'가 11일 관객수 1천만 명을 돌파했다. 코로나19 엔데믹(전염병의 풍토병화) 시대 들어 첫 천만영화다. 사진은 이날 오후 서울 시내 한 영화관. 2022.6.11]]></content>
     </entry>
 </feed>
