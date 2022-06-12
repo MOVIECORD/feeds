@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-12T20:17:57.736Z</updated>
+    <updated>2022-06-12T21:14:24.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘브로커’ 주말 51만명 봤다‥100만 돌파 향해 질주[박스오피스]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000587643</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000587643"/>
+        <updated>2022-06-12T21:12:48.978Z</updated>
+        <content type="html"><![CDATA['브로커'가 100만 돌파를 앞뒀다. 6월 13일 영화진흥위원회 통합전산망 집계에 따르면 지난 주말 기간(10일~12일) 영화 '브로커'(감독 고레에다 히로카즈)가 51만5,341명을 모으며 전체 박스오피스 2위에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“엔데믹 스트레스 ‘범죄도시2’로 끝” 마동석X손석구 천만 감사 인사[박스오피스]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000587642</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000025328"/>
         <updated>2022-06-12T08:17:37.210Z</updated>
         <content type="html"><![CDATA[To infinity and beyond indeed for Buzz Lightyear, who has gone from a sentient toy in the beloved “Toy Story” franchise]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]강동원,'팬들 향한 미소']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004635632</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004635632"/>
-        <updated>2022-06-12T07:16:25.583Z</updated>
-        <content type="html"><![CDATA[12일 오후 서울 영등포구 타임스퀘어 내 영등포CGV에서 영화 '브로커(감독 고레에다 히로카즈)' 무대인사가 진행됐다. 배우 송강호, 강동원, 이지은(아이유), 이주영 등이 출연하는 영화 '브로커'는 베이비 박스를]]></content>
     </entry>
 </feed>
