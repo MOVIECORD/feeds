@@ -4,9 +4,17 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 23:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 01:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['외계+인 1부' 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/27313626</link>
+            <guid>https://tv.naver.com/v/27313626</guid>
+            <pubDate>Mon, 13 Jun 2022 01:22:53 GMT</pubDate>
+            <content:encoded><![CDATA[20분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220613_114/9VZmN_1655082156291VnE2x_JPEG/7428da51-eab4-11ec-b44a-d4f5ef58ad5e_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['증오의 밤' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/27279396</link>
@@ -140,7 +148,7 @@
             <link>https://tv.naver.com/v/27267405</link>
             <guid>https://tv.naver.com/v/27267405</guid>
             <pubDate>Fri, 10 Jun 2022 01:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220610_149/JKX8u_1654823413742FRVUF_JPEG/92dfb3c3-e859-11ec-b769-505dac8c35ff_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 Jun 2022 07:25:31 GMT</pubDate>
             <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220609_264/3x43s_1654757001374cULI1_JPEG/42a964b8-e7bf-11ec-9fa8-505dacfba98a_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['실종' 30초 예고편]]></title>
-            <link>https://tv.naver.com/v/27253024</link>
-            <guid>https://tv.naver.com/v/27253024</guid>
-            <pubDate>Thu, 09 Jun 2022 07:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220609_10/pkZBt_1654756391761L88Gn_JPEG/c7a55912-e7bd-11ec-b6ab-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
