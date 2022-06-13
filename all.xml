@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 16:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 17:24:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -588,14 +588,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F13%2Fohmynews%2F20220613144505715ungq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["새로운 게임이 시작됩니다"..'오징어게임2' 제작 확정 공식 발표 [공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220613081208429</link>
-            <guid>https://movie.v.daum.net/v/20220613081208429</guid>
-            <pubDate>Mon, 13 Jun 2022 12:30:47 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진=넷플릭스넷플릭스가 '오징어 게임2' 제작을 공식 발표했다. 13일 넷플릭스는 황동혁 감독이 쓴 편지를 통해 '오징어게임2' 제작 소식을 전했다. 넷플릭스는 "새로운 게임이 시작됩니다. '오징어 게임2' 제작 확정"이라고 알렸다. 황동혁 감독은 "지난해 '오징어 게임' 시즌1을 세상에 내놓기까지, 12년이라는 시간이 걸렸]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F13%2Fstarnews%2F20220613081210172auqn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[TEN인터뷰] '범죄도시2' 감독 "1000만, 개봉 첫 주말에 예감..손석구 '구 씨 열풍' 도움" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220613230101104</link>
             <guid>https://movie.v.daum.net/v/20220613230101104</guid>
@@ -610,6 +602,14 @@
             <pubDate>Mon, 13 Jun 2022 12:30:47 GMT</pubDate>
             <content:encoded><![CDATA[[텐아시아=류예지 기자] "연기를 하면서 거의 맨발로 촬영했어요. 소녀가 신발을 신은 장면은 마트 갈 때뿐이었죠. 비밀 연구소 실험체 역할이었기 때문에 머리를 한쪽만 더 밀기도 했어요. '난 이제 진짜 소녀다'라는 마음을 가지기 위함이었죠. 첫 장면에서 피 묻는 발로 눈길을 걸어가는 것도 있었어요. 원래 시나리오에서는 눈이 오는 신은 아니었는데 오히려 제]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F13%2F10asia%2F20220613200103828zrjh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["새로운 게임이 시작됩니다"..'오징어게임2' 제작 확정 공식 발표 [공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220613081208429</link>
+            <guid>https://movie.v.daum.net/v/20220613081208429</guid>
+            <pubDate>Mon, 13 Jun 2022 12:30:47 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진=넷플릭스넷플릭스가 '오징어 게임2' 제작을 공식 발표했다. 13일 넷플릭스는 황동혁 감독이 쓴 편지를 통해 '오징어게임2' 제작 소식을 전했다. 넷플릭스는 "새로운 게임이 시작됩니다. '오징어 게임2' 제작 확정"이라고 알렸다. 황동혁 감독은 "지난해 '오징어 게임' 시즌1을 세상에 내놓기까지, 12년이라는 시간이 걸렸]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F13%2Fstarnews%2F20220613081210172auqn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[SC인터뷰] '브로커' 송강호 "원래 제목은 '요람'이었다..아이유팬, '나의 아저씨'도 다 봤다"(종합) (다음영화 뉴스 ─ 인기)]]></title>
@@ -628,20 +628,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F13%2FSpoChosun%2F20220613072648071kldi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['토르: 러브 앤 썬더' 크리스찬 베일, 역대급 포스의 빌런 등장 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220613095324939</link>
-            <guid>https://movie.v.daum.net/v/20220613095324939</guid>
-            <pubDate>Mon, 13 Jun 2022 09:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '토르: 러브 앤 썬더'에서 배우 크리스찬 베일이 신 도살자 고르 캐릭터로 MCU에 합류, 역대급 빌런의 탄생을 예고해 화제다. 영화 '토르: 러브 앤 썬더'(감독 타이카 와이티티·배급 월트디즈니컴퍼니 코리아)는 천둥의 신 토르가 킹 발키리, 코르그, 그리고 마이티 토르로 거듭난 전 여자친구 제인과 팀을 이뤄, 신 도살자 고르의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F13%2Ftvdaily%2F20220613095325955vvel.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[칸 영화제 빛낸 국내 영화들, 극장가에 미칠 영향 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220613095429997</link>
             <guid>https://movie.v.daum.net/v/20220613095429997</guid>
             <pubDate>Mon, 13 Jun 2022 14:18:30 GMT</pubDate>
             <content:encoded><![CDATA['브로커' '헤어질 결심' '헌트'가 제75회 칸 국제영화제를 빛내고 돌아왔다. '브로커'의 배우 송강호와 '헤어질 결심'의 박찬욱 감독은 시상식 경쟁 부문에서 각각 남우주연상과 감독상을 거머쥐었다. 해외 영화 팬들에게 극찬을 받고 돌아온 세 작품들은 극장가에 어떤 영향을 미칠까. '브로커'는 제75회 칸 국제영화제에 공식 초청됐던 국내 작품들 중 가장 먼]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F13%2Fhankooki%2F20220613095432112vjdv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['토르: 러브 앤 썬더' 크리스찬 베일, 역대급 포스의 빌런 등장 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220613095324939</link>
+            <guid>https://movie.v.daum.net/v/20220613095324939</guid>
+            <pubDate>Mon, 13 Jun 2022 09:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '토르: 러브 앤 썬더'에서 배우 크리스찬 베일이 신 도살자 고르 캐릭터로 MCU에 합류, 역대급 빌런의 탄생을 예고해 화제다. 영화 '토르: 러브 앤 썬더'(감독 타이카 와이티티·배급 월트디즈니컴퍼니 코리아)는 천둥의 신 토르가 킹 발키리, 코르그, 그리고 마이티 토르로 거듭난 전 여자친구 제인과 팀을 이뤄, 신 도살자 고르의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F13%2Ftvdaily%2F20220613095325955vvel.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['범죄도시2' 이상용 감독 "3편의 빌런, 관객들에게 미움받을 각오 할 것" [인터뷰M] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1328,7 +1328,7 @@
             <link>https://tv.naver.com/v/27320290</link>
             <guid>https://tv.naver.com/v/27320290</guid>
             <pubDate>Mon, 13 Jun 2022 06:24:20 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220613_202/es6mm_1655100472190PDd7j_JPEG/e8145a71-eade-11ec-ba01-505dac8c3607_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1336,7 +1336,7 @@
             <link>https://tv.naver.com/v/27319176</link>
             <guid>https://tv.naver.com/v/27319176</guid>
             <pubDate>Mon, 13 Jun 2022 06:24:20 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220613_68/x2I2q_1655097771109tA4OW_JPEG/8c9345cb-ead8-11ec-8bba-505dac8c381b_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1344,7 +1344,7 @@
             <link>https://tv.naver.com/v/27316244</link>
             <guid>https://tv.naver.com/v/27316244</guid>
             <pubDate>Mon, 13 Jun 2022 03:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220613_100/f1Glx_1655089527106Anp9z_JPEG/70f2314a-eac5-11ec-b44a-d4f5ef58ad5e_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1352,7 +1352,7 @@
             <link>https://tv.naver.com/v/27316173</link>
             <guid>https://tv.naver.com/v/27316173</guid>
             <pubDate>Mon, 13 Jun 2022 03:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220613_208/nYvY9_16550892882148eS9E_JPEG/056a6bb5-eac5-11ec-bb44-48df379ccacc_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1360,7 +1360,7 @@
             <link>https://tv.naver.com/v/27316084</link>
             <guid>https://tv.naver.com/v/27316084</guid>
             <pubDate>Mon, 13 Jun 2022 03:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220613_191/kzvz9_1655089067541LemLQ_JPEG/882cce40-eac4-11ec-8bba-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1368,7 +1368,7 @@
             <link>https://tv.naver.com/v/27315934</link>
             <guid>https://tv.naver.com/v/27315934</guid>
             <pubDate>Mon, 13 Jun 2022 03:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220613_265/5xxuq_16550886788726FAO0_JPEG/a14c7f78-eac3-11ec-ba01-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1376,7 +1376,7 @@
             <link>https://tv.naver.com/v/27315870</link>
             <guid>https://tv.naver.com/v/27315870</guid>
             <pubDate>Mon, 13 Jun 2022 03:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220613_277/jWmcN_1655088518689o68QX_JPEG/2c9028f3-eac3-11ec-81b1-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1384,7 +1384,7 @@
             <link>https://tv.naver.com/v/27315783</link>
             <guid>https://tv.naver.com/v/27315783</guid>
             <pubDate>Mon, 13 Jun 2022 03:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220613_7/pEQOq_16550883289425CUWA_JPEG/45f7dedd-eac2-11ec-aef4-48df37ae3fca_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1392,7 +1392,7 @@
             <link>https://tv.naver.com/v/27315674</link>
             <guid>https://tv.naver.com/v/27315674</guid>
             <pubDate>Mon, 13 Jun 2022 03:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220613_11/hyeKb_1655088054772Xlu4z_JPEG/10a9eff4-eac2-11ec-8863-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1400,7 +1400,7 @@
             <link>https://tv.naver.com/v/27315521</link>
             <guid>https://tv.naver.com/v/27315521</guid>
             <pubDate>Mon, 13 Jun 2022 03:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220613_113/AbFuV_1655087654418IAWp4_JPEG/2ac676b9-eac1-11ec-a120-505dacfbaa5c_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1408,7 +1408,7 @@
             <link>https://tv.naver.com/v/27315060</link>
             <guid>https://tv.naver.com/v/27315060</guid>
             <pubDate>Mon, 13 Jun 2022 03:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220613_121/xct6t_1655086574928OBv4R_JPEG/8b1aae1a-eabe-11ec-89b9-d4f5ef5906a4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1416,7 +1416,7 @@
             <link>https://tv.naver.com/v/27314544</link>
             <guid>https://tv.naver.com/v/27314544</guid>
             <pubDate>Mon, 13 Jun 2022 03:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220613_48/e5Mqq_1655085213685lWnHK_JPEG/5bacfcb6-eabb-11ec-bb44-48df379ccacc_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1424,7 +1424,7 @@
             <link>https://tv.naver.com/v/27313626</link>
             <guid>https://tv.naver.com/v/27313626</guid>
             <pubDate>Mon, 13 Jun 2022 01:22:53 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220613_114/9VZmN_1655082156291VnE2x_JPEG/7428da51-eab4-11ec-b44a-d4f5ef58ad5e_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1544,7 +1544,7 @@
             <link>https://tv.naver.com/v/27268558</link>
             <guid>https://tv.naver.com/v/27268558</guid>
             <pubDate>Fri, 10 Jun 2022 17:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220610_105/ExtXu_1654826317722lQBSn_JPEG/7379f72a-e860-11ec-928a-48df37ae3dc4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
