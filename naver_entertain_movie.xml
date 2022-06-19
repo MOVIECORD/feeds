@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-19T04:32:20.756Z</updated>
+    <updated>2022-06-19T05:18:10.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘마녀2’ 신인 김기해, 100만 돌파 훈훈 인증샷‥중국어→액션 열연]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000590624</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000590624"/>
+        <updated>2022-06-19T05:16:28.930Z</updated>
+        <content type="html"><![CDATA['마녀2'에 출연한 신인배우 김기해가 100만 돌파 소감을 밝혔다. 김기해는 6월 18일 자신의 인스타그램에 "영화 '마녀2' 100만! 감사합니다"라는 말과 함께 '마녀2' 100만 돌파를 자축하는 인증샷을 공개했]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['브로커', 개봉 11일 만에 100만 돌파…고레에다 영화 중 최고 흥행]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000284439</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000284439"/>
+        <updated>2022-06-19T05:16:28.938Z</updated>
+        <content type="html"><![CDATA[영화 '브로커'가 개봉 10일째 100만 관객을 돌파했다. 18일 영화진흥위원회 영화관입장권 통합전산망에 따르면 지난 8일 개봉한 '브로커'는 이날 오전 8시 30분 기준 누적 관객 101만 7,758명을 기록했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['범죄도시2' 자문한 천현길 형사2과장]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013254610</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000681460"/>
         <updated>2022-06-19T03:38:37.918Z</updated>
         <content type="html"><![CDATA['쏘우'를 탄생시킨 레전드 밀실 호러 '큐브'가 25년 만에 공식 리메이크 작품으로 관객을 만난다. 내달 13일 개봉을 확정하고 메인 포스터를 공개했다. '큐브'는 살인 함정이 가득한 정육면체 공간에서 벗어나려는 6]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최불암-김혜자 떠올리게 만든 엄정화-황정민의 호흡]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002357070</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002357070"/>
-        <updated>2022-06-19T03:38:37.918Z</updated>
-        <content type="html"><![CDATA[이석훈 감독의 첫 번째 흥행작 &lt;댄싱퀸&gt; 과거 최수종과 하희라부터 장동건과 고소영, 현빈과 손예진까지 연예인부부들은 영화나 드라마에서 커플로 출연했다가 실제 결혼까지 이어진 경우가 많다. 특히 최수종과 하희라 부부는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['탑건: 매버릭' 예매율 1위 등극…오늘 레드카펫 행사]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006165680</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006165680"/>
-        <updated>2022-06-19T03:38:37.919Z</updated>
-        <content type="html"><![CDATA[영화 '탑건: 매버릭'이 예매율 1위에 올랐다. 19일 영화진흥위원회 영화관입장권 통합전산망에 따르면 이날 오전 8시 기준, '탑건: 매버릭'은 '마녀2'를제치고 전체 예매율 1위에 등극했으며, 사전 예매량은 12만]]></content>
     </entry>
 </feed>
