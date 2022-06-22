@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-22T14:15:18.599Z</updated>
+    <updated>2022-06-22T15:17:24.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 평창국제평화영화제 오늘 메달플라자서 개막식]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000900395</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000900395"/>
+        <updated>2022-06-22T15:16:00.926Z</updated>
+        <content type="html"><![CDATA[평창국제평화영화제가 23일 오후 7시30분 평창 올림픽메달플라자에서 막을 올린다. 클래식 보컬그룹 유엔젤보이스의 개막 축하 공연을 시작으로 현재 러시아·우크라이나 전쟁의 단초가 된 유로마이단 반정부 시위를 배경으로]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘서울독립영화제2022’ 작품공모 일정 발표]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000821520</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000821520"/>
+        <updated>2022-06-22T15:16:00.929Z</updated>
+        <content type="html"><![CDATA[올해 48회를 맞는 독립영화 결산 축제, ‘서울독립영화제2022’가 작품 공모 일정을 22일 발표했다. 올해 접수 기간은 단편의 경우 오는 7월 25일부터 8월 16일 오후 7시까지, 장편의 경우 7월 25부터 8월]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['리미트' 진서연, '독전' 이어 인생캐 예고 "새로운 연기 전환점"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003567896</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000616793"/>
         <updated>2022-06-22T08:22:59.052Z</updated>
         <content type="html"><![CDATA[국립합창단의 예술 한류 확산 프로젝트 ‘Voices of Solace’ 앨범의 티저(Teaser) 영상과 ‘새야 새야’ 뮤직비디오(MV)가 국립합창단 유튜브 및 네이버TV 채널, 인스타그램, 페이스북 채널에 지난 2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['룸 쉐어링' 최우성 "현장에 많은 준비하고 가야겠다고 느꼈다"[인터뷰②]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004642585</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004642585"/>
-        <updated>2022-06-22T08:22:59.063Z</updated>
-        <content type="html"><![CDATA[(인터뷰①에 이어) 차근차근 필모그래피를 쌓아가고 배우 최우성(26)은 데뷔 후 처음 도전한 영화 ‘룸 쉐어링’을 통해 많은 것을 배웠다고 한다. “나문희 선생님에게 많이 배웠다”고 말하는 그의 말이 빈말처럼 들리지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['룸 쉐어링' 최우성 "첫 영화, 감독님·나문희 선배님에게 의지했다"[인터뷰①]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004642583</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004642583"/>
-        <updated>2022-06-22T08:22:59.064Z</updated>
-        <content type="html"><![CDATA[배우 최우성(26)이 영화 ‘룸 쉐어링’을 통해 스크린에 데뷔한 가운데 “평소에 가던 극장에서 큰 스크린으로 큼지막하게 제 얼굴을 보니 신기했다”고 말했다. 최우성은 22일 오후 서울 합정동에서 진행된 OSEN과의]]></content>
     </entry>
 </feed>
