@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-06-22T20:17:54.908Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 22 Jun 2022 21:15:56 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[SC초점] 최민식·조진웅→박해일·변요한..'한산'이 넘어야할 1700만의 山]]></title>
+            <link>https://v.daum.net/v/20220623060818972</link>
+            <guid>https://v.daum.net/v/20220623060818972</guid>
+            <pubDate>Wed, 22 Jun 2022 21:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[김한민 감독이 이순신 3부작의 두번째 작품을 가지고 돌아온다. 1700만 관객을 동원하며 현재까지 대한민국 역대 박스오피스 1위 자리를 지키고 있는 '명량: 회오리바다'(이하 명량)에 이어 '한산:용의 출현'(이하 한산)이 7월말 개봉을 앞두고 있다. '한산'은 흥행 기록 뿐만 아니라 여러면에서 '명량'과 비교될 수밖에 없는 운명이다. 김]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F23%2FSpoChosun%2F20220623060818819snuh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
