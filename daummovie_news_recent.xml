@@ -4,9 +4,17 @@
         <title>다음영화 뉴스 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 13:39:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 14:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[TEN인터뷰] 데뷔 22년 차, '용의자' 이미지 탈피한 박해일 "스스로 토닥여 주고파"]]></title>
+            <link>https://v.daum.net/v/20220623230901139</link>
+            <guid>https://v.daum.net/v/20220623230901139</guid>
+            <pubDate>Thu, 23 Jun 2022 14:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=류예지 기자]"어른들의 이야기를 다뤘어요. 작품 테두리 안에서 그리고 박찬욱 감독님의 세계 안에서 연기를 하게 되면 나라는 배우도 성숙해지는 부분들이 있지 않을까? 생각했어요. 연기를 하며 감정을 드러내고 대사를 하다 보면 말이죠. 그리고 앞으로 작품을 해내감에 있어서 조금 더 유연해지지 않을까? 했어요. 이제는 용의자 이미지를 탈피할 것 같아요]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F23%2F10asia%2F20220623230904833nvsb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
         <item>
             <title><![CDATA[[HI★인터뷰] 다운증후군 배우 정은혜 "저는 멋지고 훌륭한 사람이에요"]]></title>
             <link>https://v.daum.net/v/20220623220515464</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 23 Jun 2022 08:22:24 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 전형화 기자] 배우 장혁이 주연을 맡은 영화 '더 킬러:죽어도 되는 아이' 북미 개봉을 앞두고 미국 LA에서 개최된 프리미어 시사회에 참석했다. 23일 아센디오는 이 같은 소식을 전했다. '더 킬러:죽어도 되는 아이'는 호화로운 은퇴 생활을 즐기던 업계 최강 킬러 의강이 겁도 없이 자신을 건드린 놈들을 끝까지 쫓아 응징하는 영화. 장혁은 지]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F23%2Fstarnews%2F20220623162400879kgsj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[박해일 "박찬욱식 이야기와 화학작용 완성하고 싶었다"]]></title>
-            <link>https://v.daum.net/v/20220623162149063</link>
-            <guid>https://v.daum.net/v/20220623162149063</guid>
-            <pubDate>Thu, 23 Jun 2022 08:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[“관객들이 해준(박해일)과 서래(탕웨이) 곁으로 다가와 그들의 표정과 눈빛을 읽게 하는 박찬욱 감독의 방식이 배우로서 좋았다. 제가 할 수 있는 연기의 최대치를 끌어내서 일반적이지 않은, 박찬욱 식의 이야기와 화학작용을 완성하고 싶었다.” 23일 서울 종로구 한 카페에서 만난 배우 박해일은 오는 29일 개봉을 앞둔 영화 ‘헤어질 결심’에서 박찬욱 감독과 작]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F23%2Fkukminilbo%2F20220623162150959wrms.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
