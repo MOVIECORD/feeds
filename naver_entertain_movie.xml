@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-24T12:32:41.949Z</updated>
+    <updated>2022-06-24T13:40:00.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안기부 요원 정우성, 연기력도 액션도 ‘폭발’ (헌트)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000988555</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000988555"/>
+        <updated>2022-06-24T13:38:41.174Z</updated>
+        <content type="html"><![CDATA[안기부 요원 정우성, 연기력도 액션도 ‘폭발’ (헌트) 배우 정우성이 영화 ‘헌트’를 통해 새로운 ‘인생 캐릭터’를 예고한다. 영화 ‘헌트’는 조직 내 숨어든 스파이를 색출하기 위해 서로를 의심하는 안기부 요원 ‘박]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박해일 "탕웨이, 호기심 강하고 궁금하면 직접 해보는 사람이더라" [인터뷰M]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000159467</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004982497"/>
         <updated>2022-06-24T07:15:01.673Z</updated>
         <content type="html"><![CDATA[배우 송중기가 영화 '화란'으로 스크린 컴백할 전망이다. 24일 송중기 소속사 하이스토리 측은 매일경제 스타투데이에 "영화 '화란' 출연을 제안 받고 긍정 검토 중"이라고 밝혔다. '화란'은 지옥 같은 현실에서 벗어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['헤어질 결심' 탕웨이·박해일 출연 '문명특급', 오늘(24일) SBS 방송]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001466575</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001466575"/>
-        <updated>2022-06-24T12:31:07.999Z</updated>
-        <content type="html"><![CDATA[영화 '헤어질 결심'(감독 박찬욱)과 '문명특급'이 함께한 칸 현지 인터뷰가 SBS에서 방영된다. '헤어질 결심'은 산에서 벌어진 변사 사건을 수사하게 된 형사 해준(박해일 분)이 사망자의 아내 서래(탕웨이)를 만나]]></content>
     </entry>
 </feed>
