@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 13:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 14:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -279,14 +279,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ef78f21b43a4d051a178f1ee3f9fbb49cfd930f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아치의 노래, 정태춘 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152509</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152509</guid>
-            <pubDate>Sun, 26 Jun 2022 03:36:38 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9f4fcc696cb967895ae0735c198d0b9f0551fb3a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[더 노비스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145810</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145810</guid>
@@ -333,6 +325,14 @@
             <pubDate>Thu, 23 Jun 2022 10:17:18 GMT</pubDate>
             <content:encoded><![CDATA[22.06.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F555ed3480a8ff028128f7e991798c5c0dc115eda" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아치의 노래, 정태춘 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152509</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152509</guid>
+            <pubDate>Sun, 26 Jun 2022 03:36:38 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9f4fcc696cb967895ae0735c198d0b9f0551fb3a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[감동주의보 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -628,20 +628,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F26%2Filgansports%2F20220626161406179rurb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[발레리나가 되고 싶었던 그 남자의 삶과 예술 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220626090600216</link>
+            <guid>https://movie.v.daum.net/v/20220626090600216</guid>
+            <pubDate>Sun, 26 Jun 2022 14:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[[이학후 기자] &nbsp;        ▲ &lt;모어&gt;&nbsp;영화 포스터    ⓒ 익스포스 필름  모어는 MORE고 毛魚다 나는 나를 남성이나 여성 이분법적 사고로 나누길 바라지 않는다 나는 있고 없고 그저 인간이다 나는 나로서, 존재로서 아름답고 끼스럽게 살아가고 싶다 &lt;털 난 물고기 모어&gt; 중에서 발레리나, 뮤지컬 배우, 드래그 아티스트, 모델, 안무가, 에세이스트,]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F26%2Fohmynews%2F20220626090601593myub.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA["'범죄도시2' 1200만, 형은 알 수가 없었어"..마동석, 흥행 자축 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220626162318382</link>
             <guid>https://movie.v.daum.net/v/20220626162318382</guid>
             <pubDate>Sun, 26 Jun 2022 08:18:24 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 배우 마동석이 영화 '범죄도시2'(감독 이상용) 1200만 관객 돌파를 앞두고 소감을 남겼다.&nbsp; 마동석은 26일 자신의 인스타그램에 "'범죄도시2' 1200만.. 형은.. 알 수가 없었어.."라는 글을 남겼다. 더불어 영어로도 코로나19 펜데믹 속 1200만 관객이 영화를 봤다며 "믿을 수 없는 결과를 주셔서 감사하다"고 밝]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F26%2Fxportsnews%2F20220626162321364vqyl.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[D:인터뷰] 한 걸음 뒤에서 건넨 강동원의 진한 위로 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220626093811662</link>
-            <guid>https://movie.v.daum.net/v/20220626093811662</guid>
-            <pubDate>Sun, 26 Jun 2022 01:24:26 GMT</pubDate>
-            <content:encoded><![CDATA["서로가 부담을 안주고 늘 지지해주는게 가족 아닐까요. 서로 질책도 하고 서포트도 해주지만 마음 한 켠에 고향같은 존재, 그게 가족이라고 생각해요." 가족의 이야기를 따뜻한 분위기 속에 그려내면서도 문제점은 서늘하게 짚는 고레에다 히로카즈 감독 특유의 스토리텔링과 한국 배우들의 만남으로 많은 이들의 관심을 끈 '브로커'. 강동원은 이번 작품을 통해 가족의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F26%2Fdailian%2F20220626093814395ttiw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[송강호·강동원·아이유 보러 온 일본 팬들 (다음영화 뉴스 ─ 인기)]]></title>
@@ -652,12 +652,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F26%2Fyonhap%2F20220626174540615wgjc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[마동석 "범죄도시 관객 수 1200만명.. 믿을 수 없는 결과에 감사" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220626173257389</link>
-            <guid>https://movie.v.daum.net/v/20220626173257389</guid>
-            <pubDate>Sun, 26 Jun 2022 13:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[배우 마동석이 '범죄도시2'(감독 이상용) 관객 수 1200만명 돌파 소감을 밝혔다. /사진=마동석 인스타그램 캡처배우 마동석이 '범죄도시2'(감독 이상용) 흥행 소감을 전했다. 마동석은 26일 자신의 인스타그램을 통해 "범죄도시2 1200만, 형은 알 수가 없었다"며 "신종 코로나바이러스 감염증(코로나19) 팬데믹(전염병 세계적 대유행) 속에서도 1200]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F26%2Fmoneyweek%2F20220626173300462iwmr.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[D:인터뷰] 한 걸음 뒤에서 건넨 강동원의 진한 위로 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220626093811662</link>
+            <guid>https://movie.v.daum.net/v/20220626093811662</guid>
+            <pubDate>Sun, 26 Jun 2022 01:24:26 GMT</pubDate>
+            <content:encoded><![CDATA["서로가 부담을 안주고 늘 지지해주는게 가족 아닐까요. 서로 질책도 하고 서포트도 해주지만 마음 한 켠에 고향같은 존재, 그게 가족이라고 생각해요." 가족의 이야기를 따뜻한 분위기 속에 그려내면서도 문제점은 서늘하게 짚는 고레에다 히로카즈 감독 특유의 스토리텔링과 한국 배우들의 만남으로 많은 이들의 관심을 끈 '브로커'. 강동원은 이번 작품을 통해 가족의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F26%2Fdailian%2F20220626093814395ttiw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['애프터 양' 누적 관객 3만 명 돌파..꾸준한 입소문[공식] (다음영화 뉴스 ─ 최신)]]></title>
