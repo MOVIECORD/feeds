@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 18:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 19:16:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -239,14 +239,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ef78f21b43a4d051a178f1ee3f9fbb49cfd930f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[룸 쉐어링 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152991</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152991</guid>
-            <pubDate>Wed, 22 Jun 2022 01:25:15 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2fc2eec21e37b525f4d1367368eeb24f6ab99b7f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[모어 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153828</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153828</guid>
@@ -277,6 +269,14 @@
             <pubDate>Wed, 15 Jun 2022 01:22:09 GMT</pubDate>
             <content:encoded><![CDATA[22.06.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f876c14a22b4b8e9f9b81af9a7b68d4781b39bb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[룸 쉐어링 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152991</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152991</guid>
+            <pubDate>Wed, 22 Jun 2022 01:25:15 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2fc2eec21e37b525f4d1367368eeb24f6ab99b7f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 포켓몬스터DP: 기라티나와 하늘의 꽃다발 쉐이미 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -596,12 +596,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F28%2Fpoctan%2F20220628152128359oayg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[팬데믹 이후의 '영화'②] "생태계 복원? 아직 지켜봐야"..코로나19 이후의 '영화' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220628070115395</link>
-            <guid>https://movie.v.daum.net/v/20220628070115395</guid>
-            <pubDate>Tue, 28 Jun 2022 12:31:44 GMT</pubDate>
-            <content:encoded><![CDATA[“관객분들이 (극장으로) 안 돌아올지도 모른다는 우려가 있었다. 어떻게 될지 알 수 없는 상황에서 ‘범죄도시2’가 그 역할을 해주고 있다. 이번처럼 남의 영화 잘 되기를 바란 적은 처음이다.” 제75회 칸 국제영화제에 참석한 박찬욱 감독이 기자들과 만나 인터뷰를 진행하던 중, ‘범죄도시2’의 400만 돌파 소식에 이 같은 반가움을 표했다. 코로나19가 길어]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F28%2Fdailian%2F20220628070117033wpvs.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['이순신에게 도발' 와키자카 변요한 .. 이순신 박해일 '변요한 눈빛 제압' [곽경훈의 현장] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220629023706167</link>
+            <guid>https://movie.v.daum.net/v/20220629023706167</guid>
+            <pubDate>Tue, 28 Jun 2022 18:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽경훈 기자] 이순신한테 맨번 당할 수는 없지 .. 이럴 때라도 도발을 감행한다. 28일 오전 서울 광진구 롯데시네마 건대입에서 진행된 영화 '한산: 용의 출현'에서 와키자카 역의 변요한이 이순신 역의 박해일에게 도발을 했다. 이날 제작보고회는 김한민 감독과  박해일, 변요한, 김성규, 김성균, 김향기, 옥택연이 참석했다. 영화 '한산:]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F29%2Fmydaily%2F20220629023706791hlpy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['토르·앨비스·외계인·한산'..황홀한 7월 극장가[MK무비] (다음영화 뉴스 ─ 인기)]]></title>
@@ -610,6 +610,14 @@
             <pubDate>Tue, 28 Jun 2022 13:40:10 GMT</pubDate>
             <content:encoded><![CDATA[7월 극장가의 라인업이 진정 황홀하다. ‘범죄도시2’가 코로나 펜데믹 이후 첫 1000만 축포를 쏘며 극장가가 활기를 되찾은 가운데 톰 크루즈의 ‘탑건: 매버릭’이 흥행 바통을 이어 받아 독주 중이다. 오는 29일에는 칸을 사로 잡은 거장 박찬욱의 ‘헤어질 결심’이 6월 극장가의 데미를 장식한다. 그 여세를 몰아 7월에는 여름 성수기를 맞아 더 화려한]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F28%2Fstartoday%2F20220628135408092cqkw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[팬데믹 이후의 '영화'②] "생태계 복원? 아직 지켜봐야"..코로나19 이후의 '영화' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220628070115395</link>
+            <guid>https://movie.v.daum.net/v/20220628070115395</guid>
+            <pubDate>Tue, 28 Jun 2022 12:31:44 GMT</pubDate>
+            <content:encoded><![CDATA[“관객분들이 (극장으로) 안 돌아올지도 모른다는 우려가 있었다. 어떻게 될지 알 수 없는 상황에서 ‘범죄도시2’가 그 역할을 해주고 있다. 이번처럼 남의 영화 잘 되기를 바란 적은 처음이다.” 제75회 칸 국제영화제에 참석한 박찬욱 감독이 기자들과 만나 인터뷰를 진행하던 중, ‘범죄도시2’의 400만 돌파 소식에 이 같은 반가움을 표했다. 코로나19가 길어]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F28%2Fdailian%2F20220628070117033wpvs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['니얼굴', 이거 진짜 대단하군요[곽명동의 씨네톡] (다음영화 뉴스 ─ 인기)]]></title>
@@ -636,12 +644,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F28%2FSpoChosun%2F20220628144941182eczg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['이순신에게 도발' 와키자카 변요한 .. 이순신 박해일 '변요한 눈빛 제압' [곽경훈의 현장] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220629023706167</link>
-            <guid>https://movie.v.daum.net/v/20220629023706167</guid>
-            <pubDate>Tue, 28 Jun 2022 18:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽경훈 기자] 이순신한테 맨번 당할 수는 없지 .. 이럴 때라도 도발을 감행한다. 28일 오전 서울 광진구 롯데시네마 건대입에서 진행된 영화 '한산: 용의 출현'에서 와키자카 역의 변요한이 이순신 역의 박해일에게 도발을 했다. 이날 제작보고회는 김한민 감독과  박해일, 변요한, 김성규, 김성균, 김향기, 옥택연이 참석했다. 영화 '한산:]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F29%2Fmydaily%2F20220629023706791hlpy.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['종이의 집' 김윤진 "오프닝 BTS 장면 불호 의견? 해외서는 통할 것"[인터뷰②] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220628164735938</link>
+            <guid>https://movie.v.daum.net/v/20220628164735938</guid>
+            <pubDate>Tue, 28 Jun 2022 15:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 넷플릭스 오리지널 드라마 '종이의 집' 배우 김윤진이 28일 오전 진행된 화상 인터뷰를 위해 포즈를 취하고 있다.  '종이의 집'은 통일을 앞둔 한반도를 배경으로 천재적 전략가와 각기 다른 개성 및 능력을 지닌 강도들이 기상천외한 변수에 맞서며 벌이는 사상 초유의 인질 강도극을 그린 넷플릭스 드라마다. /사진제공=넷플릭스 2022.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F28%2Fstarnews%2F20220628164736405deoi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['외계+인' 류준열·김태리, '리틀 포레스트' 이어 모두가 기다린 만남 (다음영화 뉴스 ─ 인기)]]></title>
@@ -650,14 +658,6 @@
             <pubDate>Tue, 28 Jun 2022 01:24:25 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 최동훈 감독의 신작 '외계+인' 1부의 류준열과 김태리가 다시 만난 작품에서 한층 더 깊어진 호흡을 선보일 예정이다. '외계+인' 1부는 고려 말 소문 속의 신검을 차지하려는 도사들과 2022년 인간의 몸 속에 수감된 외계인 죄수를 쫓는 이들 사이에 시간의 문이 열리며 펼쳐지는 이야기를 그린 영화다.&nbsp; 2018년 영화 '리틀]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F28%2Fxportsnews%2F20220628084752668rtje.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['종이의 집' 김윤진 "오프닝 BTS 장면 불호 의견? 해외서는 통할 것"[인터뷰②] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220628164735938</link>
-            <guid>https://movie.v.daum.net/v/20220628164735938</guid>
-            <pubDate>Tue, 28 Jun 2022 15:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 넷플릭스 오리지널 드라마 '종이의 집' 배우 김윤진이 28일 오전 진행된 화상 인터뷰를 위해 포즈를 취하고 있다.  '종이의 집'은 통일을 앞둔 한반도를 배경으로 천재적 전략가와 각기 다른 개성 및 능력을 지닌 강도들이 기상천외한 변수에 맞서며 벌이는 사상 초유의 인질 강도극을 그린 넷플릭스 드라마다. /사진제공=넷플릭스 2022.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F28%2Fstarnews%2F20220628164736405deoi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['이순신에게 도발' 와키자카 변요한 .. 이순신 박해일 '변요한 눈빛 제압' [곽경훈의 현장] (다음영화 뉴스 ─ 최신)]]></title>
@@ -1320,7 +1320,7 @@
             <link>https://tv.naver.com/v/27626113</link>
             <guid>https://tv.naver.com/v/27626113</guid>
             <pubDate>Tue, 28 Jun 2022 10:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220628_56/AmvPZ_1656408812136gXsjU_JPEG/283f2659-f6c5-11ec-b6ab-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1328,7 +1328,7 @@
             <link>https://tv.naver.com/v/27625513</link>
             <guid>https://tv.naver.com/v/27625513</guid>
             <pubDate>Tue, 28 Jun 2022 09:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220628_284/NsLFz_1656407394205BCSlG_JPEG/f69d7cf8-f6c1-11ec-b44a-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1336,7 +1336,7 @@
             <link>https://tv.naver.com/v/27624207</link>
             <guid>https://tv.naver.com/v/27624207</guid>
             <pubDate>Tue, 28 Jun 2022 09:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220628_16/kXzdi_1656404827050iFdd9_JPEG/ec464d06-f6bb-11ec-89b9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1344,7 +1344,7 @@
             <link>https://tv.naver.com/v/27620259</link>
             <guid>https://tv.naver.com/v/27620259</guid>
             <pubDate>Tue, 28 Jun 2022 07:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220628_169/qxEHG_1656398889766FGyKb_JPEG/1656398887419.JPG?type=f194_109_blend" length="0" type="image/JPG"/>
         </item>
         <item>
@@ -1352,7 +1352,7 @@
             <link>https://tv.naver.com/v/27620144</link>
             <guid>https://tv.naver.com/v/27620144</guid>
             <pubDate>Tue, 28 Jun 2022 07:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220628_56/EKaa3_1656398565410QKU0X_JPEG/1656398536981.JPG?type=f194_109_blend" length="0" type="image/JPG"/>
         </item>
         <item>
@@ -1360,7 +1360,7 @@
             <link>https://tv.naver.com/v/27620026</link>
             <guid>https://tv.naver.com/v/27620026</guid>
             <pubDate>Tue, 28 Jun 2022 07:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220628_32/rZQHK_1656398306717sd2Ri_JPEG/1656398303965.JPG?type=f194_109_blend" length="0" type="image/JPG"/>
         </item>
         <item>
@@ -1368,7 +1368,7 @@
             <link>https://tv.naver.com/v/27618474</link>
             <guid>https://tv.naver.com/v/27618474</guid>
             <pubDate>Tue, 28 Jun 2022 06:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220628_299/rp5f6_1656395560005rHQS6_JPEG/4ed5532e-f6a6-11ec-90b2-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1376,7 +1376,7 @@
             <link>https://tv.naver.com/v/27617585</link>
             <guid>https://tv.naver.com/v/27617585</guid>
             <pubDate>Tue, 28 Jun 2022 06:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220628_3/3aar1_1656394042386Teg2H_JPEG/3936c215-f6a1-11ec-81b1-505dac8c3639_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1384,7 +1384,7 @@
             <link>https://tv.naver.com/v/27613172</link>
             <guid>https://tv.naver.com/v/27613172</guid>
             <pubDate>Tue, 28 Jun 2022 03:42:47 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220628_143/3wr7I_1656384512894Y9QRH_JPEG/5f8e2d0d-f68c-11ec-bb44-48df379ccacc_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1392,7 +1392,7 @@
             <link>https://tv.naver.com/v/27612106</link>
             <guid>https://tv.naver.com/v/27612106</guid>
             <pubDate>Tue, 28 Jun 2022 03:42:47 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220628_242/PiWhf_1656381996777SLvzN_JPEG/cc9d8b50-f686-11ec-9fa8-505dacfba98a_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1400,7 +1400,7 @@
             <link>https://tv.naver.com/v/27611915</link>
             <guid>https://tv.naver.com/v/27611915</guid>
             <pubDate>Tue, 28 Jun 2022 03:42:47 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220628_111/IZxFR_1656381545887joejz_JPEG/9ab3a3e8-f685-11ec-b769-505dac8c35ff_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1408,7 +1408,7 @@
             <link>https://tv.naver.com/v/27610743</link>
             <guid>https://tv.naver.com/v/27610743</guid>
             <pubDate>Tue, 28 Jun 2022 03:42:47 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220628_300/keiue_1656378204379Gr5Ed_PNG/1656378198718.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
