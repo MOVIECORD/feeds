@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-29T12:32:58.803Z</updated>
+    <updated>2022-06-29T13:38:28.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['멘' 감독 "'K-무비' 팬으로서 '멘' 한국 개봉 무척 기대돼"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004647400</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004647400"/>
+        <updated>2022-06-29T13:36:51.565Z</updated>
+        <content type="html"><![CDATA[공포영화 '멘'의 각본 및 연출을 맡은 알렉스 가랜드 감독이 한국 개봉을 앞둔 심경을 전했다. '멘'(감독 알렉스 가랜드, 제작 A24, 수입배급 판씨네마)은 남편의 죽음 이후 마음을 치유하기 위해 아름다운 시골 마]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘출산’ 이정현 주연작 ‘리미트’ 8월 17일 개봉 [공식]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000989460</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000284873"/>
         <updated>2022-06-29T08:21:54.263Z</updated>
         <content type="html"><![CDATA[수지가 '안나'를 촬영하며 매일 일기를 썼다고 고백했다. 29일 오후 서울 삼청동에서 매체 인터뷰를 가진 수지는 이번 작품에 대해 "욕심을 많이 낸 작품이다. 잘하고 싶었고, 잘해야 한다는 부담감이 있었다"고 솔직하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["결혼식 촬영 후 근육통"…'안나' 수지, 웨딩드레스 어땠길래]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000284872</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000284872"/>
-        <updated>2022-06-29T08:21:54.266Z</updated>
-        <content type="html"><![CDATA[수지가 결혼식 장면 촬영 후 근육통을 앓았다고 밝혔다. 29일 오후 서울 삼청동에서 드라마 '안나' 매체 인터뷰를 가진 수지는 화제를 모은 결혼식 장면과 웨딩드레스에 대해 말했다. '안나'는 사소한 거짓말을 시작으로]]></content>
     </entry>
 </feed>
