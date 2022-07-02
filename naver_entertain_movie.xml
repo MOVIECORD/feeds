@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-07-02T09:15:41.598Z</updated>
+    <updated>2022-07-02T10:17:44.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['범죄도시2', '신과함께-인과 연' 제쳤다..역대 흥행 14위 등극 목전]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003067373</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003067373"/>
+        <updated>2022-07-02T10:16:02.883Z</updated>
+        <content type="html"><![CDATA[마동석 주연의 '범죄도시2'가 '신과함께-인과 연'을 제쳤다. 2일 영진위 통합전산망에 따르면 영화 '범죄도시2'가 '신과함께-인과 연'의 공식통계 기준 관객수 1227만 4996명을 제쳤다. 마동석 주연작 중 '신]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['범죄도시2', 1227만 '신과함께-인과 연' 넘었다…역대 흥행 14위 눈 앞]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001469885</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001469885"/>
+        <updated>2022-07-02T10:16:02.883Z</updated>
+        <content type="html"><![CDATA[영화 '범죄도시2'(감독 이상용)가 '신과함께-인과 연'의 관객 수 1227만4996명을 뛰어넘으며 장기 흥행 중이다. 2일 영진위 통합전산망에 따르면 지난 5월 18일 개봉한 '범죄도시2'는 이날 '신과함께-인과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['범죄도시2', '신과함께-인과 연'도 제쳤다...역대 흥행 16위[SS박스오피스]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000861648</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003620242"/>
         <updated>2022-07-02T04:34:14.878Z</updated>
         <content type="html"><![CDATA[대한민국 대표 범죄 액션 시리즈 영화 '범죄도시2'가 영진위 통합전산망 공식 통계 기준, '신과함께-인과 연'의 공식통계 기준 관객수 12,274,996명을 제쳤다. 마동석 주연작 중 '신과함께-죄와 벌'에 이어 최]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["모든 대원 철수시켜요" 소방관이란 운명]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002358535</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002358535"/>
-        <updated>2022-07-02T03:46:17.189Z</updated>
-        <content type="html"><![CDATA[&lt;래더(Ladder) 49&gt; 2004년 미국에서 개봉한 영화 '래더 49'는 소방대원의 일과 삶의 모습을 균형 잡힌 시각으로 보여준다. '래더 49'는 49번 사다리차를 일컫는 호출 부호(Call Sign)로 보통]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘마녀2’ 누적 관객 수 250만 돌파…감독·배우 감사 인증샷 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003218836</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003218836"/>
-        <updated>2022-07-02T03:46:17.194Z</updated>
-        <content type="html"><![CDATA[‘마녀2’가 누적 관객 수 250만을 돌파하며 감독과 배우들이 감사 인증샷을 공개했다. 2일 영화진흥위원회 통합전산망에 따르면 영화 ‘마녀 Part2. The Other One’(‘마녀2’)는 개봉 18일 만에 25]]></content>
     </entry>
 </feed>
