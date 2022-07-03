@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-07-03T11:14:59.107Z</updated>
+    <updated>2022-07-03T12:27:12.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송강호 '브로커', 獨 '뮌헨영화제' 최고상]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011282466</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011282466"/>
+        <updated>2022-07-03T12:25:41.504Z</updated>
+        <content type="html"><![CDATA[일본 고레에다 히로카즈 감독이 연출한 한국 영화 '브로커'가 '제39회 독일 뮌헨영화제'에서 최고상을 받았다. 2일(현지시간) 뮌헨영화제 홈페이지에 따르면, 영화제 측은 '브로커'를 해당 영화제 최고상에 해당하는 ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고레에다 감독 '브로커', 뮌헨영화제 최고상 수상]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004986163</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000879257"/>
         <updated>2022-07-03T05:13:41.485Z</updated>
         <content type="html"><![CDATA[‘탑건: 매버릭’이 개봉 12일째인 7월 3일, 300만 관객을 돌파했다. 올해 개봉작 중 ‘범죄도시2’, ‘닥터 스트레인지: 대혼돈의 멀티버스’를 이어 ‘탑건: 매버릭’이 세번째로 300만 스코어를 돌파했다. 이는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘탑건’ 300만 돌파, ‘보헤미안 랩소디’보다 빠른 속도]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001674336</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001674336"/>
-        <updated>2022-07-03T05:13:41.485Z</updated>
-        <content type="html"><![CDATA[‘탑건: 매버릭’이 개봉 12일째인 7월 3일, 300만 관객을 단숨에 돌파했다. 올해 개봉작 중 ‘범죄도시2’, ‘닥터 스트레인지: 대혼돈의 멀티버스’를 이어 ‘탑건: 매버릭’이 세번째로 300만 스코어를 돌파했다]]></content>
     </entry>
 </feed>
