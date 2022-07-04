@@ -4,9 +4,25 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 23:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 01:44:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['핸썸' 특별 영상 '매력만점 마성의 남자 노미남 영상']]></title>
+            <link>https://tv.naver.com/v/27736294</link>
+            <guid>https://tv.naver.com/v/27736294</guid>
+            <pubDate>Mon, 04 Jul 2022 01:44:13 GMT</pubDate>
+            <content:encoded><![CDATA[4분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220704_255/SyxUU_1656898805676gLy4m_JPEG/d246418a-fb39-11ec-8e34-505dac8c3721_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['군다' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/27735907</link>
+            <guid>https://tv.naver.com/v/27735907</guid>
+            <pubDate>Mon, 04 Jul 2022 01:44:13 GMT</pubDate>
+            <content:encoded><![CDATA[20분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220704_294/rI5Ld_16568978059814I9uW_JPEG/1656897802509.JPG?type=f194_109_blend" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA['탑건: 매버릭' 땡큐 코리아 내한 소감 영상]]></title>
             <link>https://tv.naver.com/v/27703574</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 29 Jun 2022 03:47:45 GMT</pubDate>
             <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220701_137/o46jG_1656640509404DOsB4_JPEG/1656640505054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['초신경호 : 수퍼 보디가드' 예고편]]></title>
-            <link>https://tv.naver.com/v/27626113</link>
-            <guid>https://tv.naver.com/v/27626113</guid>
-            <pubDate>Tue, 28 Jun 2022 10:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220628_56/AmvPZ_1656408812136gXsjU_JPEG/283f2659-f6c5-11ec-b6ab-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['데이 투 다이' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/27625513</link>
-            <guid>https://tv.naver.com/v/27625513</guid>
-            <pubDate>Tue, 28 Jun 2022 09:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220628_284/NsLFz_1656407394205BCSlG_JPEG/f69d7cf8-f6c1-11ec-b44a-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
