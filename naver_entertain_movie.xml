@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-07-10T06:20:06.545Z</updated>
+    <updated>2022-07-10T07:16:33.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[CELEB] 'Action master' Jang Hyuk lives for the adrenaline rush]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000026342</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000026342"/>
+        <updated>2022-07-10T07:15:10.590Z</updated>
+        <content type="html"><![CDATA[New challenges are what drive actor Jang Hyuk forward. Dubbed the local screen's “action master,” the 46-year-old tried]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[화보] 김태리 류준열 김우빈… 패션 화보인줄]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003219934</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003219934"/>
+        <updated>2022-07-10T07:15:10.602Z</updated>
+        <content type="html"><![CDATA[배우 김태리(왼쪽부터), 류준열, 김우빈, 최동훈 감독이 패션 모델 같은 멋진 포즈로 카메라를 응시했다. 오는 20일 개봉하는 영화 ‘외계+인’ 1부의 주역들이 한 영화전문지의 표지모델로 함께 자리했다. 뉴트럴톤의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['탑건:매버릭', 막강한 뒷심…450만 돌파·예매율 1위 탈환]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000285204</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004654436"/>
         <updated>2022-07-10T05:15:11.748Z</updated>
         <content type="html"><![CDATA[10일 오후 서울 CGV 목동에서 영화 ‘헤어질 결심(감독 박찬욱)’ 무대인사 행사가 열렸다. 박찬욱 감독, 배우 김신영, 탕웨이가 무대인사를 하고 있다. 2022.07.10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]탕웨이,'무대인사 왔어요']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004654435</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004654435"/>
-        <updated>2022-07-10T05:15:11.750Z</updated>
-        <content type="html"><![CDATA[10일 오후 서울 CGV 목동에서 영화 ‘헤어질 결심(감독 박찬욱)’ 무대인사 행사가 열렸다. 배우 탕웨이가 무대인사를 하고 있다. 2022.07.10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]탕웨이,'팬향해 그윽한 미소']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004654434</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004654434"/>
-        <updated>2022-07-10T05:15:11.758Z</updated>
-        <content type="html"><![CDATA[10일 오후 서울 CGV 목동에서 영화 ‘헤어질 결심(감독 박찬욱)’ 무대인사 행사가 열렸다. 배우 탕웨이가 무대인사를 하고 있다. 2022.07.10]]></content>
     </entry>
 </feed>
