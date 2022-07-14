@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 01:29:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 03:51:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<암살도시: 분노의 저격수> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/430391852?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/430391852?act=clip</guid>
+            <pubDate>Thu, 14 Jul 2022 03:50:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:41]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdhr5mndn9tz9y8kp3qv4ufa%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33214674316%26signature%3D3MAX5%252FWzwRNOmjCH0JMyNXSmWgs%253D%26ts%3D1657765516" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<바다 탐험대 옥토넛 : 탐험선 대작전> 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/430390468?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/430315433?act=clip</guid>
             <pubDate>Mon, 11 Jul 2022 06:21:13 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:37]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvr0u4tcln6frp0t1n57p7rel%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33214428492%26signature%3DR%252FJ64WbZmr%252B8K0XIAvKnYJgeI%252Fo%253D%26ts%3D1657519692" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvr0u4tcln6frp0t1n57p7rel%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33214428492%26signature%3DR%252FJ64WbZmr%252B8K0XIAvKnYJgeI%252Fo%253D%26ts%3D1657519692" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<베르히만 아일랜드> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 07 Jul 2022 01:27:49 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:18]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8cqv3a32bec3mzgrnxmyr78%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33214065459%26signature%3D36uImwPULofW3Rt5qhrdITmc9F0%253D%26ts%3D1657156659" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<더 킬러: 죽어도 되는 아이> [청불] TIME KILL 액션 무삭제 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/430207281?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/430207281?act=clip</guid>
-            <pubDate>Thu, 07 Jul 2022 01:27:49 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:38]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frve7nuzjoymwgqbe0zfeefqu8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33214064847%26signature%3DR37%252FvEUdJKzko3xQFKxe4u4ovys%253D%26ts%3D1657156047" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
