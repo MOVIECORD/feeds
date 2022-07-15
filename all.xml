@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 16:28:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 17:26:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -383,14 +383,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6e56366cc091af9e955bc75c4442239f0addc39f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[배드 럭 뱅잉 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=148293</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=148293</guid>
-            <pubDate>Tue, 05 Jul 2022 03:42:18 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc62cb08b5707192441930e5c1a5e443c5b7ce305" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[뽀로로 극장판 드래곤캐슬 대모험 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160560</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160560</guid>
@@ -445,6 +437,14 @@
             <pubDate>Wed, 13 Jul 2022 01:26:41 GMT</pubDate>
             <content:encoded><![CDATA[22.07.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec0746d8e1213e5ea232952fa98b4bfbe8fd8d1a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[배드 럭 뱅잉 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148293</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148293</guid>
+            <pubDate>Tue, 05 Jul 2022 03:42:18 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc62cb08b5707192441930e5c1a5e443c5b7ce305" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[데이 투 다이 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -607,6 +607,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F15%2Fsportskhan%2F20220715072204699kxwm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['외계+인', 6년 만에 돌아온 김우빈..1인 4역 팔색조 매력 ③ (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220714094714636</link>
+            <guid>https://movie.v.daum.net/v/20220714094714636</guid>
+            <pubDate>Fri, 15 Jul 2022 08:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='외계+인' 배우 김우빈이 돌아왔다. 김우빈은 영화 '마스터'(2016) 이후 '외계+인'으로 6년 만에 스크린에 컴백, 팔색조 매력을 펼쳐냈다. '외계+인' 1부는 고려 말 소문 속의 신검을 차지하려는 도사들과 2022년 인간의 몸 속에 수감된 외계인 죄수를 쫓는 이들 사이에 시간의 문이 열리며 펼쳐지는 이야기를 그린 영]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F14%2Fstarnews%2F20220714094715861xnkc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['오징어게임' 이유미, 美 에미상 여우게스트상 노미..韓 최초 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220715084317142</link>
             <guid>https://movie.v.daum.net/v/20220715084317142</guid>
@@ -621,14 +629,6 @@
             <pubDate>Fri, 15 Jul 2022 01:49:24 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 전형화 기자] '너의 이름은' 신카이 마코토 감독의 신작 '스즈메의 문단속' 첫 예고편이 공개됐다. 15일 수입사 미디어캐슬은 '스즈메의 문단속' 첫 번째 예고편이 이날 오전5시10분 전세계에 공개됐다고 알렸다. '스즈메의 문단속'은 '날씨의 아이' 이후 신카이 마코토 감독이 3년만에 선보이는 신작. 일본 각지의 폐허를 무대로 재앙의 원인이 되]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F15%2Fstarnews%2F20220715083022840qtwe.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['외계+인', 6년 만에 돌아온 김우빈..1인 4역 팔색조 매력 ③ (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220714094714636</link>
-            <guid>https://movie.v.daum.net/v/20220714094714636</guid>
-            <pubDate>Fri, 15 Jul 2022 08:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='외계+인' 배우 김우빈이 돌아왔다. 김우빈은 영화 '마스터'(2016) 이후 '외계+인'으로 6년 만에 스크린에 컴백, 팔색조 매력을 펼쳐냈다. '외계+인' 1부는 고려 말 소문 속의 신검을 차지하려는 도사들과 2022년 인간의 몸 속에 수감된 외계인 죄수를 쫓는 이들 사이에 시간의 문이 열리며 펼쳐지는 이야기를 그린 영]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F14%2Fstarnews%2F20220714094715861xnkc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["톰 크루즈는 35년동안 매일 똑같은 연기만해, X도 의미없어" 미키 루크 맹비난[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1307,7 +1307,7 @@
             <link>https://tv.naver.com/v/27969335</link>
             <guid>https://tv.naver.com/v/27969335</guid>
             <pubDate>Fri, 15 Jul 2022 09:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220715_213/MgaZJ_1657875843095vHD45_JPEG/f3d6a818-041c-11ed-b769-505dac8c35ff_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1315,7 +1315,7 @@
             <link>https://tv.naver.com/v/27968611</link>
             <guid>https://tv.naver.com/v/27968611</guid>
             <pubDate>Fri, 15 Jul 2022 09:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220715_123/gXUMj_1657874085510eyOdD_JPEG/d3589f35-0418-11ed-9fa8-505dacfba98a_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
