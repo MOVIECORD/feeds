@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 09:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 10:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['미니언즈2' 감독 " 70년대에 헌정하는 연애편지" (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004659006</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004659006</guid>
+            <pubDate>Sat, 16 Jul 2022 10:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[애니메이션 영화 '미니언즈2'가 스페셜 뉴트로 스틸을 공개하며 미니언들이 선사할 색다른 비주얼에 대한 기대를 높이고 있다. 이번에 공개된 스페셜 뉴트로 스틸은 7080년대의 빈티지한 감성을 그려내 시선을 사로잡는다.]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA['엘비스' 감독, GD와 초특급 컬래버 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004658982</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[○...넷플릭스 오리지널 한국 시리즈 '오징어 게임'이 미국 에미상 작품상 등 14개 후보로 오르는 등 새 역사를 썼다. 지난 13일 프라임타임 에미상(이하 에미상) 측은 미국 NBC 방송을 통해 올해 에미상 후보를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[어머머! 현영, 17년만에 배우로 온다 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000825830</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000825830</guid>
-            <pubDate>Sat, 16 Jul 2022 01:28:14 GMT</pubDate>
-            <content:encoded><![CDATA[현영이 17년 만에 배우로 돌아온다. 현영의 복귀작은 장애인 소재의 따뜻하고 애틋한 로맨스 영화 ‘짜장면 고맙습니다’이다. 현영은 15일 단편영화 제작사 라이트픽처스와 만나 충분한 논의 끝에 출연을 결정했다. 현영]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[탑건: 매버릭 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=114329</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=114329</guid>
@@ -255,6 +255,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4619f84419360c1690ebbe102d00e1fb81ccb19" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[체리마호: 30살까지 동정이면 마법사가 될 수 있대 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159401</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159401</guid>
+            <pubDate>Wed, 29 Jun 2022 01:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe70fc8038248a156b2b73959449e5cd1bc8ebd01" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[로스트 도터 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153229</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153229</guid>
@@ -285,14 +293,6 @@
             <pubDate>Wed, 06 Jul 2022 23:14:52 GMT</pubDate>
             <content:encoded><![CDATA[22.07.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1404bb12eaa304032dee2b7f0f6e6e1452981837" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[체리마호: 30살까지 동정이면 마법사가 될 수 있대 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159401</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159401</guid>
-            <pubDate>Wed, 29 Jun 2022 01:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe70fc8038248a156b2b73959449e5cd1bc8ebd01" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[큐어 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -615,20 +615,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F16%2Fstarnews%2F20220716100003168kkpr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[장혁·엘비스 제친 '명탐정 코난'..인기 애니 출격 채비 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220716102201695</link>
-            <guid>https://movie.v.daum.net/v/20220716102201695</guid>
-            <pubDate>Sat, 16 Jul 2022 04:28:16 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 김계연 기자 = 명탐정 코난이 '액션 장인' 장혁과 '로큰롤 황제' 엘비스 프레슬리를 제쳤다. 애니메이션 '명탐정 코난: 할로윈의 신부'가 이번 주 개봉한 영화 10여 편 가운데 관객수 1위를 차지하면서다. 여름방학을 앞두고 명탐정 코난을 비롯한 애니메이션들이 관객 맞을 채비를 마쳤다. '너의 이름은.'으로 일본 애니메이션의 역사를 새로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F16%2Fyonhap%2F20220716102201454odzx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[절대적 사랑과 희생, 그게 모성의 전부는 아니야 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220716140507504</link>
             <guid>https://movie.v.daum.net/v/20220716140507504</guid>
             <pubDate>Sat, 16 Jul 2022 06:22:49 GMT</pubDate>
             <content:encoded><![CDATA[☞한겨레S 뉴스레터 구독하기 https://bit.ly/319DiiE 배우 매기 질런홀의 감독 데뷔작 &lt;로스트 도터&gt;(The Lost Daughter)는 엘레나 페란테의 소설 &lt;잃어버린 사랑&gt;을 원작으로 한다. 페란테의 소설은 ‘위대한 모성’이라는 신화에 도전하고, 그에 가려져 있었던 여성의 내면을 드러낸 수작으로 평가받는다. 가부장제 사회는 오랜 세월 모]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F16%2Fhani%2F20220716155503414zohd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[장혁·엘비스 제친 '명탐정 코난'..인기 애니 출격 채비 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220716102201695</link>
+            <guid>https://movie.v.daum.net/v/20220716102201695</guid>
+            <pubDate>Sat, 16 Jul 2022 04:28:16 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 김계연 기자 = 명탐정 코난이 '액션 장인' 장혁과 '로큰롤 황제' 엘비스 프레슬리를 제쳤다. 애니메이션 '명탐정 코난: 할로윈의 신부'가 이번 주 개봉한 영화 10여 편 가운데 관객수 1위를 차지하면서다. 여름방학을 앞두고 명탐정 코난을 비롯한 애니메이션들이 관객 맞을 채비를 마쳤다. '너의 이름은.'으로 일본 애니메이션의 역사를 새로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F16%2Fyonhap%2F20220716102201454odzx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[TEN인터뷰] 7년 만에 돌아온 최동훈 감독 "내 영화 유치하다고? 의미있는 시도" (다음영화 뉴스 ─ 인기)]]></title>
@@ -1531,7 +1531,7 @@
             <link>https://tv.naver.com/v/27921351</link>
             <guid>https://tv.naver.com/v/27921351</guid>
             <pubDate>Wed, 13 Jul 2022 10:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220713_155/h3K95_1657705094829NLoEc_JPEG/5ee35973-028f-11ed-928a-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1539,7 +1539,7 @@
             <link>https://tv.naver.com/v/27921228</link>
             <guid>https://tv.naver.com/v/27921228</guid>
             <pubDate>Wed, 13 Jul 2022 10:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220713_262/QPEgW_1657704841884Cb19Y_JPEG/b1f92481-028e-11ed-b6ab-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1651,7 +1651,7 @@
             <link>https://tv.naver.com/v/27875005</link>
             <guid>https://tv.naver.com/v/27875005</guid>
             <pubDate>Mon, 11 Jul 2022 10:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220711_291/1i4YI_1657532425949a5Dgh_JPEG/511f11f2-00fd-11ed-aef4-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
