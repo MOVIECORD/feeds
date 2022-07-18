@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-07-18T18:21:15.764Z</updated>
+    <updated>2022-07-18T19:16:17.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[류준열 “남들 시선 신경 안 쓰는 게 닮았죠”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001540796</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001540796"/>
+        <updated>2022-07-18T19:14:40.924Z</updated>
+        <content type="html"><![CDATA[배우 류준열(사진)이 20일 개봉하는 영화 ‘외계+인’ 1부에서 고려시대 도사 무륵으로 분한다. 실력은 별론데 말만 앞서는 얼치기 도사를 특유의 능청맞은 연기로 표현한다. 류준열은 18일 서울 종로구 한 카페에서 기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['록키' 실베스터 스탤론 "조금이라도 내 영화 저작권 돌려달라"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013319194</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006225513"/>
         <updated>2022-07-18T14:29:13.002Z</updated>
         <content type="html"><![CDATA[배우 임수정이 18일 오후 서울 용산CGV에서 열린 영화 ‘외계+인’ 1부 VIP 시사회에 참석하고 있다. ‘외계+인’(감독 최동훈) 1부는 고려 말 소문 속의 신검을 차지하려는 도사들과 2022년 인간의 몸속에 갇]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김수현, 치명적인 인사]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006225512</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006225512"/>
-        <updated>2022-07-18T14:29:13.002Z</updated>
-        <content type="html"><![CDATA[배우김수현이 18일 오후 서울 용산CGV에서 열린 영화 ‘외계+인’ 1부 VIP 시사회에서 포즈를 취하고 있다. ‘외계+인’(감독 최동훈) 1부는 고려 말 소문 속의 신검을 차지하려는 도사들과 2022년 인간의 몸속]]></content>
     </entry>
 </feed>
