@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-07-19T20:25:51.427Z</updated>
+    <updated>2022-07-19T21:19:55.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[영화 - '외계+인' 1부] "시간의 문이 열리며 모든 것이 바뀐다"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=417&amp;aid=0000834170</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=417&amp;aid=0000834170"/>
+        <updated>2022-07-19T21:18:27.801Z</updated>
+        <content type="html"><![CDATA[고려 말 소문 속의 신검을 차지하려는 도사들과 2022년 인간의 몸 속에 수감된 외계인 죄수를 쫓는 이들 사이에 시간의 문이 열리며 펼쳐지는 이야기를 그린 영화 '외계+인' 1부. 최동훈 감독의 7년 만의 신작이자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김태리 "나는 최동훈 감독 세대교체 카드...검 이어 총 들었죠"[SS인터뷰]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000866839</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000866839"/>
+        <updated>2022-07-19T21:18:27.808Z</updated>
+        <content type="html"><![CDATA[“나는 최동훈 감독님의 세대교체 카드다. 슈퍼스타만 기용해온 감독님이 젊은 배우의 얼굴을 영화에 사용한다는 건 큰 의미가 있다.” 배우 김태리(32)는 몹시 들떠있었다. 20일 개봉을 앞둔 최동훈 감독의 신작 ‘외계]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기계체조 배운 '흥행 수표' 김태리 "역할에 한계 없다"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000687049</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000866727"/>
         <updated>2022-07-19T11:15:33.352Z</updated>
         <content type="html"><![CDATA[변요한, 김한민 감독, 박해일(왼쪽부터)이 19일 서울 잠실 롯데시네마 월드타워에서 열린 ‘한산: 용의 출현’ 시사회에서 포토타임을 갖고 있다.영화 ‘한산: 용의 출현’는 명량해전 5년 전, 진군 중인 왜군을 상대로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 포즈 취하는 '한산' 감독과 배우들]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000866716</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000866716"/>
-        <updated>2022-07-19T11:15:33.355Z</updated>
-        <content type="html"><![CDATA[조재윤, 김성균, 김성규, 김향기, 변요한, 김한민 감독, 박지환, 박해일, 옥택연(왼쪽부터)이 19일 서울 잠실 롯데시네마 월드타워에서 열린 ‘한산: 용의 출현’ 시사회에서 포토타임을 갖고 있다. 영화 ‘한산: 용]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] '한산' 감독과 배우들 "화이팅!"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000866715</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000866715"/>
-        <updated>2022-07-19T11:15:33.373Z</updated>
-        <content type="html"><![CDATA[조재윤, 김성균, 김성규, 김향기, 변요한, 김한민 감독, 박지환, 박해일, 옥택연(왼쪽부터)이 19일 서울 잠실 롯데시네마 월드타워에서 열린 ‘한산: 용의 출현’ 시사회에서 포토타임을 갖고 있다. 영화 ‘한산: 용]]></content>
     </entry>
 </feed>
