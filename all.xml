@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 15:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 16:28:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -255,6 +255,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1404bb12eaa304032dee2b7f0f6e6e1452981837" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[범죄도시2 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=122749</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=122749</guid>
+            <pubDate>Fri, 29 Apr 2022 16:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f7e3035989e7918c6426e541c864d0d8a295de2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[아이를 위한 아이 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160090</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160090</guid>
@@ -277,14 +285,6 @@
             <pubDate>Fri, 24 Jun 2022 20:16:13 GMT</pubDate>
             <content:encoded><![CDATA[22.07.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4619f84419360c1690ebbe102d00e1fb81ccb19" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[범죄도시2 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=122749</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=122749</guid>
-            <pubDate>Fri, 29 Apr 2022 16:30:19 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f7e3035989e7918c6426e541c864d0d8a295de2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[더 킬러: 죽어도 되는 아이 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -590,12 +590,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2Ftvdaily%2F20220722122809831isyf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[형보다 나은 동생..'한산', '명량'과 다른 세가지 [SS무비] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220722060104813</link>
-            <guid>https://movie.v.daum.net/v/20220722060104813</guid>
-            <pubDate>Thu, 21 Jul 2022 22:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울|조은별기자]또 ‘국뽕’(맹목적으로 자국을 찬양하는 행태)인가 싶었는데 좀 다른 ‘국뽕’이다. 영화 ‘한산: 용의 출현’(이하 ‘한산’)은 2014년 개봉한 영화 ‘명량’의 속편이자 내년 개봉예정인 ‘노량:죽음의 바다’로 이어지는 김한민 감독의 이순신 프로젝트 중 두 번째 작품이다. 8년 전 개봉한 전편이 1700만 관객동원이라]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2FSPORTSSEOUL%2F20220722060110194ppav.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['외계+인' 차별화 포인트 셋..#독창적 세계관 #신선한 구성 #국내 최고 앙상블 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220722155141103</link>
+            <guid>https://movie.v.daum.net/v/20220722155141103</guid>
+            <pubDate>Fri, 22 Jul 2022 13:35:53 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 영화 '외계+인'(감독 최동훈)&nbsp; 1부가 관객들의 반응을 이끌어내고 있는 차별화 포인트 세 가지를 공개했다. '외계+인' 1부는 고려 말 소문 속의 신검을 차지하려는 도사들과 2022년 인간의 몸 속에 수감된 외계인 죄수를 쫓는 이들 사이에 시간의 문이 열리며 펼쳐지는 이야기를 그린 영화다. ▲ 최동훈 감독의 새로운 상상력 첫]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2Fxportsnews%2F20220722155143738demy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[예술과 사랑, 현실과 허구..영화 '베르히만 아일랜드' (다음영화 뉴스 ─ 인기)]]></title>
@@ -606,12 +606,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F21%2Fyonhap%2F20220721080208360ldzd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['외계+인' 차별화 포인트 셋..#독창적 세계관 #신선한 구성 #국내 최고 앙상블 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220722155141103</link>
-            <guid>https://movie.v.daum.net/v/20220722155141103</guid>
-            <pubDate>Fri, 22 Jul 2022 13:35:53 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 영화 '외계+인'(감독 최동훈)&nbsp; 1부가 관객들의 반응을 이끌어내고 있는 차별화 포인트 세 가지를 공개했다. '외계+인' 1부는 고려 말 소문 속의 신검을 차지하려는 도사들과 2022년 인간의 몸 속에 수감된 외계인 죄수를 쫓는 이들 사이에 시간의 문이 열리며 펼쳐지는 이야기를 그린 영화다. ▲ 최동훈 감독의 새로운 상상력 첫]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2Fxportsnews%2F20220722155143738demy.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[형보다 나은 동생..'한산', '명량'과 다른 세가지 [SS무비] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220722060104813</link>
+            <guid>https://movie.v.daum.net/v/20220722060104813</guid>
+            <pubDate>Thu, 21 Jul 2022 22:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울|조은별기자]또 ‘국뽕’(맹목적으로 자국을 찬양하는 행태)인가 싶었는데 좀 다른 ‘국뽕’이다. 영화 ‘한산: 용의 출현’(이하 ‘한산’)은 2014년 개봉한 영화 ‘명량’의 속편이자 내년 개봉예정인 ‘노량:죽음의 바다’로 이어지는 김한민 감독의 이순신 프로젝트 중 두 번째 작품이다. 8년 전 개봉한 전편이 1700만 관객동원이라]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2FSPORTSSEOUL%2F20220722060110194ppav.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['미니언즈2' 로맨스·액션·어드벤처까지..명장면 BEST3 (다음영화 뉴스 ─ 인기)]]></title>
@@ -630,14 +630,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F21%2Fbntnews%2F20220721210403424zpqw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[빅픽처] "나는요, 완전 붕괴됐어요"..'헤어질 결심'이 낳은 기현상 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220722175111856</link>
-            <guid>https://movie.v.daum.net/v/20220722175111856</guid>
-            <pubDate>Fri, 22 Jul 2022 14:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 해준(박해일)은 한바탕 소리를 지르고 떠났다. 홀로 남겨진 서래(탕웨이)는 멍하게 서있다가 뭔가 떠올랐다는 듯 핸드폰을 꺼내든다. '붕괴'라는 단어를 검색창에 두드린다. '무너지고 깨어짐.' 서래는 알듯 모를 듯한 표정을 짓는다. 해준이 남긴 정확한 워딩은 이랬다. "나는요, 완전 '붕괴'됐어요" 명백히 부정적 뉘앙스의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2FSBSfunE%2F20220722175113620lrpr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[김태리 "'외계+인' 2부 무조건 재미있다. 두세 번 보면 고리가 풀릴 것" [인터뷰M] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220722190119162</link>
             <guid>https://movie.v.daum.net/v/20220722190119162</guid>
@@ -646,20 +638,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2FiMBC%2F20220722190122603caev.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[빅픽처] "나는요, 완전 붕괴됐어요"..'헤어질 결심'이 낳은 기현상 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220722175111856</link>
+            <guid>https://movie.v.daum.net/v/20220722175111856</guid>
+            <pubDate>Fri, 22 Jul 2022 14:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 해준(박해일)은 한바탕 소리를 지르고 떠났다. 홀로 남겨진 서래(탕웨이)는 멍하게 서있다가 뭔가 떠올랐다는 듯 핸드폰을 꺼내든다. '붕괴'라는 단어를 검색창에 두드린다. '무너지고 깨어짐.' 서래는 알듯 모를 듯한 표정을 짓는다. 해준이 남긴 정확한 워딩은 이랬다. "나는요, 완전 '붕괴'됐어요" 명백히 부정적 뉘앙스의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2FSBSfunE%2F20220722175113620lrpr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['외계+인' 류준열·김우빈→염정아·조우진..'노잼' 조합은 아니지(종합)[Oh!쎈 이슈] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220722235030193</link>
+            <guid>https://movie.v.daum.net/v/20220722235030193</guid>
+            <pubDate>Fri, 22 Jul 2022 16:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;극장 상영 중인 ‘외계+인’은 최동훈 감독의 차기작인 점도 주목할 만하지만, 출연자 라인업이 출중해 일단 눈길을 붙잡는 영화다. 1차적인 관심을 끄는 데만 급급하지 않았고, 시선을 모은 뒤 배우들이 연기력을 발휘해 캐릭터와 이야기에 생명력을 불어넣었다. 류준열과 김태리, 염정아와 조우진, 그리고 김우빈과 김우빈의 케미스트리가 돋]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2Fpoctan%2F20220722235031444glgy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[안타깝게도 '외계+인' 1부는 실망스럽다 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220722153900686</link>
             <guid>https://movie.v.daum.net/v/20220722153900686</guid>
             <pubDate>Fri, 22 Jul 2022 07:16:32 GMT</pubDate>
             <content:encoded><![CDATA[[원종빈 기자] *이 글에는 영화의 스포일러가 있습니다. 2022년 현재, 인간의 몸에 가두어진 외계인 죄수의 탈옥을 막기 위해 지구에 상주 중인 로봇 '가드'(김우빈)'와 '썬더(김대명)'. 인간의 일에 관여하지 않는다는 원칙 하에서&nbsp;이들은 지구의 여러 시간대에 죄수를 가둬두고, 자동차와 비행선으로 변신할 수 있는 썬더를 통해 시간여행을 하며 죄수들을 감]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2Fohmynews%2F20220722153901761koxc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스토퍼 놀란 신작 '오펜하이머', 내년 7월 개봉 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220722150305530</link>
-            <guid>https://movie.v.daum.net/v/20220722150305530</guid>
-            <pubDate>Fri, 22 Jul 2022 08:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 최고의 화제작으로 떠오른 영화 '오펜하이머'가 내년 여름 개봉한다. '다크 나이트' 3부작, '인셉션', '인터스텔라', '덩케르크', '테넷' 등 무수한 히트작을 남긴 거장 크리스토퍼 놀란 감독의 신작 '오펜하이머'가 오는 2023년 7월 21일 북미 개봉을 확정하고, 1차 포스터를 전격 공개했다. 영화는 제2차 세계대전 당시 핵무기 개발을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2Fstartoday%2F20220722150308593stlk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<요나스 프로젝트> 예고편 (우리 영화 볼래?)]]></title>
@@ -1306,7 +1306,7 @@
             <link>https://tv.naver.com/v/28101268</link>
             <guid>https://tv.naver.com/v/28101268</guid>
             <pubDate>Fri, 22 Jul 2022 06:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220722_166/F06GH_16584707542652Uenu_JPEG/0c602aed-0986-11ed-b44a-d4f5ef58ad5e_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1314,7 +1314,7 @@
             <link>https://tv.naver.com/v/28100200</link>
             <guid>https://tv.naver.com/v/28100200</guid>
             <pubDate>Fri, 22 Jul 2022 06:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220722_153/L7zXc_1658468429921cER0X_JPEG/a2fcbe78-0980-11ed-94ce-505dac8c381b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1322,7 +1322,7 @@
             <link>https://tv.naver.com/v/28099937</link>
             <guid>https://tv.naver.com/v/28099937</guid>
             <pubDate>Fri, 22 Jul 2022 06:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220722_2/TgUqF_1658467966895uIsrc_JPEG/50c7ef2a-097f-11ed-9fa8-505dacfba98a_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1330,7 +1330,7 @@
             <link>https://tv.naver.com/v/28099548</link>
             <guid>https://tv.naver.com/v/28099548</guid>
             <pubDate>Fri, 22 Jul 2022 05:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220722_181/N6lkc_165846740306695llK_PNG/1658467392035.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -1338,7 +1338,7 @@
             <link>https://tv.naver.com/v/28099348</link>
             <guid>https://tv.naver.com/v/28099348</guid>
             <pubDate>Fri, 22 Jul 2022 05:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220722_129/93F3T_1658466746046PIDKx_JPEG/a6a79b41-097c-11ed-8e34-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1346,7 +1346,7 @@
             <link>https://tv.naver.com/v/28095970</link>
             <guid>https://tv.naver.com/v/28095970</guid>
             <pubDate>Fri, 22 Jul 2022 03:50:24 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220722_102/uc2b0_1658457014564ognXI_JPEG/eba17fd1-0965-11ed-90b2-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1354,7 +1354,7 @@
             <link>https://tv.naver.com/v/28095659</link>
             <guid>https://tv.naver.com/v/28095659</guid>
             <pubDate>Fri, 22 Jul 2022 03:50:24 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220722_149/cgjYv_16584561955343RNAP_JPEG/35ac30bc-0964-11ed-81b1-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1362,7 +1362,7 @@
             <link>https://tv.naver.com/v/28094998</link>
             <guid>https://tv.naver.com/v/28094998</guid>
             <pubDate>Fri, 22 Jul 2022 03:50:24 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220722_16/YaeNH_1658454417933r0squ_JPEG/f230060f-095f-11ed-ba01-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
