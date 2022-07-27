@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 04:52:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 06:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F27%2Fohmynews%2F20220727104803502vmts.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA[[D:영화 뷰] '한산:용의 출현', 역대 흥행 1위 '명량'과 어떻게 달랐나]]></title>
-            <link>https://movie.v.daum.net/v/20220726075517392</link>
-            <guid>https://movie.v.daum.net/v/20220726075517392</guid>
-            <pubDate>Tue, 26 Jul 2022 08:19:55 GMT</pubDate>
-            <content:encoded><![CDATA['한산: 용의 출현'은 김한민 감독 이순신 3부작 프로젝트 중 두 번째 작품으로, 1761만 명으로 역대 박스오피스 1위를 차지한 '명량'의 후속작이다. '명량'은 2014년 개봉 첫 주말 88%의 좌석점유율을 차지하고, 12일 만에 1000만 관객에 돌파한데 이어 '아바타' 18일 째 1333만 명의 기록을 보유한 흥행 1위 '아바타'를 끌어내렸다. 그]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F26%2Fdailian%2F20220726075520234nxbw.jpg" length="0" type="image//thumb/S732x228/"/>
-        </item>
-        <item>
             <title><![CDATA[[공식] "故채드윅 보스만을 기리며"..'블랙 팬서2' 11월 국내 개봉 확정]]></title>
             <link>https://movie.v.daum.net/v/20220725185034747</link>
             <guid>https://movie.v.daum.net/v/20220725185034747</guid>
             <pubDate>Tue, 26 Jul 2022 08:19:55 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠조선 조지영 기자] 2018년 539만명의 관객을 돌파한 '블랙 팬서'(라이언 쿠글러 감독)의 후속편 '블랙 팬서: 와칸다 포에버'(이하 '블랙 팬서2', 라이언 쿠글러 감독)가 오는 11월 개봉을 확정했다. "와칸다 포에버"를 외치며 전 세계를 뜨겁게 달군 '블랙 팬서'의 새로운 이야기가 '블랙 팬서2'를 통해 공개된다. 지난 23일]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F25%2FSpoChosun%2F20220725185035072umjn.jpg" length="0" type="image//thumb/S384x240/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F25%2FSpoChosun%2F20220725185035072umjn.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
             <title><![CDATA['겟 아웃'·'어스' 조던 필 감독 신작 '놉' 북미 1위.."가장 강력한 영화"]]></title>
@@ -40,12 +32,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F27%2Fseouleconomy%2F20220727100615322bksl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[D:영화 뷰] '한산:용의 출현', 역대 흥행 1위 '명량'과 어떻게 달랐나]]></title>
+            <link>https://movie.v.daum.net/v/20220726075517392</link>
+            <guid>https://movie.v.daum.net/v/20220726075517392</guid>
+            <pubDate>Tue, 26 Jul 2022 08:19:55 GMT</pubDate>
+            <content:encoded><![CDATA['한산: 용의 출현'은 김한민 감독 이순신 3부작 프로젝트 중 두 번째 작품으로, 1761만 명으로 역대 박스오피스 1위를 차지한 '명량'의 후속작이다. '명량'은 2014년 개봉 첫 주말 88%의 좌석점유율을 차지하고, 12일 만에 1000만 관객에 돌파한데 이어 '아바타' 18일 째 1333만 명의 기록을 보유한 흥행 1위 '아바타'를 끌어내렸다. 그]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F26%2Fdailian%2F20220726075520234nxbw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[SC현장] '육사오' 고경표→곽동연, 충무로 대세 총출동.."유머와 위트는 빛과 소금"(종합)]]></title>
+            <link>https://movie.v.daum.net/v/20220727125358332</link>
+            <guid>https://movie.v.daum.net/v/20220727125358332</guid>
+            <pubDate>Wed, 27 Jul 2022 04:51:38 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 안소윤 기자] 영화 '육사오'가 한여름 무더위를 날려버릴 짜릿한 케미를 예고했다. 27일 오전 서울 광진구 건대입구 롯데시네마에서 코미디 영화 '육사오'(박규태 감독, 티피에스컴퍼니 제작) 제작보고회가 진행됐다. 행사에는 박규태 감독과 배우 고경표, 이이경, 음문석, 박세완, 곽동연, 이순원, 김민호가 참석했다. 오는 8월 개봉하]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F27%2FSpoChosun%2F20220727125358399vmvv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[뻔하지만 짜릿한 '그레이 맨'..이틀 연속 넷플릭스 정상]]></title>
             <link>https://movie.v.daum.net/v/20220725192015264</link>
             <guid>https://movie.v.daum.net/v/20220725192015264</guid>
             <pubDate>Tue, 26 Jul 2022 08:19:55 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 김정진 기자 = 넷플릭스 오리지널 영화 '그레이 맨'의 인기가 심상치 않다. 25일 온라인 콘텐츠 서비스 순위 집계 사이트 '플릭스 패트롤'에 따르면 영화는 공개 하루 만에 넷플릭스 영화 글로벌 순위 1위에 오른 뒤 이틀째 정상을 지키고 있다. 개봉 직후에는 콘텐츠 순위가 집계되는 89개국 중 87개국에서, 그다음 날은 88개국에서 1위를]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F25%2Fyonhap%2F20220725192015078fmqk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['영화가 뜨는 바다'..다시 돌아온 정동진독립영화제]]></title>
+            <link>https://movie.v.daum.net/v/20220727095709907</link>
+            <guid>https://movie.v.daum.net/v/20220727095709907</guid>
+            <pubDate>Wed, 27 Jul 2022 03:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[(강릉=연합뉴스) 유형재 기자 = '별이 지는 하늘, 영화가 뜨는 바다' 올해 정동진독립영화제가 다시 한여름에 돌아온다. 제24회 정동진독립영화제가 8월 5∼7일 강원 강릉시 정동초등학교 운동장에서 강릉씨네마떼끄와 한국영상자료원 공동 주최로 열린다. 개막식은 8월 5일 오후 7시 30분 이상희·우지현 배우의 사회로 진행되며, 싱어송라이터 '데이먼스 이어'의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F27%2Fyonhap%2F20220727095709420eabk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[위대한 희생이 아니라 작은 인간성이 재난을 이긴다..영화 '비상선언'[리뷰]]]></title>
@@ -56,12 +72,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F27%2Fkhan%2F20220727112547901ijtz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['영화가 뜨는 바다'..다시 돌아온 정동진독립영화제]]></title>
-            <link>https://movie.v.daum.net/v/20220727095709907</link>
-            <guid>https://movie.v.daum.net/v/20220727095709907</guid>
-            <pubDate>Wed, 27 Jul 2022 03:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[(강릉=연합뉴스) 유형재 기자 = '별이 지는 하늘, 영화가 뜨는 바다' 올해 정동진독립영화제가 다시 한여름에 돌아온다. 제24회 정동진독립영화제가 8월 5∼7일 강원 강릉시 정동초등학교 운동장에서 강릉씨네마떼끄와 한국영상자료원 공동 주최로 열린다. 개막식은 8월 5일 오후 7시 30분 이상희·우지현 배우의 사회로 진행되며, 싱어송라이터 '데이먼스 이어'의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F27%2Fyonhap%2F20220727095709420eabk.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[조용한 울림이 있는 독립영화]]></title>
+            <link>https://movie.v.daum.net/v/20220727130006449</link>
+            <guid>https://movie.v.daum.net/v/20220727130006449</guid>
+            <pubDate>Wed, 27 Jul 2022 04:51:38 GMT</pubDate>
+            <content:encoded><![CDATA[MICROHABITAT &lt;소공녀&gt; &lt;소공녀&gt;가 깊은 공감을 산 이유 중 하나는 현재 청춘 세대들의 가치관을 캐릭터 속에 자연스럽게 녹여냈기 때문이다. 3년 차 프로 가사도우미 ‘미소’는 하루를 마무리하는 한 잔의 위스키, 그리고 일상의 작은 쉼을 주는 한 모금의 담배, 사랑하는 남자친구와의 소소한 데이트를 포기할 수 없어 과감히 ‘집’을 포기한다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F27%2FOUTDOOR%2F20220727130007787lwvn.png" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[평범한 삶이란 얼마나 어려운가..영화 '멋진 세계']]></title>
@@ -80,12 +96,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F27%2Fjoongang%2F20220727082046880qdos.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[SC현장] '육사오' 고경표→곽동연, 충무로 대세 총출동.."유머와 위트는 빛과 소금"(종합)]]></title>
-            <link>https://movie.v.daum.net/v/20220727125358332</link>
-            <guid>https://movie.v.daum.net/v/20220727125358332</guid>
-            <pubDate>Wed, 27 Jul 2022 04:51:38 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 안소윤 기자] 영화 '육사오'가 한여름 무더위를 날려버릴 짜릿한 케미를 예고했다. 27일 오전 서울 광진구 건대입구 롯데시네마에서 코미디 영화 '육사오'(박규태 감독, 티피에스컴퍼니 제작) 제작보고회가 진행됐다. 행사에는 박규태 감독과 배우 고경표, 이이경, 음문석, 박세완, 곽동연, 이순원, 김민호가 참석했다. 오는 8월 개봉하]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F27%2FSpoChosun%2F20220727125358399vmvv.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['DC 슈퍼펫' 해외 소셜 리뷰 공개 "가족이 함께 봐야 할 영화"]]></title>
+            <link>https://movie.v.daum.net/v/20220727135728020</link>
+            <guid>https://movie.v.daum.net/v/20220727135728020</guid>
+            <pubDate>Wed, 27 Jul 2022 06:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[오는 8월 10일 국내 개봉을 앞둔 영화 'DC 슈퍼펫'이 미국 LA에서 진행된 프리미어 시사 이후 해외 관객들의 소셜 리뷰를 공개했다. [수입/배급: 워너브러더스 코리아㈜ㅣ감독: 자레드 스턴, 샘 레빈ㅣ목소리 출연: 드웨인 존슨, 케빈 하트, 키아누 리브스 외] DC 확장 유니버스가 선보이는 파워 댕댕 슈퍼펫들의 유쾌한 어드벤처를 그린 영화 'DC]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F27%2FiMBC%2F20220727135729229chma.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[작지만 강한 '아이를 위한 아이' 미공개 스틸 공개]]></title>
+            <link>https://movie.v.daum.net/v/20220726170805584</link>
+            <guid>https://movie.v.daum.net/v/20220726170805584</guid>
+            <pubDate>Wed, 27 Jul 2022 01:28:49 GMT</pubDate>
+            <content:encoded><![CDATA[올해의 문제적 성장 영화 '아이를 위한 아이'가 웰메이드로 호평 받는 가운데 미공개 스틸로 화답했다. 영화 '아이를 위한 아이(이승환 감독)'는 보육원 퇴소를 앞둔 도윤(현우석) 앞에 15년 만에 아버지(정웅인)가 나타나며 벌어지는 올해의 문제적 성장 영화다. '아이를 위한 아이'는 연령별 예매분포에서 20대부터 30대, 40대, 50대까지 고른 분]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F26%2FJTBC%2F20220726170807673gqij.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[우리는 정말 SNS를 '이용하고' 있는걸까]]></title>
+            <link>https://movie.v.daum.net/v/20220726181201742</link>
+            <guid>https://movie.v.daum.net/v/20220726181201742</guid>
+            <pubDate>Wed, 27 Jul 2022 01:28:49 GMT</pubDate>
+            <content:encoded><![CDATA[[오은교 기자] ▲ &nbsp;넷플릭스 오리지널 다큐멘터리 '소셜 딜레마'    ⓒ 오은교  &nbsp; 지금 우리는 소셜 미디어에 푹 빠져 살고 있다. 지금 당장 밖으로 나가 주위를 둘러보기만 해도 카페에서 인스타를 보며 친구와 수다를 떨고 있는 사람, 혼자 식사를 하며 밥친구로 유튜브를 보는 사람을 심심찮게 볼 수 있을 것이다. 서서히 일상에 스며들어와 자]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F26%2Fohmynews%2F20220726181203748cadh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[빵빵 터진다..곽동연→음문석, 남북 코미디 '육사오'[종합]]]></title>
+            <link>https://movie.v.daum.net/v/20220727115404848</link>
+            <guid>https://movie.v.daum.net/v/20220727115404848</guid>
+            <pubDate>Wed, 27 Jul 2022 03:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[환상의 팀워크가 완성해 낸 환장의 코미디다. 여름 극장가에 웃음 폭탄을 투척 할 영화 '육사오'가 관객들과 만난다. 박규태 감독은 27일 오전 건대입구 롯데시네마에서 열린 영화 '육사오'(감독 박규태) 제작보고회에서 “로또를 보면 45개 번호 중에 6개를 맞추면 1등이다. 6/45인데 한글로 제목을 한 건 남북 간의 이야기이기 때문"이라고 운을 뗐다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F27%2Fstartoday%2F20220727115409648yzde.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[리뷰] 웃음으로 고발하는 루마니아판 '내로남불']]></title>
@@ -104,52 +144,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F26%2FSBSfunE%2F20220726095707317icga.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[우리는 정말 SNS를 '이용하고' 있는걸까]]></title>
-            <link>https://movie.v.daum.net/v/20220726181201742</link>
-            <guid>https://movie.v.daum.net/v/20220726181201742</guid>
-            <pubDate>Wed, 27 Jul 2022 01:28:49 GMT</pubDate>
-            <content:encoded><![CDATA[[오은교 기자] ▲ &nbsp;넷플릭스 오리지널 다큐멘터리 '소셜 딜레마'    ⓒ 오은교  &nbsp; 지금 우리는 소셜 미디어에 푹 빠져 살고 있다. 지금 당장 밖으로 나가 주위를 둘러보기만 해도 카페에서 인스타를 보며 친구와 수다를 떨고 있는 사람, 혼자 식사를 하며 밥친구로 유튜브를 보는 사람을 심심찮게 볼 수 있을 것이다. 서서히 일상에 스며들어와 자]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F26%2Fohmynews%2F20220726181203748cadh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[작지만 강한 '아이를 위한 아이' 미공개 스틸 공개]]></title>
-            <link>https://movie.v.daum.net/v/20220726170805584</link>
-            <guid>https://movie.v.daum.net/v/20220726170805584</guid>
-            <pubDate>Wed, 27 Jul 2022 01:28:49 GMT</pubDate>
-            <content:encoded><![CDATA[올해의 문제적 성장 영화 '아이를 위한 아이'가 웰메이드로 호평 받는 가운데 미공개 스틸로 화답했다. 영화 '아이를 위한 아이(이승환 감독)'는 보육원 퇴소를 앞둔 도윤(현우석) 앞에 15년 만에 아버지(정웅인)가 나타나며 벌어지는 올해의 문제적 성장 영화다. '아이를 위한 아이'는 연령별 예매분포에서 20대부터 30대, 40대, 50대까지 고른 분]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F26%2FJTBC%2F20220726170807673gqij.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[브래드 피트 난리난 치마패션 [Oh!llywood]]]></title>
             <link>https://movie.v.daum.net/v/20220727085511402</link>
             <guid>https://movie.v.daum.net/v/20220727085511402</guid>
             <pubDate>Wed, 27 Jul 2022 01:28:49 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=최나영 기자] 영화&nbsp;'불릿 트레인'의 주역들이 전 세계 팬들의 뜨거운 환호 속에 런던, 베를린, 파리에서 유럽 투어를 성황리에 개최했다. '불릿 트레인'(수입/배급: 소니 픽쳐스)는 미션수행을 위해 탈출이 불가능한 초고속 열차에 탑승한 언럭키 가이 '레이디버그’(브래드 피트)와 고스펙 킬러들의 피 튀기는 전쟁을 담은 논스톱 액션 블록버스터.]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F27%2Fpoctan%2F20220727085512030owbp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[빵빵 터진다..곽동연→음문석, 남북 코미디 '육사오'[종합]]]></title>
-            <link>https://movie.v.daum.net/v/20220727115404848</link>
-            <guid>https://movie.v.daum.net/v/20220727115404848</guid>
-            <pubDate>Wed, 27 Jul 2022 03:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[환상의 팀워크가 완성해 낸 환장의 코미디다. 여름 극장가에 웃음 폭탄을 투척 할 영화 '육사오'가 관객들과 만난다. 박규태 감독은 27일 오전 건대입구 롯데시네마에서 열린 영화 '육사오'(감독 박규태) 제작보고회에서 “로또를 보면 45개 번호 중에 6개를 맞추면 1등이다. 6/45인데 한글로 제목을 한 건 남북 간의 이야기이기 때문"이라고 운을 뗐다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F27%2Fstartoday%2F20220727115409648yzde.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[조용한 울림이 있는 독립영화]]></title>
-            <link>https://movie.v.daum.net/v/20220727130006449</link>
-            <guid>https://movie.v.daum.net/v/20220727130006449</guid>
-            <pubDate>Wed, 27 Jul 2022 04:51:38 GMT</pubDate>
-            <content:encoded><![CDATA[MICROHABITAT &lt;소공녀&gt; &lt;소공녀&gt;가 깊은 공감을 산 이유 중 하나는 현재 청춘 세대들의 가치관을 캐릭터 속에 자연스럽게 녹여냈기 때문이다. 3년 차 프로 가사도우미 ‘미소’는 하루를 마무리하는 한 잔의 위스키, 그리고 일상의 작은 쉼을 주는 한 모금의 담배, 사랑하는 남자친구와의 소소한 데이트를 포기할 수 없어 과감히 ‘집’을 포기한다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F27%2FOUTDOOR%2F20220727130007787lwvn.png" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[김향기, '한산' 속 유일한 여성 주연의 존재감]]></title>
-            <link>https://movie.v.daum.net/v/20220726090721080</link>
-            <guid>https://movie.v.daum.net/v/20220726090721080</guid>
-            <pubDate>Tue, 26 Jul 2022 08:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김향기는 '한산: 용의 출현'의 유일한 여성 주연이다. 이번 작품은 김향기에게 실로 현명한 선택이었다. '한산: 용의 출현'은 김향기를 더욱 빛나게 만들었다. 오는 27일 개봉하는 영화 '한산: 용의 출현'은 명량해전 5년 전, 진군 중인 왜군을 상대로 조선을 지키기 위해 필사의 전략과 패기로 뭉친 이순신 장군과 조선 수군의 한산해전을 그린 전쟁 액션]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F26%2Fhankooki%2F20220726090724051bune.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[이이경 "'자기야' 수상소감 후 차태현 반응, 앞으로 상 안 받을 거냐고.."(육사오)]]></title>
@@ -160,12 +160,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F27%2Fnewsen%2F20220727115446152oqvb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰②] 송강호 "초대형 비행기 세트 보며 부러웠는데 막상 보니 공포스러워"('비상선언')]]></title>
-            <link>https://movie.v.daum.net/v/20220727105024346</link>
-            <guid>https://movie.v.daum.net/v/20220727105024346</guid>
-            <pubDate>Wed, 27 Jul 2022 04:51:38 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 배우 송강호(55)가 "초대형 비행기 짐벌 세트 보고 공포스러웠다"고 말했다. 송강호가 27일 오전 스포츠조선과 가진 화상 인터뷰를 통해 항공 재난 영화 '비상선언'(한재림 감독, MAGNUM 9 제작)의 비하인드 에피소드를 전했다. '비상선언'은 사상 초유의 항공테러로 무조건적 착륙을 선포한 비행기를 두고 벌어지는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F27%2FSpoChosun%2F20220727105025060ervs.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['외계+인' 류준열 "장발 관리 힘들어..짧게 자르고 후련"[씨네타운]]]></title>
+            <link>https://movie.v.daum.net/v/20220727115155793</link>
+            <guid>https://movie.v.daum.net/v/20220727115155793</guid>
+            <pubDate>Wed, 27 Jul 2022 06:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 류준열 / 사진=SBS 보는라디오 류준열이 영화 '외계+인'을 촬영하며 장발을 관리하는 것이 힘들었다고 밝혔다. 27일 방송된 SBS 파워FM '박하선의 씨네타운'의 '씨네초대석'에는 영화 '외계+인' 1부의 류준열이 게스트로 출연해 다양한 이야기를 나눴다. '외계+인' 1부는 인간의 몸에 가둬진 외계인 죄수의 탈옥을 막기]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F27%2Fstarnews%2F20220727115156460alob.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
