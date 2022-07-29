@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 15:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 16:25:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['외계+인' 1부 류준열X김우빈X김태리의 애정·열정..2차 비하인드스틸 10종 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003577286</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003577286</guid>
+            <pubDate>Fri, 29 Jul 2022 16:24:00 GMT</pubDate>
+            <content:encoded><![CDATA['외계+인' 1부의 2차 비하인드 스틸이 공개됐다. 영화 '외계+인' 1부는 인간의 몸에 가둬진 외계인 죄수의 탈옥을 막기 위해 631년 전으로 가게 된 ‘가드’와 ‘이안’이 얼치기 도사 ‘무륵’, 그리고 신선들과]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[배우 강안나 , 영화 ‘독친’ 출연 낙점 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000828293</link>
@@ -174,13 +181,6 @@
             <guid>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013344225</guid>
             <pubDate>Fri, 29 Jul 2022 08:22:07 GMT</pubDate>
             <content:encoded><![CDATA[4대 에이전시 중 하나인 UTA…졸리·컴버배치·매커보이 등과 '한솥밥' 강애란 기자 김우진 인턴기자 = 배우 박해수가 미국의 에이전시와 계약을 맺고 본격적으로 세계 무대의 문을 두드린다. BH엔터테인먼트는 소속 배우]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[팝인터뷰]김태리 "김태호 PD, 브이로그 자문..내가 봐도 귀여워 돌려본 부분 있다" (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003577201</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003577201</guid>
-            <pubDate>Fri, 29 Jul 2022 08:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김태리가 김태호 PD와의 협업 비화를 전했다. 김태리는 tvN 드라마 '스물다섯 스물하나' 종영 후 소속사 매니지먼트mmm 공식 유튜브 채널을 통해 브이로그 '거기가 여긴가'를 공개, 팬들에게 즐거움을 안겨줬다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한산: 용의 출현 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -374,20 +374,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a73823a7439031dd6f85da7ac0d8d3f1800e7c6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[베르히만 아일랜드 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152002</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152002</guid>
-            <pubDate>Tue, 26 Jul 2022 07:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8fc399e3ee3b5783d821fe5859535137a9d2fb18" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[보일링 포인트 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153341</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153341</guid>
             <pubDate>Tue, 26 Jul 2022 23:16:16 GMT</pubDate>
             <content:encoded><![CDATA[22.08.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69b1bc2d7897d00081a009950e2fdee3ce42f7a8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[베르히만 아일랜드 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152002</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152002</guid>
+            <pubDate>Tue, 26 Jul 2022 07:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8fc399e3ee3b5783d821fe5859535137a9d2fb18" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[뱅크시 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -412,6 +412,14 @@
             <pubDate>Fri, 29 Jul 2022 10:20:15 GMT</pubDate>
             <content:encoded><![CDATA[22.08.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F97296033750286cabbf31f49105fb5405ff145bd" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[귀멸의 칼날: 남매의 연 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=130678</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=130678</guid>
+            <pubDate>Fri, 29 Jul 2022 16:24:17 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9658311d7ee1c1838b64de56e05ef703857b9065" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[육사오(6/45) (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -462,22 +470,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0c30fd2ef0f5c4ed65ed3fec092803bb5d635083" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[데이 투 다이 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158379</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158379</guid>
-            <pubDate>Wed, 13 Jul 2022 01:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[22.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F249d0cfc57de4f88a2e0efa08419f619d2c8e498" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[파천문 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=161279</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=161279</guid>
-            <pubDate>Wed, 20 Jul 2022 01:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[22.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb7265d8d301a03b2b69576c5e728a5577e27e88b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[웨딩 시즌 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151517</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151517</guid>
@@ -500,6 +492,14 @@
             <pubDate>Wed, 27 Jul 2022 23:16:05 GMT</pubDate>
             <content:encoded><![CDATA[22.08.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6a4132c418ce8001d0e78895f7309ec226aee14d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[프레이 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161002</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161002</guid>
+            <pubDate>Fri, 29 Jul 2022 16:24:17 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a45c37e0d2ab9e147efb5619604f889c1a6ba08" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[[환경-자연 영화] 30년간 집 밖으로 나가지 않은 괴짜 화가 (다음영화 뉴스 ─ 인기)]]></title>
@@ -574,14 +574,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F29%2FiMBC%2F20220729142659451eyfi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[변요한 "일본 갑옷에 몸 맞추려 15kg 증량, 뿌듯함 있는 작업이었다" [인터뷰M] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220728130141025</link>
-            <guid>https://movie.v.daum.net/v/20220728130141025</guid>
-            <pubDate>Fri, 29 Jul 2022 01:25:44 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '한산: 용의 출현'에서 일본 장수 '와키자카 야스하루(이하 와키자카)'를 연기한 변요한을 만났다. 변요한은 극중에서 해상과 육지 전투에서 모두 능한 왜군 수군 최고 사령관 ‘와키자카’를 맡아 전쟁에서의 승리를 위해서라면 무엇도 마다하지 않는 대담함과 잔혹함, 실전을 통해 다져진 탁월한 지략을 갖춰 모두가 두려워하는 이순신과의 전쟁에서도 전혀 흔들리지]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F28%2FiMBC%2F20220728130145220cwrz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['DC 슈퍼펫' 드웨인 존슨·케빈 하트, 한국 관객들에게 보낸 그리팅 영상 공개 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220729100554065</link>
             <guid>https://movie.v.daum.net/v/20220729100554065</guid>
@@ -590,12 +582,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F29%2FiMBC%2F20220729100555560xxwm.png" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['미니언즈2' 100만 돌파 기념! 미니언들의 합창 클립 공개 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220729102053694</link>
-            <guid>https://movie.v.daum.net/v/20220729102053694</guid>
-            <pubDate>Fri, 29 Jul 2022 05:27:37 GMT</pubDate>
-            <content:encoded><![CDATA[올해 개봉한 애니메이션으로서는 첫 100만 돌파를 기록하며 또 한 번의 '미니언 신드롬'을 이어가고 있는 영화 '미니언즈2'가 어딘지 모르게 비밀스러운 장례식 속 '오토'의 소울 가득 열창의 순간이 담긴 오토와 미니언들의 합창 클립을 공개하며 흥행 열기를 이어간다. [제작: 일루미네이션 엔터테인먼트, 수입/배급: 유니버설 픽쳐스, 감독: 카일 발다, 목소]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F29%2FiMBC%2F20220729102054855tscj.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[변요한 "일본 갑옷에 몸 맞추려 15kg 증량, 뿌듯함 있는 작업이었다" [인터뷰M] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220728130141025</link>
+            <guid>https://movie.v.daum.net/v/20220728130141025</guid>
+            <pubDate>Fri, 29 Jul 2022 01:25:44 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '한산: 용의 출현'에서 일본 장수 '와키자카 야스하루(이하 와키자카)'를 연기한 변요한을 만났다. 변요한은 극중에서 해상과 육지 전투에서 모두 능한 왜군 수군 최고 사령관 ‘와키자카’를 맡아 전쟁에서의 승리를 위해서라면 무엇도 마다하지 않는 대담함과 잔혹함, 실전을 통해 다져진 탁월한 지략을 갖춰 모두가 두려워하는 이순신과의 전쟁에서도 전혀 흔들리지]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F28%2FiMBC%2F20220728130145220cwrz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[뻔한데 재미있는 아이러니 '그레이 맨' (다음영화 뉴스 ─ 인기)]]></title>
@@ -606,12 +598,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F28%2FIZE%2F20220728092909500uyoy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['헤어질 결심'에 미친 '헤결사'들 집착 부른 디테일 넷 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220729153809349</link>
-            <guid>https://movie.v.daum.net/v/20220729153809349</guid>
-            <pubDate>Fri, 29 Jul 2022 13:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '헤어질 결심'이 N차 관람 열기로 장기 흥행 질주를 이어가고 있는 가운데, 영화 속 숨은 디테일들이 '헤결사'들을 더욱 미치게 만들고 있다. 영화 '헤어질 결심'(감독 박찬욱)은 산에서 벌어진 변사 사건을 수사하게 된 형사 '해준'(박해일)이 사망자의 아내 '서래'(탕웨이)를 만나고 의심과 관심을 동시에 느끼며 시작되는 이야기를]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F29%2Fnewsen%2F20220729153809775txxm.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['미니언즈2' 100만 돌파 기념! 미니언들의 합창 클립 공개 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220729102053694</link>
+            <guid>https://movie.v.daum.net/v/20220729102053694</guid>
+            <pubDate>Fri, 29 Jul 2022 05:27:37 GMT</pubDate>
+            <content:encoded><![CDATA[올해 개봉한 애니메이션으로서는 첫 100만 돌파를 기록하며 또 한 번의 '미니언 신드롬'을 이어가고 있는 영화 '미니언즈2'가 어딘지 모르게 비밀스러운 장례식 속 '오토'의 소울 가득 열창의 순간이 담긴 오토와 미니언들의 합창 클립을 공개하며 흥행 열기를 이어간다. [제작: 일루미네이션 엔터테인먼트, 수입/배급: 유니버설 픽쳐스, 감독: 카일 발다, 목소]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F29%2FiMBC%2F20220729102054855tscj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['리미트' 이정현x문정희x진서연, 사상 최악 유괴사건..긴장감 폭발 (다음영화 뉴스 ─ 인기)]]></title>
@@ -620,6 +612,14 @@
             <pubDate>Fri, 29 Jul 2022 11:13:59 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;반전에 반전을 거듭하는 예측불허한 전개로 압도적 서스펜스를 선사할 범죄 스릴러 '리미트'의 긴장감을 엿볼 수 있는 캐릭터 스틸이 공개됐다. 아동 연쇄 유괴사건 피해자 엄마의 대역을 맡은 생활안전과 소속 경찰 소은(이정현 분)이 사건을 해결하던 도중 의문의 전화를 받으면서 최악의 위기에 빠지게 되는 범죄 스릴러 '리미트'(감독 이]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F28%2Fpoctan%2F20220728104210149aepd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['헤어질 결심'에 미친 '헤결사'들 집착 부른 디테일 넷 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220729153809349</link>
+            <guid>https://movie.v.daum.net/v/20220729153809349</guid>
+            <pubDate>Fri, 29 Jul 2022 13:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '헤어질 결심'이 N차 관람 열기로 장기 흥행 질주를 이어가고 있는 가운데, 영화 속 숨은 디테일들이 '헤결사'들을 더욱 미치게 만들고 있다. 영화 '헤어질 결심'(감독 박찬욱)은 산에서 벌어진 변사 사건을 수사하게 된 형사 '해준'(박해일)이 사망자의 아내 '서래'(탕웨이)를 만나고 의심과 관심을 동시에 느끼며 시작되는 이야기를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F29%2Fnewsen%2F20220729153809775txxm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[위대한 '엘비스'[곽명동의 씨네톡] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1306,7 +1306,7 @@
             <link>https://tv.naver.com/v/28250858</link>
             <guid>https://tv.naver.com/v/28250858</guid>
             <pubDate>Fri, 29 Jul 2022 10:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_238/XJ2Ms_1659087574654chqCV_JPEG/87f4fbb9-0f21-11ed-9d93-d4f5ef590144_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1314,7 +1314,7 @@
             <link>https://tv.naver.com/v/28250592</link>
             <guid>https://tv.naver.com/v/28250592</guid>
             <pubDate>Fri, 29 Jul 2022 10:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_55/3TDWh_1659086971066cQb0z_JPEG/ce5e9b58-0f20-11ed-94ce-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1322,7 +1322,7 @@
             <link>https://tv.naver.com/v/28249727</link>
             <guid>https://tv.naver.com/v/28249727</guid>
             <pubDate>Fri, 29 Jul 2022 09:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_61/bqo2R_1659085073157Xmrn1_JPEG/56518f4d-0f1c-11ed-81b1-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1330,7 +1330,7 @@
             <link>https://tv.naver.com/v/28249204</link>
             <guid>https://tv.naver.com/v/28249204</guid>
             <pubDate>Fri, 29 Jul 2022 09:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_27/1UwNW_1659084154142A3vBQ_JPEG/40d74772-0f1a-11ed-8e34-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1338,7 +1338,7 @@
             <link>https://tv.naver.com/v/28248991</link>
             <guid>https://tv.naver.com/v/28248991</guid>
             <pubDate>Fri, 29 Jul 2022 09:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_179/PLi2U_1659083839197gV9iM_JPEG/86463383-0f19-11ed-8e34-505dac8c3721_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1346,7 +1346,7 @@
             <link>https://tv.naver.com/v/28243562</link>
             <guid>https://tv.naver.com/v/28243562</guid>
             <pubDate>Fri, 29 Jul 2022 07:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_86/O9xdz_1659076983460y7gbI_JPEG/7df87385-0f09-11ed-94ce-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1354,7 +1354,7 @@
             <link>https://tv.naver.com/v/28241334</link>
             <guid>https://tv.naver.com/v/28241334</guid>
             <pubDate>Fri, 29 Jul 2022 06:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_209/DiYLS_1659073528502GfBal_JPEG/1659073506268.JPG?type=f194_109_blend" length="0" type="image/JPG"/>
         </item>
         <item>
@@ -1362,7 +1362,7 @@
             <link>https://tv.naver.com/v/28240785</link>
             <guid>https://tv.naver.com/v/28240785</guid>
             <pubDate>Fri, 29 Jul 2022 06:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_76/SM8Qe_1659072731814TS1sq_JPEG/6a5715a0-0efd-11ed-9fa8-505dacfba98a_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
