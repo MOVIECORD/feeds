@@ -4,9 +4,17 @@
         <title>다음영화 뉴스 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 03:48:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 04:38:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['헌트', 빈틈·숨 쉴 틈 없는 '수작' [김나연의 사선]]]></title>
+            <link>https://v.daum.net/v/20220730130001647</link>
+            <guid>https://v.daum.net/v/20220730130001647</guid>
+            <pubDate>Sat, 30 Jul 2022 04:37:03 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] [편집자주] 영화를 보는 김나연 기자의 사적인 시선 헌트 / 사진=영화 스틸컷신념과 신념이 부딪히는 쫓고 쫓기는 사냥터. 이정재와 정우성이 뜨겁고 강렬하게 부딪히는 영화 '헌트'는 빈틈도, 숨 쉴 틈도 없다. 영화 '헌트'는 조직 내 숨어든 스파이를 색출하기 위해 서로를 의심하는 안기부 요원 '박평호'와 '김정도'가 '대한민국]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F30%2Fstarnews%2F20220730130003054grvp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
         <item>
             <title><![CDATA[100만↑ '한산:용의 출현', 원톱 박해일 일조 [박스오피스]]]></title>
             <link>https://v.daum.net/v/20220730123807564</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 29 Jul 2022 22:16:26 GMT</pubDate>
             <content:encoded><![CDATA[“‘명량’이 있었기에 ’한산’이 태어났다고 생각합니다. 뭐가 더 재미있냐고요? 당연히 ‘한산’이죠. 하하!” 변요한(36)은 이 같이 말하며 수줍게 웃었다. 왜군 수군 최고 사령관 와키자카로 열연한 그는 연신 ‘한산’에 대한 자부심과 애정을 뽐냈다. “‘명량’과 마찬가지로 ‘한산’ 역시 김한민 감독이 촬영 당시 최대한의 기술력으로 만든 작품이라고 생각해요]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F30%2Fstartoday%2F20220730070304588vgqe.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['한산'으로 "극장은 부산!" 주말 대기 관객만 37만[박스오피스]]]></title>
-            <link>https://v.daum.net/v/20220730070004449</link>
-            <guid>https://v.daum.net/v/20220730070004449</guid>
-            <pubDate>Fri, 29 Jul 2022 22:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] “압도적인” 입소문의 시작. 개봉 불과 사흘만에 100만 돌파가 목전이다. 김한민-박해일 콤비의 역작 ‘한산:용의 출현’이 그렇다. 화제작 ‘한산:용의 출현’이 오프닝 스코어에 육박하는 개봉 사흘째 성적을 거두며 어느새 95만을 넘어섰다. 현 추세대 로라면 100만 돌파는 개봉 76시간째인 7월30일 정오 전후가 될 것이 확실시돼]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F30%2Fnewsen%2F20220730070006140ypkm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
