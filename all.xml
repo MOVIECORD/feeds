@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 19:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 20:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기대작-'비상선언'(상)] "가장 완벽한 장르 영화의 탄생"…호평 세례 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000164135</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000164135</guid>
+            <pubDate>Sun, 31 Jul 2022 20:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[한재림 감독, 5년 만의 신작…첫선 보인 칸 영화제서 기립박수 한재림 감독의 영화 '비상선언'이 오는 3일 베일을 벗는다. 송강호 이병헌 전도연 김남길 임시완 김소진 박해준까지 '드림 캐스팅'으로 개봉 전부터 화제를]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[‘한산’ 개봉 5일째 누적 관객 200만명 돌파 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003720720</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[한국 신작 ‘한산: 용의 출현’(이하 '한산)이 개봉 5일 만에 200만 돌파에 성공한 가운데 장기 흥행 중인 ‘탑건 : 매버릭'(이하 '탑건2')도 700만이 넘는 관객을 동원하며 극장가를 뜨겁게 달구고 있다. 3]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘한산’ 개봉 5일 만에 관객수 200만명 넘어 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=021&amp;aid=0002524409</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=021&amp;aid=0002524409</guid>
-            <pubDate>Sun, 31 Jul 2022 06:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[‘탑건2’는 700만명 돌파 박해일·변요한 주연의 ‘한산: 용의 출현’이 개봉 닷새째인 31일 누적 관객수 200만 명을 돌파했다고 배급사 롯데엔터테인먼트가 전했다. 지난 27일 개봉한 ‘한산’은 전날 오전 누적 관]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[한산: 용의 출현 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=139666</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=139666</guid>
@@ -270,14 +270,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa8bb59792be27ba3f51b20b427873611e15e1c1d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[배드 럭 뱅잉 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=148293</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=148293</guid>
-            <pubDate>Thu, 28 Jul 2022 03:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc62cb08b5707192441930e5c1a5e443c5b7ce305" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[마녀(魔女) Part2. The Other One (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=146758</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=146758</guid>
@@ -324,6 +316,14 @@
             <pubDate>Fri, 29 Jul 2022 15:20:06 GMT</pubDate>
             <content:encoded><![CDATA[22.07.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4b76d2dcf9d429d6ca8fefa7a2fc1171a322ae8c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[배드 럭 뱅잉 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148293</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148293</guid>
+            <pubDate>Thu, 28 Jul 2022 03:41:13 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc62cb08b5707192441930e5c1a5e443c5b7ce305" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[체리마호: 30살까지 동정이면 마법사가 될 수 있대 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -660,6 +660,14 @@
             <pubDate>Sun, 31 Jul 2022 19:14:08 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김미화 기자] 박해일 /사진=롯데엔터테인먼트 배우 박해일이 이순신 장군으로 스크린에 돌아왔다.  역대 최고 흥행작 '명량'의 뒤를 잇는 '한산'. 그 속에서 온 국민이 사람하는 한국의 위인 이순신을 연기한 박해일은 대사나 행동이 아닌 눈빛과 표정으로 영화를 꽉 채운다. 박해일은 자신을 꾹꾹 누르며 냉철하고 침착한 이순신 장군의 지략을 스크린에 펼]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F31%2Fstarnews%2F20220731123010478bwxz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[기대작-'비상선언'(상)] "가장 완벽한 장르 영화의 탄생"..호평 세례 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220801050014934</link>
+            <guid>https://v.daum.net/v/20220801050014934</guid>
+            <pubDate>Sun, 31 Jul 2022 20:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[한재림 감독, 5년 만의 신작…첫선 보인 칸 영화제서 기립박수 &nbsp; 한재림 감독의 영화 '비상선언'이 오는 3일 베일을 벗는다. 송강호 이병헌 전도연 김남길 임시완 김소진 박해준까지 '드림 캐스팅'으로 개봉 전부터 화제를 모은 작품은 출연진의 이름만으로도 예비 관객들을 설레게 하고 있다. '비상선언'의 매력과 관람 포인트를 짚어본다. &lt;편집자 주&gt; []]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F01%2FTHEFACT%2F20220801050017800joek.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[<사랑할 땐 누구나 최악이 된다> 1차 예고편 (우리 영화 볼래?)]]></title>
