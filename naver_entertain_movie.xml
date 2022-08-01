@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-08-01T18:23:16.895Z</updated>
+    <updated>2022-08-01T19:14:11.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[낙태 문제 다룬 ‘더 제인스’ 개막작 선정]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001543780</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001543780"/>
+        <updated>2022-08-01T19:12:37.873Z</updated>
+        <content type="html"><![CDATA[서울국제여성영화제의 개막작이 불법 낙태 문제를 다룬 ‘더 제인스’(The Janes)로 선정됐다. 티아 레슨, 에마 필더스 감독의 작품으로 영화에 등장하는 여성 7명은 ‘제인’이란 이름으로 비밀 조직에서 활동한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부산 다큐의 저력…두 여성감독 DMZ국제다큐영화제 본선행]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000016344</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002626419"/>
         <updated>2022-08-01T09:18:03.393Z</updated>
         <content type="html"><![CDATA[영화 '탑건: 매버릭'이 국내에서 팬데믹 이후 외화 중 최고 흥행 수익 1위 및 파라마운트 역대 최고 흥행 수익을 기록했다. 지난달 31일 영화진흥위원회 통합전산망에 따르면 '탑건: 매버릭'은 752억 5300만 6]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘입소문’에 울고 웃고…엇갈린 ‘외계+인’ 1부-‘한산: 용의 출현’[M+이슈]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001680816</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001680816"/>
-        <updated>2022-08-01T09:18:03.397Z</updated>
-        <content type="html"><![CDATA[‘외계+인’과 ‘한산: 용의 출현’이 개봉 이후 ‘입소문’으로 인해 상반된 행보를 이어가고 있다. 최근 거리두기가 해제됨에 따라 취식이 가능해지고, 밀려있던 영화들이 하나둘 개봉하며 극장가에는 활기가 돌고 있다. 또]]></content>
     </entry>
 </feed>
