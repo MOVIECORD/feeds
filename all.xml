@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 15:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 16:24:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이정재 첫 영화 ‘헌트’ 해외 144개국에 선판매 [연예뉴스 HOT] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000996142</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000996142</guid>
+            <pubDate>Mon, 01 Aug 2022 16:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이정재가 처음 연출한 영화 ‘헌트’가 해외 144개국에 선판매됐다. 1일 배급사 메가박스에 따르면 일본·대만·홍콩 등 아시아를 비롯해 독일·프랑스·브라질·멕시코 등 유럽과 남미 국가에서 판권을 구매했다. 10일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[김희선, 19년 만에 스크린 복귀 '달짝지근해' 크랭크인 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000164402</link>
@@ -174,13 +181,6 @@
             <guid>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006253594</guid>
             <pubDate>Mon, 01 Aug 2022 09:18:03 GMT</pubDate>
             <content:encoded><![CDATA[영화 '탑건: 매버릭'이 최고 흥행 기록을 달성했다. 1일 배급사 롯데엔터테인먼트에 따르면 '탑건: 매버릭'은 지난달 31일 영화진흥위원회 통합전산망 기준, 팬데믹 이후 외국 영화 중 최고 흥행 수익 1위 기록 및]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘헌트’ 이정재 5일 LG 시구자로 등판 “MLB도 지켜볼 것” (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000610185</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000610185</guid>
-            <pubDate>Mon, 01 Aug 2022 08:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[영화가 시즌 중 개봉되니 그야말로 한국 시리즈에서나 볼 수 있을 법한 ‘코시급 시구 이벤트’도 펼쳐진다. 화제작 ‘헌트’의 이정재와 정우성이 잠실벌에 출격한다. D-데이는 8월5일. 2, 3위 숨막히는 순위 혈전을]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한산: 용의 출현 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -550,6 +550,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F01%2Fstarnews%2F20220801150545591oxsk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['탑건: 매버릭', 이러다 '타이타닉'도 넘겠네 [공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220801204012843</link>
+            <guid>https://movie.v.daum.net/v/20220801204012843</guid>
+            <pubDate>Mon, 01 Aug 2022 12:36:07 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=하수정 기자] 2022년 전 세계를 강타한 최고 흥행작 '탑건: 매버릭'(수입배급 롯데엔터테인먼트)이 영진위 통합전산망 박스오피스 지난달 31일 기준 팬데믹 이후 외국 영화 중, 최고 흥행 수익 1위 기록 및 파라마운트 역대 최고 흥행 수익 기록을 달성했다.&nbsp; '탑건: 매버릭'은 752억 5300만 6786원을 돌파하며 '스파이더맨: 노 웨이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F01%2Fpoctan%2F20220801204014152cgee.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[첫 연출작으로 관객 마음 사냥 성공한 이정재 감독의 '헌트' (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220801093752916</link>
             <guid>https://movie.v.daum.net/v/20220801093752916</guid>
@@ -564,22 +572,6 @@
             <pubDate>Mon, 01 Aug 2022 10:18:49 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠서울|조은별기자]할리우드 영화 ‘탑건:매버릭’(이하 ‘탑건2’)이 개봉 41일만에 700만 관객을 돌파했다. ‘탑건2’ 수입배급사 롯데 엔터테인먼트는 31일 “‘탑건2’가 이날 오후 1시 누적 관객 수 700만을 돌파했다”고 밝혔다. ‘탑건2’는 개봉 4일째 100만, 8일째 200만, 12일째 300만, 18일째 400만, 23일]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F31%2FSPORTSSEOUL%2F20220731163615164jopa.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[빅픽처] "이러다 다 죽어"..1,100억 대 텐트폴 시장, 이상한 기류 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220801180339810</link>
-            <guid>https://movie.v.daum.net/v/20220801180339810</guid>
-            <pubDate>Mon, 01 Aug 2022 12:36:07 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 한국의 극장가에서 7월과 8월은 연중 최대 관객이 몰리는 극성수기다. 학생들의 방학과 어른들의 휴가 시즌이 몰린 이 시기는 관객들이 평균 한 편 이상의 영화를 보는 시즌이다. 북미는 전통적으로 5월 마지막 주 월요일 즉 '메모리얼 데이'부터 성수기가 시작된다. 이 시기를 전후로 연중 최고 기대작이 개봉한다. 할리우드 대작]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F01%2FSBSfunE%2F20220801180342111oxak.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['탑건: 매버릭', 이러다 '타이타닉'도 넘겠네 [공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220801204012843</link>
-            <guid>https://movie.v.daum.net/v/20220801204012843</guid>
-            <pubDate>Mon, 01 Aug 2022 12:36:07 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=하수정 기자] 2022년 전 세계를 강타한 최고 흥행작 '탑건: 매버릭'(수입배급 롯데엔터테인먼트)이 영진위 통합전산망 박스오피스 지난달 31일 기준 팬데믹 이후 외국 영화 중, 최고 흥행 수익 1위 기록 및 파라마운트 역대 최고 흥행 수익 기록을 달성했다.&nbsp; '탑건: 매버릭'은 752억 5300만 6786원을 돌파하며 '스파이더맨: 노 웨이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F01%2Fpoctan%2F20220801204014152cgee.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[현빈, ♥손예진과 결혼 후 '공조2' 첫 복귀..9월 개봉 확정 [공식] (다음영화 뉴스 ─ 인기)]]></title>
@@ -598,12 +590,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F01%2Fohmynews%2F20220801145701720ctth.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[122분 동안 박해일보다 더 주목받은, 진짜 주인공 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220731122700584</link>
-            <guid>https://movie.v.daum.net/v/20220731122700584</guid>
-            <pubDate>Sun, 31 Jul 2022 03:42:45 GMT</pubDate>
-            <content:encoded><![CDATA[[양형석 기자] 대한민국 건국 이후 가장 많은 관객을 동원한 영화는 바로 지난 2014년에 개봉해 1760만 관객을 동원했던 &lt;명량&gt;이다(영화관입장권 통합전산망 기준). 하지만 &lt;명량&gt;이 개봉하기 전까지만 해도 한국인이 가장 존경하는 인물 중 한 명인 이순신 장군은 충무로에서 금기시되는 인물이었다. 1962년과 1971년 &lt;성웅 이순신&gt;,1977년 &lt;난중일]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F31%2Fohmynews%2F20220731122704538gxzy.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[빅픽처] "이러다 다 죽어"..1,100억 대 텐트폴 시장, 이상한 기류 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220801180339810</link>
+            <guid>https://movie.v.daum.net/v/20220801180339810</guid>
+            <pubDate>Mon, 01 Aug 2022 12:36:07 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 한국의 극장가에서 7월과 8월은 연중 최대 관객이 몰리는 극성수기다. 학생들의 방학과 어른들의 휴가 시즌이 몰린 이 시기는 관객들이 평균 한 편 이상의 영화를 보는 시즌이다. 북미는 전통적으로 5월 마지막 주 월요일 즉 '메모리얼 데이'부터 성수기가 시작된다. 이 시기를 전후로 연중 최고 기대작이 개봉한다. 할리우드 대작]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F01%2FSBSfunE%2F20220801180342111oxak.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['확장된 스토리텔링' 최동훈 감독, 韓 SF 장르의 새 도전 ['외계+인' ing②] (다음영화 뉴스 ─ 인기)]]></title>
@@ -622,12 +614,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F01%2Fseouleconomy%2F20220801154158749oqkb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[122분 동안 박해일보다 더 주목받은, 진짜 주인공 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220731122700584</link>
+            <guid>https://movie.v.daum.net/v/20220731122700584</guid>
+            <pubDate>Sun, 31 Jul 2022 03:42:45 GMT</pubDate>
+            <content:encoded><![CDATA[[양형석 기자] 대한민국 건국 이후 가장 많은 관객을 동원한 영화는 바로 지난 2014년에 개봉해 1760만 관객을 동원했던 &lt;명량&gt;이다(영화관입장권 통합전산망 기준). 하지만 &lt;명량&gt;이 개봉하기 전까지만 해도 한국인이 가장 존경하는 인물 중 한 명인 이순신 장군은 충무로에서 금기시되는 인물이었다. 1962년과 1971년 &lt;성웅 이순신&gt;,1977년 &lt;난중일]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F31%2Fohmynews%2F20220731122704538gxzy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[어린 딸 두고 도망친 엄마, 대체 왜 그랬을까 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220801152125850</link>
             <guid>https://movie.v.daum.net/v/20220801152125850</guid>
             <pubDate>Mon, 01 Aug 2022 11:14:30 GMT</pubDate>
             <content:encoded><![CDATA[[장혜령 기자] &nbsp;        ▲ &nbsp;영화 &lt;로스트 도터&gt; 스틸    ⓒ 그린나래미디어(주)  &nbsp; 대학에서 비교문학 교수인 레다(올리비아 콜맨)는 휴가 겸 일을 하러 한적한 그리스에 왔다. 젠틀한 30년 지기 관리인 라일(에드 해리스)과 귀여운 경영학과 대학생 윌(폴 메스칼)의 호위를 받으며 편안한 휴가를 즐기고 있었다. 과한 친절과 자연의 호젓함을 즐기던]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F01%2Fohmynews%2F20220801152127088hrpk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[어느 셰프의 악몽같은 크리스마스..영화 '보일링 포인트' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220731145011628</link>
+            <guid>https://movie.v.daum.net/v/20220731145011628</guid>
+            <pubDate>Mon, 01 Aug 2022 14:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 김계연 기자 = 크리스마스를 앞둔 금요일 영국 런던의 한 레스토랑. 손님이 백 명 정도 찾는 연중 가장 바쁜 날이다. 프러포즈할 예정인 커플에 스타 셰프까지 신경써야 할 손님도 많다. 이혼 위기를 맞고 있는 헤드셰프 앤디(스티븐 그레이엄 분)는 출근길부터 마음이 불편하다. 환경부에서 나온 위생관리관은 온갖 트집을 잡더니 평가점수를 강등한다]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F31%2Fyonhap%2F20220731145011439fzrt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[불명예 퇴장 '외계+인', 다시 만날 2부는..[MK무비] (다음영화 뉴스 ─ 인기)]]></title>
@@ -646,20 +654,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F01%2Fsportsdonga%2F20220801082521938bbbf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[어느 셰프의 악몽같은 크리스마스..영화 '보일링 포인트' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220731145011628</link>
-            <guid>https://movie.v.daum.net/v/20220731145011628</guid>
-            <pubDate>Mon, 01 Aug 2022 14:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 김계연 기자 = 크리스마스를 앞둔 금요일 영국 런던의 한 레스토랑. 손님이 백 명 정도 찾는 연중 가장 바쁜 날이다. 프러포즈할 예정인 커플에 스타 셰프까지 신경써야 할 손님도 많다. 이혼 위기를 맞고 있는 헤드셰프 앤디(스티븐 그레이엄 분)는 출근길부터 마음이 불편하다. 환경부에서 나온 위생관리관은 온갖 트집을 잡더니 평가점수를 강등한다]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F31%2Fyonhap%2F20220731145011439fzrt.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["28kg 감량" 진서연, 남다른 다이어트→허경환 "김종국 제압 가능" 도발 ('미우새')[종합] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220801083056745</link>
-            <guid>https://movie.v.daum.net/v/20220801083056745</guid>
-            <pubDate>Mon, 01 Aug 2022 15:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박하영 기자] ‘미운 우리 새끼’ 배우 진서연이 초고속 혼인신고부터 남다른 육아 비결을 밝혔다. 31일 방송된 SBS 예능 ‘미운 우리 새끼’(이하 ‘미우새’)에서는 진서연이 스페셜 MC로 등장해 남편과의 일화를 공개했다. 이날 서장훈은 “아무리 노력해도 안 되는게 하나 있다더라. 바로 남편인데 남편이 결혼한 ‘미우새’라는 게 무슨 말이야”라고]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F01%2Fpoctan%2F20220801083058196zluw.png" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[정우성, 팬한테 또 프러포즈하네..군번줄 목걸이 직접 걸어줘 '깜짝'(헌트) (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220801201704679</link>
+            <guid>https://movie.v.daum.net/v/20220801201704679</guid>
+            <pubDate>Mon, 01 Aug 2022 16:23:02 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=하수정 기자] 언론과 관객의 뜨거운 호평을 받으며 2022년 가장 완벽한 첩보 액션 드라마로 기대를 모으는 영화 '헌트'가 이동진 평론가와 함께하는 GV를 성황리에 마쳤다. '헌트'(감독 이정재, 제공배급 메가박스중앙㈜플러스엠, 제작 ㈜아티스트스튜디오·㈜사나이픽처스)는 조직 내 숨어든 스파이를 색출하기 위해 서로를 의심하는 안기부 요원 박평호]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F01%2Fpoctan%2F20220801201705012pmro.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[김희선, 19년 만에 스크린 복귀 '달짝지근해' 크랭크인 (다음영화 뉴스 ─ 최신)]]></title>
@@ -1314,7 +1314,7 @@
             <link>https://tv.naver.com/v/28298729</link>
             <guid>https://tv.naver.com/v/28298729</guid>
             <pubDate>Mon, 01 Aug 2022 08:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220801_146/yM7fJ_1659342082755oUMEO_JPEG/a0a0574e-1172-11ed-b77c-48df379cca40_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1322,7 +1322,7 @@
             <link>https://tv.naver.com/v/28298498</link>
             <guid>https://tv.naver.com/v/28298498</guid>
             <pubDate>Mon, 01 Aug 2022 08:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220801_17/Cc1Kf_1659341721101tppOq_JPEG/e19fb48a-1171-11ed-b769-505dac8c35ff_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1330,7 +1330,7 @@
             <link>https://tv.naver.com/v/28298352</link>
             <guid>https://tv.naver.com/v/28298352</guid>
             <pubDate>Mon, 01 Aug 2022 08:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220801_187/TGuT7_1659341447118GePC3_JPEG/22ccd88a-1171-11ed-9fa8-505dacfba98a_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1338,7 +1338,7 @@
             <link>https://tv.naver.com/v/28297201</link>
             <guid>https://tv.naver.com/v/28297201</guid>
             <pubDate>Mon, 01 Aug 2022 08:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220801_110/BuDBE_1659339199654DBNTU_JPEG/19e2d767-116c-11ed-bb12-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1346,7 +1346,7 @@
             <link>https://tv.naver.com/v/28297117</link>
             <guid>https://tv.naver.com/v/28297117</guid>
             <pubDate>Mon, 01 Aug 2022 08:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220801_116/o1MLD_1659339017939ch11s_JPEG/b0053f2d-116b-11ed-b769-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1354,7 +1354,7 @@
             <link>https://tv.naver.com/v/28297064</link>
             <guid>https://tv.naver.com/v/28297064</guid>
             <pubDate>Mon, 01 Aug 2022 08:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220801_152/uay9K_1659338862293kQ1Pw_JPEG/08dda712-116b-11ed-928a-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1362,7 +1362,7 @@
             <link>https://tv.naver.com/v/28296897</link>
             <guid>https://tv.naver.com/v/28296897</guid>
             <pubDate>Mon, 01 Aug 2022 08:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220801_218/HzPls_16593385218074NVyP_JPEG/852abefe-116a-11ed-94ce-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1370,7 +1370,7 @@
             <link>https://tv.naver.com/v/28296792</link>
             <guid>https://tv.naver.com/v/28296792</guid>
             <pubDate>Mon, 01 Aug 2022 07:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220801_253/L2e7q_1659338265338iaFLd_JPEG/cc11093b-1169-11ed-b77c-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1378,7 +1378,7 @@
             <link>https://tv.naver.com/v/28294271</link>
             <guid>https://tv.naver.com/v/28294271</guid>
             <pubDate>Mon, 01 Aug 2022 05:52:19 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220801_211/curvV_1659332162636lM9aK_JPEG/a516473e-115b-11ed-bb12-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1386,7 +1386,7 @@
             <link>https://tv.naver.com/v/28291072</link>
             <guid>https://tv.naver.com/v/28291072</guid>
             <pubDate>Mon, 01 Aug 2022 04:05:04 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220801_55/xuh3B_1659321467370fCEc8_JPEG/d28b9535-1142-11ed-90b2-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1394,7 +1394,7 @@
             <link>https://tv.naver.com/v/28290966</link>
             <guid>https://tv.naver.com/v/28290966</guid>
             <pubDate>Mon, 01 Aug 2022 04:05:04 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220801_204/BSIU1_1659321129365HSGMk_JPEG/bed77190-1141-11ed-8e34-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1402,7 +1402,7 @@
             <link>https://tv.naver.com/v/28289786</link>
             <guid>https://tv.naver.com/v/28289786</guid>
             <pubDate>Mon, 01 Aug 2022 01:44:17 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220801_142/i4xvi_1659317165526ubsxu_JPEG/9dee8a3f-1138-11ed-9d93-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1450,7 +1450,7 @@
             <link>https://tv.naver.com/v/28245000</link>
             <guid>https://tv.naver.com/v/28245000</guid>
             <pubDate>Sun, 31 Jul 2022 23:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_183/rZIGO_16590790029917QzuE_JPEG/4b00b6e2-0f0e-11ed-928a-48df37ae3dc4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
