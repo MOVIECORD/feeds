@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-08-03T12:33:00.874Z</updated>
+    <updated>2022-08-03T13:40:06.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박보균 문체부 장관 “‘우영우’봐라, 콘텐츠가 승부처”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000829122</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000829122"/>
+        <updated>2022-08-03T13:38:43.248Z</updated>
+        <content type="html"><![CDATA[박보균 문화체육관광부 장관이 채널 인지도 열세를 극복하고 인기몰이를 하고 있는 ENA 드라마 ‘이상한 변호사 우영우’를 예로 들며 “콘텐츠가 승부처”라고 주장했다. 박 장관은 이날 서울 용산구 저작권보호과 서울사무소]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 '한산' 개봉 8일째 300만 돌파]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000554157</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000611113"/>
         <updated>2022-08-03T09:15:15.316Z</updated>
         <content type="html"><![CDATA[“나한테(만) 왜 이런 일이 일어나지?” 우리에겐 ‘비상한 예지력’으로 보이지만, 정작 한재림 자신은 ‘숙명’이라고 할 수도 있겠다. 사실상 예언에 가까웠던 일들이 그의 필모에 새겨져 있고, 이제 막 선보이게 된 신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최동훈 감독→소지섭 '외계+인', 다시 무대인사 나선다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003671483</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003671483"/>
-        <updated>2022-08-03T09:15:15.317Z</updated>
-        <content type="html"><![CDATA[코로나19에 확진됐던 최동훈 감독과 배우 김태리, 소지섭이 건강을 되찾고 김우빈, 조우진과 함께 다시 '외계+인' 1부 무대인사에 나선다. 코로나19 확진으로 7월 말 무대인사를 취소했던 '외계+인' 팀이 오는 6일]]></content>
     </entry>
 </feed>
