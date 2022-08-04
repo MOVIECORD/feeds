@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-08-04T19:15:54.023Z</updated>
+    <updated>2022-08-04T20:21:45.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“자랑스런 아들”‥‘청춘스타’ 아이돌파=엔싸인, 데뷔 하자마자 1억원 획득[어제TV]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000611696</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000611696"/>
+        <updated>2022-08-04T20:20:12.061Z</updated>
+        <content type="html"><![CDATA[5월부터 시작된 '청춘스타' 대장정, 1억 원의 주인공은 역시 아이돌파였다. 8월 4일 방송된 채널A '청춘스타'에서는 파이널 생방송 무대에 임하는 톱7의 모습이 담겼다. 이날 아이돌파 7인이 뭉쳐 만든 팀의 새로운]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CGV, 日애니 '귀멸의 칼날' 극장판 스페셜 시리즈 5편 상영(공식)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003578581</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000048077"/>
         <updated>2022-08-04T10:17:27.467Z</updated>
         <content type="html"><![CDATA[&lt;명량&gt;에 이어 &lt;한산&gt;은 권유진 의상감독이 김한민 감독과 함께 작업한 세 번째 작품이다. 시대물 작업을 할 때마다 당시의 의복 유행과 관련 자료 조사를 철저히 한다는 권유진 의상감독은 조선군 투구에 적힌 문구, 각]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한산: 용의 출현' 정성진, 정철민 VFX 슈퍼바이저 "거북선의 용머리가 어느 각도에서도 위엄을 갖추도록"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000048076</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000048076"/>
-        <updated>2022-08-04T10:17:27.468Z</updated>
-        <content type="html"><![CDATA[“시나리오가 가진 힘이 대단했고 이걸 구현하는 게 관건이겠다는 생각을 했다.”(정성진 VFX 슈퍼바이저) 이순신 장군의 일기 &lt;난중일기&gt;와 김훈 작가의 &lt;칼의 노래&gt;, 이순신에 관한 다큐멘터리, 그 밖의 영상 자료들]]></content>
     </entry>
 </feed>
