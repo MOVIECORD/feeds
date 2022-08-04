@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-08-04T14:15:26.357Z</updated>
+    <updated>2022-08-04T15:21:53.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘엘에이카운티미술관 아트+필름 갈라’ 박찬욱 감독 한국인으로 첫 선정]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002601240</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002601240"/>
+        <updated>2022-08-04T15:20:15.930Z</updated>
+        <content type="html"><![CDATA[이탈리아 럭셔리 브랜드 구찌는 4일 자사가 후원하는 미국 ‘로스앤젤레스 카운티 미술관(LACMA) 아트+필름 갈라'의 올해 수상자로 박찬욱(사진) 감독이 선정해 발표했다. &lt;헤어질 결심&gt;으로 칸영화제 감독상을 받은]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[새영화]폭염·폭우 피해 진구·도라에몽과 극장 데이트 어때요]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000915883</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000915883"/>
+        <updated>2022-08-04T15:20:15.933Z</updated>
+        <content type="html"><![CDATA[이번 주 극장가에는 강릉 스피드스케이팅 경기장과 고성 화암사 부지 등에서 촬영된 ‘한산:용의 출현’이 관객들을 모으고 있다. 이어 강릉에서 촬영된 영화이자 지난해 칸 영화제 비경쟁 부문에 초청됐던 ‘비상선언’이 개봉]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김유미, 웹영화 ‘800억 소년’ 주인공 캐스팅…김동휘, 박명훈과 호흡[공식]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000829354</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000048075"/>
         <updated>2022-08-04T10:17:27.475Z</updated>
         <content type="html"><![CDATA[- 시사회 반응이 좋다. = 여러모로 감사하고 겸허해진다. 시사 후 들었던 이야기 중엔 ‘가슴이 웅장해진다’는 표현이 와닿았다. 어떤 형태로든 관객의 자긍심을 고취시킬 수 있었다면 다행이다. 영화를 통해 응원받았다는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다시, 운명의 파도에 오르다 '한산: 용의 출현' 살펴보기]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000048074</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000048074"/>
-        <updated>2022-08-04T10:17:27.476Z</updated>
-        <content type="html"><![CDATA[2022년 여름 극장가의 승자가 될 수 있을까. 1761만명의 관객이 선택한 역대 한국영화 흥행 1위 &lt;명량&gt;(2013)의 속편 &lt;한산: 용의 출현&gt;(이하 &lt;한산&gt;)이 7월27일 드디어 스크린의 바다를 향해 출항,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10년 전 영화로 뭉쳤던 세 사람, 죽음으로 시작된 이야기]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002362031</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002362031"/>
-        <updated>2022-08-04T09:14:50.338Z</updated>
-        <content type="html"><![CDATA[&lt;모퉁이&gt; ▲ 영화 &lt;모퉁이&gt; 관련 이미지. ⓒ 영화사 그램 10년 전 영화 하나로 뭉쳤던 이들이 오해가 생겼고 인연이 끊겼다. 여전히 영화를 연출하고 연기하고 있지만 망가진 관계는 영영 회복할 기미가 보이지 않는다]]></content>
     </entry>
 </feed>
