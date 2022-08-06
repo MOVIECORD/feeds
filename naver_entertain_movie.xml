@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-08-06T19:13:52.439Z</updated>
+    <updated>2022-08-06T21:16:04.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰]이정재 "관상 때 전성긴 줄 알았는데 인생 참…"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011348475</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011348475"/>
+        <updated>2022-08-06T21:14:34.379Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 영화 '헌트'로 데뷔 30년만에 감독으로 '오겜' 메가 히트 후 감독으로 또 홈런 "이런 일 벌어지다니 말로 표현 안 돼" "책임감 갖고 성실히 일해 기회 온 듯" 230억원 대작 연출 "관객 좋아할]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[내가 본 '박해일'] 인사 대신 시를 읊은 진중할 결심]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000165376</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001485603"/>
         <updated>2022-08-06T10:16:28.754Z</updated>
         <content type="html"><![CDATA[영화 '한산: 용의 출현'이 개봉 11일째 400만 관객을 돌파했다. 영화 '한산: 용의 출현'이 6일 개봉 11일째 400만 관객을 모았다. 이는 천만 흥행작 '광해, 왕이 된 남자'(16일)보다 속도가 빠르며 ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비상선언' 100만 관객 돌파…이병헌→임시완 웃음만 나와 [공식입장]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001485602</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001485602"/>
-        <updated>2022-08-06T10:16:28.754Z</updated>
-        <content type="html"><![CDATA[영화 '비상선언'이 영진위 통합전산망 기준 6일 오후 2시 30분, 개봉 4일째 100만 관객을 돌파했다. 이는 '탑건: 매버릭'과 '한산: 용의 출현'과 동일한 추이로 팬데믹 이전 개봉한 재난 영화 '엑시트'(20]]></content>
     </entry>
 </feed>
