@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-08-08T12:31:39.263Z</updated>
+    <updated>2022-08-08T13:41:35.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[모순된 현대 사회, ‘아이 시선’으로 ‘구원 가능성’ 읽어내다···학술 부문(영화평론) 수상 송보림 작가[2022 박인환상]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003165332</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003165332"/>
+        <updated>2022-08-08T13:40:10.233Z</updated>
+        <content type="html"><![CDATA[‘제3회 박인환상’ 영화평론 부문 수상작은 송보림씨(사진)의 ‘아이가 집으로 돌아가는 길’이다. 폴 토마스 앤더슨의 &lt;매그놀리아&gt; &lt;마스터&gt; &lt;부기 나이트&gt; &lt;데어 윌 비 블러드&gt; &lt;펀치 드렁크 러브&gt; 등을 비평 대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더핑크퐁컴퍼니, ‘핑크퐁 아기상어’ 극장판 장편 애니메이션 2023년 개봉]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000829916</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000620984"/>
         <updated>2022-08-08T08:27:45.459Z</updated>
         <content type="html"><![CDATA[오는 10월에 열리는 제27회 부산국제영화제가 영화제와 마켓 공식 포스터를 8일 전격 공개했다. 이번에 공개된 포스터에는 맑은 하늘 아래 바다를 응시하는 관객의 모습이 담겨 눈길을 끈다. 이는 영화의 바다라 불리는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비상선언', 역바이럴 피해 의혹…쇼박스 "자료 수집 중"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002628342</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002628342"/>
-        <updated>2022-08-08T08:27:45.461Z</updated>
-        <content type="html"><![CDATA[영화 '비상선언'이 바이럴 업체로부터 의도적으로 평을 깎아내리는 일명 '역바이럴'을 당했다는 의혹에 자료를 수집 중이다. 최근 온라인 커뮤니티를 중심으로 '비상선언'에 대한 안 좋은 평을 남긴 댓글들이 실관람객이 아]]></content>
     </entry>
 </feed>
