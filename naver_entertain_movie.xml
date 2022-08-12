@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-08-12T14:16:17.818Z</updated>
+    <updated>2022-08-12T16:26:58.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘공조2’ 9월 7일 개봉 확정... 추석 극장가 공략]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001225621</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001225621"/>
+        <updated>2022-08-12T16:25:21.530Z</updated>
+        <content type="html"><![CDATA[영화 ‘공조2: 인터내셔날’(이하 공조2)이 오는 9월 7일 개봉을 확정했다. ‘공조2’는 남한에 숨어든 글로벌 범죄 조직을 소탕하기 위해 뭉친 북한 형사 림철령(현빈 분)과 남한 형사 강진태(유해진 분), FBI]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배우 정소리, 넷플릭스‘카터’ 한정희 역으로 글로벌 시선집중]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000830799</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000830799"/>
+        <updated>2022-08-12T16:25:21.530Z</updated>
+        <content type="html"><![CDATA[배우정소리가 지난 5 일공개된 넷플릭스 영화 ‘ 카터 ’ 에서기억을 잃은 채 눈을 뜬 ‘카터’에게 지시를 내리는 인물 ‘한정희’ 역으로 등장해 강렬한 존재감과 동시에호기심을 자아내며 전 세계 시청자들의 이목을 사로잡]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신예 노재원, 영화 ‘동감’ 기계공학도 주근태 役 출연]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000830797</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006275748"/>
         <updated>2022-08-12T12:29:41.906Z</updated>
         <content type="html"><![CDATA[배우 이세나가 12일 오후 서울 강남구 코엑스 메가박스에서 열린 영화 ‘리미트’ VIP시사회에서 포즈를 취하고 있다. ‘리미트’(감독 이승준)는 아동 연쇄 유괴사건 피해자 엄마의 대역을 맡은 생활안전과 소속 경찰 소]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤송아, 예쁜 하트]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006275745</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006275745"/>
-        <updated>2022-08-12T12:29:41.908Z</updated>
-        <content type="html"><![CDATA[배우 윤송아가 12일 오후 서울 강남구 코엑스 메가박스에서 열린 영화 ‘리미트’ VIP시사회에서 포즈를 취하고 있다. ‘리미트’(감독 이승준)는 아동 연쇄 유괴사건 피해자 엄마의 대역을 맡은 생활안전과 소속 경찰 소]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송민경, 부드러운 손 인사]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006275746</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006275746"/>
-        <updated>2022-08-12T12:29:41.913Z</updated>
-        <content type="html"><![CDATA[배우 송민경이 12일 오후 서울 강남구 코엑스 메가박스에서 열린 영화 ‘리미트’ VIP시사회에서 포즈를 취하고 있다. ‘리미트’(감독 이승준)는 아동 연쇄 유괴사건 피해자 엄마의 대역을 맡은 생활안전과 소속 경찰 소]]></content>
     </entry>
 </feed>
