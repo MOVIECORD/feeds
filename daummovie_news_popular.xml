@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 21:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 22:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,14 +32,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F12%2Fnocut%2F20220812120607246acwc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['비상선언' 김남길, 비행 시뮬레이터 훈련 영상 공개..전문가도 인정]]></title>
-            <link>https://movie.v.daum.net/v/20220812125703776</link>
-            <guid>https://movie.v.daum.net/v/20220812125703776</guid>
-            <pubDate>Fri, 12 Aug 2022 12:30:09 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 배우 김남길이 영화 '비상선언'(감독 한재림)에서 부기장 역할을 훌륭하게 소화해 관객과 전문가들의 호평을 받았다. 김남길은 극 중 재난 상황에 빠진 비행기를 안전하게 착륙시켜야 하는 부기장 최현수 역을 맡아 열연을 펼쳤다. 이에 영화를 본 실제 항공사 관계자가 '교신 중 숫자 9를 독일어 Nein과 헷갈리지 않기 위해 n]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F12%2FSBSfunE%2F20220812125706489sznd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[현빈·유해진·다니엘 헤니 '공조2', 9월 7일 개봉 확정..캐릭터 포스터 공개]]></title>
             <link>https://movie.v.daum.net/v/20220812090516747</link>
             <guid>https://movie.v.daum.net/v/20220812090516747</guid>
@@ -48,12 +40,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F12%2Fxportsnews%2F20220812090518891xwfn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["시민들이 영화제 기다릴까" 제천영화제의 성찰]]></title>
-            <link>https://movie.v.daum.net/v/20220812140805627</link>
-            <guid>https://movie.v.daum.net/v/20220812140805627</guid>
+            <title><![CDATA['비상선언' 김남길, 비행 시뮬레이터 훈련 영상 공개..전문가도 인정]]></title>
+            <link>https://movie.v.daum.net/v/20220812125703776</link>
+            <guid>https://movie.v.daum.net/v/20220812125703776</guid>
             <pubDate>Fri, 12 Aug 2022 12:30:09 GMT</pubDate>
-            <content:encoded><![CDATA[[이선필 기자] ▲ &nbsp;조성우 제천국제음악영화제 집행위원장.    ⓒ 제천국제음악영화제  &nbsp; 청풍호 등 아름다운 야외풍광과 어우러진 음악 공연, 국내외 음악영화을 만끽할 수 있는 축제. 제천국제음악영화제 정체성은 분명하다. 올해로 18회를 맞이하는 동안 부침은 있었을지언정, 음악과 영화가 함께 있는 축제라는 점에서 많은 관객과 관계자들에게 소중]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F12%2Fohmynews%2F20220812140806885bwkp.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 배우 김남길이 영화 '비상선언'(감독 한재림)에서 부기장 역할을 훌륭하게 소화해 관객과 전문가들의 호평을 받았다. 김남길은 극 중 재난 상황에 빠진 비행기를 안전하게 착륙시켜야 하는 부기장 최현수 역을 맡아 열연을 펼쳤다. 이에 영화를 본 실제 항공사 관계자가 '교신 중 숫자 9를 독일어 Nein과 헷갈리지 않기 위해 n]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F12%2FSBSfunE%2F20220812125706489sznd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['한산'·'외계+인'..상상을 현실로 만드는 특수효과]]></title>
@@ -62,6 +54,14 @@
             <pubDate>Fri, 12 Aug 2022 08:20:20 GMT</pubDate>
             <content:encoded><![CDATA[영화 '승리호'부터 '외계+인' '한산' 등으로 국내 그래픽 기술이 수준급에 올랐다는 것이 입증됐다. 리스크가 많은 해외 로케이션 촬영보다 국내 촬영을 선택하는 이유다. 지금 국내의 콘텐츠 영상 기술은 어디까지 왔을까. 최근 흥행의 중심에 서 있는 '한산: 용의 출현'은 CG를 이용한 시각특수효과 기술, 즉 VFX의 높은 기술력을 여실히 활용한 사례가.]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F12%2Fhankooki%2F20220812095333729tbul.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["시민들이 영화제 기다릴까" 제천영화제의 성찰]]></title>
+            <link>https://movie.v.daum.net/v/20220812140805627</link>
+            <guid>https://movie.v.daum.net/v/20220812140805627</guid>
+            <pubDate>Fri, 12 Aug 2022 12:30:09 GMT</pubDate>
+            <content:encoded><![CDATA[[이선필 기자] ▲ &nbsp;조성우 제천국제음악영화제 집행위원장.    ⓒ 제천국제음악영화제  &nbsp; 청풍호 등 아름다운 야외풍광과 어우러진 음악 공연, 국내외 음악영화을 만끽할 수 있는 축제. 제천국제음악영화제 정체성은 분명하다. 올해로 18회를 맞이하는 동안 부침은 있었을지언정, 음악과 영화가 함께 있는 축제라는 점에서 많은 관객과 관계자들에게 소중]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F12%2Fohmynews%2F20220812140806885bwkp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[이정재, '헌트' 대필 의혹?..♥여친 임세령도 놀란 탄탄함[TEN피플]]]></title>
@@ -96,6 +96,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F13%2Fseouleconomy%2F20220813153302986nbrv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['탑건'으로 날개단 극장가.. 다음 '해외' 기대작은? [박's 오피스]]]></title>
+            <link>https://movie.v.daum.net/v/20220814062705010</link>
+            <guid>https://movie.v.daum.net/v/20220814062705010</guid>
+            <pubDate>Sat, 13 Aug 2022 22:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[[편집자주]박 기자가 소개하는 박스오피스 기대작! 극장을 통해 개봉을 앞둔 영화들을 소개해드립니다. 극장을 통해 대거 출격하는 해외 박스오피스 기대작들을 소개한다. 사진은 왼쪽부터 영화 '놉'·'리볼버'·'불릿 트레인' 포스터. /사진=유니버설 픽쳐스·조이앤시네마·소니 픽쳐스 코리아 제공할리우드 배우 톰 크루즈 주연의 영화 '탑건: 매버릭'이 국내 박스오피]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F14%2Fmoneyweek%2F20220814062707474ocid.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[고경표 "'응팔' 멤버들과 우정 계속..보검이는 최고예요" [엑's 인터뷰③]]]></title>
             <link>https://movie.v.daum.net/v/20220813095018433</link>
             <guid>https://movie.v.daum.net/v/20220813095018433</guid>
@@ -120,14 +128,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F13%2FNEWS1%2F20220813150328482dhcr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['한산' 박훈 "안성기, 스승 같은 분..거북선은 내 히어로" [일문일답]]]></title>
-            <link>https://movie.v.daum.net/v/20220813191712486</link>
-            <guid>https://movie.v.daum.net/v/20220813191712486</guid>
-            <pubDate>Sat, 13 Aug 2022 11:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[배우 박훈이 '한산: 용의 출현'에 함께 출연한 안성기를 향한 존경심을 내비쳤다. 작품에 등장한 거북선을 언급하기도 했다. 13일 소속사 에일리언컴퍼니는 박훈의 '한산: 용의 출현' 관련 일문일답을 공개했다. '한산: 용의 출현'은 명량해전 5년 전 진군 중인 왜군을 상대로 조선을 지키기 위해 필사의 전략과 패기로 뭉친 이순신 장군과 조선 수군의 한산해전을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F13%2Fhankooki%2F20220813191715433pdml.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[삭발하고 교황 사진 찢은 가수, 그가 전한 메시지]]></title>
             <link>https://movie.v.daum.net/v/20220813104200081</link>
             <guid>https://movie.v.daum.net/v/20220813104200081</guid>
@@ -144,20 +144,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F13%2Fxportsnews%2F20220813095015319dgxo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['한산' 박훈 "안성기=여영담 그 자체..스승같은 분"[일문일답]]]></title>
-            <link>https://movie.v.daum.net/v/20220813153602000</link>
-            <guid>https://movie.v.daum.net/v/20220813153602000</guid>
-            <pubDate>Sat, 13 Aug 2022 13:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[배우 박훈이 '한산: 용의 출현' 관련 일문일답을 공개했다. 영화 '한산: 용의 출현'(감독 김한민)은 명량해전 5년 전 진군 중인 왜군을 상대로 조선을 지키기 위해 필사의 전략과 패기로 뭉친 이순신 장군과 조선 수군의 '한산해전'을 다룬 영화로, 지난 7월 27일 개봉 이후 박스오피스를 평정하며 인기 고공행진을 이어가고 있다. 이 가운데, 극 중 경상우]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F13%2Fstartoday%2F20220813153604667riea.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[최윤슬, '강렬한 핫핑크' [사진]]]></title>
-            <link>https://movie.v.daum.net/v/20220812193316658</link>
-            <guid>https://movie.v.daum.net/v/20220812193316658</guid>
-            <pubDate>Sat, 13 Aug 2022 21:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=조은정 기자] 12일 오후 서울 강남구 메가박스 코엑스에서 영화 ‘리미트(감독 이승준)’ VIP 시사 및 포토월 행사가 열렸다. '리미트'는 아동 연쇄 유괴사건 피해자 엄마의 대역을 맡은 생활안전과 소속 경찰 '소은'(이정현 분)이 사건을 해결하던 도중 의문의 전화를 받으면서 최악의 위기에 빠지게 되는 범죄 스릴러. 8월 17일 개봉한다. 배]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F12%2Fpoctan%2F20220812193316481ibsv.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['한산' 박훈 "안성기, 스승 같은 분..거북선은 내 히어로" [일문일답]]]></title>
+            <link>https://movie.v.daum.net/v/20220813191712486</link>
+            <guid>https://movie.v.daum.net/v/20220813191712486</guid>
+            <pubDate>Sat, 13 Aug 2022 11:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[배우 박훈이 '한산: 용의 출현'에 함께 출연한 안성기를 향한 존경심을 내비쳤다. 작품에 등장한 거북선을 언급하기도 했다. 13일 소속사 에일리언컴퍼니는 박훈의 '한산: 용의 출현' 관련 일문일답을 공개했다. '한산: 용의 출현'은 명량해전 5년 전 진군 중인 왜군을 상대로 조선을 지키기 위해 필사의 전략과 패기로 뭉친 이순신 장군과 조선 수군의 한산해전을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F13%2Fhankooki%2F20220813191715433pdml.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[이정재, 감독 데뷔작 '헌트'는 어떻게 호평을 받게 됐을까?]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Sat, 13 Aug 2022 01:16:16 GMT</pubDate>
             <content:encoded><![CDATA[[헤럴드경제 = 서병기 선임기자]지난 10일 개봉한 첩보액션영화 ‘헌트’는 배우 이정재의 감독 데뷔작이다. 일반적으로 배우의 감독 데뷔작이라 하면 기대치가 낮다. 제75회 칸국제영화제 미드나잇 스크리닝에 초정됐을 때만 해도 일반 관객들은 잘 몰랐다. 하지만 막상 개봉을 하자 기자·평론가의 평가와 관람객 평점, 박스오피스 모두 좋다. 이정재라는 배우를 다시]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F13%2Fned%2F20220813095123238zxsr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[OTT다방] '카페 벨에포크' 당신의 찬란한 순간은 언제인가요?]]></title>
+            <link>https://movie.v.daum.net/v/20220814070033210</link>
+            <guid>https://movie.v.daum.net/v/20220814070033210</guid>
+            <pubDate>Sat, 13 Aug 2022 22:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] 직접 맛보고 추천하는 향긋한 작품 한 잔! 세상의 OTT 다 보고 싶은 ‘OTT다방’   누구나 찬란했던 시절로의 시간 여행을 꿈꾼다. 가깝게는 어제의 휴가일 수도 있고, 멀게는 어린 시절의 한 순간일 수도 있다. 불가능할 것 같은 일이지만, 영화 ‘카페 벨에포크’는 이 모든 게 가능하다. 돈만 있다면, 현실에서도 시간 여행이 가능하고 이를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F14%2Fseouleconomy%2F20220814070039055qfzl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
