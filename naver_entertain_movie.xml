@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-08-16T20:18:51.482Z</updated>
+    <updated>2022-08-16T21:15:36.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 '트랜스포머4' 배경 된 시카고 옛 곡물저장고 매각 추진]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013379185</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013379185"/>
+        <updated>2022-08-16T21:14:01.668Z</updated>
+        <content type="html"><![CDATA[최저 입찰가 43억원…내달 19일 입찰 마감 김현 통신원 = 할리우드 공상과학(SF) 영화 '트랜스포머'의 배경으로 사용된 미국 시카고 남부의 유서깊은 폐(閉) 곡물저장고가 매물로 나왔다. 16일(현지시간) 시카고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고경표 "군입대, 저는 강추해요"[SS인터뷰]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000874192</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000874192"/>
+        <updated>2022-08-16T21:14:01.669Z</updated>
+        <content type="html"><![CDATA[“군대에서 좋은 추억만 쌓았다. 내게는 소중한 시간이다.” 대한민국 남성들이 두 번은 못가겠다고 몸서리치는 군대, 배우 고경표는 그 군대를 배경으로 한 영화 ‘육사오’의 주인공 천우로 분해 천연덕스러운 코믹 연기를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["'우영우' 등 한국콘텐츠 에너지 너무 좋아"... 영국 거장이 전한 진심]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002363148</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006280799"/>
         <updated>2022-08-16T09:13:54.842Z</updated>
         <content type="html"><![CDATA[배우 임윤아가 '공조2'에서 "이제 직업이 생겼다"며 새롭게 변화된 모습을 예고했다. 임윤아는 16일 오전 서울 영등포구 콘래드호텔 그랜드볼룸에서 열린 영화 '공조2: 인터내셔날'(이하 '공조2') 제작보고회에 참석]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫 연기 도전 송민호부터 문소리까지… ‘서울대작전’ 조연 라인업 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003225218</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003225218"/>
-        <updated>2022-08-16T09:13:54.843Z</updated>
-        <content type="html"><![CDATA[‘서울대작전’를 하드캐리할 탄탄한 조연 배우 라인업이 공개됐다. 16일 넷플릭스 측은 문소리, 김성균, 오정세, 정웅인 그리고 첫 연기에 도전하는 송민호로 무장한 ‘서울대작전’ 초호화 조연 라인업을 공개하며 이들의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘훈남 배우’ 이정재의 훈훈한 감사인사]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000831293</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000831293"/>
-        <updated>2022-08-16T09:13:54.844Z</updated>
-        <content type="html"><![CDATA[배우 이정재가 방송인 오상진에 훈훈한 감사 인사를 전했다. 이정재는 16일 인스타그램 스토리에 오상진을 향한 영상 편지를 올렸다. 공개된 영상 속 이정재는 촬영장에서 “오상진 아나운서님, 안녕하세요. ‘헌트’ 관람해]]></content>
     </entry>
 </feed>
