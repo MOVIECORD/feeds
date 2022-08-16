@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 15:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 16:24:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홍수아, 1인 2역 도전한다…"'나비효과' 주연 낙점" [공식] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003636284</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003636284</guid>
+            <pubDate>Tue, 16 Aug 2022 16:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[배우 홍수아가 영화 '나비효과' 여주인공으로 낙점됐다. 홍수아 측은 16일 "홍수아가 '나비효과'의 여주인공으로 캐스팅되었다. 올 하반기 개봉을 목표로, 촬영에 한창이다"라고 밝혔다. 홍수아는 직접 소감을 전하기도.]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[히(HE)스토리-이정재(하)] '얼굴·연기'에 이어 이제는 '연출 천재' (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000167155</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[배우 현빈이 16일 서울 영등포구 여의도동 콘래드 서울 호텔 그랜드 볼룸에서 진행된 '공조2: 인터내셔날'(이하 '공조2') 제작보고회에서 손예진과의 결혼 그리고 임신까지 좋은 소식에 축하를 건내자 "감사합니다"라고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘놉’, 다 제쳤다 박스오피스 돌풍 예고 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000621723</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000621723</guid>
-            <pubDate>Tue, 16 Aug 2022 09:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[조던 필 감독의 신작 ‘놉’이 드디어 내일 개봉을 앞둔 가운데, ‘헌트’ ‘한산: 용의 출현’을 제치고 전체 예매율 1위에 오르며 새로운 예매 강자에 등극했다. ‘놉’은 팬데믹 이후 호러, 스릴러 외화 중 가장 압도]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[헌트 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143289</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143289</guid>
@@ -239,20 +239,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F72cfc7293390c63db16779b67097d8703d2a5628" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[엘비스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158210</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158210</guid>
-            <pubDate>Wed, 29 Jun 2022 01:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0935ff55cf62deb0648292658709976c9f434f00" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[바다 탐험대 옥토넛 : 탐험선 대작전 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=161896</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161896</guid>
             <pubDate>Wed, 03 Aug 2022 12:31:44 GMT</pubDate>
             <content:encoded><![CDATA[22.08.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F31aa8d90be40312dbefd1b210e89c525f77b72b8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[엘비스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158210</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158210</guid>
+            <pubDate>Wed, 29 Jun 2022 01:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0935ff55cf62deb0648292658709976c9f434f00" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[뽀로로 극장판 드래곤캐슬 대모험 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -439,19 +439,19 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a1d24d0498c47924b7bd91ea395b7e6a809b861" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[오싹한 동거 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160229</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160229</guid>
+            <pubDate>Thu, 11 Aug 2022 01:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.17]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[리볼버 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=40914</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=40914</guid>
             <pubDate>Tue, 16 Aug 2022 06:20:35 GMT</pubDate>
             <content:encoded><![CDATA[22.08.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc7820c44721649064a0fa6da79157be9dd7ef627" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[오싹한 동거 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=160229</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=160229</guid>
-            <pubDate>Thu, 11 Aug 2022 01:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.17]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[투란도트 어둠의 왕국 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -542,14 +542,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2Fohmynews%2F20220816140303807qgfa.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[이정재, 실패는 없다..첫 연출+제작 '헌트'도 대박 "7일만 200만 돌파" [공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220816182208234</link>
-            <guid>https://movie.v.daum.net/v/20220816182208234</guid>
-            <pubDate>Tue, 16 Aug 2022 11:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] '월드 스타' 이정재의 연출 데뷔작 '헌트'가 200만 관객을 돌파했다. 16일 영진위 영화관입장권 통합전산망 집계에 따르면 이날 오전 11시 42분 기준 '헌트'는 누적 관객 수 200만 284명을 기록했다. 이로써 '헌트'는 개봉 단 7일 만에 200만 스코어를 달성했다. 앞서 10일 개봉 이후 줄곧 박스오피스 1위 자리]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2Fmydaily%2F20220816182208180rvox.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[돌아온 '공조2', 웃음+액션 빌드업..추석 출격 준비 완료 [종합] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220816140000820</link>
             <guid>https://movie.v.daum.net/v/20220816140000820</guid>
@@ -564,6 +556,14 @@
             <pubDate>Tue, 16 Aug 2022 09:14:22 GMT</pubDate>
             <content:encoded><![CDATA[[양형석 기자] 지난 2004년 한국과 중국, 일본의 감독들이 참가한 옴니버스 영화 &lt;쓰리, 몬스터&gt;가 개봉했다. 당시 한국에서는 1년 전 &lt;올드보이&gt;로 칸 영화제 심사위원 대상을 수상했던 박찬욱 감독이 참여했다. 박찬욱 감독은 이병헌과 임원희, 강혜정, 염정아 등이 출연한 &lt;컷&gt;을 만들었는데 여기서 '컷'은 영화감독들이 신을 끝낼 때 외치는 구호이면서 ']]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2Fohmynews%2F20220816120005181rwvn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이정재, 실패는 없다..첫 연출+제작 '헌트'도 대박 "7일만 200만 돌파" [공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220816182208234</link>
+            <guid>https://movie.v.daum.net/v/20220816182208234</guid>
+            <pubDate>Tue, 16 Aug 2022 11:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] '월드 스타' 이정재의 연출 데뷔작 '헌트'가 200만 관객을 돌파했다. 16일 영진위 영화관입장권 통합전산망 집계에 따르면 이날 오전 11시 42분 기준 '헌트'는 누적 관객 수 200만 284명을 기록했다. 이로써 '헌트'는 개봉 단 7일 만에 200만 스코어를 달성했다. 앞서 10일 개봉 이후 줄곧 박스오피스 1위 자리]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2Fmydaily%2F20220816182208180rvox.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[D-1 '놉', '헌트'와 예매율 1위 각축..최종 승자는? (다음영화 뉴스 ─ 인기)]]></title>
@@ -590,14 +590,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2FJTBC%2F20220816083402831lnmo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[무인도에서의 6박 7일, 이 영화를 세 번 본 이유 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220815120900618</link>
-            <guid>https://movie.v.daum.net/v/20220815120900618</guid>
-            <pubDate>Mon, 15 Aug 2022 10:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[[김성호 기자] &nbsp;        ▲ 식스 데이 세븐 나잇&nbsp;포스터    ⓒ 브에나비스타 인터내셔널 코리아  &nbsp; 중학교 1학년 까까머리 학생이었다. 1998년, 나는 동네 비디오 가게에서 비디오를 빌려 보는 걸 낙으로 삼는 할리우드 키드였다. 그 시절 비디오 가게 카운터엔 신작 비디오를 소개하는 무가지가 놓여 있곤 했다. 주머니 얄팍한 나는 그 종이를 뒤적여]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F15%2Fohmynews%2F20220815120902851chem.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['공조2' 이석훈 감독 "삼각공조의 긴장감과 우정이 재미" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220816125529099</link>
             <guid>https://movie.v.daum.net/v/20220816125529099</guid>
@@ -612,6 +604,14 @@
             <pubDate>Tue, 16 Aug 2022 12:28:44 GMT</pubDate>
             <content:encoded><![CDATA[[서울경제] 배우 이제훈이 영화 ‘어나더 레코드 : 이제훈’에서 진솔한 모습을 드러내고 그만의 상상을 현실로 만든다. 16일 오전 시즌(seezn) 오리지널 영화 ‘어나더 레코드 : 이제훈’(감독 윤단비) 제작보고회가 온라인으로 진행됐다. 윤단비 감독과 배우 이제훈이 참석해 작품에 관한 이야기를 나눴다. ‘어나더 레코드 : 이제훈’은 배우의 현실적인 모습]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2Fseouleconomy%2F20220816141750105edfg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[무인도에서의 6박 7일, 이 영화를 세 번 본 이유 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220815120900618</link>
+            <guid>https://movie.v.daum.net/v/20220815120900618</guid>
+            <pubDate>Mon, 15 Aug 2022 10:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[[김성호 기자] &nbsp;        ▲ 식스 데이 세븐 나잇&nbsp;포스터    ⓒ 브에나비스타 인터내셔널 코리아  &nbsp; 중학교 1학년 까까머리 학생이었다. 1998년, 나는 동네 비디오 가게에서 비디오를 빌려 보는 걸 낙으로 삼는 할리우드 키드였다. 그 시절 비디오 가게 카운터엔 신작 비디오를 소개하는 무가지가 놓여 있곤 했다. 주머니 얄팍한 나는 그 종이를 뒤적여]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F15%2Fohmynews%2F20220815120902851chem.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[고경표 "따뜻하고 공감가는 영화 '육사오' 웃음은 보장한다!" [인터뷰M] (다음영화 뉴스 ─ 인기)]]></title>
@@ -660,6 +660,14 @@
             <pubDate>Tue, 16 Aug 2022 14:16:55 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김나연 기자] 넷플릭스 오리지널 시리즈 '모범가족'의 배우 박희순이 16일 오후 진행된 화상 인터뷰를 위해 포즈를 취하고 있다.  '모범가족'은 파산과 이혼 위기에 놓인 평범한 가장 동하가 우연히 죽은 자의 돈을 발견하고 범죄 조직과 처절하게 얽히며 벌어지는 범죄 스릴러다. /사진제공=넷플릭스 20220.08.16 /사진=이동훈 기자 photog]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2Fstarnews%2F20220816180003048pbtq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[홍수아, 1인 2역 도전한다.."'나비효과' 주연 낙점" [공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220817010008792</link>
+            <guid>https://v.daum.net/v/20220817010008792</guid>
+            <pubDate>Tue, 16 Aug 2022 16:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 홍수아가 영화 '나비효과' 여주인공으로 낙점됐다. 홍수아 측은 16일 "홍수아가 '나비효과'의 여주인공으로 캐스팅되었다. 올 하반기 개봉을 목표로, 촬영에 한창이다"라고 밝혔다. 홍수아는 직접 소감을 전하기도. 그는 "극 중 주연과 해연, 쌍둥이 자매를 연기한다. 배우로서 1인 2역이 매력적이라고 생각했다"라며 "'나비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F17%2Fmydaily%2F20220817010008708wijw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[히(HE)스토리-이정재(하)] '얼굴·연기'에 이어 이제는 '연출 천재' (다음영화 뉴스 ─ 최신)]]></title>
@@ -1322,7 +1330,7 @@
             <link>https://tv.naver.com/v/28596487</link>
             <guid>https://tv.naver.com/v/28596487</guid>
             <pubDate>Tue, 16 Aug 2022 10:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220816_263/3UHYB_1660641604213axMYK_JPEG/ebf835d1-1d43-11ed-b1f2-48df379ccacc_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1330,7 +1338,7 @@
             <link>https://tv.naver.com/v/28596330</link>
             <guid>https://tv.naver.com/v/28596330</guid>
             <pubDate>Tue, 16 Aug 2022 09:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220816_154/HHtji_1660641133346bF5V6_JPEG/66d20e85-1d43-11ed-997e-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1338,7 +1346,7 @@
             <link>https://tv.naver.com/v/28590764</link>
             <guid>https://tv.naver.com/v/28590764</guid>
             <pubDate>Tue, 16 Aug 2022 06:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220816_264/Zmm9m_1660628918970NLmxs_JPEG/e8842331-1d26-11ed-9b1a-505dac8c3607_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1346,7 +1354,7 @@
             <link>https://tv.naver.com/v/28587506</link>
             <guid>https://tv.naver.com/v/28587506</guid>
             <pubDate>Tue, 16 Aug 2022 03:45:03 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220816_219/Ljm7f_1660619042527lPE0G_JPEG/e3bd1cb6-1d0f-11ed-a836-48df379cca40_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1354,7 +1362,7 @@
             <link>https://tv.naver.com/v/28586394</link>
             <guid>https://tv.naver.com/v/28586394</guid>
             <pubDate>Tue, 16 Aug 2022 03:45:03 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220816_136/n0hIN_1660615841640DvjG6_JPEG/7fb47472-1d08-11ed-8198-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1362,7 +1370,7 @@
             <link>https://tv.naver.com/v/28586317</link>
             <guid>https://tv.naver.com/v/28586317</guid>
             <pubDate>Tue, 16 Aug 2022 03:45:03 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220816_98/2fzVI_1660615657809NIysa_JPEG/b9b162c4-1d07-11ed-837f-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
