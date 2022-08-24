@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 15:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 16:25:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1000만 감독들 저작권법 개정안 토론회 참석 [연예뉴스 HOT] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001000166</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001000166</guid>
+            <pubDate>Wed, 24 Aug 2022 16:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[윤제균, 김한민, 김용화 등 한국 대표 ‘1000만 감독’들이 국회에서 열리는 저작권법 개정안 토론회에 참석해 케이(K)콘텐츠 창작자의 정당한 권리 찾기에 나선다. 유정주 더불어민주당 의원실과 한국영화감독조합(감독조]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[‘할리우드 전설’ 폴 뉴먼 두 딸, 뉴먼 자선재단 상대로 소송 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000832954</link>
@@ -176,13 +183,6 @@
             <content:encoded><![CDATA[하드보일드 서바이벌 액션 영화 '늑대사냥'(감독 김홍선) 측이 영화의 강렬함을 담은 티저 예고편을 공개했다. 배급사 TCO(주)더콘텐츠온은 24일 '늑대사냥'의 티저 예고편을 공개했다. '늑대사냥'은 극악무도한 범죄자들]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[왓챠, 일드 '그런 일로 고소합니까' '경쟁의 파수꾼' 서비스 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003678273</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003678273</guid>
-            <pubDate>Wed, 24 Aug 2022 10:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[동영상 스트리밍 서비스 왓챠가 3분기 신작 일본 드라마 '이시코와 하네오 -그런 일로 고소합니까?-'와 '경쟁의 파수꾼'을 서비스한다. 먼저 '이시코와 하네오 -그런 일로 고소합니까?-'(매주 금요일 밤 11시 공개]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[헌트 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143289</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143289</guid>
@@ -247,20 +247,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F02b25a4de3f14fa652f7e89556b6c3c856bdde3e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[헤어질 결심 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144854</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144854</guid>
-            <pubDate>Tue, 14 Jun 2022 04:49:51 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F72cfc7293390c63db16779b67097d8703d2a5628" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[미니언즈2 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=132346</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=132346</guid>
             <pubDate>Sun, 03 Jul 2022 12:25:58 GMT</pubDate>
             <content:encoded><![CDATA[22.07.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1eef5d86e3c1771cf119e5ad96fe4c5540ed378a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[헤어질 결심 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144854</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144854</guid>
+            <pubDate>Tue, 14 Jun 2022 04:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F72cfc7293390c63db16779b67097d8703d2a5628" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[큐브 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -511,20 +511,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824082752250wkil.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA['동갑내기 과외하기', 작가 실제 경험담이었다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220824110601241</link>
-            <guid>https://movie.v.daum.net/v/20220824110601241</guid>
-            <pubDate>Wed, 24 Aug 2022 04:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[[양형석 기자] 대부분의 나라에서는 생일이 지나면 한 살을 더 먹지만 태어나자마자 한 살이 되는 대한민국에서는 매년 1월 1일이 되면 전 국민이 동시에 한 살을 더 먹게 된다. 여기에 2002년생까지는 빠른 생일 입학이라는 제도가 있어 매년 1,2월에 태어난 사람은 7살에 초등학교에 입학해 자신보다 한 살 많은 사람들과 같은 학년이 되기도 했다.&nbsp; 빠른 생]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2Fohmynews%2F20220824110608772bagi.jpg" length="0" type="image//thumb/S732x228/"/>
-        </item>
-        <item>
             <title><![CDATA[고경표x이이경 '육사오' 예매율 1위로 개봉..손익분기점은? (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220824114718542</link>
             <guid>https://movie.v.daum.net/v/20220824114718542</guid>
             <pubDate>Wed, 24 Aug 2022 10:18:59 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 전형화 기자] 고경표와 이이경 주연 영화 '육사오'(감독 박규태)가 쟁쟁한 영화들 틈바구니에서 손익분기점을 넘어 흥행에 성공할지 주목된다. 24일 오전11시 기준 영진위 예매율 집계에 따르면 이날 개봉한 '육사오'는 19.9%로 예매율 1위를 기록 중이다. 개봉 이후 14일 연속 박스오피스 1위를 기록한 '헌트'는 17.4% 예매율로 2위다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2Fstarnews%2F20220824114720102rmjv.jpg" length="0" type="image//thumb/S384x240/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2Fstarnews%2F20220824114720102rmjv.jpg" length="0" type="image//thumb/S732x228/"/>
+        </item>
+        <item>
+            <title><![CDATA['동갑내기 과외하기', 작가 실제 경험담이었다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220824110601241</link>
+            <guid>https://movie.v.daum.net/v/20220824110601241</guid>
+            <pubDate>Wed, 24 Aug 2022 04:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[[양형석 기자] 대부분의 나라에서는 생일이 지나면 한 살을 더 먹지만 태어나자마자 한 살이 되는 대한민국에서는 매년 1월 1일이 되면 전 국민이 동시에 한 살을 더 먹게 된다. 여기에 2002년생까지는 빠른 생일 입학이라는 제도가 있어 매년 1,2월에 태어난 사람은 7살에 초등학교에 입학해 자신보다 한 살 많은 사람들과 같은 학년이 되기도 했다.&nbsp; 빠른 생]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2Fohmynews%2F20220824110608772bagi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[이정재의 '헌트', 이러니 영리하다고 할 수밖에 (다음영화 뉴스 ─ 인기)]]></title>
@@ -575,14 +575,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2F10asia%2F20220824180010090bgeu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['불릿 트레인' 브래드 피트의 액션을 보는 것만으로도 [무비뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220824080107427</link>
-            <guid>https://movie.v.daum.net/v/20220824080107427</guid>
-            <pubDate>Wed, 24 Aug 2022 10:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 윤혜영 기자] 영화적 완성도는 아쉽지만 할리우드 스타 브래드 피트 주연작이기에 볼 수밖에 없다. 영화 '불릿 트레인'이다. '불릿 트레인'(감독 데이빗 레이치)은 각자의 미션을 완수하기 위해 일본 초고속 열차에 탑승한 전세계 킬러들의 이야기를 다룬다. 운 없기로 유명한 킬러 레이디버그(브래드 피트)의 미션은 기차에서 의문의 서류 가방을 찾아]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2Fsportstoday%2F20220824080109559krsy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['카터' 정병길 감독 "새로운 시도하는 게 창작자"[쿠키인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220824100202427</link>
             <guid>https://movie.v.daum.net/v/20220824100202427</guid>
@@ -591,12 +583,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2Fkukinews%2F20220824100204336qamd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['프린세스 아야' 백아연·박진영, 캐릭터 포스터 공개 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220824105336594</link>
-            <guid>https://movie.v.daum.net/v/20220824105336594</guid>
+            <title><![CDATA['불릿 트레인' 브래드 피트의 액션을 보는 것만으로도 [무비뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220824080107427</link>
+            <guid>https://movie.v.daum.net/v/20220824080107427</guid>
             <pubDate>Wed, 24 Aug 2022 10:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[판타지 뮤지컬 애니메이션 '프린세스 아야'가 캐릭터 포스터 2종을 공개했다. [감독: 이성강  프로듀서: 연상호, 이동하  제작: ㈜다다쇼  공동제작: ㈜영화사레드피터  배급: CJ CGV㈜  목소리 출연: 백아연, 박진영  개봉: 2022년 9월 21일] 동물로 변하는 저주를 가지고 태어난 '아야 공주'와 전쟁을 막고 평화를 지키려는 '바리 왕자'의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FiMBC%2F20220824105342357svtg.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스포츠투데이 윤혜영 기자] 영화적 완성도는 아쉽지만 할리우드 스타 브래드 피트 주연작이기에 볼 수밖에 없다. 영화 '불릿 트레인'이다. '불릿 트레인'(감독 데이빗 레이치)은 각자의 미션을 완수하기 위해 일본 초고속 열차에 탑승한 전세계 킬러들의 이야기를 다룬다. 운 없기로 유명한 킬러 레이디버그(브래드 피트)의 미션은 기차에서 의문의 서류 가방을 찾아]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2Fsportstoday%2F20220824080109559krsy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[관객 마음을 안방1열에 수송완료한  '서울대작전' (다음영화 뉴스 ─ 인기)]]></title>
@@ -605,6 +597,14 @@
             <pubDate>Wed, 24 Aug 2022 10:18:59 GMT</pubDate>
             <content:encoded><![CDATA[아이즈 ize 정유미(칼럼니스트)"잘 봐라, 이게 진짜 바이브지."1980년대를 배경으로 한 웰메이드 첩보 스릴러 영화 '헌트'가 올여름 극장가를 견인하는 가운데, 1980년대를 그린 또 한 편의 스타일리시한 영화가 찾아온다. 오는 26일 공개되는 넷플릭스 오리지널 영화 '서울대작전'(감독 문현성)은 1988년 9월 열린 서울올림픽을 배경으로 펼쳐지는 화끈]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FIZE%2F20220824115406830ryce.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['프린세스 아야' 백아연·박진영, 캐릭터 포스터 공개 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220824105336594</link>
+            <guid>https://movie.v.daum.net/v/20220824105336594</guid>
+            <pubDate>Wed, 24 Aug 2022 10:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[판타지 뮤지컬 애니메이션 '프린세스 아야'가 캐릭터 포스터 2종을 공개했다. [감독: 이성강  프로듀서: 연상호, 이동하  제작: ㈜다다쇼  공동제작: ㈜영화사레드피터  배급: CJ CGV㈜  목소리 출연: 백아연, 박진영  개봉: 2022년 9월 21일] 동물로 변하는 저주를 가지고 태어난 '아야 공주'와 전쟁을 막고 평화를 지키려는 '바리 왕자'의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FiMBC%2F20220824105342357svtg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[벌써 수상 레이스 돌입한 조던 필 '놉' 새턴 어워즈 7개 부문 후보[공식] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1307,7 +1307,7 @@
             <link>https://tv.naver.com/v/28767342</link>
             <guid>https://tv.naver.com/v/28767342</guid>
             <pubDate>Wed, 24 Aug 2022 10:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_299/P1hdD_1661326216974FVl3G_JPEG/710619a7-237e-11ed-aee9-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1315,7 +1315,7 @@
             <link>https://tv.naver.com/v/28767234</link>
             <guid>https://tv.naver.com/v/28767234</guid>
             <pubDate>Wed, 24 Aug 2022 10:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_78/ipHh1_1661326013246m2V9U_JPEG/b4e47a8d-237d-11ed-aa59-d4f5ef58ac88_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1323,7 +1323,7 @@
             <link>https://tv.naver.com/v/28766018</link>
             <guid>https://tv.naver.com/v/28766018</guid>
             <pubDate>Wed, 24 Aug 2022 10:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_158/b8ZxS_1661323637739xQ9CL_JPEG/44732e06-2378-11ed-999c-505dac8c3639_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1331,7 +1331,7 @@
             <link>https://tv.naver.com/v/28763168</link>
             <guid>https://tv.naver.com/v/28763168</guid>
             <pubDate>Wed, 24 Aug 2022 10:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_62/G3ADd_16613196980576JJD6_JPEG/21c25856-236f-11ed-8613-505dacfba98a_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1339,7 +1339,7 @@
             <link>https://tv.naver.com/v/28762838</link>
             <guid>https://tv.naver.com/v/28762838</guid>
             <pubDate>Wed, 24 Aug 2022 10:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_283/O93RT_1661319283123NHCE8_JPEG/207c11a0-236e-11ed-8bc9-d4f5ef5906a4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1347,7 +1347,7 @@
             <link>https://tv.naver.com/v/28761808</link>
             <guid>https://tv.naver.com/v/28761808</guid>
             <pubDate>Wed, 24 Aug 2022 10:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_175/fzayc_1661317768790zH8wm_JPEG/901eb3a3-236a-11ed-83d6-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1355,7 +1355,7 @@
             <link>https://tv.naver.com/v/28761059</link>
             <guid>https://tv.naver.com/v/28761059</guid>
             <pubDate>Wed, 24 Aug 2022 10:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_79/5CpbB_1661316531831VVlxo_JPEG/f939787a-2367-11ed-8d11-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1363,7 +1363,7 @@
             <link>https://tv.naver.com/v/28760941</link>
             <guid>https://tv.naver.com/v/28760941</guid>
             <pubDate>Wed, 24 Aug 2022 10:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_95/IpifV_1661316380339mCQBC_JPEG/5ca404a4-2367-11ed-8613-505dacfba98a_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1371,7 +1371,7 @@
             <link>https://tv.naver.com/v/28760711</link>
             <guid>https://tv.naver.com/v/28760711</guid>
             <pubDate>Wed, 24 Aug 2022 10:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_117/NeWRy_1661316008868Hbabz_PNG/1661316005912.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -1379,7 +1379,7 @@
             <link>https://tv.naver.com/v/28760540</link>
             <guid>https://tv.naver.com/v/28760540</guid>
             <pubDate>Wed, 24 Aug 2022 10:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_272/USOi7_16613157093067JDMi_JPEG/c468ba08-2365-11ed-b41c-48df379cc9e4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1387,7 +1387,7 @@
             <link>https://tv.naver.com/v/28760226</link>
             <guid>https://tv.naver.com/v/28760226</guid>
             <pubDate>Wed, 24 Aug 2022 10:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_88/sZw45_16613151594970MyGm_JPEG/aafde0c3-2364-11ed-bf94-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1395,7 +1395,7 @@
             <link>https://tv.naver.com/v/28760142</link>
             <guid>https://tv.naver.com/v/28760142</guid>
             <pubDate>Wed, 24 Aug 2022 10:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_58/Hh3pf_1661314971356YDuce_JPEG/299e110f-2364-11ed-a7c3-d4f5ef58ad5e_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1403,7 +1403,7 @@
             <link>https://tv.naver.com/v/28759622</link>
             <guid>https://tv.naver.com/v/28759622</guid>
             <pubDate>Wed, 24 Aug 2022 04:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_158/m5pyY_1661313993692g1mdJ_JPEG/dcdec495-2361-11ed-b6e8-48df37ae3dc4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1411,7 +1411,7 @@
             <link>https://tv.naver.com/v/28757306</link>
             <guid>https://tv.naver.com/v/28757306</guid>
             <pubDate>Wed, 24 Aug 2022 04:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_198/myA1A_166130946521074Cv8_JPEG/74d1b302-2357-11ed-8613-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1419,7 +1419,7 @@
             <link>https://tv.naver.com/v/28756759</link>
             <guid>https://tv.naver.com/v/28756759</guid>
             <pubDate>Wed, 24 Aug 2022 04:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_129/zxU4q_1661308324842bwEPJ_JPEG/bb985139-2354-11ed-83d6-48df379cca40_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1427,7 +1427,7 @@
             <link>https://tv.naver.com/v/28756572</link>
             <guid>https://tv.naver.com/v/28756572</guid>
             <pubDate>Wed, 24 Aug 2022 04:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_260/IMnnT_1661307856405bKRKH_JPEG/be909f8d-2353-11ed-b6e8-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1443,7 +1443,7 @@
             <link>https://tv.naver.com/v/28742185</link>
             <guid>https://tv.naver.com/v/28742185</guid>
             <pubDate>Wed, 24 Aug 2022 04:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220823_238/zmCoW_16612422602496LwWh_PNG/1661242252365.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
