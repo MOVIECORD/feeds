@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-09-07T20:23:42.013Z</updated>
+    <updated>2022-09-07T21:18:22.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[OTT다방] 드디어 넷플에 올라온 아카데미 3관왕 수상작, 음악영화 '코다']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004097053</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004097053"/>
+        <updated>2022-09-07T21:16:36.673Z</updated>
+        <content type="html"><![CDATA[직접 맛보고 추천하는 향긋한 작품 한 잔! 세상의 OTT 다 보고 싶은 ‘OTT다방’ ‘코다(CODA)’는 ‘Child Of Deaf Adult(s)’, 즉 농인 부모의 청인 자녀를 가리키는 말이다. 최근 넷플릭스에]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[영화평 300]공산품의 맛]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011410653</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011410653"/>
+        <updated>2022-09-07T21:16:36.675Z</updated>
+        <content type="html"><![CDATA[9월 2주차 개봉 영화 및 최근 개봉 영화 간단평을 정리했다. 공산품의 맛…공조2:인터내셔날(★★★) 배우 유해진은 '공조2:인터내셔날'('공조2')을 이렇게 설명했다. "보고 나오면서 친구한테 '근데 너무 웃기만하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[거리두기 없이 전석 입장…감독·배우·관객 참여행사도 재개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000019584</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001497894"/>
         <updated>2022-09-07T11:15:19.762Z</updated>
         <content type="html"><![CDATA[제27회 부산국제영화제(BIFF)가 신종 코로나바이러스 감염증(코로나19) 여파 속 3년 만에 완전한 정상 개최를 알리며 도약의 시작을 알렸다. 7일 온라인 생중계를 통해 제27회 부산국제영화제 공식 기자회견이 열렸]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘다음 소희’ 제27회 부산국제영화제 초청 [공식]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001002982</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001002982"/>
-        <updated>2022-09-07T11:15:19.765Z</updated>
-        <content type="html"><![CDATA[‘다음 소희’ 제27회 부산국제영화제 초청 [공식] 영화 ‘다음 소희’가 제27회 부산국제영화제 한국영화의 오늘-파노라마 섹션에 공식 초청됐다. 한국영화 최초로 칸영화제 비평가주간 폐막작 선정되어 세계인의 주목을 받]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신하균X한지민 '욘더' 제27회 부산국제영화제 공식 초청..스페셜포스터 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003586110</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003586110"/>
-        <updated>2022-09-07T11:15:19.766Z</updated>
-        <content type="html"><![CDATA['욘더'가 제27회 부산국제영화제에 공식 초청됐다. 티빙 오리지널 시리즈 '욘더'(연출 이준익, 극본 김정훈·오승현, 원작 김장환 ‘굿바이, 욘더’, 제공 티빙, 제작 영화사 두둥·CJ ENM)는 세상을 떠난 아내로]]></content>
     </entry>
 </feed>

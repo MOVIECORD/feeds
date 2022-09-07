@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-09-07T20:23:41.985Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 07 Sep 2022 21:18:22 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[OTT다방] 드디어 넷플에 올라온 아카데미 3관왕 수상작, 음악영화 '코다']]></title>
+            <link>https://v.daum.net/v/20220908061423484</link>
+            <guid>https://v.daum.net/v/20220908061423484</guid>
+            <pubDate>Wed, 07 Sep 2022 21:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] 직접 맛보고 추천하는 향긋한 작품 한 잔! 세상의 OTT 다 보고 싶은 ‘OTT다방’ ‘코다(CODA)’는 ‘Child Of Deaf Adult(s)’, 즉 농인 부모의 청인 자녀를 가리키는 말이다. 최근 넷플릭스에 올라온 동명의 영화 ‘코다’(감독 션 헤이더)는 노래 부르는 것을 좋아하는 코다 루비(에밀리아 존스)와 루비의 노래를 듣]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F08%2Fseouleconomy%2F20220908061426030ptvy.png" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
