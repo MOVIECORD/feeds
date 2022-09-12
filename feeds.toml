@@ -1,3 +1,6 @@
+[default]
+timeout = 180
+
 [naver_entertain_movie]
 title = "네이버TV연예 ─ 영화"
 url = "https://entertain.naver.com/movie"
