@@ -1,8 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.kakao.com/channel/3220576/video</id>
-    <title>카카오TV ─ 넷플릭스</title>
-    <updated>2022-09-21T04:46:38.272Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://img1.kakaocdn.net/kakaotv/services/2020/icon/icon-16.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>카카오TV ─ 넷플릭스</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 23 Sep 2022 09:21:54 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 글리치 | 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/432169853?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/432169853?act=clip</guid>
+            <pubDate>Fri, 23 Sep 2022 09:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:47]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F617946983%2Fthumb%2F20220922152403" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 다머 - 괴물: 제프리 다머 이야기 | 공식 예고편 (예고편 2)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/432143036?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/432143036?act=clip</guid>
+            <pubDate>Fri, 23 Sep 2022 09:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:46]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F291621987%2Fthumb%2F20220921103156" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 자정 클럽 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/432143013?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/432143013?act=clip</guid>
+            <pubDate>Fri, 23 Sep 2022 09:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:02]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F95264405%2Fthumb%2F20220921103052" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 신성한 가족 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/432142980?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/432142980?act=clip</guid>
+            <pubDate>Fri, 23 Sep 2022 09:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:05]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1557769096%2Fthumb%2F20220921102941" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] Tudum 투둠 코리아: 글로벌 팬 이벤트 | 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/432126084?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/432126084?act=clip</guid>
+            <pubDate>Fri, 23 Sep 2022 09:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:41]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F732937628%2Fthumb%2F20220920173526" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 리사: 어나더 그레이트 데이 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/432122198?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/432122198?act=clip</guid>
+            <pubDate>Fri, 23 Sep 2022 09:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:15]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1228078695%2Fthumb%2F20220920151432" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 로맨틱 킬러 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/432122066?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/432122066?act=clip</guid>
+            <pubDate>Fri, 23 Sep 2022 09:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:06]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1258831356%2Fthumb%2F20220920150808" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] Squid Game: The Challenge | 최종 오디션 공고]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/432087029?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/432087029?act=clip</guid>
+            <pubDate>Fri, 23 Sep 2022 09:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:47]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F19456650%2Fthumb%2F20220919103303" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 수리남 | 제작기 영상]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/432016382?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/432016382?act=clip</guid>
+            <pubDate>Fri, 23 Sep 2022 09:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>07:04]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1274905724%2Fthumb%2F20220916145107" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 프롬 스크래치 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/432015495?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/432015495?act=clip</guid>
+            <pubDate>Fri, 23 Sep 2022 09:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:28]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2046118369%2Fthumb%2F20220916141255" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 파산 위기에 처한 황정민, 도발하는 하정우 | 수리남]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/431992440?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/431992440?act=clip</guid>
+            <pubDate>Fri, 23 Sep 2022 09:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:17]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1863349315%2Fthumb%2F20220915163432" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] Tudum: 넷플릭스 글로벌 팬 이벤트 | 공식 예고편 | 9월 24일]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/431989263?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/431989263?act=clip</guid>
+            <pubDate>Fri, 23 Sep 2022 09:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:59]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F60674786%2Fthumb%2F20220915140954" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 테이크 원 | 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/431968501?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/431968501?act=clip</guid>
+            <pubDate>Fri, 23 Sep 2022 09:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:08]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F763215788%2Fthumb%2F20220914171904" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 선과 악의 학교 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/431966849?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/431966849?act=clip</guid>
+            <pubDate>Fri, 23 Sep 2022 09:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:47]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F787149652%2Fthumb%2F20220914161210" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 차이나타운 보스 장첸과 목사 황정민의 첫 만남 | 수리남]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/431966830?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/431966830?act=clip</guid>
+            <pubDate>Fri, 23 Sep 2022 09:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:06]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1494744397%2Fthumb%2F20220914161047" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 디 익셉션 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/431945736?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/431945736?act=clip</guid>
+            <pubDate>Fri, 23 Sep 2022 09:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:23]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1850087298%2Fthumb%2F20220913194648" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 엔터갤럭틱 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/431945514?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/431945514?act=clip</guid>
+            <pubDate>Fri, 23 Sep 2022 09:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:43]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1858609640%2Fthumb%2F20220913193851" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 수상함을 눈치 챈 황정민, 박해수는 빠져나갈 수 있을까? | 수리남]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/431945165?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/431945165?act=clip</guid>
+            <pubDate>Fri, 23 Sep 2022 09:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:40]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1879465026%2Fthumb%2F20220913192509" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 바스타드: 암흑의 파괴신 | 공식 예고편 2]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/431941515?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/431941515?act=clip</guid>
+            <pubDate>Fri, 23 Sep 2022 09:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:25]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F191690636%2Fthumb%2F20220913170552" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 나이브스 아웃: 글래스 어니언 | 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/431837486?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/431837486?act=clip</guid>
+            <pubDate>Fri, 23 Sep 2022 09:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1141367052%2Fthumb%2F20220908182908" length="0" type="image/q75/"/>
+        </item>
+    </channel>
+</rss>
