@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Oct 2022 09:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Oct 2022 15:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['스즈메의 문단속' 두 번째 예고편]]></title>
+            <link>https://tv.naver.com/v/30092552</link>
+            <guid>https://tv.naver.com/v/30092552</guid>
+            <pubDate>Thu, 20 Oct 2022 15:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_46/LoVrF_1666258099304Uyo0F_JPEG/52dfe654-5059-11ed-aa59-d4f5ef58ac88_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['도그' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/30085416</link>
             <guid>https://tv.naver.com/v/30085416</guid>
             <pubDate>Thu, 20 Oct 2022 09:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221020_258/KbAyH_1666247022731sPsaF_JPEG/71c857dc-503f-11ed-b07a-48df37ae3fca_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/30085185</link>
             <guid>https://tv.naver.com/v/30085185</guid>
             <pubDate>Thu, 20 Oct 2022 09:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221020_232/G4zWJ_1666246616833NoUfD_JPEG/97b41838-503e-11ed-b6e8-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/30085001</link>
             <guid>https://tv.naver.com/v/30085001</guid>
             <pubDate>Thu, 20 Oct 2022 09:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221020_297/mDrMR_1666246304688O4tSr_JPEG/bf43501c-503d-11ed-814e-505dac8c381b_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/30077775</link>
             <guid>https://tv.naver.com/v/30077775</guid>
             <pubDate>Thu, 20 Oct 2022 09:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221020_148/iNYco_1666231702767J91nl_JPEG/d66fe67c-501b-11ed-bf94-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://tv.naver.com/v/30077219</link>
             <guid>https://tv.naver.com/v/30077219</guid>
             <pubDate>Thu, 20 Oct 2022 09:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221020_235/eSuyU_1666230520552957NR_JPEG/1666230501606.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://tv.naver.com/v/30077074</link>
             <guid>https://tv.naver.com/v/30077074</guid>
             <pubDate>Thu, 20 Oct 2022 09:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221020_216/YxiQq_1666230247682Xj8Yx_JPEG/fc8bbeba-5017-11ed-999c-505dac8c3639_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -220,7 +228,7 @@
             <link>https://tv.naver.com/v/29992667</link>
             <guid>https://tv.naver.com/v/29992667</guid>
             <pubDate>Wed, 19 Oct 2022 04:51:57 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221017_178/2Ghrs_1665999445580WUNpg_JPEG/f6cb6562-4dfe-11ed-999c-505dac8c3639_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 19 Oct 2022 04:51:58 GMT</pubDate>
             <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221017_62/z4uFp_1665993401617Njx4U_JPEG/13a411bc-4df1-11ed-a57b-505dac8c385b_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['거래완료' 리뷰 뮤직비디오]]></title>
-            <link>https://tv.naver.com/v/29984291</link>
-            <guid>https://tv.naver.com/v/29984291</guid>
-            <pubDate>Wed, 19 Oct 2022 04:51:58 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221017_100/jHiCr_1665986374684dO4PC_PNG/1665986315828.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
