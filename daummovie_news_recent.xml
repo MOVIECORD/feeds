@@ -1,8 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-01-10T15:13:13.804Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 12 Jan 2023 03:14:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[故 강수연에서 출발한 ‘정이’, 연상호 감독이 완성한 한국형 SF [종합]]]></title>
+            <link>https://v.daum.net/v/20230112121207617</link>
+            <guid>https://v.daum.net/v/20230112121207617</guid>
+            <pubDate>Thu, 12 Jan 2023 03:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 한국형 SF 장르 영화의 새로운 패러다임을 제시할 ‘정이’가 베일을 벗었다. 12일 오전 서울시 광진구 자양동에 위치한 롯데시네마 건대입구에서 진행된 넷플릭스 오리지널 영화 ‘정이’(감독 연상호) 제작보고회에서는 연상호 감독을 비롯해 출연 배우 김현주 류경수 등이 참석해 다양한 이야기를 나눴다. ‘정이’는 기후변화로 폐허가]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F12%2Ftvdaily%2F20230112121208275ozvw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰②] '유령' 이하늬 "박소담은 소중한 막내…건강한 모습으로 돌아와 기뻐"]]></title>
+            <link>https://v.daum.net/v/20230112120955560</link>
+            <guid>https://v.daum.net/v/20230112120955560</guid>
+            <pubDate>Thu, 12 Jan 2023 03:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 안소윤 기자] '유령' 이하늬가 배우 박소담을 향한 남다른 애정을 드러냈다. 이하늬는 12일 서울 종로구 삼청동 한 카페에서 스포츠조선과 만나 "박소담과 연기를 하면서 '사랑'이란 의미를 더 확장시켜 해석했다"라고 했다. 이하늬는 총독부 정무총감 직속 비서 유리코 역을 맡은 박소담과 완벽한 시너지를 선사했다. 그는 "꼭 남녀]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F12%2FSpoChosun%2F20230112120955526rjxf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['유령' 이하늬 "출산 후 달라진 점? 편안해졌다" [인터뷰 맛보기]]]></title>
+            <link>https://v.daum.net/v/20230112120806528</link>
+            <guid>https://v.daum.net/v/20230112120806528</guid>
+            <pubDate>Thu, 12 Jan 2023 03:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 배우 이하늬가 출산 후 복귀한 소감을 전했다. 이하늬는 12일 오전 서울 삼청동 소재의 한 카페에서 진행된 '유령'(감독 이해영·제작 더 램프) 개봉 기념 인터뷰에서 "당연한 것이지만 출산 후 마음가짐이 달라지긴 했다"고 말했다. 이하늬는 지난해 6월 딸을 출산, 엄마가 된 근황을 전한 바 있다. 이와 관련 달라진 게 있냐고]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F12%2Ftvdaily%2F20230112120811327ttdw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["故 강수연=원동력" 눈물 흘린 김현주·류경수의 '정이'[종합]]]></title>
+            <link>https://v.daum.net/v/20230112120704511</link>
+            <guid>https://v.daum.net/v/20230112120704511</guid>
+            <pubDate>Thu, 12 Jan 2023 03:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 건대입구=김노을 기자] 배우 류경수, 김현주가 12일 오전 서울 광진구 롯데시네마 건대입구점에서 진행된 넷플릭스 오리지널 '정이' 제작보고회에 참석해 포즈를 취하고 있다.  '정이'는 기후변화로 폐허가 된 지구를 벗어나 이주한 쉘터에서 발생한 전쟁을 끝내기 위해 전설적인 용병 '정이'의 뇌를 복제, 최고의 전투 A.I.를 개발하려는 사람들의 이야]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F12%2Fstarnews%2F20230112121012461ilbs.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['정이' 김현주 "정 많았던 故 강수연 선배, 안 계셨다면 어땠을까" 눈물 [N현장]]]></title>
+            <link>https://v.daum.net/v/20230112120508474</link>
+            <guid>https://v.daum.net/v/20230112120508474</guid>
+            <pubDate>Thu, 12 Jan 2023 03:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 김현주가 선배 배우 고(故) 강수연을 떠올리며 눈시울을 붉혔다. 김현주는 12일 오전 서울 광진구 건대입구 롯데시네마에서 열린 넷플릭스 영화 '정이'의 제작보고회에서 강수연과의 연기 호흡을 묻는 질문에 "처음에 선배님이 같이 하게 된다고 했었을 때 말이 되나 생각했었다, 만날 수 있는 사람인가? 저는 그 전에는 한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F12%2FNEWS1%2F20230112120508608nrmg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이하늬 "딸, ♥남편 닮아 다행..출산 후 극상의 행복 경험" [인터뷰①]]]></title>
+            <link>https://v.daum.net/v/20230112120453467</link>
+            <guid>https://v.daum.net/v/20230112120453467</guid>
+            <pubDate>Thu, 12 Jan 2023 03:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 이하늬 / 사진=CJ ENM배우 이하늬가 출산에 대해 "경이로운 경험"이라고 말하며 '딸 바보'의 면모를 보였다. 12일 서울시 종로구 소격동의 한 카페에서 영화 '유령'의 배우 이하늬와 만나 다양한 이야기를 나눴다. '유령'은 1933년 경성, 조선총독부에 항일조직이 심어놓은 스파이 '유령'으로 의심받으며 외딴 호텔에 갇힌 용]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F12%2Fstarnews%2F20230112120455282flaf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이하늬 “7개월 딸 ‘제발 남편 닮길’ 기도‥임신·출산·육아 극상의 행복”(유령)[EN:인터뷰③]]]></title>
+            <link>https://v.daum.net/v/20230112120301410</link>
+            <guid>https://v.daum.net/v/20230112120301410</guid>
+            <pubDate>Thu, 12 Jan 2023 03:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 임신과 출산을 경험한 이하늬가 "정말 경이로운 경험"이라며 '출산 전도사'가 됐다. 영화 '유령'(감독 이해영)에 출연한 이하늬는 1월 12일 서울 종로구 삼청동 모처에서 진행된 인터뷰를 통해 출산 후 복귀한 소감을 밝혔다. 오는 18일 개봉하는 '유령'은 1933년 경성, 조선총독부에 항일조직이 심어놓은 스파이 '유령'으로 의심받]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F12%2Fnewsen%2F20230112120302607lgxa.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['정이' 김현주, 故강수연 질문에 눈물.."현장 밖에서도 많이 챙겨줘"]]></title>
+            <link>https://v.daum.net/v/20230112120141369</link>
+            <guid>https://v.daum.net/v/20230112120141369</guid>
+            <pubDate>Thu, 12 Jan 2023 03:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=하수정 기자] '정이' 김현주가 고(故) 강수연을 떠올리며 눈시울을 붉혔다.&nbsp; 12일 오전 서울 롯데시네마 건대입구 5관에서는 넷플릭스 오리지널 영화 '정이'의 제작보고회가 열렸다. 이 자리에는 주연 배우 김현주, 류경수 배우, 연상호 감독 등이 참석했다. '정이'는 기후변화로 폐허가 된 지구를 벗어나 이주한 쉘터에서 발생한 전쟁을 끝내기 위]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F12%2Fpoctan%2F20230112120141587xisl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['유령' 이하늬 "이해영 감독 눈물, 5년 치 놀릴 거리…건강해진 박소담 다행" (인터뷰)]]></title>
+            <link>https://v.daum.net/v/20230112120100306</link>
+            <guid>https://v.daum.net/v/20230112120100306</guid>
+            <pubDate>Thu, 12 Jan 2023 03:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 이하늬가 '유령' 간담회에서 박소담과 이해영 감독이 눈물을 쏟으며 뭉클했던 현장 비하인드를 말했다. 이하늬는 12일 오전 서울 종로구 소격동의 한 카페에서 열린 영화 '유령'(감독 이해영) 인터뷰에서 다양한 이야기를 전했다.&nbsp; '유령'에서 이하늬는 총독부 통신과 암호 전문 기록 담당 박차경을 연기했다. 이날 이하늬는 전날]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F12%2Fxportsnews%2F20230112120102112cfro.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이하늬 “박소담 ‘유령’ 촬영 후 암 수술‥소중한 막내인데 미안해”[EN:인터뷰②]]]></title>
+            <link>https://v.daum.net/v/20230112120042257</link>
+            <guid>https://v.daum.net/v/20230112120042257</guid>
+            <pubDate>Thu, 12 Jan 2023 03:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 이하늬가 박소담을 "소중한 막내"라고 표현하며 애정을 전했다. 영화 '유령'(감독 이해영)에 출연한 이하늬는 1월 12일 서울 종로구 삼청동 모처에서 진행된 인터뷰를 통해 박소담과의 호흡을 밝혔다. 오는 18일 개봉하는 '유령'은 1933년 경성, 조선총독부에 항일조직이 심어놓은 스파이 '유령'으로 의심받으며 외딴 호텔에 갇힌 용의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F12%2Fnewsen%2F20230112120042481avhn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['유령', 세련된 스파이 액션을 만나고 싶다면 [마데핫리뷰]]]></title>
+            <link>https://v.daum.net/v/20230112120022216</link>
+            <guid>https://v.daum.net/v/20230112120022216</guid>
+            <pubDate>Thu, 12 Jan 2023 03:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 이렇게 세련되고 멋들어진 스파이 액션 영화라니. 감각적인 연출, 잘 짜인 이야기에 더해 시기적절한 반전까지 뭐 하나 빼놓지 않은 영화 '유령'이 극장가를 뜨겁게 달굴 예정이다. '유령'은 1933년 경성, 조선총독부에 항일조직이 심어놓은 스파이 '유령'으로 의심받으며 외딴 호텔에 갇힌 용의자들이 의심을 뚫고 탈출하기 위해 벌]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F12%2Fmydaily%2F20230112120022109jwoj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘정이’ 김현주 “故강수연, 정 많고 현장에서 누구보다 진지하고 열정적”[MK★현장]]]></title>
+            <link>https://v.daum.net/v/20230112120006167</link>
+            <guid>https://v.daum.net/v/20230112120006167</guid>
+            <pubDate>Thu, 12 Jan 2023 03:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[‘정이’ 감독과 출연진들이 故강수연에 대해 언급했다. 12일 오전 서울 광진구 롯데시네마 건대입구에서 넷플릭스 영화 ‘정이’ 제작보고회가 열린 가운데 연상호 감독과 배우 김현주, 류경수가 참석했다. ‘정이’는 지난해 세상을 떠난 故강수연의 유작이다. 감독은 고인의 역할에 대해 “‘정이’ 프로젝트의 담당자다”라고 소개했다. 이어 “윤정이(김현주 분)의 딸이다]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F12%2Fmksports%2F20230112120007669onlm.png" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘유령’ 이하늬 “설경구와 용호상박 액션‥난 배우로 성공했다”[EN:인터뷰①]]]></title>
+            <link>https://v.daum.net/v/20230112115803104</link>
+            <guid>https://v.daum.net/v/20230112115803104</guid>
+            <pubDate>Thu, 12 Jan 2023 03:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 이하늬가 설경구와 용호상박 맞대결을 펼친 것에 대해 "배우로서 성공한 것"이라는 소감을 밝혔다. 영화 '유령'(감독 이해영)에 출연한 이하늬는 1월 12일 서울 종로구 삼청동 모처에서 진행된 인터뷰를 통해 영화 개봉을 앞둔 소회 등을 전했다. 오는 18일 개봉하는 '유령'은 1933년 경성, 조선총독부에 항일조직이 심어놓은 스파이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F12%2Fnewsen%2F20230112115803342xalo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['유령' 이하늬 "출산, 자연스러운 일…숨기고 싶지 않아" [MD인터뷰②]]]></title>
+            <link>https://v.daum.net/v/20230112115437978</link>
+            <guid>https://v.daum.net/v/20230112115437978</guid>
+            <pubDate>Thu, 12 Jan 2023 03:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 이하늬(39)가 출산 후 '유령'으로 활동 복귀에 나선 소감을 밝혔다. 이하늬는 12일 오전 서울 종로구 소격동 한 카페에서 마이데일리와 인터뷰를 진행했다. 오는 18일 영화 '유령'(감독/각본 이해영) 개봉을 앞두고 만나 이야기꽃을 피웠다. '유령'은 1933년 경성, 조선총독부에 항일조직이 심어놓은 스파이 '유령'으]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F12%2Fmydaily%2F20230112115437505qzww.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['유령' 이하늬 "설경구와 연기, 가문의 영광…'내가 배우가 됐구나!' 성공 느껴" [MD인터뷰①]]]></title>
+            <link>https://v.daum.net/v/20230112115432976</link>
+            <guid>https://v.daum.net/v/20230112115432976</guid>
+            <pubDate>Thu, 12 Jan 2023 03:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 이하늬(39)가 '유령'으로 선배 설경구(55)와 첫 연기 호흡을 맞춘 소감을 밝혔다. 이하늬는 12일 오전 서울 종로구 소격동 한 카페에서 마이데일리와 인터뷰를 진행했다. 오는 18일 영화 '유령'(감독/각본 이해영) 개봉을 앞두고 만나 이야기꽃을 피웠다. '유령'은 1933년 경성, 조선총독부에 항일조직이 심어놓은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F12%2Fmydaily%2F20230112115432180ibgf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[故강수연이 열고 김현주가 닫은, 연상호표 SF ‘정이’[MK현장]]]></title>
+            <link>https://v.daum.net/v/20230112115402959</link>
+            <guid>https://v.daum.net/v/20230112115402959</guid>
+            <pubDate>Thu, 12 Jan 2023 03:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[연상호 감독이 고(故) 강수연을 향한 그리움을 드러냈다. 연상호 감독은 12일 오전 건대입구 롯데시네마에서 열린 넷플릭스 영화 ‘정이’(연상호 감독) 제작발표회에서 극 중 윤서현 팀장으로 열연한 고 강수연에 대해 “‘정이’ 프로젝트의 담당자이자 윤정이의 딸이다. 김현주 배우의 딸인 셈”이라며 “과거에 이미 식물인간이 된 자기 어머니의 뇌를 복제해서 사고와]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F12%2Fstartoday%2F20230112115403247nray.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['정이' 연상호 감독 "故강수연, 영화 기획하고 여기까지 온 원동력"]]></title>
+            <link>https://v.daum.net/v/20230112113849397</link>
+            <guid>https://v.daum.net/v/20230112113849397</guid>
+            <pubDate>Thu, 12 Jan 2023 03:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=하수정 기자] '정이' 연상호 감독 영화의 기획부터 완성까지 고(故) 강수연의 영향이 컸다고 밝혔다. 12일 오전 서울 롯데시네마 건대입구 5관에서는 넷플릭스 오리지널 영화 '정이'의 제작보고회가 열렸다. 이 자리에는 주연 배우 김현주, 류경수 배우, 연상호 감독 등이 참석했다. '정이'는 기후변화로 폐허가 된 지구를 벗어나 이주한 쉘터에서]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F12%2Fpoctan%2F20230112113850400kyah.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘정이’ 연상호 감독 “잘생긴 김현주, 연기·액션 다 돼”]]></title>
+            <link>https://v.daum.net/v/20230112113305167</link>
+            <guid>https://v.daum.net/v/20230112113305167</guid>
+            <pubDate>Thu, 12 Jan 2023 03:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[연상호 감독이 배우 김현주에 대한 강한 신뢰를 드러냈다. 연상호 감독은 12일 오전 건대입구 롯데시네마에서 열린 넷플릭스 영화 ‘정이’(연상호 감독) 제작발표회에서 김현주를 주연 배우로 캐스팅 한 이유에 대해 “그림체가 맞았다. ‘정이’를 상상하며 만들었던 그림체에 맞는 배우”라고 평했다. 연 감독은 “김현주 배우님이 잘생기셨잖나. 주인공의 그림체가 맞아야]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F12%2Fstartoday%2F20230112113306207ykjo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[김현주 "'지옥' 액션 만족 못해..'정이'는 할 수 있는 최선 다했다"]]></title>
+            <link>https://v.daum.net/v/20230112112829923</link>
+            <guid>https://v.daum.net/v/20230112112829923</guid>
+            <pubDate>Thu, 12 Jan 2023 03:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=하수정 기자] 김현주가 '정이'를 통해 액션 연기를 원없이 했다고 고백했다. 12일 오전 서울 롯데시네마 건대입구 5관에서는 넷플릭스 오리지널 영화 '정이'의 제작보고회가 열렸다. 이 자리에는 주연 배우 김현주, 류경수 배우, 연상호 감독 등이 참석했다. '정이'는 기후변화로 폐허가 된 지구를 벗어나 이주한 쉘터에서 발생한 전쟁을 끝내기 위해]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F12%2Fpoctan%2F20230112112830398dwna.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘정이’ 김현주 “액션+희소한 장르에 호기심 느껴 출연”[MK★현장]]]></title>
+            <link>https://v.daum.net/v/20230112112709856</link>
+            <guid>https://v.daum.net/v/20230112112709856</guid>
+            <pubDate>Thu, 12 Jan 2023 03:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[김현주와 류경수가 ‘정이’ 출연 이유를 밝혔다. 12일 오전 서울 광진구 롯데시네마 건대입구에서 넷플릭스 영화 ‘정이’ 제작보고회가 열린 가운데 연상호 감독과 배우 김현주, 류경수가 참석했다. 김현주와 류경수는 ‘지옥’에 이어 ‘정이’를 통해 연상호 감독과 호흡을 맞췄다. 김현주는 “‘지옥’때도 마찬가지였는데 제 안에 욕망, 욕구가 있지만 할 수 없었던 액]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F12%2Fmksports%2F20230112112710476sudr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
