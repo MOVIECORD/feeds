@@ -4,7 +4,7 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 09:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 15:09:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://tv.naver.com/v/33441548</link>
             <guid>https://tv.naver.com/v/33441548</guid>
             <pubDate>Fri, 24 Feb 2023 15:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230224_108/rM7RH_1677230472047Ox2eL_JPEG/f265185f-b423-11ed-b856-a0369ffdb9c0_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -228,7 +228,7 @@
             <link>https://tv.naver.com/v/33348086</link>
             <guid>https://tv.naver.com/v/33348086</guid>
             <pubDate>Wed, 22 Feb 2023 03:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230221_143/6ujJN_1676986065158pIet9_JPEG/4a21e779-b1eb-11ed-8883-48df379cca40_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -236,7 +236,7 @@
             <link>https://tv.naver.com/v/33347949</link>
             <guid>https://tv.naver.com/v/33347949</guid>
             <pubDate>Wed, 22 Feb 2023 03:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230221_278/WhiY3_1676985817973a6vOl_JPEG/7f5a961f-b1ea-11ed-a705-505dac8c35ff_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -244,7 +244,7 @@
             <link>https://tv.naver.com/v/33347421</link>
             <guid>https://tv.naver.com/v/33347421</guid>
             <pubDate>Wed, 22 Feb 2023 03:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230221_130/3nElH_1676984948870rSRNA_JPEG/9b875586-b1e8-11ed-9ce8-505dac8c37f3_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
