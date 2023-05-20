@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 15:08:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 03:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,27 +104,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7419667aaeec633fe1988808330e1dd2218a5187" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[조제, 호랑이 그리고 물고기들]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=143745</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=143745</guid>
-            <pubDate>Thu, 18 May 2023 09:07:18 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1aa2245cb8264c94a7688a41be742e9316350f52" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[옥수역귀신]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151655</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151655</guid>
             <pubDate>Wed, 19 Apr 2023 03:09:43 GMT</pubDate>
             <content:encoded><![CDATA[23.04.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffd6105e7d4919af308749f5785eee564320dfada" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[드리핀 스페셜 무비: 에덴]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=170291</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=170291</guid>
-            <pubDate>Thu, 18 May 2023 15:06:59 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.17]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[토리와 로키타]]></title>
@@ -159,12 +144,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffeb0710eb68b1e099ea6ba9db23def9961c8bb22" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 리틀 슈퍼맨 샘샘]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=139138</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=139138</guid>
-            <pubDate>Fri, 19 May 2023 15:07:10 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F54a554feca06ea7c9cc7d2eaef4d264713c61692" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[조제, 호랑이 그리고 물고기들]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143745</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143745</guid>
+            <pubDate>Thu, 18 May 2023 09:07:18 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1aa2245cb8264c94a7688a41be742e9316350f52" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[유랑지구2]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167387</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167387</guid>
+            <pubDate>Sat, 20 May 2023 03:11:40 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F429eb190370d6e553a0e11d434c36240b7e07e8d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[킬링 로맨스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149715</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149715</guid>
+            <pubDate>Sat, 20 May 2023 03:11:40 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbe239fd29a9a82847e419e4c0d0490a6ca8dd7e4" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
