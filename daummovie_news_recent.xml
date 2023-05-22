@@ -1,8 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-05-21T15:07:25.393Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 22 May 2023 03:09:27 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['귀공자' 김선호 "맑은 눈의 광인으로 변신, 두려움과 걱정도 된다"]]></title>
+            <link>https://v.daum.net/v/20230522120544118</link>
+            <guid>https://v.daum.net/v/20230522120544118</guid>
+            <pubDate>Mon, 22 May 2023 03:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[22일 오전 롯데시네마 건대입구에서는 영화 '귀공자'의 제작보고회가 진행되었다. 이날 행사에는 박훈정 감독, 김선호, 강태주, 김강우, 고아라가 참석해 영화에 대해 이야기했다. 극중 귀공자를 연기한 김선호는 "맑은 눈의 광인이다. 갑자기 나타나서 계속 귀공자가 쫓아다니며 친구라고 하면서 주변을 초토화 시키고 맑은 눈으로 다 망친다. '이상한데? 광인인가?]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F22%2FiMBC%2F20230522120548079idvl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['귀공자' 박훈정 "김선호 캐스팅 고민했으나 대안 없었다, 결과는 대만족"]]></title>
+            <link>https://v.daum.net/v/20230522120442089</link>
+            <guid>https://v.daum.net/v/20230522120442089</guid>
+            <pubDate>Mon, 22 May 2023 03:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[22일 오전 롯데시네마 건대입구에서는 영화 '귀공자'의 제작보고회가 진행되었다. 이날 행사에는 박훈정 감독, 김선호, 강태주, 김강우, 고아라가 참석해 영화에 대해 이야기했다. 박훈정 감독은 "출발은 어두운 이야기였다. 촬영을 하다보니 조금 밝아졌고, 시작부터 끝까지 달리는 추격이 많다. 중간에 심경의 변화가 있어서 밝아졌다.원래 제가 어두운 사람이라 생]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F22%2FiMBC%2F20230522120448660gqeq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘귀공자’ 빌런으로 돌아온 김선호‥대체할 수 없는 완벽한 선택[종합]]]></title>
+            <link>https://v.daum.net/v/20230522120347058</link>
+            <guid>https://v.daum.net/v/20230522120347058</guid>
+            <pubDate>Mon, 22 May 2023 03:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 글 배효주 기자/사진 이재하 기자] 김선호가 '귀공자'로 스크린 데뷔한다. 냉정하고 잔인하지만, 한편으로는 엉뚱한 유머를 지닌 다채로운 매력을 볼 수 있을 전망이다. 영화 '귀공자'(감독 박훈정) 제작보고회가 5월 22일 서울 광진구 롯데시네마 건대입구에서 열렸다. 김선호와 강태주, 김강우, 고아라, 박훈정 감독이 참석해 영화에 대한 여러 이야기]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F22%2Fnewsen%2F20230522120348356jrow.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['귀공자' 감독 "'사생활 이슈' 김선호 캐스팅, 고민 안 했다면 거짓말"]]></title>
+            <link>https://v.daum.net/v/20230522120203961</link>
+            <guid>https://v.daum.net/v/20230522120203961</guid>
+            <pubDate>Mon, 22 May 2023 03:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=최지예 기자]영화 '신세계', '마녀'의 박훈정 감독이 배우 김선호 캐스팅에 대해 "지금은 잘 했다고 생각한다"고 자평했다. 22일 오전 서울 성동구 건대입구 롯데시네마에서 영화 '귀공자'(감독 박훈정) 제작보고회가 열렸다. 이날 제작보고회에는 박훈정 감독을 비롯해 배우 김선호, 강태주, 김강우, 고아라가 참석했다.&nbsp; 이날 박훈정 감독은 '귀]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F22%2F10asia%2F20230522120205617vwtw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["개인적 일 송구" 김선호, '귀공자'로 컴백…성공적 스크린 데뷔 이룰까(종합)]]></title>
+            <link>https://v.daum.net/v/20230522120143924</link>
+            <guid>https://v.daum.net/v/20230522120143924</guid>
+            <pubDate>Mon, 22 May 2023 03:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 배우 김선호가 '귀공자'로 스크린 데뷔에 나선다. 그는 '갯마을 차차차' 이후 전 여자친구와 관련해 불거진 사생활 논란에 대해 먼저 사과한 뒤 '귀공자'로 관객을 만나는 설레는 마음을 전했다. 김선호가 박훈정 감독과 성공적인 스크린 데뷔를 이뤄낼지 이목이 빚우된다. 22일 서울 광진구 자양동 롯데시네마 건대입구에서는 영]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F22%2FNEWS1%2F20230522120144463bdru.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[김선호·강태주 스크린 데뷔작 ‘귀공자’..맑눈광 신캐로 돌아온다 [종합]]]></title>
+            <link>https://v.daum.net/v/20230522120115882</link>
+            <guid>https://v.daum.net/v/20230522120115882</guid>
+            <pubDate>Mon, 22 May 2023 03:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김선호와 강태주의 스크린 데뷔작 ‘귀공자’가 맹렬한 추격 액션과 매력적인 캐릭터를 꾹 눌러 담아 선보일 예정이다. 드라마에서 많은 사랑을 받은 배우 김선호가 과거 사생활 논란을 딛고 처음 스크린에 데뷔하는 작품이자 1980대 1의 살벌한 경쟁률을 뚫은 괴물 신인 강태주가 호흡을 맞췄다. 22일 롯데시네마 건대입구점에서 열린 ‘귀공자’ 제작보고회에서]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F22%2Filgansports%2F20230522120116260namq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['귀공자' 박훈정 감독 "김선호 캐스팅 만족..다른 대안 없었다]]></title>
+            <link>https://v.daum.net/v/20230522120115877</link>
+            <guid>https://v.daum.net/v/20230522120115877</guid>
+            <pubDate>Mon, 22 May 2023 03:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 건대입구=김미화 기자] 김선호, 박훈정 감독 / 사진=김창현 기자 박훈정 감독이 김선호를 캐스팅한 이유를 설명했다. 박 감독은 김선호 캐스팅에 대한 만족감을 드러냈다. 22일 오전 서울 광진구 롯데시네마 건대입구에서 영화 '귀공자'(감독 박훈정) 제작보고회가 열렸다. 이날 행사에는 김선호 강태주 김강우 고아라 박훈정 감독이 참석했다. '귀]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F22%2Fstarnews%2F20230522120116655lckk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[“광기의 추격”...‘귀공자’ 김선호 강태주, 박훈정 손잡고 스크린 저격[MK현장]]]></title>
+            <link>https://v.daum.net/v/20230522120007798</link>
+            <guid>https://v.daum.net/v/20230522120007798</guid>
+            <pubDate>Mon, 22 May 2023 03:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[김선호 강태주가 박훈정 감독표 추격 액션 ‘귀공자’로 올여름 스크린을 저격한다. 22일 오전 서울 롯데시네마 건대입구에서 영화 ‘귀공자’ 제작보고회가 열렸다. 박훈정 감독과 배우 김선호 강태주 김강우 고아라가 참석했다. ‘귀공자’는 필리핀 불법 경기장을 전전하는 복싱 선수 마르코 앞에 정체불명의 남자 귀공자를 비롯한 각기 다른 목적을 지닌 세력들이 나타나]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F22%2Fstartoday%2F20230522120008368rffy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["새로운 도전"…광기의 김선호, 정체불명 추격자 '귀공자'로 스크린 데뷔 [MD현장](종합)]]></title>
+            <link>https://v.daum.net/v/20230522115953782</link>
+            <guid>https://v.daum.net/v/20230522115953782</guid>
+            <pubDate>Mon, 22 May 2023 03:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 15년 차 배우 김선호가 생애 첫 번째 영화 '귀공자'로 올여름 관객과 만난다. 김선호는 광기의 추격자로 변신해 낯선 얼굴을 끄집어낼 예정이다. 22일 서울 광진구 롯데시네마 건대입구에서 영화 '귀공자' 제작보고회가 열렸다. 행사에는 박훈정 감독과 배우 김선호, 강태주, 김강우, 고아라가 참석해 자리를 빛냈다. '귀공자']]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F22%2Fmydaily%2F20230522115953340yxki.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['귀공자' 김강우 "상남자, 미친X, 지금껏 한 악역 중 최고로 시원시원한 인물"]]></title>
+            <link>https://v.daum.net/v/20230522115944778</link>
+            <guid>https://v.daum.net/v/20230522115944778</guid>
+            <pubDate>Mon, 22 May 2023 03:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[22일 오전 롯데시네마 건대입구에서는 영화 '귀공자'의 제작보고회가 진행되었다. 이날 행사에는 박훈정 감독, 김선호, 강태주, 김강우, 고아라가 참석해 영화에 대해 이야기했다. 김강우는 영화에 대해 "이게 무슨영화지? 했다. 저는 단순한 이야기를 좋아하는데, 이 영화를 어떤 영화라고 설명할지 애매하다. 어떤 목적에 의해 각자의 이익을 위해 쫓고 쫓기는 영]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F22%2FiMBC%2F20230522115945761kxig.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["캐스팅 후회 안 해"…'귀공자' 김선호, 박훈정 감독 손잡고 스크린 데뷔  [종합]]]></title>
+            <link>https://v.daum.net/v/20230522115919771</link>
+            <guid>https://v.daum.net/v/20230522115919771</guid>
+            <pubDate>Mon, 22 May 2023 03:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 배우 김선호의 스크린 데뷔작 ‘귀공자’가 베일을 벗었다. 22일 오전 서울시 광진구 자양동에 위치한 롯데시네마 건대입구에서 진행된 영화 ’귀공자‘(감독 박훈정) 제작보고회에서는 박훈정 감독을 비롯해 출연 배우 김선호 강태주 김강우 고아라 등이 참석해 다양한 이야기를 나눴다. ‘귀공자’는 필리핀 불법 경기장을 전전하는 복싱 선수]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F22%2Ftvdaily%2F20230522115924192ydqe.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[광기의 추격 '귀공자' 김선호→강태주, 박훈정 감독 '신예 매직' 통할까 [ST종합]]]></title>
+            <link>https://v.daum.net/v/20230522115915764</link>
+            <guid>https://v.daum.net/v/20230522115915764</guid>
+            <pubDate>Mon, 22 May 2023 03:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 서지현 기자] 신예를 앞세워 '매직'을 선보였던 박훈정 감독이 또 한 번 신인 강태주와 돌아온다. 김선호, 김강우, 고아라가 추격자로, 강태주는 쫓기는 자가 될 예정이다. 22일 오전 서울시 광진구 롯데시네마 건대입구에서 영화 '귀공자'(연출 박훈정·제작 영화사 금월) 제작보고회가 열려 박훈정 감독, 배우 김선호, 강태주, 김강우, 고아라가]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F22%2Fsportstoday%2F20230522115917055tjzv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['귀공자' 고아라 "박훈정 감독 작품에 출연하는 자체가 도전, 미스터리한 인물 연기"]]></title>
+            <link>https://v.daum.net/v/20230522115845751</link>
+            <guid>https://v.daum.net/v/20230522115845751</guid>
+            <pubDate>Mon, 22 May 2023 03:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[22일 오전 롯데시네마 건대입구에서는 영화 '귀공자'의 제작보고회가 진행되었다. 이날 행사에는 박훈정 감독, 김선호, 강태주, 김강우, 고아라가 참석해 영화에 대해 이야기했다. 극중 '윤주'를 연기한 고아라는 "필리핀에서 마르코를 우연히 만나고 이후에 한국에서 다시 만나는데 이후는 밝힐수가 없다. 극장에서 확인해주시면 좋겠다."라며 캐릭터를 설명했다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F22%2FiMBC%2F20230522115848585keie.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["최선 다했다"..광기 어린 김선호, '귀공자' 박훈정 감독과 스크린으로 [종합]]]></title>
+            <link>https://v.daum.net/v/20230522115743711</link>
+            <guid>https://v.daum.net/v/20230522115743711</guid>
+            <pubDate>Mon, 22 May 2023 03:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 건대입구=김미화 기자] 배우 김선호가 22일 오전 서울 광진구 롯데시네마 건대입구에서 진행된 영화 '귀공자' 제작보고회에 참석해 미소를 짓고 있다.  '귀공자'는 필리핀 불법 경기장을 전전하는 복싱 선수 '마르코' 앞에 정체불명의 남자 '귀공자'를 비롯한 각기 다른 목적을 지닌 세력들이 나타나 광기의 추격을 펼치는 이야기. 내달 21일 개봉.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F22%2Fstarnews%2F20230522115745071fvop.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['귀공자' 강태주 "액션 준비위해 식단 관리했더니 피부가 좋아져"]]></title>
+            <link>https://v.daum.net/v/20230522115644668</link>
+            <guid>https://v.daum.net/v/20230522115644668</guid>
+            <pubDate>Mon, 22 May 2023 03:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[22일 오전 롯데시네마 건대입구에서는 영화 '귀공자'의 제작보고회가 진행되었다. 이날 행사에는 박훈정 감독, 김선호, 강태주, 김강우, 고아라가 참석해 영화에 대해 이야기했다. 이번 작품으로 스크린에 데뷔한 강태주는 "정말 떨리고 영광스러운 순간이었다. 모든 장면 공들여서 열심히 촬영했고 전작에서 많은 선배님들이 해주셔서 저도 열심히 잘 해내려고 했다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F22%2FiMBC%2F20230522115650856zdwb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['귀공자' 김선호 "고소공포증 있어 대역? 어느새 와이어 매져 있었다"]]></title>
+            <link>https://v.daum.net/v/20230522115223539</link>
+            <guid>https://v.daum.net/v/20230522115223539</guid>
+            <pubDate>Mon, 22 May 2023 03:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[(MHN스포츠 정승민 인턴기자) '귀공자'를 통해 스크린에 데뷔하는 김선호가 액션 장면을 촬영하며 겪었던 고충을 토로했다. 22일 오전 서울 광진구 롯데시네마 건대입구에서 영화 '귀공자' 제작보고회가 열렸다. 이날은 박훈정 감독, 김선호, 강태주, 김강우, 고아라가 참석했으며 진행은 방송인 박경림이 맡았다. 웬만하면 대역 없는 배우들의 액션을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F22%2FHockeyNewsKorea%2F20230522115225957kxak.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["심려 끼쳐 송구" 김선호, '귀공자' 스크린 데뷔 앞서 사생활 이슈 재차 사과 [TEN현장]]]></title>
+            <link>https://v.daum.net/v/20230522114601191</link>
+            <guid>https://v.daum.net/v/20230522114601191</guid>
+            <pubDate>Mon, 22 May 2023 03:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=최지예 기자]배우 김선호가 지난 2021년 불거진 자신의 사생활 이슈에 대해 사과했다. 22일 오전 서울 성동구 건대입구 롯데시네마에서 영화 '귀공자'(감독 박훈정) 제작보고회가 열렸다. 이날 제작보고회에는 박훈정 감독을 비롯해 배우 김선호, 강태주, 김강우, 고아라가 참석했다.&nbsp; 2021년 10월 종영한 tvN 드라마 '갯마을 차차차' 이후]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F22%2F10asia%2F20230522114603092iocx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['귀공자' 김선호 "고소공포증 이기고 와이어 액션…정말 높고 무섭"]]></title>
+            <link>https://v.daum.net/v/20230522114516155</link>
+            <guid>https://v.daum.net/v/20230522114516155</guid>
+            <pubDate>Mon, 22 May 2023 03:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 스타in 방인권 기자] 배우 김선호가 22일 서울 광진구 롯데시네마 건대입구점에서 열린 영화 ‘귀공자’ 제작보고회에서 인사말을 하고 있다. 영화 ‘귀공자’는 필리핀 불법 경기장을 전전하는 복싱 선수 마르코 앞에 정체불명의 남자 귀공자를 비롯한 각기 다른 목적을 지닌 세력들이 나타나 광기의 추격을 펼치는 이야기를 담은 영화로 6월 21일 개봉예정]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F22%2FEdaily%2F20230522114519445emvw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘귀공자’ 김선호 “고소공포증 있지만 와이어 착용하고 직접 액션”]]></title>
+            <link>https://v.daum.net/v/20230522114038949</link>
+            <guid>https://v.daum.net/v/20230522114038949</guid>
+            <pubDate>Mon, 22 May 2023 03:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 글 배효주 기자/사진 이재하 기자] 김선호가 고소공포증을 이겨내고 직접 액션을 소화한 소감을 밝혔다. 김선호는 5월 22일 서울 광진구 롯데시네마 건대입구에서 열린 영화 '귀공자'(감독 박훈정) 제작보고회를 통해 대역 없이 격렬한 액션 신들을 소화했다고 전했다. 먼저 박훈정 감독은 "영화를 찍을 때 대역을 쓰는 걸 안 좋아해서, 저와 함께 작업하]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F22%2Fnewsen%2F20230522114038240hvjx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[치열한 경쟁률 뚫은 '귀공자' 강태주 "많이 쫓기면서 신체 변화 있었다"]]></title>
+            <link>https://v.daum.net/v/20230522113626806</link>
+            <guid>https://v.daum.net/v/20230522113626806</guid>
+            <pubDate>Mon, 22 May 2023 03:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[(MHN스포츠 정승민 인턴기자) '마녀' 시리즈보다 치열한 경쟁률을 뚫고 박훈정 감독의 선택을 받은 신예 강태주가 '귀공자'에 합류한 뒤 수없이 쫓기면서 신체적으로 변화가 있었다고 밝혔다. 22일 오전 서울 광진구 롯데시네마 건대입구에서 영화 '귀공자' 제작보고회가 열렸다. 이날은 박훈정 감독, 김선호, 강태주, 김강우, 고아라가 참석했으며 진행은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F22%2FHockeyNewsKorea%2F20230522113631839dlik.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
