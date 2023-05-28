@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-05-28T09:09:29.476Z</updated>
+    <updated>2023-05-28T15:08:44.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[And 문화] “먼저, 상대방 말을 듣고 말해야 바른 말을 할 수 있죠”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001611834</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001611834"/>
+        <updated>2023-05-28T15:06:58.970Z</updated>
+        <content type="html"><![CDATA[“아빠, 요즘 사람들 본적(本籍)이 뭔지도 몰라.” 손주의 출생지를 두고 아버지(정승길)와 딸(조윤서)이 입씨름 중이다. 딸은 남편이 일하고 있는 광주로 가서 아기를 낳겠다고 하고, 아버지는 지역감정의 유구한 역사를]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['거미집'까지 25년 인연... 김지운 "송강호는 감독 같은 배우"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000741635</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000741635"/>
+        <updated>2023-05-28T15:06:58.973Z</updated>
+        <content type="html"><![CDATA[박수와 환호가 10분 넘게 쏟아졌다. 의례를 넘어선 진심 어린 반응이었다. 지난 25일 밤(현지시간) 프랑스 칸의 뤼미에르대극장은 열광의 파도가 넘실거렸다. 제76회 칸국제영화제 비경쟁 부문에 초청된 영화 '거미집']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['슈퍼 마리오 브라더스', '미니언즈2' 기록 꺾었다…장기 흥행[공식]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004859362</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013968477"/>
         <updated>2023-05-28T09:07:37.295Z</updated>
         <content type="html"><![CDATA[28일 서울 강남구 세텍(SETEC)에서 열린 제5회 서울코스트릿에서 코스튬 플레이어들이 포즈를 취하고 있다. 2023.5.28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송강호, 男주연상→시상자 칸 폐막식…‘황금종려상’ 3번째 여성감독(종합)[Oh!쎈 이슈]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004859210</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004859210"/>
-        <updated>2023-05-28T09:07:37.299Z</updated>
-        <content type="html"><![CDATA[제76회 칸 국제영화제의 황금종려상(Palme d'Or)은 프랑스 영화 ‘아나토미 오브 어 폴’(ANATOMY OF A FALL)이 가져갔다. 연출한 저스틴 트리엣 감독은 제46회 ‘피아노’(1993・뉴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['폐막' 제76회 칸영화제, 쥐스틴 트리에 황금종려상…송강호 시상자 활약 [종합]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001597932</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001597932"/>
-        <updated>2023-05-28T09:07:37.301Z</updated>
-        <content type="html"><![CDATA[제76회 칸국제영화제에서 영화 '아나토미 오브 어 폴'을 연출한 프랑스 여성 감독 쥐스틴 트리에가 최고상인 황금종려상을 수상했다. 27일(현지시간) 프랑스 칸의 뤼미에르 대극장에서 제76회 칸국제영화제 폐막식이 열렸]]></content>
     </entry>
 </feed>
