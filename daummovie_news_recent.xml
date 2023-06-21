@@ -1,8 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-06-20T15:09:13.360Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 21 Jun 2023 03:10:52 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['콘크리트유토피아' 김선영 "케릭터도 안 보고 이병헌 떄문에 출연"]]></title>
+            <link>https://v.daum.net/v/20230621120857473</link>
+            <guid>https://v.daum.net/v/20230621120857473</guid>
+            <pubDate>Wed, 21 Jun 2023 03:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[21일 오전 롯데시네마 건대입구에서는 영화 '콘크리트 유토피아'의 제작보고회가 열렸다. 이날 행사에는 엄태화 감독, 이병헌, 박서준, 박보영, 김선영, 박지후, 김도윤이 참석해 영화에 대해 이야기했다. 김선영은 "이 작품에 출연한 이유에 이병헌이 8할 정도. 캐릭터도 안보고 이병헌 선배가 한다고 해서 했다. 언제 볼지 모르고 이게 마지막일수 있다는 생각이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F21%2FiMBC%2F20230621120901051ojpz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['콘크리트유토피아' 박지후 "어리지만 굴복하지 않는 당찬 모습에 끌렸다"]]></title>
+            <link>https://v.daum.net/v/20230621120757457</link>
+            <guid>https://v.daum.net/v/20230621120757457</guid>
+            <pubDate>Wed, 21 Jun 2023 03:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[21일 오전 롯데시네마 건대입구에서는 영화 '콘크리트 유토피아'의 제작보고회가 열렸다. 이날 행사에는 엄태화 감독, 이병헌, 박서준, 박보영, 김선영, 박지후, 김도윤이 참석해 영화에 대해 이야기했다. 박지후는 드라마 '작은아씨들'로 시청자의 눈길을 받았었는데 "시나리오를 받고 어리지만 거침없고 굴복하지 않는 캐릭터의 모습에 매력을 느꼈다. 그 속에 숨겨]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F21%2FiMBC%2F20230621120758576iafv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[박서준, 수스와 열애설 직접 밝힌 입장 “관심은 감사하지만”(콘크리트 유토피아)[종합]]]></title>
+            <link>https://v.daum.net/v/20230621120657431</link>
+            <guid>https://v.daum.net/v/20230621120657431</guid>
+            <pubDate>Wed, 21 Jun 2023 03:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 글 배효주 기자/사진 이재하 기자] 박서준이 '콘크리트 유토피아'로 올여름 스크린 컴백하는 가운데, 열애설에 대해 "사생활이라 오픈하기가 어렵다"는 입장을 밝혔다. 영화 '콘크리트 유토피아'(감독 엄태화) 제작보고회가 6월 21일 서울 광진구 롯데시네마 건대입구에서 열렸다. 엄태화 감독과 이병헌, 박서준, 박보영, 김선영, 박지후, 김도윤이 참석]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F21%2Fnewsen%2F20230621120700397ziic.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['콘크리트유토피아' 김도윤 "날카로운 말투 위해 부모님의 경상도 말투 차용"]]></title>
+            <link>https://v.daum.net/v/20230621120657430</link>
+            <guid>https://v.daum.net/v/20230621120657430</guid>
+            <pubDate>Wed, 21 Jun 2023 03:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[21일 오전 롯데시네마 건대입구에서는 영화 '콘크리트 유토피아'의 제작보고회가 열렸다. 이날 행사에는 엄태화 감독, 이병헌, 박서준, 박보영, 김선영, 박지후, 김도윤이 참석해 영화에 대해 이야기했다. 김도윤은 극한의 상황에 내몰리는 '도균'을 연기했다. 그는 "이전의 작품들은 주로 사람이 아닌 존재와의 사이에서 오는 극한이었다면 이번에는 사람과 사람 사]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F21%2FiMBC%2F20230621120658519qqup.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["큰 차별화"…이병헌X박서준X박보영 '콘크리트 유토피아', 재난영화 신기원 쓸까 [MD현장](종합)]]></title>
+            <link>https://v.daum.net/v/20230621120628422</link>
+            <guid>https://v.daum.net/v/20230621120628422</guid>
+            <pubDate>Wed, 21 Jun 2023 03:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 세상을 삼켜버린 대지진 이후 '우리 아파트 하나만 살아남는다면?'이란 신선한 물음에서 출발한 '콘크리트 유토피아'가 차별화된 재난 영화의 탄생을 예고했다. 21일 서울 광진구 롯데시네마 건대입구에서 영화 '콘크리트 유토피아' 제작보고회가 진행됐다. 행사에는 엄태화 감독과 배우 이병헌, 박서준, 박보영, 김선영, 박지후, 김]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F21%2Fmydaily%2F20230621120628320mpdg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[박서준, 수스와 열애설 입열었다 "사생활 오픈 부담, 개인적인 일"]]></title>
+            <link>https://v.daum.net/v/20230621120549396</link>
+            <guid>https://v.daum.net/v/20230621120549396</guid>
+            <pubDate>Wed, 21 Jun 2023 03:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=하수정 기자] 배우 박서준이 가수 겸 유튜버 수스와 열애설이 불거진 가운데, 첫 공식석상에 참석해&nbsp;직접 입장을 드러냈다.&nbsp; 21일 오전 서울 롯데시네마 건대입구에서는 영화 '콘크리트 유토피아'의 제작보고회가 진행됐다. 이 자리에는 엄태화 감독, 주연 배우 이병헌, 박서준, 박보영, 김선영, 박지후, 김도윤 등이 참석했다. 특히 제작보고회 하루]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F21%2Fpoctan%2F20230621120549761sxje.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[박서준, 수스와 열애설 언급 "사생활 오픈 부담..개인적인 일"]]></title>
+            <link>https://v.daum.net/v/20230621120425347</link>
+            <guid>https://v.daum.net/v/20230621120425347</guid>
+            <pubDate>Wed, 21 Jun 2023 03:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 건대입구=김나연 기자] 배우 박서준이 21일 오전 서울 광진구 롯데시네마 건대입구점에서 진행된 영화 '콘크리트 유토피아'(감독 엄태화) 제작발표회에 참석해 질문에 답하고 있다.  대지진으로 폐허가 되어 버린 서울, 유일하게 남은 황궁 아파트로 생존자들이 모여들며 시작되는 재난 드라마 '콘크리트 유토피아'는 오는 8월 개봉 예정이다. /2023]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F21%2Fstarnews%2F20230621120427046xhyz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['슈스와 열애설' 박서준 "사생활 오픈 큰 부담 느껴, 특별한 말씀 드리기 어렵다" [TEN이슈]]]></title>
+            <link>https://v.daum.net/v/20230621120304313</link>
+            <guid>https://v.daum.net/v/20230621120304313</guid>
+            <pubDate>Wed, 21 Jun 2023 03:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=최지예 기자]배우 박서준(34)이&nbsp;유튜버 수스(29·본명 김수연)의 열애설 관련 "특별한 말씀 드리기 어려울 거 같다"고 말했다.&nbsp; 박서준은 21일 오전 11시 서울 광진구 아차산로 롯데시네마 건대입구에서 영화 '콘크리트 유토피아'(감독 엄태화) 제작보고회에 참석했다.&nbsp; 이날 박서준은 수스와의 열애설에 대한 질문에 "촬영이 있어서 어제 되게]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F21%2F10asia%2F20230621120306436yprk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[“이병헌 때문에 출연”..휴먼·블랙코미디 재난물 ‘콘크리트 유토피아’[MK현장]]]></title>
+            <link>https://v.daum.net/v/20230621120300304</link>
+            <guid>https://v.daum.net/v/20230621120300304</guid>
+            <pubDate>Wed, 21 Jun 2023 03:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[“또 언제 이병헌 배우와 호흡을 맞출 기회가 있겠습니까...” 이병헌 박서준 박보영 김선영 등 믿고 보는 충무로 대표 주자들이 뭉쳤다. 재난물 ‘콘크리트 유토피아’를 통해서다. 21일 서울 광진구 롯데시네마 건대입구점에서 영화 ‘콘크리트 유토피아’(감독 엄태화) 제작보고회가 열렸다. 이날 이병헌은 “작품의 장르가 휴먼, 블랙 코미디에 가까운 작품”이라고 ‘]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F21%2Fstartoday%2F20230621120301778ejoo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[박서준, 수스와의 열애설 "관심은 감사···사생활 오픈은 부담" [SE★현장]]]></title>
+            <link>https://v.daum.net/v/20230621120222286</link>
+            <guid>https://v.daum.net/v/20230621120222286</guid>
+            <pubDate>Wed, 21 Jun 2023 03:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] 배우 박서준이 유튜버 수스와 불거진 열애설에 대해 입을 열었다. 21일 오전 서울시 광진구에 위치한 롯데시네마 건대입구점에서 '콘크리트 유토피아'(감독 엄태화) 제작보고회가 열렸다. 이날 행사에는 연출을 맡은 엄태화 감독과 배우 이병헌, 박서준, 박보영, 김선영, 박지후, 김도윤이 참석한 가운데 작품에 관한 다양한 이야기를 나눴다. '콘크리트]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F21%2Fseouleconomy%2F20230621120858128xqzn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이병헌 "김선영에 따귀 맞고 순간 기절, 30년 연기 인생 처음"(콘크리트 유토피아)]]></title>
+            <link>https://v.daum.net/v/20230621115908056</link>
+            <guid>https://v.daum.net/v/20230621115908056</guid>
+            <pubDate>Wed, 21 Jun 2023 03:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=하수정 기자] '콘크리트 유토피아' 이병헌이 김선영에게 따귀 맞는 장면을 찍고 순간적으로 기절한 에피소드를 공개했다. 21일 오전 서울 롯데시네마 건대입구에서는 영화 '콘크리트 유토피아'의 제작보고회가 진행됐다. 이 자리에는 엄태화 감독, 주연 배우 이병헌, 박서준, 박보영, 김선영, 박지후, 김도윤 등이 참석했다. 이병헌은 극 중 주민들의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F21%2Fpoctan%2F20230621115908099pirv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['콘크리트 유토피아' 이병헌 "김선영에 따귀 맞아, 1초 순간 기절" [N현장]]]></title>
+            <link>https://v.daum.net/v/20230621115650977</link>
+            <guid>https://v.daum.net/v/20230621115650977</guid>
+            <pubDate>Wed, 21 Jun 2023 03:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 배우 이병헌이 김선영의 따귀 에너지에 놀랐다고 밝혔다. 김선영은 21일 오전 서울 광진구 롯데시네마 건대입구에서 열린 영화 '콘크리트 유토피아' 제작보고회에서 "첫 촬영을 선배님과 했는데 주변에서 '어땠냐'고 물어보더라"라며 "제가 많이 한 얘기가 '난 연기를 안 해도 될 것 같다'고 했다, 그냥 그 자체, 그런 에너지를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F21%2FNEWS1%2F20230621115650618hhyg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[박보영 "이병헌 분노 연기, 방금까지 농담 나눴는데 눈 갈아 끼운 줄"]]></title>
+            <link>https://v.daum.net/v/20230621115642972</link>
+            <guid>https://v.daum.net/v/20230621115642972</guid>
+            <pubDate>Wed, 21 Jun 2023 03:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[(MHN스포츠 정승민 기자) 박보영이 이병헌과 촬영 중 일화를 언급하며 "눈을 갈아 끼운 것 같다"는 파격적인 표현으로 극찬을 아끼지 않았다. 21일 오전 서울 광진구 롯데시네마 건대입구에서 영화 '콘크리트 유토피아' 제작보고회가 열렸다. 이날은 엄태화 감독, 이병헌, 박서준, 박보영, 김선영, 박지후, 김도윤이 참석했으며 진행은 박경림이 맡았다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F21%2FHockeyNewsKorea%2F20230621115644568arul.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이병헌 "김선영에게 따귀 맞아···발차기보다 더 세게 느껴져" [SE★현장]]]></title>
+            <link>https://v.daum.net/v/20230621115609962</link>
+            <guid>https://v.daum.net/v/20230621115609962</guid>
+            <pubDate>Wed, 21 Jun 2023 03:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] 배우 이병헌이 김선영과 함께 호흡을 맞추며 벌어진 일화를 밝혔다. 21일 오전 서울시 광진구에 위치한 롯데시네마 건대입구점에서 '콘크리트 유토피아'(감독 엄태화) 제작보고회가 열렸다. 이날 행사에는 연출을 맡은 엄태화 감독과 배우 이병헌, 박서준, 박보영, 김선영, 박지후, 김도윤이 참석한 가운데 작품에 관한 다양한 이야기를 나눴다. '콘크리]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F21%2Fseouleconomy%2F20230621115613072wgbj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이병헌 “김선영에 따귀 맞고 1초 기절, 30년 연기인생 처음”(콘크리트 유토피아)]]></title>
+            <link>https://v.daum.net/v/20230621115550955</link>
+            <guid>https://v.daum.net/v/20230621115550955</guid>
+            <pubDate>Wed, 21 Jun 2023 03:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 글 배효주 기자/사진 이재하 기자] 이병헌이 김선영으로부터 따귀를 맞아 "순간 기절했다"는 비하인드를 밝혔다. 이병헌은 6월 21일 서울 광진구 롯데시네마 건대입구에서 열린 영화 '콘크리트 유토피아'(감독 엄태화) 제작보고회를 통해, 극중 김선영에게서 뺨을 맞는 장면이 있다고 귀띔해 기대를 모았다. 이날 김선영은 "이병헌과 함께 연기하며 큰 에너]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F21%2Fnewsen%2F20230621115550324bxsd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['콘크리트 유토피아' 박서준 "이병헌 팬이라 직접 출연 어필" [N현장]]]></title>
+            <link>https://v.daum.net/v/20230621114534550</link>
+            <guid>https://v.daum.net/v/20230621114534550</guid>
+            <pubDate>Wed, 21 Jun 2023 03:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 배우 박서준이 이병헌의 팬이라 '콘크리트 유토피아'에 출연했다고 밝혔다. 박서준은 21일 오전 서울 광진구 롯데시네마 건대입구에서 열린 영화 '콘크리트 유토피아' 제작보고회에서 영화에 출연한 계기에 대해 "이번 역할 자체도 그동안 (했던 것과) 많이 다른 결이 있었다"라며 "이 안에서 굉장히 많은 감정의 변화를 표현할 수]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F21%2FNEWS1%2F20230621114534884prti.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["M자 탈모도 잘생겨"..'콘크리트 유토피아' 김선영, 이병헌 향한 팬심]]></title>
+            <link>https://v.daum.net/v/20230621113906190</link>
+            <guid>https://v.daum.net/v/20230621113906190</guid>
+            <pubDate>Wed, 21 Jun 2023 03:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 건대입구=김나연 기자] 사진='콘크리트 유토피아' 스틸컷배우 김선영이 21일 오전 서울 광진구 롯데시네마 건대입구점에서 진행된 영화 '콘크리트 유토피아'(감독 엄태화) 제작발표회에 참석해 질문에 답하고 있다.  대지진으로 폐허가 되어 버린 서울, 유일하게 남은 황궁 아파트로 생존자들이 모여들며 시작되는 재난 드라마 '콘크리트 유토피아'는 오는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F21%2Fstarnews%2F20230621113907612rzhb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[박서준·박보영 “‘콘크리트 유토피아’ 출연 이유는 이병헌” [MK★현장]]]></title>
+            <link>https://v.daum.net/v/20230621113905189</link>
+            <guid>https://v.daum.net/v/20230621113905189</guid>
+            <pubDate>Wed, 21 Jun 2023 03:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[배우 박서준, 박보영이 ‘콘크리트 유토피아’ 출연 이유로 이병헌을 언급했다. 21일 오전 서울 광진구 롯데시네마 건대입구에서 영화 ‘콘크리트 유토피아’(감독 엄태화) 제작보고회가 열렸다. 이날 박서준은 “이번 역할 자체도 제가 그동안 한 역할과는 다른 결이 있는 것 같다. 이 안에서 민성은 많은 감정의 변화를 표현할 수 있는 인물이었다. 그래서 굉장히 흥미]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F21%2Fmksports%2F20230621113906915jezk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['귀공자' 개봉 D-day, 복귀 시험대 오른 김선호 [무비노트]]]></title>
+            <link>https://v.daum.net/v/20230621113715093</link>
+            <guid>https://v.daum.net/v/20230621113715093</guid>
+            <pubDate>Wed, 21 Jun 2023 03:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 배우 김선호 주연의 '귀공자'가 관객과 만난다. 김선호가 성공적으로 복귀 시험대를 마무리할 수 있을지 귀추가 주목된다. 21일 개봉되는 영화 '귀공자'(감독 박훈정)는 필리핀&nbsp;불법&nbsp;경기장을&nbsp;전전하는&nbsp;복싱&nbsp;선수&nbsp;마르코(강태주)&nbsp;앞에&nbsp;정체불명의&nbsp;남자&nbsp;귀공자(김선호)를&nbsp;비롯한&nbsp;각기&nbsp;다른&nbsp;목적을&nbsp;지닌&nbsp;세력들이&nbsp;나타나&nbsp;광기의&nbsp;추격을&nbsp;펼]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F21%2Ftvdaily%2F20230621113716867zpsx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[박보영 "박서준과 첫 인사 나누자마자 웨딩 촬영...어색했다"]]></title>
+            <link>https://v.daum.net/v/20230621113632052</link>
+            <guid>https://v.daum.net/v/20230621113632052</guid>
+            <pubDate>Wed, 21 Jun 2023 03:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[(MHN스포츠 정승민 기자) '너의 결혼식' 이후 5년 만에 스크린으로 복귀한 박보영이 박서준과 웨딩 촬영을 했던 일화를 언급했다. 21일 오전 서울 광진구 롯데시네마 건대입구에서 영화 '콘크리트 유토피아' 제작보고회가 열렸다. 이날은 엄태화 감독, 이병헌, 박서준, 박보영, 김선영, 박지후, 김도윤이 참석했으며 진행은 박경림이 맡았다. 박보영]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F21%2FHockeyNewsKorea%2F20230621113636513orbq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
