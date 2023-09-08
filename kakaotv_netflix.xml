@@ -4,9 +4,25 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 03:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 09:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 너의 시간 속으로 | 절찬 스트리밍 중]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/440891298?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/440891298?act=clip</guid>
+            <pubDate>Fri, 08 Sep 2023 09:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:49]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F298634477%2Fthumb%2F20230908161726" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] [선공개] 그토록 그리던 죽은 옛 연인을 다시 만난 전여빈 | 너의 시간 속으로]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/440890968?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/440890968?act=clip</guid>
+            <pubDate>Fri, 08 Sep 2023 09:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>07:15]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1489467938%2Fthumb%2F20230908161558" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 뤼팽: 파트 3 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/440859809?act=clip</link>
@@ -157,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/440504949?act=clip</guid>
             <pubDate>Wed, 23 Aug 2023 03:08:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:29]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1760214530%2Fthumb%2F20230823110758" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1760214530%2Fthumb%2F20230823110758" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 마스크걸 | 제작기 영상]]></title>
@@ -165,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/440493928?act=clip</guid>
             <pubDate>Thu, 24 Aug 2023 03:08:49 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:10]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F853172823%2Fthumb%2F20230822203422" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F853172823%2Fthumb%2F20230822203422" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 마스크걸을 향한 처절한 복수의 밤 | 마스크걸]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 08 Aug 2023 03:08:16 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:21]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1274244200%2Fthumb%2F20230807175456" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 지옥 | 시즌 2 현재 제작 중]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/440124368?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/440124368?act=clip</guid>
-            <pubDate>Mon, 07 Aug 2023 09:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:34]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F109153457%2Fthumb%2F20230807123622" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 준호와 호열의 찐한 케미 | D.P. 시즌 2]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/440124366?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/440124366?act=clip</guid>
-            <pubDate>Mon, 07 Aug 2023 09:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:29]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F121314746%2Fthumb%2F20230807123522" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
