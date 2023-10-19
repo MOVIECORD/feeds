@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 09:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 15:09:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 음양사 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/441827626?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/441827626?act=clip</guid>
+            <pubDate>Thu, 19 Oct 2023 15:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:01]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1864199357%2Fthumb%2F20231019193919" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] Geeked Week 2023 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/441789679?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/441459036?act=clip</guid>
             <pubDate>Wed, 04 Oct 2023 09:08:41 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:32]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F169549061%2Fthumb%2F20231004123157" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F169549061%2Fthumb%2F20231004123157" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 우리가 한국 로맨스를 좋아하는 이유]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 25 Sep 2023 09:09:09 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:26]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F675798761%2Fthumb%2F20230926000253" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[그리셀다   공식 티저 예고편   넷플릭스]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/441219615?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/441219615?act=clip</guid>
-            <pubDate>Fri, 22 Sep 2023 09:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:49]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F329873000%2Fthumb%2F20230922153814" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
