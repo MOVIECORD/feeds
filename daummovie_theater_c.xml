@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 09:09:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 15:09:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbb451124b0a973a80800eaa6b0d5323975231dc0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[프레디의 피자가게]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=170512</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=170512</guid>
+            <pubDate>Thu, 02 Nov 2023 09:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0388052993e52d4f58e9f7b378e040f5f87ecc56" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[세계를 뒤흔든 43일]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=174770</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=174770</guid>
@@ -64,28 +72,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87c5332acad3aef928c7a05ad26bdc63948f15b7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[프레디의 피자가게]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=170512</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=170512</guid>
-            <pubDate>Thu, 02 Nov 2023 09:07:39 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0388052993e52d4f58e9f7b378e040f5f87ecc56" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[백지영 콘서트 인 시네마]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=174792</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=174792</guid>
             <pubDate>Fri, 03 Nov 2023 09:07:44 GMT</pubDate>
             <content:encoded><![CDATA[23.11.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0c34a67744c2c11175688d5a9619480ac62e689a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[만분의 일초]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=171280</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=171280</guid>
-            <pubDate>Wed, 01 Nov 2023 09:08:05 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5ed2d8ce25f2d1f4c68d059934141464be56f563" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[어른 김장하]]></title>
@@ -104,12 +96,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3d8e977b5ab452a29bfd28ef9d04c9d516d37678" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[만분의 일초]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171280</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171280</guid>
+            <pubDate>Wed, 01 Nov 2023 09:08:05 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5ed2d8ce25f2d1f4c68d059934141464be56f563" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[이빨요정 비올레타: 요정나라로 돌아갈래!]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163684</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163684</guid>
             <pubDate>Thu, 09 Nov 2023 09:08:37 GMT</pubDate>
             <content:encoded><![CDATA[23.11.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F97c9cd465f255dffc7031e70ae16d451a2ca8cbd" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[빅슬립]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163757</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163757</guid>
+            <pubDate>Thu, 09 Nov 2023 09:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9b5f031504e22d2304c03f32991833882260c561" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[나의 피투성이 연인]]></title>
@@ -134,14 +142,6 @@
             <pubDate>Wed, 08 Nov 2023 09:07:34 GMT</pubDate>
             <content:encoded><![CDATA[23.11.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F96f3ce10252b569f0a0dbed91da8bb6e629d7c77" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[빅슬립]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163757</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163757</guid>
-            <pubDate>Thu, 09 Nov 2023 09:08:37 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9b5f031504e22d2304c03f32991833882260c561" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[무경계]]></title>
