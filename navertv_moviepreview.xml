@@ -4,9 +4,73 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 09:09:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 15:09:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['아줌마' 캐릭터 예고편]]></title>
+            <link>https://tv.naver.com/v/43134958</link>
+            <guid>https://tv.naver.com/v/43134958</guid>
+            <pubDate>Mon, 20 Nov 2023 15:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[8분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231121_104/hqILL_17004924227371NDj4_JPEG/1bcf39f4-87b5-11ee-97c6-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['백지영 콘서트 인 시네마' 라이브 예고편]]></title>
+            <link>https://tv.naver.com/v/43134354</link>
+            <guid>https://tv.naver.com/v/43134354</guid>
+            <pubDate>Mon, 20 Nov 2023 15:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[17분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_285/7UqQe_1700491894862QMP9s_JPEG/ec4785ec-87b3-11ee-bd08-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['인투 더 월드' 2차 예고편]]></title>
+            <link>https://tv.naver.com/v/43133058</link>
+            <guid>https://tv.naver.com/v/43133058</guid>
+            <pubDate>Mon, 20 Nov 2023 15:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[36분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_119/psAQK_1700490763240Ce7dM_JPEG/12669d41-87b1-11ee-9125-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['물비늘' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/43132485</link>
+            <guid>https://tv.naver.com/v/43132485</guid>
+            <pubDate>Mon, 20 Nov 2023 15:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[45분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_73/jpAYx_1700490208785MNWTV_JPEG/e7e38c8e-87af-11ee-9ba4-a0369ffb3258_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['클레오의 세계' 30초 예고편]]></title>
+            <link>https://tv.naver.com/v/43126991</link>
+            <guid>https://tv.naver.com/v/43126991</guid>
+            <pubDate>Mon, 20 Nov 2023 15:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_50/2xqh6_1700485342429h6I0X_JPEG/d3704292-87a4-11ee-97c6-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['리빙: 어떤 인생' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/43126563</link>
+            <guid>https://tv.naver.com/v/43126563</guid>
+            <pubDate>Mon, 20 Nov 2023 15:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_208/iw05U_1700484963776BNbfa_JPEG/9c1b2e08-87a3-11ee-aeb5-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['욕망의 덫' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/43123801</link>
+            <guid>https://tv.naver.com/v/43123801</guid>
+            <pubDate>Mon, 20 Nov 2023 15:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_120/1jtzu_1700482804366n0pIY_JPEG/d806061d-879e-11ee-8fa1-48df37ae3dc4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['금지된 사랑' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/43123251</link>
+            <guid>https://tv.naver.com/v/43123251</guid>
+            <pubDate>Mon, 20 Nov 2023 15:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_218/tejyi_1700482260895dpfJg_JPEG/be22c910-879d-11ee-8891-80615f0bce16_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['극장판 우당탕탕 은하안전단: 진정한 용기!' 은하안전단과 함께하는 안전 지침 영상]]></title>
             <link>https://tv.naver.com/v/43066010</link>
@@ -132,7 +196,7 @@
             <link>https://tv.naver.com/v/42947640</link>
             <guid>https://tv.naver.com/v/42947640</guid>
             <pubDate>Thu, 16 Nov 2023 15:08:32 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231116_4/4RKHe_1700128606669p1W5e_JPEG/437b2ae9-8466-11ee-ab5a-505dac8c35ff_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -182,70 +246,6 @@
             <pubDate>Thu, 16 Nov 2023 03:09:01 GMT</pubDate>
             <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231116_57/8sU2s_1700101581546jTLNP_JPEG/4a6d451f-8427-11ee-92d9-80615f0c46b2_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['백남준: 달은 가장 오래된 TV' 런칭 예고편]]></title>
-            <link>https://tv.naver.com/v/42918321</link>
-            <guid>https://tv.naver.com/v/42918321</guid>
-            <pubDate>Thu, 16 Nov 2023 03:09:01 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_194/O8vBd_17000992911008K6FV_JPEG/d654c247-8421-11ee-8f45-80615f0c465c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['엘리자벳과 나' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/42882373</link>
-            <guid>https://tv.naver.com/v/42882373</guid>
-            <pubDate>Wed, 15 Nov 2023 09:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231115_147/hHkMr_1700034793875t4jRN_JPEG/6db6e6c5-838b-11ee-8f91-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['쏘우 X' 순한맛_메인예고편]]></title>
-            <link>https://tv.naver.com/v/42874818</link>
-            <guid>https://tv.naver.com/v/42874818</guid>
-            <pubDate>Wed, 15 Nov 2023 09:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231115_289/JDuRy_1700027763471YgrjG_JPEG/fb2f6544-837a-11ee-b864-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스노우 폭스: 썰매개가 될 거야!' 북극 수호대 특별영상]]></title>
-            <link>https://tv.naver.com/v/42873870</link>
-            <guid>https://tv.naver.com/v/42873870</guid>
-            <pubDate>Wed, 15 Nov 2023 09:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231115_138/FlFku_17000268749861igJA_JPEG/4a07ca20-8379-11ee-9371-48df37e2c12c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['트롤: 밴드 투게더' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/42872730</link>
-            <guid>https://tv.naver.com/v/42872730</guid>
-            <pubDate>Wed, 15 Nov 2023 09:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231115_169/3Jaj1_1700025813830TcIdE_JPEG/3ea9d59c-836f-11ee-ab5a-505dac8c35ff_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['5시부터 7시까지의 주희' #마음챙김 영상]]></title>
-            <link>https://tv.naver.com/v/42868117</link>
-            <guid>https://tv.naver.com/v/42868117</guid>
-            <pubDate>Wed, 15 Nov 2023 09:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231115_274/0GMWP_1700020807188APgtu_JPEG/ee5d7bcd-836a-11ee-9178-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['조이랜드' 30초 런칭 예고편]]></title>
-            <link>https://tv.naver.com/v/42867670</link>
-            <guid>https://tv.naver.com/v/42867670</guid>
-            <pubDate>Wed, 15 Nov 2023 09:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231115_248/3IBsJ_1700020173488Kaz6x_JPEG/c08684a4-8369-11ee-b893-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['참을 수 없는' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/42866110</link>
-            <guid>https://tv.naver.com/v/42866110</guid>
-            <pubDate>Wed, 15 Nov 2023 09:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231115_235/Ar3p1_1700018165529fwPpL_JPEG/dd43f33b-8364-11ee-9178-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
