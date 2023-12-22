@@ -4,17 +4,9 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 03:09:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 09:09:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[류이치 사카모토: 오퍼스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=173019</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=173019</guid>
-            <pubDate>Fri, 15 Dec 2023 09:07:54 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1ad534de164163d7be3f72aed0e220803a3b647a" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[도티와 영원의 탑]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=174536</link>
@@ -32,12 +24,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd7a11174762b8d118e225f9aa0c77356243bd766" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[길위에 김대중]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=174676</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=174676</guid>
-            <pubDate>Thu, 14 Dec 2023 09:08:04 GMT</pubDate>
-            <content:encoded><![CDATA[24.01.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6995658a64157d6f100879eb73ea2e0be1f6f9c2" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[류이치 사카모토: 오퍼스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=173019</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=173019</guid>
+            <pubDate>Fri, 15 Dec 2023 09:07:54 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1ad534de164163d7be3f72aed0e220803a3b647a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[인투 더 월드]]></title>
@@ -46,6 +38,14 @@
             <pubDate>Tue, 19 Dec 2023 15:07:54 GMT</pubDate>
             <content:encoded><![CDATA[24.01.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1f54b880c3f8d0b778020beffe7a167373e212f0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[길위에 김대중]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=174676</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=174676</guid>
+            <pubDate>Thu, 14 Dec 2023 09:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[24.01.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6995658a64157d6f100879eb73ea2e0be1f6f9c2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스즈메의 문단속]]></title>
