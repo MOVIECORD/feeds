@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Apr 2024 03:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 09:10:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 곳에서 만난 기생생물과 조력자, 그리고 추격자 | 기생수: 더 그레이 | 넷플릭스]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/445863445?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/445863445?act=clip</guid>
+            <pubDate>Mon, 08 Apr 2024 09:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:21]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F693482708%2Fthumb%2F20240408133211" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 기생수: 더 그레이 | 동족의 탄생]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/445858608?act=clip</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F43267373%2Fthumb%2F20240408093845" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 손대지 마. 그거 내 거야.🔫 기생생물을 처단하는 이정현 | 기생수: 더 그레이 | 넷플릭스]]></title>
+            <title><![CDATA[손대지 마. 그거 내 거야.🔫 기생생물을 처단하는 이정현 | 기생수: 더 그레이 | 넷플릭스]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/445806254?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/445806254?act=clip</guid>
             <pubDate>Fri, 05 Apr 2024 15:08:23 GMT</pubDate>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/445466194?act=clip</guid>
             <pubDate>Mon, 25 Mar 2024 03:10:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:20]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F451383808%2Fthumb%2F20240322181027" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F451383808%2Fthumb%2F20240322181027" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 드디어 시작된 팀전, 미로 속에서 점령지를 차지하라 | 피지컬: 100 시즌2]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 15 Mar 2024 09:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:08]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2047360999%2Fthumb%2F20240315164741" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 시티헌터 | 공식 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/445297766?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/445297766?act=clip</guid>
-            <pubDate>Fri, 15 Mar 2024 09:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:26]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1921025107%2Fthumb%2F20240315133403" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
