@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-05-11T03:11:09.554Z</updated>
+    <updated>2024-05-11T09:09:50.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“강동원 문화재로 지정해야” VS “유재석 뿔테 안경 박물관으로”]]></title>
+        <id>https://m.entertain.naver.com/movie/article/468/0001059293</id>
+        <link href="https://m.entertain.naver.com/movie/article/468/0001059293"/>
+        <updated>2024-05-11T09:08:27.242Z</updated>
+        <content type="html"><![CDATA[강동원, 유재석. 사진 | 스포츠서울DB 유재석이 배우 강동원과 만난다. 11일 유튜브 채널 ‘뜬뜬 DdeunDdeun’의 ‘핑계고’에는 다음주 예고편이 공개됐다. ‘동떤남자 with 명예 동생들’이라는 영상에는 정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[실험이냐 기만이냐... 전주영화제에서 만난 이 영화에 든 의문]]></title>
         <id>https://m.entertain.naver.com/movie/article/047/0002433192</id>
@@ -24,7 +31,7 @@
         <id>https://m.entertain.naver.com/movie/article/028/0002688941</id>
         <link href="https://m.entertain.naver.com/movie/article/028/0002688941"/>
         <updated>2024-05-11T03:09:33.872Z</updated>
-        <content type="html"><![CDATA[주일우의 뒹굴뒹굴 만화 괴수8호 화제의 다큐멘터리 ‘학전 그리고 뒷것 김민기’. 다큐멘터리에서 보여준 옛날 장면 어딘가엔 보이진 않지만 나도 있었을 것이다. 그리고, 함께 그의 노래를 불렀을 것이다. 뭉클함보다는 한]]></content>
+        <content type="html"><![CDATA[화제의 다큐멘터리 ‘학전 그리고 뒷것 김민기’. 다큐멘터리에서 보여준 옛날 장면 어딘가엔 보이진 않지만 나도 있었을 것이다. 그리고, 함께 그의 노래를 불렀을 것이다. 뭉클함보다는 한 시대가 지나갔다는 쓸쓸함이 더]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['범죄도시4', 개봉 17일째 912만 돌파… 1000만 돌파 임박]]></title>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/movie/article/022/0003931941"/>
         <updated>2024-05-10T15:07:20.635Z</updated>
         <content type="html"><![CDATA[제작을 끝낸 후 개봉 시기를 잡지 못하던 고 이선균 배우의 유작 ‘행복의 나라’가 오는 8월 관객과 만난다. 그간 ‘배우 리스크’로 공개가 미뤄졌던 작품들이 최근 조심스럽게 개봉하는 모양새다. 배급사 NEW는 10일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특집] 경력을 초월하는 매력, 도미닉 세사]]></title>
-        <id>https://m.entertain.naver.com/movie/article/140/0000052668</id>
-        <link href="https://m.entertain.naver.com/movie/article/140/0000052668"/>
-        <updated>2024-05-10T15:07:20.640Z</updated>
-        <content type="html"><![CDATA[그 얼굴과 이름은 단 한줄의 필모그래피, &lt;바튼 아카데미&gt;로 세상에 알려졌다. 알렉산더 페인 감독이 촬영지로 고른 학교에 도미닉 세사가 재학 중이었다는 우연은 영화가 공개된 이후 운명적 사건 같은 이야기로 돌아선다.]]></content>
     </entry>
 </feed>
