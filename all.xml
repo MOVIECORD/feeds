@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jan 2025 15:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jan 2025 03:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4lic9rwolm28xyevzhv2bno%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33294246973%26signature%3Dt5R97G10GZdBDMV%252Fiq%252BSS8zlqHs%253D%26ts%3D1737338173%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 《중증외상센터》 프로덕션 비하인드 영상 | 중증외상센터 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/452652824?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/452652824?act=clip</guid>
+            <pubDate>Wed, 29 Jan 2025 03:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:32]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F130468105%2Fthumb%2F20250129064352" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] [미공개 클립] 셋이 가는 천국도? 두 남자 사이의 해린 | 솔로지옥 시즌4 (카카오TV ─ 넷플릭스)]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/452630868?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/452630868?act=clip</guid>
@@ -408,12 +416,28 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1175553985%2Fthumb%2F20250122181156" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 추영우 잡도리(?)하는 두 남자 | 중증외상센터 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/452492479?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/452492479?act=clip</guid>
+            <pubDate>Wed, 29 Jan 2025 03:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:16]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F916559473%2Fthumb%2F20250129060543" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] “여기 네 구역 아니고 내 구역이라고.” 주지훈 & 추영우의 강렬한 첫만남 | 중증외상센터 (카카오TV ─ 넷플릭스)]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/452492467?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/452492467?act=clip</guid>
             <pubDate>Fri, 24 Jan 2025 09:10:55 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:13]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1308624343%2Fthumb%2F20250123144955" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 위급 상황에도 주지훈에겐 수술 못 맡기겠다는 윤경호 | 중증외상센터 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/452492449?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/452492449?act=clip</guid>
+            <pubDate>Wed, 29 Jan 2025 03:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:55]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1851121784%2Fthumb%2F20250124102109" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 엑스오, 키티 | 지난 줄거리 (카카오TV ─ 넷플릭스)]]></title>
@@ -469,7 +493,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/452397003?act=clip</guid>
             <pubDate>Fri, 17 Jan 2025 03:12:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:14]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1494375784%2Fthumb%2F20250117102013" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1494375784%2Fthumb%2F20250117102013" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 취중 진실게임 시작🔥| 4화 클립 | 솔로지옥 시즌4 (카카오TV ─ 넷플릭스)]]></title>
@@ -477,7 +501,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/452385198?act=clip</guid>
             <pubDate>Thu, 16 Jan 2025 15:10:41 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:31]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F263950943%2Fthumb%2F20250116184552" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F263950943%2Fthumb%2F20250116184552" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 멜로무비 | 공식 티저 예고편 (카카오TV ─ 넷플릭스)]]></title>
@@ -485,7 +509,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/452384512?act=clip</guid>
             <pubDate>Fri, 17 Jan 2025 03:12:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1771545468%2Fthumb%2F20250116180536" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1771545468%2Fthumb%2F20250116180536" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 약사의 혼잣말: 시즌 2 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
@@ -622,30 +646,6 @@
             <pubDate>Tue, 07 Jan 2025 03:17:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:06]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1894926105%2Fthumb%2F20250106105724" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 솔로지옥 시즌 4 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/452108068?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/452108068?act=clip</guid>
-            <pubDate>Mon, 06 Jan 2025 03:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:38]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F927444878%2Fthumb%2F20250103180803" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 끝까지 포기하지 않은 읏맨, 이용운 | 12화 클립 | 최강럭비: 죽거나 승리하거나 (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/452084186?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/452084186?act=clip</guid>
-            <pubDate>Thu, 02 Jan 2025 09:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:10]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1872978204%2Fthumb%2F20250102140644" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘둥글게 둥글게’ 짝짓기 게임을 소개합니다 | 오징어 게임 시즌2 | 넷플릭스 (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/452080855?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/452080855?act=clip</guid>
-            <pubDate>Thu, 02 Jan 2025 03:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:27]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1131574199%2Fthumb%2F20250102104956" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<말할 수 없는 비밀> <벌집의 정령> 등 씨네21 20자평 (씨네21 ─ 20자평)]]></title>
